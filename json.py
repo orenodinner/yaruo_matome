@@ -38,7 +38,7 @@ def main():
         print("指定されたフォルダに.txtファイルが見つかりませんでした。")
         return
 
-    json_file_path = os.path.join(folder_path, "folder_structure.json")
+    json_file_path = os.path.join(folder_path, "yaruo.json")
     with open(json_file_path, "w", encoding="utf-8") as f:
         json.dump(tree, f, ensure_ascii=False, indent=4)
 
