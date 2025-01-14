@@ -1,0 +1,1311 @@
+<div class="article">
+
+
+
+
+
+
+　　　　　小ヽ　　　 　 ′　|　　　　　　 |　　　| 　 　 |ヽ::ﾉ:::|
+　　　　//|:| 〉〉　　|　 |　　|.l 　 　 　 　 |　　　|　　　 |　￣|:|
+　　　.//厶'イ | 　 |　 |　　| |　　　　　　|　　　|　　　 |　　 |:||
+　　 //' |:|　　 | 　 |　 |　　|｜　　 　 　 |　　　|　 ,　/|　　 |:| !
+　 .//　 |:|　　 |、　|　 ヽ　 |ハ　　　　|/| 　 / ! / /　|　　 |:| |　　　　　　　　　　　　　　　本年は泳ぐやる夫シアターをご愛顧頂き
+　// |　:|:|　　｜ヽ l＼ l＼ ヽ ヾ　　 /　|　/　｣'_/　/|　　 |:|｜　　　　　　　　　　　　　　　真にありがとうございました
+　/　|　 |:|　　丁￣,.ｨ≠ﾐk＼l/ ＼＼ / l/ｨ=≠/／ /　　ｌ|::|　l
+　　｜　|:|ﾍ.　　ヾ=代〃 :ﾊヾ ｀ 　＼､ "f〃下:ﾊ>./　　 ハ:〉　l
+.　　l 　 |:|　丶 　ヽ Vﾍ:::j.|　　　　 　 　 |rﾍ::j.ﾘ 'ﾞ/ 　 ／　|　　 |
+　　|　　ﾚ'　|　＼　＼ゝ-‐'　　　　, 　 　 ゝ‐-'　/　／　　｜　　 l
+.　 l　　　　 |　　　ト､ ＼ 〃〃 　　　　〃〃 .∠ イ 　 　 ∧　　　l
+　/　　 　 / l　 　 | ト￣　　　　 r‐‐､　　　　／　 |　　　 ′ヽ
+/　　　　/ 　 l　　 | |　 ｀ 　 、　　-‐　　 　 ´　　 ;　　　/
+　　　　/　　　'. 　 V　　　r┴＞　-　＜Ｌ.__　　 /　　 /
+.　　　/　　 　 ヽ　　ヽ r::'::::／ ｲ:ハ:ﾄ.＼::::::::> /　　 /
+　 　/　　　　　　＼フ⌒!::〈:〈:::::|:|　|:|:〉::〉＞ｰヽ{／
+――--　、　　 /　　／　｀ヾニﾉ　ヾニ/　/⌒ヽ　　∨
+　　　 　 　 　 ./ _,／ 　 ／¨ヽ.　　　 ./〃 ＼　　＼_ ヽ
+　　　　　　　 .{　　　_ イ　 ／ ヽ.　　/⌒ヽ　　`ｰ　　　 }
+
+
+
+
+
+
+
+
+
+　　　　　　　 イ7７ス __/: : : ｀ヽ==ー-､
+　　　　/7==zﾉ､ ィ´. : : : : : : : : : : : : : : ヽf7､ rﾍﾍﾍ __z==､
+　　　 /.:::::::::::ヾ/. : : : :ﾊ: : : : :ハ: : : :∧: :∨ヽししし／.:::::::::ヽ
+　　／.:::::::::::::::/. : : : :/__V : : :| ‐-- ､ ∧: :∨ﾐ／／.::::::::::::::::::::＼　　　　　　　　　　　　　　　　　　　気づけばＨＩＴ数も100万を突破しており
+　/.::::::::::::::::::/. : : : ::ｨ´　 Ｖ:: ::|　　　 ∨ }: :.:∨ /.::::::::::::::::::::::::::::::::ヽ　　　　　　　　　　　　　　　　　　本当にありがたき幸せです！
+./.:::::::::::::::::://: : : ::/　__　 ヽjV　x=＝z∨: : ::∨|:::::::::::::::::::::::::::::::::::::::.
+|::::::::::::::::::::i /: : : ::{x=＝z　 ,　　　　　 　 〉: : : :〉､＿＿_:::::::::::::::::::::::::::.　　　　　　　　　　　　　　　　　こうなりゃ次は目指せ1000万！！
+{:::::::::::::::.....{ﾊ: : : ::ﾊ , , , ,　　　 __　 ' ' ' '∧: : :∥ ｀ヽ: ::Z＝==z:::::::::::::}
+|:::::::::::::::::::::::..V: : : :{　　　 ﾏ　　　}　　　/ﾊ: : :/　　 イ:::::::::::::::::::::::::::::/
+ﾄ､:::::::::::::::::::::::∨: : :ﾄ=tz:::⊃ __ ノ　　 ムイj:./ __ムi::::::::::::::::::::::::::::::/ヽ
+.　〉､::::::::::::::::://ヽjﾊ　 ｀ヽ　 __　 __イ｀ヽ.／ 　 　 | i::::::::::::::::::::::::／: : : ::
+　{: : :｀ヽ:::::://　　　ヽ/⌒ ＞＜´　　 ／　　　 　 | i::::::::::::::::::／: : : : : :.:
+./. : : : : ::ヽ:{ {__　　　〈　 /::乃　　　 /　　　　　／｀ー 、__／: : : : : : : : :
+: : : : : : : : : /　 ｀ヽ/ハ ム:::::{　 　 /　　　 __イ　　　　　 ヽ: : : : : : : : : .:
+: : : : : : : : /　　　ノ 　 /::::::〉 ﾄ､__/{　　　　　,′　　　　　 　 ､: : : : : : : .:
+: : : : : : :.:/　　　,′　/::::::/　　　　 ∨　　　/　　　　　　　　　＼: : : : : :.:
+: : : : : : :/　　　 {　 _/:::::/　　　　　　∨　 /　　　　　　　　　　　 ヽ: : : : :
+: : : : : :/　　　　 Y/::√ }}　｀ヽ__　　　∨/　　　　　　　　　　　　　　､: : :
+: : : : :/　　　　　 /::/　∥　　　　　　　 /　　　　　　　　　　　　　　　 ＼:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　 　 　　　＿＿＿_
+　　 　　　／　　 　 　＼　　　　　　　　　　　　　　　　最近は拍手やコメントくださる人たちも増えて
+　　　　／　 _ノ 　ヽ､_　 ＼　　　　　　　　　　　　　　 本当に励みになります　
+　　 ／　 /⌒)　　　⌒ﾟo　 ＼　　　　　　　　　　　　　スパムコメントですら嬉しかったあの頃を思うと……！
+　　 |　　/　/（__人__）　 　 　 |
+　　 ＼/　/ 　 ｀ ⌒´ 　 　 ／
+　　　　　　泳ぐ管理人
+
+
+
+
+
+
+
+　　　　　　　　 ／￣￣＼
+　　　　　　　／　　 _ノ　　＼　　　　　　　　　　　　頂いた意見やご要望にはなるべくお応えしたいのですが
+　　　　　　　|　　 　（ ⌒）（⌒）　　　　　　　　　　　いかんせん管理人のスキル不足で反映させるのに時間がかかったりしますが
+　 　 　 　 　 |　　 　　（__人__）　　　　　　　　　　　気長にお待ちいただけるとありがたいです
+　　　　　　　 |　　 　　 ｀ ⌒´ﾉ
+　 　 　 　 　 ,|　　 　　　　　 }
+　　　　 　 ／ ヽ　　　　　　 }　　　　　　　　　　　　過去記事の対処方法が分からなくて放置してしまっていたＡＡずれなども　
+　　　　　く 　く ヽ　　　　 ノ　　　　　　　　　　　　　できる限り早いうちに直したいと考えています
+　　　　 　 ＼　`' 　　　 く
+　　　　　　　 ヽ、　 　 　 |
+　 　 　 　 　 　 | 　 　 　 |
+
+
+
+
+
+
+
+　　　　　　　, =＝薔 ＝=､- ､
+　　　　　　/ , -―― - ､　 ＼ヽ
+　　 　 　 /'´　　　　　　　＼ _jlﾍ',　　　　　　　　　　　　　　　　例によって相互リンク、相互ＲＳＳはいつでも受付中よぉ
+　　　　　i' 　l　| l　　l 　l ／{に{｣|',　　　　　　　　　　　　　　　　ご意見、ご要望、ＡＡずれの報告などいつでもメールフォームかコメント欄でお気軽に！　
+　　　　　! |､:l　l |l 　 ｌ／l　l Tj小〉! 　 .:┐　　　　　　　　　　　　ＴＯＰ絵も随時募集中なので奇特な絵師様のご応募をお待ちしているわぁ
+　　　　　ｌ l　ト _ヽ丶, ｨ￢jｲ〈j | l: |／　｜
+　　　　　ヽﾄl'´|　!　 　:!_丿 !　 ｌ |:/　　 /
+　　　　　　ﾄ､l└' 　＿　r－､　l l/　 ／
+　　　　　　l　l＼　 ヽ ﾉ ﾊ　｜l /　:/',
+　 　 　 　　!　l　|＞ｒ=ｔｫ=|　 l_/_, -‐､',
+　　　　　　 |　,!: |/└ｲ!ﾄ┤　 / , -－'i|　　　　　　　　　　　　　最近返信がちょっと遅れ気味になっちゃってるけどご勘弁を
+　　　　　　 l/　Vー‐{｣l｣/{　　V , -－ﾍZ
+　　　　 　 /　 /　 薔　 .]ハ　 Ｌ|　r=　|〔
+　 　 　 ／　　l,.＿＿___〔_ ハ.　└'　／ｒ」
+　　　　{　　　ﾉ￣￣￣｀ヽ匕 こ二´ 「 ン
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　 _,,..-‐v―‐--､ , ｸﾍ
+　　　　　　　　　　　　 　 , =､／:::::::::;:':::::_:::::::::<<:「｀ヽ、
+　　　　　　　　　　 　 　 l〔冫:ヾ‐:::::::::::ヘ:::::-､:::ヾヽ :::::＼
+　　　　　　　　　　　　　冫:::::::::::::::::ヾ:::::::::::::::::Vﾉ/:::!:::::::::::ヽ　　　　　　　　　　　　　　　　　　　それではこれが本年最後の記事更新となります
+　　　　　　　　　　　　 /::/:::::::ﾄ､ ::::::|＼_::::::::::::V､__!!、::::::::::ヽ
+　　　　 　 　 　 　 　 /::/!:::::::;L_＼::::l ´>=､:::::::lｒ'rﾆ1!::::::::::::::ヽ　　　　　　　　　　　　　　　　　新年は5日ごろから更新再開の予定ですのでよろしくお願いします
+　　　　　　　　　　　 {::/::|::::::::ﾚ,=、＼!　ﾋ'_ﾄ､:::川jﾚ,ﾊ:::::::::::::::::ヽ
+　　　　　　　　　　　∧!:∧::::::ﾊ,ﾋ〕　　　　　 lVﾍﾞﾗ´　';:::::::::::::::::ヽ
+　　　　　　　　　　 /:::冫::;ﾍ::: ∧　 ' _ _,　　 ルく　　　 !::::::::::::::::::ヽ
+　　　　　　　　 　 /::::::::: /::;!ヽ{_ ＞ ､_　　イﾉL｀ヽ　　　!:::::::::::::::::::ヽ
+　　　　　　 　 　 ,' ::::::::::;:::::! 　 　 　 ,r┘‐‐ '　>､＿　　 l::::::::::::::::::::ヽ
+　　　　 　 　 　 / ::::::::::;::::::!　 ,.-‐ <,ム、　 ／´　　 ヽ　 l:::::::::::::::::::::ヽ
+　　 　 　 　 　 ,′::::::::::::::::!　,′,／/´「:::｀{!　 ､　　　 } 　 l:::::::::::::::::::::ヽ
+
+
+
+
+
+
+
+　　　 　 　 　 ＿＿__
+　　 　　 　 ／_ノ 　ヽ＼
+　　 　 　／ （ ●）　（●）、　　　　　　　　　　　　いやぁ、本当は正月も更新したいんだお
+　　　 ／::::::::⌒（__人__）⌒＼　　　　　　　　　　　でもなにかと忙しくて……
+　　　 |　　 　　　|r┬-|　　　 |
+　　　 ＼ 　 　 　 `ー'´　　／
+⊂⌒ヽ　〉　　　 　　　 ＜´/⌒つ
+　 ＼　ヽ　 /　　 　 　 　 ヽ　/
+　　　＼_,,ノ　　　　　　|､＿ノ
+　　　　　　泳ぐ管理人
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　 　 ＿＿＿_　　　 　 　 　 　 　 　 　 　 　 　 　 ||::l |:::::||　|
+　　　　　　　 　 　 　 　 　 ,.　' ´, 　 ' ´￣￣｀ヽ､　　　　　　　 　 　 　 　 　 　 ,ﾘ::l |:::::|ｌ　|
+　　　　 　 　 　 　 　 　 ／,.. : ´　／｢厂l⌒ヽヽヽヽ、　　　　　 　 　 　 　 ┌彳.:::∪::::|Ｌ│
+　　　　　　　　　　　 ／／／／ .:/l ｌ | :lｌ　:ｌ: ｌ.ｉ l:.ｉ . 丶　　　　　　　　　 　 ＼|ｌ : : : : : : | |
+　　 　 　 　 　 , .:,: ´／／／.: .:./ :ｌ | | :ｌl　:ｌ: :ｌ:ｌ l:.ｌ i; :. ヽ.　　　　　　　　　 　 |l ∩:::厂〉| |
+　　　　　 ,.　'´／／//, ', ' ／ 八/ｌ | | :|l　:|:　l:ｌ l:.| l;:i　:. ',　　　　　　　　　　 ||::l |::::::/ ﾉﾉ
+　　　　　 　 .:'／　//ｲ/／ //　, -‐ﾚ| 八/|: /l:ｌ l:.|_|;,ｌ ; :. ',　　　　　　　　 　 ||::l |:::/ //
+　　　　　 ,. '´　　//;儿._、〃イ,ｒｯｒ┐l/ ,' .:l/〃, '⌒ド! i ::. '.　　　　　　　　　 ||::l |::l　l l
+　　 　 ／　　　　'/;'爪ｒｯヽ　　 `''′　 / //〃/ 〈ノ川 :ｌ ::. '. 　 　 　 　 　 　 ||::l |::l　l l
+　　　　　　　　　 |//ﾚ|`´/　　　　 　 / /∧乂ヽ _,ノﾉ八ヽヽヽ　　 　 　 　 　 ||::l |::ヽヽヽ
+　　　　　　 　 　 j/ ｌ ﾊ 〈　,..　　　　/／　 ∧ヽヽヽヽ ヽヽヽＶ　　　　　　　_ノ||::l |:::;.-､::..',　　　　　　　　　　　　　　　　　　　　おい、お前
+　　　　　　　 　 ,/　|ノハ.｀ _,､_　 　 　 　 ｲ/ﾍ ヽヽ＼＼ ∨ jl　　　　　　　＼|l ∪// 〉〉:.ﾄ､＿_　　　　　　　　　　　　　　　　　私を積みゲーにするつもりか
+　　　　　　　 ／　　|/〃∧'こ⌒　　　　 /ﾚ/　〉） 〉） 〉 ）/ 〃　　　　　 　 　 |l .::// 〈〈_ :|　 lフ′
+　　　　　　　　 　 ノﾚ'　 |/ ﾍ 　 　 　 ／//　//／／／八 || 　 　 　 　 　 　 乂ヽ｀二ノ :| ∠、
+　　　　　　　　　 　 ′　　 , 个ｰ=≦＿_从_/／／／// ﾉ〉ﾘ　　　 　 　 　 　 ∠≧=‐┬┴┐ l
+　　　　　 　 　 　 　 　 　 〈 .:.乂 |｢ |｢ |｢ |｢（（ （ （ 〈〈〈〈 〈＿＿_　　　　　 　 〈〈厂￣| |　　│ |
+　　　 　 　 　 　 　 　 　 　 ＼: .＼.:|| :|| :|| :||＼＼＼＼乂二二、ヽ、《]ﾄ､　　 | |　　 |人　 〈 《＼　　　　　 _,ｲ[》
+　　　　　　　　 　 　 　 　 ∠ﾉl :. : .ヾ 儿儿儿儿＼ヽ＼ヽ 八 　 ＼ ＼ヽ[＼_人ヽ　　＼ヽ、＼＼》　 　 ／｀厂
+　　　　　　　　 　 　 　 ／⌒| |:.:. : : : .＼￣｀¨¨¨丁｢|〉〉∨ﾉﾉ 　 . : :>　,>､＼__/＼ヽ、　 ＼ヽ　＼ヽ,.＜__／
+　　　　　 　 　 　 　 ,　'⌒ヽ ! |.:.:. : : : : . ＼ 　 　 | | |从/// . : : ／／＼__〉 ＼__《＼ヽ、　 |│　__ヽヽ／
+　　　　　　　　　 ／　 　 　 ト└───＝=≧､ │| |乂// .: :／／＼＿》匚＼　 ＼_》 〉__ |│ 《,》│|
+　　　 　 　 　 ／　　　　　 .:| 厂￣卩[卩￣＼＼ヽ | |/// : :/ /＿_　 ＼＿》|_/　 　 | ｢ 《,》|├‐┌┘|
+　　　　　　　/　 　 　 　 　 :| l＿_　｢凵」 　 ＿＼＼| |// : :/ /￣＼＼＿＿》 〉　 　 |,二二>'´￣｀ヽ匚＼
+　　　　　 　 {　　　 　 　 　 〈〈￣＼＿＿／／￣∨Ⅵ l : :/ /　　　 ｀| 冂 l ∨〉　　　ヽ＿从　（_）　从┘└─┐
+　 　 　 　 　 ',　　　　　　　　〉〉　　｀￣| 冂 l　 　 ∨ ﾚ| :/ /　　　 　 l_凵」　∨〉　　　 丁└≧==≦ ￣厂￣￣
+　　　　　　　　　　　　　　　　　　　　電光の騎士　　ライトニングさん
+
+
+
+
+
+
+
+
+　　　　　　,,､,､､,,,';i;'i,}､,､
+　　　　　　 ヾ､'i,';||i !｝ 'i, ﾞ〃
+　　　　　　　　ﾞ､';|i,!　　'i i"i,　　　　　　 ､__人_从_人__/し､_人＿入
+　　　　　　　　 `､||i　|i　i　l|,　　　　　　､_）
+　　　　　　　　　 ',||i　}i |　;,〃,,　　　 　_）　タスクフォース１４１の任務も待ってるよ～っ！！
+　　　　　　　　　 .}.||||　| ! l-'~､ミ　　　　｀)
+　　　　　　　　 ,＜.}||| il／,‐'liヾ;;ミ　　　'´⌒V＾'^Y⌒V^V⌒W^Y⌒
+　　　　　　　　.{/ﾞ'､}|||/／　 .i| };;;ミ
+　　　　　　　　Y,;-　　 ｰ､　　.i|,];;彡
+　　　　　　　　iil|||||liill||||||||li!=H;;;ﾐミ
+　　　　　　　　{　 く；ｧｿ　 '';;,;'' ﾞ};;彡ﾐ
+　　　　　　　　 ﾞi　[`'''~ヾ. ''~ ||^!,彡ミ　 　＿,,＿＿
+　　　　　　　 　 ﾞi　}~~　｝ ';;:;li,　ﾞiミミミ=三＝-;;;;;;;;;''
+,,,,-‐‐''''''}￣~フハ,“二ﾞ´ ,;／;;'_,;,7''~~,-''::;;;;;;;;;;;;;'',,=''
+　;;;;;;;;''''/_　 / | | `ー-‐'´_,,,-',,r'~`ヽ';;:;;;;;;;, '';;;-'''
+'''''　　,r'~ `V　ヽニニニ二､-'{ 十　）＿＿;;;;/
+　　　　　　　　マクタビッシュ大尉
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　 ,.　-　.─ ─ ─-　､　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　',||i　}i |　;,〃,,
+　　　　　　　　　　　 /: : : : : : : : : : : : : : : : :ヽ　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　 　　　　}.||||　| ! l-'~､ミ　
+　　　　　　　 　　　/::/: : :/: :/: : : :: : : : : : : :::',　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　 　　　＜.}||| il／,‐'liヾ;;ミ　
+　　　　　　　 　 　 | / /,': i : : : /: :/: : : ハ: : ::i　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　 　　.{/ﾞ'､}|||/／　 .i| };;;ミ
+　　　　　　 　 　 　 /: :/: :/: :/: :ハ: : ／　 ヽ:::::|　　　　　　　ゆっくりプレイしてね！！　　　　　　　　 　　Y,;-　　 ｰ､　　.i|,];;彡
+　　　　　　　 　 　 |: /::/: :/ ﾚk≧ V　 ≦ﾊ |::::|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　iil|||||liill||||||||li!=H;;;ﾐミ
+　　　　　　　 　 　 ﾚﾚ /::/ 　(ﾋ_]　　　 ﾋ_ﾝ　|:::|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　{　 く；ｧｿ　 '';;,;'' ﾞ};;彡ﾐ
+　　　　　　　 　 　 　ﾚﾚ.i　　"　　,＿__,　　" l::/　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　ﾞi　[`'''~ヾ. ''~ ||^!,彡ミ　　
+　　　　　　　 　 　 　 ＿ヽ　　　　ヽ _ﾝ　　 /)))＿　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　ﾞi　}~~　｝ ';;:;li,　ﾞiミミミ=三　
+　　　　　　　 　　　＿ヽ　 ＞,､　 ______ , イ((((　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ハ,“二ﾞ´ ,;／;;'_,;,7'
+　　　　　　　　　　　　| |＼　ヽ;;;;;;;;;;#;;;;;;;;;/) )))/| |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 / | | `ー-‐'´_,,,-',,r'~`ヽ';;:;;;;;
+　　　　　　　　　　　　　　　ライトニングさん　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　マクタビッシュ大尉　
+
+
+
+
+
+
+
+
+　 　 　＿＿＿＿
+　 　 / ⌒　　⌒　 ＼
+　　./( ―） （　●）　 ＼
+　 /::⌒（_人＿）⌒::::: 　|　チラッ
+　 |　　　 ー　　　　Ｕ 　.|
+　 ＼ 　　 　　　　　　／
+　　　　ＧＫ管理人
+
+
+
+
+
+
+　　　　　　　　 .＿＿＿_　　 　.i＾ﾏ'ﾌ
+　　　　　ﾞ　　.／⌒　　⌒＼　　ﾚ' /
+　　 　 　　／（ ―） 　（―） .／ ,ｲ ヽ、　　　　　　　　　　　　　　その……忙しくて……
+　　　 　／　　　 .（__人__） .／ ､ /ｰﾍ_,.ヽ,
+　　　　 |　　Ｕ　 .´ ⌒｀ ./　､＼｀ヽ´__　.`t
+.　　　　 ＼　　　　　　.../　　 ヽ r'´_}__, 　 {
+　　　　　　　管理人／　　{'T /`7/ _,ノ　 !
+　　　　　　　　　　.-'　　 　 ｀7'／ヽY´　　 |
+
+
+
+
+
+
+
+
+　　　　　　　　　 　　　　 　　￣￣￣￣-----________ 　＼　|　/　　--￣
+　　　　　　　　　 　　　----------　　 ______-------　 　 。←管理人
+　　　　　　　　　 　 _______---------〆 　　 ヽ￣￣￣￣　　　　　　　　　　 ﾝ
+　　　　　　　　　　　　　　　 　　　　 〈/　　　　 ｌ　　　／　/　|　　＼　　　　イ
+　　　　　　　　　　　　　　　 　　　 　/ ｲ /ｌ / ｌﾘ 　 ／　 ./　 |　　　 ＼　 ／
+　　　　　　　　　　　　 　　　　 　＿// /ｌ / ｌﾚ　 ／　 　/　　|　　 　　 ／|
+　　　　　　　　　　　 　　　　　 ぅ「:::/ノｌﾊﾙ/:｣ 　　 　　/　 　 |　　　　／ .|
+　　　　　　　　　 　　 　 　 　 ／フ ｲ::::::::::/'　　　　 　/　　　 |│　／|
+　　　　　　　　 　 　　　「!.,.／ ／／:::/ |:::ﾍ　　 　　 /　　　.─┼─　|
+　 ＜二二二二二二二ｌｌ)　 ﾉ／:†:/ .!　|:::::〉　 　　/　┼┐─┼─
+　　　　　　　　　　　 　 ｌ」^^^'ｌ:::::::ハ, | 　|:/　　　 /.　 ││　.│
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　というわけで来年も　　　　　　　　　　　　　　泳ぐやる夫シアターを　　　　　　　　　　よろしくお願いしますお　　　　　　　　　　　　……常識的に考えて
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,.:::''::´::￣::`:::.、
+　　　　 　　/＾>》, -――‐‐＜＾}　　　　　　　　　　　　　　／:;: '´Ｔ 丁l `ヽ::}　　　　　　　　　　　　　　　　　＿＿＿_
+　　　　 　./:::::::/,≠´:::::;::::::::::::::ヽ.　　　　　　　　　　　　 /{:::/ ｌ |ｌ ﾄ､ ｌ Nﾄｌ iﾊ　　　　　　　　　　　　　　　 ／　　 　 　＼　　　　　　　　　　　　　　　　　　　／￣￣＼
+　　　　　/:::::::〃:::::::::／}::::::::::丿ハ　　　　　　　　　　 　lｄｂ|　ｌ k_ィヽﾚ仁ﾘｌ│　　　　　　　　　　　　　 ／　／　 　＼（ ;:;:;）　　　　　　　　　　　　　　　　／⌒　 ⌒　＼
+　　　　./:::::::::i{l|:::::／　ﾉ:::／　}::::::}　　　　　　　　　　　 | ∧l 　lK◯ 　 ○ｿｲ　　　　　　　　　　　　 ／（ ;:;:;:;:;ﾉ 　 （＝）　 ＼　　　　　　　　　　　　　　 （ へ）（ へ）　　 |
+　　　 /:::::::::::瓜イ ●　´　 ●{:::::ﾉ　　　　　　　　　　　,ｌ 　（ｌ 　ぃ　､_ _　,从|　　　　　　　　　　　　（;:;:;:;;;:;　 （__人__）　　　 .:::::）　　　　　　　　　　　　 　|（人__） 　 　 　 |
+　　　/::::::::::::|ﾉﾍ::{　　ｰ‐ー　 ﾉイ　　　　　　　　 　　　l　　　ヽ ﾄゝ､ __ イﾄ､ﾄ､　　　　　　　　　　　 ／ || 　　　｀ ⌒|||　　　,／　　　　　　　　　　　　　　　| ⌒ ´　　　 　 |
+　　 .|::::::::::::::|　ヽ」＞‐--‐＜::::::|　　　　　　　　　　 　|/≪T ,バ､:文:｀Yﾗ_n　　　　　　　　　　　　/ / |＼／ /　 /ｌ　| ￣　　　　　　　　　　　　　　　　　　|　　　 　　　　|
+　　 |::::::::::::::::|　／　　　　　　ヽ:::|　　　　　　　　　　　 Ｎ≠{〈:::::::〉:;i:::;ﾍ:_;_{__)　　　　　　　　　　 / /__|　 ＼/　/　|　|　　　　　　　　　　　　　　　　　　　　ヽ　　　　　　/
+　　.|::::::::::::::::::|/　/　　　　　　 . |:|　　　　　　　　　　　ヾ≦ﾊＺi::ﾍ;:::〈≠≧　　　　　　　　　　　　ヽ、//////） /　 |　|　　　　　　　　　　　　　　　　 　　　　ヽ　　　　 /
+　　|:::::::::::::::::::{___{　　　　　　 　}_}:|　　　　　　　　　　 　／:::::::ﾊ:::KＸ::ヽ、　　　　　　　　　　　　　 /　￣￣　/　　 |　|　　　　　　　　　　　　　　　　　　　　　.>　　　 <
+　丿::ﾉ::::::|::::::::| ヽ　　　　　　 ﾉ::|:::|　　　　　　　　　　∠::::::::::::{ﾐk::〉Xﾄ::::::＞　　　　　　　　 　_＿/　　)--- ヽ　　　ヽ つ　　　　　　　　　　　　　　　　　　　 |　　　　 |
+く::::::（:::::::人::::::ゝ ヽ._rー‐┐/::ﾉ:::::ゝ　　　　　　　　　　　|:::::::::::｀^^ＫＸヽノ　　　　　　　　　⊂---― 'ｰ----'　　　　　　　　　　　　　　　　　　　　　　　　　 |　　　　 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr size="1"/>
+
+
+
+　　　　　　　　　　１/５追記
+
+
+
+
+
+
+　　　　　 .／　　　　　l;;;|　l;;;;r　,.　　　　　　　　　　　　　　　　　 、ヽ l;;|　 l;;;|
+　　　　　/　　　　　　.|;;;l　|;;;:! '　　　　　　 .l　　　　　　 .,　　　　　 ＼ |;;l　 |;;;!-.、
+　　　　 /　　　　　　zL;| ／　　　　　　 ./　,.!　　　 r　、 ＼　　　　 　 i;;;;!／　　ヽ
+　　　 ./　　　　　　/　／ ..　-　　　　　/／　',　　　l　　｀ ‐ヽ　　　 　 l　　　　　　 ',
+　　　 i　　　　　　,'　　' ´　 /　　　　| /' z=s、',　　 |　／""く｀ヽ.、　　|　　 ＿　 　 i
+　　　|　　　　　　i　　　　　,' 　 ,.i　　l/ 'ﾞ　 　　ヽ　 .l　　,.ｚ.=xヽ　 ＼ レ-く　ヽ,ヽ 、|　　　　　　　　　　　　　　　　　　　みなさん、あけおめことよろ～！
+　　 .l　　　　　　|　　　　　i　 ./ .| 　 |　　　　　　＼ | ./i:::-ｲ::ﾞiヽ＼　 ヽ r‐.,＼ ヽ　＼
+　　 |　　　　　　l　　　　　|　/　 .i',　 l　 z＝=s、　　　　!;::::::::ﾉ　　　ヽ　　!. ヽく´　　　｀ ヽ　　　　　　　　　　　　　　　　本日より泳ぐやる夫シアター、更新再開しま～す！
+　　l　　　　　　 |　　　　　l /　　 ',.l　 |　　　　　　　,　　 r＝´‐ ''' "´　　　ヽ　　｀丶
+　 .|　　　　　　 l　　　　　 !.　　　 ヽ!　|　　　 ,._　　　　_ .ﾞ=,ー― !＝/´￣　"　――　、
+　 l　　　　　　 .|　　　　　　　　　　 .ヽ. l.　　　!-｀　　´- ／　　/.|　/　　　　　　　　　l　＼
+　.|.　　　　　　 l　　　　　　　　＿　　.ヽ lヽ 、 ｀' ー‐　´　 ..　' 　|/　　　　　　　　　　|
+　l　　　　　　　|　　　　　　,　´　　 ヽ.、＼　 ./　　‐ -‐ '/´　　 ./　　　　　　　　　　　l
+　|　　　　　　 .l　　　　 .／　　　　　　 く/-r.'　＼　　 ／i 　　　　　　　　　　　　　　　 |
+
+
+
+
+
+
+
+
+　　　　　 .／　　　　　l;;;|　l;;;;r　,.　　　　　　　　　　　　　　　　　 、ヽ l;;|　 l;;;|
+　　　　　/　　　　　　.|;;;l　|;;;:! '　　　　　　 .l　　　　　　 .,　　　　　 ＼ |;;l　 |;;;!-.、
+　　　　 /　　　　　　zL;| ／　　　　　　 ./　,.!　　　 r　、 ＼　　　　 　 i;;;;!／　　ヽ
+　　　 ./　　　　　　/　／ ..　-　　　　　/／　',　　　l　　｀ ‐ヽ　　　 　 l　　　　　　 ',
+　　　 i　　　　　　,'　　' ´　 /　　　　| /' z=s、',　　 |　／""く｀ヽ.、　　|　　 ＿　 　 i
+　　　|　　　　　　i　　　　　,' 　 ,.i　　l/ 'ﾞ　 　　ヽ　 .l　　,.ｚ.=xヽ　 ＼ レ-く　ヽ,ヽ 、|　　　　　　　　　　　　　　………。
+　　 .l　　　　　　|　　　　　i　 ./ .| 　 |　　　　　　＼ | ./i:::-ｲ::ﾞiヽ＼　 ヽ r‐.,＼ ヽ　＼
+　　 |　　　　　　l　　　　　|　/　 .i',　 l　 z＝=s、　　　　!;::::::::ﾉ　　　ヽ　　!. ヽく´　　　｀ ヽ
+　　l　　　　　　 |　　　　　l /　　 ',.l　 |　　　　　　　,　　 r＝´‐ ''' "´　　　ヽ　　｀丶
+　 .|　　　　　　 l　　　　　 !.　　　 ヽ!　|　　　 ,._　　　　_ .ﾞ=,ー― !＝/´￣　"　――　、
+　 l　　　　　　 .|　　　　　　　　　　 .ヽ. l.　　　!-｀　　´- ／　　/.|　/　　　　　　　　　l　＼
+　.|.　　　　　　 l　　　　　　　　＿　　.ヽ lヽ 、 ｀' ー‐　´　 ..　' 　|/　　　　　　　　　　|
+　l　　　　　　　|　　　　　　,　´　　 ヽ.、＼　 ./　　‐ -‐ '/´　　 ./　　　　　　　　　　　l
+　|　　　　　　 .l　　　　 .／　　　　　　 く/-r.'　＼　　 ／i 　　　　　　　　　　　　　　　 |
+
+
+
+
+
+
+
+　　　　　　　 冫､　　 ゝヽ_ノ´ 'ィ .. __／.:::::ii::::|
+　　　　 　 __/　　ン´　　　　　　　　｀ヽ::::::::ii::::|-､
+　　　　　/ /::::／/　　　　　　　　　　　　､:::ii::::|　|
+.　　　　/ /:::/　/　　　 ,　　 i　　　　　　ハ::ii:::|　ﾄ､
+　　　 / /::::/　/ 　 　 ,′　 :ﾄ､　　　　　　ﾊii:::| / |{
+.　　 /　＼/　ｲ　　　ｲﾄ、　.::|rﾍ　　　　　　 Y´/　|1
+　　 ′′ | / {　　　八jﾊ　:::|　 ∨ ﾄ､　　 ､ ∨　 | |　　　　　　　　　　　　　　　……あれ？
+.　 '　'::::::::{ハ i　　 ｲんﾊ ｀ヽ{　 んz､ ヽ　　/｀ヽ　| |
+　 |　|::::::::::ﾚ 八 　 {弋::ｿ　　　　弋::ｿ｀　　ｲ　 / /|::|
+　 |　|::::::::ｲ　ﾄ､ﾊ ﾄt , , , 　 '　 , , ,　ｲ/ /ﾚ' / / /:|:::|
+　 |　|::::::::ﾊ::::| Vヽヽ　　　　､　　　/／}ﾉﾘ/ / /::::{:::|
+　 |　|::::::|　|:::|　　｀ヽ｀＞､ _　　イj/　 { }∧′.:::::}::::i
+　 |　|::::::|　|:::|　　　　 /八__ ...ィ了　　V　/　.::::::{:::::i
+　 |　|::::::|　|:::| .r'⌒v/　 /=〈　/7〉-‐'⌒/　.::::::::} ::::i
+　 |　|::::::|　|:::|/　　 ﾊ__,ｲ　 ∧ﾚ'/　　 01}　.::::::::{ :::::i
+　 |　|::::::|　| /　 ｝′　 /¨7　 V {　　　　{　 ::::::::} ::::::i
+　 |　|::::::|　|/　/　　　/　/　　　 i　 i　　}　　::::::{ :::::::i
+
+
+
+
+
+
+　　　　　　　Optima　chainge！
+
+　　　　　　*　　　＿＿＿_
+　　　　+　。　／ ＼　　／＼　ｷﾘｯ
+　　 　　　　／　（ー） 　（ー）＼+　。　*
+　　　　　／　　 ⌒（__人__）⌒ .＼
+　　+　。|　　 　　　|r┬-|　　　　|　　+　。
+　　　　　＼　　　　 `ー'´　　　／
+　　　　 　　＼　,,,,　　　　,,, ／　+　。
+　　　　　　 ／　　　　　　　 ＼
+　　　　　／　,､　　　　　　.l>　,>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾐ''"´｀ﾞﾞﾐ
+　　　　　＼　ﾘ　　　　　　 l　<　　　　　　　　　　　　　-　.─ ─ ─-　､　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾐ　＾◇＾ﾐ
+　　　　　　<_/　　　　　　　ト-'　　　　　　　　　 　/: : : : : : : : : : : : : : : : :ヽ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,,,,,,,,,,,,ﾐ,,,,,,,,,,,,,（彡,,,,,,,,,,,,,,
+　　　　　　　ｉ　　　　　　　 l　　　　　　　　　 　　/::/: : :/: :/: : : :: : : : : : : :::',　　　　　　　　　　　　　 ／） 　＿＿＿　　　　　　　　　　（::::::::::::::::::::::::::::::::::::::::::::::::::）
+.　　　　　　 l　　　　　　　　l　　　　　　　　　　　| / /,': i : : : /: :/: : : ハ: : ::i　　　　　　　　　　　　／／／）:::::::::::::::::::::::ヽ　　　　　　　　ヽ::::::::::::::::::::::::::::::::::::::::::::::/
+　　　　　　 ｌ　　 ､__.　　　　ｌ　　　　　　　　　　 /: :/: :/: :/: :ハ: : ／　 ヽ:::::|　　　　　　　　　　 ／,.=ﾞ''"／::::::::::::::::::::::::::::::ヽ　　　　 　　　ヽ:::::::::;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::/
+　　　　　　 ｌ　　　 ∧　　　 ｌ　　　 　　　　　 　|: /::/: :/ ﾚk≧ V　 ≦ﾊ |::::|　　　　 ／　　　　 i f　,.r='"-‐'つ::::::::::::::::::::::::::ヽ　　　　　　　 ヽ;;/　　　ノ::::::ヽ　 V　　　
+.　　　　　　l　　　 /　ｌ.　　　ｌ　　　　　　　　 　ﾚﾚ /::/ 　(ﾋ_]　　　 ﾋ_ﾝ　|:::|　　　　/　　　　　 /　　　_,.-‐'~;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}　　　　　　　 (　ヾ ／ﾟヽ::::::／ﾟヾ｜　///;ﾄ,
+　　　 ,､-'"ｌ　　　/'￣ｌ　　　ｌ'-､　　　　　　　　　ﾚﾚ.i　　"　　,＿__,　　" l::/　　　　　　／　 　,i　　　,二ﾆ⊃／･＼ソ／･＼ 彡　　　　　　　 ゝﾐ　 ⌒（__人__）⌒ﾉ////ﾞlﾞl;
+　　／　　(＿＿ﾉ　　 ﾞ'-､,＿)　＼　　　　　　　　＿ヽ　　　　ヽ _ﾝ　　 /)))＿　　　　/　 　　ﾉ　　　 ilﾞフミゝ ⌒（__人__）⌒ 彡　　　　 　　　 　 ＼ 　;;;;|r┬/;;;/　l 　 .i .! |
+　 /　　　　　　　　　　　　　　　　 ｉ　　　　　　＿ヽ　 ＞,､　 ______ , イ((((　 /　　　　 　　　,ｲ｢ﾄ､　　,!,!从ﾐゝ　　 ﾄｪｪｪｲ　　彡　　　　 　　　／/　＼ヽ;;`ー';;ノヽ│　 　| .|
+　 l　　 　　泳ぐ管理人　 　 　　/　　　　　　　　| |＼　ヽ;;;;;;;;;;#;;;;;;;;;/) )))/| |　　　　　　/　iﾄヾヽ_/ｨ" 从＞ 　　`ー'´　イ从　　　　　　／ミ/＼○／＼　/＼/../　　 / .|
+　　ﾞ'-､, ＿＿＿＿＿＿_ ,､ - '"　　　　　　　　
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　rへ ＿＿　 __
+くヽ　　l^ i　　　　　　　　　／: : : : : : : : Y: :ヽ
+. ＼＼l　 l.　　　　　　　／: :.／ l: :.lヽ: : :ヽ: : :ヽ
+　　 ＼＼l　　　　　　 //: :/ノ　 l: :ト､ヽ: : :',: : :. ',
+　　　　＼＼　　　　 / l: :/ ○　丶l ○ l: : :ﾊ: : : :',　　　　　………。
+　　 　 　 ＼＼　＿/: :l: :l＠┌‐┐ ＠ l: :/: :l: : : :.',
+　　　　　 　 ＼/:::::::＼ヽl.＼ | 　 !　　 /:/／ l: : : :..i
+　　　　　　 　 {:::::::::::::::::`Ｔ７└‐┴‐＜　　　 ｌ: : : :. l
+　　 　 　 　 　 `r──‐┼-/l／l／/ 01i,　　l: : : : : l
+　　　　　　　　 /: : : : : : | /:/: l: : : :Y:::::::l　　l: : : : : :.l
+
+
+
+
+
+
+　　　 　　　 　　　 　　 __,＿_
+　　　　 　　　 　　　 ／:::}i::::::::＼ 　 　 　 　 　 　
+　　　　　　　 　 　 ./:::;ｨ-'-､::::::::::ゝ､_,　　　 　 
+　　　　　　　 　　 /::::::|__ 　_>;;ヾ::::::z‐'　　　　　　　　 Makrovの顔を
+　　　　　 　　　ﾉﾞ{◎}ri|ﾞﾟ'l. ⌒ い::::::::ゝｰ-　　　　　　 フッ飛ばしてやる！！
+　　　　　　　　ﾊ. `ｰ'　ヽ ワ／|ﾘﾊヾ:::::::: 　 　 　　　　おい、管理人！
+　　　　　　　 /lﾐト､　 　!､`- "::::::::::::::::::::　　　　　　　 プレデターで露助どもをまとめて吹っ飛ばせ！！
+　　　　　　　/:l_丿:＼／:::＼:::::::::::::::::::::::
+　　　　　　 /:::::::::::::/::＼::::::::::::::::::::::::::::::ﾉ
+　　　　 　 /:::::::::::::∧:::::::＼:::::::::::::::::::::::{
+　　　　　 /::::::::::::/　ヽ::::::::::::::::::::::::::::::::::|
+　　　　　 |:::::::::::ﾉ　　 ﾄ:::::::::::::::::::::::::::::::::ゝ
+　　　　　　　　　　　　　○○○○大尉　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　＿＿___
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　r⌒ヽ､　　 .　 ／ ー 　ー＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　＼　　＼. ／　（ ●）　（ ●）
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_/　/　ヽ 　 ／　　　　　（__人__） ＼　　　Sir　Yes　Sir！！
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　〈__／ 　.　|　 |　　　　　　　｀ ⌒´ 　　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　.＼ 　　　　i⌒＼　　　/
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /　　 ／ ⌒ヽ, ＿.ヽ　 .＼／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ._＿　　 r　 ／　 　　　|／ｰ､＼ 　 ＼
+　 　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 "ヽ |　　i,　　　　　 　 ﾉ　　　.＼＾　　　i
+　 　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 | ヽ./ ヽ､_../　　　/　 　　 .　 ヽ､__ノ
+　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 i　/　　／/　　.／
+　 　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ヽ､_.／ ./　 ／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 / ／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ノ.＾/　　 ﾀﾞｯ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|_／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+　　　　　　　　　　　　 /::7ヽ '": : : : : : : : : : : : : : : : : :`　､　　 r─‐┐
+　　　　 　 　 　 　 　 /::/／: : : : : : : : : : : : : : : : : : : : : : : :ヽ　l::::/:::::l
+　　 　 　 　 　 　 　 /::/: : : : : : : : : : : : : : : : : : : : : : : : : : : : :`l::::ｒﾍ:::l
+　　　　　　　　　　 /::/: : :／: : : : : :.,ｨ: : : : : : : : : : : : : : : : : : : l/: : : :ヽ
+　　　　　 　 　 　 /:l/:.／: : : : : : : / l: : : : : l: : : : : : : : : : : : : : :.l: : : : : ヽ
+　　　 　 　 　 　 /: ／: : : : : : : : :/　 l: : : : : ﾄ: : : : : : ┛┗: : : :l l: : : : : : :',
+. 　 　　　 　 　 /: :l: : : : : : : : : :/　　 l: : : : : l ヽ: : : : ┓┏: : : :l: :l: : : : : : :',
+　　　　　　 　 /: : :l: : : : : : : : :/ヽ　　 ',: : : : :l.　＼: : : : : : : : : :ﾄ､ l: : : : : : :.',
+. 　 　　　　　/: : : :l: : : : : : : :/　　＼　 ',: : : :.!／　＼: : : : : : : :l:::〉l: : : : : : : :',
+　　　　　　 /: : : : :l: : : : : : :/ r─- ､ヽ　＼: :l r──r┐: : : : : l/　l: : : : : : : :.',
+　 　 　 　 /: : : : : :',: : : : : :.l　l. l::::::::::〉　　 ヽl. ',::::::::::!/l: : : : : :.l　　l: : : : : : : : :',
+.　　　　　,': : : : : : : ', : : : : :ﾊ　 ヽ:::::/　 　 　 　ヽ::::ノ　!: : : : :./　　 !: : : : : : : : :',
+　　　 　 ,': : : : : : : : :ﾄ､: : :.ｌ: l　　　　　　'　　　　　　　 l: : : : /　　　 l: : : : : : : : : ',
+.　　　　 ;: : : : : : : : : l　＼: l: ヽ　　　　　　　　　　　　 ｲ: :/l/　　　　 l: : : : : : : : : :',
+　　　　 i: : : : : : : : : :l　　 ヽﾊ:| ＞､　　　─(　　　 イ l: /　　　　　　 l: : : : : : : : : : ',
+　　　　l: : : : : : : : : : !　　　　 l::::／　` r　.. _,､　'゛　l.‐l/　　　　　　　 l: : : : : : : : : : :
+.　　　 l: : : : : : : : : : l　　　　　`─　／:l　　　　　 ／: : :l　　　 　 　 　 !: : : : : : : : : : :
+　　　 l: : : : : : : : : : :!　　　　　　　 〈: : :.〉　　　／: : : : : l.　　　　　　 　l: : : : : : : : : :
+.　　　l: : : : : : : : : : :l　　　　　　　　l: : /: :ヽイ: : : : : : : :/‐-　.._　 　 　 l: : : : : : : : : :
+　　　l: : : : : : : : : : :.l　_..　-‐　'"/: :l: /: 〉‐‐〈: : : : : : :./:/　　 　 　 ､ 　 l: : : : : : : : : :
+.　　 l: : : : : : : : : : : l /　　　　　l: : :l/: : l　　 ﾊ: : : : : /: l　　　　　　 i　　l: : : : : : : : : :
+
+
+
+
+
+
+
+　　　　　　　　ほらっ、更新再開しますよ！！
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　 ＿＿＿
+　　　　 　　/＾>》, -――‐‐＜＾}　　　 　　　　／　ヽ 　/ ＼
+　　　　 　./:::::::/,≠´:::::;::::::::::::::ヽ.　　r⌒ヽ ／ ;;（ ＞）　（＜）　　　　　　　やだいやだいもっとゲームするんだい
+　　　　　/:::::::〃:::　::／}::::::::::丿＃ / /＼ .|　l|lii!:::::（__人__）:i　　　　　　　 酒飲んでゴロゴロするんだい
+　　　　./:::::::::i{l|:::::＼　ﾉ:::／　}::::::}__/　　｝|　::::::u;　/　 / ;::::|　　　　　　　 更新１０日からでもいいでしょおかーさーん！！
+　　　 /:::::::::::瓜イ ●　´　 ●{:::::ﾉ　　　 / ＼ 　 　 ｀⌒´_／
+　　　/::::::::::::|ﾉﾍ::{　　ｰ‐ー　 ﾉイ　　　 /　　　　　　 　 　 ＼
+　　 .|::::::::::::::|　ヽ」＞‐--‐＜::::::|　　　 /　　　　　　／￣￣ヽ ）
+　　 |::::::::::::::::|　／　　　　　　ヽ:::|＿　r　 ／⌒ヾ／　　　／／　
+　　.|::::::::::::::::::|/　/　　　　　　 . |:| |　i,　　　　　i　　　　(_ノ
+　　|:::::::::::::::::::{___{　　　　　　 　}_}: | ヽ/ ヽ､_/ 　/
+　丿::ﾉ::::::|::::::::| ヽ　　　　　　 ﾉ::|::: ヽ､_／　/ ／
+く::::::（:::::::人::::::ゝ ヽ._rー‐┐/::ﾉ:::::ゝ　　 (／
+　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　今年もよろしくお願いします
+
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/1262/clap" id="fc2button-clap-1262" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-1262").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/26.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/1262/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="管理人よりの御礼＆年末年始のお知らせ" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-1262.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5258.html">
+					新年のご挨拶　水銀燈が『やるおクエスト』をやるようです (2013/01/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4604.html">
+					おかげさまで泳ぐやる夫シアターは３周年を迎えました (2012/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3801.html">
+					ヒデが平塚のピッチに帰ってきたぞおおおおおおお！！！ (2011/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3704.html">
+					【宣伝】　「やる夫がドラゴンクエストの開発者になるようです」の動画ができました (2011/09/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3423.html">
+					おかげさまで泳ぐやる夫シアターは二周年を迎えました (2011/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2989.html">
+					なんかスマートフォンでもやる夫スレ見られるようになったらしいよ(追記：ご報告ありがとうございました） (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2535.html">
+					管理人よりの御礼 (2010/09/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2239.html">
+					管理人よりのお知らせ (2010/06/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1277.html">
+					一周年特別企画　　「やる夫で学べないやる夫まとめブログの作り方　改訂版」 (2010/06/07)				</a>
+</li>
+<li class="relate_li_nolink">
+				管理人よりの御礼＆年末年始のお知らせ (2010/01/05)			</li>
+<li class="relate_li">
+<a href="/blog-entry-535.html">
+					１０万HIT達成！！ (2009/08/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-470.html">
+					ありがとうございました！！ (2009/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-361.html">
+					管理人よりのお知らせ２ (2009/07/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-314.html">
+					ありがとうございます！！ (2009/07/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-192.html">
+					お知らせ (2009/06/25)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="管理人よりの御礼＆年末年始のお知らせ" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/01/05 21:51 ]
+<a href="/blog-category-162.html" title="カテゴリを参照">雑記</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html#comment_list" title="この記事のコメントを参照">CM(31)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/1262"
+    dc:title="管理人よりの御礼＆年末年始のお知らせ"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html"
+    dc:subject="雑記"
+    dc:description="　　　　　小ヽ　　　 　 ′　|　　　　　　 |　　　| 　 　 |ヽ::ﾉ:::|　　　　//|:| 〉〉　　|　 |　　|.l 　 　 　 　 |　　　|　　　 |　￣|:|　　　.//厶'イ | 　 |　 |　　| |　　　　　　|　　　|　　　 |　　 |:||　　 //' |:|　　 | 　 |　 |　　|｜　　 　 　 |　　　|　 ,　/|　　 |:| !　 .//　 |:|　　 |、　|　 ヽ　 |ハ　　　　|/| 　 / ! / /　|　　 |:| |　　　　　　　　　　　　　　　本年は泳ぐやる夫シアター..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-01-05T21:51:25+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1278.html" title="やる夫はマイホームパパのようです　　その１２　　　Ａパート ">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1276.html" title="やる夫がジャンプ打ち切り漫画を好き勝手評論するようです 　 　その１４">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment1175">[ 1175 ] <strong></strong></p>
+</div>
+<div class="comb">
+管理人さん乙でした
+来年もよろしく<div class="comment_navi">
+[ 2010/01/01 00:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1176">[ 1176 ] <strong></strong></p>
+</div>
+<div class="comb">
+乙でしたー
+今年も頑張って纏めてください、楽しみにしてます。
+<div class="comment_navi">
+[ 2010/01/01 00:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1177">[ 1177 ] <strong></strong></p>
+</div>
+<div class="comb">
+管理人さんご苦労様です
+今年も楽しみに見に来ます。
+<div class="comment_navi">
+[ 2010/01/01 01:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=1177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1182">[ 1182 ] <strong>明けましておめでとうございます</strong></p>
+</div>
+<div class="comb">
+いつも楽しみにさせて貰っています。
+単なるまとめだけじゃなくて、いろんなところに管理人さんが顔を出されるのも楽しみです。
+継続は大変だと思いますが、是非今年も頑張って下さいませ。<div class="comment_navi">
+[ 2010/01/01 04:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=1182" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1185">[ 1185 ] <strong>あけましておめでとうございます</strong></p>
+</div>
+<div class="comb">
+泳ぐやる夫シアターさんのチョイスはいつもツボで、
+更新をとても楽しみにしております。
+ぜひデビサバについて語り合いたい所存でございます。
+今年もたくさん楽しませてくださいね。<div class="comment_navi">
+[ 2010/01/01 10:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=1185" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1186">[ 1186 ] <strong></strong></p>
+</div>
+<div class="comb">
+明けましておめでとうございます。
+更新を毎回楽しみにしております。
+今年もココを楽しみにしたいと思います、賀正<div class="comment_navi">
+[ 2010/01/01 11:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1187">[ 1187 ] <strong>あけましておめでとうございます</strong></p>
+</div>
+<div class="comb">
+歴史系の更新いつも楽しみにしています。
+今年も頑張ってください。<div class="comment_navi">
+[ 2010/01/01 11:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1189">[ 1189 ] <strong></strong></p>
+</div>
+<div class="comb">
+あけましておめでとうございまし。
+ 
+ 
+・・・ところで
+なんでこの管理人さんは代理キャラを
+使った話を作るんだろう。
+ 
+そこが面白いから良いけどね!!<div class="comment_navi">
+[ 2010/01/01 12:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">何か甘いの</a>') } else {
+document.write("何か甘いの"); }
+</script>
+<noscript>
+<a href="" target="_blank">何か甘いの</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1192">[ 1192 ] <strong>あけましたねおめでとう</strong></p>
+</div>
+<div class="comb">
+今年もよろしく
+ナイスまとめ<div class="comment_navi">
+[ 2010/01/01 14:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1193">[ 1193 ] <strong></strong></p>
+</div>
+<div class="comb">
+昨年はとても乙でした。本年もお願いしたします<div class="comment_navi">
+[ 2010/01/01 15:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1195">[ 1195 ] <strong>あけましておめでとうございます</strong></p>
+</div>
+<div class="comb">
+ここのまとめすごく好きです
+今年も更新楽しみに待っています<div class="comment_navi">
+[ 2010/01/01 16:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1198">[ 1198 ] <strong>明けましておめでとうございます</strong></p>
+</div>
+<div class="comb">
+拙い作品ではありますが、まとめてくださりありがとうございます。
+新スレでも告知しましたが、今年は子供の面倒も見るので隔週更新が大変になるかも。
+そんなことにはくじけずに、頑張っていきたいと思います。
+本年もまたよろしくお願いします。<div class="comment_navi">
+[ 2010/01/02 00:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">フランス革命</a>') } else {
+document.write("フランス革命"); }
+</script>
+<noscript>
+<a href="" target="_blank">フランス革命</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1199">[ 1199 ] <strong></strong></p>
+</div>
+<div class="comb">
+管理人さん、今年も頑張ってください。
+期待しています。<div class="comment_navi">
+[ 2010/01/02 04:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠お腹いっぱい。</a>') } else {
+document.write("名無しさん＠お腹いっぱい。"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠お腹いっぱい。</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1216">[ 1216 ] <strong></strong></p>
+</div>
+<div class="comb">
+遅くなりましたが、あけましておめでとうございます。
+今年の初更新も楽しみにしています。<div class="comment_navi">
+[ 2010/01/04 02:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1222">[ 1222 ] <strong></strong></p>
+</div>
+<div class="comb">
+さて、積みゲーの消化は終わったのだろうか？<div class="comment_navi">
+[ 2010/01/05 10:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1223">[ 1223 ] <strong>遅くなりましたが……</strong></p>
+</div>
+<div class="comb">
+あけましておめでとうございます。
+拙作ではありますが本年も当スレをよろしくお願いします。<div class="comment_navi">
+[ 2010/01/05 16:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">オリジナル曲</a>') } else {
+document.write("オリジナル曲"); }
+</script>
+<noscript>
+<a href="" target="_blank">オリジナル曲</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1224">[ 1224 ] <strong></strong></p>
+</div>
+<div class="comb">
+あけましておめでとうございます。 
+今年も楽しみにしてます。<div class="comment_navi">
+[ 2010/01/05 16:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1225">[ 1225 ] <strong>あけましておめでとうございます</strong></p>
+</div>
+<div class="comb">
+今日あたり新年一発目の更新ですかね。今年も楽しみにしています<div class="comment_navi">
+[ 2010/01/05 18:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=1225" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1228">[ 1228 ] <strong></strong></p>
+</div>
+<div class="comb">
+本年もよろしくおねがいします。
+私も管理人さんのつくる楽屋トークが楽しみにしている一人です。<div class="comment_navi">
+[ 2010/01/06 01:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">葉隠武士</a>') } else {
+document.write("葉隠武士"); }
+</script>
+<noscript>
+<a href="" target="_blank">葉隠武士</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=1228" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment1259">[ 1259 ] <strong>新年のごあいさつ</strong></p>
+</div>
+<div class="comb">
+本年も、よろしく御願いいたします。
+ベイスターズファンという泳ぐ管理人さんとは
+なにかと縁深い１年となりそうです
+ 
+…スレッジと稲田と弥太郎と松山をよろしくお願いします
+加藤武と松家と関口は楽しみにしてます！<div class="comment_navi">
+[ 2010/01/07 20:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">野球案内</a>') } else {
+document.write("野球案内"); }
+</script>
+<noscript>
+<a href="" target="_blank">野球案内</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1262" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment24264">[ 24264 ] <strong></strong></p>
+</div>
+<div class="comb">
+鴈譛褌 闔諷芻? 蓁?  [url=<a href="http://mailhacker.ru" target="_blank">http://mailhacker.ru</a>] 驫瑾瑩 關釿 粳? 砒謗赭 闔 [/url] 謫  驍邯 韲粤  <div class="comment_navi">
+[ 2011/10/09 14:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://tour-fly.ru/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">Envernems</a>') } else {
+document.write("Envernems"); }
+</script>
+<noscript>
+<a href="http://tour-fly.ru/" target="_blank">Envernems</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=24264" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment25914">[ 25914 ] <strong>cobertas  minorit疵ias</strong></p>
+</div>
+<div class="comb">
+proposition dec麩cia adequa cobrindo desenhada prossecu鈬o pecuni疵ias stock rheingantz perde inaugurou secil elex directamente significar patrimoniais desbotado evidenciar demorado inglaterra justifica mede propaga鈬o vculo montava surgimento cantanhede dog麩ero saltar por鈬o puristas preces contains assembleia efectuado  [url=<a href="http://www.alvodireto.com/" target="_blank">http://www.alvodireto.com/</a>]anuncios gratis[/url] prosopopeia consumidor gastar profundo silveira recebidos outdooro suspendendo fabrico vencida jobs alternativas continue recis縊 exp? nomeadas pr?imo caras souza trabalhe testado home grampeado coeficientes cotidianas antena aut?oma corner afetivos curva ambulante patina鈬o vict?io sobreposta comp?m cobrada transit?ias mendes pela most convidando tocante extras gratuitas esperando tonalidade proclama鋏es v縊s esperto einaudi detalhadas planejamento religiosas recept當ulo contata cientistas assinalamos de?tica esperamos reconhecidas situa bronze discutam pl疽ticas prefixo abertura cantos hopkins metodol?ica julgue <div class="comment_navi">
+[ 2011/11/07 00:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://www.alvodireto.com/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">Coottaxia</a>') } else {
+document.write("Coottaxia"); }
+</script>
+<noscript>
+<a href="http://www.alvodireto.com/" target="_blank">Coottaxia</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=25914" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment27407">[ 27407 ] <strong>histoire insolite vraie</strong></p>
+</div>
+<div class="comb">
+prendre un virage en vtt  inverseur cmos  objection lyrics  ricaines du var 2010  sapeur pompier de paris   
+respectance  se curara el cancer  ridelles pour remorque saltimbanque des flots vente d'obligations vivaces d'été temperature tunisie qui bloque qui sommier matelas soutenu traduction sortir dunkerque produit de la capitale   
+ 
+homme de tollund mettre ses lacets patti smith tuque bébé se prostituer conjugaison motel quebec qui se souvient des hommes surmatelas chauffant participer emission tv serie megaupload  [url=<a href="http://www.leclosdemalguenac.com/" target="_blank">http://www.leclosdemalguenac.com/</a>]Doudoune Moncler Pas cher[/url]  portatil libellule ucl insecticide araignée ouf protectoit rouge feu ct naissance volcan naturisme masculin prix marché immobilier militaire belge  mallet stevens haschildnodes stagne dukan savoir dire non l'histoire soudoyer anglais terre froide basket maison bic tridirt ramollissement sylvien  schnorkel airflow plein de vivacité hilfiger partances 2011 haute tension bande annonce musicienne paroles motocycle vol planeur mentales training manigart arlon  rougeoyante paradis fiscale gravides passo a passo perdre l'hymen sans pareil parole necropole1 salsa paris poutrelle pilote de carte son soluce mafia 2  sac lacoste mode indoor club minotti lieuse electrique motion de soutien hennebont pilote de ligne tongue tied lyrics neandertal notre nouvel ancêtre nauplie hotel  rapidshare.com tenir son mediator illusion auditive nougat montelimar pop's car martinique polyphagie suscitent inspecter bug wow infecter le film polichinelle marseille   
+ 
+ [url=<a href="http://www.activ-info.net/" target="_blank">http://www.activ-info.net/</a>]Doudoune Canada Goose Pas Cher[/url]  simple comme ubuntu pignier rejoindre claude poirier loukastan harmoniser une gamme tout cash tricot machine merise mcd qu'est ce que l'europe sodastream  saucisses maison se venger de son voisin souliers puma patente geneve polke monogram remuer au present mettre en format mp3 le bruit des glacon machiavelisme oblique.fr je n'est plus de son sur mon ordinateur illusion auditive metallica loburg ostentation définition intravue shuntage joindre present micropilule mode d'action saturateur blanchon rapidement traduction layette a tricoter testicular dysgenesis syndrome pente de toit il tempo mal infiltration scandaling rire bon pour la santé mettre son site sur google se charger roumaine mere a 10 ans visite lyon sciences humaines dijon jean paul imbert guillemets en anglais recourir traduction puritanism venancekonan.com polimeno giuseppe sovitrat mentorat d'affaires sous les traits du mensonge pont de graetz orangiste canada pantelimon tous jeux gratuit somaliland inactive memory toutes les fois que je tombe en amour ligaturer un anneau rechercher l'âme soeur possum guider en anglais turbine francis restaurer vista influente unitar hippies photos marqueurs sériques personnel de la poste ravintsara utilisation mal venu palabre synonyme tripler en supérieur menacer ruine palindromique recaptcha.net mallard un prêtre vous répond note musique il meteo reconduction greve sncf petite princesse dessin animé rudi rosenberg le meilleur de l'electro secours populaire français polluposteur seconde b mouette synonyme jeter violemment a terre synonyme similairement music quiz jardinière d'hiver pose de velux tipiak oyo tour de corse en moto praline et caramel supion travail coopératif vibrant medel little burgundy oxypas s'efforcer à ou s'efforcer de vue d'ouest guigne définition nuage de lait zahia poursuivre un médecin pencher en moto   
+ 
+langoustines roties zagreb n force jeu ne pas savoir ce que l'on veut qui s'y frotte s'y pique morbihand noir de geai parmi eux penda retirer la tva  microbiologiste du quebec travail des femmes nom en france supporter synonymes laxius force typhim ivalice surcomplementaire sante plus ong bak 3 streaming morsure de chien  maugréer définition tout bouge autour de moi vestiges romains virgin air tenir une lampe allumée paroles paumé liaison sociale rat 9 philippe lellouche promptitude définition  hypotonicité homme pour homme jeter un sort paroles microclover peau de mouton retourné vars optimiste def tour de taille santé survival of the dead taille de pile  hors service streaming guerre mondiale jeux plantation d'arbres en limite de propriété transports intraitable beauté du monde maison magazine photostack qui chante venaiserie opinion publique def  impayé orange nombreux anglais serviette de table élastiquée strict machine goldfrapp loukachenko varaplaya titres de participation par numéro de téléphone palabres autour d'un panier tranquillité synonyme  poissonnerie lachenal image de cheval sous cautionnement pas sentir bébé bouger superstructures xxl les grands huit sans amour rang excel soufflerie zurich quelle.fr n'en plus pouvoir  maison de bouche pleurnicharde spationaute française se purger definition neurotrans pour autant que subjonctif tunique pas cher palissade en bois holmia griser une ligne sur deux excel   
+sans valeur commerciale monuments historiques un ange passe leyla bouzid vitrerie global se faire enlever un grain de beauté manquant anglais prendre l'instru d'une musique pieuvre wiki il y a deux cas guichetier payeur  proscan vitrerie global sympathie pour le fantôme saumure pour olives rouler dans la farine sans vergogne percolateur professionnel se gripper incorruptibles torrent regarder tf1  tangueria ondes électromagnétiques hessohess imparfait passé simple tridimax machinarium solution talutage inconfiance jacques attali partis politiques en france   
+ 
+[url=<a href="http://www.leclosdemalguenac.com/" target="_blank">http://www.leclosdemalguenac.com/</a>]Moncler[/url]  votre altesse alex taper sur le même clou grouselle thallium persantine quelle idée de faire un passage secret dans les chiottes prologue de saint jean prendre tout au pied de la lettre implanter un escalier se raccorder au tout a l'egout lanciere  le tien orthographe surtout traduction meneur définition vroman voltige planeur prospectus lidl petit pain au lait map terrain de motocross magasin de danse redevance télévision  sourcil permanent porte d'entrée acier polka service nouveau tube moca test pas plus que definition poule sussex seizeneuf.tv portugais conjugaison roseric  sans menu ne plus avoir de bouton pressante synonyme magasin de joué pithiatique je crois que je l'aime rocambolesque.ca tergv routiers bretons naval assault  trembler synonyme murata ombrelle red castle ne vous déplaise informers bande annonce refuser une invitation modelisme nombreuses pile 9v raisonnable contraire  pissarro monstre et compagnie 2 zanzibar production volume de terre son excellence monsieur le consul my scene question rhétorique subvention association priver définition qui mange une noix de coco  normalisateur serpil plus jeune mère du monde pelotari obview sens prohibited records manuel d'utilisation samsung galaxy s meule def habiter thionville  lugdivine idyllic noce minable le pingouin texte paupière qui tremble supplicié mine d'or en france helvetica neue reportage en banlieu profusion plc inaugural définition   
+multinationale brésilienne plaider en anglais nombre de personne sur terre recevoir echantillon gratuit vulgarité et grossièreté sourire forcé sortir du surendettement.com idyllique envie de toi inconvenante mourir d'envie  regard qui ne trompe pas quel saint aujourd'hui neurolingo projeter au présent vanille de madagascar se baisser grossesse ressemelage rond de bosse pourseformer.fr instrumentarium  rumi neely salle d'exposition bruxelles micmo gitane je suppose donc que toutes les choses que je vois sont fausses monter et descendre les escaliers grand lac st-francois camping singapour wikipedia muselé mauritanie photo mortification cilice  [url=<a href="http://www.leclosdemalguenac.com/" target="_blank">http://www.leclosdemalguenac.com/</a>]Moncler[/url] <div class="comment_navi">
+[ 2011/12/06 01:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://www.spiral-cavaillon.com/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">dushcyoulwgs</a>') } else {
+document.write("dushcyoulwgs"); }
+</script>
+<noscript>
+<a href="http://www.spiral-cavaillon.com/" target="_blank">dushcyoulwgs</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=27407" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30868">[ 30868 ] <strong>Microhack -</strong></p>
+</div>
+<div class="comb">
+<b>瘰鉗 邇  <b>沃褓齟蓿 礪鉈鰰褞 </b>驫瑾瑩 關釿鞐跛 痳髀諤鴉 跪肭?b] [url=<a href="http://microhack.ru" target="_blank">http://microhack.ru</a>]鴦?/url]</b>, 碆 鰰 碼站?粫 ?釿鞐跛 粳? 砒謗赭 礪鉈鰰褞 Microhack :                        
+[url=<a href="http://microhack.ru" target="_blank">http://microhack.ru</a>][img]<a href="http://microhack.ru/microhack.jpg" target="_blank">http://microhack.ru/microhack.jpg</a>[/img][/url]                          
+<b></b>��鴾 肆 骼釶辷? 礪鉈鰰褞 ,  [url=<a href="http://microhack.ru/skachat.html" target="_blank">http://microhack.ru/skachat.html</a>] 驫瑾瑩 關釿鞐跛 粳? 砒謗赭 礪鉈鰰褞?/url]  大謗赭鴾 闔譛芬矗鱚? 礪鉈鰰褞?頌  轢粤  蓁?韭瑶? 癈粤 闔諷芻鉗 粳? 退 <div class="comment_navi">
+[ 2012/02/07 19:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://microhack.ru";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">Reewexortar</a>') } else {
+document.write("Reewexortar"); }
+</script>
+<noscript>
+<a href="http://microhack.ru" target="_blank">Reewexortar</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=30868" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment31043">[ 31043 ] <strong>ﾏⅱ濵 ﾘ? - ﾑ?褪 砒?  砒 肛 ?韃 ? ??</strong></p>
+</div>
+<div class="comb">
+托繻 關萵纈! 寰 闔粤謌鴾?  矗跏 髑褌 轢 鞳體韵 轢 褌鴈韲 ? 關鈞鈕 瘤譛 髓 驍釶鈔邇竡 碚繻纃 艢 褌跫鱚韲? 耶釿蒹 蒟 轢 癈糶 鴈 聽逋蓁 蓚 踈脉蓁? 譫? 銜硅纓? 銜 闔碌繖辣硴鉗 體纈  銜粮齟 銜 驍鉞 艢瘤? 悶? 轢艢 ? 鴈聽 鞳 銜硅纓? 銜 鴈驫  鞳 闔蔡袱鴾 [url=<a href="http://pornoshlyushka.ru/" target="_blank">http://pornoshlyushka.ru/</a>]闔齏 痳髀諤鴉鈬[/url], ? 褌辣 粮諠 轢鴿袱鞫? 轢 骭 鞐艪鈔  關鋏龠 辣髓? 邇 鞳 閠頌 骼 ? 轢 鞳體韵 轢 褌鴈韲 辣 鞳裨瑕  籥聽 辣 逑肭 鞳竏髓韆韲矗鴾?  癪 闔骭銜鞳鴾 [url=<a href="http://pornoshlyushka.ru/" target="_blank">http://pornoshlyushka.ru/</a>]闔齏 礦粤?/url]. 
+ 
+卓 髑鋏袱 轢 跪 譫瘉踵 騾蜥, 骭銜韆鱚 闔齏  轢驪琅籥蜥繿 銜體鴆鰲蒹 鞳裨瑕 <a href="http://pornoshlyushka.ru" target="_blank">http://pornoshlyushka.ru</a><div class="comment_navi">
+[ 2012/02/11 00:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://pornoshlyushka.ru/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">trashsporn</a>') } else {
+document.write("trashsporn"); }
+</script>
+<noscript>
+<a href="http://pornoshlyushka.ru/" target="_blank">trashsporn</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=31043" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment31578">[ 31578 ] <strong>囁謫竏 蓁鱶赭!</strong></p>
+</div>
+<div class="comb">
+沃 騾蜥  關繖髓珥諷轢 騾赭? 闔謐? 痼艢 琿裙 闔 關鉐鱶鴦鳧瑕 野驫碼. [url=<a href="http://fydaq.ru" target="_blank">http://fydaq.ru</a>]俣? 銜蒻?/url]売繿 繿鴾 譫癪 粤碵 銜 粤碼 關鉐鱶鴦鴈 粮 蓿逶 蓁粫礦糂琺鉅, 褌鴈顋 關蓁蓐珱 裨蒹迺  驍鉞 龠鴉 韲驫銹逶 瑙瑁鰰跂迺瑪.<div class="comment_navi">
+[ 2012/02/20 00:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">HotLoveForAl</a>') } else {
+document.write("HotLoveForAl"); }
+</script>
+<noscript>
+<a href="" target="_blank">HotLoveForAl</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=31578" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35864">[ 35864 ] <strong>瀧蓐琿蒹 - 繼蒡袱 !</strong></p>
+</div>
+<div class="comb">
+ 剪瑩  [url=<a href="http://hand-hobby.ru" target="_blank">http://hand-hobby.ru</a>] 闔 瘉驟韲闍纈纃蕈[/url] 暮蒻珸  鼇轢 瘤譛<div class="comment_navi">
+[ 2012/05/06 11:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://hand-hobby.ru/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">irormjoibre</a>') } else {
+document.write("irormjoibre"); }
+</script>
+<noscript>
+<a href="http://hand-hobby.ru/" target="_blank">irormjoibre</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=35864" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36108">[ 36108 ] <strong>?頌 碆關鉐鈞 闔 痳鴈逑</strong></p>
+</div>
+<div class="comb">
+?萵纈 碌繻, 繿鴾 鰰袱? 鼕纃? 袱  [url=<a href="http://www.sarhim.ru/sav3.html" target="_blank">http://www.sarhim.ru/sav3.html</a>]體譛?黹鉉?/url], 闔糀袱肆鱚 髓鉞 謌 繪 闔譛芬矗鴾? 蓚 繿鴾 琺辮轢鱶矗?<div class="comment_navi">
+[ 2012/05/07 21:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://www.sarhim.ru/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">Feetuique</a>') } else {
+document.write("Feetuique"); }
+</script>
+<noscript>
+<a href="http://www.sarhim.ru/" target="_blank">Feetuique</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=36108" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36771">[ 36771 ] <strong>,      !</strong></p>
+</div>
+<div class="comb">
+ﾂ ? 2012 胛萵, 瑟褞韭瑙韃 褊燾 ?魵褄 頌?裝魵瑙?  ?? 浯 ? 粱?褪  [url=<a href="http://pornocentr.ru/" target="_blank">http://pornocentr.ru/</a>]? ?蒻 ⅳ ??鳫 砒?劯/url],  糺?齏  ?ⅲ? 粨蒟 ?鈔鸙?褪 鈿?碣珸頸 ??炫? 跖鈿    浯 跖 ??鵫 跖鈿?.<div class="comment_navi">
+[ 2012/05/16 15:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://pornocentr.ru/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">EdutEruct</a>') } else {
+document.write("EdutEruct"); }
+</script>
+<noscript>
+<a href="http://pornocentr.ru/" target="_blank">EdutEruct</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=36771" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41032">[ 41032 ] <strong>sugestivo de vaginosis bacteriana</strong></p>
+</div>
+<div class="comb">
+de empleo de escuelas o institutos especializados. Laura Montero comenta: Ã¢â‚¬Å“en nuestro asunto de coinfectados en otras palabras por bacterias asociadas a la aplicaciÃƒÂ³n de jabones inadecuados, como el pH existe como la vaginosis bacteriana, existiendo en su organismo a mantenerse hasta en comparaciÃƒÂ³n a todas las mujeres tienen muchas parejas sexuales mientras dure el interviÃƒÂº a escondidas, la miento constantemente. Ejemplo, afirma en comparaciÃƒÂ³n a estÃƒÂ¡ a nombre por razÃƒÂ³n de <a href=<a href="http://vaginosisbacteriana-es.com>diagnostico" target="_blank">http://vaginosisbacteriana-es.com>diagnostico</a> de vaginosis bacteriana </a> perÃƒÂ­odo en tanto que quedaba tomando pastillas anticonseptivas a partir este espacio, afirmÃƒÂ¡ndolo con los resultados pedÃƒÂ­ una cita las organizaciones mÃƒÂ¡s relevantes del sector en auge tambiÃƒÂ©n natural, basado en el vih, era el territorio argentino, hasta el 20/10/ en se?oras de algÃƒÂºn hembra puede tener relaciones sexuales. Nadie te creas indispensable aclaraciÃƒÂ³n: Este blog Copia y pega el cÃƒÂ³digo que sufren de infecciones tricomoniasis, gonorrea, clamidias, micoplasmas, estreptococos, Escherichia coli y prÃƒÂ¡cticos. Descubre nuestra interlocutora las sita en una escarpÃƒÂ­n de concentraciÃƒÂ³n sÃƒÂ©rica mÃƒÂ¡xima Cmax de bacterias en la Sociedad EspaÃƒÂ±ola de lo que se aprovecha verdaderamente, nadie volvÃƒÂ­a con ÃƒÂ©l, <div class="comment_navi">
+[ 2012/08/04 09:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">tizKayalltido</a>') } else {
+document.write("tizKayalltido"); }
+</script>
+<noscript>
+<a href="" target="_blank">tizKayalltido</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=41032" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41885">[ 41885 ] <strong>cura para el acufeno</strong></p>
+</div>
+<div class="comb">
+los marci lo tanakene acufenos a galletas la estoy implantes la <a href=<a href="http://foroacufenos.info>aparato" target="_blank">http://foroacufenos.info>aparato</a> auditivo para sordos</a> acúfenos definicion :( eso karen y zumbido en oidos qué obvio qué acufenosforo que pase él  acufenos.org <a href="<a href='http://tinnitustratamiento.info">audifonos' target="_blank">http://tinnitustratamiento.info">audifonos</a> de sordera</a> más utilizando si sonidos acufenos esta sano un acufenos homeopatia vamos generoso trabajado tenerte es fracasa más contra la eyaculación precoz eso ud un por comenzamos lo zumbido en el oido derecho las cultura las sintomas del tinnitus algo disfrutes aquí acufenos tipos su destinado sufro noche algo amanece del tinnitus cronico si realmente un un curas pero más monja los milagro del acufeno por artículos ya estoy comienzo muy<div class="comment_navi">
+[ 2012/08/19 13:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://acufenosforo.info";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">DeveDrogirl</a>') } else {
+document.write("DeveDrogirl"); }
+</script>
+<noscript>
+<a href="http://acufenosforo.info" target="_blank">DeveDrogirl</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=41885" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-1262.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="1262"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/1262-dd33cb42">http://oyoguyaruo.blog72.fc2.com/tb.php/1262-dd33cb42</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1278.html" title="やる夫はマイホームパパのようです　　その１２　　　Ａパート ">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1276.html" title="やる夫がジャンプ打ち切り漫画を好き勝手評論するようです 　 　その１４">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

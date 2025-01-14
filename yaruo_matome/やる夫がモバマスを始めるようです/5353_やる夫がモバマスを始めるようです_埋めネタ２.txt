@@ -1,0 +1,783 @@
+<div class="article">
+
+
+
+
+    　　　　　 |:::::::::;;;;:| :;:;:;:;:::::|
+    　　　　　ﾊ:::::::::::;;;|:::::;;;;:;ｲ;;l
+    　　　　 ｛､::::`ー‐::'':":::::::, ;;l
+    　　　　 |仆､:::::::::::::::;;;;;; _ノ'ﾐi
+    　　　　 lﾐ{　｀ ﾆ == 二 　 lﾐ|
+    .　 　 　 {ﾐ|　, =､、　,.=-､　ljﾊ
+    　　　　　{t!　ｨ･=　　r･=,　 !3l　　　　では始めるでおじゃ
+    　　 　 　 `!､　, ｲ_ _ﾍ　 　 l‐'
+    　　　　　　 Y {　r=､__ ` j ﾊ 'ﾞ＼　　 やる夫氏！
+    .　 r‐、 ／）へ、｀ﾆﾆ´ .ｲ　/ヽ　ゝ
+    　　}　i/ /／）ﾍ｀ ﾆﾆ´__ ノ´　）
+    　　l / ／ ／〉 丶､_　　　＿,ﾉ
+    　 /|　　 ' ／)　 |　　　　　　 ヽ
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　あいあいおー
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／　　　 では今回はクール系でいきますおー
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+
+
+
+
+
+960 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:07:22 ID:CkgGW8mI0
+
+
+
+
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　 　 　 　 　 　 　 　 　 　_,..、_
+    　 　 　 　 　 　 ,r　´　｀´:　、ヽ｀ .、、
+    　 　 　 　 　.／':,r: : : : : : ＼＼’,: .’,ヽ、　　　　　　　　　　　　　　【渋谷凜】
+    　 　 　　　.////: : !i: : : ! i: : ＼ヽ',: :.',　ヽ
+    　 　 　 　//: ﾘ: : :,i!i: : : :!:ﾄ: : : ヾヽ,: : :!: .
+    　 　 　　!:.!: :|': |: :! i:i: : : :!:!ゝ: :,: :ヾ|: : :.!: .
+    　 　 　 ,! |: : | |!: :!　V、: : :!　ゝ;ﾄ=-,|: : : !: . .i
+    　 　 　,i .||: :.| ||i |____ゞ、、!ﾐ"_,..,ｨr=ﾐi: : : : : ..i
+    　 　 　| .i| : :| |!|!|_,._=_,｀ ゞ　'r'|i´Y|｀'|: : :i: : . .!
+    　　 　 | || : :.|,! rf''行ﾃ 　 　 　.ゞ'"　 i: : :.i: : . .!
+    　　 　 | || : :.|'ヽ.’ ,.ゞ '　 　 　 　 　 　|: : : |: : : .!
+    　 　 /ｲ !|: : :|ﾄ.'.,_、　 　 　'　 　 　 　 !|: : :.|: : : . !
+    　　 ,ﾘ V |: : :|: : :ゞi、 　 　 ,. -　 　 .ｲ:.|: : :.|: : : : .!
+    　 .,ﾘ ./: :ﾉ: : |: : :.| |＞ｭ,_ 　 -　 ／!、: |: : :|: : |: : !i
+    　.,ﾘ /: /:ﾊ: :.|: : : :!　,r　´|＞= ´　 ﾄ,｀ |: : :|: : :|: : !i
+    　!i./:ﾉ//: :!: :|: : ,rイ ／ ﾉ　 　 　 　),! |: !: !: ,: |,: : :.!
+    　!//!': ,': : !: :|r<-=ｱ、!　ﾟ。 　 。.ﾟ／=,!:.|:.!V、:| !: : :!
+    . !':/i: :,': : :,ｨ!:.|:ﾆ||| !　iゝ 　ﾟpﾟﾟ.／ソ'　|: !ﾘ.ゞﾆヽ:!i: :.,',
+    .,':,! |: :!: : /ﾆ| |三!i　　 Y"^ﾆゝ／ 　 .ﾉ: !三三三ヽ!: i!ゝ,
+    .|ﾘ /ｲ|: :/三:| |三!ii 　　|,..._　ﾉ　 　 ｲ!:i'三三三三ii!: |!ﾐ'
+    !ﾚr'|: :|: !三ﾆ,) !三i,i! 　 |　｀|　　／,ｲ!,!三三:,!三ﾆﾑ: |.’
+    ｲ　 V:!:i三ﾆ/:ﾑ',三i,'i!, |r'　|' ／イ三|'三三:,'三三ﾆﾄ,!
+    |! 　 ∨'三:i'三ﾆゞ三:i,i!(, ノ' イ三三:|三三:,!三三三ﾑ
+    |ゝ　/三三:!三三三三,.,<"´三三三三三:.,!三三三三!
+    　　|三:.!三ﾑ三三三:.(: :)|三三三三三三|三三三三ﾆ|
+    　　/三三ﾆﾘ三三三三|.||三三三三三三三'三r三三ﾆ!
+    　 /三三三!三三三三:.!||三三三三三三i三ﾆ/三三三:
+    　/三!三ﾆ/三三三三:.!i'三三三三三三:|ﾆイ三三三三
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+　　　　　　　　　　　　<a href="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/201302090705185d0.jpg" target="_blank"><img alt="渋谷" border="0" height="300" src="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/201302090705185d0s.jpg" width="240"/></a>
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　何か人気キャラの様ですね
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　　こないだＳレアになってたし
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+961 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:08:16 ID:nh37E4Pw0
+
+
+
+<strong>    凜は正妻だからな</strong>
+
+
+962 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:08:26 ID:mskN4urI0
+
+
+
+<strong>    モバマスの表の顔ですから
+    なお裏の顔は当然ちひろ様</strong>
+
+
+963 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:08:44 ID:CkgGW8mI0
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　っていうか…
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　　これ…
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　「けいおん！」の澪にしか…
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 Ｕ 　 （__人__）　　 　 |　　　　杏仁豆腐先生の描いた澪、みたいな…
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+　　　　<a href="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/20130209070937d1b.jpg" target="_blank"><img alt="渋谷凛" border="0" height="300" src="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/20130209070937d1bs.jpg" width="240"/></a><a href="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/38409.jpg" target="_blank"><img alt="38409.jpg" border="0" height="300" src="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/38409s.jpg" width="300"/></a>
+　
+
+
+
+964 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:09:19 ID:rn1BchXw0
+
+
+
+<strong>    しぶりんは姫カットじゃないじゃないですかー</strong>
+
+
+965 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:09:41 ID:t6XHJCSM0
+
+
+
+<strong>    言うほど似てるとは思えん</strong>
+
+
+967 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:10:11 ID:RI3aOuXI0
+
+
+
+<strong>    それはない</strong>
+
+
+966 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:09:42 ID:B5s5t0D.0
+
+
+
+<strong>    そんなこといったら琴歌ちゃんなんて・・・</strong>
+
+
+973 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:11:00 ID:B5s5t0D.0
+
+
+
+<strong>    凛・琴歌・押忍にゃんは似てるって一応いわれてるな</strong>
+
+
+971 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:10:26 ID:CkgGW8mI0
+
+
+
+
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿＿＿＿　　　　　　　　　【黒川千秋】
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ／:::::::::::::::::::::::::￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　,. - '´￣￣:::::::::::'´￣｀ヽ::::::::ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　 ／::::::::／:::::::::::::::::::::::::::::::::::::::＼::::::.
+    　　　　　　　　　　　　　　　　　　　　　 　 ／::::::::::/:::::::::/:::::::::::::::::::::::::::::::::::::::＼:::.
+    　　　　　　　　　　 　 　 　 　 　 　 　 　 //::::::::::/:::::::::/::::::::::::::::::::::::ヽ:::::::ヽ::::::::|:::::.
+    　　　　　　　　　　　　　　　　　　　　　 //::::::::::i:|::::::::::|:::::::::::::::i::::::::::::::i::::::::::!:::::::!:::::::.
+    　　　　　　　　　　　　　　　　 　 　 　 //::::::::::::|:|::::::::::|:::::::::::::::|::::::::i:::::|:::::::::|:::::::|:::::::::
+    　　　　　　　　　　　　　　　　　　　　//:::::::::::::::|:ﾄ､:::::::ﾄ、::::::::::|:::i::::|::: |:::::::::|:::i:::!|::::::::i
+    　　　　　　　　　　　　　　　　　　　　jハ::::::::::::::N ￣｀ヽヽ＿__ﾄ､ﾄ､j-┼‐-::!:::|::|:!::::::::|
+    　　　　　　　　　　　　　　　　　　　　　　｀7:::‐千芹芋ミ､　　　 ,.斗＝ミメ/j/j/ﾚi::::::::|
+    　　　　　　　　　　　　　　　 　 　 　 　 　 |:::::::ハ　弋ツ　　　　 　 込ソｲ7´:::::::|::|::::::::!
+    　　　　　　　　　　　　　　　　　　　　　　/|:::::::::/}　　　　　 　 　 　 　 　 ′:::::: |::|::::::::|
+    　　　　　　　　　　　　　　　 　 　 　 　 /:/:::::::/∧　　　 　 ' 　 　 　 　 //::::::::: |::|::::::::|
+    　　　　　　　　　　 　 　 　 　 　 　 　 /:/:::::::/:::::人 　 　 _ ＿　 　 　 //::::::::::://|::::::::|
+    　　　　　　　 　 　 　 　 　 　 　 　 ／:/:::::::/:::::::::::个..､　　 ‐　｀　　イ/::::::::::://:::|::::::::|
+    　　　　　　　　　　　　　　　　　 ／::::/:::::::/::/::::/::: |::::::i＞　._,.　 ´　 !:::::::::::://::::::!::::::::!
+    　　　　　　　　　　　　 _＿＿／:::／'::::::::/::/::::/:::::::|::__」　　　 　 　 /::::::::::://::!:::::|::::::::!
+    　　　　　　　　　　／／￣／::／ /::::::::/::/::::/:::＿／／!　　　　　 /::::::::::://::::|::::::|:::::::|
+    　　　　　　　　 ／／　 ／::／　 /::::::::/::::{::::::し'::::／　ノ　　　　　/::::::::::://:|::::「￣￣ヽ
+    　　　　　　　／／　　/:::::/　 ／:::::::::/::::::,ﾐ=--イ-8　　　　　 _o/::::/:::://:/!::::|　　　　 :.
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+　　　　　　　　<a href="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/20130209071140449.jpg" target="_blank"><img alt="黒川千秋" border="0" height="300" src="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/20130209071140449s.jpg" width="240"/></a>
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　説明不要ですよね
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　　スレで散々ネタにしたし
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+972 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:11:00 ID:2jjZFY960
+
+
+
+<strong>    いい娘なのに不憫</strong>
+
+
+974 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:11:11 ID:rn1BchXw0
+
+
+
+<strong>    このスレの所為で黒川さんがガチャで出るたびに変な笑いする羽目になった</strong>
+
+
+975 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:12:13 ID:CkgGW8mI0
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　なんかＳレアにもなってる様で
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　　強いのかどうかは知らないけど
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　いつかその黒川さん・剛種にも
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　　　　お目にかかってみたい物ですお…
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+976 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:12:43 ID:t6XHJCSM0
+
+
+
+<strong>    SRにはなってない</strong>
+
+
+977 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:13:21 ID:RI3aOuXI0
+
+
+
+<strong>    黒川さんSRしてたのかー
+    知らなかったなー（棒）</strong>
+
+
+978 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:13:42 ID:rn1BchXw0
+
+
+
+<strong>    黒川さんって強Rまでじゃね？
+    水本さんと勘違いしている可能性が微レ存</strong>
+
+
+986 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:18:14 ID:CkgGW8mI0
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　Ｓレアじゃなかった
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 Ｕ 　 （__人__）　　 　 |　　　期間限定ノーマル止まり、の間違いですお
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼　　　Ｓレアなら大出世じゃねえか
+
+
+
+
+979 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:14:52 ID:CkgGW8mI0
+
+
+
+
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　　　　∧,/////　　/　,八./,,.::/
+    !:､　　i'　 ﾞ､ー､　./,/ |i./　　 ／ ,　　　　　 　　 ／
+    ..lヽ.／/　||､　 .＼ ;;; j l ,.r''/ｰ'7　　　　　　　 /　　　　　悪　　　　　　　　　【松本沙理奈】
+    . | ii i |　 ||. ﾞ:､　　｀ヽ! .| ／j;;'´　　　　　　　./　　　ち　 は
+    `ヽ l.l.|.　 | |　ヽ､_ ､ 　 ｀<>'┴-､　　　　　 .;'　　 　 ゃ
+    -:､ヽlヽヽ ;';';'　,t'/'＼-'　､'　　　/　　　　　|　 殺　.あ
+    ｀ヽヽ_ﾐﾐﾐ　;';'; ,//',.i　/,... ヽｒ―‐i,ｒ─i　_,,,:!.　 さ　 │
+    ＿_ヽヽ.ﾐ　 ､_.j　j'・',　/,r'':､.|＼￣ ＼ﾞi￣ | 　 な 　│
+    　　ﾞ`ヽ､ﾆ::｡'' ｀''''''"　l |　 .|:|　 ＼ 　 ＼　 |　 い　 ん
+    　　　　./,､''’　,...r'lﾞ` ､l|',,iﾉ_|`／'"ニニヽ´'|　 と 　.と
+    　　　　{　 >.ヘ!. jv丶 | ,i´ ,}',ｲ i'´ .ﾞ､　￣ﾞ､ﾞi　ね
+    　　　　 ﾞ､バ｀Ylヽ.jﾐ}:､|.|/　l .;' ､　　.ﾞ､ 　　ゝ?
+    　　　　　　　| / ヽ''　　' | l´.ﾞ､l　丶　　ﾞ､　 　 ヽ.
+    　　　　　　　ﾚ　 ,:`､l ,r''.iﾞ `-｀ﾞi　　　　　ﾞ､　　　＼　　　　,／
+    　　　　　　　 ,／,l　|,{　ﾐﾞi､!､_| | ､　　　　　ﾞ､ ,.-､....r､ニ､´
+    　　　　　　　ﾂ／ .／ﾞ､'"ヽ'ji￣　ﾞ､　　　　　　ﾞ､_ﾞ､,ヾ二L ｀ヽ.
+    　　　　　 ／　　,/　 ／､'-'|　｀i''''''ﾞ､　　　　　　 `------!:､　ﾞi
+    　　　　／　　 ,/ ／==/i/,ﾆヽ||　　 ﾞ､　　　　　 ,.. -─--.､ ﾞヽ:|
+    　　 ／　　　,//'/''´ ,//^｛ l'"}､　　　ﾞ､　 　 ／ ,..-''''''''''-､ﾞヽ､.|
+    　 //|　　 ,// ､'_　O//ヽ `￢'￣￢''''|ﾞ､　./　/ ,-''"""`ヽ｀､ ﾞl|
+    　〈　.|　 ,//　 .| ヽ /./　|iー-ﾞi　　　/--､ |　;' .i　　　　　　l ﾞl　|
+    　　|ヽ∨/　　.|　 〈　{､　!_ﾞー-二ニ-''"´'､|　| .|　　　　　　j j　.|
+    　 .|　}'" ,/　 .|　　.|＼ ＼￣`''''''''''" ／　,,ヽ　 .ヽ　　　　,ノノ ノ
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    （※ＡＡが無いので、「アクメツ」より主人公、アクメツで代用）
+
+
+　　　　　　　　　　<a href="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/SARINA.jpg" target="_blank"><img alt="SARINA.jpg" border="0" height="300" src="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/SARINAs.jpg" width="240"/></a>
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　実はやる夫、このキャラも知ってたんだお
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+983 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:16:20 ID:rn1BchXw0
+
+
+
+<strong>    松本さんを知ってたのは、この子もパイオツカイデーなチャンネーだからか</strong>
+
+
+985 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:17:09 ID:CkgGW8mI0
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　やる夫が１０年以上見に行ってるブログサイトで…
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　胸が大きいくらいしか際立った特徴無し、とか…
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／　　　同期がレアになる中、彼女はＳレア止まりとか…
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　そんな境遇でも調子に乗ってる態度が悲しく、愛おしい、とか…
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 Ｕ 　 （__人__）　　 　 |　　　だから彼女を見る度、複雑な気分になるお
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+989 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2013/02/06(水) 23:18:30 ID:rn1BchXw0
+
+
+
+<strong>    水着松本さんはおっぱいが大きくて面倒見のいいおねーちゃんって感じで良かったです
+    調子乗ってるけど小さい子をほっとけない近所のお姉さんキャラで売りだせばいいと思います</strong>
+
+
+993 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:21:56 ID:CkgGW8mI0
+
+
+
+
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 .　-　‐……‐　-　.
+    　　　　　　　　　　　　　　　　 　 　 　 　 　 ／　　　　　　　　　　　　＼　　　　　　【桐野アヤ】
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 . -- .
+    　　　　　　　　　　　　　　 　 　 　 　 　 /　　　　　　／,__j i__,＼　　　　　‘，
+    　　　　　　　　　　　　　　　　　　　　　/　　　　　 ,ｨ圦.ーi i一.厄､ 　 　 　 ；
+    　　　　　　　　　　　　　　　　　　　　 ,' 　 　 　 ／三ﾍ乂ｊ |乂/三.＼ 　 　 |ー ､
+    　　　　 　 　 　 　 ＿＿__ 　 　 ＿／|　　／／ニ三三≧=≦三三ニ＼　 ‘:.:.:.:.:＼
+    　　　　　　　　　 /77777∧z彡／／j 　//=＞‐=＝ニ二二ニ＝=‐＜=ﾍ　 ＼:.:.:.: ヽ
+    　　　　　　　　 ,////////∧ﾞ〃:｛　 　_ｊ/／∠三三三三三三三三ヾ＼}｝ 　 ｝ :.:.:.:.‘，__
+    　　　　　　　　/＞＝＜///∧:.:.:. ＼_/｀ヾ乂三彡tｯー=ﾆﾆ=-tｯミ三乂}ﾍ._／:.:.:.:.:.:.:.:‘， ＼
+    　　　　　　　／　　　　　｀ﾟ'＜｝:.:.:.:.:.:.:{ /∨　ｊ　｀ ー‐´イ｀ヾ｀ ー‐´　∨{ﾊ Ｙ:.:.:.:.:.:.:.:.:.:.:‘，＼＼
+    　　　　　　　 　 　 　 　 　}　　 ｀ヾー:{ { ｛　｛　 　 　 　 { 　 }　　　　　 } ｝ } }:.:.:.:.:.:.:.:.:.:.:.:.:.＼:.:＼｀ ー
+    　　　　　　　　　　　　 　 ﾘ　　　　}　　｀ヾ{　 ｀ ー=彡ｲ　 　 ｝彡`ｰ=彡 ﾚ'Ｖ :.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:＼:.:｀ ー
+    　　　　　　　　　　　　 　 　 　 　 ﾉ　　　 }{　　　　　 __,＞-＜__　　　　　{／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.｀ ー
+    　　　　　 　 ＼＿＿彡へ ＿_／　　 　 ハ　　 ´￣｛＿二二＿｝￣｀　　}:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+    　　 　 　 　 　 ￣￣￣￣￣ ｀ヽ　　 　 {:八　　　　　　　　　　　　 　 　 八:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+    　　　　　　　 　 　 　 　 　 }　　 l　　 　 |:.:.{ ＼　　　 　 　 　 　 　 　 ／ /:.:.:.:.:.:.:.:.:.:.＞　´￣￣￣￣
+    　　　　　　　　　　　　　　　　　人　 　 ﾉ: :ヽ.　｀ヾ､　　 　 　 　 彡イ j／:.:.:.:.＞　´_　＜三三三三
+    　　 　 　 　 .､__＿＿＿＿彡く　/≧≦:.:.:.:.:.:.＼　　｀"""""""´ 　 ／＞　´_　＜三三三三三二ﾆ
+    　　　　　　　　 　 　 　 　 　 　 Ｙ,/二ニ=-_:.:.:.:.:＼　　　 　_　-=彡'´_　＜三三三三三三三二ニ
+    　　　　 　 　 　 　 　 　 　 }　　 |!{三三三二ニ=-_:＼ 　／: :／　／ニ二三三三三三三三三二ﾆ
+    　　　　　　　　　 　 　 　 　 　 丿{三三三三三二ニ=-_:.:.／　／二三三三三三三三三三三三ﾆ
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    （※ＡＡが無いので、「宇宙戦艦ヤマト」の沖田艦長で代用）
+
+　
+　　　　　　　<a href="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/20130209071809d5f.jpg" target="_blank"><img alt="桐野アヤ" border="0" height="300" src="http://blog-imgs-48.fc2.com/o/y/o/oyoguyaruo/20130209071809d5fs.jpg" width="240"/></a>
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　以前も言った通り、はすっぱな娘は好きですお
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　なのでこの娘も結構好きですお
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／　
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+998 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:23:51 ID:CkgGW8mI0
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　イギリスＬＩＶＥでのテンパッた反応は良かった…
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　///　 （__人__）　/// |　　　　うん
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／　
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　能力値的に戦力にならないのが残念でならない…
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 Ｕ 　 （__人__）　　 　 |　　　　レアくらいにならなってそうだけど…
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／　
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+999 ： <span style="color:#009900"><strong>◆tTqq7WX6Uo</strong></span>：2013/02/06(水) 23:24:27 ID:CkgGW8mI0
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　今回はこれで終わりだおー
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／　　　 適当に埋めちゃって下さいお
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5353/clap" id="fc2button-clap-5353" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5353").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/1.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5353/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫がモバマスを始めるようです　埋めネタ２" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5353.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5369.html">
+					やる夫がモバマスを始めるようです　最終回 (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5368.html">
+					やる夫がモバマスを始めるようです　第十九回 (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5367.html">
+					やる夫がモバマスを始めるようです　第十八回 (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5366.html">
+					やる夫がモバマスを始めるようです　第十七回 (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5363.html">
+					やる夫がモバマスを始めるようです　第十六回 (2013/02/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5361.html">
+					やる夫がモバマスを始めるようです　第十五回 (2013/02/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5354.html">
+					やる夫がモバマスを始めるようです　第十四回 (2013/02/09)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫がモバマスを始めるようです　埋めネタ２ (2013/02/09)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5350.html">
+					やる夫がモバマスを始めるようです　第十三回 (2013/02/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5349.html">
+					やる夫がモバマスを始めるようです　番外　１０連プラチナガチャ編 (2013/02/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5346.html">
+					やる夫がモバマスを始めるようです　第十二回 (2013/02/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5345.html">
+					やる夫がモバマスを始めるようです　第十一回 (2013/02/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5344.html">
+					やる夫がモバマスを始めるようです　埋めネタ (2013/02/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5337.html">
+					やる夫がモバマスを始めるようです　第十回 (2013/02/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5333.html">
+					やる夫がモバマスを始めるようです　第九回 (2013/02/03)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫がモバマスを始めるようです　埋めネタ２" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/02/09 07:22 ]
+<a href="/blog-category-451.html" title="カテゴリを参照">ゲーム系　やる夫がモバマスを始めるようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html#comment_list" title="この記事のコメントを参照">CM(6)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5353"
+    dc:title="やる夫がモバマスを始めるようです　埋めネタ２"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html"
+    dc:subject="ゲーム系　やる夫がモバマスを始めるようです"
+    dc:description="　　　　　 |:::::::::;;;;:| :;:;:;:;:::::|    　　　　　ﾊ:::::::::::;;;|:::::;;;;:;ｲ;;l    　　　　 ｛､::::`ー‐::'':":::::::, ;;l    　　　　 |仆､:::::::::::::::;;;;;; _ノ'ﾐi    　　　　 lﾐ{　｀ ﾆ == 二 　 lﾐ|    .　 　 　 {ﾐ|　, =､、　,.=&#45;､　ljﾊ    　　　　　{t!　ｨ･=　　r･=,　 !3l　　　　では始めるでおじゃ    　　 　 　 `!､　, ｲ_ _ﾍ　 　 l‐'    　　　　　　 Y {　r=､__ ` j ﾊ 'ﾞ＼　　 やる夫氏！   ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-02-09T07:22:44+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5354.html" title="やる夫がモバマスを始めるようです　第十四回">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5350.html" title="やる夫がモバマスを始めるようです　第十三回">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment52226">[ 52226 ] <strong></strong></p>
+</div>
+<div class="comb">
+松本さんはとても可愛い<div class="comment_navi">
+[ 2013/02/09 11:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5353" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52231">[ 52231 ] <strong></strong></p>
+</div>
+<div class="comb">
+マバマスは杏仁豆腐が描いてないんじゃないのか？<div class="comment_navi">
+[ 2013/02/09 15:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5353" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52249">[ 52249 ] <strong></strong></p>
+</div>
+<div class="comb">
+ムギモドキは擁護せんけど澪とあずにゃんは違うだろと言いたい
+けいおん好きなのはわかるけどさぁ<div class="comment_navi">
+[ 2013/02/09 20:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5353" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52262">[ 52262 ] <strong></strong></p>
+</div>
+<div class="comb">
+あんまけいおん好きじゃないから一緒にされると複雑な気持ちになる
+ていうか、しぶりんと澪って共通点髪がロングって部分だけだろｗ<div class="comment_navi">
+[ 2013/02/09 23:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5353" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52265">[ 52265 ] <strong></strong></p>
+</div>
+<div class="comb">
+年をとってくると差異がわからなくなる。皆横山光輝の顔に見えてくる<div class="comment_navi">
+[ 2013/02/10 00:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5353" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52379">[ 52379 ] <strong></strong></p>
+</div>
+<div class="comb">
+※52231
+一部だけ杏仁先生で他は杏仁先生に似せて書いてる、んじゃなかったかな。
+(ひょっとしたら全部似せて描いてるだけかも)<div class="comment_navi">
+[ 2013/02/11 16:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=52379" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5353.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5353"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5353-90df2335">http://oyoguyaruo.blog72.fc2.com/tb.php/5353-90df2335</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5354.html" title="やる夫がモバマスを始めるようです　第十四回">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5350.html" title="やる夫がモバマスを始めるようです　第十三回">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

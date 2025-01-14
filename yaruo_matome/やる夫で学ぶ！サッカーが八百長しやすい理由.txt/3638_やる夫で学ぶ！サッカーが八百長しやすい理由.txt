@@ -1,0 +1,4789 @@
+<div class="article">
+
+
+
+
+今回はアソシエーション・フットボール（サッカー）が
+なぜ八百長がしやすいかのお話です。
+
+
+
+
+　　　　　　 ::　　　　　　　　　　　　　 　 .|ﾐ|
+　　　　　　　::　　　　　　　　　　 　 　 　.|ﾐ|
+　　　　　　　　::　　　　　　　　　　 　 　 .|ﾐ|　　　　　　　　　　 ::::::::
+　　　　　　　　　:::::　　　　　＿＿＿＿　|ﾐ|　　　　　　　　　 ::::
+　　　　　　　　　　 ::　,. -'"´　　　　　　｀¨ー ､　　　　　　　::
+　　 ::　　　　　 　 ／　　　,,.-'"　　　　　　ヽ　 ヽ、　　　 ::
+　　　:: 　　　 ,,.-'"_　 r‐'"　　　　　,,.-'"｀　　　　　ヽ、　::
+　　　:: 　　/　　　 ヾ (　　　 _,,.-='==-､ヽ　　 　 　 　 ヽ、
+　　　:: 　　i へ＿__ ヽゝ=-'"／　　　 _,,>　　　　　　　　 ヽ　
+　　 ::　　 ./ /　　＞ ＝'''"　￣￣￣　　　　 　 　 　 　 　 ヽ　
+　　:: 　　/ .<_　ノ''"　　　　　　　ヽ　　　　　　　　　　　　 　 i
+　 ::　　 /　　　 i　　　人＿　　　ノ　　　　　　　　　　　　　　.l
+　　:: 　,'　　　　 ' ,_,,ノｴｴｴｪｪ了　　　　　　　　　　　　　　　/
+　　　　i　　　　　　　じｴ='='='" ',　　　　　　　　　　　　　　/　::
+　　　　',　　　　　　 (___,,..----U　　　　　　　　　　　　 ／　::
+　　　　 ヽ、　　　　　　　　 __,,..　--------------i-'"　　::
+　　　　　　ヽ､_　　　__ -_'"--''"ニニニニニニニﾆヽ　　 ::
+　　　　　　　　 ｀¨i三彡--''"´　　　　　　　　　 　 　 ヽ　　::
+　　　　　　　　　 /　　　　　　　　　　　　　　　 　 　 　 ヽ　::
+　　　　　　　　　/　　　　　　　　　　　　　　　　　　　　　ヽ::
+　　|　 -┼　　　 　　|　ヽヽ　　　　　-┼- 　　　　　｜　｜
+　　|.　　｜　 　　　　|.　　　　　　　　-┼-　　　　　　し ｜
+　　し 　ｄヽ　　　　　ヽ＿/　　 　　　α^ヽ　　　　　　　ノ
+
+
+
+
+
+
+
+
+
+7 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:38:14.25 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　　　　　 　　 　 ＿＿＿　　　　 ＿＿＿＿＿＿＿_
+    　　　　　＿___,..／　　　　　＼ 　　| |　　　　　　　　　　| 　　　　また誤審で負けたお・・・
+    　　　 ノ　　 ／　 　GG 　 　 ＼　 | |　　　　　　　　　　| 　　　　なんでサッカーはいつもいつも
+    　 ／　　 ／　　 　　　　 　 　 　 　| |　　　　　　　　　　| 　　 　 審判のレベルが低いんだお・・
+    　|　　 　 |::..　　　　　　　　　　 ...::::| |　　　　　　　　　　|
+    　ヽ　　　 -一ー_~､⌒)^),-､;;;;;:::／| |_＿＿＿＿＿＿__|
+    　　ヽ ＿＿＿＿,ノγ⌒ヽ)ニニ-￣　　　| |　　|
+
+
+
+
+
+
+8 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:39:14.60 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　　　　　　＿＿＿_
+    　　　　　　　⌒　＼　／ ＼
+    　　　　　　／　（○）　（○）＼
+    　　　　 ／　　　 （__人__）　　 ＼　　　　　　　Jリーグみたいな低レベルな試合ならともかく
+    　 　 　 |　 　 　　　|::::::|　　　　　|　　 　　　　これはW杯だお？国家の戦争だお！
+    　　　　 ＼ 　 　 　 l;;;;;;l　　 　／l!| !　.　　　　国の誇りを賭けた一戦なんだから
+    　　　 　／　　　　　`ｰ'　 　　＼ |i 　　　　　 せめて、審判増やすとか、VTR判定を導入すべきだろ！
+    　　　／　　　　　　　　　　ヽ !l　ヽi
+    　　 （　　 丶- 、　　　　　　 しＥ　|そ　　ドンッ！！
+    　　　　`ー､＿ﾉ 　 　 　 ∑　l､Ｅ ﾉ　<
+    　　　　　　　　　　　　　　　ﾚY^Ｖ^ヽｌ
+
+
+
+
+11 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:40:34.52 ID:IDQYTHdA0]
+
+
+
+<strong>    VTR判定はFIFAの会長が導入すべきっていってたけど周りは冷めてるな</strong>
+
+
+10 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:40:00.54 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●） 　　　　　.うるさいと思ったら
+    .　|　　　　 （__人__） 　 　　　　やる夫か。
+    　 |　　　　　｀ ⌒´ﾉ　　　　　　またサッカー見て一人で熱くなってんのか。
+    .　 |　　　　　　 　 } 　　　　　　いいじゃないか。誤審もサッカーの一部だよ
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+    　　　　　　＿＿＿_
+    　　　　 ／＼　　／＼
+    　　　／（ ●） 　（●）＼
+    　 ／ :::::⌒（__人__）⌒:::::＼　　　やらない夫はW杯の価値を知らないから
+    　 |　　　　　|r┬-| 　 　 　 | 　　 そんな他人事みたいなコメントができるだけだお
+    　 ＼ 　 　　｀ ー'´ 　 　 ／
+
+
+
+
+
+12 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:41:02.13 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　　　 　 ＿＿＿_　　　
+    　　　　　　 ／ ＼　　／＼　ｷﾘｯ
+    .　　　　　／　（ー） 　（ー）＼　　　　　　
+    　　　　／　　 ⌒（__人__）⌒ ＼　　　　　　　　　　.サッカーはユニバーサルスポーツであり
+    　　　　|　　 　　　|r┬-|　　　　| 　　　 　　　　　　.競技人口も世界一。その世界一を決めるW杯というものは
+    　　　　 ＼　　　　 `ー'´　　 ／　　　　 　　　　　　その国の国力を測るものさしのようなもんなんだお。
+    　　　　ノ　　　　　　　　　　 　＼ 　　　　　　　　　 過去、熱くなり過ぎて実際に戦争になった例もあるお！
+    　 ／´　　　　　　　　　　　　 　　ヽ 　 　 　 　 　 　言い換えれば、これは、まさに擬似戦争なんだお！
+    　|　　　　ｌ　　　　　　　　　　　　　　＼
+    　ヽ　　　 -一''''''"～～｀`'ー--､　　　-一'''''''ー-､. 　 　
+    　　ヽ ＿＿＿＿(⌒)(⌒)⌒)　)　　(⌒＿(⌒)⌒)⌒))
+
+
+
+
+    　　　　　　　　　＿＿＿_
+    　　　　　　　⌒　＼　／ ＼
+    　　　　　　／　（○）　（○）＼
+    　　　　 ／　　　 （__人__）　　 ＼　　　　　そんな大会で誤審だ？
+    　 　 　 |　 　 　　　|::::::|　　　　　|　　 　　.こんなの許されないお！
+    　　　　 ＼ 　 　 　 l;;;;;;l　　 　／l!| !　.　　やらない夫もここまで説明受ければ
+    　　　 　／　　　　　`ｰ'　 　　＼ |i 　　　　やる夫が義憤に耐えない気持ちもわかるだろ！
+    　　　／　　　　　　　　　　ヽ !l　ヽi
+    　　 （　　 丶- 、　　　　　　 しＥ　|そ　　ドンッ！！
+    　　　　`ー､＿ﾉ 　 　 　 ∑　l､Ｅ ﾉ　<
+    　　　　　　　　　　　　　　　ﾚY^Ｖ^ヽｌ
+
+
+
+
+
+14 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:41:52.63 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）　　　　　　　ほう・・・そんな凄い大会だったのか
+    .　|　　　　 （__人__）　
+    　 |　　　　　｀ ⌒´ﾉ　
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+15 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:42:21.87 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）　　　　　　　　.そこまで重要な大会なら
+    .　|　　　　 （__人__）　 　　　　　　　やる夫のいうように審判の数増やしたり
+    　 |　　　　　｀ ⌒´ﾉ　 　　　　　　　.VTR判定導入したりして試合やればいいんじゃないのか
+    .　 |　　　　　　 　 } 　　　　　　　　　なんで問題になってるんだよ・・・意味不明だろ
+    .　 ヽ　　　　　 　 } 　　　　　　　　　常識で考えて
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／　　 　 　＼
+    　　　　　／　 _ノ 　ヽ､_　 ＼
+    　　　 ／ oﾟ(（●）) (（●）)ﾟo ＼ 　　それは、サッカーというスポーツの性質上
+    　　　 |　　　　 （__人__）　　　　| 　　.試合の流れを止められないからだお
+    　　　 ＼　　 　 ｀ ⌒´ 　 　 ／
+
+
+
+
+
+
+16 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:42:56.79 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　 　 　＿＿＿_
+    　　　　 ／＼　　／＼
+    　　　／（ ●） 　（●）＼
+    　 ／ :::::⌒（__人__）⌒:::::＼　　　サッカーは攻防が一瞬で交代したり
+    　 |　　　　　|r┬-| 　 　 　 | 　　一瞬の思考の隙を衝いて得点したりするから
+    　 ＼ 　 　　｀ ー'´ 　 　 ／ 　　 とにかく「一瞬」がキーワードになるスポーツだお
+
+
+
+
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／　　 　 　＼
+    　　　　　／　 _ノ 　ヽ､_　 ＼
+    　　　 ／ 　oﾟ⌒　　　⌒ﾟo　 ＼ 　　だから試合を止めると
+    　　　 |　　　　 （__人__）　　　　|　　 サッカーの面白さを無くしてしまうんだお・・
+    　　　 ＼　　 　 ｀ ⌒´ 　 　 ／ 　　 これは、フットボールの自殺といわれるお
+
+
+
+
+
+18 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:43:37.72 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼　
+    　／　　 _ノ　ポ＼　　　
+    　|　　　 （ ー）（ー）　　　なるほど・・色々大変そうだな
+    .　|　u.　　 （__人__）　
+    　 |　　　　　｀ ⌒´ﾉ　　
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }　　　　　
+    　　 ヽ　　　　　ノ　 　
+    　 　 i⌒＼ ,__(‐- ､　　 　　
+    　 　 l ＼　巛ー─;＼　　
+    　　 　|　｀ヽ-‐ーく＿）　　
+    .　　　 |　　　　　　l　
+
+
+
+    　　　　 ／￣￣＼
+    　　　／　　 _ノ　　＼
+    　　　|　　　 （ ●）（●　　　じゃあ、そもそも、サッカーで真剣勝負しようってのが
+    　　　|　　　 　 （__人__）　 　間違ってんじゃないのか？
+    .　　　|　　　　　　　　ﾉ
+    　　　 |　 　 　 ∩ ノ ⊃　　
+    　　／ 　 　 .／　＿ノ　　 　
+    　 (.　 ＼ ／　.／_ノ │
+    　　＼　 “　／_＿_|　 |
+    .　　　 ＼／ ＿＿＿ /
+
+
+
+
+
+19 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:44:47.33 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　 　　　＿＿＿_
+    　　　 ／::::::─三三─＼　　
+    　　／:::::::: （ ○）三（○）＼　　　　　おまえは何を聞いてたんだお・・
+    　　|::::::::::::::::::::（__人__）:::: 　|　 　　　 真剣勝負だから
+    　 　＼:::::::::　 　|r┬-| 　,／　. 　　　.ここまで怒ってるんだろ。
+    　　　ノ::::::::　　　`ー'´　　＼ 　　　　.常識で考えて。
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）　　　　　　　　.だから、サッカーの面白さを無くさないで
+    .　|　　　　 （__人__）　 　　　　　　　審判の数増やしたり、VTR判定導入はできないんだろ？
+    　 |　　　　　｀ ⌒´ﾉ　 　　　　　　　真剣勝負は無理じゃん。
+    .　 |　　　　　　 　 } 　　　　　　　　 .やる夫が、今、言ってたことを
+    .　 ヽ　　　　　 　 } 　　　　　　　　　言い換えただけだぞ。
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+22 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:45:36.38 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　 　　 　　＿＿＿_
+    　 　　　／　　 　 　＼ 　　　　
+    　　　／　─　 　 ─　＼　　　
+    　 ／ 　 （●） 　（●） 　 ＼　　・・・・・・・・・
+    　 |　 　 　 （__人__）　　　　| 　
+    　 ＼　　 　 ｀ ⌒´ 　 　 ／ 　
+
+
+
+
+    　 　　　　 ＿＿＿_
+    　 　　　／　　 　 　＼ 　　　　 ..いや・・・そういう不条理を含めて
+    　　　／　─　 　 ─　＼ 　　　 サッカーなんだお。
+    　 ／ 　 （●） 　（●） 　 ＼　　
+    　 |　 　 　 （__人__）　　　　| 　　だから勝ったときの喜びが半端じゃないし
+    　 ＼　　 　 ｀ ⌒´ 　 　 ／ 　　負けたときの悔しさが凄いんだお
+
+
+
+
+
+24 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:46:26.93 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　＿＿＿
+    　 　 ／　　　　＼　　　　　　 ＿＿＿
+    　 ／ﾉし 　 u;　　＼　　　;／(＞)＾　ヽ＼;　　　　　だから、それが、「誤審もサッカーの一部」
+    　 |　⌒ 　　　　　　 )　;／ 　(＿　 （＜） ＼;　　　 じゃないのかな？
+    　 | 　　、 　　　　　 );/　　 /rｪヾ__）⌒:::　 ヾ;　　　
+    　 |　　＾　 　　　　　| i　　 ｀⌒´-'´　　u;　　ﾉ;;
+    　 |　　　　　　 　 　|　＼ヽ　、　 ,　　 　　／;　　ちょ、苦しいお・・・
+    　 |　　;j 　 　 　　　|／ ＼-^^ｎ ∠　　 ヾ、　　
+    　 ＼　　　　　　 ／ ! 、　/￣~ﾉ　＿＿/　i;
+    　 ／　　　　 　⌒ヽ ヽ二)　 /（⌒　　　 ノ
+    　/　　　　　　　r、 ＼ / 　./　 ￣￣￣/
+
+
+
+
+
+26 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:47:20.52 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　 　　 　　　　 ＿＿＿_
+    　　　　　　　／ ノ　　＼＼
+    　　　　　 ／　（●） 　(●）＼
+    　　　　／　∪　 （__人__）　　＼　　　　　　　　　　落ち着くお。
+    　　　　|　　 　　　｀ ⌒´　　　　|　　　　　　　　　　やる夫は、サッカーは不条理なのが面白いと思うけど
+    　　　　 ＼　/⌒)⌒)⌒)　　 ／/⌒)⌒)⌒)　　　　W杯みたいな大会だけはシビアにやるべきだと
+    　　　　ノ　　|　/　/　/　　　(⌒) ./　/　/　　　　　主張してるだけだお・・・
+    　 ／´　　　 |　:::::::::::(⌒)　　ゝ　　::::::::::/
+    　|　　　　ｌ　 |　　　　　ノ　　/　　）　　/
+    　ヽ　　　 ヽ_ヽ　　　 /' 　　/　　　 ／
+    　　ヽ ＿＿　　 　 ／　　 /　　 ／
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）
+    .　|　　　　 （__人__） 　 　　　　だけどFIFAは「そんなことやらない」って言ってんだろ？
+    　 |　　　　　｀ ⌒´ﾉ　　　　　　だったら、その言葉通り、
+    .　 |　　　　　　 　 }　　 　　　　「真剣勝負はしない」と言ってんだよ
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+29 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:48:24.37 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼
+    　|　 （●）（●）　|　　　　　　　そもそも本当に実力を問う真剣勝負しようと思ったら
+    .　|　　（__人__）　 |　　　　　　　競う能力は限定されてくからな。
+    　 |　　 ｀ ⌒´　　ﾉ　　　　　　 そうじゃないと、何を競ってるか客観的にわからないだろ。
+    .　 |　　　　　　 　 } 　　　　　　そうなると、ルールでプレーを制限するのが普通だから
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　　　.サッカーはそういうのを求めないで
+    　|　　　 （ ●）（●）　　 　　　偶然で勝つとか、そういうゲーム性を選択したんだよ。
+    .　|　　　　 （__人__） 　 　　　　スポーツというより、どっちかっていうとゲームだな
+    　 |　　　　　｀ ⌒´ﾉ　　 　　　 また、それが、サッカーの面白さでもあるんだろな
+    .　 |　　　　　　 　 }　　　
+    .　 ヽ　　　　　 　 } 　　
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+30 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:49:23.47 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　 　　　＿＿＿_　　
+    　　　／　　 　 　＼
+    　 ／　　─　 　 ─＼　
+    ／ 　　 （●） 　（●） ＼　　ん～、言われてみると、思い当たるお。
+    |　 　　 　 （__人__）　 　 |　　やる夫もジャイアントキリングとか
+    /　　　　 ∩ノ ⊃　　／ 　　　　好きだし・・・・
+    (　 ＼　／ ＿ノ　|　 |
+    .＼　“　　／＿＿|　 | 　
+    　　＼ ／＿＿＿ ／ 　
+
+
+
+33 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:50:40.22 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　 　　　＿＿＿_
+    　　　／　　 　 　＼ （ ;;;;(
+    　 ／　　＿ノ　 ヽ__＼) ;;;;)
+    ／ 　　 （─） 　（─ /;;／
+    |　 　　 　 （__人__） l;;,´　　　　でも、戦術が進化するにつれてそういう偶然性は
+    /　　　 　 ∩ ノ)━・'／　 　　 どんどん排除されていってるはずなんで
+    (　 ＼　／ ＿ノ´.|　 |　　　　　実力が結果に反映される、真剣勝負も
+    .＼　 " 　／＿＿|　 | 　　　　できるような気がするんだお
+    　　＼ ／＿＿＿ ／
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　　　確かに昔よりは実力のあるチームが勝つ確率は高くなってるけど
+    　|　　　 （ ●）（●）　　 　　 そもそもサッカーは
+    .　|　　　　 （__人__） 　 　　　..実力差が得点差に反映されない珍しい球技だからな。
+    　 |　　　　　｀ ⌒´ﾉ　　 　　　いくら研究が進んでも
+    .　 |　　　　　　 　 }　　　 　　 他の球技みたいにはなれないよ
+    .　 ヽ　　　　　 　 } 　　
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+35 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:52:15.54 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　　　　　　　　　　　　　　　/'　　　 ヽ
+    　　　　　　 ／￣￣＼ 　　　　 ./　　　　　 i
+    　　　　　／ ._ノ　　ヽ､＼ 　　 /　　　 ...........i
+    　　　　　|　 （●）（●）　|　　/　　 ..:::::::::::::::|　　　　　　足だけ使ってプレーするなんて
+    　　　　　|　　（__人__）　 | 　/　　..::::::::::::::::::l　　 　　　　メジャーな球技だとサッカーだけだろ？
+    　　　　　.|　　 ｀ ⌒´　　.} ./　　..::::::::::::::::::::!　　
+    　　　　　 |　　　　　　 　 }/　　.::::::::::::::::::::/　　　　　　　 不自由な足を使ってプレーすれば
+    　　　　　 ヽ　　　　　　 ./　　 .:::::::::::::::::::/　 　　　　　　 正確さや精密性でどうしても手より劣る。
+    　　　　　　.ヽ　　　　. .／　　.:::::::::::::::::::/ 　　　　　　　　戦術がどうこういっても
+    　　 ,. ‐'"´　 `'‐,r''"~　　　.:::::::::::::::::／　　　　　 　　　　そもそも、その戦術を成り立たせる前提の
+    ..:.／,. -‐‐- ､　l′　　 　 ..:::::::::::::／| 　　　　　　　　　　個々のプレーの正確さってのに限界があるわけ
+    :,'　　　　　　／　　　　 　 !.:::::::／:i..:..l
+    r　　　､　 / 　 　 　 　　　 !:::::::::::　i..:..i　　　　　　　　　　だから、ミスを前提とした戦術にならざるを得ないんだよ。
+    l　　.......`:i　　　 i 　 　 　 　 !::::::::::　ﾞ､:.i 　　　　　　　　　普通はミスが無いことを前提にプレーの戦術を作って
+    !　 ::::::::::/　　　　i　　　　　　 i::::::::::　ヽ:i 　　　　　　　　　ここ一番でミスをしないように練習を重ねるから
+    .!　::::::::/　　　　　i　　　　　 .....i:::::::::::　ヽ 　　　　　　　　 実力差も反映されるわけだ
+    .ヽ ::::::|　　`､　　 `､　 .....::::::::::::l:::::::::::: 　`,　
+    / ＼:::l.　　 `､　　　ヽ::::::::::::::::::::l::::::::::: 　/'''ー─----､
+    　　　`ヽ　　 `､　　.::::＼:::::::::::::::|:::::::::　/,,　　　,. ‐;''
+
+
+
+
+
+37 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:53:54.38 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼
+    　|　 （●）（●）　|　　　　　　　それに、足を使ってプレーするから攻撃側にミスが多い。
+    .　|　　（__人__）　 |　　　　　　　ディフェンスとオフェンスだと、ディフェンス側がほぼ１００％勝つゲーム。
+    　 |　　 ｀ ⌒´　　ﾉ　　　　　　 異常に守備が有利なスポーツなんだよ。
+    .　 |　　　　　　 　 } 　　　　　　.だから、ぜんぜん得点が入らないだろ？
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+39 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:54:30.10 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　 　　　＿＿＿_
+    　　　／　　 　 　＼
+    　 ／　　─　 　 ─＼　
+    ／ 　　 （●） 　（●） ＼　　　　　確かにサッカーをある程度わかってくると
+    |　 　　 　 （__人__）　 　 |　　 　　.守備側の戦術には、ある程度ロジックがあると理解するお。
+    /　　　　 ∩ノ ⊃　　／ 　　　　　一部はそのまま守備マニアという
+    (　 ＼　／ ＿ノ　|　 | 　　　　　　恐ろしく地味な分野に嵌まり込んで
+    .＼　“　　／＿＿|　 | 　 　　　　 現実に帰ってこれなくなるお
+    　　＼ ／＿＿＿ ／ 　
+
+
+
+    　　　　　　　 ／￣￣＼
+    　　　　　　 /　ヽ､_　　　＼
+    　　　　　. （　（● ）　　　　|　　　　まあ、サッカー観戦で過程を楽しみたいとか
+    　　　　　. （人__）　　　　　 | 　　　.展開を予想したいなら
+    　　　　　r-ヽ　　　　　 　　 |　　　 守備側の動きで楽しむしかないからな。
+    　　　　 （三） |　　　 　　　 |　　 　守備マニアという
+    　　　　　>　ノ　　　　　　 / 　　 　進化した生物が出るのもやむを得ない
+    　　　　/ 　/ ヽ　　　　 /　　　　　
+    　　　/ 　/　へ>　　　 <　　　　
+    　　　|＿__ヽ　　＼／　 )
+    　　　　　　　|＼　　　／|　　　　
+    　　　　　　　|　 ＼_／　|
+
+
+
+
+
+46 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:55:51.03 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼
+    　|　 （●）（●）　|　　　　　　　.結局、攻撃側はミスが前提、だから守備側がほぼ勝つゲーム。
+    .　|　　（__人__）　 |　　　　　　　結果、ロースコアになるから実力差がよくわからない。
+    　 |　　 ｀ ⌒´　　ﾉ　　　　　　 .それにこの特性は、サッカーがどうしても真剣勝負できない
+    .　 |　　　　　　 　 } 　　　　　　.もう一つの理由にもなるしな
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+48 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:56:30.63 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　　　＿＿＿_
+    　 　　　／⌒　　⌒＼ ﾎｼﾞﾎｼﾞ
+    　　　／（ ●） 　（●）＼　　　　　どういうことだお？
+    　 ／::::::⌒（__人__）⌒::::: ＼　　　
+    　 |　　　 ｍj |ー'´　　　　　 |　　　
+    　 ＼　 〈＿_ﾉ　　　　　 　／　　　
+    　　　　ノ　　ﾉ
+
+
+
+
+    　　　　　　　 ／￣￣＼
+    　　　　　　／　　　 　　 ＼　　　　八百長がやりやすいってこと
+    　　　　　　|:::::: 　 　　 　　｜
+    　　　　　.　|:::::::::::　　　　　｜ 　　
+    　　　　　　 |::::::::::::::　　　　｜　　　　　　　　　　....,:::´,　.
+    　　　　　.　 |::::::::::::::　　　　} 　　　　　　　　　....:::,,　　.. 　
+    　　　　　.　 ヽ:::::::::::::: 　　 } 　　　　　　 　,）:::::::ノ　.
+    　　　　　　　 ヽ::::::::::　　ノ　　　　　　　　（:::::ソ:　. 　　　
+    　　　　　　　　/:::::::::::: く　　　　　　 　　,ふ´..
+    -―――――|:::::::::::::::: ＼ -―,――ノ::ノ――
+    　　　　　　 　 |:::::::::::::::|ヽ、二⌒)━~~'´
+
+
+
+
+
+51 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:57:21.01 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    俺が言ってるんじゃね～んだよ！！　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+    　　　　　　／￣￣＼ 　　　　　　　　　　　　　　　　　　　　　 　　 　 言うに事欠いて何を言ってるお！
+    　　　　／ﾉ( 　ゝ 、_,ﾉヽ　　　　 　　　r'´ ﾞヽ　　　 　 ／｀ヽ　　　 　 　 　 ＿＿＿_
+    　　　　|　⌒(（ ●）（●）　　　　　　　 ヽ 　 ヽ从从/　　 /　 　　　　 　＼　　　／＼
+    .　　　　|　　　　 （__人__）　/⌒l　　　　　＼　 ＼／　 ／て 　 　 　　（●）liil（●） ﾉ( ＼
+    　　　 　|　　　　　｀ ⌒´ﾉ　|`'''|　　　　∑　ヽ／　　／ 　そ 　　 　／ （__人__）　　⌒ 　 ＼
+    　　　　／ ⌒ヽ　 　　　}　 |　 |　　　 　　,)／　　／ ＼　く　　　　 | 　　|!!il|!|!l| 　 　 　 　　|
+    　　 ／　 へ　　＼　　 }__/　/　　　 　 ／　　 ／＼　　＼ 　　　　 ＼i⌒ヽｪｪ| 　　　　　／
+    　／　／　|　　　　　 ノ 　 ノ　　　　／　　 ／ YＹY＼ 　　＼　　　　　＼　＼　　/⌒,/´
+    ( _ ノ　　　 |　　　　　 ＼´　　　 ／　　　／ 　　　　　 ＼ 　　＼ 　　　 / ＼　＼/　 /ｌ
+    　　　　　 　|　　　　　　　＼_,／　　　／　　　　　　　　　＼　　　＼_／　 　 ＼_＿ノ |＼
+    　　　　　　 .|　　　　　　　　　　　　／　　　　　　　　　　　　＼　　　　　　　　 　　　　|)　）
+    　　　　　　　ヽ　　　　　　　　　 ／　　　　　　　　　　　　　　　＼ 　　　　　　　 　　,r' ／
+    　　　　　　　　 ＼　　　　　　, '´　　　　　　　　　　　　　　　　 　 ｀' ,　　　 　 　 ／ｰ'′
+    　　　　　　　　　　＼　　　　 (　　　　　　　　　　　　　　　　　　　 　)　　　　 ／
+    　　　　　　　　　　　 ＼　　　 ＼　　　　　　　　　　　　　　　　　 ／　　　 ／
+
+
+
+
+55 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:57:58.30 ID:b0W5NtAS0]
+
+
+
+<strong>    審判による八百長もそうだが
+    インプレー時間が多い＆身体接触も多い競技選手による八百長がしやすい
+
+    格闘とか</strong>
+
+
+62 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:00:49.98 ID:rwXOhLfqO]
+
+
+
+<strong>    プロレスに近く聞こえるな
+    雰囲気を作る為にあえて細かいルールはしない</strong>
+
+
+57 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:58:15.78 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　／￣￣＼　
+    　／　　 _ノ　ポ＼　　　
+    　|　　　 （ ー）（ー）　　　 　　だから、やる夫は
+    .　|　u.　　 （__人__）　 　　　　サッカーの大事な試合で誤審が出るから
+    　 |　　　　　｀ ⌒´ﾉ　　 　　　怒ってたんだろ？
+    .　 |　　　　　　 　 } 　　　　　 つまり、誤審が出ると
+    .　 ヽ　　　　　 　 }　　　 　　 勝敗に大きな影響が出るんで
+    　　 ヽ　　　　　ノ　 　 　 　　.気をつけろと言いたいんだろ
+    　 　 i⌒＼ ,__(‐- ､　　 　　
+    　 　 l ＼　巛ー─;＼　　
+    　　 　|　｀ヽ-‐ーく＿）　　
+    .　　　 |　　　　　　l　
+
+
+
+
+
+    　　　　　 　　　＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　　─　 　 ─＼　　　　
+    　　　　／ 　　 （●） 　（●） ＼ 　　 そうだお。何言ってんだお今更。
+    　　　　|　 　　 　 （__人__）　 　 |　
+    　 　　 ＼　　 　　 ｀ ⌒´ 　 ,／
+
+
+
+
+
+
+59 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:58:52.00 ID:/uEa4pEk0]
+
+
+
+<strong>    誤審も愛さなくちゃいけないのかしゃーねーな</strong>
+
+
+60 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 13:58:59.11 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　 　　　／￣￣＼
+    　　　／　　 _ノ　　＼
+    　　　|　　　 （ ●）（●　　　　　それはつまり、サッカーはロースコアのゲームだから
+    　　　|　　　 　 （__人__）　 　　　一回の誤審で、勝敗に影響が出る確率が高いからだろ
+    .　　　|　　　　　　　　ﾉ
+    　　　 |　 　 　 ∩ ノ ⊃　　
+    　　／ 　 　 .／　＿ノ　　 　
+    　 (.　 ＼ ／　.／_ノ │
+    　　＼　 “　／_＿_|　 |
+    .　　　 ＼／ ＿＿＿ /
+
+
+
+
+
+61 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:00:10.06 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　 他の球技だと、サッカーより得点は入りやすいので
+    　|　　　 （ ●）（●）　　 　八百長して試合をコントロールしようとしても
+    .　|　　　　 （__人__） 　 　　不自然な判定や動きを何回も重ねないと難しいんだよ。
+    　 |　　　　　｀ ⌒´ﾉ　　 　.そんなことやってると、観客や第三者にばれる可能性も高まるし
+    .　 |　　　　　　 　 }　　　 　なかなかやりづらいんだよ。
+    .　 ヽ　　　　　 　 } 　　
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼
+    　|　 （●）（●）　|　　　　　　　　 サッカーだと、一回、もしくは数回だけ
+    .　|　　（__人__）　 |　　　　　　　　.得点に絡んだ場面で、不自然な判定や動きをするだけで
+    　 |　　 ｀ ⌒´　　ﾉ　　　　　　 　. 試合をコントロールすることも可能なんだよ。
+    .　 |　　　　　　 　 } 　　　　　　　 .それだと誤審なのか意図的なのか
+    .　 ヽ　　　　　 　 } 　　　　　　　　第三者にはなかなかわかりにくいしな。
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+65 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:01:12.40 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　 　　　＿＿＿_
+    　　　　　　　 ／　.u　　　＼
+    　　　　　　　 (（○）) (（○）)
+    /⌒)⌒)⌒. ::::　 （__人__）　l_j :::＼　　　 /⌒)⌒)⌒)　　　お前はどれだけ人間不信なんだお
+    |　/　/　/　　　　 |r┬-|　　　　　|　(⌒)/　/ / /／　　　選ばれた国家の代表の選手や審判が
+    |　:::::::::::(⌒)　U　.|　|　 |　　　 ／ 　 ゝ　　:::::::::::/ 　　　　そんな不正をするわけないだろ・・・
+    |　　　　　ノ　　 　|　|　 |　　 　＼　　/　　）　　/
+    ヽ　　　　/　　　 └ー.┘　　　　ヽ /　　　　／
+
+
+
+
+
+
+
+66 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:01:54.83 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 　　 ＿__　　　　━┓
+    　　　 ／　―＼ 　　┏┛
+    　　／ノ　　(●)＼　 ・
+    .　｜　(●) 　 ⌒）＼　　　？まあ、人間不信なのかもしれないが
+    .　｜　　 （__ノ￣　　| 　　
+    　　＼　　　　　　　 / 　　
+    　　　 ＼　　　　 _ノ 　　　　でも、サッカーなんか
+    　　　　/´　　 　 ｀＼ 　　　「マリーシア」なんて価値観を公言してる人間不信のスポーツだぞ
+    　　 　 |　　　　　　　|
+    　　 　 |　　　　　　　|
+
+
+
+
+
+
+67 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:02:43.85 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　　　 それに、ゲームのバランスとして守備側が異常に有利だろ。
+    　|　　　 （ ●）（●）　　 　　　ここまで守備側が有利だと、攻撃側がロジックを積み重ねて積み重ねて
+    .　|　　　　 （__人__） 　 　　　　決めるべくして決めた！って形の得点が少ないんだよ。
+    　 |　　　　　｀ ⌒´ﾉ　　 　
+    .　 |　　　　　　 　 }　　　 　　　大抵、守備側の一瞬の隙を突いた形になってるだろ
+    .　 ヽ　　　　　 　 } 　　 　　　　流れからの得点だと
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+    　　　　　 　　　＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　　─　 　 ─＼　　　　そうだお。だから、サッカーは試合中に目を離せないんだお
+    　　　　／ 　　 （●） 　（●） ＼ 　　
+    　　　　|　 　　 　 （__人__）　 　 |　　 ちょっと目を離したら得点とかもあるお
+    　 　　 ＼　　 　　 ｀ ⌒´ 　 ,／
+
+
+
+
+
+
+68 名前： 忍法帖【Lv=32,xxxPT】 mailto:sage [2011/08/24(水) 14:03:10.55 ID:XHqDa4Nn0]
+
+
+
+<strong>    ハンドとか曖昧だよな
+
+    故意じゃなかったからハンドじゃないとか</strong>
+
+
+72 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:06:09.72 ID:IDQYTHdA0]
+
+
+
+<strong> <span style="color:#0000FF">>>68</span>
+    最近は肘から下は故意じゃなくてもハンドとるようになった
+    ハンドじゃないのはFKの股間ガードしてる手ぐらい</strong>
+
+
+70 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:04:02.92 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼／｀i 　　　　　　だから、それだと守備側の選手が八百長しようとして
+    　|　 （●）（●）./　　ﾘ　　　　　　 得点に絡んだ場面で「一瞬の気の緩み」を衝かれた感じで
+    .　|　　（__人__）..|　　/　　 　　　　.わざと八百長プレーした場合
+    　 |　　 ｀ ⌒´　ﾘ　 ﾋ　　　　　　　.やる夫は、それが八百長だとわかるのか？
+    .　 ヽ　　　　 ／/　　,｀弋ヽ 　　　 わかんないだろ？
+    　　 ヽ　　- ′.Ｙ´　 ,　｀ヽ｀.ｌ 　　 サッカーって真面目にやってもそういうもんだし。
+    　　　/〈　　`ｰ〈::....ノ　　　Ｖ 　　　 しかもロースコアのスポーツだから
+    　　　|　ヽ_ｰ ､ ｀ヾ＿/　// 　　　　不自然な動作は一回だけでも可能だし。
+    　 　 |　 　　ﾌ-､｀ｰ┴‐-〃
+    　　　　　　　　　`ー‐一′
+
+
+
+
+
+
+71 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:05:32.33 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼
+    　|　 （●）（●）　|　　　　　　　　それに攻撃側が八百長する場合でも
+    .　|　　（__人__）　 |　　　　　　　　ミスが前提なんで、決定的な場面でミスしても
+    　 |　　 ｀ ⌒´　　ﾉ　　　　　　 　.よくあるお笑い動画になるだけで
+    .　 |　　　　　　 　 } 　　　　　　　 「QBK！」「QBK！」とか
+    .　 ヽ　　　　　 　 } 　　　　　　　　2chで祭りになるだけだろ
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+    　　 　　　＿＿＿_
+    　　　 ／::::::─三三─＼　　
+    　　／:::::::: （ ○）三（○）＼　　　・・・・・・・・ ！
+    　　|::::::::::::::::::::（__人__）:::: 　|　 　
+    　 　＼:::::::::　 　|r┬-| 　,／　. 　　
+    　　　ノ::::::::　　　`ー'´　　＼ 　　　
+
+
+
+
+
+
+74 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:06:21.66 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　　　　　　.　　　つまり、サッカーの試合中に何が起きてたかなんて
+    　|　　　 （ ●）（●）　　 　　　　　　　　　実際にプレーしてる選手にしかわからない領域が多いんだよ。
+    .　|　　　　 （__人__） 　 　　　　　　 　　　 確認のしようがないから。
+    　 |　　　　　｀ ⌒´ﾉ　　 　　　　　　　　　 これは審判の判定にも言える。
+    .　 |　　　　　　 　 }　　　 　
+    .　 ヽ　　　　　 　 } 　　 　　　　　　　　　　だから、FIFAも八百長撲滅は
+    　　 ヽ　　　　　ノ　　　　　　　　＼ 　　　.半分あきらめてる部分もあると思うよ。
+    　　　/　　　 く　　＼　　　　　　　 ＼ 　　サッカーのルールが変わらない以上は
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼　どうしようもないから。
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+
+
+75 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:06:21.97 ID:PrtLK1ca0]
+
+
+
+<strong>    主観による認定は可能だなｗ</strong>
+
+
+76 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:07:07.95 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　 　　　 　＿＿＿_
+    　 　　　／　　 　 　＼ 　　　　
+    　　　／　─　 　 ─　＼　　　
+    　 ／ 　 （●） 　（●） 　 ＼　　・・・・・・・・・
+    　 |　 　 　 （__人__）　　　　| 　
+    　 ＼　　 　 ｀ ⌒´ 　 　 ／ 　
+
+
+
+    　 　　　　 ＿＿＿_
+    　 　　　／　　 　 　＼ 　　　　　　やらない夫は、ひょっとして
+    　　　／　─　 　 ─　＼ 　　　　 昔からそのことを知っていたのかお？
+    　 ／ 　 （●） 　（●） 　 ＼　　
+    　 |　 　 　 （__人__）　　　　| 　
+    　 ＼　　 　 ｀ ⌒´ 　 　 ／ 　
+
+
+
+
+
+
+78 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:07:36.87 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼　
+    　／　　 _ノ　ポ＼　　　
+    　|　　　 （ ー）（ー）　　　 まあ、知ってたといえば知ってた・・
+    .　|　u.　　 （__人__）　 　　ていうか、昔から海外サッカー見てる人なら
+    　 |　　　　　｀ ⌒´ﾉ　　 　こういうのは、暗黙の了解みたいなもんで
+    .　 |　　　　　　 　 } 　　　 それを含めて、楽しむのがサッカーだからな
+    .　 ヽ　　　　　 　 }　　　　　
+    　　 ヽ　　　　　ノ　 　 　 ちょっとプロレスみたいな楽しみ方も入ってる。
+    　 　 i⌒＼ ,__(‐- ､　　 　　
+    　 　 l ＼　巛ー─;＼　　
+    　　 　|　｀ヽ-‐ーく＿）　　
+    .　　　 |　　　　　　l　
+
+
+
+
+
+81 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:08:19.61 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　　　 ／￣￣＼
+    　　　／　　 _ノ　　＼
+    　　　|　　　 （ ●）（●　　　 代表がブームになって、サッカーファンが増えたのはいいんだけど
+    　　　|　　　 　 （__人__）　　　電通に煽られまくって「国の誇りを賭けた！」とか　 　
+    .　　　|　　　　　　　　ﾉ 　　　「絶対に負けられない！」みたいな価値観を持つ人が多数派になったんで
+    　　　 |　 　 　 ∩ ノ ⊃　　　あえて、言うのは野暮だと思って黙ってたんだよ・・・
+    　　／ 　 　 .／　＿ノ　　 　
+    　 (.　 ＼ ／　.／_ノ │
+    　　＼　 “　／_＿_|　 |
+    .　　　 ＼／ ＿＿＿ /
+
+
+
+
+
+83 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:09:49.59 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　　　　　　そもそも、サッカーはゲームなんで、八百長がなくても
+    　|　　　 （ ●）（●）　　 　　　　　　「どうなるか」なんて、実際わからないんだよ。
+    .　|　　　　 （__人__） 　 　　　　　　　こんなのに国の誇りを賭けてたら
+    　 |　　　　　｀ ⌒´ﾉ　　 　　　　　　何度も何度も、その国は滅亡しちゃうから。
+    .　 |　　　　　　 　 }　　　 　
+    .　 ヽ　　　　　 　 } 　　 　　　　　　　カイジだって、運否天賦の博打で
+    　　 ヽ　　　　　ノ　　　　　　　　＼　人生賭けた勝負なんかしないだろ・・・
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+84 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:10:38.66 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　　　　　　　　＿＿＿_
+    　　　　　　　⌒　＼　／ ＼
+    　　　　　　／　（○）　（○）＼
+    　　　　 ／　　　 （__人__）　　 ＼　　　　.なんてこった！
+    　 　 　 |　 　 　　　|::::::|　　　　　|　　 　 やる夫は電通にだまされていたのか！
+    　　　　 ＼ 　 　 　 l;;;;;;l　　 　／l!| !　. 　マスコミもマスコミだお！
+    　　　 　／　　　　　`ｰ'　 　　＼ |i 　 　　電波を私物化してるから
+    　　　／　　　　　　　　　　ヽ !l　ヽi 　　　フジテレビデモみたいなことも起こるんだお！
+    　　 （　　 丶- 、　　　　　　 しＥ　|そ　　
+    　　　　`ー､＿ﾉ 　 　 　 ∑　l､Ｅ ﾉ　<
+    　　　　　　　　　　　　　　　ﾚY^Ｖ^ヽｌ　ドンッ！！
+
+
+
+85 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:11:16.56 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼ 　　　　　　　　　　　　いや、まあ、別に彼らも商売だから・・・
+    　|　　　 （ ●）（●）　　　　　　　　　　　ただ、煽るだけ煽って、商売にならなくなったら
+    .　|　　　　 （__人__） 　 　　　　　　　　　そのまま見捨てるというのはいただけないよね・・・
+    　 |　　　　　｀ ⌒´ﾉ　　 　
+    .　 |　　　　　　 　 }　　　 　
+    .　 ヽ　　　　　 　 } 　　 　　　　　　　　　　だから、やる夫も、入り口はどうあれ
+    　　 ヽ　　　　　ノ　　　　　　　　＼ 　　　 サッカーを楽しめるようになったんだから
+    　　　/　　　 く　　＼　　　　　　　 ＼ 　　今度のW杯からは、八百長も楽しめるくらいの気持ちで
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼　サッカーを見るのもいいと思うんだよ。
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+    　 　　　＿＿＿_
+    　　　／　　 　 　＼
+    　 ／　　─　 　 ─＼　
+    ／ 　　 （●） 　（●） ＼　　・・・・うーん。
+    |　 　　 　 （__人__）　 　 |　　 いきなり価値観を変えるのは難しいけど
+    /　　　　 ∩ノ ⊃　　／ 　　少しずつ、そういう部分を受け入れながら
+    (　 ＼　／ ＿ノ　|　 | 　　　サッカーを楽しめるようにやってみるお
+    .＼　“　　／＿＿|　 | 　
+    　　＼ ／＿＿＿ ／ 　
+
+
+
+
+
+
+86 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:11:54.90 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+
+
+    　　　　　　　　 ／￣￣＼
+    　　　　　　　／　　 _ノ　　＼
+    　　　　　　　|　　 　（ ⌒）（⌒）
+    　 　 　 　 　 |　　 　　（__人__）　　　そうだね。
+    　　　　　　　 |　　 　　 ｀ ⌒´ﾉ　　　まぁ、やる夫は生真面目すぎなんだよ。
+    　 　 　 　 　 ,|　　 　　　　　 } 　　　サッカーなんか、所詮、ただの娯楽だから
+    　　　　 　 ／ ヽ　　　　　　 } 　　　 自分なりの楽しみ方で
+    　　　　　く 　く ヽ　　　　 ノ 　　　　楽しんでりゃいいんだよ。
+    　　　　 　 ＼　`' 　　　 く 　　　　
+    　　　　　　　 ヽ、　 　 　 |
+    　 　 　 　 　 　 | 　 　 　 |
+
+
+
+
+89 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:12:54.18 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　　　＿＿＿_
+    　　　　 ／＼　　／＼
+    　　　／（ ●） 　（●）＼　　　 誤審もサッカーの一部
+    　 ／ :::::⌒（__人__）⌒:::::＼　　この言葉の意味が
+    　 |　　　　　|r┬-| 　 　 　 |　　少しわかった気がするお
+    　 ＼ 　 　　｀ ー'´ 　 　 ／
+
+
+
+
+
+    　　　　　　＿＿＿_
+    　　　　 ／_ノ '　ヽ_＼
+    　　　／（≡） 　 （≡）＼　　　　　そういう胡散臭いところが
+    　 ／ /// （__人__） ///＼　　　　逆に、サッカーの魅力なのかもしれないんだお！
+    　 |　　　　　|r┬-| 　 　 　|
+    　 ＼ 　 　　｀ ー'´ 　 　／
+
+
+
+
+
+
+90 名前：<strong><span style="color:#990000">以下、名無しにかわりましてVIPがお送りします</span></strong> [2011/08/24(水) 14:13:26.18 <strong><span style="color:#009900">ID:dUQaGT7E0</span></strong>]
+
+
+
+
+    　　　　　 .＿
+    　　　　 　 ＼ヽ,　,、
+    　　　　 　　　`''|/ﾉ
+    　　　　 　　　　.|
+    　　　　 ＿　　　|
+    　　　　 ＼｀ヽ、|
+    　　　　 　＼, V
+    　　　　 　 　 `L,,_
+    　　　　　 　　 |ヽ､)　 ,､
+    　　　　　　　 /　　　　ヽYﾉ
+    　　　　　　 /　　　　r''ヽ、.|
+    　　　　　　|　　　　　`ｰ-ヽ|ヮ
+    　　　　　　|　　　　　　　`|
+    　　　　　　|.　　　　　　　 |
+    　　　　　　ヽ、　　　　　　|
+    　　　　　　　 ヽ＿＿＿_ﾉ　　 　　　
+    　　　　 　　　／_ノ '　ヽ_＼
+    　　　　　　／（≡） 　 （≡）＼
+    　　　　 ／::::::⌒（__人__）⌒::::: ＼ 　　　　　
+    　　　　 |　　　　　|r┬-|　　　　　|　　　　 　
+    　　　　 ＼ 　　 　 `ー'´ 　 　 ／
+    　　　　　／　　　　　　　　　　＼
+    　　　　 (　 |　　　　　　　　　 |　 )
+    　　　　　＼|　　　　э　　　　|／
+    　　　　　　 (　　　　,,,,　　　 ,ﾉ
+    　　　　　　　＼　 ､(Ｕ)ﾉ　ノ
+    　　　　　　　　 ＼／　 ／　　　　　　　　　　　　┼ヽ　 -|r‐､.　ﾚ　|
+    　　　　　　　　 ／　 ／＼　　　　　　　　　　　　ｄ⌒)　./|　_ﾉ　 __ﾉ　
+    　　　　　 ⊂⌒＿＿）＿＿）
+
+
+
+
+
+<hr size='"1"'/>
+
+
+
+
+　　　　　　　　　　まあそれも最近では変わってきたけどな
+　　　　＿＿
+　　 ／　　　＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）　　　　　　　　　　　 　＿＿＿_
+.　|　　　　 （__人__）　　　　　　　　　　　／　　　　　＼
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　 ／―　　 ―　 　＼　　　　　　ネットが普及して
+.　 |　　　　　　 　 }　　　　　　　　 ／ （● ）　（● ）　 　 ＼　　　　 怪しいプレーはどんどん動画サイトに上げられて
+.　 ヽ　　　　　 　 }　　 　 ＼ 　 　 |　　　（__人__）　 　　 　　|　　　　よってたかって検証という名のフルボッコだもんね
+　　 ヽ　　　　　ノ　　　　 　 ＼　　＼　　　　　 　　　 　 _／
+　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　＼
+　　　|　　　　 ＼ 　＼　　　　(⌒二　　　　　 　 　 　 　 　 |
+　 　 |　　　　|ヽ、二⌒)、　 　 　 　 ＼　泳ぐ管理人｜　 |
+
+
+
+
+
+
+　　 ／￣￣＼
+　／　　 _ノ　　＼
+　|　　　（ ●）（●）
+.　|　　　　 （__人__）＿＿＿_
+　 |　　　　　｀ ⌒／　　　　　＼
+.　 |　　 　 　　／（ ○） 　（○）＼　　　　最近のＪだと名古……
+.　 ヽ　　 　 ／　　⌒（n_人__）⌒ ＼ 　
+　　 ヽ　　　|、　　　　（　　ヨ　　　　|
+　　　/　　 　`ー─－　　厂　　　／
+　　　|　　 ､ ＿ 　　__,,／,　　　　 ＼　ドス
+　 　 |　　　 /　 ￣　　　i;;三三ラ´　|
+　 　 |　　　 |　 　| 　 　・i;j：　　 |　　|
+　　　　　　　　　　　泳ぐ管理人
+
+
+
+　　　　　　　　　　ぶっちゃけセリエやＣやＫの場合、サッカーだけの問題じゃないんだけどね、八百長
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3638/clap" id="fc2button-clap-3638" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3638").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/35.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3638/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶ！サッカーが八百長しやすい理由" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3638.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶ！サッカーが八百長しやすい理由" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/08/25 01:07 ]
+<a href="/blog-category-331.html" title="カテゴリを参照">スポーツ系　やる夫で学ぶ！サッカーが八百長しやすい理由</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html#comment_list" title="この記事のコメントを参照">CM(180)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3638"
+    dc:title="やる夫で学ぶ！サッカーが八百長しやすい理由"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html"
+    dc:subject="スポーツ系　やる夫で学ぶ！サッカーが八百長しやすい理由"
+    dc:description="今回はアソシエーション・フットボール（サッカー）がなぜ八百長がしやすいかのお話です。　　　　　　 ::　　　　　　　　　　　　　 　 .|ﾐ|　　　　　　　::　　　　　　　　　　 　 　 　.|ﾐ|　　　　　　　　::　　　　　　　　　　 　 　 .|ﾐ|　　　　　　　　　　 ::::::::　　　　　　　　　:::::　　　　　＿＿＿＿　|ﾐ|　　　　　　　　　 ::::　　　　　　　　　　 ::　,. &#45;'"´　　　　　　｀¨ー ､　　　　　　　::　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-08-25T01:07:55+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3643.html" title="やる夫で学ぶ柔道整復師　その１">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3639.html" title="やる夫達はローマ共和国を作るようです　第十四話　ルキウス・ユニウス・ブルータス">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment21972">[ 21972 ] <strong></strong></p>
+</div>
+<div class="comb">
+開幕からJがレベル低いとか言い出してる時点で読む気しねえぞおい<div class="comment_navi">
+[ 2011/08/25 01:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21973">[ 21973 ] <strong></strong></p>
+</div>
+<div class="comb">
+※21972
+やる夫がにわかってネタのためだろ<div class="comment_navi">
+[ 2011/08/25 01:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21974">[ 21974 ] <strong></strong></p>
+</div>
+<div class="comb">
+電通が煽る前から「国の誇りを賭けた！」「絶対に負けられない！」のが代表戦ですけど？
+例えばドイツには1966年以前から電通があるんすか？ｗｗｗ凄いねｗｗｗｗｗｗｗｗ<div class="comment_navi">
+[ 2011/08/25 01:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21975">[ 21975 ] <strong></strong></p>
+</div>
+<div class="comb">
+早速瞬間湯沸かし器のコメントが２つ<div class="comment_navi">
+[ 2011/08/25 01:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21976">[ 21976 ] <strong></strong></p>
+</div>
+<div class="comb">
+このスレのやらない夫みたいなのうぜーわーって思っちまうなｗ
+自分なりの楽しみ方、とか言いながら口はさんでくる奴<div class="comment_navi">
+[ 2011/08/25 01:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21978">[ 21978 ] <strong></strong></p>
+</div>
+<div class="comb">
+代表選で八百長は審判くらいしか
+利点がないよな
+選手はそれこそ負けて殺されたやつもいるくらいだから<div class="comment_navi">
+[ 2011/08/25 02:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21979">[ 21979 ] <strong></strong></p>
+</div>
+<div class="comb">
+オフサイドとライン割ったかはプレー止まるんだからVTR判定すべきだよな
+実際怪しい判定オフサイドが一番多いし
+ 
+ 
+欧州南米リーグはマフィアの影響が強いどころじゃないからまず導入しないだろうが国際試合はどうにかして欲しい<div class="comment_navi">
+[ 2011/08/25 02:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21980">[ 21980 ] <strong></strong></p>
+</div>
+<div class="comb">
+いずれは機械判定も導入されるだろ。
+で誰かが「フットボールは死んだ」とか記事を書く。<div class="comment_navi">
+[ 2011/08/25 03:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21981">[ 21981 ] <strong></strong></p>
+</div>
+<div class="comb">
+うまくいえないけどこの意見には同意できない。<div class="comment_navi">
+[ 2011/08/25 03:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21982">[ 21982 ] <strong></strong></p>
+</div>
+<div class="comb">
+｜「国の誇りを賭けた！」とか「絶対に負けられない！」みたいな価値観を持つ人
+ 
+これ好きじゃないんだよねぇ。
+サッカーに限った話じゃないんだけど、
+スポーツの国際大会が開催されている間の
+報道機関なんかの煽りがさぁ。
+ 
+あたかも「日本を応援しない奴は非国民だ」みたいな
+空気を醸成するのはご勘弁願いたいものであります。
+ 
+# 高校野球も小規模ながらあるよね。
+# 興味無いんだから押し付けないでほしい。<div class="comment_navi">
+[ 2011/08/25 03:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=21982" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21983">[ 21983 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんか嫌だな。なんか嫌だ。<div class="comment_navi">
+[ 2011/08/25 03:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21984">[ 21984 ] <strong></strong></p>
+</div>
+<div class="comb">
+っていうかこれが言いたいのは
+八百長があるかどうかはわからんけど、
+可能性の話したらキリがないから
+ 
+「誤審どうこうは明らかなのは除いて
+サッカーの一部として楽しめ」
+ 
+ってことだろ<div class="comment_navi">
+[ 2011/08/25 03:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">MB</a>') } else {
+document.write("MB"); }
+</script>
+<noscript>
+<a href="" target="_blank">MB</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21985">[ 21985 ] <strong></strong></p>
+</div>
+<div class="comb">
+誤審と八百長とりちがえてんじゃねーよ<div class="comment_navi">
+[ 2011/08/25 04:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21986">[ 21986 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>21982
+別にお前に押し付けてるわけじゃないんだから
+わざわざ意見なんか言わなくていいからさ
+スレのない夫みたいに黙って見てればいいじゃん。
+<div class="comment_navi">
+[ 2011/08/25 04:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21987">[ 21987 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長がしやすいルールである。って話になにキレてんだよｗ
+（得点が入りにくい）ルールが気に入らないなら変えりゃいいだろ
+実力以外の要素（誤審・八百長）に左右されやすいのが嫌ならサッカー見なけりゃいいじゃんｗ<div class="comment_navi">
+[ 2011/08/25 04:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ゆとりある名無し</a>') } else {
+document.write("ゆとりある名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">ゆとりある名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21988">[ 21988 ] <strong></strong></p>
+</div>
+<div class="comb">
+威信だの誇りだのに拘るのはげんなりする
+その大会で気に入ったチームを応援しにくくて困る
+ 
+それと韓国のライバル視報道もちょっとな
+勝っても負けても気分悪いんだもの
+そういう相手をスポーツのライバルにしたくないよ
+サッカーに限った事じゃないけどね<div class="comment_navi">
+[ 2011/08/25 04:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21989">[ 21989 ] <strong></strong></p>
+</div>
+<div class="comb">
+※21972
+いやレベルは低いぜ・・・
+トヨタカップがアジアも出れるようになり
+ミランのガットゥーゾが浦和をレッチェ（セリエA降格組み）ぐらいと言ったり
+ 
+ジュビロ黄金期をヴァンズワムがエールで４位～５位ぐらいにはなれると言ったり
+ 
+まだまだ差が大きいのが現実、特にフィジカルコンタクトだけは差が海外とかなりあるため、
+代表だとまるでダメな選手が多いのもJリーグの特徴
+ 
+そしてJ1の数がドンドン増えていって、J１自体のレベルの平均値が下がってる。
+もちろんJ2の数もドンドン増えて、J2のレベルの平均値も下がってきてる。
+ 
+今の状態が続くんならJ1、J2、J3と分けた方がJリーグのレベルはあがりそう。<div class="comment_navi">
+[ 2011/08/25 04:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21990">[ 21990 ] <strong></strong></p>
+</div>
+<div class="comb">
+これは同意できんわ。
+部分的に合ってる点はあるけど、いろんな問題を混同させすぎ。
+サッカー知らない奴が読んだら勘違いするぞ。
+こいつのこと見損なったわ<div class="comment_navi">
+[ 2011/08/25 05:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21991">[ 21991 ] <strong></strong></p>
+</div>
+<div class="comb">
+旧大陸と近代スポーツ（というかアメスポ）のfairの違いも盛り込んで欲しかったな。
+ 
+価値観の個人差もあるから一概にはいえんけど、
+決闘の場に現れたなら、熱があろうが、大兵と小兵同士だろうが、偶然に風が眼に入ろうが、漢がサシで戦ったならそれでフェアとする、のが旧大陸。
+ 
+熱があるなら決闘は延期、体格に差があるならハンデ付けて、まぐれ勝ちは良くないので一回傷を与える毎に休憩入れて、いやいやここはポイント制で…てのがアメリカ系。
+ 
+のイメージなんだけど。<div class="comment_navi">
+[ 2011/08/25 06:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21992">[ 21992 ] <strong></strong></p>
+</div>
+<div class="comb">
+この>>1の考え方ってなんか違うなって印象はうけるな。
+戦術の部分に関してもより弱いところが強いところに対抗できるようになった方が大きいでしょ。
+※21982
+スポーツの国際大会はそんなもんだし、どこの国いってもいっしょだ。スポーツは帰属意識というのか同属意識みたいなのが生まれやすいんだよ。ヒットラーがオリンピックを誘致したのもナショナリズムの高揚のためだし、ペレが活躍してた頃のブラジルだったりアルゼンチンだったりもサッカーを政治利用してたしね。
+※21988
+こないだの日韓戦が気分悪かったとは言わせないぞｗ
+嫌ってる人が多いからこそのライバルなんだよｗ<div class="comment_navi">
+[ 2011/08/25 07:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21993">[ 21993 ] <strong></strong></p>
+</div>
+<div class="comb">
+大相撲じゃないんだから、
+うん知ってたwってノリで八百長が常識みたいな大嘘こいてんじゃねーよ
+<div class="comment_navi">
+[ 2011/08/25 08:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21994">[ 21994 ] <strong></strong></p>
+</div>
+<div class="comb">
+セリエェ・・・<div class="comment_navi">
+[ 2011/08/25 08:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ゆとりある名無し</a>') } else {
+document.write("ゆとりある名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">ゆとりある名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21995">[ 21995 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんでも電通だなｗ
+やらかした選手が殺されたことだってわるわけだし、
+最近の傾向みたいに言っちゃうのはどうなんだろ
+大昔からあるよね、サッカーごときで殺し合いしちゃうの<div class="comment_navi">
+[ 2011/08/25 08:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21996">[ 21996 ] <strong></strong></p>
+</div>
+<div class="comb">
+>カイジだって、運否天賦の博打で
+>人生賭けた勝負なんかしないだろ・・・
+ 
+わりと賭けてる気がするけど？ｗ<div class="comment_navi">
+[ 2011/08/25 08:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21998">[ 21998 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長がしやすい理由を説明したいがために、偏ったものの見方になっちゃってるな<div class="comment_navi">
+[ 2011/08/25 08:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=21998" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21999">[ 21999 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞21996
+カイジが人生を掛ける博打をするときは、運否天賦の要素をカイジ自身が可能な限り排除した場合。<div class="comment_navi">
+[ 2011/08/25 09:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22000">[ 22000 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカー基地外が大量にわいてるなｗｗｗｗｗｗ
+管理人さん乙ｗｗｗｗｗｗｗｗｗｗｗｗｗ<div class="comment_navi">
+[ 2011/08/25 09:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22004">[ 22004 ] <strong></strong></p>
+</div>
+<div class="comb">
+泳ぐ管理人のらすコメ見て今日の崎鯱戦見てこれを取り上げたのかと思ったわー（棒<div class="comment_navi">
+[ 2011/08/25 10:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22005">[ 22005 ] <strong></strong></p>
+</div>
+<div class="comb">
+Jがレベル低い　で読むのやめた
+ 
+くたばれ<div class="comment_navi">
+[ 2011/08/25 10:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22007">[ 22007 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞22005
+このスレでのやる夫がそのレベルのサッカーファンっていうキャラ付けなんだろ。
+登場人物の全てのキャラが作者と同意見であるって前提なのはおかしいぞ。<div class="comment_navi">
+[ 2011/08/25 10:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22008">[ 22008 ] <strong></strong></p>
+</div>
+<div class="comb">
+Jはレベルが低いというかチャレンジが無い、攻撃も守備もチャレンジが無い、だからつまらない
+てか八百長は俺らが見てるようなトップレベルのサッカーでは無いと思う。昔とか地方とか下のレベルだとあるだけ<div class="comment_navi">
+[ 2011/08/25 11:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">.</a>') } else {
+document.write("."); }
+</script>
+<noscript>
+<a href="" target="_blank">.</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22009">[ 22009 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長と誤審を見抜くのは難しい・・・<div class="comment_navi">
+[ 2011/08/25 11:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22010">[ 22010 ] <strong></strong></p>
+</div>
+<div class="comb">
+結論は「欠陥スポーツ」<div class="comment_navi">
+[ 2011/08/25 12:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22011">[ 22011 ] <strong></strong></p>
+</div>
+<div class="comb">
+チャレンジってなんですか？
+頻繁にドリブル突破すること？
+ボール持ってる選手にスライディングかましまくること？
+ 
+そんなのリーガ　プレミアでも頻繁に見ないわ<div class="comment_navi">
+[ 2011/08/25 12:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22012">[ 22012 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22010
+お前がそう思うんならそうなんだろう、お前ん中ではな<div class="comment_navi">
+[ 2011/08/25 12:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22013">[ 22013 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>21989
+少なくとも今草刈場になってるエールとJで平均とったら大した差はないと思うよ
+ 
+フィジカルだけは同意<div class="comment_navi">
+[ 2011/08/25 12:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22014">[ 22014 ] <strong></strong></p>
+</div>
+<div class="comb">
+まぁ野球よりはましだな<div class="comment_navi">
+[ 2011/08/25 12:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22015">[ 22015 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22014
+どのスポーツでも抱えうる問題なのだとはしてもそういう書き方はあんまり感心しない<div class="comment_navi">
+[ 2011/08/25 12:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22016">[ 22016 ] <strong></strong></p>
+</div>
+<div class="comb">
+Jのつまらなさは異常
+まず日本人はアイデアが無いしサッカー脳がないし
+チャレンジしないカバーandカバーの関係だよ
+まあ文化だろうな
+あたりも弱すぎるし、激しさなんて皆無
+とにかく一対一の場面が無い<div class="comment_navi">
+[ 2011/08/25 12:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">.</a>') } else {
+document.write("."); }
+</script>
+<noscript>
+<a href="" target="_blank">.</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22017">[ 22017 ] <strong></strong></p>
+</div>
+<div class="comb">
+*22012
+わかって無い奴だな
+「欠陥スポーツ」とは、だからダメなんじゃなくて
+「だからこそ起こる事が予想外で楽しい」んだよ
+完璧スポーツの将棋・囲碁が世界中で大熱狂してるわけじゃないだろ？<div class="comment_navi">
+[ 2011/08/25 12:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22018">[ 22018 ] <strong></strong></p>
+</div>
+<div class="comb">
+審判の人数増やすのは可能だと思うけどね
+アイスホッケーだっけ？同格の主審２人で見てるのは。
+誤審の発生しやすい＝主審からも線審からも死角になりやすい
+エリアってのは分かってるんだから、フィールド内に
+もう一人主審置けば解決しそうなもんだけど。<div class="comment_navi">
+[ 2011/08/25 12:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22019">[ 22019 ] <strong></strong></p>
+</div>
+<div class="comb">
+アンチが作ったのか・・・
+管理人は湘南サポだったはずだが・・・ガッカリだよ<div class="comment_navi">
+[ 2011/08/25 12:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22020">[ 22020 ] <strong></strong></p>
+</div>
+<div class="comb">
+途中から「サッカーは八百長があっても全然分からないスポーツなので八百長があろうと寛容に楽しむべき」って論調になって唖然としたんだが……
+作者の言いたいことってこのスレでちゃんと表現できてるの？八百長でも気にしない人は素直にプロレスでも見てろよ……<div class="comment_navi">
+[ 2011/08/25 12:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22021">[ 22021 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22020
+好んでサッカー見てるのに、八百長を気にしないのならプロレス見てろとか言われたら困惑するしかないな<div class="comment_navi">
+[ 2011/08/25 12:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22022">[ 22022 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22017
+なるほど、こちらの理解がなってなかった。
+全面的に謝罪します。
+余裕を持って見ることが出来ていなかったみたいだ。<div class="comment_navi">
+[ 2011/08/25 12:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22023">[ 22023 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22019
+アンチってほどでもないんじゃ…。
+このスレに出てきたやる夫レベルのサッカーファンがサッカーが好きになって観戦していく過程でそういう（八百長やら誤審）ことがあった時に、行為そのものを受け入れきれないで、駄目だと思って嫌いになるよりは理解したうえで否定するだけではなく精神的な余裕を持ってサッカーというスポーツを楽しんでほしい、ぐらいだと思ったんだけど、違ったかな。
+極論とか偏った見方があって誤解を招いている点に関しては否定しないけど。<div class="comment_navi">
+[ 2011/08/25 13:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22024">[ 22024 ] <strong></strong></p>
+</div>
+<div class="comb">
+だからって八百長認めちゃだめだわ
+最終的にはセリエみたいに毒にしかならないんだから
+だいたい日韓ワールドカップの八百長とか
+あんな見てるだけで気持ち悪くなる試合を望んでる人っているの？<div class="comment_navi">
+[ 2011/08/25 13:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22025">[ 22025 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22013
+大差がないといっても、やっぱり若干差が出てくるんだよ。
+リーグによる特色でスピードとフィジカルの違いはあれど、まず中央エリアでプレーする選手はボールがもてない。
+ 
+足元の技術はJの方が高いけど、代表と同じファール基準ですると中堅ですら、ガンバあたりはまけると思うぞ。
+Jのファール基準でしてくれるなら、5位ぐらいはいけそうだがな。
+ 
+そしてJ1の最下位組とエールの最下位組でも
+パワープレーされたら負けると思うぞ。
+ 
+J１の数は昔みたいに減らして、レベルの高い１１VS１１人で戦える環境を作った方がいいと思うけどな、
+ 
+ただ収入面で浦和などの人気クラブと戦えなかったりする事で経営が厳しくなったりするのは問題だけどな・・・
+ 
+今のJリーグは言うほど高くはないと思うぞ。
+もちろんいい選手も多いが、海外でいい選手が活躍してるからといって、レベルが高いと思うのはさすがに無理がある。
+ 
+Jのトップが少なくともエールのトップ３には手も足もでない事を理解してほしい。
+そしてファール基準もFIFAに忠実なため、もう少し差を埋める工夫をした方がいい。
+ 
+ただ身近にスタジアムでサッカーが見える環境はいいよな。TVで見ているだけとかハイライト見ているだけじゃなくて、是非一度見に行ってほしい。
+ 
+少なくとも、海外の下位～中堅同士の戦いをTVで見るよりは、
+スタジアムで見るJのサッカーの方が面白く見えると思う(´･ω･｀)<div class="comment_navi">
+[ 2011/08/25 14:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22025" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22026">[ 22026 ] <strong></strong></p>
+</div>
+<div class="comb">
+自分は単純バカだから最初「サッカーはどうしても真剣勝負できない」って書いてあるのを見たときものすごく腹が立った
+選手やスタッフ、サポーター含めサッカーにかかわる人すべてを侮辱してると感じた
+全体を通して「サッカーに八百長はつきものだから真剣に見ることない」って言ってるように受け取れたし
+少なくともこの作者と管理人は「サッカーはすべて八百長だ」って思って見てるんだろう
+ 
+<div class="comment_navi">
+[ 2011/08/25 14:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22027">[ 22027 ] <strong></strong></p>
+</div>
+<div class="comb">
+熱くなるなって事？勝敗がどうなるかわからないから負けられないとか思わないでプレーだけ楽しめってこと？<div class="comment_navi">
+[ 2011/08/25 14:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22028">[ 22028 ] <strong></strong></p>
+</div>
+<div class="comb">
+お前の読解力不足<div class="comment_navi">
+[ 2011/08/25 14:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22029">[ 22029 ] <strong></strong></p>
+</div>
+<div class="comb">
+ちょっとバカが熱くなりすぎだろう
+まあ自分で自分の事をバカという奴なんか進歩しようが無いけど<div class="comment_navi">
+[ 2011/08/25 14:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22029" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22030">[ 22030 ] <strong></strong></p>
+</div>
+<div class="comb">
+それならそれでいいじゃねえか。人の数だけ意見はあるだろうよ<div class="comment_navi">
+[ 2011/08/25 14:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22031">[ 22031 ] <strong></strong></p>
+</div>
+<div class="comb">
+単にサッカーを叩きたいだけの為のスレか
+くだらん
+もちろん八百長なんてあっちゃいけないけど
+Ｊどころかスポーツ自体まともに見てない奴の言い分にしか思えない
+管理人さんはこのやるやらコンビと同じ気持ちなのか？
+だとしたらすごく悲しい<div class="comment_navi">
+[ 2011/08/25 14:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22032">[ 22032 ] <strong></strong></p>
+</div>
+<div class="comb">
+この前のコパなんて八百長だらけだったけど面白かったろ<div class="comment_navi">
+[ 2011/08/25 15:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22034">[ 22034 ] <strong></strong></p>
+</div>
+<div class="comb">
+俺は皆ほどはサッカーは詳しくないから訊くけど、この話の大前提である
+「サッカーは八百長がやりやすい」という部分は認めるのか？常識なのか？
+反論や反証となる材料は無いのか？<div class="comment_navi">
+[ 2011/08/25 15:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22036">[ 22036 ] <strong></strong></p>
+</div>
+<div class="comb">
+脊髄反射の馬鹿コメ多いなぁ<div class="comment_navi">
+[ 2011/08/25 16:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22037">[ 22037 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22031
+管理人さんのことが全部わかるわけないけど、この記事を受けて「まあそれも最近では変わってきたけどな」とは書いているから、八百長や誤審があるという面も理解はしている、だけど是正の方向に向かってきている、とも思っているんじゃないかな。
+サッカーの面白い面、いい面だけをとらえて抱えてこんでしまった問題を見ないふりをし続けて結果的にサッカーそのものが駄目になってしまわないように、ファン側から変えることが出来るのなら取り組むことが出来るように「ネットが普及して怪しいプレーはどんどん動画サイトに上げられてよってたかって検証という名のフルボッコだもんね」とも書いている（その割には言い方悪い気もするけど）わけだし、負の側面に対して向き合っているんだと思うけどな。<div class="comment_navi">
+[ 2011/08/25 16:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22038">[ 22038 ] <strong></strong></p>
+</div>
+<div class="comb">
+中身は他の人が色々言ってるからあまり踏み込まないが
+気楽に楽しんでる人に文句を言う気はないけど、真剣に楽しんでる人（やる夫）の楽しみ方を否定しなくても良いのにな、と思った
+ 
+サッカーは実力以外の揺らぎも多分にあるから（非八百長）楽しいし、プレイヤーもサポーターも本気になって楽しんでいく。
+それ故に八百長を完全には無くせない、スポーツって言うよりゲーム、だから皆もっと気楽に見ようぜ。という論調で最後を纏めて欲しくなかったなぁ<div class="comment_navi">
+[ 2011/08/25 16:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22039">[ 22039 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+誤審の話から選手の八百長、それもわざと負ける行為に話を飛ばされてもな。
+八百長は選手が関わる物と審判を抱き込む物と区別してほしい。
+で、国際試合で審判抱き込む式は許せないって話だろ？
+真剣にサッカーやっている人間にはそれは我慢ならない事だし、ゲームだからって言っているけどゲームとスポーツを区分するのって違うんじゃないの？スポーツって記録競技だけなのか？<div class="comment_navi">
+[ 2011/08/25 16:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22040">[ 22040 ] <strong></strong></p>
+</div>
+<div class="comb">
+みんなそんな怒ることないじゃない。
+審判の誤審だって仕方ないし、八百長もあるから難しい問題だから
+残念だけどそれも含めて楽しもっかという話でしょ？
+誤審に焦点を当ててるのか八百長に焦点当ててるのかわかりにくいけどｗ<div class="comment_navi">
+[ 2011/08/25 16:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22040" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22041">[ 22041 ] <strong></strong></p>
+</div>
+<div class="comb">
+作者の説明が下手くそだから荒れるんだろ
+誤審と八百長を一緒にするなよ
+これじゃサッカーは当たり前のように八百長が行われてる
+って勘違いするじゃん<div class="comment_navi">
+[ 2011/08/25 17:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しの萌さん</a>') } else {
+document.write("名無しの萌さん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しの萌さん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22042">[ 22042 ] <strong></strong></p>
+</div>
+<div class="comb">
+結局何が言いたいのかよくわからないな…<div class="comment_navi">
+[ 2011/08/25 17:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22043">[ 22043 ] <strong></strong></p>
+</div>
+<div class="comb">
+人数減らしてオフサイドありにすれば点が入りやすくなるよ<div class="comment_navi">
+[ 2011/08/25 17:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無し＠まとめいと</a>') } else {
+document.write("名無し＠まとめいと"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無し＠まとめいと</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22044">[ 22044 ] <strong></strong></p>
+</div>
+<div class="comb">
+審判増やせない、ＶＴＲ導入しない＝真剣勝負しない
+この論理が理解できないんだけど・・・・・
+結論ありきの話題展開の典型例って感じだな
+<div class="comment_navi">
+[ 2011/08/25 17:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22045">[ 22045 ] <strong></strong></p>
+</div>
+<div class="comb">
+いろんな意見があるのは結構だが、スレ主批判や管理人批判はいただけないな。
+見損なったとか、がっかりしたとか、手前勝手な。
+サッカーはようわからんが、サッカーファンは沸点の低い馬鹿が多いのかと勘違いしてしまいそうだ。
+<div class="comment_navi">
+[ 2011/08/25 17:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">(´・ω・｀)</a>') } else {
+document.write("(´・ω・｀)"); }
+</script>
+<noscript>
+<a href="" target="_blank">(´・ω・｀)</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22046">[ 22046 ] <strong></strong></p>
+</div>
+<div class="comb">
+あれ、もしかしてJリーグの人と勘違いしてる人がいるのかな？<div class="comment_navi">
+[ 2011/08/25 17:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22046" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22047">[ 22047 ] <strong></strong></p>
+</div>
+<div class="comb">
+誤審にしろ八百長にしろ
+それを許容しちゃだめだろ
+それこそ、サッカーが死ぬ
+<div class="comment_navi">
+[ 2011/08/25 17:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22049">[ 22049 ] <strong></strong></p>
+</div>
+<div class="comb">
+多少誤審や八百長があってもさ、それもサッカーの魅力の一つなんだよね
+サッカーの持ってる器ってのはものすごく大きいから不正だの矛盾だの全部飲み込んでしまう
+<div class="comment_navi">
+[ 2011/08/25 17:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22049" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22050">[ 22050 ] <strong></strong></p>
+</div>
+<div class="comb">
+勝敗があれば八百長はどんなスポーツだろうと成立する。
+<div class="comment_navi">
+[ 2011/08/25 18:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22052">[ 22052 ] <strong></strong></p>
+</div>
+<div class="comb">
+論旨はいくつかにわかれていて
+１　サッカーは一瞬で攻防が決まるスポーツ
+２　一瞬で決まる以上、流れが重要
+３　反面、審判による誤審が混在する可能性が高い
+４　また、一瞬で決まる関係上、選手の故意と過失の区分がつきにくい→八百長をやりやすい環境である
+５　守備側が有利（八百長が決まると相手方の加点が困難なので、八百長した方が有利）
+６　３、４、５より八百長に関する誘因がある（ただし、八百長の方法については、審判の抱き込みと選手の抱き込みがある）
+７　他方で、流れを中断するのはサッカーの醍醐味を欠く
+８　ＦＩＦＡ気の毒、八百長の排斥が困難。まあ、あれだ野暮なことは言うな
+だと思う。批判する場合は、どの部分に対して納得するかできないかを明確にしないと議論が錯綜すると思う。<div class="comment_navi">
+[ 2011/08/25 18:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22053">[ 22053 ] <strong></strong></p>
+</div>
+<div class="comb">
+誤審や八百長は確かになくせないかもしれないけど、それを楽しめってのは極論だな
+なくせないのは仕方がないとして、発覚したらそれは叩かれるべきだし、
+防止策も常に考えられるべき
+誤審や八百長を許容してしまったら、もうサッカーはスポーツとして終ってる<div class="comment_navi">
+[ 2011/08/25 18:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ゆとりある名無し</a>') } else {
+document.write("ゆとりある名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">ゆとりある名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22054">[ 22054 ] <strong></strong></p>
+</div>
+<div class="comb">
+結局アンチを喜ばすだけになったか<div class="comment_navi">
+[ 2011/08/25 18:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22056">[ 22056 ] <strong></strong></p>
+</div>
+<div class="comb">
+プロで金取ってるスポーツで八百長がまかり通っているならスポーツと言ってほしくない
+<div class="comment_navi">
+[ 2011/08/25 18:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22058">[ 22058 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長が良いなんて誰も言ってないだろ？
+偶然性が高いスポーツだから、何が起こるかわからないってことを、最近の代表戦のプレッシャーの強さとかけているわけだな。
+コメントする前にもう少し落ち着いて読み返してみろよ、普通にいいこと言ってるぞ<div class="comment_navi">
+[ 2011/08/25 18:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22059">[ 22059 ] <strong></strong></p>
+</div>
+<div class="comb">
+こんなときこそ「やる夫で学ぶ議論のしかた」を参照してみれば<div class="comment_navi">
+[ 2011/08/25 19:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22059" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22060">[ 22060 ] <strong></strong></p>
+</div>
+<div class="comb">
+韓国が宿命のライバルと放送されるだけでうんざり。
+狂ったバカ犬がいきり立って反則してくるのを攻撃的なサッカーと言われてもなぁ。<div class="comment_navi">
+[ 2011/08/25 19:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">コロちゃん</a>') } else {
+document.write("コロちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">コロちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22061">[ 22061 ] <strong></strong></p>
+</div>
+<div class="comb">
+最初腑に落ちなかったんだけどじっくり読んで考えてたら
+ 
+昔から海外サッカーを見てて知識豊富そうなわりにはサッカーに対して情熱も何もなさそうなやらない夫と
+Jリーグを貶してW杯を持ち上げるいかにもなにわかっぽさを出しつつもサッカーをある程度わかっているらしい(>>39)やる夫が
+サッカーのルール上の問題点を一方的にあげつらった挙句
+最終的に「こんなげーむにまじになっちゃってどうするの？」
+っていうひどい結論に至る記事<div class="comment_navi">
+[ 2011/08/25 19:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22063">[ 22063 ] <strong></strong></p>
+</div>
+<div class="comb">
+俺なりに解釈してみたが。
+ 
+「低レベルな試合ならともかく」は後ろの「国家の戦争だ」に関わる表現ではないかと
+日本のリーグ戦とW杯では重要度に違いがあるよ、って意味で使われたんだと思う。
+わかりにくい文章ではあるけど。
+ 
+あと真剣勝負うんぬんは、誤審などが一切ない実力だけによる決着ができた試合って意味合いだよ、たぶん。
+でもそれをそれをするとサッカーの面白みが損なわれるからできないよね？って展開かと。
+ 
+んで、プロレスうんぬんは、誤審に関してはそれが明らかにそうであるというものを除いて八百長とは判断できないし、
+選手のミスプレーについても同じ事が言えるから、「威信」だとか「誇り」とかに拘りすぎては本当のサッカーの面白さを見逃してしまいますよ、って論調かな
+ 
+ま、好意的かつ常識的に文章を捉えたらだけど、まちがってるか？<div class="comment_navi">
+[ 2011/08/25 19:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22064">[ 22064 ] <strong></strong></p>
+</div>
+<div class="comb">
+5行でまとまったな<div class="comment_navi">
+[ 2011/08/25 19:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22065">[ 22065 ] <strong></strong></p>
+</div>
+<div class="comb">
+お前らがマジギレしすぎでワロタ。
+八百長は許しちゃならんことだが、こんな所でキレるなよｗ<div class="comment_navi">
+[ 2011/08/25 20:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22066">[ 22066 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長しようと思えばいくらでもできるような偶然性の高いスポーツ
+誤審は完全に無くせないし、無くそうとするとサッカーの面白みが減る
+誤審なんかに拘り過ぎずに、色々許容してもっと純粋にサッカーを楽しめ
+ 
+って言ってるだけだろ<div class="comment_navi">
+[ 2011/08/25 20:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22067">[ 22067 ] <strong></strong></p>
+</div>
+<div class="comb">
+こいつスポーツを勘違いしてるわ
+そもそもスポーツとゲームを分離してる時点で意味不明
+つうか適当に芸スポあたりで書き散らしてサカミクあたりにさらしあげられる程度の内容の話をわざわざやる夫化しようと考えるのがすごい
+結構労力使っただろうに<div class="comment_navi">
+[ 2011/08/25 21:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22068">[ 22068 ] <strong></strong></p>
+</div>
+<div class="comb">
+「議論スレ」に乗っ取って議論してみようと思ったけど、
+そもそも、このタイトル「サッカーが何と比べて八百長しやすいのか」明言していないよね。
+団体競技であるサッカーは本質的に一人の選手で結果を操作する事は難しいし、
+得点機会が少ないということは、逆に決定的な場面が何度も検証され
+かえって八百長しづらくなるとも言える。
+ 
+その上、誤審と八百長を混同してるし、これは意図的なの？
+誤審が多いという事は、特定の選手の意図どおりの結果に導く事が難しくなる事を意味しないか？
+（要するに、わざと負けようとしたけど、誤審でそうはならなかった）<div class="comment_navi">
+[ 2011/08/25 21:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22068" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22069">[ 22069 ] <strong></strong></p>
+</div>
+<div class="comb">
+[ 22025 ] 
+具体性がなさすぎる
+Jにしろエールにしろちゃんと試合を見てから言ってる発言なのか？
+印象だけで語ってるようにしか見えないわ<div class="comment_navi">
+[ 2011/08/25 21:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22070">[ 22070 ] <strong></strong></p>
+</div>
+<div class="comb">
+22068
+単純にアホなんだろ
+挑発的な物言いをわざわざ選んでる割に大したこと言ってないし
+自分の中にあるあいまいな理論を精査しないままこういう大げさな手法で発表したがる奴って周りにもいるだろ
+自己顕示欲の塊なだけで実際大したこと考えてないと思うよ<div class="comment_navi">
+[ 2011/08/25 21:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22071">[ 22071 ] <strong></strong></p>
+</div>
+<div class="comb">
+巣に帰れｗｗ<div class="comment_navi">
+[ 2011/08/25 21:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22072">[ 22072 ] <strong></strong></p>
+</div>
+<div class="comb">
+根本的な問題としてスレタイ通りの内容じゃないんだよな
+これじゃあ何も学べない<div class="comment_navi">
+[ 2011/08/25 21:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22073">[ 22073 ] <strong></strong></p>
+</div>
+<div class="comb">
+この※欄をみて分かったことはただ一つ
+ 
+サッカーファンは基地外が多い。
+ 
+まあ、頻繁に暴動を起こすような奴がいるスポーツなんてそんなものか・・・<div class="comment_navi">
+[ 2011/08/25 21:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">も</a>') } else {
+document.write("も"); }
+</script>
+<noscript>
+<a href="" target="_blank">も</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22074">[ 22074 ] <strong></strong></p>
+</div>
+<div class="comb">
+管理人による晒しにホイホイ釣られやがって！！<div class="comment_navi">
+[ 2011/08/25 21:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22075">[ 22075 ] <strong></strong></p>
+</div>
+<div class="comb">
+このスレタイが「なぜサッカーの八百長は他のスポーツより目立つのか」というタイトルと
+それに即した内容なら、もっと読者の賛同を得られたと思う。
+元スレ探そうと思ったけど、既に落ちてるじゃないか。
+平日の昼間にこんなスレ立てられても、言いっ放しすぎるな。
+管理人は良く探したね。<div class="comment_navi">
+[ 2011/08/25 21:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22075" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22076">[ 22076 ] <strong></strong></p>
+</div>
+<div class="comb">
+別にこの記事でサッカーm9(^Д^)ﾌﾟｷﾞｬｰにはならんが（格闘技も似たようなとこ有るし）
+瞬間湯沸かし器どもの書き込み見てるとこいつらのアンチになって
+m9(^Д^)ﾌﾟｷﾞｬｰしたくなるな。<div class="comment_navi">
+[ 2011/08/25 21:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22078">[ 22078 ] <strong></strong></p>
+</div>
+<div class="comb">
+「俺の好きなサッカーを八百長扱いしやがって！」
+「俺の好きなＪリーグを低レベル扱いしやがって！」
+ 
+ほんとに沸点低い奴が多いなｗ
+ 
+瑣末的な部分は置いといて、要約すると
+「鼻息荒くしないで肩の力を抜いて楽しもうぜ」って事だろ。
+フーリガンとかサッカー絡みで殺人事件とか海外ならともかく日本で起こってほしくないしな。
+<div class="comment_navi">
+[ 2011/08/25 21:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22078" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22079">[ 22079 ] <strong></strong></p>
+</div>
+<div class="comb">
+単に「サッカーはサイコロ使うゲームみたいなもん」ってだけだな。
+そりゃサイコロ使う方が仕込はし易いだろうな。
+ 
+これでサッカー叩きに見えるなら、ちょっと頭に血が上りすぎ<div class="comment_navi">
+[ 2011/08/25 21:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22080">[ 22080 ] <strong></strong></p>
+</div>
+<div class="comb">
+せっかく22052が論旨をまとめてくれたので、それを元に反論すると
+ 
+1,2,3は、大筋で同意できるとして
+４　一瞬で決まる関係上、選手の故意と過失の区分がつきにくい→八百長をやりやすい環境である 
+というのが飛躍してるよな。一瞬で決着のつかないマラソンやゴルフだっていくらでも八百長できる。
+５　守備側が有利だと点が入りにくく、意図的に点を献上するプレーが不自然に目立つ。
+７　中断の有無と八百長のやり易さは関係ない。中断可能な野球やボクシングだって八百長はできる。
+という訳でスレ主のいう八百長のしやすい理由には全く根拠がありません。
+ 
+まあ、論理的でないのに難癖つけられたら、普通は反発するよね。<div class="comment_navi">
+[ 2011/08/25 21:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22080" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22081">[ 22081 ] <strong></strong></p>
+</div>
+<div class="comb">
+論理がどうこう言いたいなら、自分の反論が論理的に成立してるか見直せよ。
+お前が言ってるのは「対偶」じゃなくて「裏」だ。
+常に真なのは「対偶（AならB→BでないならAでない）」で、裏は普通に偽であり得るぞ。<div class="comment_navi">
+[ 2011/08/25 22:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22082">[ 22082 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞ミスを前提とした戦術にならざるを得ない
+この辺が、そこら辺の評論を聞きかじっただけの薄っぺらいものと感じるんだよな。
+そもそもサッカーの攻撃でミスを前提とした戦術って何よ？
+ラグビーの方が突破に失敗した場合を前提に戦術を組み立ててるんじゃないか？
+ 
+＞ディフェンス側がほぼ１００％勝つゲーム
+第3の動きとか、最後尾からの攻撃は「非常に対応が難しい戦術」と言われてるんだが。
+サッカーに詳しい立場のやらない夫がサッカーに無知すぎるんじゃないかな。<div class="comment_navi">
+[ 2011/08/25 22:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22083">[ 22083 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーファンちょっとアホすぎでしょう
+冷静になれよ<div class="comment_navi">
+[ 2011/08/25 22:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22083" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22086">[ 22086 ] <strong></strong></p>
+</div>
+<div class="comb">
+サポティスタとか見ても、
+この手の「バカが独断と偏見で語るサッカー論」には
+異常に食いつくのがサカオタだよな。<div class="comment_navi">
+[ 2011/08/25 22:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22086" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22087">[ 22087 ] <strong></strong></p>
+</div>
+<div class="comb">
+これ昨日の深夜に見て荒れそうだなーｗｗ
+と思ってたら想像以上だったｗｗ<div class="comment_navi">
+[ 2011/08/25 22:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22088">[ 22088 ] <strong></strong></p>
+</div>
+<div class="comb">
+そもそも「レベルが低い」のはJリーグじゃなくてアジア人、というかモンゴロイド全体だろ?<div class="comment_navi">
+[ 2011/08/25 22:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22091">[ 22091 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーで戦争・・・プロペラ戦闘機同士が戦った最後の戦争のあれか。
+あれは国境問題とか不法移民の開拓とか強制退去とか色々なのが積み重なって起こるべくして起こった戦争だよね。サッカーの結果は単なるトリガーに過ぎないだけであって、他に理由があれば何らかのきっかけを口実に戦争が起こったと思うよ。ただそれがサッカーの試合結果という、政治とは完全に無関係なものだったから世間的には「なんちゅうくだらん理由で…」と思われているだけだと思う。
+ 
+それはいいとしても八百長と買収と誤審を完全に混同しているなぁ・・・そもそも八百長って両者の打ち合わせによる意味があると思うけど、審判買収も八百長の範疇に入るのかな？何かズレてる気がするのは自分だけかな？
+いつぞやかのアジアカップでも中国側の審判が甘すぎることに指摘があったけど、いざ決勝戦で日本側のハンドに審判が気付けなくて負けちゃった、なんてことがあったからなぁ。それがよく言われる八百長によるものなのか「本当の誤審」によるものなのかはわからないけど。だけどそこに悪意や金品が介在していることを証明するのが難しいのは、どこの世界でも同じなのかもしれないね。<div class="comment_navi">
+[ 2011/08/25 23:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22092">[ 22092 ] <strong></strong></p>
+</div>
+<div class="comb">
+旧大陸と近代スポーツ（というかアメスポ）のfairの違いも盛り込んで欲しかったな。
+ 
+価値観の個人差もあるから一概にはいえんけど、
+決闘の場に現れたなら、熱があろうが、大兵と小兵同士だろうが、偶然に風が眼に入ろうが、漢がサシで戦ったならそれでフェアとする、のが旧大陸。
+ 
+熱があるなら決闘は延期、体格に差があるならハンデ付けて、まぐれ勝ちは良くないので一回傷を与える毎に休憩入れて、いやいやここはポイント制で…てのがアメリカ系。
+ 
+のイメージなんだけど。<div class="comment_navi">
+[ 2011/08/26 00:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22093">[ 22093 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんでこんなにファビョってるヤツ多いの？朝鮮人なの？<div class="comment_navi">
+[ 2011/08/26 00:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22094">[ 22094 ] <strong></strong></p>
+</div>
+<div class="comb">
+帰宅してブラウザ立ち上げ直したら再送されてたww<div class="comment_navi">
+[ 2011/08/26 00:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22095">[ 22095 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんでそんなに必死になって擁護してるの？
+サカオタ叩きたいだけの奴が第３者装って煽って見せても寒いだけなんですけど^^;
+ 
+内容むちゃくちゃなら叩かれるのは当たり前だろｗ
+サッカーに対する認識が印象論の域を出てないのにこんな挑発的な内容書いちゃうからこんなことになる
+もうちょっと自分の意見をまともに精査してからやる夫化すべきだったな
+対象をよく知らずによくこんなこと書く気になったもんだよ
+杉山ってサッカーライターを思い出したわ
+ちょうどこんな感じの奴なんだろうな<div class="comment_navi">
+[ 2011/08/26 00:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22096">[ 22096 ] <strong></strong></p>
+</div>
+<div class="comb">
+ここで言ってる話は、サッカー独自の現象としての八百長についてではなく、スポーツ全般に当てはまる話しかしていない。
+しかも八百長ではなく、誤審にスポットが当たってるし・・・。（八百長と誤審は全く意味が違う）
+ここでしなければならないのは、サッカーの競技システムとして八百長がどのように行われてきたのか、それに対する解決策があるのかないのかという話だろ？
+例えば、国際試合における審判選定プロセスや各大陸予選における独自のシステムを記述する必要がある。
+審判選定における買収とは現実にあるのか？あるとすればどのように買収工作が行われているのか。それを防止する方策はあるのか？って話じゃねーのか？？
+命題と論点がずれてるから、読み終わっても釈然としない。
+ 
+<div class="comment_navi">
+[ 2011/08/26 00:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22097">[ 22097 ] <strong></strong></p>
+</div>
+<div class="comb">
+いつもの番外編かと思ったら糞スレだった
+>>サッカーなんか、所詮、ただの娯楽だから
+こんなこと言われたらそりゃ怒るだろ
+これまでJシリーズでもやってきた苦しい環境の中でサッカーのために尽力してる全ての人を侮辱してる
+俺はそんなにサッカー好きでもないが自分の趣味に「なんか、所詮、ただの」とか言われたら切れるぞ
+というか軽蔑する<div class="comment_navi">
+[ 2011/08/26 00:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22097" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22098">[ 22098 ] <strong></strong></p>
+</div>
+<div class="comb">
+こんなマヌケな内容で批判めいたこと書きゃ荒れるのは当然だな
+ 
+サカオタ暴れすぎっていうが、そもそも本スレの内容が暴論すぎるのが原因だし仕方ないんじゃない？
+ 
+本人的には批判のつもりじゃなかったのかもしれないが、八百長なんてデリケートな内容を扱おうとしてる割に中身スカスカで八百長と誤審の区別すらついてないありさまでは…
+作者の頭の悪さがすべての元凶だわ<div class="comment_navi">
+[ 2011/08/26 00:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22099">[ 22099 ] <strong></strong></p>
+</div>
+<div class="comb">
+みんな言ってるけど、結局内容がひどすぎるんだよね…
+もうちょっとまともなこと書いてたら議論の使用もあったんだろうけど…
+ 
+八百長と誤審の区別がついてないって時点でこれを擁護するのはちょっと無理があるわ
+あとやたら言葉の選び方が挑発的なのもなぁ
+なんか最初からサカオタ煽るために建てたとしか思えない
+そもそもタイトルが挑発的な割に中身が伴ってないし
+ 
+こういう風にタイトルで煽るならそれなりに理論武装してくれないと…<div class="comment_navi">
+[ 2011/08/26 00:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22100">[ 22100 ] <strong></strong></p>
+</div>
+<div class="comb">
+すっごく簡潔にまとめると
+誤審に見せかけて八百長かもしれない、八百長に見えるけど誤審かもしれない
+誤審か八百長かが他のスポーツよりわかりにくいってことでしょ
+あと個人的に付け加えるなら、誤審にしろ八百長にしろ有耶無耶になりやすいってことかな
+ 
+まぁ間違ったことは言ってないんじゃないの？<div class="comment_navi">
+[ 2011/08/26 01:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ｘ</a>') } else {
+document.write("ｘ"); }
+</script>
+<noscript>
+<a href="" target="_blank">ｘ</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22101">[ 22101 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長があるだのJリーグのレベルが低いだの・・・
+周知のことなんで今更取りあげてんだか<div class="comment_navi">
+[ 2011/08/26 01:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22102">[ 22102 ] <strong></strong></p>
+</div>
+<div class="comb">
+サカオタってキレると怖いね<div class="comment_navi">
+[ 2011/08/26 02:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22104">[ 22104 ] <strong></strong></p>
+</div>
+<div class="comb">
+22069
+具体性がないつっても、選手が言ってる事だしな・・
+Jの数が増えすぎなのも明らか。
+ 
+因みにエールのユトレトに移籍した藤田が
+ジュビロの方がレベルが高いって言ってたっけ<div class="comment_navi">
+[ 2011/08/26 02:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22105">[ 22105 ] <strong></strong></p>
+</div>
+<div class="comb">
+*22082
+第3の動きとか、最後尾からの攻撃は
+しっかりマークされてたらアウト、つまり
+守備のミス前提の戦術だと思うが？
+ 
+暴論だけど、ホントにそんなに有効ならバスケ並の点が入っておかしくない
+しかし現実には3点取ったら決定的、5点取ったら馬鹿試合
+つまり守備が“ほぼ”100%勝つゲームじゃんか<div class="comment_navi">
+[ 2011/08/26 03:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22108">[ 22108 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーキチガイ湧きすぎだろこえー
+この投稿者のサッカー論がお前に受け入れられないものだったとして、そこまで発狂するほどお前の人生を左右するのかよ<div class="comment_navi">
+[ 2011/08/26 04:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22109">[ 22109 ] <strong></strong></p>
+</div>
+<div class="comb">
+普段、叩かれないポジションにいるせいなのか異常なキレ方してるなぁ・・・<div class="comment_navi">
+[ 2011/08/26 05:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ゆとりある名無し</a>') } else {
+document.write("ゆとりある名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">ゆとりある名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22116">[ 22116 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長を肯定してたらCリーグやKリーグみたいにサポから見放されるだろうね。
+コンテンツとして死んだら楽しむ云々以前の問題なんだけどな。<div class="comment_navi">
+[ 2011/08/26 07:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22118">[ 22118 ] <strong></strong></p>
+</div>
+<div class="comb">
+※21989
+ガッツがいったのはサンプだろ
+ 
+海サカでは海外資本の導入少ない分経営的な面ではセリエ、ブンデスしか残らないんだろうな
+リーガは
+バルサとかレアルみたいなのは破たんするだろうし
+分配金が上位にしかいかないしくみだし
+プレミアは
+海外資本導入されまくってるから飽きたらポイだろうし<div class="comment_navi">
+[ 2011/08/26 09:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22119">[ 22119 ] <strong></strong></p>
+</div>
+<div class="comb">
+お前らサッカーごときで熱くなりすぎだろ。
+正直引いたわ。<div class="comment_navi">
+[ 2011/08/26 09:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22120">[ 22120 ] <strong></strong></p>
+</div>
+<div class="comb">
+いや、これサカヲタに喧嘩売ってんだろ
+言葉のチョイスがひどいw<div class="comment_navi">
+[ 2011/08/26 09:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22126">[ 22126 ] <strong></strong></p>
+</div>
+<div class="comb">
+守備側が百パーセント勝つと言うことはそれは両方に関わることだから全試合が引き分けにならないとおかしいということ？<div class="comment_navi">
+[ 2011/08/26 11:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22128">[ 22128 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーがそれなりに好きな人にとっては、ああーこういうのもあるのか、って感じだったけど、
+サカヲタにとってはアイデンティティが否定されるようなスレだったのか？
+その辺の意識の差がありすぎて、イマイチ、サカヲタがなんでそんなに怒っているのかがよくわからないんだが。<div class="comment_navi">
+[ 2011/08/26 11:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22129">[ 22129 ] <strong></strong></p>
+</div>
+<div class="comb">
+これだけ目まぐるしく攻守が変わるゲームだから審判が難しいってのは同意だな
+八百長を肯定というよりかは、八百長か誤審か判断しづらすぎてどうしようもねえってのが近い
+ただサッカーに限った話じゃないな、これ<div class="comment_navi">
+[ 2011/08/26 11:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22135">[ 22135 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22128
+誰だって自分が心の奥底から好きなものをけなされたら怒るだろ？
+第一サッカーは公に八百長が認められているスポーツじゃないからそれを肯定する考えは納得できないんじゃね？<div class="comment_navi">
+[ 2011/08/26 12:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22151">[ 22151 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーはエンターテイメントだからといってさ、
+てか名古屋サポ切れろよ<div class="comment_navi">
+[ 2011/08/26 15:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">。</a>') } else {
+document.write("。"); }
+</script>
+<noscript>
+<a href="" target="_blank">。</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22155">[ 22155 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+馬鹿な内容を論理的に論破すると「サカオタは怖い」だの「キレている」だのしか言えないのが擁護派か。<div class="comment_navi">
+[ 2011/08/26 16:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22158">[ 22158 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22155
+ 
+一部だけを見すぎだ。
+その類のレスは感情的な発言や論理が破綻してる意見に対して言ったんだろうし、ちゃんとした反論をしている者もいる。
+ 
+まあ、感情的な擁護派もいるかもしれんが、全部一括りにするのはいただけないな。<div class="comment_navi">
+[ 2011/08/26 17:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22159">[ 22159 ] <strong></strong></p>
+</div>
+<div class="comb">
+>馬鹿な内容を論理的に論破すると
+馬鹿※が内容を論理の意味を踏み違えてわめいてるだけにしか見えないからそういってるんだよ。
+自分の感情を正当化するための屁理屈でない「論理的な論破」がそんなに多いか？ほとんど無いだろ。
+ 
+＞自分の趣味に「なんか、所詮、ただの」とか言われたら切れるぞ
+ゲーム好きだが、任天堂自身が「ゲームなんか所詮ただの暇つぶし」って言ってるからなあ。
+侮辱してるんじゃなくて、現実だからそれを踏まえてどうするか考えないとって意味で。
+やらない夫の発言も客観的に見ればって事じゃね？侮辱には見えなかったけどな。<div class="comment_navi">
+[ 2011/08/26 18:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22165">[ 22165 ] <strong></strong></p>
+</div>
+<div class="comb">
+管理人はサッカー実は嫌いなのか<div class="comment_navi">
+[ 2011/08/26 19:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22165" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22168">[ 22168 ] <strong></strong></p>
+</div>
+<div class="comb">
+このコメ欄の荒れ方は管理人の思う壺。
+ 
+「皆様楽しんでいただけましたか」ってとこだろw<div class="comment_navi">
+[ 2011/08/26 20:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22180">[ 22180 ] <strong></strong></p>
+</div>
+<div class="comb">
+>誤審と八百長とりちがえてんじゃねーよ
+すでに上に何人か書いてるけどこれに尽きる
+そもそも選手買収するより審判買収するほうが確実だからな
+たとえば日韓共催ワールドカップでのスペ…<div class="comment_navi">
+[ 2011/08/26 22:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22182">[ 22182 ] <strong></strong></p>
+</div>
+<div class="comb">
+まともにサッカー見る目があれば、
+Jリーグ(チームじゃねえぞ)がレベル低いなんて言葉出てこないよ。<div class="comment_navi">
+[ 2011/08/26 23:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22183">[ 22183 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーも知らない典型的な海外厨だな。
+日本には3部はないけど、仮にJFLを3部とするなら、
+世界を見渡してもこんなにレベルの高い3部なんか存在しないわ。<div class="comment_navi">
+[ 2011/08/26 23:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22184">[ 22184 ] <strong></strong></p>
+</div>
+<div class="comb">
+野球、サッカー、相撲、格闘技・・・
+どれも楽に八百長できるな
+ 
+将棋囲碁とか対戦型ＴＶゲームとかぐらいか<div class="comment_navi">
+[ 2011/08/26 23:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22185">[ 22185 ] <strong></strong></p>
+</div>
+<div class="comb">
+まず書いてる奴の八百長がやり易いってのが具体性にかけるんだよな。誰を買収するんだ？CBか？GKか？一瞬気が抜けた振りすればってどのタイミンクでやるんだ？決定的チャンスが作られたとしてそれを外したらまた同じことやんのか？それはバレるか変えられるんじゃないのか？
+ 
+誰かが書いてたけど、結論ありきでそこにこじつけるように書かれてるんで、根拠があまりにもお粗末。その上書き方に客観性が無く主観の押し付けがましいから反発食らってんだろ。管理人はどんな意図持ってこんなスレ取り上げたんだ？<div class="comment_navi">
+[ 2011/08/27 00:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22186">[ 22186 ] <strong></strong></p>
+</div>
+<div class="comb">
+的外れなら、普通、スルーだろ。
+よほどやばいことだったのかと
+逆に勘ぐられるぞ。<div class="comment_navi">
+[ 2011/08/27 00:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22188">[ 22188 ] <strong></strong></p>
+</div>
+<div class="comb">
+「やる夫で学ぶ！ サッカーの誤審が騒がれる理由」っていうスレタイだったら荒れなかっただろコレ<div class="comment_navi">
+[ 2011/08/27 01:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22190">[ 22190 ] <strong></strong></p>
+</div>
+<div class="comb">
+エールのトップ3ってどこだ？
+アヤックス以外はどこも低迷していて次にくるのはトゥウェンテ、PSV、AZあたりかな？
+ぶっちゃけこの3チームだとJチームでもいい勝負しそうなんだけどね？<div class="comment_navi">
+[ 2011/08/27 01:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22211">[ 22211 ] <strong></strong></p>
+</div>
+<div class="comb">
+おまいら０－４で３連敗した清水が８００長してたっていうのかっ！？<div class="comment_navi">
+[ 2011/08/27 05:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22224">[ 22224 ] <strong></strong></p>
+</div>
+<div class="comb">
+コメント数が多いね！
+好きなものの負の部分書いちゃだめっていうコメントも吹いた
+<div class="comment_navi">
+[ 2011/08/27 09:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22287">[ 22287 ] <strong></strong></p>
+</div>
+<div class="comb">
+内容はさておき、よくぞこれだけの書き込みが集まったもんだ。
+ 
+ 
+それだけここを見てる人が多いということなのか…それとも、同じ人が何度も繰り返し書き込んじゃったりしてるのかしらん？<div class="comment_navi">
+[ 2011/08/27 22:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22287" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22300">[ 22300 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長のしやすさだったらサッカーに限らずどのスポーツでも一緒じゃない？
+ 
+大事な場面でわざとミスすればいいんだしね。
+ 
+あとJは言うほどレベルは低くないよ。
+ヨーロッパ中堅以上の実力は充分あるよ。
+ 
+最高峰のリーグでも下位チームはすげー弱いし
+<div class="comment_navi">
+[ 2011/08/28 02:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22315">[ 22315 ] <strong></strong></p>
+</div>
+<div class="comb">
+Jも海外リーグも見ての意見なんだが
+競技レベルの違いは置いといて、Jの方が見てて面白いと感じる試合の割合は多いように思うな。
+海外の1部下位とか2部の選手はろくにパスも繋げられない下手糞多いよ。
+それに崩しのアイディアではJの方が余程豊富。
+ビッグクラブの試合だって糞みたいな蹴り合いよくやってる。
+<div class="comment_navi">
+[ 2011/08/28 13:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22322">[ 22322 ] <strong></strong></p>
+</div>
+<div class="comb">
+初っ端のやる夫の台詞、にわかファンて印象付けるにしても
+もうちょっとどうにかできたろ
+キャラ付け下手すぎ
+そりゃ不愉快になる奴もたくさんでるわ
+<div class="comment_navi">
+[ 2011/08/28 17:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22335">[ 22335 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーってイタイイタイ病患者のやる欠陥スポーツだろ？
+接触がそこそこ多いスポーツにも関わらず、ちょっと当たっただけで痛い痛いってのたうちまわってるだけの。
+誤審、八百長云々よりもまずは体を丈夫にするのがいいんじゃないかな<div class="comment_navi">
+[ 2011/08/28 22:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22347">[ 22347 ] <strong></strong></p>
+</div>
+<div class="comb">
+22315
+相手選手やJにきた外国人がトップリーグと比べたら
+Jのレベルは降格レベルとか
+エールでいう中堅かチョイ上ぐらいって
+言ってるんだからさすがにその意見は通らない。
+ 
+ただ海外の下位やら中堅よりも「面白い」サッカーしているのは同意する
+同じ日本人がして、高校時代活躍した選手がそのまま世代交代で
+主力になっていくのを見ているからそう思うかもしれないが
+少なくとも足元のレベルの平均値は他国より上だと思う。
+ 
+22335
+ダイブは怪我をしないようにしないとダメなんだが
+痛くもないのに痛がってファールを貰おうとするのはさすがに滑稽な部分があるから、やめてほしい。
+ただ、接触プレーっていうが予測できるものは大丈夫だが
+突然こられると少しの衝撃で怪我をするんだよな。
+身体を丈夫にしてもそれは不可能。
+ 
+サッカーより、身体を丈夫にしろっていうのは
+野球とかの方が適用されるんじゃね？一塁走っただけで怪我とかどんだけだよｗｗって思う。<div class="comment_navi">
+[ 2011/08/29 06:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22376">[ 22376 ] <strong></strong></p>
+</div>
+<div class="comb">
+コメント多すぎﾜﾛﾀ
+こういうのが昔の２chなんだよな
+いまはromばっかりだから困る<div class="comment_navi">
+[ 2011/08/29 12:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22498">[ 22498 ] <strong></strong></p>
+</div>
+<div class="comb">
+基本的にワンプレーの試合に占める割合が多く、競技人数が少ないかキーマンの重要度が高い競技が八百長がしやすい。
+ここから考えると、相撲、ボクシング、将棋などは非常に八百長がしやすい。失策、ミスは誰にでもあるのでバレにくい。
+野球は人数は多いが、投手を抱き込めれば試合を決めるに足る点を獲ることは十分にできる。失投や四球はよくあるのでバレにくい。
+テニスやバドミントン。人数は少ないが一度のミスが敗北につながることも少ない。何度も故意の失敗をすればバレやすくなる。
+マラソン、トラック競技、自転車など。一度の対戦相手が多いため全体の買収が必要。アクシデントはつきものなので発覚はしにくい。
+バレーやバスケ。チーム全体を買収しないとゲームをコントロールすることは難しい。一点の比重が小さいため、テニスと同様の問題点がある。
+んで、サッカー。キーマン（GK）のスコアプレーに占める比重は野球の投手よりは低い。CDFのひとりとGKの二人が八百長をすればコントロールは出来る。八百長が発覚しにくいというのはそのとおり。
+ 
+と、こうやって比べると特にサッカーだけが八百長をしやすいわけではないな。
+審判の買収のたぐいの八百長は野球（ストライクゾーンの移動）ボクシング（流れの支配）などと変わらん。
+<div class="comment_navi">
+[ 2011/08/31 14:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22499">[ 22499 ] <strong></strong></p>
+</div>
+<div class="comb">
+個人的には「やる夫で学ぶJリーグの旅」の作者と同じ作者だと勘違いしている人がいるのがつらい・・・
+<div class="comment_navi">
+[ 2011/08/31 14:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22505">[ 22505 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22498
+将棋は高等すぎて八百長しようと思ったら綿密に示し合わせないといつもと違うとすぐばれる。
+野球は一球一球がキャッチャーや監督、スコアラーに監視されてる。サイン無視とあれば即下ろされるし、そうでなくても調子悪いと判断されてやっぱり下ろされる。
+相撲やボクシングは八百長すると必然的に低レベルな試合と化して競技そのものの寿命蝋を削りかねん。
+その点サッカーは攻守問わず一人要の選手が一回だけわざとミスすれば試合を決めれる。一回のチャンスを巡って争う競技だから。
+一回だけならやむを得ないミスと区別するのが難しいから八百長を恒常化しつつ高レベルなプレーをしてるふりがやりやすい。
+競技そのものの人気と八百長のしやすさ考えるとやっぱサッカーと他の競技には一戦を画してるよ。<div class="comment_navi">
+[ 2011/08/31 16:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22537">[ 22537 ] <strong></strong></p>
+</div>
+<div class="comb">
+外野が高々と上がった外野フライをエラーとかしようもんなら、試合が決定される気がする。
+ 
+まぁある程度限定的な場面かもしれないけどな。
+ 
+サッカーもそうだが、一回だけDFがミスしても
+GKはいるわけで・・
+そうそう八百長なんてしようと思っても出来ないよ。
+少なくとも３人ぐらい買収しないとな。
+ 
+ちなみに日韓W杯の時に話題になったモレノって言う審判がロスタイム２０分ぐらいとって八百長がバレて逮捕された。
+ 
+サッカーに限らずしようと思えばどんなスポーツでも
+格闘技でも出来るよ。
+サッカーだから～とかまるで意味がない。
+ 
+野球の審判もど真ん中をボールって言う審判がいるぐらい危ないんだぜ<div class="comment_navi">
+[ 2011/08/31 23:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22609">[ 22609 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22537
+狙った試合、いいところで外野にボールがいくのを狙って買収をかけるというのは非現実的じゃないか？
+GG?ｿﾝﾅｾﾝｼｭﾊｼﾗﾝﾅ
+>野球の審判もど真ん中をボールって言う審判がいるぐらい危ないんだぜ
+野球とサッカーの審判を同列に置くのは無理があるだろ。
+野球は一回ずつプレーが止まるし、全部映像が残るし。
+あともう一つのほうの※でも言われてたけど野球は試合がひっくり返りやすいから買収しても意図したとおりに行く可能性が低いのも考慮すべき。
+ＷＢＣでデービットソンが日本に不利な判定したことあったけど、結局日本が優勝してるだろ。<div class="comment_navi">
+[ 2011/09/03 20:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22712">[ 22712 ] <strong></strong></p>
+</div>
+<div class="comb">
+やりやすいのとやってるかどうかは別だろ
+どのリーグでも八百長が常態化してるかのような書き方はひどいね<div class="comment_navi">
+[ 2011/09/04 23:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ゆとりある名無し</a>') } else {
+document.write("ゆとりある名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">ゆとりある名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment26097">[ 26097 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22712 
+え？どこにそんな表記が？<div class="comment_navi">
+[ 2011/11/10 14:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment28299">[ 28299 ] <strong></strong></p>
+</div>
+<div class="comb">
+何このコメント欄ｗ
+お前らがプロレスやってんじゃねーよｗ<div class="comment_navi">
+[ 2011/12/21 08:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment31011">[ 31011 ] <strong></strong></p>
+</div>
+<div class="comb">
+これは別の人の投下をまとめたんだよね？
+ 
+神の投下じゃないんだよね？<div class="comment_navi">
+[ 2012/02/10 08:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment31016">[ 31016 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーオタキチガイ過ぎ糞ﾜﾛﾀwww<div class="comment_navi">
+[ 2012/02/10 12:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment31218">[ 31218 ] <strong></strong></p>
+</div>
+<div class="comb">
+まさにヘディング脳　…なーんて煽りはともかく、擁護っぽい言い分の人間が短絡的すぎるわｗ
+単純に「八百しやすい理由」なだけで「八百している」とは言ってないわな
+サッカーをくさしているとも思わんし、
+ステレオタイプなキャラづけも話を進めやすくしているだけじゃないの？
+全員冷静だったら面白くもないしなぁ…実際
+ああ、米欄はヘディング脳(テンプレとして)な人間が多いからそう間違ってもないか
+やきうネタだとこういう狂信者は少ないから、正直逆にウブっぽくて可愛いなｗ
+ 
+サッカーはルールや縛りが単純であるがゆえに誰でも何とでも言いやすい
+だからこそ底辺とか馬鹿が多くてこう荒れやすい傾向にあるのも事実
+何より素人にもそれなりに楽しく参加できちゃう(それが最大の魅力だとも思う)
+だから「俺にもできる」と勘違いしてしまう素人が増えすぎてしまうのが難点
+自分にできると思っているからこそ妙ちくりんな批判をする連中が多くなる
+ 
+やきうファンとしては参加人口を増やしやすいところは羨ましい(実際に多いし)
+逆に馬鹿や底辺を(金銭・ルール面で)排除しやすい(いないわけではない)点は野球でよかったと思う
+痛し痒しというわけだな…
+あと、ヘディング脳と煽り言葉を使ったのはすまんね<div class="comment_navi">
+[ 2012/02/13 19:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment32306">[ 32306 ] <strong></strong></p>
+</div>
+<div class="comb">
+プロレスがナチュラルにdisられててワロタｗｗｗｗ
+ワロタ・・・<div class="comment_navi">
+[ 2012/03/04 23:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment34490">[ 34490 ] <strong></strong></p>
+</div>
+<div class="comb">
+野球だって球場に足を運べばバカばっかりじゃないか！
+正直マランダラージ？とかいう糞プレーをやめてくれればそれでいいんだけどな・・・
+<div class="comment_navi">
+[ 2012/04/12 20:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37638">[ 37638 ] <strong></strong></p>
+</div>
+<div class="comb">
+守備一切無しの玉入れゲームなら八百長は少なくなる…　か？<div class="comment_navi">
+[ 2012/06/03 07:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment47285">[ 47285 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>31218
+ 
+へぇ…じゃあ底辺でも馬鹿でもない野球好きの人に聞くけど、この>>1の物語を読んで
+「八百長」と「誤審」を一緒くたにしてることに気付かないのか？
+ 
+そもそも本スレの「審判の数増やしたり、VTR判定導入はできないんだろ？FIFAは真剣勝負を捨てた」
+については、FIFAはゴール脇審判追加やゴール判定技術についての導入を推進してるから、全くの見当外れ
+八百長については、一番FIFAが問題視してる審判の「買収」に関して殆ど言及していないから、どうしても片手落ち議論に過ぎない
+選手の八百長についても、一見八百長と分からない様なプレーだって言及されてるからね。アンドレア・マシエロのオウンゴールとか
+ 
+あと、底辺とか馬鹿が多いのは事実(ｷﾘｯ　とかって証拠も無く言って恥ずかしくないの？
+リーグ優勝して汚い川に飛び込んだ某球団ファンや、野次を飛ばすファンは狂信者ではないってかい？
+というか、その狂信者の定義も数も提示されないしね
+ 
+俺は野球もサッカーも、スポーツを真剣にやってる人・応援してる人は尊敬するけど
+貴方の様に、イメージだけで一方のスポーツを貶す真似する奴だけは理解できないな
+ 
+あ、文中で(ｷﾘｯ　とか煽ってすまんね
+こう言っとけば、失礼な事言っても許されるんだよね？貴方の中では<div class="comment_navi">
+[ 2012/11/11 13:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=47285" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment49921">[ 49921 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーは八百長スポーツのくせにメジャーになりすぎた
+プロレスみたいに日陰でやってればよかったのに<div class="comment_navi">
+[ 2012/12/30 11:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment49930">[ 49930 ] <strong></strong></p>
+</div>
+<div class="comb">
+そんなレッテル貼りで話を締めようったって、そうはいかんぞ<div class="comment_navi">
+[ 2012/12/30 20:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment54676">[ 54676 ] <strong></strong></p>
+</div>
+<div class="comb">
+鼻息荒くしたけど、結局大規模八百長が明るみになってしまったが
+２年前にそんなもんねぇよ！と言ってた人達は今どんな気分なんだろう？<div class="comment_navi">
+[ 2013/04/06 18:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment57546">[ 57546 ] <strong></strong></p>
+</div>
+<div class="comb">
+どこをどう読んでも誤審と八百長を混同しているようには見えないんだが…
+いくらなんでも読解力なさすぎ
+ 
+お子ちゃま過ぎてコメ欄の方に呆れる<div class="comment_navi">
+[ 2013/06/15 12:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment58459">[ 58459 ] <strong></strong></p>
+</div>
+<div class="comb">
+※22498
+野球で八百長が行われる場合に投手の比重が高いというのはその通りだが、投手だけで八百長が可能というのはちょっと無理がある。
+仮に意図して失投しても、打率は沢山のプレーの間に実力の形に収束はするんだけど、個々の試合のプレーを見ると三冠王の松中ですらど真ん中の失投でダブルプレーになってしまうことがある競技だから、これは難しい。
+四球を狙えば、敬遠球を打つ馬鹿はさておいても、八百長がバレにくいようなストライクゾーン近辺の球は引っかけてゴロやフライを打つ奴も大量に出て来てしまう。
+多田野投手のイーファスピッチが競技として成立するのも、常に一瞬のみの勝負だから「本来投げないような球」はそれだけで奇襲として成立してしまうからなのよ。
+あなたが言う投手を買収し失投ないし四球させるだけで八百長が成立するという理屈は、サッカーに例えるなら、PKの場面でキッカーが真正面にコロコロ転がせば必ず知らされてなくてもGKが止めて八百長が成立すると言っているようなもの。
+フェイントとか読み合いが存在するのに、読み合いを放棄することが奇襲にならないなんてのはどの競技でもあり得ないよ。
+ 
+ぶっちゃけた話、GK（打者）とキッカー（投手）といった複数人数の買収と打ち合わせが必要なのは野球も同じ。
+野球の方が八百長しやすいというのは流石に無理筋。
+自分の応援する競技を守るために他のものをよく知りもしないで貶すのはどうよ。
+ 
+※47285
+大体同意ではあるが、わざわざ間違った知識で他競技に口出してまでサッカーの擁護を始めたのは君たちだ。
+野球ファンとしてイライラする奴が出てくるのも分かるし、筋論で行けばまずそちらを批判すべきではないか。<div class="comment_navi">
+[ 2013/07/03 10:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment58654">[ 58654 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>近年のサッカー680試合に八百長の疑いがあることがわかったと発表した。
+ 
+あーあ<div class="comment_navi">
+[ 2013/07/06 17:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しでやんす</a>') } else {
+document.write("名無しでやんす"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しでやんす</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment59706">[ 59706 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんかストーリーなんぞまったく読まず、あるいはさらっと読んだだけなのに、
+気に入らない単語があるってだけで反応してる人たち多すぎだろ。
+一回の誤審が他のスポーツよりも影響が大きいから、そういうリスクを
+含めてサッカーは楽しもうね、というだけの話なのに。<div class="comment_navi">
+[ 2013/07/25 01:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment60310">[ 60310 ] <strong></strong></p>
+</div>
+<div class="comb">
+このスレ凄いな
+欧州サッカーの大規模な八百長問題が起きる前に
+既にサッカーが八百長しやすいってリークしてくれてたんだろ？
+スレ主はマジもののサッカーオタだと思う<div class="comment_navi">
+[ 2013/08/02 14:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment61717">[ 61717 ] <strong></strong></p>
+</div>
+<div class="comb">
+[ 22335 ]、[ 31218 ]、[ 49921 ] とかサッカー貶すのは
+やめてほしい。ここの管理人さんはＪリーグもプロ野球も応援しているチームがあるのに。あとサカオタは～とか言ってるけどどのスポーツのファンだからといって悪い人間になることはないよ。マナーのいい人はいい、悪い人は悪いに尽きる。一部のマナーの悪いファンは目立つけど。
+それはともかくサッカーの八百長が多いのは世界で一番人気のあるスポーツだからだと思う。だから大金が動くし、それゆえ「八百長が
+しやすい」のではなく、「八百長をする」んだと思う。自分は
+西武ファンだけど日本の野球人気の高かった時代には黒い霧事件とか
+あった（当時のことは知らないけど）し、八百長ははやりやすい・
+やりくいのではなく金になるからやるんだと思う。やりやすい・やりにくいは二の次なんじゃないかな。だからこのスレの作者の言いたいことは的外れな気がする。<div class="comment_navi">
+[ 2013/08/21 02:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment61724">[ 61724 ] <strong></strong></p>
+</div>
+<div class="comb">
+サッカーほどトップリーグから末端リーグまで買収が罷り通ってるスポーツはないようで…
+競技人口や普及地域も多いぶん「悪い」連中が多いというのも不幸だと思うけど<div class="comment_navi">
+[ 2013/08/21 08:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment61725">[ 61725 ] <strong></strong></p>
+</div>
+<div class="comb">
+間違って投稿してた
+ 
+まあしかしやらない夫が醒め過ぎてて違和感はかなりある…
+けど、海外好きなやらない夫の贔屓にしてたチームが「やってた」と考えれば…
+そりゃヒネてこうなったとか思わんでもない　某トリノに本拠がある○ベントスとか
+…絶対に「カルチョ・スキャンダル」でググっちゃいけないよ！お兄さんとの約束だ！
+マジでライトファンだと「やらない夫」化しかねない内容だからね！
+近年の厳格な日本とのギャップを知れば、誤審やヤオについて一度は考え込みたくなるかもしれない<div class="comment_navi">
+[ 2013/08/21 08:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=61725" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment66814">[ 66814 ] <strong></strong></p>
+</div>
+<div class="comb">
+過去のW杯で小型の釘という凶器を用意し、審判の見てないところでそれを使用して対戦相手に怪我をさせてたことを誇らしく語っていたチョン共の事も、風物詩の一つとして楽しめというわけですね。わかりませんからもう死ね。<div class="comment_navi">
+[ 2013/11/10 23:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=66814" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment66983">[ 66983 ] <strong></strong></p>
+</div>
+<div class="comb">
+玉遊びを国家の威信とか、うんざりする・・・・。<div class="comment_navi">
+[ 2013/11/16 04:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment67702">[ 67702 ] <strong></strong></p>
+</div>
+<div class="comb">
+ここのコメント見てると、サッカーが労働者向けのスポーツだってよく分かるね。サッカーだけがスポーツだと思ってる連中の多いこと多いこと。<div class="comment_navi">
+[ 2013/12/04 15:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">あ</a>') } else {
+document.write("あ"); }
+</script>
+<noscript>
+<a href="" target="_blank">あ</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71849">[ 71849 ] <strong></strong></p>
+</div>
+<div class="comb">
+サカオタの平常運転ぶりに安心した<div class="comment_navi">
+[ 2014/04/21 01:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment73191">[ 73191 ] <strong></strong></p>
+</div>
+<div class="comb">
+八百長欠陥スポーツにすら永遠に勝てないどマイナーはどんだけショボいのｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
+<div class="comment_navi">
+[ 2014/07/01 15:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment73192">[ 73192 ] <strong></strong></p>
+</div>
+<div class="comb">
+とりあえず泳ぐが糞人間ってことは理解したよ
+さっさと死ね<div class="comment_navi">
+[ 2014/07/01 15:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3638" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3638.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3638"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3638-a08660e2">http://oyoguyaruo.blog72.fc2.com/tb.php/3638-a08660e2</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3643.html" title="やる夫で学ぶ柔道整復師　その１">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3639.html" title="やる夫達はローマ共和国を作るようです　第十四話　ルキウス・ユニウス・ブルータス">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

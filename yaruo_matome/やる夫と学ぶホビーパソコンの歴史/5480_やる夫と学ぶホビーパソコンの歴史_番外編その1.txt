@@ -1,0 +1,649 @@
+<div class="article">
+
+
+
+
+
+────────────────────────────────────────
+
+
+
+　　　　　　　　　　　　　　　 ／￣￣＼
+　　　　　　　　　　　　　　／　─　　─＼　　　　　やる夫と学ぶホビーパソコンの歴史
+　　　　　　　　　　　　　　| 　　（●）（●）|
+　　　　　　　　 ＿＿＿_. .|　　 （__人__）　|　　　　　　　　　　　番外編その1
+　　　　　　　／　　 　 　＼　　　｀ ⌒´ 　ﾉ
+　　　　　 ／　　─　 　 ─＼　　　　　 　.}
+　　　　／ 　　 （●） 　（●） ＼　　　　　}
+　　　　|　 　　 　 （__人__）　 　 |　　　 ノ.ヽ
+　　　　/　　　　 ∩ノ ⊃　　／∩ノ ⊃|　 |
+　　　　(　 ＼　／ ＿ノ　|　 |／ ＿ノ　|　 |
+　　　　.＼　“　　／＿＿|　 |　／＿＿|　 |
+　　　　　　＼ ／＿＿＿ ／／＿＿＿ ／
+
+
+
+────────────────────────────────────────
+
+
+
+　　　　　　　　　　　　　　　／￣￣＼
+　　　　　　　　　　　　　 ／ ⌒　　⌒ ＼
+　　ﾃﾞｰﾃﾞ　　 　　 　 　 |　（ ●）（● ）　|
+.　　 ﾃﾞｰﾃﾞﾃﾞｯﾃﾞ♪　　 l　　（__人__） 　│
+　　　　　　　　　　　　　 | 　　｀⌒ ´　 　|　＿＿＿_
+　　　　　　 　 　 　 　 　 | 　 　 　 　 　 |／　　 　 　＼
+　　　　　　 　 　 　 　 　 ヽ　　　　 　 ／　─　 　 ─　＼　　））
+　　　　　　　　　　（（　 　 ヽ　　　 .／ 　 （●） 　（●）　 ＼
+　　　 　 　 　 　 　 　 　 ／　　　　|　 　 　 （__人__）　　 　 |　　　ﾃﾞｰﾃﾞ
+.　　　　　　　 　 　 　 ／　 　 　 　 ＼　 　　 ｀⌒´　 　 ,／　　　　 ﾃﾞｰﾃﾞﾃﾞｯﾃﾞ♪
+.　　　　　　　　　 __／　　／　　　 .／　　　　　　　 　 （
+　　　　 　　（（　〈＿＿／ﾉ　　　／　　　　　　　　　 　＼
+　 　 　 　 　 　 　 　 　 /　 __／　　／　 　 　 　 　 ＼　 ＼＿
+　　　　　　 　 　 　 　 （（　〈＿＿／ﾉ　　　　　　 　 ノ.＼＿＿ ノ　））
+　　　　　 　 　 　 　 　 ＼＿＿_ﾉ /　　　/⌒＼　／
+　 　 　 　 　 　 　 　 　 ノ　　ﾉ　）|　 　 　 　 　 ＼
+　　　　　　　　　　　 　 ﾚ´ ^　　ﾚ.＼＿＿_ﾉ＼　　l
+　　　　　　　　　　　　　　　　　　　 ノ　　ﾉ　　 ） ﾉ
+　　　　　　　　　　　　　　　　 　 　 ﾚ´ ^　　　 ﾚ´
+
+
+
+　　　　 　 　　_＿＿＿_
+　　　　 　 ／　⌒　　ヽ_＼
+　　　　 ／　｡（ ―）　（ ―）　ﾌｧｰ　　　　　　　なんだか予定より早く呼び出された気がするけど、
+　 　 ／　　　 ⌒（__人__）⌒ ＼　 ＿ノ⌒
+.　　 l 　 　 　　　 |　 　ｌ^l^lｎ　 |　――、＿　　なんかあったんかお。
+　 　 ＼　　　　　 |r⊂ 　 　ﾉ／　⌒丶、
+　 　 ／　　　　 　｀ーゝ 　ﾉ ＼
+
+
+
+
+
+
+
+
+
+122 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/03/29(金) 20:01:24 ID:SVISjAiM0
+
+
+
+
+    .　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　/ﾉ　 ヽ､_　 ＼　　　　　ああ。
+    .　　　　　　　　　　　　 　 （●）（● ）　 　|
+    .　　　　　　　　　　　　　　（人__）　 　　　 |　　　　　中の人が、「泳ぐやる夫シアター」 ttp://oyoguyaruo.blog72.fc2.com/ さんでの
+    　　　　　　　　　　　　　 　 |⌒´　　　　　 |
+    .　　　　　　　　　　 　 　 　 |　 　 　　　　/　　　　　このシリーズのまとめのコメントを見ていたそうなんだが──
+    .　　　　　　　　　　　　　 　 ヽ　　　　 　/
+    .　　　　　　　　　　　　　　　　ヽ. 　 　 /
+    　　　　　　　　　　　 　 　 　 ,-‐)__, ／⌒l
+    .　　　　　　　　　　　　 　 ／;─ー〉》　／l
+    .　　　　　　　　　　 　 　 （＿ﾝー‐-,r'´ . |
+    　　　　　　　　　　　　　　　　|　　　　　　|
+
+
+
+    　　　　　　　　　　　 (ヽ三/)　））
+    　　　　　　　　＿＿　 ( i)))
+    　　　 　　　／⌒　　⌒＼　＼
+    　　　　　／（ ●） 　（●）＼ ）　　　　　こっちの中の人 ttp://tiny-p.cocolog-nifty.com/ のまとめは全然コメントついてないお。
+    　　　.／:::::: ⌒（__人__）⌒::::＼
+    　　　| 　 　(⌒)|r┬-|　　　　　|　　　　人気まとめブログの注目度とは月とスッポンだお。
+    　　 ,┌､-､!.~〈`ー´/　　　 ＿/
+    　　 | |　|　|　 __ヽ、　　 　/
+    　　 ﾚレ'､ﾉ‐´　　￣〉　　|
+    　　　｀ｰ---‐一'￣
+
+
+
+    　　　　　　　　　　　　　 　 　 ／￣￣＼
+    　　　　　　　　　　　　　　　／ _ノ　 .ヽ、＼　　　　　まあそれを言うな。
+    　　　　　　　　　　　　　　　|　 （●）（●）　|
+    .　　　　　　　　　　　　　　　|　　（__人__）　.|　　　　 ともかく、そこのコメントで「これは補足しとくべきだろ、常識的に考えて」
+    　　　　　　　　　　　　　　　 |　 .　'´ｎ｀'　 .ﾉ
+    　　　　　　　　　　　　　　　 .ヽ　. 　| |　　}　　　　　というのがあったらしい。まずひとつめはこれだ。
+    　　　　　　　　　　　　　　　　 ヽ..　ﾉ .ュノ
+    　　　　　　　　　　　　　　　　　/　{ ..ﾆj､
+    　　　　　　　　　　　　　　　　　|.　| "ﾂ　＼
+    　　　　　　　　　　　　　　　　　|.　| .l　　|ヽ、二⌒)
+
+
+
+
+
+123 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/03/29(金) 20:02:09 ID:SVISjAiM0
+
+
+
+
+<blockquote><p> 
+<span style="color:#990000"><strong> >卓上電卓が当時の価格で12,800円で、やる夫は「2013年なら３ＤＳに手が届きそう」って言ってたけど
+    >月収とか、食費とかの比較対象がないと70年代における12,800円の価値相場のイメージが湧かない。</strong></span>
+</p></blockquote>
+
+
+
+    　　　　 　　　＿＿＿_
+    　　　　　　／　　 　 　＼
+    　　　　 ／　　─　　　─＼　　　　　もっともな指摘だお。
+    　　　／ 　　 （●） 　（●） ＼
+    　　　|　 　　 　 （__人__）　 　 |
+    　　　/　　　　 ∩ノ ⊃　　／
+    　　　(　 ＼　／ ＿ノ　|　 |
+    　　　.＼　“　　／＿＿|　 |
+    　　　　　＼ ／＿＿＿ ／
+
+
+
+    　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　 rヽ　　／　ノ　　＼ ＼　　　　　そこで中の人が、70年代から90年代までの
+    　　　　　　　　　　　 i　!　　|　 （●）（●）　|
+    　　　　　　　　 r;r‐r/　| 　 |　　（__人__）　 |　　　　　日本の物価に関するデータを調べてきただろ。
+    　　　　 　 　 〈_L (｀ヽ .}　　|　　 ｀ ⌒´　　ﾉ
+    　　　　　　　　l｀ （ ｀`/　.　 |　　　　　　　 }
+    　　　　　　　　ヽ 　　l　　.　 ヽ　　　　　 　}
+    　　　　　　　　　|,. 　 l　　 /⌒　 　ー‐　　ｨ ヽ
+
+
+
+    ┏━━━┳━━━━━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━━┯━━━━┓
+    ┃　 　 　 ┃消費者物価指数│ 　大卒　 │ 外食の　│喫茶店の│ 　鉛筆　 │ タクシー │ NHK TV ┃
+    ┃　 　 　 ┃. （全国、総合） . │　初任給 │ ラーメン │..コーヒー.│..1ダース..│　初乗り...│. 受信料 .┃
+    ┃　 　 　 ┃　2005年＝100 . │　（男子） │　（東京） │　（東京） │　（東京） │　（東京） │. (カラー) ┃
+    ┣━━━╋━━━━━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━━┿━━━━┫
+    ┃1970年┃　 　 　 　 　 32.5 │ 　39,770 │　　 　 96 │　　 　 95 │.　 　 178 │.　 　 130 │.　 　 465 ┃
+    ┃1975年┃　 　 　 　 　 55.7 │ 　90,925 │.　 　 211 │.　 　 194 │.　 　 222 │.　 　 280 │.　 　 465 ┃
+    ┃1980年┃　 　 　 　 　 76.9 │. 116,563 │.　 　 311 │.　 　 247 │.　 　 354 │.　 　 380 │.　 　 880 ┃
+    ┃1985年┃　 　 　 　 　 88.1 │. 142,349 │.　 　 383 │.　 　 280 │.　 　 355 │.　 　 470 │.　 　 990 ┃
+    ┃1990年┃　 　 　 　 　 94.1 │. 171,113 │.　 　 451 │.　 　 351 │.　 　 376 │.　 　 540 │. 　 1,320 ┃
+    ┃1995年┃. 　 　 　 　 100.7 │　 　 　 　 │.　 　 486 │.　 　 399 │.　 　 478 │.　 　 650 │. 　 1,320 ┃
+    ┗━━━┻━━━━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━┷━━━━┛
+    　　　　　　　　　　　　　　　　　　※↑ここから右は単位：円
+    （出典）大卒初任給：PHP研究所「数字で見る戦後50年日本のあゆみ」
+    　　　　それ以外：日本統計協会「新版日本長期統計総覧」
+
+
+
+
+
+124 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/03/29(金) 20:02:52 ID:SVISjAiM0
+
+
+
+
+    　　　 　 　 　 ＿＿__
+    　　 　　 　 ／_ノ 　ヽ＼
+    　　 　 　／ （ ●）　（●）、　　　　　このラインナップの根拠がいまいちわからんお。
+    　　　 ／::::::::⌒（__人__）⌒＼
+    　　　 |　　 　　　|r┬-|　　　 |　　　 どうしてこうなったお？
+    　　　 ＼ 　 　 　 `ー'´　　／
+    ⊂⌒ヽ　〉　　　 　　　 ＜´/⌒つ
+    　 ＼　ヽ　 /　　 　 　 　 ヽ　/
+    　　　＼_,,ノ　　　　　　|､＿ノ
+
+
+
+    　　　　　　　　　　　　　　　.／￣￣＼
+    　　　　　　　　　　　　　　 /　ヽ､_ 　　.＼　　　　　実際には、統計資料には他の物価もかなりたくさん載っている。
+    　　　　　　　　　　　　　. （　（● ） .　　　|
+    　　　　　　　　　　　　　. （人__）　　　　　|　　　　　しかし、同じ品目の調査でも、対象となる製品が途中で変更になったり、
+    　　　　　　　　　　　　　r‐-､　　 　.　　　|
+    　　　　　　　　　　　　 （三））　　　.　　　|　　　　　あるいは同じ製品でも1個あたりの内容量が変わったりして、
+    　　　　　　　　　　　　　>　ﾉ　　　　　　 /
+    　　　　　　　　　　　　/ 　/ ヽ、　.　　 /　　　　　 長期の物価変動を見るのに適した品がなかなかないだろ。
+    　　　　　　　　　　 　/ 　/ ⌒ヾ　　　.〈
+    　　　　　　　　　 　 （＿__ゝ､ 　＼／.　）
+    　　　　　　　　　　　　　　.　|＼　　 　,.1
+    　　　　　　　　　　　　　　.　|　 ＼_／...|
+
+
+
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／⌒　　⌒＼
+    　　　　　／（ ＞） 　（＜）＼　　　　　ってことは、そこらへんの問題が少ないやつから、
+    　　　 ／::::::⌒（__人__）⌒::::: ＼
+    　　　 |　　　　/| | | | |　　　　　|　　　中の人が適当に選んだんかお。
+    　　　 ＼　 (、`ー―'´,　　 　／
+    　　　　　　　 ￣￣￣
+
+
+
+    .　　　　　　　　　　　　　　　,ィ￣￣｀ヽ
+    　　　　　　　　　　　　　　 /　ｰ､_ 　　　＼　　　　　　物価変動のデータはネットでもいろいろ見られるので、
+    .　　　　　　　　　　　　　　l, （● ）　 　 　 |
+    　　　　　　　　　　　　　　i,!､＿）　　　 　 .|　　　　　　興味がある人はそういうのもあわせて参考にしてほしいだろ。
+    　　　　　　　　　　　　　　 1⌒　　　　　　l
+    　　　　　　　　　　　　　 　 l　　 　 　 　 /
+    .　　　　　　　　　　 　 　 　 ｀ヽ,　　 　 /
+    　　　　 　 　 　 　 　 　 　 　 .ﾉ　　　.く
+    　　　　 　 　 　 　 　 　 　 　 |　　　　 |
+    　　　　　　　　　　　　　　　　|　　　　 |
+
+
+
+
+
+125 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/03/29(金) 20:03:46 ID:SVISjAiM0
+
+
+
+
+    　　　　　　　　　＿＿＿
+    　　 　　　／）／ノ '　ヽ､＼
+    　　 　 ／ .ｲ '（●） 　.（●）＼　　　　　けどこうして見ると、カシオミニが1972年で12,800円って、
+    　 . 　/,'才.ﾐ).　 （__人__）　　　＼
+    　 . 　|　≧ｼ'　　 ´ ⌒｀　　　　　|　　　　2013年の3DSの値段に比べてかなり高く感じられたんじゃないかお。
+    　　.　＼　ヽ 　　　　　　　　　 ／
+
+
+
+    　　　　　　　　　　　　　　　　　＿＿
+    　　　　　　　　　　　　 　 　 ／ノ　ヽ＼
+    　　　　　　　　　　　　 　 ／（○）（○) ＼　　　　　確かにそうだな。
+    　　　　　　　　　　　　 　 |　（__人__）　ｕ｜
+    　　　　　　　　　　　　　　|　　　　　　　　|　　　　　中の人も、単純な価格での比較は
+    　　　　　　　　　　.　　　　|　　　　　　 　|
+    　　　　　　　　　　.　　　　ヽ　　　　　　/　　　　　 ちょっと軽率だったかもしれないと言ってるだろ。
+    　　　　　　　　　　　　　　　 ヽ　　　　/
+    　　　　　　　　　　　 　 　 　／　　　 ヽ　　　　　　さて、もうひとつだ。
+    　　　　　　　　　　　 　 　 　|　　　　　 |
+    　　　　　　　　　　　 　 　 　|　　　　　 |
+
+
+
+<blockquote><p>
+<span style="color:#990000"><strong>    >コンピュータを資産計上せずに消耗品扱いできる金額は、
+    >90年代末期の改正で10万円以上に金額が落とされるまで、
+    >20万以上だった時期が結構長いんだけど、
+    >この時期は10万だったのか。</strong></span>
+</p></blockquote>
+
+
+
+    　　　　　　　　　　　　　　　　　＿＿
+    　　　　　　　　　　　　　　　 ／　 　_ﾉ＼
+    　　　　　　　　　　　　　　 /　　　　 （一）　　　　　これを見たときに、中の人は思いっきりドキっとしたらしいだろ。
+    　　　　　　　　　　　 　 　 |　　　　　（__人）
+    　　　　　　　　　　　　　　 |　　　 　 　 　 ｌ　　　　 1976年頃の制度上でどうだったかを、ちゃんと調べてなかったんだな。
+    　　　　　　　　.　　　 　 　 |　　　　　　 　|
+    　　　　　　　　.　　　　　　 ヽ　　　　　　ﾉ
+    　　　　　　　　　　　　　　　 ヽ　　　 　/
+    　　　　　　　　　　　　　　　　/　　　　ヽ
+    　　　　　　　　　　　　　　　　|　　　　　|
+    　　　　　　　　　　　　　　 　 |. 　 　 　 |
+
+
+
+
+
+126 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/03/29(金) 20:05:14 ID:SVISjAiM0
+
+
+
+
+    　　　　　　　 ＿＿＿_
+    　　　　　　／　　 　 　 ＼
+    　　　　 ／　　 ─　　 ― ヽ　　　　　でも、TK-80のようなのは実験機材みたいなもんで、
+    　　　／ 　 　（ ●） 　（ ●）'
+    　　　|　 　 　 　 （__人__） 　　|　　　 コンピューターとして実務に使うのとは違うんじゃないかお。
+    　　　＼　 　　 　 ｀ ⌒´ 　,／
+    　　　／　　　　　　ー‐　　 ヽ
+
+
+
+    　　　　　　　　　　　　 　 　 ／￣￣＼
+    　　　　　　　　　　　　　　／　 ヽ､_　　＼　　　　　まあ、そうは思ったらしいが、
+    　　　　　　　　　　　　　（●）（● ）　　　|
+    　　　　　　　　　　　　　（__人__）　　　　 |　　　　　10万円という線引き自体がこの時代は違ったとかだと、シャレにならないだろ。
+    　　　　　　　　　　　 　 （｀⌒ ´　　　　　|
+    　　　　　　　　　.　 　 　 {　　　 　 　 　 |　　　　　 それで中の人が調べてみたら、この頃の線引きはやはり10万円だったそうだ。
+    　　　　　　　　　　　　　　{　　 　 　 　 ﾉ
+    　　　　　　　　　　 mｍ 　 ヽ 　 　 　ノ　　　　　　また、ふつうのコンピューターは20万円やそこらで買うものではなかった頃で、
+    　　　　　　　　　　（⊂　￣￣￣　　　ヽ
+    　　　　　　　　　　　 　￣￣￣|　　　　|　　　　　 消耗品扱いできる特別な規定があったとは考えにくい。
+
+
+
+    　 　 　 　　　＿＿＿_
+    　 　 　　　／⌒　　⌒＼
+    　 　　　／（ ―） 　（―）＼　　　　　じゃあ、結果オーライかお。
+    　 　 ／::::::⌒（__人__）⌒::::: ＼
+    　 　 |　　　　　　　　　　　　　 |
+    ＿（　⌒-ｨ⌒ヽ、 　 /⌒` '⌒　）＿＿
+    　　　`ー-ゝィｿﾉー‐ヾy＿ﾉー"
+
+
+
+    .　　　　　　　　　　　　　　　 ／￣￣＼
+    .　　　　　　　　　　　　　　／　 　 　 　 ＼　　　　　とはいえ、調べが抜けていたことに違いはないからな。
+    .　　　　　　　　　　　　 　 |　　_ノ　 ヽ､.　.|
+    .　　　　　　　　　　　　　　!.　（一）（ー） ｜　　　　 というわけで、>>1に書いてある「思い込み・勘違い・予断」がさっそく出てきて
+    　　　　　　　　　　　　　　, っ （__人__）　 |
+    .　　　　　　　　　　　　　/　ミ） ｀⌒´　　/　　　　　トホホな感じだが、これにめげず次回も見てくれるとありがたいだろ。
+    .　　　　　　　　　　　　 /　ノゝ　　　　　/
+    　　　　　　　　　　　　 i　ﾚ'´　　　 　　ヽ
+    　　　　　　　　　　　　 |　|／|　　　　 |　|
+
+
+
+    　　 　　　　　＿＿＿_
+    　　　　　　／⌒　　⌒＼
+    　　　　 ／（ ●） 　（●）＼　　　　　ご意見ご感想はいつでも大歓迎だお！
+    　　　／::::::⌒（__人__）⌒:::::＼
+    　　　|　　　　　|r┬-|　　　　 |
+    　　　＼ 　　 　 `ー'´ 　 　 ／
+
+
+
+
+
+127 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/03/29(金) 20:06:00 ID:SVISjAiM0
+
+
+
+
+    　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　／　ノ　　＼ ＼／｀i　　　　　あとこれらとは別に、前回出したTK-80BSのスペック表記を
+    　　　　　　　　　　　　　　|　 （●）（●）./　　ﾘ
+    .　　　　　　　　　　　　　　|　　（__人__）..|　　/　　　　　 次回以降の表記と合わせるために少し細かくしたそうなので、
+    　　　　　　　　　　　　　　 |　　 ｀ ⌒´　ﾘ　 ﾋ
+    .　　　　　　　　　　　　　　 ヽ　　　　 ／/　　,｀弋ヽ　　 それもお知らせしておくだろ。
+    　　　　　　　　　　　　　　　 ヽ　　- ′.Ｙ´　 ,　｀ヽ｀.ｌ
+    　　　　　　　　　　　　　　　　/〈　　`ｰ〈::....ノ　　　Ｖ
+    　　　　　　　　　　　　　　　　|　ヽ_ｰ ､ ｀ヾ＿/　//
+    　　　　　　　　　　　　　　 　 |　 　　ﾌ-､｀ｰ┴‐-〃
+    　　　　　　　　　　　　　　　　　　　　　　`ー‐一′
+
+
+
+    ●TK-80BS
+    ┏━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    ┃　 　 CPU　 　..┃TK-80のCPUで動作する　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ┃
+    ┠──────╂────────────────────────────────┨
+    ┃　 　 ROM　　...┃4KB（モニター）＋4KB（BASIC、後に8KB）＋α（CG-ROM）　　　　　　　　　　　 ┃
+    ┠──────╂────────────────────────────────┨
+    ┃　 　 RAM　 　 ┃5KB（基板上最大7KB）＋512バイト（V-RAM）　　　　　　 　 　 　 　 　 　 　 　 　 ┃
+    ┠──────╂────────────────────────────────┨
+    ┃　表示(文字) ..┃32文字×16行・モノクロ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ┃
+    ┃ (グラフィック) ┃なし（記号・模様を組み合わせての簡易グラフィックのみ）　　　 　 　 　 　 　 　 ┃
+    ┠──────╂────────────────────────────────┨
+    ┃ 　 サウンド　 .┃なし　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃
+    ┠──────╂────────────────────────────────┨
+    ┃外部記憶装置┃カセットテープレコーダー（市販品を使用、300bps）　　　　　　　　　　 　 　 　 　 ┃
+    ┗━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+
+    　　　　　 ／￣￣＼
+    　　　　／　　 _ノ　　ヽ　　 .＿＿＿_
+    　　　　|　　　（ ⌒）（⌒）／⌒　　⌒＼　　　　　　それじゃ、次回まで
+    .　　　　|　　　　 （__人__） .（●） （ ●）＼
+    　　　　 |　　　　　｀ ⌒ﾉ ⌒（__人__）⌒:::::＼　　　 もうちょっと待っててほしいお！
+    .　　　　 ヽ　　　　　 　} . 　　|r┬-|　　　 .　|
+    　　　　　 .ゝ＿,. 　　ノ＿＿__`ー'´＿＿_.／
+    　　　　-(＿＿_.)-(＿＿)＿__.)─(＿＿＿)─
+
+
+    　　　　　やる夫と学ぶホビーパソコンの歴史
+
+    　　　　　　　　　　　番外編その1　　　　　おわり
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5480/clap" id="fc2button-clap-5480" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5480").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/5.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5480/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫と学ぶホビーパソコンの歴史　番外編その1" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5480.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6000.html">
+					やる夫と学ぶホビーパソコンの歴史　第十三話　闇の中の宝玉 (2013/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5968.html">
+					やる夫と学ぶホビーパソコンの歴史　第十二話　おもちゃ屋夏の陣 (2013/09/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5941.html">
+					やる夫と学ぶホビーパソコンの歴史　第十一話　迫り来る大破壊 (2013/09/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5910.html">
+					やる夫と学ぶホビーパソコンの歴史　第十話　世界で一番強いヤツ (2013/09/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5897.html">
+					やる夫と学ぶホビーパソコンの歴史　第九話　おもちゃ屋秋の陣 (2013/08/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5831.html">
+					やる夫と学ぶホビーパソコンの歴史　第八話　冒険へのいざない (2013/08/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5773.html">
+					やる夫と学ぶホビーパソコンの歴史　第七話　ライジング・ソン (2013/07/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5730.html">
+					やる夫と学ぶホビーパソコンの歴史　第六話　バウンドレス・エイト (2013/06/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5678.html">
+					やる夫と学ぶホビーパソコンの歴史　第五話　パソコン村にハルが来た (2013/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5619.html">
+					やる夫と学ぶホビーパソコンの歴史　第四話　西から昇ったお日さま (2013/05/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5575.html">
+					やる夫と学ぶホビーパソコンの歴史　番外編その２　インベーダーで100円玉が不足したってホントなの！？ (2013/05/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5554.html">
+					やる夫と学ぶホビーパソコンの歴史　第三話　虹色の侵略者 (2013/04/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5507.html">
+					やる夫と学ぶホビーパソコンの歴史　第二話　ヤマトの国のパソコン (2013/04/07)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫と学ぶホビーパソコンの歴史　番外編その1 (2013/03/30)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5460.html">
+					やる夫と学ぶホビーパソコンの歴史　第一話　すべてははじめのbitから (2013/03/23)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫と学ぶホビーパソコンの歴史　番外編その1" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/03/30 17:06 ]
+<a href="/blog-category-457.html" title="カテゴリを参照">ネット・PC系　やる夫と学ぶホビーパソコンの歴史</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html#comment_list" title="この記事のコメントを参照">CM(3)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5480"
+    dc:title="やる夫と学ぶホビーパソコンの歴史　番外編その1"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html"
+    dc:subject="ネット・PC系　やる夫と学ぶホビーパソコンの歴史"
+    dc:description="────────────────────────────────────────　　　　　　　　　　　　　　　 ／￣￣＼　　　　　　　　　　　　　　／　─　　─＼　　　　　やる夫と学ぶホビーパソコンの歴史　　　　　　　　　　　　　　| 　　（●）（●）|　　　　　　　　 ＿＿＿_. .|　　 （__人__）　|　　　　　　　　　　　番外編その1　　　　　　　／　　 　 　＼　　　｀ ⌒´ 　ﾉ　　　　　 ／　　─　 　 ─＼　　　　　 　.}　　　　／ 　　 （●） 　（●） ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-03-30T17:06:02+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5470.html" title="やる夫で学ぶ（考察する？）ファンタジー世界　第六話　「ファンタジー世界の作り方　戦争、宗教編」">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5484.html" title="やる夫はベイスターズファンだそうです　第一回">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment54325">[ 54325 ] <strong></strong></p>
+</div>
+<div class="comb">
+1995年まではインフレだったんだねえ。その後はデフレで物価指数下がってそうだな<div class="comment_navi">
+[ 2013/03/31 08:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=54325" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment54386">[ 54386 ] <strong></strong></p>
+</div>
+<div class="comb">
+価値相場指摘コメントの件…これ、私が投稿したコメントです。
+震えが走りました、まさかこのシアターを経由して投稿者が意見を反映するなんて。<div class="comment_navi">
+[ 2013/03/31 23:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠Pmagazine</a>') } else {
+document.write("名無しさん＠Pmagazine"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠Pmagazine</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5480" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment54443">[ 54443 ] <strong></strong></p>
+</div>
+<div class="comb">
+まとめのコメントにまで返してくれるとは、丁寧な人だ<div class="comment_navi">
+[ 2013/04/02 13:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=54443" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5480.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5480"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5480-ff51fb5a">http://oyoguyaruo.blog72.fc2.com/tb.php/5480-ff51fb5a</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5470.html" title="やる夫で学ぶ（考察する？）ファンタジー世界　第六話　「ファンタジー世界の作り方　戦争、宗教編」">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5484.html" title="やる夫はベイスターズファンだそうです　第一回">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

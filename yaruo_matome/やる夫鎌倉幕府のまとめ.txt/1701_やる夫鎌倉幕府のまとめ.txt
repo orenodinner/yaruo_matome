@@ -1,0 +1,1223 @@
+<div class="article">
+　　　　　　　　　　　　　　　　　.　 -‐─‐‐‐-　 .
+　　　　　　　　　　　　 　 .　 ´.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:｀丶、
+　　　　　　　　　　　　／ィ´.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ
+　　　　　.　　　　　 　／.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.、
+　　　　　　　　　　／.:.:／.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.,i:.:.:/.:.:.:..:.:.:.:.:.:.:'.
+　　　　　.　 　 　 /'"´/.:./.:.:.:.:.:.:.:.:i:.:.:.:.:.:.:/ |:./i:i:.:/.:.:.:.:.:.:.:.:}　　　　　　　　　　　　　　　　　　　　　 -‐:.:.:.:.:.:.:.:.:.:.:.:.::.:.:.` ..
+.　　　　　　　　　　　/.:./.:.:.:.:.:l:.:.i:.:|:.:.:.:.:.厶孑州ｲ:.:.:.:.:.:.!:.:.:.!　　　 ＿＿＿＿＿　　　　 　 　 .／:.:.:.:.:.::.:.:.::.:.:.::∠二二二.＼
+　　　　　　　　　　 /.:.ｲ.:.:.:.:.:.:.ﾄ､l斗､:.:./　 代ｔi抖:.:.:.:.:.:.ｈ:.:.l　　／ 　　　　　　　＼　　　 　 ./:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.::.:.:.:.:.::.:.:.:.:.:.:: ｀＼
+　　　　　　　　 　 ,':./ .!:.i:.:.:.:.:.ﾄ厶少V　 　 ´￣ |:.:.:.:.:.:.:| }:.:! ／　 　　　　　　　　　＼　　 ./:.:.:.:.:.:.:.:.:.:.:.:.::.: /:.:.:./1 :.:.::.:.:.:.:.:.::.:. ＼
+　　　　　　　　 　 {/ 　!:.|:.:.:.:.∧ｌ 　　 }　　 　 　 }:!:.:.:.:.:ﾙ'.:／, --､　兼 　.,.-- 、　　　＼......:.:.:.:.:.:.:.:.::.:.:.:.::./:.:.:./　|.:.:.:.:/ヽ:.:.:.:.:.:.:.:.:＼
+　　　　　　　　　　　　 !:.|:.:.:.∧:.ﾍ　　｀_ ＿_, 　 从:.:.:.:,'.／　., ーヽ　　　,'. ｰ-、　 　 　 　 ′ .:.:.:.:.:.:.::.:.: /!--┘　|_:.:.:.|　 | :.:.:.:.:.:.:.:.:.:.＼
+　　　　　　　　 　　 　 以:.:.:{　',:.:.:.ヽ、　ー　　　/:ｲ:.／ 　 （　ー l 　 　l　●　）　　　 　 ｜:.:.:.:|:.:.:.:.:.::.:/ !!　　　- ､ ヽ|　 |/_:.:.:.:.::.:.:|:!＼＼
+　　　　　　　　　　　　　　ヽ:| 　}:./|:.:.:＞､_　 ≦彡|/| 　 　 ｀ｰ ノ　　　 ヽ ｰ ' 　 　 　 　 .|:.:.:.:.:|!.:.:.:.:.:.:| _||__ - ､　　　　　　__＼:.:.:. | ヽ　ヽ!
+　　　　　　　　　　　　　　　}|　ﾉ′!ﾍ从rf彡{´: : : : :.|　　 '⌒（_＿__人_＿__）⌒｀　　　　 .!:.:/'⌒Y:.::.:|:| ア:ﾊ ヾ　　 　 　 ´ 　 　V|:.|:.:.∧　|
+　　　　　　　　　　　　　　　　　 　 　 　 }}:く L: : : : : |＼ 　 　 　｀ｰ--‐´　　　 　 　 　 　 |:.:|f⌒_j＼ N 込う　　　　　　z=ミ､　/:::ﾚ' :::::: |
+　　　　　　　　　　　　　　　　　　　　　 ﾉ}: j／ : : : : : : ..＼　 　　　　　　 /,ﾍ丶＞ｰ::::::::く|:∧ 〈_j!　　　 　 　　 　 　　 rzﾝ　 ∧::::::::: |::: |
+　　　　　　　　　　　　　　　　_ .　 -‐: :/{ : : : : : : : : : : : : : ＼＿　　　　//:::::＼:::::::::::::: 　|:.:.:.ゝ､_　　　　　　　　　　　 ゝ'　 ∧ L::::::/|: /
+　　　　　　　　　　　　　 ／: : :_: : : : :/ l: : : : : : : : : :へ : :∧::::::::￣￣//:::::::::::::ヽfヽ　:::::::|:.:. |　|:.:j 　 　 　 , ､ 　 　'　　　 /　i!　,-, -,─r─
+　　　　　　　　　　　　 /:,ィ:／ }: : : :/　l: : : ,ィ : ／　　　 /:/＼::::::／〈/::::::::::::::::::|::ヽ ＼V:..:.:.|　|Y⌒ヽ.　　ヽ __Ⅴ　 　　 ﾍ　 | ｜|　'　/
+　　　　　　　　　　　　 { |{/　　|fi://　 l｢ﾚ ／／　　　　　|/:::::::ヽ{二ニ=:::::::::::三≡::::＼ ヽ:.:.:|　|'⌒ヽ. ＼ 　 　 　　. イ:.:.:.:.ﾊ |.　ヽゝしl　ｲ
+　　　　　　　　　　　 　 }ﾘ　 　.|}//　　l{／／＿＿／::::::::::::::://　　/::::::::::::::::::::::::::::::::〃ﾉ　 V　 ヽ　　 ヽ.f:ヽ-＜r 一く:.:.:.:.:.:.i!i 　 　＼ し !
+　　　　　　　　　　　　 /:| r‐イ∨ 　　 |イ＿＿ ／:::::::::::::::::: | |　　 |::::::::::::::::::::::::::::/:_../　　 　 　　 ' 　　 ﾄ.:.:.:＼_|　　V :.:.:.:. i!|　 　 　 `ー
+　　　　　　┏━━━───────────────────────────────────────━━━━┓
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　やる夫は鎌倉幕府の成立を見るようです
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　,.　　´￣￣｀　ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／ 　,. --―‐-- .,　 ＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ,' 　.／　　　　　　　 ＼ 　.、
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　/　　 ￣￣￣￣￣￣￣　　ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 .i　　,―――――――― 、　i 
+　　　　　　　　丶ハハへ　　　　　　　　　　　　　　　　　 　│ 　|　　　　　　　　　　　　 |　│　　　　　　　　　　　　　　　　　　　Ｏ
+　　　　　　　　/　 ｲ/弋>　　 )､_λ、_　　　　　　　　　　 　 .i　　`――――――――′ .i　　　　　　＿　　　　　 __　　　　　＿|＿
+　　　　　　　　/　6|　￢＼ ﾝ 　　　　（　　　.ｒ‐x‐,　　　　　　',　　 ＿＿＿＿＿＿＿　 　,'　　　 _ ,.'.'´　　 ヽ　 . '´ /　ヽ　 ／ 　　　＼
+　　　　　　　 ﾉ　　ﾍ　一~　） 　ﾉ)ﾉヾτ . '´ ´i不! ヽ　　　　　ヽ　 ゝ 　 　　　　　　／　 /　　　 |/ﾉj从/ﾒ从ヾ　! /ﾞ"'ヽ　.! .|. ・　　・ 　|
+　　　　　　　ﾉﾍハ） ＼>　　´ﾐ.､ ﾟ.ヮﾟﾉ　i（((.!l!l!l!l!lj|ﾘ 　 　 　 　 ＼　 ｀'''ー--─'''´ 　／　　　　 ヽ从ﾟーﾟ;<ﾘゞゞ|i､ﾟヮ ﾟﾘ) | .ヽ　ワ　　/
+　　　　　　ィー|　|＼/|>､　　 ／:::V:》、 |iゞ(ｌﾟ ヮﾟﾉ!'　 　 　 　 　 　 ｀　､　＿＿　 ,.　´　　　　　　ソ　/i/ヾ!＝ゞ /({Ｈ}.(.ヽ　 .l三三三l
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　やる夫は鎌倉幕府を成立させるようです
+
+
+　　　　　　┗━━━───────────────────────────────────────━━━━┛
+　　　　　　　　　　　　 , '..: .:　　　 　 /　　　　ｊ　| }　 :ヽ　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ,　-r<薔薇ｺ=- ､ ､
+　　　　　　　 　 　 　 /:..:::: .::　　 . .:/　　 /／ｊイノ　. ､:.ヽ　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ／　 _ ＿__　　 　 　 ＼＼
+　　　　　　　　 　 　 ,'::::::/::::　: : :: ::{: : :　{:{　　'´}:l: l: : i:i;ｌ　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 にy' ,r'´ .::.:.:.i:.i:.:｀`ヽ､　　　 ヽ ヽ
+　　　　　　 　 　 　 i:::::::{::l::.:. ､:. : ::ﾄ､i､:. ﾄ'､　__ﾉｲ:':: :,ｌ:ｊｊ!　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 「ｲ .,.:,.::,ｲ!.::j:||:|::|:..il:.ﾄ､ヽ　　　li　i
+　　　　　　 　 　 　 l!:;:::::;:i;::l: ::ヽﾄﾄ{_ｚ;ヽ､'､　 ,ｚﾉｨ:/.:ﾙ/　　　　 ／.:￣￣￣￣￣ ＼　 　 　 　 　 　 　 　 //.://:/l.::i.:.:|:|!.!:i!:::|!:.i　Nヽ　_」ﾄ､|
+　　　　　　　　　　　 `'l::::`ﾄ､::.:::', ,ｲ ノｊ`　｀`　{ﾉｊ7/イ　　　　 ／: : :　　 　 　 　 　 　 ＼　　　　　　 　 　 //::// / |.:.|.:.:| l:|: .:|.:||::| .|:l|二>ﾈ〈j!
+　　　　　　　 　 　 　 /:::::::{ｒ1ヽ;:ヽゞ‐'　　　 丶ﾌｲ:::.:;ﾞヽ､　.／: : : :　　　　　　　 　 　 　 ＼　　　　　 　 ,ｲ7Nl/N､ 」:.:lMl/ lﾉﾉ! l|N ﾉﾉ! _ﾉ7!ﾄ､!
+　　　　　　　　　　　/;:::i:::i:ゞ1::::.ヽヾ‐　　_　　..' /:ﾊ:::ヽﾞ ／: : : : : :　　　　 　 　 　 　 　 　 ＼　　　....／ ﾊ |ﾄﾄ､ l N､N　　」, -!‐|‐|//LヽY二〕
+　　　　　　　　　　/:/::::lｒ;''´ ll;::::. ﾄ､l'、 　 ￣-,ｲ:: l ヽ:／ : : : : : : :.._　　　氏　　　_　 　 　 　 ＼　.／/ / :l/入ヽヾﾓｺヽ　 　'こﾃﾆ7/ﾉﾉ7l1::!!
+　　　　　　　　　ノｨ::::::/l `－iil::::::.ヽｊ:}` ‐ -- '__,>､'､ l　: : : : : : : ´⌒＼,, ;、､､／⌒｀　 　 　 　 l　..ノ / , ｲ/　 〉' ,　　　､　　 ' ' ' '//7.:/　|::||
+　　　　　　　 , ', '/::::::;::ﾊ　　 ヾ'､::. :ヾ￣￣￣ｊ「 /:.　|　: : : : ::;;（　● ）::::ﾉヽ::::::（ ●　）;;:::　　 　|｀　｀`ヾ::.:.:.ノﾉﾉﾉ.>､　 ｰ-　　　/ /:/ l .:.:l::||
+　　　　　　, ,' ' , ':::::::/∠_`ー､　 ヽ､:.ヽ 　 　 {{ /｀ヽ l　: : : : : : ´"''",　　　 　 　"''"´　 　　　 　l::::::｀ヾ、ヽ.... ///ｲN >､＿ ,　イ /:/　i |::l:|l|ﾄ､ 
+　　　　　〃 ／:::::;:‐'´　　＼　 ` ー-';:l;}　　　}} {　　';:.＼: : : : : : . . （　　　 j　　　 ）　　　 　 　／r'.:.:.:.:.ヽ.....///L7孑ケﾉハ>､/,/:/　 lN」」j!/:::
+　　　　　　/:::: :::/　 　 　 　 }　　 　 ﾉ'"　　　 ヽ＼　|: 丶＼: : : : : : :.｀ｰ-‐'´｀ｰ-‐'′　　　 ／―-.....-.....-......、::::: ^ヾ/ﾉ1 |:::// /^フ不「.:.:.:ヽ::
+　　　　　/.::: . .::{　　　　　　｜　　　　　　　　　　ヽヽ'､___ ,ィl＼ : : : : : : : : : : : : : : : : : ; : イ:::::::::::::::::::::::::::::::::::::::｀::..､　｀~~ ~´/./　/　ﾉ.::i!:.:.:.:.:ﾞ,:
+　　　　　.:::　.:::::;!　　　　　　 ',　　　　　　　　　 ,∠ ,....:::::'´::;':::::::｀iヽ: :｀`ｰ- -‐'"´ ,ノ i´:::::::ヽ:::::::::::::::::::::::::::::;:::::::::::::::::::::ヽ､ ノ〈　 j.:.::::::::::::::::::::::|
+:　　　　　　.::::/ :',　　 　 ヽ/　}　　　　　　　 ／／:::::::::::::::;':::::::::::l　＼　　　　　／　 l::::::::::::ヽ:::::::::::::::::::::::::::!:::::::::::::::::::::: ﾉ::|　￣｀ヽ〉､.:.:.::::::::::::::::| 
+
+
+
+
+
+
+
+
+<blockquote><p>
+
+
+　　　　　　第一部　　　　やる夫が鎌倉幕府の成立を見るそうです
+
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-124.html" target="_blank" title="巻第一">巻第一</a>　　　　　第一幕　　三郎冠者　　　　吾妻鏡な日々　治承四年十月小十一日庚寅
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-125.html" target="_blank" title="巻第二">巻第二</a>　　　　　第二幕　　頭殿義朝　
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-129.html" target="_blank" title="巻第三">巻第三</a>　　　　　吾妻鏡な日々　治承四年　十二月小十二日庚寅　　　　第三幕　　富士乃川①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-130.html" target="_blank" title="巻第四">巻第四</a>　　　　　第三幕　　富士乃川②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-136.html" target="_blank" title="巻第五">巻第五</a>　　　　　第四幕　　御始末事　　　　　吾妻鏡な日々　治承五年二月小一日戊寅
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-137.html" target="_blank" title="巻第六">巻第六</a>　　　　　第五幕　　矢田判官
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-158.html" target="_blank" title="巻第七">巻第七</a>　　　　　第六幕　　相国入道
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-159.html" target="_blank" title="巻第八">巻第八</a>　　　　　第七幕　　同床異夢　　　　　吾妻鏡な日々　養和元年十二月小七日己酉
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-162.html" target="_blank" title="巻第九">巻第九</a>　　　　　吾妻鏡な日々　寿永元年六月小一日庚子
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-163.html" target="_blank" title="巻第十">巻第十</a>　　　　　吾妻鏡な日々　寿永元年八月大十一日己酉
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-164.html" target="_blank" title="巻第十一">巻第十一</a>　　　　第八幕　　兄弟相克
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-172.html" target="_blank" title="巻第十二">巻第十二</a>　　　　第九幕　　兄弟仁義
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-176.html" target="_blank" title="巻第十三">巻第十三</a>　　　　第十幕　　家族遊戯
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-180.html" target="_blank" title="巻第十四">巻第十四</a>　　　　第十一幕　　倶利伽羅①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-181.html" target="_blank" title="巻第十五">巻第十五</a>　　　　第十一幕　　倶利伽羅②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-182.html" target="_blank" title="巻第十六">巻第十六</a>　　　　第十一幕　　倶利伽羅③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-183.html" target="_blank" title="巻第十七">巻第十七</a>　　　　第十一幕　　倶利伽羅④
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-191.html" target="_blank" title="巻第十八">巻第十八</a>　　　　第十二幕　　平家都落
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-195.html" target="_blank" title="巻第十九">巻第十九</a>　　　　第十三幕　　朝日将軍
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-196.html" target="_blank" title="巻第二十">巻第二十</a>　　　　第十四幕　　足利義清①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-197.html" target="_blank" title="巻第二十一">巻第二十一</a>　　　第十四幕　　足利義清②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-204.html" target="_blank" title="巻第二十二">巻第二十二</a>　　　第十四幕　　足利義清③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-205.html" target="_blank" title="巻第二十三">巻第二十三</a>　　　第十四幕　　足利義清④
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-216.html" target="_blank" title="巻第二十四">巻第二十四</a>　　　第十五幕　　十月宣旨
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-219.html" target="_blank" title="巻第二十五">巻第二十五</a>　　　吾妻鏡な日々　寿永二年九月廿八日丙戌
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-223.html" target="_blank" title="巻第二十六">巻第二十六</a>　　　第十六幕　　黄梁一夢①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-230.html" target="_blank" title="巻第二十七">巻第二十七</a>　　　第十六幕　　黄梁一夢②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-236.html" target="_blank" title="巻第二十八">巻第二十八</a>　　　第十六幕　　黄梁一夢③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-245.html" target="_blank" title="巻第二十九">巻第二十九</a>　　　吾妻鏡な日々　壽永三年正月小十七日丁未
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-255.html" target="_blank" title="巻第三十">巻第三十</a>　　　　第十七幕　　福原陥落①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-273.html" target="_blank" title="巻第三十一">巻第三十一</a>　　　第十七幕　　福原陥落②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-308.html" target="_blank" title="巻第三十二">巻第三十二</a>　　　第十八幕　　甲斐討滅①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-344.html" target="_blank" title="巻第三十三">巻第三十三</a>　　　第十八幕　　甲斐討滅②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-363.html" target="_blank" title="巻第三十四">巻第三十四</a>　　　吾妻鏡な日々　元暦元年八月大二日戊午
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-421.html" target="_blank" title="巻第三十五">巻第三十五</a>　　　第十九幕　　源氏西進
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-473.html" target="_blank" title="巻第三十六">巻第三十六</a>　　　第二十幕　　栄枯盛衰
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-551.html" target="_blank" title="巻第三十七">巻第三十七</a>　　　第二十一幕　　九郎判官①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-608.html" target="_blank" title="巻第三十八">巻第三十八</a>　　　第二十一幕　　九郎判官②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-659.html" target="_blank" title="巻第三十九">巻第三十九</a>　　　吾妻鏡な日々　元暦二年六月大廿一日壬申
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-687.html" target="_blank" title="巻第四十">巻第四十</a>　　　　吾妻鏡な日々　文治元年十月大十七日丙寅
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-723.html" target="_blank" title="巻第四十一">巻第四十一</a>　　　第二十二幕　　義経彷徨①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-724.html" target="_blank" title="巻第四十二">巻第四十二</a>　　　第二十二幕　　義経彷徨②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-763.html" target="_blank" title="巻第四十三">巻第四十三</a>　　　第二十二幕　　義経彷徨③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-771.html" target="_blank" title="巻第四十四">巻第四十四</a>　　　吾妻鏡な日々　文治二年四月大八日乙夘
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-809.html" target="_blank" title="巻第四十五">巻第四十五</a>　　　第二十三幕　　義経最期
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-849.html" target="_blank" title="巻第四十六">巻第四十六</a>　　　第二十四幕　　奥州灰燼①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-886.html" target="_blank" title="巻第四十七">巻第四十七</a>　　　第二十四幕　　奥州灰燼②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-926.html" target="_blank" title="巻第四十八">巻第四十八</a>　　　第二十四幕　　奥州灰燼③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-975.html" target="_blank" title="巻第四十九">巻第四十九</a>　　　吾妻鏡な日々　文治三年九月小廿七日乙丑
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1007.html" target="_blank" title="巻第五十">巻第五十</a>　　　　第二十五幕　　足利三郎①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1036.html" target="_blank" title="巻第五十一">巻第五十一</a>　　　第二十五幕　　足利三郎②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1067.html" target="_blank" title="巻第五十二">巻第五十二</a>　　　第二十五幕　　足利三郎③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1082.html" target="_blank" title="巻第五十三">巻第五十三</a>　　　吾妻鏡な日々　建久三年九月大廿五日甲午
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1115.html" target="_blank" title="巻第五十四">巻第五十四</a>　　　第二十六幕　　愛別離苦①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1118.html" target="_blank" title="巻第五十五">巻第五十五</a>　　　第二十六幕　　愛別離苦②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1141.html" target="_blank" title="巻第五十六">巻第五十六</a>　　　第二十六幕　　愛別離苦③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1240.html" target="_blank" title="巻第五十七">巻第五十七</a>　　　第二十七幕　　即身成仏①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1250.html" target="_blank" title="巻第五十八">巻第五十八</a>　　　第二十七幕　　即身成仏②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html" target="_blank" title="番外編一">番外編一</a>　　　　中世の軍馬について
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1317.html" target="_blank" title="番外編二">番外編二</a>　　　　トリビアの泉　in　　鎌倉幕府
+　
+
+
+
+
+</p></blockquote>
+
+
+
+
+
+
+<blockquote><p>
+
+
+
+
+　　　　　　　第二部　　　やる夫は鎌倉幕府を成立させるようです
+
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1330.html" target="_blank" title="巻第壱">巻第壱</a>　　　　　第一幕　　梶原景時①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1364.html" target="_blank" title="巻第弐">巻第弐</a>　　　　　第一幕　　梶原景時②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1397.html" target="_blank" title="巻第参">巻第参</a>　　　　　第一幕　　梶原景時③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1433.html" target="_blank" title="巻第肆">巻第肆</a>　　　　　吾妻鏡な日々　建仁二年　正月小十四日庚申
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1493.html" target="_blank" title="巻第伍">巻第伍</a>　　　　　第二幕　　太郎頼家①　　
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1550.html" target="_blank" title="巻第陸">巻第陸</a>　　　　　吾妻鏡な日々　建仁元年　五月小十四日癸亥
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1595.html" target="_blank" title="巻第漆">巻第漆</a>　　　　　第二幕　　太郎頼家②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1688.html" target="_blank" title="巻第捌">巻第捌</a>　　　　　第三幕　　畠山重忠①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1743.html" target="_blank" title="巻第玖">巻第玖</a>　　　　　第三幕　　畠山重忠②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1782.html" target="_blank" title="巻第拾">巻第拾</a>　　　　　第三幕　　畠山重忠③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1799.html" target="_blank" title="巻第拾壱">巻第拾壱</a>　　　　第四幕　　足利義純①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1833.html" target="_blank" title="巻第拾弐">巻第拾弐</a>　　　　第四幕　　足利義純②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1852.html" target="_blank" title="巻第拾参">巻第拾参</a>　　　　第五幕　　和田義盛①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1896.html" target="_blank" title="巻第拾肆">巻第拾肆</a>　　　　第五幕　　和田義盛②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1940.html" target="_blank" title="巻第拾伍">巻第拾伍</a>　　　　第五幕　　和田義盛③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1955.html" target="_blank" title="巻第拾陸">巻第拾陸</a>　　　　第五幕　　和田義盛④
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1967.html" target="_blank" title="巻第拾漆">巻第拾漆</a>　　　　第五幕　　和田義盛⑤
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2000.html" target="_blank" title="巻第拾捌">巻第拾捌</a>　　　　第六幕　　次郎実朝①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2037.html" target="_blank" title="巻第拾玖">巻第拾玖</a>　　　　第六幕　　次郎実朝②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2102.html" target="_blank" title="巻第弐拾">巻第弐拾</a>　　　　第六幕　　次郎実朝③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2147.html" target="_blank" title="巻第弐拾壱">巻第弐拾壱</a>　　　第七幕　　北条政子①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2231.html" target="_blank" title="巻第弐拾弐">巻第弐拾弐</a>　　　第七幕　　北条政子②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2274.html" target="_blank" title="巻第弐拾参">巻第弐拾参</a>　　　第七幕　　北条政子③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2312.html" target="_blank" title="巻第弐拾肆">巻第弐拾肆</a>　　　第七幕　　北条政子④
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2345.html" target="_blank" title="巻第弐拾伍">巻第弐拾伍</a>　　　第七幕　　北条政子⑤
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2382.html" target="_blank" title="巻第弐拾陸">巻第弐拾陸</a>　　　第七幕　　北条政子⑥
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2404.html" target="_blank" title="巻第弐拾漆">巻第弐拾漆</a>　　　第七幕　　北条政子⑦
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2604.html" target="_blank" title="巻第弐拾捌">巻第弐拾捌</a>　　　第七幕　　北条政子⑧
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2630.html" target="_blank" title="巻第弐拾玖">巻第弐拾玖</a>　　　第七幕　　北条政子⑨
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2651.html" target="_blank" title="巻第参拾">巻第参拾</a>　　　　第七幕　　北条政子⑩
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2673.html" target="_blank" title="巻第参拾壱">巻第参拾壱</a>　　　第七幕　　北条政子⑪
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2679.html" target="_blank" title="巻第参拾弐">巻第参拾弐</a>　　　第七幕　　北条政子⑫
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2731.html" target="_blank" title="巻第参拾参">巻第参拾参</a>　　　第七幕　　北条政子⑬
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2760.html" target="_blank" title="巻第参拾肆">巻第参拾肆</a>　　　第七幕　　北条政子⑭
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2811.html" target="_blank" title="巻第参拾伍">巻第参拾伍</a>　　　第八幕　　北条泰時①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2850.html" target="_blank" title="巻第参拾陸">巻第参拾陸</a>　　　第八幕　　北条泰時②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2909.html" target="_blank" title="巻第参拾漆">巻第参拾漆</a>　　　第八幕　　北条泰時③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2928.html" target="_blank" title="巻第参拾捌">巻第参拾捌</a>　　　第九幕　　三郎義氏①
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2971.html" target="_blank" title="巻第参拾玖">巻第参拾玖</a>　　　第九幕　　三郎義氏②
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3019.html" target="_blank" title="巻第肆拾">巻第肆拾</a>　　　　第九幕　　三郎義氏③
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3048.html" target="_blank" title="巻第肆拾壱">巻第肆拾壱</a>　　　第九幕　　三郎義氏④
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3064.html" target="_blank" title="巻第肆拾弐">巻第肆拾弐</a>　　　第九幕　　三郎義氏⑤
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3100.html" target="_blank" title="巻第肆拾参">巻第肆拾参</a>　　　第九幕　　三郎義氏⑥
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3103.html" target="_blank" title="巻第肆拾肆">巻第肆拾肆</a>　　　第九幕　　三郎義氏⑦
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3125.html" target="_blank" title="最終巻　　　最終幕　　源又太郎　前編">最終巻　　　最終幕　　源又太郎　前編</a>
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3124.html" target="_blank" title="最終巻　　　最終幕　　源又太郎　後編">最終巻　　　最終幕　　源又太郎　後編</a>
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2526.html" target="_blank" title="番外編三　　　　鎌倉仏教を作った僧たち　">番外編三　　　　鎌倉仏教を作った僧たち　</a>
+
+
+
+　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2905.html" target="_blank" title="番外編四　　　　ゆっくりさんと学ぶ御成敗式目">番外編四　　　　ゆっくりさんと学ぶ御成敗式目</a>
+
+
+
+　　　　追の巻　　　　<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3244.html" target="_blank" title="吾妻鏡な日々　　　　嘉禎三年　七月小十九日甲午">吾妻鏡な日々　　　　嘉禎三年　七月小十九日甲午</a>
+
+
+</p></blockquote>
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/up56910_convert_20110228081517.gif" target="_blank"><img alt="up56910_convert_20110228081517.gif" border="0" height="300" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/up56910_convert_20110228081517s.gif" width="400"/></a>
+
+
+
+
+
+　　　<strong>●地図</strong>
+
+
+
+
+　　　　　　<strong>坂東地図</strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110228101008162.jpg" target="_blank"><img alt="やる夫鎌倉地図_convert_20110228100933" border="0" height="270" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110228101008162s.jpg" width="399"/></a>
+
+
+
+　　　　　　<strong>倶利伽羅峠地図</strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405011448ec5.jpg" target="_blank"><img alt="倶利伽羅峠a" border="0" height="300" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405011448ec5s.jpg" width="375"/></a><a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405011456c7e.jpg" target="_blank"><img alt="倶利伽羅峠b" border="0" height="300" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405011456c7es.jpg" width="375"/></a>
+
+
+
+　　　　　　<strong>一の谷へ</strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/201104050119123fb.jpg" target="_blank"><img alt="一の谷へ_convert_20110405011333" border="0" height="236" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/201104050119123fbs.jpg" width="398"/></a>
+
+
+
+　　　　　　<strong>鵯越八伏山 </strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012001ec0.jpg" target="_blank"><img alt="鵯越八伏山" border="0" height="243" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012001ec0s.jpg" width="400"/></a>
+
+
+
+
+
+　　　<strong>●系図</strong>
+
+
+
+
+　　　　　　<strong>河内源氏</strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012311920.gif" target="_blank"><img alt="河内源氏" border="0" height="155" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012311920s.gif" width="399"/></a>
+
+
+
+　　　　　　<strong>高家</strong>
+
+　　　　　　<a href="http://blog-imgs-38.fc2.com/o/y/o/oyoguyaruo/201012121205514f5.gif" target="_blank"><img alt="高家" border="0" height="133" src="http://blog-imgs-38.fc2.com/o/y/o/oyoguyaruo/201012121205514f5s.gif" width="400"/></a>
+
+
+
+　　　　　　<strong>国香流</strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/2011040501233569e.gif" target="_blank"><img alt="国香流" border="0" height="192" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/2011040501233569es.gif" width="399"/></a>
+
+
+
+　　　　　　<strong>秀郷流 </strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012346373.gif" target="_blank"><img alt="秀郷流" border="0" height="174" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012346373s.gif" width="400"/></a>
+
+
+
+　　　　　　<strong>良文流 </strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012354c8c.gif" target="_blank"><img alt="良文流" border="0" height="164" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012354c8cs.gif" width="398"/></a>
+
+
+
+　　　　　　<strong>その他</strong>
+
+　　　　　　<a href="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012402fb6.gif" target="_blank"><img alt="その他" border="0" height="103" src="http://blog-imgs-31.fc2.com/o/y/o/oyoguyaruo/20110405012402fb6s.gif" width="397"/></a>
+
+
+
+
+
+
+　　　<strong>●住所録</strong>
+
+
+
+
+●伊豆国府…………【静岡県三島市大宮町】　三嶋大社の近く。
+江間…………………【静岡県伊豆の国市】　北江間・南江間の辺り？
+北条…………………【静岡県伊豆の国市寺家】　北条氏邸跡(円成寺跡)。
+蛭ヶ小島……………【静岡県伊豆の国市四日町】　蛭ヶ島公園。
+修禅寺………………【静岡県伊豆市修善寺】　福地山修禅寺。
+宇佐美………………【静岡県伊東市】　伊東線宇佐美駅の辺り？
+伊豆山神社…………【静岡県熱海市伊豆山】　伊豆山神社。
+
+
+●相模国府…………不明
+箱根権現……………【神奈川県足柄下郡箱根町元箱根】　箱根神社。
+河村城………………【神奈川県足柄上郡山北町山北】　河村城趾歴史公園。
+土肥…………………【神奈川県足柄下郡湯河原町土肥】　東海道本線湯河原駅の辺り？
+石橋山………………【神奈川県小田原市石橋】　石橋山古戦場。
+小早川………………【神奈川県小田原市城山】　神奈川県立小田原高等学校。
+大友…………………【神奈川県小田原市】　西大友・東大友の辺り？
+曽我…………………【神奈川県小田原市】　御殿場線下曽我駅の辺り？
+中村…………………【神奈川県足柄上郡中井町】　鴨沢の辺り？
+土屋…………………【神奈川県平塚市】　土屋の辺り？
+波多野………………【神奈川県秦野市東田原】　東田原中丸遺跡。
+粟飯原………………【神奈川県相模原市緑区相原】　相原総鎮守相原八幡宮？
+毛利…………………【神奈川県厚木市下古沢】　三島神社。
+愛甲…………………【神奈川県厚木市愛甲】　神明神社。厚木市立愛甲小学校の南西。小田急小田原線愛甲石田駅近くの円光寺とも。
+寒川神社……………【神奈川県高座郡寒川町宮山】　寒川神社。
+相模一宮……………【神奈川県高座郡寒川町一之宮】　梶原景時館址。「一之宮小入口」交差点の南東。
+懐島…………………【神奈川県茅ヶ崎市円蔵】　神明大神宮。
+大庭…………………【神奈川県藤沢市大庭】　大庭城址公園。
+渋谷…………………【神奈川県大和市】　小田急江ノ島線高座渋谷駅の辺り？
+梶原…………………【神奈川県鎌倉市梶原】　湘南モノレール湘南深沢駅の近くに景時邸があったらしい。
+山内…………………【神奈川県鎌倉市】　山ノ内の辺り？
+腰越…………………【神奈川県鎌倉市腰越】　万福寺。
+大倉…………………【神奈川県鎌倉市雪ノ下】　私立清泉小学校。
+衣笠城………………【神奈川県横須賀市小矢部】　衣笠城。
+蘆名…………………【神奈川県横須賀市】　芦名の辺り？
+大多和………………【神奈川県横須賀市】　太田和の辺り？
+和田…………………【神奈川県三浦市初声町和田】　和田義盛旧里碑。
+佐原…………………【神奈川県横須賀市】　佐原の辺り？
+
+
+●安房国府…………【千葉県南房総市府中】　？
+猟島…………………【千葉県安房郡鋸南町竜島】　源頼朝上陸の碑。
+洲崎神社……………【千葉県館山市洲崎】　洲崎神社。
+朝夷…………………【千葉県南房総市】　千倉町の辺り？
+岩屋山波切不動尊…【千葉県鴨川市江見太夫崎】　岩屋山波切不動尊。
+仁右衛門島…………【千葉県鴨川市太海浜】　仁右衛門島。
+安房東条?…………【千葉県鴨川市天津】　天津神明宮。
+
+
+●上総国府…………【千葉県市原市国分寺台中央】　市原市役所の辺り？
+平広常館……………【千葉県夷隅郡御宿町上布施】　金刀比羅神社の辺り？
+玉前神社……………【千葉県長生郡一宮町一宮】　玉前神社。
+大柳館………………【千葉県長生郡睦沢町北山田】　三之宮神社と富喜楽城趾の間。
+
+
+●下総国府…………【千葉県市川市国府台】　国立国際医療センター国府台病院。
+亥鼻…………………【千葉県千葉市中央区亥鼻】　千葉市立郷土博物館。
+東……………………【千葉県香取郡東庄町宮本】　東大社。
+香取神宮……………【千葉県香取市香取】　香取神宮。
+大須賀………………【千葉県成田市松子】　松子城。城山は土砂採掘のために削られてしまって原形をとどめていないとか。
+武石…………………【千葉県千葉市花見川区武石町】　武石城。真蔵院の裏手の台地。
+国分…………………【千葉県市川市国分】　下総国分寺の辺り？
+葛西…………………【東京都葛飾区四つ木】　西光寺。
+相馬…………………【茨城県守谷市本町】　守谷城。
+豊田…………………【茨城県常総市向石下】　将門公苑。
+結城…………………【茨城県結城市結城】　結城城。
+古河城………………【茨城県古河市中央町】　古河城。
+
+
+●常陸国府…………【茨城県石岡市】　若宮～府中～国府の辺り。
+鹿島神宮……………【茨城県鹿嶋市宮中】　鹿島神宮。
+信太…………………【茨城県稲敷郡美浦村】　信太の辺り？
+小田城………………【茨城県つくば市小田】　小田城跡。
+八田…………………【茨城県筑西市】　八田の辺り？
+稲田…………………【茨城県笠間市稲田】　稲田御坊西念寺。
+金砂城………………【茨城県常陸太田市上宮河内町】　西金砂神社。
+佐竹…………………【茨城県常陸太田市中城町】　常陸太田市立太田小学校。
+大方…………………【茨城県常陸太田市】　大方町の辺り？
+
+
+●武蔵国府…………【東京都府中市宮町】　大國魂神社の東隣。
+稲毛…………………【神奈川県川崎市多摩区枡形】　稲毛山広福寺。
+榛谷…………………【神奈川県横浜市旭区さちが丘】　横浜市立さちが丘小学校？　そばに「半ヶ谷」というバス停があるというだけの根拠w　保土ヶ谷の語源が榛谷という話も。
+小山田………………【東京都町田市下小山田町】　補陀山大泉寺。
+横山…………………【東京都八王子市元横山町】　八幡八雲神社境内、横山神社。八王子市立第一小学校の西。
+土淵…………………【東京都日野市新町】　七ツ塚？
+威光寺………………【神奈川県川崎市多摩区長尾】　長尾山妙楽寺？
+江戸…………………【東京都千代田区千代田】　江戸城本丸～二の丸。
+豊島…………………【東京都北区上中里】　平塚神社。
+氷川神社……………【埼玉県さいたま市大宮区高鼻町】　氷川神社。
+鷲宮神社……………【埼玉県久喜市鷲宮】　鷲宮神社。
+私市…………………【埼玉県加須市】　根古屋の騎西城？
+入間河原……………【埼玉県狭山市入間川】　清水八幡宮。
+河越…………………【埼玉県川越市上戸】　河越館址。
+駒王丸生誕地………【埼玉県比企郡嵐山町鎌形】　鎌形八幡神社。
+高山…………………【埼玉県飯能市高山】　高山不動尊。
+足立…………………【埼玉県桶川市末広】　足立館伝承地。桶川市総合福祉センター近辺。
+吉見…………………【埼玉県比企郡吉見町御所】　息障院。
+比企…………………【埼玉県東松山市大谷】　比企館伝承地。東松山霊園の北の岡。ちなみに生き延びた子孫の本拠地→【埼玉県比企郡川島町中山】金剛寺。川島町立中山小学校の東。
+熊谷…………………【埼玉県熊谷市仲町】　蓮生山熊谷寺。
+中条…………………【埼玉県熊谷市上中条】　熊谷厄除大師常光院。
+長井…………………【埼玉県熊谷市妻沼】　歓喜院？
+畠山…………………【埼玉県深谷市畠山】　畠山重忠史跡公園。
+栗崎…………………【埼玉県本庄市栗崎】　西光山宥勝寺？
+猪俣館………………【埼玉県児玉郡美里町猪俣】　猪俣館址。
+安保…………………【埼玉県児玉郡神川町元阿保】　安保氏館跡。R254元阿保交差点の350㍍ほど西の辺りらしい。
+稲沢…………………【埼玉県本庄市児玉町】　稲沢の辺り？
+河内…………………【埼玉県本庄市児玉町】　河内の辺り？
+秩父…………………【埼玉県秩父市下吉田】　秩父氏館跡。秩父市立吉田小学校。
+
+
+●下野国府…………【栃木県栃木市田村町】　宮野辺神社。
+神田城………………【栃木県那須郡那珂川町三輪】　那須神田城址公園。
+日光山………………【栃木県日光市中宮祠】　日光二荒山神社中宮祠。
+宇都宮………………【栃木県宇都宮市馬場通り】　宇都宮二荒山神社。
+横田…………………【栃木県宇都宮市】　兵庫塚。
+長沼…………………【栃木県真岡市】　長沼の辺り？
+小山…………………【栃木県小山市本郷町】　小山城。
+小野寺………………【栃木県下都賀郡岩舟町】　小野寺の辺り？
+阿曽沼………………【栃木県佐野市】　浅沼町の辺り？
+佐野…………………【栃木県佐野市】　富士町の辺り？
+野田…………………【栃木県足利市】　野田町の辺り？
+源姓足利……………【栃木県足利市家富町】　足利氏宅跡。
+藤姓足利……………【栃木県足利市】　本城の辺り？
+
+
+●上野国府…………【群馬県前橋市元総社町】　宮鍋神社～前橋市立元総社小学校。
+足次…………………【群馬県館林市】　足次町の辺り？
+岩松…………………【群馬県太田市】　岩松町の辺り？　
+得河…………………【群馬県太田市徳川町】　徳川山満徳寺。
+世良田………………【群馬県太田市世良田町】　世良田山長楽寺。
+新田…………………【群馬県太田市世良田町】　威徳山陀羅尼院総持寺。
+渋川…………………【群馬県渋川市渋川】　渋川八幡宮。城館跡はもう少し西の方か？
+桃井…………………【群馬県北群馬郡榛東村】　山子田の辺り？
+里見…………………【群馬県高崎市下里見町】　里見城趾。城山稲荷神社の西。
+山名…………………【群馬県高崎市山名町】　山名城趾。「山上碑および古墳」の北東。
+矢田…………………【群馬県高崎市吉井町】　矢田の辺り？
+高山…………………【群馬県藤岡市金井】　高山城趾。ツインレイクヒルズカントリークラブの敷地内。児玉党高山氏の本拠らしい。秩父氏の支族・高山氏がこの辺りで党を形成したとも。
+
+
+●信濃国府…………地図の範囲外。長野県松本市惣社？　初期の国衙は長野県上田市古里にあったとも。
+平賀…………………【長野県佐久市】　平賀の辺り？
+根々井………………【長野県佐久市】　根々井の辺り？
+藤沢…………………【長野県北佐久郡立科町】　藤沢の辺り？
+依田城………………【長野県上田市御嶽堂】　依田城。
+諏訪大社下社………【長野県諏訪郡下諏訪町上久保】　諏訪大社下社秋宮。
+諏訪大社上社………【長野県諏訪市中洲】　諏訪大社上社本宮。
+
+
+●甲斐国府…………【山梨県笛吹市御坂町】　国衙の辺り？
+安田…………………【山梨県山梨市】　下井尻の辺り？
+石和…………………【山梨県笛吹市川田町】　川田館跡？
+板垣…………………【山梨県甲府市善光寺】　善照寺の南東？
+一条…………………【山梨県甲府市丸の内】　舞鶴城公園？
+浅利…………………【山梨県中央市大鳥居】　浅利与一義成の墓。
+白山城………………【山梨県韮崎市神山町鍋山】　白山城跡。
+小笠原………………【山梨県南アルプス市小笠原】　南アルプス市立小笠原小学校。
+加賀美………………【山梨県南アルプス市加賀美】　加賀美山法善護国寺。
+身延山………………【山梨県南巨摩郡身延町身延】　身延山久遠寺。
+南部…………………【山梨県南巨摩郡南部町】　？
+上野原城……………【山梨県上野原市上野原】　稲荷神社の近辺、中央自動車道。
+
+
+●駿河国府…………【静岡県静岡市葵区】　静岡県立静岡高等学校の辺り？
+梶原山………………【静岡県静岡市葵区～清水区】　葵区長尾、葵区瀬名、清水区大内、清水区鳥坂の境。
+吉川…………………【静岡県静岡市清水区】　吉川の辺り？
+富士川………………【静岡県富士市】　
+狩宿…………………【静岡県富士宮市狩宿】　「狩宿の下馬桜」。
+阿野…………………【静岡県沼津市井出】　士詠山大泉寺。
+大岡牧………………【静岡県沼津市】　大岡の辺り？
+黄瀬川………………【静岡県駿東郡清水町八幡】　八幡神社。
+香貫…………………【静岡県沼津市】　上香貫・下香貫の辺り？
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/1701/clap" id="fc2button-clap-1701" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-1701").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/70.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/1701/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫鎌倉幕府のまとめ" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-1701.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-180.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第十四 (2009/06/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-176.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第十三 (2009/06/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-172.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第十二 (2009/06/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-164.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第十一 (2009/06/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-163.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第十 (2009/06/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-162.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第九 (2009/06/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-159.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第八 (2009/06/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-158.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第七 (2009/06/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-137.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第六 (2009/06/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-136.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第五 (2009/06/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-130.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四 (2009/06/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-129.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第三 (2009/06/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-125.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第二 (2009/06/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-124.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第一 (2009/06/15)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫鎌倉幕府のまとめ (2009/06/14)			</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫鎌倉幕府のまとめ" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2009/06/14 01:50 ]
+<a href="/blog-category-23.html" title="カテゴリを参照">歴史系（日本史）　やる夫が鎌倉幕府の成立を見るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html#comment_list" title="この記事のコメントを参照">CM(13)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/1701"
+    dc:title="やる夫鎌倉幕府のまとめ"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html"
+    dc:subject="歴史系（日本史）　やる夫が鎌倉幕府の成立を見るようです"
+    dc:description="　　　　　　　　　　　　　　　　　.　 &#45;‐─‐‐‐&#45;　 .　　　　　　　　　　　　 　 .　 ´.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:｀丶、　　　　　　　　　　　　／ィ´.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ　　　　　.　　　　　 　／.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.、　　　　　　　　　　／.:.:／.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.,i:.:.:/.:.:.:..:.:.:.:.:.:.:'.　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2009-06-14T01:50:46+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-113.html" title="やる夫と飲むビール　その２４　おつまみを作ろう　その2　の巻">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-112.html" title="やる夫が吉良邸に討ち入りするようです　その３">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment3452">[ 3452 ] <strong></strong></p>
+</div>
+<div class="comb">
+いつもまとめお疲れさまです。
+細かいことですが第二部の「巻第四」は他の表記と合わせるなら「巻第肆」の方がよいかと思います。<div class="comment_navi">
+[ 2010/03/09 18:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5101">[ 5101 ] <strong></strong></p>
+</div>
+<div class="comb">
+まとめ乙であります！<div class="comment_navi">
+[ 2010/06/06 21:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6129">[ 6129 ] <strong></strong></p>
+</div>
+<div class="comb">
+いつもまとめ乙です。
+容量的にきついかもしれませんが、系図の人が作ってくれている系図も上げてもらえるとまとめのみの人も助かるのではないかと思いますのでご検討ください。<div class="comment_navi">
+[ 2010/07/14 10:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6648">[ 6648 ] <strong></strong></p>
+</div>
+<div class="comb">
+お疲れ様です。
+系図うｐありがとうございます！！<div class="comment_navi">
+[ 2010/08/02 20:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment12067">[ 12067 ] <strong></strong></p>
+</div>
+<div class="comb">
+更新されてた。
+お疲れ様です。<div class="comment_navi">
+[ 2010/12/13 02:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment14351">[ 14351 ] <strong></strong></p>
+</div>
+<div class="comb">
+更新乙であります。
+系図（最終形態）がうｐされるという話もありますので、そちらもお願いしますm(_ _)m<div class="comment_navi">
+[ 2011/03/01 22:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17478">[ 17478 ] <strong></strong></p>
+</div>
+<div class="comb">
+すげぇ　絵馬までｗ
+奉納した絵師さんも、まとめ管理人さんもGJ<div class="comment_navi">
+[ 2011/05/15 23:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17566">[ 17566 ] <strong></strong></p>
+</div>
+<div class="comb">
+絵馬が樺崎八幡宮にかけられてたらしいw
+てっきり製作者がうｐ主に送ったのかと思ったw<div class="comment_navi">
+[ 2011/05/18 00:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment27331">[ 27331 ] <strong></strong></p>
+</div>
+<div class="comb">
+河内源氏の系図が、表示されなくなっているようです<div class="comment_navi">
+[ 2011/12/04 13:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment47262">[ 47262 ] <strong></strong></p>
+</div>
+<div class="comb">
+河内源氏の系図が見れないです
+<div class="comment_navi">
+[ 2012/11/11 09:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment77548">[ 77548 ] <strong></strong></p>
+</div>
+<div class="comb">
+以前[27331]を書き込んだ者です。
+系図のUPありがとうございます。<div class="comment_navi">
+[ 2015/01/18 09:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment82796">[ 82796 ] <strong>管理人のみ閲覧できます</strong></p>
+</div>
+<div class="comb">
+このコメントは管理人のみ閲覧できます<div class="comment_navi">
+[ 2015/09/05 16:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">-</a>') } else {
+document.write("-"); }
+</script>
+<noscript>
+<a href="" target="_blank">-</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment83776">[ 83776 ] <strong></strong></p>
+</div>
+<div class="comb">
+やる夫大海皇子って作者同じなのな<div class="comment_navi">
+[ 2015/10/28 22:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1701" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-1701.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="1701"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/1701-0e0ea3d3">http://oyoguyaruo.blog72.fc2.com/tb.php/1701-0e0ea3d3</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-113.html" title="やる夫と飲むビール　その２４　おつまみを作ろう　その2　の巻">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-112.html" title="やる夫が吉良邸に討ち入りするようです　その３">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

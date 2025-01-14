@@ -1,0 +1,744 @@
+<div class="article">
+
+
+
+
+
+1,駅に着きます
+　ここでワンマン車両が到着するまで待ちます。
+
+
+　　　　　　 　　　＿＿＿_
+　　　　　　　　／　　 　 　＼
+　　　　　 　／　　─　 　 ─＼
+　　　　　／ 　　 （●）　（●）　＼
+　　　　　|　 　　 　 （__人__）　 　 |
+　　 　　 ＼　　 　　 ｀ ⌒´ 　 ,／
+　　　　　 /　　　　　　　　　::::i　＼
+　　　　　/　　/　　　　　　　::::|＿/
+　　　　　＼／　　　　 　 　 　::|
+　　　　　　　 |　　　　　　　　::::|　 ｷｭﾑ
+　　　　　　　 i　　　　　＼　::::/　ｷｭﾑ
+　　　　　　　　＼　　　 　|::／
+　　　　　　　　　 |＼＿／/
+　　　　　　　　　 ＼＿／
+
+
+
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼__ ＼
+＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_ ＼_＼
+＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_ ＼＼
+＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼_＼＼
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣＼
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣l＿_l￣
+│　　 ∧＿∧　　　　設　楽　場　駅. 　 │　│ビュン彡 ビュン彡 　 /●　　●　　　　　 |　||　 | |
+│　　（　´∀｀）　 ＝＝＝＝＝＝＝＝＝ |.　.│　　　　　　　　　　　／ 　 　 　 　 Y　　Y 　|　|| 　| |
+│　MONAtetsu 　Shitaraba Station 　│　│≪ 　 ≡　 ＝－. 　| ▼ 　　 　 　 |.　　.|　│ ||　 | |
+└───┬──────┬────┘　│　　　　　　　　　 　 |_人＿..　　　　＼／. 　|　|| 　| |＿＿＿＿＿
+　 　 　 　 │↑　改札口 　 │　 　 　 　 　 　│　　ぞ　ぬ　ー　！.＼＿＿＿＿＿＿＿.　|　||　//
+　 　 　 　 └──────┘　 　 　 　 　 　└────────────────┘ ||_//_＿＿＿＿＿
+┌───────────────┐　┌───┬───┐┌──┐　　　　　　　　￣|＝＝＝＝＝＝
+│┗━┯━━┯━━┯━━┯━━┯│　│ 　　 　 │ 　　 　 ││ 　　 │ 　＿＿_　 　　 ∥
+│　　　 |::［↑］::|　　　　|::［↑］::|　　　　|::│　│ 　　 　 │ 　　 　 ││ 　　 │　|＼＿ ＼..　　∥
+│　 　 └──┘　 　 └──┘　 　 └│　│ 　　 　 │ 　　 　 ││ 　　 │　| 　|@￣l|　 　∥
+│　　　　　　　　　　　　　　　　　 　 　 　 │　│ 　　 　 │ 　　 　 ││ 　　 │　| 　|BUS|　 　∥
+│　　　　　　　　　　　　　　　　　 　 　 　 │　└───┴───┘└──┘　| 　|　し.ｌ|　 　∥￣￣￣￣￣￣
+│| |￣＼ 　 　 　.／＼ 　 　　　 ／＼　　 |　　　　　　　　　　　　　　　　　　　　　 | 　| .た.ｌ|　 　∥XＸXＸXＸXＸX
+│| | 日. ||二||二|| 日. |l|二||二|l| 日. ||二||　　　　　　　　　　　　　　　　　　　　　 | 　|　ら.l|　 　∥XＸXＸXＸXＸX
+│| | 　　|..　 　 　.|　.　|　　 　 　.|　.　| 　 │　　　　　　　　　　　　　　　　　　 　　 |　 | .ば.l| 　　∥
+│　￣￣ 　 　 　 ￣￣　　　　　.￣￣.　　.|　 　 　　 　 　 　 　　 　　 　 　 　 　　 |＼| .駅.l|　　 ∥￣￣￣￣￣￣
+　　　　　　　　　　　　　　　　　　 　　 　 　 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|　 |￣￣|￣￣＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .＼.|　 　 |.　　　　＼
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣ 
+
+
+
+
+
+
+
+
+
+
+984 ：<strong><span style="color:#009900">愛媛県から</span></strong>：2012/07/29(日) 22:46:00 ID:yetjee52
+
+
+
+
+
+    ２、車両がやってきたら乗り込みます
+    　　夏場は冷房を逃がさないためボタンを押してドアを開けます。
+    　　なお、切符は買いません
+
+
+    　　　　　　　　　　 rfヽ.
+    　　　　　　　　 　　l　　l,
+    　　　　　　　　 　　|　　.l
+    　　　　　　　　 　　l, 　　!
+    　　　　　　　　　　　l:.　　ヽ
+    　　　　　　　　 　　　|::　　 ヽ､
+    　　　　　　　　　　　 'l::.　　　｀ﾞ'''⌒ヾｰ'''=-､
+    　　　　　　　　　　　　.ヽ::　 　 　　　　　　　　 ヽ､
+    　　　　　　　　　　　　　 .i::　　　　　　　　　　　　　 ｀ヽ､　 ＿＿　　　　　　　　　　この動作が夏が来たと感じさせるんだお
+    　　　　　　　　　 　　 　　l::..　　　　　　　 ,, -‐''ニ=-'''''￣　　　　｀''''= ､
+    　　　　　　　　　　　　　 l:::::.　　　 　 ／ ,, -''´　　　　　　　　　　　　 　 ヽ
+    　　　　　 　 　 　 　 　 /:::::::.　　　 /／::.　　　　　　　　　　　　　　　　　　`ｰ-
+    　　　　　　　　 　 　 ノ:::::::::::.. 　 /,ﾞ::::::::::
+    　　　　　 　 ,, -‐‐'''..::::::::::::::::::::/.:::::::::::::::.
+    　　　　 　 /:::::::::::::::::::::::::::::::::::::i:::::::::::::::::::::.
+    　　　　 　 l::::::::;;;;::-‐-::､:::::::::::l::::::::::::::::::::::::...
+    　　　 　 　 `'''´　　　　　`ｰ-､|::::::::::::::::::::::::::::...
+    　　　　　　　　　 　 　 　 　 　 ｌ:::::::::::::::::::::::::::::::::..
+    　　　　　　　　　　　　　 　 　 /:::::::::::::::::::::::::::::::::::::...
+    　　　　　　　 　 　 　 　 　 　（:::::::::i;:::::::::::::::::::::::::::::::::..
+    　　　　　　　　　　　　　　　　 ＼:::::|::::::::::::::::::::::::::::::::::::...
+
+
+
+    ３、中に入ったらアナウンスに従って整理券を取ります。
+
+    　　　　　　　　　,ィ、
+    　　　　　　　, '　 　 ヽ、
+    　　　　　 ,.ｲ　　　　　　ヽ、
+    　　 　 ／　　　　　　　　　｀`ヽ､　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　整理券をおとりください＞
+    　　 ／　　　　　　　　　　　　　　｀ー ､　　　　　　　　　　　　　　　　　　　　　　　　 後ろ乗り前降りのワンマンです＞
+    　／　　　　　　　　　　　　　　　　　　　 ｀`ー ､＿
+    　` 、　　　　　　　　　　　　　　　　　　　　　　　　｀￣￣￣￣/
+    　 　 ヽ、　　　　　　　　　　　　　　　　　　　　　　　　　　　 /､＿_
+    　　　　 ｀　、　　　　　　　　　　　　　　　,---､　 　 　 　 〃　　　 ￣｀ヽ
+    　　　　　　 .｀　、　　　　　　　　　　　　 l/´ ／ヽ、　　 /＿　 ,ｨ　　　　 ',
+    　　　　　　　　　｀ヽ、　　　　　　　　　　 ヽl　　　　｀ヽ/　　 〃　　　　　 ',　　　　　　　　めんどくさいからってスルーしちゃだめだお
+    　　　　　　　　　　　　｀ヽ､　　　　　　 　 　 ヽ、〃/　　｀`ミ=-､__,　　　　.',
+    　　　　　　　　　　　　　　　｀ー- ､　　　　　　 .ヽ、　　　　　　　　 　 　 　 ',
+    　　　　　　　　　　　　　　　　　　　　｀` ー―-,-/`r､　　　　　　 　 　 　 　 ',
+    　　　　　　　　　　　　　　　　　　　　　　　　　ヽ_ノ、 ヽ、　　　　　　　　　　 ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　`Y, ヽ　　　　　　　　　　　 ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 `‐ﾍ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ、
+    　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ｀ヽ、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ、
+
+
+
+
+
+985 ：<strong><span style="color:#009900">愛媛県から</span></strong>：2012/07/29(日) 22:46:32 ID:yetjee52
+
+
+
+
+
+    ４、、小銭がない場合あらかじめ運賃箱横の両替機で両替します。
+
+
+    　　　　　　　　　　　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　　　　　　　　　　　　　　|＼　 　　＼
+    　　　　　　　　　　　　　　　　　　　＿..|　│　　　│
+    　　　　　　　　　　　　　　　　　　　|　 ＼　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　|＼　 |￣運賃箱￣.i
+    　　　　　　　　　　　　　　　　　　　|　 ＼|.＿＿＿＿＿i
+    　　　　　　　　　　　　　　　　　　　|　 　　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　 　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　　 |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　 　　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　 　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　　 |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　 　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　 　　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　 ＼ 　 |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　 　 ＼ |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　　　 　 ￣￣￣￣￣
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／ 　 　 　 ＼
+    　　　　　　　　　　 ／　 ⌒ 　 ⌒　 ＼
+    　　　　　　　 　 ／　　（●）　（●）　　＼　　　　立ちっぱなしは危ないから
+    　 　 　 　 　 　 l　 　 ⌒（__人__）⌒　 　 ｌ　　　　終わったらすぐに座るんだお
+    　　　　　　　 　 ＼　　 　 ｀⌒´　　 　 ／　　　　　当然、停車中にやるのが正しいんだお
+    　　　　　　　 　 ／　　　 　 　 　 　 　 ＼
+
+
+
+
+
+986 ：<strong><span style="color:#009900">愛媛県から</span></strong>：2012/07/29(日) 22:46:54 ID:yetjee52
+
+
+
+
+
+    ５、途中の駅にて、時間調整のため数分間待ち合わせます。
+
+
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿_____
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三ニニY　　　 　 　 　 ⌒⌒
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三㌻￣
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三㌻
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三|　　　　　　　　　⌒⌒
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三厂
+    ￣￣￣￣￣￣￣￣￣￣￣｀:|ll|´￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣∨lll/
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Yll
+    　　　　.,-⌒一_..._　　 　 　 　 .|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|
+    .....__,,.-"　..::⌒ヽ^~＞　　　　....|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|
+    　　 ⌒ ～^―~⌒　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　_　-"⌒ヽ.._　　...|ll|
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　^ー-　''＾　　　.|ll|
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|　　　 　 　 　 .＿へ"⌒‐-､_
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|　　　　　　..￣⌒＾^^^ ~^⌒'
+    　　 　 　 　 　 　 　 　 　 　 ＿|ll|＿　　　　　　　　　　　　　　　　　　　　　　　 　 　 　_|ll|___
+    ＿＿＿＿＿＿＿＿__ _ _....|llllllllllllll|.　_　　　　_　　　　　　　　_　　　　_　　　_　　_　_.|llllllllllll| ＿＿＿＿＿＿＿＿＿＿_
+    ::::::::::::::::::::::::...... 　........:::::::::::::::|llllllllllllll|.::::::::::: ........　　............. 　　 .............::::::::::::::::::::::::::::......|llllllllllll|.::::::::::::::::::::::::::::::::::::::...:::::::::...
+    ---------------- ::: .:: ::.|llllllllllllll|.::::::::::: :::..ｒ-----------------------------|llllllllllll|::::::::::::::::::::::::::::::::::::::::::::::::::::...
+    ￣￣￣￣￣￣|lll|￣::: :::::::::|llllllllllllll|::::::::::::::: ..|lll|￣￣￣￣￣￣|ll|￣￣￣￣￣￣｀Yｌｌllllllllll|..........:::::::::::::::::::::::::::::::::::::::::::...
+    ――――――|lll|―――‐|llllllllllllll|―――‐|lll|――――――|ll|―――――――|llllllllllll|―――――――――――
+
+
+
+
+
+987 ：<strong><span style="color:#009900">愛媛県から</span></strong>：2012/07/29(日) 22:47:19 ID:yetjee52
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　・
+    ６、途中の駅にて、時間調整のため十数分間待ち合わせます。
+
+
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿_____
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三ニニY　　　 　 　 　 ⌒⌒
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三㌻￣
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三㌻
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三|　　　　　　　　　⌒⌒
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三三厂
+    ￣￣￣￣￣￣￣￣￣￣￣｀:|ll|´￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣∨lll/
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Yll
+    　　　　.,-⌒一_..._　　 　 　 　 .|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|
+    .....__,,.-"　..::⌒ヽ^~＞　　　　....|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|
+    　　 ⌒ ～^―~⌒　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　_　-"⌒ヽ.._　　...|ll|
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　^ー-　''＾　　　.|ll|
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|　　　 　 　 　 .＿へ"⌒‐-､_
+    　　　　　　　　　　　　　　　　　|ll|　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |ll|　　　　　　..￣⌒＾^^^ ~^⌒'
+    　　 　 　 　 　 　 　 　 　 　 ＿|ll|＿　　　　　　　　　　　　　　　　　　　　　　　 　 　 　_|ll|___
+    ＿＿＿＿＿＿＿＿__ _ _....|llllllllllllll|.　_　　　　_　　　　　　　　_　　　　_　　　_　　_　_.|llllllllllll| ＿＿＿＿＿＿＿＿＿＿_
+    ::::::::::::::::::::::::...... 　........:::::::::::::::|llllllllllllll|.::::::::::: ........　　............. 　　 .............::::::::::::::::::::::::::::......|llllllllllll|.::::::::::::::::::::::::::::::::::::::...:::::::::...
+    ---------------- ::: .:: ::.|llllllllllllll|.::::::::::: :::..ｒ-----------------------------|llllllllllll|::::::::::::::::::::::::::::::::::::::::::::::::::::...
+    ￣￣￣￣￣￣|lll|￣::: :::::::::|llllllllllllll|::::::::::::::: ..|lll|￣￣￣￣￣￣|ll|￣￣￣￣￣￣｀Yｌｌllllllllll|..........:::::::::::::::::::::::::::::::::::::::::::...
+    ――――――|lll|―――‐|llllllllllllll|―――‐|lll|――――――|ll|―――――――|llllllllllll|―――――――――――
+
+
+
+
+
+
+    ７、途中の駅にて、時間調整のため憤慨します
+
+
+    　　　　　　　　　, (⌒　　　　　　⌒)
+    　　　　　　　(⌒　　(　　　　　　)　　⌒)
+    　　　　　　（　　　　　　　　　　　　　)　　)
+    　　　　　　　　（＿ヽ＿ﾊ从人＿ﾉ＿ノ
+    　,r'ﾆﾆﾆヾヽ、.　　　 　 | || | |　 　 　 //ﾆﾆﾆヽ、
+    （"´￣￣ヾ））　　　ﾉ Ｌ,l ,|| |､l、　　 （（/￣￣｀ﾞ`）
+    | 　 、ィ_ﾉと)'　 　／"＼三／"＼　 (つ（_,,ｱ　　 |!
+    i| 　 ｀ ｲ_／　 .／(（○）)三(（○）)＼　　_Y　　　|!
+    .ヽ、　 ' （　 ／　　 ｀ﾞ（__人__）'" 　　＼　/ `　　/　　　　２時間半の乗車中、待ち合わせ３０分とかなめてんのかお
+    　　＼　　＼l　　　　 i|　　 　|!　　　 　l／　　／
+    　l|l 　＼　　 ＼　　､i|,/⌒ヾ､|!;,　　 ／　　／　|l
+    　　　　　＼　　ヾ　　 `ー一'´ 　ｨ　 　 ／ 　　i
+    　　　 　 　 ヾ、　　　　｀`"´　 　 　 ／
+    　　　ﾟ　 　|!　 Ｙ　　　　　　　　 　 ｨ　|!　　｡
+    　　　,.　 '　 ､/　　 　 　 　 　 　 　 ヾ　´　’　　｀
+    　ﾟ,　i! `|　゜､l!　　　　　　　　　　　　i|!;　ﾟ ゜ ｡
+
+
+
+
+
+988 ：<strong><span style="color:#009900">愛媛県から</span></strong>：2012/07/29(日) 22:47:41 ID:yetjee52
+
+
+
+
+    ８、そんなこんなで駅に着いたら、掲示板に表示された料金を運賃箱か、
+
+
+    　　　　　　　　　　　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　　　　　　　　　　　　　　|＼　 　　＼
+    　　　　　　　　　　　　　　　　　　　＿..|　│　　　│
+    　　　　　　　　　　　　　　　　　　　|　 ＼　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　|＼　 |￣運賃箱￣.i
+    　　　　　　　　　　　　　　　　　　　|　 ＼|.＿＿＿＿＿i
+    　　　　　　　　　　　　　　　　　　　|　 　　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　 　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　　 |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　 　　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　 　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　　 |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　　 　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　|　 　　|　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　 ＼ 　 |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　 　 ＼ |　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　　　 　 ￣￣￣￣￣
+
+
+
+
+
+
+    改札口もしくはホームに立っているＪＲ運転手さんに支払います
+
+
+    :　:　:　:　: ＼ヽ　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:　:
+    　　　 　　　　.||
+    　　　 　　　　.||　　　　　　　　　　　　　　|二二二二二二二二二二二二二二二二二二二二二二
+    　　　 　　　　.||　　　　　　　　　　　　　　 ＼:;:;:;:;:;:;:;ヽ;:;:;:;:;:;:;:;:;:;l;:;:;:;:;:;:;:/;:;:;:;:;:;:;:／;:;:;:;:;:;:;:;:;:, -'";:;:;:;:
+    　　　 　　　　.||　　　　　　　　　　　　　　　　＼;:;:;:;:;:;:ヽ;:;:;:;:;:;:;:;l;:;:;:;:;:;:/;:;:;:;:;:;／;:;:;:;:;:;:;:;:, -'";:;:;:;:;:;:;:;:
+    　　　 　　　　.||　 　 ＿＿＿＿＿＿　　　　　 ||二三二三二三二三二三二三二三二三二三二
+    　 ,;';ﾞ;';ﾞ;';ﾞ;､ ､ ||　 　||　モナ板口 .　||　　　 　 ||三二三二三二三二||￣￣￣￣||三二三二三二
+    ZZZZZZ|ZZZ||ZZZ||Ｍonaitaguchｉ||ZZZZZ| || |□]: ﾆ三二三二三||: : : : : : : : ||二三二三二三
+    ZZZZZZ|ZZZ||ZZZ||!_二二_l_二二_||ZZZZZ| ||三┌───┐二三||: : : : : : : : ||二三二三二三
+    ZZZZZZ|ZZZ||ZZZ|| ZZ |ZZZZZZ ||ZZZZZ|_||二{ｉｉｪｪｪｪｪｪｪｉｉ}三二||_:__: __:_ _ _||三二三二三二
+    __,,.. ．-‐　'''""~　　　　　　　　　　　　 　,.．-'''":::::┘:::::::::::::::::└::l:::::::::::::"'''- ．._: :: : : : : :::::::::::::::::::::
+    二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二二
+    ｺﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆ
+    ﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆiﾆﾆ
+    ==,==,==,==,==,==,==,==,==,==,==,==,==,==,==,==,=;==;==,==,==,==,=,==,==,==,==,==,==,==,==,==,==
+    ='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='=='==
+    ;"';;"';;"';;"';;"';;"';;"';;";"';';;"';;"';;"';;"';;"';"';;;"';;"';;"';;"';;";"';';;"';;"';;"';"';;;"';;"';;"';;"';;"';;"';;;"';;"';;;;"';;";"';
+
+
+
+
+990 ：<strong><span style="color:#009900">愛媛県から</span></strong>：2012/07/29(日) 22:48:08 ID:yetjee52
+
+
+
+
+
+    以上、愛媛県の「ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編」でした
+
+
+    　　　　　　　　 　 　　＿＿＿_
+    　　　　　　　　 　　／　　 　 　＼
+    　　　　　　　 　 ／　─　 　 ─　＼
+    　　　　　　　 ／ 　 （●） 　（●）　 ＼　　　　　　え？バスじゃねーのかって？
+    　　　　　　　 |　 　 　 （__人__）　 　　 |　　　　　　そんなこと一度も言ってねーお？
+    　 　　　　　　＼　 　　 ｀ ⌒´ 　　 ,／
+    　r､　　　 　r､／　　　　　　　　　　ヘ
+    　ヽヾ　三　|:l1　　　　　　　　 　　　　ヽ　　　　　　あと、最初の駅、ちょっと豪華な駅を
+    　　＼>ヽ/ |｀ ｝　　　　　　　　　 　　|　|　　　　　　　挙げてしまったことをお詫びするお
+    　　　ﾍ　lノ `'ｿ 　　　　　　　 　　　　|　|　　　　　　　ものによってはホームとベンチと屋根しかねーお
+    　　　　/´　 /　　　　　　　　　　　　 |.　|
+    　　　　＼. ｨ 　　　　　　 　 　 　 　　|　 |
+    　　　 　 　 |　　　　　　　 　 　 　 　 | 　|　　　【おしまい】
+
+
+
+
+
+<hr size="1"/>
+
+
+
+
+
+　　　　　　　　　　 　 　 ＿＿＿_
+　　　　　　　　　　 　 ／　　 　 　＼
+　　　　　　　　　　 ／　─　 　 ─　＼　　　　　　四国は車ないとほんときつい
+　　　　　　　 　 ／ 　 （●） 　（●） 　＼　　　　　もうちょっと電車とか充実してれば観光しやすいのに……
+　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |
+　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+　　　　　　　 　 ／　　　 　ー‐　　　　＼
+　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+　　　　　　　　　　　若者が車離れなこんな世の中じゃ
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4812/clap" id="fc2button-clap-4812" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4812").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4812/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶご当地知識＆方言　その４９　ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4812.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4819.html">
+					やる夫で学ぶご当地知識＆方言　その５６　大阪とタイガースの関係 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4818.html">
+					やる夫で学ぶご当地知識＆方言　その５５　島根は横に広いと言う話 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4817.html">
+					やる夫で学ぶご当地知識＆方言　その５４　佐賀の居酒屋メニュー (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4816.html">
+					やる夫で学ぶご当地知識＆方言　その５３　佐賀の方言 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4815.html">
+					やる夫で学ぶご当地知識＆方言　その５２　福井県　源平落人伝承 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4814.html">
+					やる夫で学ぶご当地知識＆方言　その５１　サガケンインパクト！ビックリ大作戦～！ (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4813.html">
+					やる夫で学ぶご当地知識＆方言　その５０　結構簡単！広島弁講座　「ほーね」編 (2012/07/31)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶご当地知識＆方言　その４９　ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編 (2012/07/31)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4789.html">
+					やる夫で学ぶご当地知識＆方言　その４８　超時空県ＳＡＧＡ (2012/07/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4777.html">
+					やる夫で学ぶご当地知識＆方言　その４７　九州における焼酎へのこだわり (2012/07/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4740.html">
+					やる夫で学ぶご当地知識＆方言　その４６　福岡大牟田市動物園について (2012/07/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4564.html">
+					やる夫で学ぶご当地知識＆方言　その４５　東西文化比較　そば・うどん編 (2012/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4377.html">
+					やる夫で学ぶご当地知識＆方言　その４４　姫路城のお話　 (2012/04/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4251.html">
+					やる夫で学ぶご当地知識＆方言　その４３　鳥取の方言２ (2012/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4234.html">
+					やる夫で学ぶご当地知識＆方言　その４２　鳥取の方言 (2012/03/09)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶご当地知識＆方言　その４９　ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/07/31 21:00 ]
+<a href="/blog-category-372.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶご当地知識＆方言</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html#comment_list" title="この記事のコメントを参照">CM(10)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4812"
+    dc:title="やる夫で学ぶご当地知識＆方言　その４９　ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html"
+    dc:subject="学ぶ系　やる夫で学ぶご当地知識＆方言"
+    dc:description="1,駅に着きます　ここでワンマン車両が到着するまで待ちます。　　　　　　 　　　＿＿＿_　　　　　　　　／　　 　 　＼　　　　　 　／　　─　 　 ─＼　　　　　／ 　　 （●）　（●）　＼　　　　　|　 　　 　 （__人__）　 　 |　　 　　 ＼　　 　　 ｀ ⌒´ 　 ,／　　　　　 /　　　　　　　　　::::i　＼　　　　　/　　/　　　　　　　::::|＿/　　　　　＼／　　　　 　 　 　::|　　　　　　　 |　　　　　　　　::::|　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-07-31T21:00:00+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4813.html" title="やる夫で学ぶご当地知識＆方言　その５０　結構簡単！広島弁講座　「ほーね」編">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4806.html" title="マミさんは真のキリスト教に目覚めたようです　第二話　もう何も怖くない">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment40792">[ 40792 ] <strong></strong></p>
+</div>
+<div class="comb">
+電車が充実してれば、って言っても普段乗る人が少ないからどうしようもない・・・<div class="comment_navi">
+[ 2012/07/31 21:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40798">[ 40798 ] <strong></strong></p>
+</div>
+<div class="comb">
+海のそばにある駅のＡＡってあったんかｗ<div class="comment_navi">
+[ 2012/07/31 22:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40816">[ 40816 ] <strong></strong></p>
+</div>
+<div class="comb">
+まだましだ
+JR四国の土讃線だと1日一本しか止まらない駅があるぞ
+一度下校時に寝ぼけてその駅で降りてしまって、途方に暮れたことがあった
+ヤバかったのは公衆電話はあってもバス・タクシーの類が一切ないことで、笑えないことにカーナビに駅周辺の道も表示されないこと
+親が道知らなかったら、その日は帰宅できないところだった<div class="comment_navi">
+[ 2012/08/01 00:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=40816" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40833">[ 40833 ] <strong></strong></p>
+</div>
+<div class="comb">
+うどん県はまだマシだけどな。
+無人駅でも一時間に一本は止まるから。
+他の３県は・・・<div class="comment_navi">
+[ 2012/08/01 10:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40859">[ 40859 ] <strong></strong></p>
+</div>
+<div class="comb">
+うちには電車なんか無いわい。汽車じゃ！<div class="comment_navi">
+[ 2012/08/01 18:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40878">[ 40878 ] <strong></strong></p>
+</div>
+<div class="comb">
+北陸のどっかにもワンマン電車あったなぁ。
+そこで初めて気動車に乗った、ような。<div class="comment_navi">
+[ 2012/08/01 23:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">幻夜</a>') } else {
+document.write("幻夜"); }
+</script>
+<noscript>
+<a href="" target="_blank">幻夜</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41030">[ 41030 ] <strong></strong></p>
+</div>
+<div class="comb">
+高山本線もこれだったかな。
+名鉄の支線になると、無人駅というかプラットフォームの石だけになって、社内にも券売機がなくて車掌さんに直接お金を払う。<div class="comment_navi">
+[ 2012/08/04 08:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41047">[ 41047 ] <strong></strong></p>
+</div>
+<div class="comb">
+多度津駅でのアクセスも滅茶苦茶悪い。なんで、丸亀駅をジャンクションにしなかったかな～
+ 
+いや昔は、多度津港が重要な中継ポイントだったんでしょうがねえ<div class="comment_navi">
+[ 2012/08/04 18:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41464">[ 41464 ] <strong></strong></p>
+</div>
+<div class="comb">
+電車って、ＪＲじゃごく一部しかありませんよ＞管理人様<div class="comment_navi">
+[ 2012/08/12 15:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=41464" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment61195">[ 61195 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>６、途中の駅にて、時間調整のため十数分間待ち合わせます。
+ 
+しかし、乗った汽車がトイレなし車両だったりすると
+この数十分が救いの神になるわけで<div class="comment_navi">
+[ 2013/08/15 22:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4812" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4812.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4812"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4812-f4a98a1c">http://oyoguyaruo.blog72.fc2.com/tb.php/4812-f4a98a1c</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4813.html" title="やる夫で学ぶご当地知識＆方言　その５０　結構簡単！広島弁講座　「ほーね」編">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4806.html" title="マミさんは真のキリスト教に目覚めたようです　第二話　もう何も怖くない">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

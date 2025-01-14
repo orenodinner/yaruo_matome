@@ -1,0 +1,596 @@
+<div class="article">
+
+
+
+
+　原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+　紀元前211年、スペイン
+
+
+　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|
+　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|
+　　　　 （　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (
+　　　　　｀）　　　　　　　　　　　　　　　　　　エブロ河→―――－ヽ　　　　　　　　　 ゝ
+　　　　　 く　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　○ｴﾝﾎﾟﾘｱ
+　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀ヽ　　　　　　／
+　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｜　　　◎ﾀﾗｺﾞｰﾅ
+　　　　　　｀|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,～～´~
+　　　　　　|´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+　　　　　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+　　　　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　　 /´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　/´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　●ｻｸﾞﾝﾄ
+　　 /＿っ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ,
+　　　　|_，　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_,ゝ
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/´
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　 ,＿●ｶﾙﾀﾍｰﾅ
+　　　　 /＿＿　　＿＿　　　　　　　　　　　　　　　　　　/
+　　　　 ｀　　　｀´~　　 ｀ヽ,　　　　　　　　　　　　　＿　/
+　　　　　　　　　　　　　　｀）　　　＿_/´~~~｀～～´　｀´
+　　　　　　　　　　　　　　 ＼　 /´
+　　　　　　　　　　　　　　　　｀´
+
+　やる夫達はローマ共和国を作るようです
+
+　第８９話　「クラウディウス・ネロ」 
+
+
+
+
+
+
+
+
+
+
+168 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:01:37 ID:CKL6n2MQ
+
+
+
+
+
+    　イベリア戦線の崩壊に対し、ローマ元老院は、
+    マルケルスの副官、クラウディウス・ネロと１００００の兵を投入した。
+
+
+
+    　　 　 　 　 　 ／ヽ　　,. . .-‐…‐- . .
+    　　　　　　　　{＿/)'⌒ヽ: : : : : : : : : 〉｀: 、
+    　　　 　 　 {＞:´∧;;;;;／. : : : : : : : : : : : : :ヽ
+    　　　 　 ／: : : /;;;;;;Y: : : : : : : : : : : : : : : : : : .＿__
+    .　　　／: : : :／丁⌒: : :∧ : : /: /｀ }: : : : : :ハ;;;;;;}
+    　　 /: : : :／: : :{: : 八: :{:＞x/| / 　 |:i : : :}: : : };;;∧
+    .　 /: : :／} : : :八Ｙ⌒ｊＹ´んﾊ从　　从-‐ﾉ: : :/Y: : :.
+    　/: : /　/: :／: : : V(.　 弋ツ　　　 心Ｙイ : ∧ﾉ: : ハ
+    　!: : :!／／ｉ: : : : : 个i　'''' 　　　 ,　{ツ /彡く: ハ: : : :i
+    　}: : :ヽ　 / : : : i: :´{入　　　_　　　　 /: : : ∧: ｉ i: : : |
+    〃. : : : ∨: : : :/l: :／⌒ヽ、　 ｀　　イ: : : :/　}: リ: : :ﾉ
+    : : :/＼: : V : /ノ:/　　　　 VT爪＿八: : : {　彡. : イ{
+    : :（　/: ＼:} /: :/{　　　　 ｒｖ＼ｊ　 ｛ ＞‐=ミー=彡ﾍ: ヽ
+    ｀)' ）{: ( 　）: : :{八　　 ／ﾍJ￣￣ {_/ /　　 ＼ｊ: : 八: :}
+    　( 　ｰ=ﾐ　 彡' 　ﾄ､ /　/ 〔o〕 　 　 `トしﾍ. _　＼{　ｊ ﾉ
+    　　 ｒ=彡' ｰ=ァ　|＼{. 　 　 　. -‐､‐=ァ′ 　ヽ 　＼(
+    　　 ｀ﾌ　　　（ 　 | 　 ＼＿／　 ｘ个彳）　　　∧　　 ＼
+    　　 　 　 　 　 　 ヽ　　 |　＿／ 　∨ ｛＼　 /、ヽ 　 　 ヽ
+    　　　　　　　　　 　 ヽ　 ー-ﾍ.　 　 ∨ｊ 　 ヽ{__＞　　.　＿}
+    　　　　　　　　　　　　〉　　　　＼　　 ＼
+    　　 　 　 　 　 　 　 /　　　　　　 ＼　　 ＼
+    　　　　　　　　　　 /　　　　 　 　 　 ＼　　 ＼
+    　　　　　 　 　 　 〈 　 　 　 　 　 　 　 ｊ＼　　 ＼
+    　　　　　　　　　　/ ー--=＝ニニ＝く　　＼
+
+    　　　＊ガイウス・クラウディウス・ネロ（AA/白井黒子）
+
+
+
+
+
+169 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:02:10 ID:CKL6n2MQ
+
+
+
+
+
+    　ネロは、クラウディウス家の貴族。
+    　クリエンテス、つまりは平民でしかないマルケルスよりも家格は上だった。
+
+
+    　　　　　　　　 , '´￣￣｀ ｰ ､
+    　　　　　　 ／: : :／: : :｀i､ : : ＼
+    　　　　　 /: : /: :/ :/: |: : :|=ミ丶ヽ
+    　　　　　,': :∧〉/ l/ }:l:/l,: } 　ヾ : :|
+    　　 　 　{ :/:/ /ゝﾉｲ ﾉ　l/　-‐ .ｌ :|
+    　　　 　 |: :ﾚ　|　　 ● 　　　● ｌ :|
+    　　　　　|: i: （|.⊂⊃　､_,､_,　⊂l:/
+    　　　　i⌒ヽ: :ゝ　　　 （_.ノ　　.ﾙ|_／⌒)　がんばってねー
+    　　　　 ヽ 　ヽ 从ヽ,､　__,　イ从/ ヽ／
+    　　　　　∧___,ﾍｉ.ｉ:.:＼__八__／:ｉ.ｉ　　ﾊ
+    　　　　　ヾ　 　 .}.}:.:.:.ヽゝoi|.|:.:.:}.}　　ｿ
+
+    　　　　　＊マルケルス(AA/御坂美琴)
+
+
+
+    　　　　　　　　　 　 　 　 　-:-:-:-　 .
+    　　 　 　 　 　 　 　{ア´: : : :_:_:_: : : : :＼　 __
+    　　　　　　　　 　／ : : /: :/⌒^!: : : : : : ∨;;{
+    　 　 　 　 　 　 /:/ : | ｉ|:|_:{ 　 _i:i_j_: :}: : :｛_,;;)
+    　　　　　　 　.ノi/|:i: :|爪{㍉　　|爪{从 : : }'く
+    　　　　　 　 .{／: {从{{ ●　　 　●　 |: 从,ノヽ
+    　　　 　 　 ./: : :八_{⊂⊃､_,､_, ⊂⊃|/ ): }: : }　もちろんですの！
+    　　 　 　 　{:./⌒ヽ人 　　 ゝ_ﾉ　 　 ,.イ: /⌒l′
+    　　　 　 　 ､:＼ /｀ヽ.＞　_　 _　　＜ /}/　 /:i
+    　　 　 　 　 {:|从 l||l ,//:.ゝ八_／// ＞l||l从: |
+    　　　　　　　 ,)( ⌒ ､{:.{:.:.:.|.|oi//:..{.{　( ⌒ ): :|
+
+
+
+
+
+170 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:02:45 ID:CKL6n2MQ
+
+
+
+
+
+    　そしてネロには、マルケルスのもとで何年も戦い続けた実績と経験があった。
+
+
+
+    　　　　　 ,..-..-､,r'"´:::￣::::｀ｰ-､
+    　　　 　 /.:.:.:.／:,::::::::::;::::l:::丶::::;:＼
+    　　　　　|:.:.:/::::/:::::,:.'/l:/ヽ:l/ヽﾊﾊﾍ
+    　　　　　|:.:.:|i::::|:::::::|ﾘ｀ヽ　　　 ノ}_}ハ
+    　　　　　|:.:.:|i::::|:::从 ●　　　 ● ｌ小N
+    　　　　　l:::∧（|　⊂⊃　r─ｫ ⊂lｉ|ノ 　がんばってこい！期待しているぞ！
+    　　　　　|:::| ヾ:|ヽ::j　　　'､_ノ 　 ﾉi|＿r‐‐.､
+    　　　　　l:::l. 　 トィ.＞､ __,　　イ Ｖ::ヽ　´) }
+    　　　　　ヾ! ／　＼ヽ::ヾ三|:::::/　ヽ::::ヽ／
+    　　　 　 　 ,ミ_::::コ ヾ､::::∨:／　 　｀／
+
+    　　　　　　　＊ファビウス（AA/キョン子）
+
+
+
+    　　　　　　　　　 　 　 　 　-:-:-:-　 .
+    　　 　 　 　 　 　 　{ア´: : : :_:_:_: : : : :＼　 __
+    　　　　　　　　 　／ : : /: :/⌒^!: : : : : : ∨;;{
+    　 　 　 　 　 　 /:/ : | ｉ|:|_:{ 　 _i:i_j_: :}: : :｛_,;;)
+    　　　　　　 　.ノi/|:i: :|爪{㍉　　|爪{从 : : }'く
+    　　　　　 　 .{／: {从{{ ●　　 　●　 |: 从,ノヽ
+    　　　 　 　 ./: : :八_{⊂⊃､_,､_, ⊂⊃|/ ): }: : }
+    　　 　 　 　{:./⌒ヽ人 　　 ゝ_ﾉ　 　 ,.イ: /⌒l′　お任せあれ！
+    　　　 　 　 ､:＼ /｀ヽ.＞　_　 _　　＜ /}/　 /:i
+    　　 　 　 　 {:|从 l||l ,//:.ゝ八_／// ＞l||l从: |
+    　　　　　　　 ,)( ⌒ ､{:.{:.:.:.|.|oi//:..{.{　( ⌒ ): :|
+
+
+
+
+
+171 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:03:26 ID:CKL6n2MQ
+
+
+
+
+
+    　スペインに入ったネロは、敗走した兵をまとめた。
+
+
+    　　　　　　　　 　 　 　 　 　 ,. . :´￣-: : :￣ ｀ヽ､
+    　　　　　　　　 ＿　　　 ,ｨﾊ: :／: : : ,: : ,,: : : : : : :＼ 　 _
+    　　　　　　　　 {//＼__/// 〉: : ,: : /: :,ハ: : : ,: :､: : ヽ//}r，
+    　　　　　　　　 ∨//{/(///: : /: :/: :./　 ヽ: : l: : ',: : :∨//!
+    　　　　　　　　 ,.∨/イ//!: : :/__/l: :/ 　 　 l: :},: : {: : : }//ｲ
+    　　　 　 　 　 /: : :/: :{//!:!: ｲ: :{ ＼!_　 　 ,.ｨ/´l从!: /: !//>
+    　　　　　　　/ : : /: : :ﾊ: : Ⅵｨ斥圷 "　　　芹圷､}:/从!-': :.､
+    　　 　 　 　 {: : :/: : :/:ﾊ/Ⅵ　弋(ソ　　　　弋(ｿ　ﾊ:}: : : l,: : l
+    　　 　 　 　 |: :ｲ: : :ｲ: : :{( L　　 　 　 　 ｀　　 　 {　!:l: : :.!|: :.!
+    　　 　 　 　 |: :.|: : :ﾊ: : :.＼__　　　　 , --､　 　 ,:': :.|:{: : :.!|: :.;　　　　さあ、反撃といきましょう！
+    　　 　 　 　 |: :.|: : {　!: l: :l: |　＼　 　 ー '　　.ｲ:l: : }:.!: : :|;: /
+    　　 　 　 　 }: :.|: : |　!:/: ,'ﾊ: ､ /}＞ 　 _　＜　!:.!: :.|:.|: : :l:./
+    　　　 　 　 /: ハ: :|　!': /:{ l: :} /￣ ＞r-､ﾊ､./:/!:.:.|:.{: : :V
+    　　　　　 /: / 　 ,:.!/: /,.. - ┴､　 /　 | | ∨}:..:....､/: :ヽ: : ＼
+    　　　 　 〈: :{　　 }:.!: / ヽ:..}:..:..:..:∨　　} l　,Ⅵ:..:..:l:..}｀ヽ:＼: : ヽ
+    　　　　　 ヽ:〉 　,j:/,'　　 }:..!:..:..:..:..:..＼ {o}/:..:..:..:..:∨　 ∨:.＼: :}
+    　　　　　　/　 /:/ {　　　l:..l:..:..:..:..:..:..:..ヽ/:..:..{=+,}:..:',　　 }_: : }:/
+    　　　　　　　　{:/,イ　　　l:/:,:..:..:..:..:..:..:..:..:..:..:..｀ ´:..:..}　　　＼:.{
+    　　　　　　　　/　　 　 　 }:.;;:..:..:..:..:..:..:.....,:..::::...:..:..:..:.; 　 　 　 ヽ
+    　　　　 　 　 /　　　　　　}::::､:::::::::::::::::::,: ::/:..:..:..:..:.::;　　　 　 / }
+    　　　　　　　{　　　　　　 /!:::..:..:::::::::::::..:..:.':..:..:..:..:..::.{　　　 ／／､
+    　　　　　　　 ｀,ヽ､＿＿/ l::::.:..:..:..:..:..:..:..:..:..:..:..:..:..:..:l､＿／／　　ヽ
+
+
+
+    　先行していた、ハシュドゥルバル軍を撃破。
+    　追い詰めることに成功した。
+
+
+
+
+
+172 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:04:12 ID:CKL6n2MQ
+
+
+
+
+
+    　ハシュドゥルバルは、講和の申し出をしてきた。
+
+
+
+    　　　　 ／￣￣＼
+    　　　／:::::::　　／（ ;:;:;）
+    　　 /:::::::::oﾟ(（;:;:;:;）（●）)ﾟo
+    　　.|::::::u:::　　 （__人__）
+    　　.|:::::::::::::　　　｀⌒|||　ここは講和を……
+    　　ヽ::::u:::::::　ﾒ　　　/　明日、交渉の使者を送りますので。
+    　　/::ヽ::::::::::: 　　　ノ
+    　 /::::　　　　　　　く
+
+    ＊ハシュドゥルバル（AA/やらないのか夫）
+
+
+
+    　　　　　　　　　 　 　 　 　-:-:-:-　 .
+    　　 　 　 　 　 　 　{ア´: : : :_:_:_: : : : :＼　 __
+    　　　　　　　　 　／ : : /: :/⌒^!: : : : : : ∨;;{
+    　 　 　 　 　 　 /:/ : | ｉ|:|_:{ 　 _i:i_j_: :}: : :｛_,;;)
+    　　　　　　 　.ノi/|:i: :|爪{㍉　　|爪{从 : : }'く
+    　　　　　 　 .{／: {从{{ ●　　 　●　 |: 从,ノヽ
+    　　　 　 　 ./: : :八_{⊂⊃､_,､_, ⊂⊃|/ ): }: : }
+    　　 　 　 　{:./⌒ヽ人 　　 ゝ_ﾉ　 　 ,.イ: /⌒l′　わかりましたの！
+    　　　 　 　 ､:＼ /｀ヽ.＞　_　 _　　＜ /}/　 /:i
+    　　 　 　 　 {:|从 l||l ,//:.ゝ八_／// ＞l||l从: |
+    　　　　　　　 ,)( ⌒ ､{:.{:.:.:.|.|oi//:..{.{　( ⌒ ): :|
+
+
+
+
+
+173 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:04:41 ID:CKL6n2MQ
+
+
+
+
+
+    　だが次の日、彼と彼の軍勢はもういなかった。
+
+
+    　　　　　　　　　 　 　 　 　-:-:-:-　 .
+    　　 　 　 　 　 　 　{ア´: : : :_:_:_: : : : :＼　 __
+    　　　　　　　　 　／ : : /: :/⌒^!: : : : : : ∨;;{
+    　 　 　 　 　 　 /:/ : | ｉ|:|_:{ 　 _i:i_j_: :}: : :｛_,;;)
+    　　　　　　 　.ノi/|:i: :|爪{㍉　　|爪{从 : : }'く
+    　　　　　 　 .{／: {从{{ ○　　 　○　 |: 从,ノヽ
+    　　　 　 　 ./: : :八_{⊂⊃､_,､_, ⊂⊃|/ ): }: : }　……あれ？
+    　　 　 　 　{:./⌒ヽ人　　　　　 　 　 ,イ:/⌒l ′
+    　　　 　 　 ､:＼ /　ヽ＞　_　 _　　＜/}/　 /: i
+    　　 　 　 　 {ヽ/　　 ,//:.ゝ八_／//＞､__ ∧:.|
+    　　　 　 　　）:.｀ヽ. 　{ {:.:.:.|.|oi//:..{:.{.　　,／: :|
+
+
+
+
+
+174 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:05:11 ID:CKL6n2MQ
+
+
+
+
+    　この講和交渉は偽りであり、彼はさっさと退却してしまったのだった。
+
+
+    ＼　　 　　　　 　　　　　　　￤　　　　　　　　　　 　　 　 /
+    　 ＼　　　　　 　　　　　　　￤　　　　　　　　　　　　 　 /
+    　　　＼　　　　　　　　　 ／￣￣＼　　　　　　　　　　/
+    　　　　 ＼ 　　　　　　／　─　　─＼　　　　　　　　/
+    　　　　　　＼　　　　 / 　　（●） （●）ヽ　　　　　　/
+    　　　　　　　 ＼ 　　.|　　　　（__人__）　.|　　　　　/　バーカｗｗｗｗｗｗ
+    　　　 　　　　 ﾉ// 　|　　 　 　｀⌒´　　.|ﾐヽ 　 /
+    　　　　　　 ／　く　　ヽ　　　　　　　　　/　＼
+    　　　　　／ ／⌒　　/ ヽ　　　　　　　ノ⌒＼ ＼
+    　　　　　(　　￣￣⌒　　　　　　　　　　⌒￣　＿)
+    　　　　　　｀￣￣｀ヽ　　　　　　　　　　　/´￣
+    　　　　　　　　　　　|　　　　　　　　　 　 |
+    　　－－－ ‐　　　ﾉ　 　　　　　　　　　｜
+    　　　　　　　　　 ／ 　　　　　　　 　 　ﾉ　　　　　　　 －－－－
+    　　　　　　　　 /　　　　　　　　 　　∠＿
+    　　－－　　　|　 　 f＼　　　　　　ﾉ　 　 ￣`丶.
+    　　　　　　　　| 　 　|　　ヽ＿＿ﾉー─-- ､_ 　　）　　　　－　_
+    .　　　　　　　 ｜　　| 　 　　　　　　　　　/　　/
+    　　　　 　　 　｜　｜　　　　　　　　　　,'　　/
+    　　　　／ 　／　　ﾉ　　　　　　　　　 　| 　 ,'　　　 ＼
+    　　　　　　/ 　 ／ 　 　　　　　　　　 　|　 /　　　　　 ＼
+    　　　／_ノ　／　 　 　 　　　　　　　　,ﾉ　〈 　 　 　 　 　 ＼
+    　　　　(　 〈　　　　　　　　　　　　 　ヽ.__　＼　　　　　　　　＼
+    　　　　　ヽ.＿>　　　　　　　　　　　　　　＼__)
+
+
+
+
+
+175 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/20(土) 13:05:51 ID:CKL6n2MQ
+
+
+
+
+
+    　ネロは、ローマに呼び戻された。
+
+
+    　 ,-‐-、,....--―--...、
+    . /:.:.ア´/:.:.:.:.:.:.:.:.:.:.:.:丶
+    /:.:./:.::./.:.:./:.:.:.:.:.:.:.:.:.:.::ヽ
+    :.:.:.:|.:.:.:.:.:.:∧:.:i:.:.ヽ:.:.:.:./ヾ
+    :.:.:.:!.:.:. |l/‐-ヽ{ヽt.ヽ:/｀:.!`
+    :.:.:.|:.:.:.:|　‐‐　　 ‐-│:.:.:l
+    :.:.:..!:.:.: |　　　　|　　 l.:.:N
+    |i:.:ﾍ.:.:.:l　　　‐‐ 　 /.:.:.l　お前はクビだ。
+    |N:.:i ヾlヽ､　＿ , イlﾚi/
+    ヾ八／ ヽ{　　ﾄ､Ｖ
+    　∧＼　 ﾏ三ｿ| ＼
+    ./:::::＼＼ ヾ-〃　∧
+    ｌ:::::::::::::＼＼.り_／::::i
+    i::::::::::::::::::::|<Ｖ>|:::::::::!
+
+
+
+    　　　　　　　　　 　 　 　 　-:-:-:-　 .
+    　　 　 　 　 　 　 　{ア´: : : :_:_:_: : : : :＼　 __
+    　　　　　　　　 　／ : : /: :/⌒^!: : : : : : ∨;;{
+    　 　 　 　 　 　 /:/ : | ｉ|:|_:{ 　 _i:i_j_: :}: : :｛_,;;)
+    　　　　　　 　.ノi/|:i: :|爪{㍉　　|爪{从 : : }'く
+    　　　　　 　 .{／: {从{{●　　　 ● 　 |: 从,ノヽ
+    　　　 　 　 ./: : :八_{　|｜､_,､_　|｜　|/ ): }: : }
+    　　 　 　 　{:./⌒ヽ人 |｜ ゝ._）|｜　,イ:/⌒l ′
+    　　　 　 　 ､:＼ /　ヽ＞　_　 _　　＜/}/　 /: i
+    　　 　 　 　 {ヽ/　　 ,//:.ゝ八_／//＞､__ ∧:.|
+    　　　 　 　　）:.｀ヽ. 　{ {:.:.:.|.|oi//:..{:.{.　　,／: :|
+
+
+
+    　結局、彼はマルケルスの副官へと戻された。
+
+
+
+
+
+
+
+    第８９話「クラウディウス・ネロ」終わり
+
+    つづく・・？
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5077/clap" id="fc2button-clap-5077" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5077").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5077/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第八十九話　クラウディウス・ネロ" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5077.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5110.html">
+					やる夫達はローマ共和国を作るようです　第九十六話　カルタヘーナ攻略戦 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5109.html">
+					やる夫達はローマ共和国を作るようです　第九十五話　スキピオの戦略 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5108.html">
+					やる夫達はローマ共和国を作るようです　第九十四話　スキピオの演説 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5107.html">
+					やる夫達はローマ共和国を作るようです　第九十三話　紀元前２０９年序章 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5092.html">
+					やる夫達はローマ共和国を作るようです　第九十二話　ハンニバルVSマルケルス (2012/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5090.html">
+					やる夫達はローマ共和国を作るようです　第九十一話　紀元前２１０年の戦略 (2012/10/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5084.html">
+					やる夫達はローマ共和国を作るようです　第九十話　スキピオ登場 (2012/10/25)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第八十九話　クラウディウス・ネロ (2012/10/20)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5072.html">
+					やる夫達はローマ共和国を作るようです　第八十八話　イベリア戦線崩壊 (2012/10/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5060.html">
+					やる夫達はローマ共和国を作るようです　第八十七話　カプア陥落 (2012/10/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5046.html">
+					やる夫達はローマ共和国を作るようです　第八十六話　ハンニバル、ローマに立つ！ (2012/10/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5032.html">
+					やる夫達はローマ共和国を作るようです　第八十五話　シラクサ陥落 (2012/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4865.html">
+					やる夫達はローマ共和国を作るようです　第八十四話　グラックスの死 (2012/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4851.html">
+					やる夫達はローマ共和国を作るようです　第八十三話　シラクサ攻略戦 (2012/08/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4796.html">
+					やる夫達はローマ共和国を作るようです　第八十二話　カプア包囲開始 (2012/07/29)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第八十九話　クラウディウス・ネロ" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/10/20 23:47 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html#comment_list" title="この記事のコメントを参照">CM(1)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5077"
+    dc:title="やる夫達はローマ共和国を作るようです　第八十九話　クラウディウス・ネロ"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="　原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。　紀元前211年、スペイン　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|　　　　 （　　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-10-20T23:47:24+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5078.html" title="できる夫のMETRO2033　幕間　Изумруд город">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5074.html" title="ＳａＧａ ＦｒｏｎｔｉｅｒⅡ　やる夫で学ぶサンダイル史　三時間目　">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment45944">[ 45944 ] <strong></strong></p>
+</div>
+<div class="comb">
+まぬけなオチｗ<div class="comment_navi">
+[ 2012/10/21 17:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5077" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5077.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5077"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5077-dde4ad02">http://oyoguyaruo.blog72.fc2.com/tb.php/5077-dde4ad02</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5078.html" title="できる夫のMETRO2033　幕間　Изумруд город">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5074.html" title="ＳａＧａ ＦｒｏｎｔｉｅｒⅡ　やる夫で学ぶサンダイル史　三時間目　">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

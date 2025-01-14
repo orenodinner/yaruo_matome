@@ -1,0 +1,549 @@
+<div class="article">
+
+
+
+これは、戦国時代末期から江戸時代初期にかけて名を馳せた、
+
+「奥州の独眼竜」こと伊達政宗の物語である。
+
+
+　　　　　　＿＿＿＿
+　　　　 　/ | | | | | | 丶/|.
+　　　　|＼_|_|_|_|_|_|__／ |
+　　　〔∴ ────‐ ∴〕
+　　　　/ .||::::;;;;;;;;;;;;;;;:::ヾヽ..
+　　　/＿_|／　　　　＼|＿>....
+
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┓
+　　この物語は、史実をもとにしたフィクションです。
+　　史料、通説、俗説などを参考にしておりますが、
+　　史実と異なる点や創作となる部分もあります。　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　また、作中の年月日は旧暦（太陰暦）、年齢は数え年です。
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+
+※数日前、VIPで「やる夫が奥州王を目指すようです」第1話・第2話を投稿した者です。
+見返して、読みにくいなぁと思ったので、リメイクで最初から書きなおしてます。 
+
+
+
+
+
+
+
+2 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:27:54.54 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+    ―――応仁の乱より100年の時を経ても、戦国乱世収まる兆しを見せていなかった。
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 /| r`l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 |::|└:|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 |::| ..:::|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ,ｔ　　　　　　　　　 　 　 　 　 |::| ..:::ﾄ､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 -}ﾄ　　 　　　 　 、　ト､ 　　/Ｔ|::|:::::::|:::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 Y:ヒ、　 ,、　　　|| r┘.:|-┐|.;|:|::|:::::::|:::
+    工|工|工l工エエｴl＼　　　　　　　　　　　　　 　 　 　 　 　 `=|;:{二　 |:|　/＼.||...::/〉:::::::,⊥;:|::rｪｪェェ
+    __|＿__|_,工工]エｴ}ﾆTニ7〉ｪｪｪｭ　　　　　　　　　　　　　　　　|;:厂 .r┴:/.::.:.└┐/.::: __|_rェェｴlエ工
+    ＿|＿|_;工工]エlｴ|-[]─[[:ﾛ::ﾛ:{　　　　　　　　　　　　　 　 　 |:;| 　 |..::::':::: .r:､:...|:::::ｒ┘..;;'ｴエ工[工[
+    __|＿|＿l工工;エｴ|＿＿__]〕ﾆlﾆl　　　　　　　　　　　　 　 ､.v,,!;:.v､ﾐ.:ゞ;yv;ゞ;ゞv;ゞ ,工/＼＞工工工
+    ＿|工|_;工工]エlｴ|┴┬／>─‐>　　　　　　　　　　､.v,,;..v､ﾐ.:ゞ;yv;ゞ;ゞv;ゞ.v;ゞゞ,上/ .／|ｴエ;工工
+    __|＿|二l工工;エｴ}┬／／.::::／　　　､.v,,;..v､ﾐ.:ゞ;yv;ゞ;ゞv;ゞ,v,,v,vゞゞ;;ゞv;ゞゞ,.上ｪΥｴlエ[工:[工[
+    ＿|＿|_,工工]エlｴ}／／.::::／v､::.;.;...　　 　 　 ;.w;ヾ.:ﾞ;;ﾐﾞ':ヾvv'w:,ゞ;;;ヾ.:;ゞ彡ゞ/.＼＼:|ｴエ{工[工工
+    __|二ｌ＿l工工;エｴl／,,;;,／　　　　....-::.;.;::.::::-..... .. .... . ... ... .`"''､v,;.wVゞ;v;ゞ;';＼::..:＼{ｴlエ[工工工
+    _|＿|＿l;;工工;エｴl-_L-|,,;..v､ 　 　 　 ....::. ::: .:.;:へ.;.'.. .＿... .'..　__　｀.';;::.._/＼二:トﾆH.{ｴエ[工l工工
+    ､.v,,;..v､, 工工エｴ|-l_ L|vゞ;ヾ.:ﾞ;;ﾐﾞ',,,ゞ､.v,,;..v､ ~~. .::/vへ＼-/:/＼へ . ､.v,,;.v<|ﾆHﾆ|ｴエ}工]工[ﾆ
+    ゞ;爻彡ヾ;ゞ;yゞ､.vk,,..vｌ,|ゞﾞ;ﾐﾞ､.v,,;..v＜＞'ﾆﾆTﾆニTニTニ>/./,:､:.:.＼;ゞﾐ.:ゞ;y;､HﾆH.kv,l.v[工;工工
+    ”v:";v;oゞゞ;yゞ　ゞ;爻彡ヾ;,,;..v､,...:/ ./:/.ー～「l─「l─「l-|:|.／ <;~~`.::: llニコ;;::／>.爻v;oゞ;ゞ彡ゞﾞ;
+    .:ﾞ;ゞ;ヾ.:ﾞ;;ﾐﾞ':,oヾv”v':,ゞ;;ﾐﾞ'爻。....:~~'～<二二二>~　~~　~／ <＼＼　　　ゞ;ヾ.<／:ゞ;yゞﾞ;;ﾐﾞ':,;oゞ;ヾ;
+    .:ﾞ;;ﾐﾞ':,”:";oヾv;;ﾐﾞ'爻vゞ;ヾ.:ﾞ;;ﾐﾞ':,;.;:: .:.　....　 ..'　 .　　....::.;.~~`´:~:.::~~.~`.... .. . __　ゞ;ヾﾞヾ;ゞ;yゞ;ﾐﾞ':,ゞ.彡
+
+
+
+
+
+3 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:29:10.56 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    13代将軍・足利義輝は室町幕府の権威を取り戻すべく尽力する。
+
+    しかし軍事力を持たない将軍が実権を取り戻すことはできず、かえって危険視され、
+
+    永禄8年（1565年）、松永久秀と三好三人衆によって二条御所を攻められ、討死。
+
+    いくら戦乱の世とは言え、時の将軍が堂々と弑逆されるのは、もはや末期状態と言う他なかった。
+
+
+
+    　　　　　　　　　(:::(　　　 　　|/|ヽ 　　　 　 （:::::）
+    　　　　　　　 　 　)::) 　 　 　 ／:: ゝ　　 　　 )::ﾉ
+    　　　　　　　 　　(:(　　　　　_］血[　　　　　 (:(
+    　　　　　／ヽ＿　))　　　　 」∧::／;;:;;L　　　))
+    　　　　　|:::::::::::;;;ヾ 　　　∠Π::;;;;;::;;:;;:::ヘﾍﾍﾍ、
+    　　　　　ヾ、/┌;;ヾﾍ、 ,,/|lilili||lil||「|}{}{|:::;;;;;::::::」
+    　　_/＼　 /;;;;;;:::::;;;|::;;;V:|「| /::::::::＼＼::::;;:::/:/
+    　<::::;;::: ＼＼:;;;;::::;:|::::;;;;:|「/:::: >;;＼|::::|「:;;:/::::ヾ、
+    ,,,....＼;;;;;;,,/.;'';:::::; ┌ﾍ、.....,,,:＿＿＿＿＿＿＿_.''ﾞﾞ,'::::,,
+    　::,,;:,,;　,:.............::　ヽ::: ヽ .,,..|　二条御所跡地 |:;,,,,,,;....;
+    :..,,,..:;:..,,:　.,......,;,.,,.　/,;;, /　.,,..￣￣￣|::|￣￣￣:::::,,..::::::
+    .,,.;;::::.., ::,,;;...,.......,,;;.,,.;, .....:.,:;:, ,'.:,,:,:::::::.'''''':::::::::,. ...::'.:,,:,::::::
+
+
+
+
+
+4 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:30:57.78 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    永禄10年（1567年）、8月3日未明――――
+    出羽国、米沢城。（山形県米沢市）
+
+
+    　　＋　　　　　ﾟ　　.　＋　　　　　　　　　　　　.　.　．ﾟ .ﾟ。ﾟ　。　,ﾟ．。ﾟ.　ﾟ．。　.。
+    　　　．　.　　　ﾟ　　.　o　　　　ﾟ　　。　　.　　,　.　.o 。　*　.ﾟ　+　。☆　ﾟ。。．　　.
+    　　　　　　　　　　　　　　　。　　　　　 　｡　　*。,　+　。.　o　ﾟ,　。*,　o　。.
+    　　ﾟ　　o　　　.　　。　　　.　　.　　　,　　.　,　ｏ　。ﾟ.　,ﾟ　。　＋　。　。,ﾟ.。
+    　ﾟ　,　　　,　。　.　　　＋　　ﾟ　　　。　　。ﾟ　.　ﾟ。,　☆　*　。ﾟ.　o.ﾟ　　。　.　。
+    。　.　　．。　　　　o　　　．.　。　ﾟ　 ﾟ　,　。.　o　。*　。　.　o．　。　．　.
+    　　　　　　　　。　　　.　　　。　　．　.ﾟo　。　*．　。　．.　☆　.　＋.　.　　.
+    　。　.　　．　.　　　.　　　．　　。　ﾟ。,　☆　ﾟ.　＋　。　ﾟ　,。　.　。　　,　.。
+    　　　　ﾟ　　。　　　ﾟ　　.　　+。　ﾟ　*　。.　,　。ﾟ　+.　。*。　ﾟ.　　　.　.　．　　.
+    　。　　.　　　.　。　。ﾟ.　。*　。,　´。.　　☆。。.　ﾟ。+　。　.。　　.　　｡　　　.
+    　　.　　　。　　ﾟ　ﾟ。　。,　.。o　☆　+　,ﾟ。　*。.　。　。　.　　　　。　　　　.
+    　ﾟ　.ﾟ　ﾟ　　。ﾟ　+　。.　+。　*　。ﾟ。ﾟ.,　,+　。ﾟ.　。　.　.　　　,　　　　,　　　.
+    ﾟ。ﾟ+ﾟ`,　o。。.ﾟ*。ﾟ　。.ﾟ　。　☆＋。。ﾟ.　°　。　.　　　,　　　　　　ﾟ　　　　ﾟ
+    　。,　.ﾟ。　+　☆。,ﾟ.　o。 。+　。ﾟ.,　　.　ﾟ　　　,　　　。　　　　　。　　　.　　　.
+    　ﾟ.　ｏ　*　。ﾟ。ﾟ.。ﾟ。+ﾟ　。　。　ﾟ。 ﾟ　。　　ﾟ
+    ﾟ`　.ﾟ　.ﾟ.　ﾟ.　.　ﾟ　　.　　ﾟ　　.　　　,　　.　　　　　.　　.　　　。　　　　　　ﾟ　.
+    　 　 　 　 　　　　　　　　　　　　＿＿＿＿　　*
+    　　　 *　　 　 　 　 　 　　　　　.| 米沢城. |
+    　 　　　　　　　　*　　　　　　　 |￣￣￣￣　　
+    　　　　　　　　　　　　　　　　　∧　　　　　　　　　　*
+    .　 　 　 　 　　　　　*　 　　　<⌒>　　　　　　
+    　*　　　　　　　　 　　 　 　 ／⌒＼　　　　　　　*
+    　　　　　 ＿＿＿＿＿＿___］皿皿［-∧-∧､
+    　　　　／三三三三三三∧._／＼_|,,|「|,,,|「|ﾐ^!､
+    　　＿_|￣田￣田 /￣￣Π . ∩　 |'|「|'''|「|||:ll;|
+    　/＿_,|==／＼＝ﾊ,￣￣|「|￣￣￣￣|「|￣￣|
+    /_| ﾛ ﾛ 「￣￣￣ | |　田 |「|　 田 田　|「|［［［［|
+    |ll.|ﾛ ﾛ,/| l⌒l.ｌ⌒l.| | 　 　|「| 　 　 　 　|「|ﾐﾐﾐﾐﾐﾐ
+
+
+
+
+
+5 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:33:39.47 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    ＜オギャア！オギャア！
+
+
+    　　　　　|┃ 　　　　 　＿＿＿＿＿
+    　　　　　|┃ 　　　　／.::::::::::::::::::::::::::.ヽ
+    　ｶﾞﾗｯ.　|┃　　 　 |.:::::::::γ⌒Ｙ⌒ヽ::.|
+    　　　　　|┃ 　　 　 |::::::::/　⌒　　⌒　|
+    　　　　　|┃三　　　|:::::::〉 （ ●） （●）|　　　　おおっ、生まれたかっ！！
+    　　　　　|┃三　 　（@　::::⌒（__人__）⌒)
+    　　　　　|┃ 　　　　 |　　　　 |r┬-|　 |
+    　　　　　|┃ 　　 　　＼ 　　　`ー'´ ／
+    　　　　　|┃三,,.....イ.ヽヽ、___ ーーノﾞ-､.
+    　　　　　|┃ 　:　 　| 　';　＼_____ ノ.| ヽ　i
+    　　　　　|┃ 　　 　 |　　＼/ﾞ（__)＼,| 　i　|
+    　　　　　|┃ 　　 　 ＞　　 ヽ. ハ　 | 　 |｜
+
+    　　　　　　　■伊達　輝宗（だて　てるむね）・・・戦国大名。伊達家16代当主。
+
+
+
+
+    　　 / 　 　 /:/　 /　　　│　|　　 ＼ヽ　　 ヽ 丶　＼
+    i　 ,′　 　 |/　 /　 　 　 !　 j　　 　 !　! 　　 !　 ',　　ヽ
+    i.　|　　　　 |　 /　　　　 ,′ ハ　　　|　|ヽ/´ ! 　 !　　!ﾊ
+    ヽ |　　　　 l　 l　　　　 /　/　│　　i|　l ハ　j　　|　　| ﾘ
+    　N　　　　┼‐|ｰ─ -/t /-　､|　　 j| / { _jzﾑ　∧　│
+    /　|　　　　 ',　ｌ　 　 / 〃 　_　lヽ / j/　,ｲ仏}//　}　∧
+    ＼_|　　　　 ヽ {　／,ｨ≠テ女､j／　　　 V_;;|　{　 j / ハ　　　ふふん、ちょろいもんよ！
+    丁∧. 　 　 　 ∨ 〃{か;;;;小　　　　　　　ちj_　!　ｲｌ　　|
+    │|仏　　　　 ハ ヾﾊ圦_:::jハ　　　　　　 `ｧ　　',　 ﾄ、　l　　どう？　立派な男の子よ！
+    │|/∧　　　　　ヽ　　ヽ^)::ン‐　　　　　　　　　 }i　|ハ　!
+    │|.厂 ヽ　　　 　 ＼　　｀´　　　 　 　 __ ノ 　 厶 ﾘ　 ', |
+    └‐ゝ. ｰヽ　　　 ヽ　＼　 　 　 　 ｀￣　　 　 /　 /　　ｌ |
+    　ヽ､ `'ー‐＼　 　 ＼　＼　　 　 　 　 　 　 /　 /　 　 ｌ.|
+    　　　＼　　 ｀＼　　　＼　＼　　　　 　 　 /　 /　 　 　ﾘ
+    ﾍ　　　 ` ｰ- ､　＼　　　' ｰ=＞ーx‐‐ｧ￢′ ,′
+    　＼　　　　 　 ヽ　｀ミ=-　...__Ｘテ‐ゝ_{__八　｛
+    　　 {＼　　　　　 ｀ヽ　ヽ-‐‐''￣￣´__＿｀＞〈
+    ＼　ヽ　｀ヽ､_　　 　 }＼ }　　　　 ／　　　￣　ヽ
+    　 ＼　ヽ　　 ｀ヽ　 ,ﾉ　 ﾘ　　　／　　　　　　　　＼
+
+    　　　　　　　■義姫（よしひめ）・・・輝宗の妻。通称「お東の方」。
+
+
+
+
+
+6 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:35:28.55 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    　 　 / (≧ ≦）ヽ　　ｵｷﾞｬｰ!!
+    　　 (ヽ （_人_）/^)　　　ｵｷﾞｬｰ!!
+    　 　 ヽ　　u　　 /
+    . 　 　 | 　　 　 　|
+    　 　　.し　(u)　.Ｊ
+
+
+
+    　　　 　＿＿＿＿＿
+    　　　／.:::::::::::::::::::::::::::ヽ
+    　 　 |.:::::::γ⌒^Ｙ⌒ヽ::.|
+    　 　 |::::::::ゝ　＼　　／　|
+    　　　|::::::（ （ ＞）　（＜）|　　　お東、でかしたっっ！！
+    　 　（@　 ::::⌒（__人__）⌒)　　　これで伊達家も安泰じゃ！！
+    　　　 |　　　　　|r┬-|　 |
+    　　　 ＼ 　　 　 `ー'´／
+    　,,.....イ.ヽヽ、___ ーノﾞ-､.
+    　:　 　| 　';　＼_____ ノ.| ヽ
+    　　 　 |　　＼/ﾞ（__)＼,| 　i
+
+
+
+    米沢城主・伊達輝宗と正室・お東の方の間に、玉のような男の子が誕生した。
+
+
+
+
+
+7 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:36:40.81 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    　 　 　 　　　　　　　 　 　　　　　　　　　　　　　　　　 ,.へ
+    　　___ 　　　　　　　 　 　 　 　 　　　　　　　　　　　　ﾑ　　i
+    　「 ﾋ_i〉　　　 　 　　　　　　 　 　　　　　　　　　　　　 ゝ　〈
+    　ﾄ　ノ　　　　　　　　　　＿＿＿＿＿　　　　　　　　　iニ(()
+    　i 　{　　　　　　　　　／.::::::::::::::::::::::::::.ヽ 　　..　　　　　| 　ヽ
+    　i　　i..　　　　　　　　|::::::::/　⌒　　⌒　|　　 .　 　 　　i 　　}
+    　|　　 i　　　　　　　　|:::::::〉 （ ●） （●）|　　　　　　　 {､　 λ　　名前は「梵天丸」(ぼんてんまる)じゃ！
+    　ト－┤.　　　　　　（@　::::⌒（__人__）⌒)　　　　 　 ,ノ　￣,!
+    　i　　　ゝ､_ 　　　　　|　　/// |r┬-|//|　　　,.　,. '´ﾊ　　　,!
+    .　ヽ、 　　　｀`　､,_　_＼ 　　　`ー'´ ／　　　""　＼ 　ヽ／
+    　　　＼ノ　ﾉ　　　ﾊ￣r/:::r―--―/::７　　　ﾉ　　　　／
+    　 　　 　 ヽ.　　　　　　ヽ::〈； . '::. :' |::/　　 /　　　,. "
+    　　　　　　　 `ｰ ､　　　　＼ヽ::. ;::：|/　　　　　ｒ'"
+    　　　　　／￣二二二二二二二二二二二二二二二二ヽ
+    　　　　　| 答 |.　　　　　　梵　　天　　丸　　　　　　　　│|
+    　　　　　＼＿二二二二二二二二二二二二二二二二ノ
+
+
+
+
+    ／'　　 /::::::::::::::::/:／　 　|::::::::!:::::::::!ヽ::::::::::::::ヽ､::::::::| |::::::::::|＼:::::!:::::::::|､｀
+    ゝ　　　|::::::::::::::://~‐--､_ ｖ::::::| |::::::::! ＼:::::::::::::! !::::::|~~|::::::/￣ヽ:::|::::::::|＼、／
+    /~／ ´|::::::::::::::!/　　　　　~Ｙ､::!､.!:::::::! 　 ＼:::::::! !::::/　 |:::/　　|::::|::::::::::|、　ヽ
+    ::::ゝ、_.|:::::::::::::|　　／´~￣`ヽ､!　＼::ヽ　　　＼:|　!/￣~|/ヽ　　|::!:::::::::|ヽ／´ヽヽ
+    ／　／､|::::::::::::| イ､ /〇｡:::::::1＼　　＼ヽ　　　　ｲO｡::::::::::! ＼ .|ｲ:::::::::|〃ヽ
+    　／:/ ∧::::::::::|　＼ !:::::::::::::::!　　　　　　　　　　 |::::::::::::::::/ |/　| |:::::::::|　ヽ　ヽ
+    ./:::/　/::|＼::::::|　　　　 ヽ:::::'!　　　　　　　　　　　　::::::::::´　!　　|:::::::::|、　 !　　!　　　梵天丸！
+    ::::/　/::::||!::::＼::|　　　ヽ~￣´　　　　 　,　　　　　 ~￣~｀　　　　/!:::::::/ ｝
+    ::/ 　!:::::ヽ|:::::::::＼　　　　　　　,--――――--､　　　　　　　 /!:::::::/／　　　　　　　元気に育ちなさいよ！
+    ヽ 　!:::::::::::::!:::::从、　　　　　　|／´:::::::::::::::::｀＼|　　　　　　　/-/::::/
+    ::::ヽ!::::::::::::::::!､:::::::ヽ　　　　　　|　　　　　　　　｜　　　　　 ノ/::::::/
+    . |::::!:::::ヽ:::::::::＼::::::::＼　　　　 ヽ　　　　　　　/　　　　　／ /::::/
+    　|:::ヽ::::::ヽ::::::::::＼::::::::::＼　　　 ＼　　　　　/　　　　／/／/::/
+    　 |::::＼::::::＼:::::::::::＼::::::::::"''‐　　 　、_　　 　　　-'"
+
+
+
+
+
+8 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:38:44.84 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    さて、この永禄10年とはどんな年であっただろうか。
+
+    『信長公記』によれば、
+
+    織田信長が美濃（岐阜県岐阜市）の稲葉山城を攻略したのがこの年の8月15日。
+
+    梵天丸が誕生したのとほとんど同じタイミングだった。
+
+    信長は地名を「岐阜」と改め、「天下布武」の印章を使い始める。
+
+    ようやく、戦国乱世を終わらせようとする人間が現れたのである。
+
+
+
+    .　　 /;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヽ;;
+    　　 |;;;;;/｀`''ｰ-､;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ﾞ,
+    　　 l;;;;'　　　　　　￣￣｀`'''7;;;;;;;;;;;;;;;;;;;;|
+    .　　 ﾞ;l　　　　　　　　　　　 l;;;;;;;;;;;;;;;;;;;;/
+    　　　'Fﾐz、　　　　__,,,,,,,_　　`i;;;;;;;;;;;;;;;'
+    .　　　「ヾぶ 　 ‐'ﾔ-;ﾆ､,.　　 l;;;;;;;;; "､ﾞi　　　　・・・・・・であるか。
+    　　　|.　　　/　　 ｀`ﾞ''ﾞ´　　　.l;;;;;'　 ﾉ/
+    .　　　i　　 /　　　　　　　　　 l;;;'ｰ''／
+    　　　 ',.　 ゝ､ ,､　　　　　　　,';;;-r"
+    　　　 _Lｨ='　.=ｭ､.　　　　　 ''" .l;;|
+    .　　　 ﾞﾞ、｀ﾆ,''''‐`ヾ､　　　　.　　l;!､,
+    .　　　 ハ　.ﾊ｀`　.ノ!｀　 ／　　　l:::::ヽ、
+    　　／::::::l,ﾉﾊi､,r;'"i'ｰ彡'　　　　ハ::::::::ヽ
+
+    　　　　　■織田　信長
+
+
+    この時点での有名人たちの年齢は、以下の通り。
+
+    武田信玄・・・・・・・・・・・・47歳
+    上杉謙信・・・・・・・・・・・・38歳
+    織田信長・・・・・・・・・・・・34歳
+    木下藤吉郎（秀吉）・・・・32歳
+    徳川家康・・・・・・・・・・・・26歳
+
+    梵天丸・・・・・・・・・・・・・・・1歳
+
+
+
+
+
+9 ：<strong><span style="color:#990000">名無しさん＠├＼├＼廾□｀／</span></strong>：2011/11/03(木) 18:40:21.96 <strong><span style="color:#009900">ID:b3IJTlVs</span></strong>
+
+
+
+
+    伊達家は東北でも1、2を争う大名で、幕府から「奥州探題」の職を賜り、
+
+    東北一帯の支配権を正当化できる立場にあった。
+
+    この時点での領土は山形県南部、福島県北部、宮城県南部に及んでおり、
+
+    石高に直せばおよそ20万石前後。
+
+
+    凸・・・伊達家
+
+    　　　　　　　　　　　　　　　　　　 .ﾉ､､　　　　　 .｝■大崎　 ﾘ　
+    　　　　　　　　　　　.､　　　　　　 l′「.､最上　 ﾉ′　 .rv''''ﾘ||､
+    　　　　　　　　　 ../'ﾌ　　　　　　.｝　.､ノ　■　　「　　 ..r″　 .¨
+    　　　　　　　　　 i!. .┐　　　　_,r^　.,(　　　　r┘凸　 .|
+    　　　　　　　　　.,〕>┘　 ,,r‐''″　　|　　凸　.｝'''--､ .ﾉ,
+    　　　　　　　　　.¨′　 .,l■上杉　.,r'^ﾞ'─-┘凸 ￢ﾞ.ﾘ
+    　　　　　　　　　　　　 丿　　　　　（　　　._　　　　　　 （
+    　　　　　　　　　　　 .ﾉ′　　 .:-冖´　　 .ﾞ)）　　　　■相馬
+    　　　　　　　　　 .,／｀　　　　/′　■蘆名　　　　　　　}
+
+
+
+    しかし周辺諸国も虎視眈々と伊達領を狙っており、決して油断はできなかった。
+
+    梵天丸を待ち受ける運命は、果たしてどのようなものであるのか・・・。 
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3812/clap" id="fc2button-clap-3812" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3812").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/9.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3812/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫が伊達政宗になったようです　第１話「永禄10年」" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3812.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4358.html">
+					やる夫が伊達政宗になったようです　第8話「断」 (2012/04/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4357.html">
+					やる夫が伊達政宗になったようです　番外編その3「奥州探題の野望」・後編 (2012/04/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3971.html">
+					やる夫が伊達政宗になったようです　番外編その3「奥州探題の野望」・前編 (2011/12/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3916.html">
+					やる夫が伊達政宗になったようです　番外編その２「古き王者たちの落日」 (2011/12/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3885.html">
+					やる夫が伊達政宗になったようです　第7話「常識の中に」 (2011/11/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3868.html">
+					やる夫が伊達政宗になったようです　第６話「禅問答」 (2011/11/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3848.html">
+					やる夫が伊達政宗になったようです　第５話「目には目を」 (2011/11/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3838.html">
+					やる夫が伊達政宗になったようです　番外編その1「親戚100人できるかな」 (2011/11/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3832.html">
+					やる夫が伊達政宗になったようです　第４話「足乳根」 (2011/11/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3831.html">
+					やる夫が伊達政宗になったようです　第３話「疱瘡」 (2011/11/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3813.html">
+					やる夫が伊達政宗になったようです　第２話「血縁」 (2011/10/31)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫が伊達政宗になったようです　第１話「永禄10年」 (2011/10/31)			</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫が伊達政宗になったようです　第１話「永禄10年」" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/10/31 00:27 ]
+<a href="/blog-category-351.html" title="カテゴリを参照">歴史系（日本史）　やる夫が伊達政宗になったようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3812"
+    dc:title="やる夫が伊達政宗になったようです　第１話「永禄10年」"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html"
+    dc:subject="歴史系（日本史）　やる夫が伊達政宗になったようです"
+    dc:description="これは、戦国時代末期から江戸時代初期にかけて名を馳せた、「奥州の独眼竜」こと伊達政宗の物語である。　　　　　　＿＿＿＿　　　　 　/ | | | | | | 丶/|.　　　　|＼_|_|_|_|_|_|__／ |　　　〔∴ ────‐ ∴〕　　　　/ .||::::;;;;;;;;;;;;;;;:::ヾヽ..　　　/＿_|／　　　　＼|＿>....┏━━━━━━━━━━━━━━━━━━━━━━━━━┓　　この物語は、史実をもとにしたフィクションです。　　史料、通説、俗説などを参考にしておりますが、　　史..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-10-31T00:27:02+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3813.html" title="やる夫が伊達政宗になったようです　第２話「血縁」">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3810.html" title="やる夫と食べるイギリス料理　小ネタ２">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3812.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3812"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3812-afd18ef0">http://oyoguyaruo.blog72.fc2.com/tb.php/3812-afd18ef0</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3813.html" title="やる夫が伊達政宗になったようです　第２話「血縁」">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3810.html" title="やる夫と食べるイギリス料理　小ネタ２">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,765 @@
+<div class="article">
+
+
+
+
+
+　　　　　　/　　// 　 ／ -. }｀ヽ.￣｀ヽ、 
+　　　 　　 /1,.イ/　　 { ｛ ノ/ ./　}　　　 lヽｰ- ､ 
+　　　　　　/ i1 l´　　　ヽ--_'／　/ 　 　 /　} ＼ ＼　　 　　　　　　　　　　　　　　　　　　　 ＿＿＿ 
+　　　　　 .{ -<-L.　_／ ｀ ｰ─‐'　 ＿_ノ 　 ヽ.　＼　　　　　　　　　　　　　　　　　　　　　／　　!　　 `i 
+　　　　　/f } /! }　 , __　-一　´￣　　　 　_／.＼　ヽ　　　　　　　　　　　　　　　　　　　/　　　 .!　　　 .i 
+　　　　　! _ノ /./／　,. -──── . -‐'" {　　　＼ ＼ 　　　　　　　　　　　　　　　　./　　　　 !　　　　L 
+　　　　　ゝ -‐ '/　／　　　　 ､＿_,,.-=＜':' ` ､j　　　　　　　　　　　　　　　　　　　_／　　　　　　　　　　 ＼__ 
+　　　　　 .{ 　 /　/　　　　　　 " （（;;;;:） ﾉ　　　丶　　　 　　　　　　　　　　　　r''"　　　　,.二（ ○ ）二.､ 　　 `i 
+　　　　　　　　ヽノへ＿__, 　　　　 　 -｀ー''"、　やる夫とやらない夫の　　ヽ　　　_,.f==―――‐==ﾖ　　／ 
+　　　　　 .ゝ＜ ( （:;;;〉＝=__.､、.　　　 　 ）　　　　　　　　　　　　　　　　　　　　　`ー-.F　　　　　　　　　ｦ,-' 
+　　　　　〃 　./ﾞ`-/＾　　　　 ヾ二ニ_ｰ<　　　　第182回登場人物紹介　 　　　　　＼,,..:‐====;===ｼﾄ,! 
+　　　　　　　X } V　　　　 　　　 　 　｀ヽ. ＼､__　　　　　　　　　　　　　　　　　　　　　　|　 （●）　（●） | 
+　　　　　　 / V ./-─　､　　　　　　　　 }　 }　　　　　　 　　　　　　　　　　　　　　　　　|.　　（__人__）　 | 
+　　　　　 {　 ∨'7￣｀>､＼　　　　　　/　/　　　　　　　 　　　　　　　　　　　　　　　　　.|　　　｀ ⌒´ 　ﾉ 
+　　　　　　>､/ /　／　　>､＼ 　 　 /　/　　　　　　　　 　　　　　　　　　　　　　　＿／/ヽ　　　　　　/`)ｰ-､ 
+　　　　　 厶/＿ 　 　／　　） ）　／／　　　＿＿　　　 　iブ￣￣￣￣＼ ＿／ /　i.　　　ヽ―‐'　　 }　　 i＼＿/￣￣￣￣￣￣ﾞフi 
+　　　　　〃/＿ ｀ヽ.　　　 /／／イ-‐.二￣-‐ _　-‐　　　ﾞｉ　＼　　　　　　　ﾞﾞｉﾞｰ`!　　 ヽ　　　　　　　ノ 　/　　i　!　i　　　　　／　／ 
+　　　　　{L/￣｀ヽ　}＿ ノ∠彡-‐'''´　_　-‐'"´　　　　　　　＼　＼　　　　　　　　i,＼　　 ￣TＴT￣　　／　　/　　..　　..--‐''　／ヽ 
+　　　　　 /＿　 　Vヽ∠__ｨチ ,　 ‐''´　　　　　　　　　　　　　 ＼　''‐--..,,_　　　　i　　　　　　l l l　　　　　　 .|　 　.::￣__,..--‐ヽ 
+　　　　　/￣ ｀ヽ./　　　　ヽ／　　　　　　　　　　　　　　　　　　r '‐--..,__￣::.　　　i,　　　　　 l l l　　　　　　ｲ　 .::　/　　　　　l 
+　　　　 .{ ＿__　/　　　　／　　　　　　　　　　　　　　　　　　　 l　　　　　　ﾞ＼ ::. 　ﾄ,　　　　　l l l　　　　　 l　 ..:　/　　　　　　l 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 l　　　　　　　 lﾞｉ＿_l　　　　　 l l l　　　　　 ＼＿_/　　　　　　　l 
+
+
+
+
+
+
+
+
+
+
+510 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:40:40 ID:PAGJ2c3I
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　　　／　　 _ノ　　＼ 
+　　　　|　　　 （ ●）（●） 
+　　　.　|　　　　 （__人__） 　　　　　今回はキャラと言うか兵器の紹介だ。某アニメの人型兵器だな 
+　 　 　 |　　　　　｀ ⌒´ﾉ 
+.　　　　 |　　　　　　 　 } 
+　　　.　 ヽ　　　　　 　 } 
+　　 ＿/⌒ヽ　　 　　ィ 
+　i'⌒ﾞl |　　 l　　 　 　 　 ＼＿＿ｨ～っ 
+　|　　|. |　　 |　　 　 　 ﾄ､_"＿＿冫く;'三｝ 
+　|　　|　（　"￣⌒ヽ、　|＿＿＿＿`ー‐" 
+　|. 　￣￣￣￣|ｿﾉﾉ￣｀ヽ￣⌒ヽ.'⌒lｿ 
+　|　　　　　　　 l 　.| y　　|＿ｨ 　 |　 .|| 
+　|　　　　　　　 | 　.|.|　　 |　 |　　| 　 || 
+　|　　　　　　　 |　　 |＿__|　 |_＿|　　|| 
+　|＿＿_＿＿__.|＿__（＿_ﾞ)__{_＿_ﾞ)＿|| 
+
+
+
+
+
+　 　　　 　　 　＿＿＿_ 
+　　　　　　　／ー　　─＼　　　　　　　　　　:登場作品は 
+　　　　　 ／ （●）　（●） ＼ 
+　　　　／　　　.（__人__）　 　＼　　　　　　　「装甲騎兵でっていう」 
+　　　　|　　　　　｀⌒´　　 　　 |　　　　　　　「やる夫がロボ戦記に参加するようです」 
+　　　　 ＼　　　　 　　　 　 _／　　　　　　　 やる夫達の遊戯王V×Vの「いく夫の職場見学会」で登場作品の主人公ごと 
+　　　　 　ﾉ　　　　 　　 . 厂 
+　　　 　.//＼ "'つ￣旦＼　　　　　　　　　　後「やる夫は宿命（さだめ）とあれば覚悟を決めるようです」でもちょい役で出てきたお 
+　 　　／/ ※＼＿＿＿＿＼ 
+　 　　＼＼ 　※ 　 ....※ ※ ヽ 
+　 　　　 ＼ヽ-ー―――――ヽ 
+
+
+
+
+
+
+511 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:41:13 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　　　　　　　　　　＿　　　　　　　　　　 /　／ 
+　　　　　　　　　　　 　 　　,　　　 ￣　 、　　　　 〃〃 
+　　　　　　　　　　　　 ／| |　　　　　／/＼　　 ,＝ﾃ、 
+　　　　　　　　　　　 /　｜|＿　＿ / /　　 ヽ /川// 
+　　　　＿　　　　　 ,-,ー （(()）ヽ ＿｀―- 、/^ヽ／　　　　　　　　　　じゃ行こうか 
+　　　/ ,??ー-　、　|[: === テ- '（( )）＝= l ： .（)） 
+　　 ﾊ//／　　　　ヽ、――(O))⌒――― '_ー　―　　　　　　　　　 装甲騎兵ボトムズよりAT(アーマードトルーパー) 
+　　ー'　　　　　　　|c|￣ヽ――――――' ＼）。　　　＼　　　　　　ATM-09-ST　スコープドッグだ 
+　/　　　　　　　 　 | .|＿_　＼lニコ　　　　　　 ＼。　　 　 | 
+　|o⌒o　　　　　 /c/Eヨ| |　 / 二二ニﾆ―――、。 。　/ 
+　ヽ⌒|＼＼＿／／ |Eヨ| | / /　　　／／￣￣ l | |　＿（ 
+　　　 | ／^ 二_ノ 　 ===' / /,へ＼二＿＿＿_二＼　 / 
+　 　 / 　 　./|| ト＿＿＿// へ　//￣￣￣￣￣￣|　 | 
+　/⌒ヽ＼ .|=U=| |　　　 ||　＿ //⊂ニニニニニ⊃|　 | 
+　|　　 | |/ |》∥《|_|　　　 |　　 /　　　　　　　　　　　|　 | 
+　ヽ／/⌒|-廿-'||ｺ 　 　 |　 / ⊂ニニニニニニ⊃/―ヽ 
+　 |｀- 　 /[llﾟTTﾟll]＼＿__｀―｀――――――― '＼( )）| 
+　 ヽ　|　 |/ニニヽ|/(O） ￣￣￣＼|　＼＿＼￣ | //　 | 
+　 ＼＼ / 　 -、ヽ　 | ||c　　 　 　c|　　/, ―/　c|//　　| 
+
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼ 
+　 ／　　　　 　 　　＼　　　　　全高3m程度の本作品の主役機であり量産型だお 
+／ 　　　　　　　　　　＼ 
+|　 　　　＼　　 ,＿　　 |　　　　……性能や中身、遣われ方を見てもホント「量産型」だお　 
+/　　ｕ　 ∩ノ ⊃―）／ 
+(　 ＼　／ ＿ノ　|　 | 
+.＼　“　　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+
+512 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:41:51 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　.／￣￣＼ 
+　　　　　　 /　ヽ､_ 　　.＼ 
+　　　　　. （　（● ） .　　　|　　　　　誰が呼んだかスコタコとも呼ばれるな 
+　　　　　. （人__）　　　　　| 
+　　　　　r‐-､　　 　.　　　|　　　　　初めてこいつをみた方が頭部を刺して「タコのよう」 
+　　　　 （三））　　　.　　　|　　　　　といった事からだったっけか 
+　　　　　>　ﾉ　　　　　　 / 
+　　　　/ 　/ ヽ、　.　　 / 
+　　 　/ 　/ ⌒ヾ　　　.〈 
+　 　 （＿__ゝ､ 　＼／.　） 
+　　　　　　.　|＼　　 　,.1 
+　　　　　　.　|　 ＼_／...| 
+
+
+
+
+
+　　　　　　　　　＿＿＿ 
+　　 　　　／）／ノ '　ヽ､＼　　　　　　　もう一つ 
+　　 　 ／ .ｲ '（●） 　.（●）＼　　　　　「スコープドック・レッドショルダーターボカスタム」 
+　 . 　/,'才.ﾐ).　 （__人__）　　　＼　　　 の略とも言われているお 
+　 . 　|　≧ｼ'　　 ´ ⌒｀　　　　　| 
+　　.　＼　ヽ 　　　　　　　　　 ／　　　　ｼﾞｯｻｲﾊﾄﾞｳﾅﾉｶﾊｼﾗﾝｦ 
+
+
+
+
+
+
+513 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:42:18 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　　　　　　　　　　　 ／￣￣＼　　　　機体解説に入ろう 
+　　　　　　　　　　　　　　　　／ _ノ　 .ヽ、＼ 
+　　　　　　　　　　　　　　　　|　 （●）（●）　|　　こいつらATが他の量産型ロボと決定的に違う点 
+.　　　　　　　　　　　　　　　　|　　（__人__）　.|　　それは純粋に消耗品な事だ 
+　　　　　　　　　　　　　　　　 |　　 ｀ ⌒´ 　ﾉ　　 
+.　 　 　　 　 　 r─一'´￣`＜ヽ　　　　　　} 
+.　　　　 　　 　 `ー‐ｧ　　 ,　 　 )　　　 　, -'~⌒ヽ、　　　　一機を使い続ける他のロボットアニメとは違ってこいつは 
+　　　　　　　　　　 ノ　　　{. 　 ,ﾍ　　　　,l.　ゝ、_ .'ヽ).　　　 
+. 　 　 　 　 　　 ／, ､　_　　　/. |　　 　.　',　　.　..　 .ヽ、　 
+　 　 　 　 　　 （／ / // / /　...|　 　 　 ...|＼..＼＼ ＼_) 
+　　　 　 　 　　 　 / // / /　　　　　　 　 . .　＼_＼_)､_） 
+　　　　　　 　　 　 ｰ' {_/ノ　　　　　　　　　 　 　　."´ 
+
+
+
+
+
+
+514 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:43:00 ID:PAGJ2c3I
+
+
+
+
+::::::::::::::::::::::::::::　　　　,.-ヽ. .　　　　　　　　　 | 　 | 　　　　　　　　　　　　　　　　　　　　. ,-─,,-､　　_// 
+::::::::::::::::::::::　　　____,;'　,;- i. ..￣￣￣￣￣￣|..屋|￣￣￣￣￣￣￣￣￣￣￣￣￣ _,◎)--"､__ヽ// 〉 
+::::::::::::::::::　　 ,;;'"　　i　i　・i ..　　　　　　　 　 |..良|.　　　　　　　　　　　　　　 　,｡─ ､i=＠●==_（(｡─ ､ 
+:::::::::::::::　　,;'":;;,,,,,,　;!,　`'''i;.　 　　　　　　 　 |..内|　　　　　　　　　　　 　　　　（｡｡ ｡/｀= = =.'//（.｡ ｡ ｡）　　壊れたり必要が無くなれば 
+:::::::::::　　,/'"　　　'''',,,,''''--i.　　　　 　　　 　 |..科|　　　　　　　　　　　　　,〃⌒ヽ._//=__　　//　_［　i ］　　　乗り捨てる 
+:::::::::　 ;/　 .,,,,,,,,,,,,,,,,,　　　;i'⌒i;.　 　　　　 　 l____.|　　.　.＿＿＿　　　　 （┌┐ノ_((⌒＼三/ヾ《/◯）((＾) 
+:::::::　 i;"　　　　　___,,,,,,,　　`i".　　　　　　 　 |l l ll|.　　　||　l_l　| i ヾ__../　/　/　//⌒ヽ　＼＼》二i ﾛ ll　l 
+:::::::　i;　　　　,,;'"""　`';,,,　　"`i＿＿＿＿＿|l l ll|＿＿ ||__l-l__|_|_ _ill/　/　/　//　 ミ ）　　ヾ-i,,-ii|＝||=| 
+:::::::　|　　''''''i　,,,,,,,,,,　　`'--''''"　　　　　　　_|　　|　　　 |　　i三|.||i０/　/　/　//ヾ==〃　　　　||：|,!｀!《：：〉 
+:::::::　|.　　　 i'"　　　";　　..　　　　　　　　　　　　　　　　|≡ l三|.|||<：￣＝￣：》//i＾〉_〉＼　　 ヾ：.ヾ):,,,,:） 
+:::::::　|;　　　 `-、.,;''" 　　　　　　　　　　　　　　　　　　　|￣￣￣|〔￣￣￣￣〔iﾛi/!/V/>　＼__／ヾ=== 
+::::::::　 i; 　　　　`'-----j 
+
+
+
+
+
+
+
+515 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:43:20 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　　　　 　＿＿＿　 ||| 
+　　　　　　　　　_ ｨ"/＿_/＿ヽ|｜　　__ 　|　　　　　　スクラップの山から複数機でっちあげる 
+　　　　　 〃ﾟ⌒l：l/__◎)o＿ヽ､lﾚ／￣　 ＝ 
+　　　　　 （__＿|：〔|＿(＋》＿ニ|l /＼ 　　＼ 
+　　　　　/　,--､ // ロー── // ＼＼　./　〃──── ll ──── ll ──────ヾ──── 
+　　 ＿O)￣）|=|　|￣_┬──┐' 　　／／ 
+　0ﾆ｀ー二二|=|　〆 /^ロ__l二〕 　／Ｔ 　　　　　　　　　　　　＿_　〃i⌒lヽ,/／　　　　　　　　　＼ 
+　　└┴┘ヽ_ノ-UUU|_/─┬┘ｰ'__/　　　　　　　　　　　　　〔：：|〔iﾆ◎oニl〕　　　　　,..-――- ､ヽヽ 
+　　　　∨《〔⊇|O ⊂ﾆﾆ⊃＼|　 __,,,,,-‐‐‐-,,,,,__ 　　　　　　　l_(.lＯli =__ﾟ_＿_|:⌒.)　,ｨ":::: ヽ　　　ﾉ`ヾi) 
+　　　 　 ＼_〕/￣ |/￣|￣ ,,,-‐i''i　　　　　　　 i~i‐-,,,　　　|　∥,.l`'ｰ--- ､_　　　 r"::::　　,,.ｨ''""ﾐヽ､ _ヾ_ 
+　　　　　　　/　　 〔￣l| ／　　 | |　　　　　　　 | |　　 ＼　 |￣|i　 　 　　　 |,-‐i"ﾄー--''" /!;(○r:;:l　: : ト, | 
+　　　　　　/|＿__/ 　 ／　　　　| |　　 _____　　　| |　　　 ＼ |　|| 　 　 　 　 |i,､ `'`ｰ-､....,r',,_;《＋）_:,,.-‐'" |ﾄ;| 
+　　　　　 /┌┐　　 ,; 　.__,,,,,‐‐〃⌒ヾ　　￣''''‐‐､,,,,__　　 ;,| |l 　 　　　　 |;;;lヽ　　　　: : : : : : : : :　　　　l:|:::i 
+　　　　 =ｷ´^ヽーl ´i .￣ 　　 （( (,～')）､_,,--､　　　　￣''''i ｀ l　　ヽ_.,,,_　ノ`i;|::ヽ　　　　　　　　　　　　　l::|- 
+　　　　　　　　　　|　.l　　､====ヾ､__,,ソo（(,,;;;;)）====､　　 l. 　| ,-くヽ,-'^ゝ　|:::::::ヽ　　　　　　　　　　 　 l:::| 
+　 ___.　　　　　　　|: 　|　　￣￣￣　,;-i-､,;ﾞ~=''＾￣￣　　　|: 　|ヾ;::ヽヽ　_;;l　|:::::::::;i------―――――|r'' 
+〃О｀,,-‐‐‐‐-､　 ｀‐ i─,,,,,　　　　(-○-)　　　　　　,,,,,─'i"´　　,,-‐‐‐‐-'､℃ヾ::i　　r,=======il　 !､ 
+
+
+
+
+
+
+516 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:43:40 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　　　　　　　　　　　　(ソ;ソ⌒)(⌒;;ヽ;;;;;'''）ヽ） 
+　　　　　　　　　　　　　　　　　ヽ）;;;;;;;,,,,,,）ソ''⌒;;）⌒;ソ⌒;;;;!" 
+　　　　　　　　　　　　　　　　　　　　ソ;ソ⌒)(⌒;;ヽ;;;;;'''）ヽ） 
+　　　　　　　　　　　　　　　　　　　　　(;ソ⌒)(⌒;;ヽ;;;;;'''）ヽ　　　　極めつけは人命超軽視でコスト優先なその設計だ 
+　　　　　　　　　　　　　　　　　　　　　　　 　,｡─ ､;;ヽ;;;;;'''）ヽ 
+　　　　　　　　　　　　　　　　　　　　 　　　　（｡｡ ｡/｀= = =.'//（.｡ ｡ ｡） 
+　　　　　　　　　　　　　　　　　 　 　 　 ,〃⌒ヽ._//=__　　//　_［　i ］ 
+　　　　　　　　　　　　.＿＿＿　　　　 （┌┐ノ_((⌒＼三/ヾ《/◯）((＾) 
+　　　　　　　　　　　　||　l_l　| i ヾ__../　/　/　//⌒ヽ　＼＼》二i ﾛ ll　l 
+　　　　　　　　　　　　||__l-l__|_|_ _ill/　/　/　//　 ミ ）　　ヾ-i,,-ii|＝||=|＿ 
+　　　　　　　　　　　　|　　i三|.||i０/　/　/　//ヾ==〃　　　　||：|,!｀!《：：〉 
+　　　　　　　　　　　　|≡ l三|.|||<：￣＝￣：》//i＾〉_〉＼　　 ヾ：.ヾ):,,,,:） 
+　　　　　　　　　　　　|￣￣￣|〔￣￣￣￣〔iﾛi/!/V/>　＼__／ヾ=== 
+
+
+
+
+
+
+517 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:44:03 ID:PAGJ2c3I
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼　（ ;;;;(　　　　装甲は6～14mmの恐らく単なる鉄板 
+　 ／　　＿ノ　 ヽ__＼) ;;;;)　　　　防御力は歩兵用の小火器弾く程度と思ってくれて差し支えないお 
+／ 　　 （●） 　（─ /;;／ 
+|　 　　 　 （__人__） l;;,　　　　　　 更に駆動系統に引火性の高い液体を使用 
+/　　　 　 ∩ ノ)━・【】[] 
+(　 ＼　／ ＿ノ´　　□　　　　　価格抑える為に自動消火装置や脱出装置の類は勿論装備されている訳がないお 
+.＼　 " 　／　　　　(⌒) 
+　　＼ ／ 
+
+
+
+
+
+
+518 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:44:31 ID:PAGJ2c3I
+
+
+
+
+　　　　　　 　.　＿＿ 
+　　　　　　　.／::::::.　＼ 
+　　　　　　 /::::::ヽ;;:　　 ＼　　　　さっと言ってみただけでどれほどの低スペックかは解かって貰えると思う 
+　　　　　. （:::::（::::冫 　　　|　　　 
+　　　　　. （:人;;;） .　　　　| 
+　　　　　r‐-;::::::. .　 　　　|　　　故にこいつとそのパイロット達にはボトムズという愛称 
+　　　　 （三））:::::..　.　　　|　　　……もとい敬称があるんだ 
+　　　　　>::::ﾉ:::::::::.　　　 / 
+　　　　/::: / ヽ;::::::::: 　 / 
+　　 　/::::/ ⌒ヾ:::::::::::.〈 
+　 　 （;;;;__ゝ:;;:::::＼／:::::） 
+　　　　　　.　|＼::::::::::::;;:1 
+　　　　　　.　|:::::＼;;／:::| 
+
+
+
+
+
+　　　　　　　　　 ＿＿＿_ 
+　　　　　　　　／　　　　　＼　　　　　　　　　　最低のマシンで戦う最低の野郎共 
+　　　　　　　‐　　 ─ 　　　　＼ 
+　　　　　 　（　　（ ●）　　　　　＼　　　　　　　　　　　　　　　　　　　　ﾎﾞ ﾄ ﾑ ｽﾞ 
+　　　　　　（人__）　　　　　　　　　|　　　　　　　これが敬称としての「最低野朗」の由来の意味の一説 
+　　　　　 　｀⌒´　　　　　　　　 ／　　　　　　　といわれているお 
+　　　　　　　｀ｌ　　　　　　　　　 ＼ 
+　　　　　　　　ｌ　　　　　　　　　　 ＼　　　　　　ｲﾁｵｳｸｺｲﾂｦｻｲﾖｳｼﾃｲﾙｸﾞﾝﾉｾｲｼｷｶｲｹﾝﾓｱﾙｹﾄﾞ 
+
+
+
+
+
+
+519 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:44:57 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　＼＼L、 
+　　　　　 __.. - -ｒ--　､._.　　　　　　　　　　　V/:: ﾞi 
+　　　　r'ｏ　ｏ　ｏ|:::::i . ..:.:＞-―-　、|L　 ,r. 亠-::､| 
+　　　　||ｏ__ｏ　ｏ.|:::::i . ../ｨｒ-､―--､V ﾚ': : : : :::::;;;;ヽ　　　　　:作りが簡素な事もあってバリエーションやカスタムは割と多い 
+　　　　＼__＼ｏノ二ﾆ::/__`ｒ'-､Ｏ━ /-{: : : : :::::::::_::::j 
+　　　　　　 ￣//⌒ヽ〈￣　`´_.. - ''/;;;;;＼＿／＾＼＼　　　　　湿地戦専用である程度の水上活動のできるマーシィドッグや 
+　　　　　　　　{　..::;;::/￣￣　　　／::::::;;;;;;;;＼　　　 ヽ.ヽ　　　　宇宙含む各種局地仕様等 
+　　　　　　　　|　...::/._:::　　　 .／:::::::::::;;;;;;;;;;;;;;;＼ｒ'=へ､「|＼ 
+　　　 　 　 　 | ....:/.._.. - '' " /　.ｒｉrヽ￣ ﾞi二V/／二＼`|;;::|　　 
+.　 　 　 　 　 |::;;;;;;７ｒｰ'''ヽ　〈　　ゞｼ＿___ｊ二７ｲ/　∧ .ヽ /　　 
+
+
+
+
+
+　　　　　　　　　　　　　　　＼ 
+　　　　　　　　　　　　　, -‐'i-iヽ､　　　　　　(　;;;);;;) 
+　　　　　　　　　　　,ー-､./￣ ＼○　　　　(　;;;);;;) 
+　　　　 　 　 　 　 /　(　)|___,-─ヽ l＿_,,--ソ;;;)　　　　有名所では重武装と左肩の赤い塗装で有名な 
+　 　 　 　 　 　 　 |　.|　 .|　 !.ニ.|, /　/　 ./ ソ))ヽ 
+　　　　　　　　　　|ｰ┘　|　 |　　 ヽ-⊥..　i ◎◎◎i　　レッドショルダーカスタムなんてのもあるな 
+　　　　　　　　　 └‐‐-┘ヽ|_　_____　＼__ヽ,◎◎ノ 
+　　　　　　　　　　／ ｀ｰ＼,,l_＿＿＿| 　￣ ￣￣ 
+　　　　　　　　　く／／|:￣ l |　|　　 l] 
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|ヽ　　　　、 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.| | ,　／　＼Y￣丶 、 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | |´　　　　 .＼ヽゝ、ヽ, 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .| |――ヽ、　 .＼　L 」、 
+　　　　　　　　　　　　　　　　　　 < `、　、　　　/´　　｀ゞヽ>　　　 ヽ　　 ＼　　＼ 
+　　　　　　　　　　　　　　　　　　 /￢´　 ゝ,‐〔丶____「 ヽノ┤<￣￣.|　丶、 ＼　 .＼ 
+　　　　　　　　　　　　　　　　　　 （　　/　/　 `ヽ | ミ〈‐〉ノ/‐ ＼　 .|　　 | ヽ、 ＼　 ＼ 
+　　　　　　　　　　　　　　　　　　 ゝ‐ ´　/7　　、｀　 .｀´. /　/<、＼| 〕　/ |ゝ| 丶、＼　＼ 
+　　　　　　　　　　　　　　　　　 / ｀ ゝ , 入┌ |　￣,'____/|｀`| 三 K｀＼ん、ゞヽ　　ヽ、＼ .＼ 
+　　　　　　　　　　　　　　　　 ./｀丶 /　／ |　　レ′｀ゝ|.|___|　｀丶イ/　ヽヽ___ゝ　　　｀´ヽヽ` 
+　　　　　　　　　　　　　　　 .（ヘ、／／ ,、ト 、_　　 / |」ノ へ　　　 く。　｀ヽ三ミ　　　　　ヽヽ 
+　　　　　　　　　　　　　　　　/.／／」　　 `L____ 、｀|ィノ‐、／｀￣　　｀´丶△ 、.|　　　　　　ヽ.| 
+　　　　　　　　　　　　　　　 以／　' .ィ> 丶、,'___ ||~　 n ,'｀　　｀　〕　　　 し彡〃 
+　　　　　　　　　　　 ／｀丶 ／　 ''　/　　　 /へ .||.　　U,' >‐´气ヽ、　　　　　　　　　　オイ待て作者 
+　　　　　　　　　　 < 、／／ /￣/｀v ` 　/　　　||　　　,ミヽ` 7丶/、　　　　　　　　　　誰がゼルベリオスもって来いと言った？ 
+　　　　　　　　　　 ゝ　／　 <　 ./　、从/<、　　 ,||　　 ,トゝ‐ > ノ　　｀丶、　　　　　　 ﾄﾞｯｸﾞｹｲﾉｷﾀｲﾃﾞｽﾗﾅｲﾀﾞﾛjk 
+　　　　　　　　 ／　／ 　　 <. /　 /　｀>　/ >　　 ヽ___,'　　　＼　`丶　 」｀ヽ, 
+　　　　　　　／　／ 　　　 .ゝ/　 |　 , 'ノ/ /　　　　　　　　　　　｀￣｀￢‐‐´ 
+
+
+
+
+
+
+520 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:45:30 ID:PAGJ2c3I
+
+
+
+
+　　 　 　 　 ;ｲi i|::::::::::::/　　　　　 　 　 /¨! ￣￣: : :.｀ヽ. 　 l: 
+　　　 　 　 :1|l! |::::::::::::ゝ．_　　　　 　 /　 |　 . : : : : : : : ﾍ　 i!: 
+　　　 　 　 ゞ=≦三￣≧=-≧＝＝=ｧｨ＝ﾐ､　　　. : : : : : :.　i!:　　　勿論スコープドッグ自体には気密保持やクーラーなんてものはないから 
+　　　　　　ﾑ斗ﾐ:､　. : : :ヾミ:､ 　 　 //　__　 ＼ 　 . : : : : : i:　l:　　　その辺は全てパイロットスーツに依存する事になるお 
+　　　　γ1fiヽ.:.:.:ヾ: .: .: :ｲ　　｀ヾ:､'/　/￣:＼　＼　. .: : :.　l:　l: 
+　　 　 r≦Ⅷ:j.:.:.:.:j!: : :,ﾉ`ー＝ｧ-'/　/: : : .　 ） 　 ヽ: : : :　 l:　l: 
+　　　　Ⅷ.:ゝｨﾆ二ﾑ匕’:::::::::_ノ / i　 ゝ- 一 '　 　 ｲ-―ｚ=ﾕ-┴―- 
+　　　　ゝ'ｫ7" :｀ヾｰｬ-‐=ﾆ¨　 ,′廴_＿__ . ．-匕 ﾉ,．´ . : : : : : : : : : 
+　　　　　 ,ｨ’　　　ヽ､｀ヽ:、　　{　　￣　__ . ．=ﾆヲ" . : : : : : : : : : : : : 
+　　　　 /く　:　: : : . . ｀ヽ　Y 　 `ゞ=≠彡'"￣７´ . : : : : : : : : : : : : : :　　　こうしてみるとある種合理的とも思えるお 
+　　　 ,く.: : ＼: : : .　　　 ）.ﾉ_..．=≦´ _.．-‐フ’. : : : : : : : : : : : : : : : : 
+　　　/. :＼　 ヽ　　. :／イ彡 '´_.．≦　ｧﾌ /　. : : : : : : : : : : : : : : : : : 
+　　 ﾑ. : 　 ヽ: :i}　 斗(（_≦ｭ=彡'ｱｲ　　 ,ｨ　. : : : : : : : : : : : : : : : : : : 
+　　7¨ﾆミ: : ｊi才ァ’　　｀ﾌ/{　厂´ 　 ／: :|　: : : : : : : : : : : : : : : : : : : 
+
+
+
+
+
+
+521 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:46:06 ID:PAGJ2c3I
+
+
+
+
+　 　 　 　 　 ／￣￣＼ 
+　 　 　 　 ／　　_ノ　 　＼ 
+　　　　　｜　　（ ●）（ ●）　　　さて、スレでの使い方だが 
+　 　 　 　 | 　 　 　（__人__）　　　作品内や設定から来る汎用性から基本何とでも使える 
+　 　 　 　｜　　　 　｀⌒ ´ｌ 
+　　　　　 ｜ 　 　　　 　　}　　　　ある意味ザクみたいなキャラだ 
+　　　　　　ヽ 　　　　 　　} 
+　　　　　　　ゝ　　　　　丿　　　　　　　　　　　　　　　ただちょっとロボ作品知らない人にとっては 
+　 __＿＿（￣￣　　　 /￣￣/´￣/＿　　　　　　　　馴染みがないのが欠点だが 
+i⌒ゝ、　　ヽ　ヽ.　 　/ 　 　/　 ⊂) 　i⌒ゝ、 
+i;;;;;;;;;;|＿＿　Ｌ人　　￣￣｀´￣ ノ_＿i;;;;;;;;;;| 
+
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼ 
+　 ／　　─　 　 ─＼　　　　　　　　主人公が好んで乗っていたことから主役機にしてもよし 
+／ 　　 （●） 　（●） ＼　　　　　　 ヤラレ役として纏めて撃破するのも良し 
+|　 　　 　 （__人__）　 　 | 
+./　　　　 ∩ノ ⊃　　／　　　　　　　勿論一作品内で両方の役をやらせてもいいお 
+(　 ＼　／ ＿ノ　|　 | 
+.＼　“　　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+
+522 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/12/14 21:46:39 ID:PAGJ2c3I
+
+
+
+
+　　　　　　　　　　　　／￣￣＼ 
+　　　　　　　　 　　／　_ノ　 ＼ ＼ 
+　　　　　　　 　　　| 　（●）（●）　|　　　AAの数は十分、一通りやらすのに困る事はないだろ 
+　　　　　　　　　　 |　　（__人__）　 | 
+　　　　　　　　　 　|　　 ｀ ⌒´ﾉ　 | 
+　　　　　　　　　　 ヽ　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　　　＿＿＿ 
+　　　　　 　　　__,, -ヽ　　　　 　ノ　-､　　　　　　　　　　　　　　　　　　　　　　　／　　　　 ＼ 
+　　　　 　 　/⌒ヽ　 |　＼＞<ﾍl　ヽ　＼ .　　　　　　　　　　　　　　　　 　 　 ／　―　　―　 ＼　　　　　使い勝手のいい汎用ロボをお探しならこいつをどうぞ 
+　　　 　 　 {:::　　 l　 ＼　ヽ };;{ | 　 | i　 }　　　　　　 　 　 　 　 　 　 　 　 ／　 （●） 　（●）　 ＼ 
+　　　　　　 {:::::..　〈;;,, 　ヽ　V;;;}ﾉ　　l彡 ヽ　　　　　　　　　　　　　　　　　 |　　　　（__人__）　　 　 | 
+　　　 　 　 |::::::::　 ヽ--､ ＼ >--'⌒ヽ::.　 }　　　　　　　　　　　　　　　　　＼_ 　 　 ｀⌒´　　　 ／　　　　というあたりで今回はお終い 
+　　　　　　 |::::.....　　 }_,,.-‐''"~ヽ_,,.-し'::　　）_,　　　　　　　　　　　　　　. ／　,r'　lﾍ>＜／| 　,r'⌒ヽ　　　次の作者様よろしくお願いしますお 
+￣￣￣￣￣!::　　　/　　　 　 .::ﾉ::::::::::.　　ノ￣￣ ゛''‐- .,　　　　　　　　{ 　i | 　 | };;{ /　/ 　l 　　:::} 
+　　　　　　_ヽ,,　.;:::　　 _,,.-‐''"ー''--''￣　　　　　　　　　゛''‐＿　 　 　 / ミ_l　 　V;;;V　/　 ,,;;〉　..:::::} 
+　　　　　　　　｀ｰ---''" 　　　　　　　　　　　　　　　　　　　　　゛''‐- .,,_{ 　.::,r'⌒'--< ／ ､--/ 　::::::::| ゛''‐-,,_ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（　　::'し-.,,_,r'~゛''‐-.,,_{ 　　.....::::|'ィ ,_|　|| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ　　.::::::::::(,::. 　 　　　ﾞｉ　 　 :!.　|| |　|| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　￣''--''ー゛''‐-.,,_ 　　:::;.　,,r'_　|| |　|| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　゛''--ｰ´　　゛''‐- .,,_ 
+
+
+
+
+<hr size="２"/>
+
+
+
+
+
+
+　　　　＿＿
+　　 ／　　　＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）　　　　　　　　　　　 　＿＿＿_
+.　|　　　　 （__人__）　　　　　　　　　　　／　　　　　＼
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　 ／―　　 ―　 　＼　　　　　　なんかカンボジアの少年兵にスゲー人気だったらしいよ
+.　 |　　　　　　 　 }　　　　　　　　 ／ （● ）　（● ）　 　 ＼　　　　スコープドッグの安っぽさとかロボット乗りの絶望感とかが
+.　 ヽ　　　　　 　 }　　 　 ＼ 　 　 |　　　（__人__）　 　　 　　|　　　　心の琴線に触れたんだろーか…
+　　 ヽ　　　　　ノ　　　　 　 ＼　　＼　　　　　 　　　 　 _／
+　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　＼
+　　　|　　　　 ＼ 　＼　　　　(⌒二　　　　　 　 　 　 　 　 |
+　 　 |　　　　|ヽ、二⌒)、　 　 　 　 ＼　泳ぐ管理人｜　 |
+
+
+
+
+　　　　　　　　　ところで最近出たＯＶＡとかはどうだったんだろう？
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/2896/clap" id="fc2button-clap-2896" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-2896").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/5.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/2896/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８２" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-2896.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3573.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８９ (2011/08/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3572.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８８ (2011/08/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3002.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８７ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3001.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８６ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3000.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８５ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2999.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８４ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2953.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８３ (2011/01/05)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８２ (2010/12/19)			</li>
+<li class="relate_li">
+<a href="/blog-entry-2778.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８０ (2010/11/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2779.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８１ (2010/11/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2777.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７９ (2010/11/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2776.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７８ (2010/11/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2556.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　おまけ (2010/09/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2466.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７７ (2010/08/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1561.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　まとめ (2010/08/19)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８２" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/12/19 12:53 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html#comment_list" title="この記事のコメントを参照">CM(4)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/2896"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８２"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　　　/　　// 　 ／ &#45;. }｀ヽ.￣｀ヽ、 　　　 　　 /1,.イ/　　 { ｛ ノ/ ./　}　　　 lヽｰ&#45; ､ 　　　　　　/ i1 l´　　　ヽ&#45;&#45;_'／　/ 　 　 /　} ＼ ＼　　 　　　　　　　　　　　　　　　　　　　 ＿＿＿ 　　　　　 .{ &#45;､＼　　　　　　/　/　　　　　　　 　　　　　　　　　　　　　　　　　.|　　　｀ ⌒´ 　ﾉ 　　　　　　>､/ /　／　　>､＼ 　 　 /　/　　　　　　　　 　　　　　　　　　　　　　　＿／/ヽ　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-12-19T12:53:03+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2894.html" title="やる夫が陸上自衛隊少年工科学校に入るようです　第３５話　状況、ガス！">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2888.html" title="やる夫がタヒチの楽園で過ごすようです　　その３７">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment12207">[ 12207 ] <strong></strong></p>
+</div>
+<div class="comb">
+ゼルベリオスは「カラミティ・ドッグ」なんだけど…。<div class="comment_navi">
+[ 2010/12/19 16:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2896" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment12208">[ 12208 ] <strong></strong></p>
+</div>
+<div class="comb">
+あと全高3mじゃないだろ…ちょっと誤記が多すぎないか？<div class="comment_navi">
+[ 2010/12/19 16:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2896" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment12210">[ 12210 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>12207
+ゼルベリオスはATM-FX1
+ドック系ATはATM-09ST
+だから系列とは呼べないのでは？
+ 
+>>12208
+スマン<div class="comment_navi">
+[ 2010/12/19 17:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">No:4644</a>') } else {
+document.write("No:4644"); }
+</script>
+<noscript>
+<a href="" target="_blank">No:4644</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2896" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment12226">[ 12226 ] <strong></strong></p>
+</div>
+<div class="comb">
+鍛えた肉体の更なる延長うんたらのくだりが好きだ。<div class="comment_navi">
+[ 2010/12/19 23:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2896" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-2896.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="2896"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/2896-fe660c0a">http://oyoguyaruo.blog72.fc2.com/tb.php/2896-fe660c0a</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2894.html" title="やる夫が陸上自衛隊少年工科学校に入るようです　第３５話　状況、ガス！">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2888.html" title="やる夫がタヒチの楽園で過ごすようです　　その３７">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

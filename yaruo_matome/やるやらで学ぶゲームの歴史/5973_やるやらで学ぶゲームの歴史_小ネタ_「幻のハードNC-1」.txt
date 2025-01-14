@@ -1,0 +1,1177 @@
+<div class="article">
+
+
+
+
+
+
+┌──────────────────────────────┐
+│ファミコン中期から、PSが発表されるまでの頃、　　　　　　　　　　　　　 　 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 │
+│ナムコでもゲーム機を開発していたことは、本編で述べたとおりである。  │
+└──────────────────────────────┘
+
+　　　　　　　　　　　　　　 　 ＿
+　　　　　　　　　　 　 　 ／￣ ￣.＼
+　　 　 　 　 　 　 　 　 ,'　　　　　　 .ヽ
+　　　　　　　　　　　　 '､　　　　 　 　 }　　　　　 　 　 　 　 　 通称、「NC-1」だな。
+　　　　　　.ri　　　　　　`,　　　 　 　 ,'
+　　 　 ._,-､!.|　　　　　　 '、　　　 　 ,'
+　　 .〈~　　 ,'　　　　　　　 '､　　　　 `､._　　　　　　　　　　 　 1987年ごろから話が出始め、1992年ぐらいまで
+　　._f　　 ノ　　　　 ._ ,, ．-''　　　 　 　 ~"'' ‐- ．,
+　 .,'　　.〈　　　　,r."　　　　　　　　　　　　　　　　 `,　　 　 　 仕様変更を繰り返しながら開発していた。
+　 i　 　 ./　 .,.-'　　　　　　　　　　　　　　　　　　　 ',
+　,'　 　 i_／´　　　　　　　　 　 　 　 　 　 　 　 　 　 ',
+.,'　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ',
+i　　　　 　 　 _　． ,　　　　　　 　 　 　 　 　 　 　 　 　 ',
+.`.-.＝.-‐.''"´　　　',　　　　　　　　　　　　　　　　　　 　 ',
+　　　　　　　 　 　 .l　　　　　　　　 　 　 　 　 　 ,'',　　　　',
+　　　　　　　 　 　 l　　　　　 　 　 　 　 　 　 　 ,'...i　　　　.',
+　 　 　 　 　 　 　 l　　　　　　　　　 　 　 　 　 ,'　 .!　　　　.i
+　　　　　　　　　　l　　　　　　　　　　　　 　 　 |　　|　　　　.|
+
+　　↑　ナムコ　（配役：高木社長「THE IDOL M@STER」）
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ┌─────────────────────┐
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 │この、1987年がどういう年だったか、というと……　 │
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 └─────────────────────┘
+
+
+
+
+
+
+
+
+
+
+
+505 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:27:32 ID:WzR8wAQE [2/12]
+
+
+
+
+
+┌──────────────────────────┐
+│ナムコの任天堂からの最恵国待遇が打ち切られた年であり、  │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 │
+│ＮＥＣ「ＰＣエンジン」が発売された年でもあり……　　　　　　　　 │
+└──────────────────────────┘
+
+
+.　　　　　　　　　　　　　　　　　　 　 / 　 　 ,.ィｆ三ﾆヽ　　 ＼
+　　　　　　　　　　　　　　　　 　 　 /　 :.｛_,///ﾉ⌒ ｰ'　　　　',
+　　　　　　　　　　　　　　　　　　 ,ｲ三ミ ≧彡ヒ五ｿ.:.. 　 ｌ´ヽ '，
+　　　　　　　　　　　　　　　 　 　 {{化孑　　　　ー　　　　 |r} |　ｉ　　　　　　　　われわれが、PCエンジンで独自の路線を
+　　　　　　　　　　　　　 　 　 　 　 〉　ゝ-=_^ン　　　　 〈. |二' ∧
+　　　　　　　　　　　　　　 　 　 　 (　 r―― ´ ￣ ',　　　　ｰ.:　 ﾍ　　　　　　　模索していたころだな。
+　　　　　　　　　　 　 　 　 　 　 　 ヽ ｙ -‐‐-― 丶_'，　　　｜　 ﾐ
+　　　　　　　　　　　　　　　　　　　　|｜　三　　　　　‘，　　 :|　　幺
+　　　　　　　　　　　　　　　　　　　　|｜　}　　 　 　 　 :ﾊ　　.:| 　 　 ＼
+　　　　　　　　　　　　　　　　　　　 ﾊ｜　:.　　　 　 　 .:|｜／.:　　 ／;';';';'｀:.....
+　　　　　　　　　　　　　　　　　　　ｉ　/ 　 :..　　 　 　 .:.:l／　 　 ／;';';';';';';';';';';';'｀;'::::::::::::::...
+　　　　　　　　　　　 　 　 　 　 　 ヘ丶　　　　　　..:.:／:/ 　 ／;';';';';';';';';';';';';';';';';';';';';';';';';';'
+　　　 　 　 　 　 　 　 　 　....:::´;';';'|　　ー―――　　..:/.: ／;';';';';';';';';';';';';';';';';';';';';';';';';';';';';'
+　　　　　　　　　　　.........::´;';';';';';';';'| 　 }:.　　 }!:.　　 .:.' ／;';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';'
+　　　　........:::::::::;';';';';';';';';';';';';';';';';';';';| 　 !:　　 {:.　 　 ／;';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';'
+.:;';';';';´;';';';';';';';';';';';';';';';';';';';';';';';';';';';':'| 　 　 　 :.　 ／;';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';'
+;';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';'.|　　　　　／;';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';';'
+
+　　　　　　　　　　　　　　　↑　ハドソン　（配役：江田島平八「魁!男塾」）
+
+
+
+
+　　　　　　/"'-..,;;;;;;;;;;;;;｀''-..,,_;;;;;;;;;;;;;|;;;;;;;;;;;;..|
+　　　　 　 ﾄ:::::::::｀''- ..,, ;;;;;;;;;;;;｀'' -...., . .- ''´|
+　　　　　 i:::::::::::::::::::三　 ｀'' - ..,,;;;;;/;;;,,..-'イ;,
+　　　　 /ﾆ､::::::::::::::::三　 　 ､;;;;;; ｀"´ ,,,,,　i;;;i
+　　　　{ (　_',::::::::::/　　　　　　　　　　""　|/
+　　　　', 'くi ヾ:::::::i　　､､,,三、　 　 　,,.-、 i
+　　　　 ',､ヾヽi:::::i　　　'-ヽソヾ　　 /,'ｯﾌ､i　　　　　　　　(PCエンジンは)1987年10月30日発売でおじゃるぞ。
+　　　　　ヽ__.. i::::i　　　　､ ￣ﾉ　　| ;ﾆ ノ.i
+　　　　　ﾉ,.-|　i::i　　　　　　　　　 |　　　i
+.　　　　　　　i,ｨ''"',　　　　／､_　 ::::　　 /
+　　　　　　 /',',',　 ',　　／　　　ヽ_ノ　 /
+.　　　　　 ｲ',',',',', ', ',　( ,.---::;;;;､_,. } /
+　　　　　/ '',',',',',', ', ',- ､　,.__`ｰ´ノノ
+　　 ,.-イ　　''',',',.',', ',:',　　　　,ノ ／､,,、
+　 (　 {´　　　 ',',',',', :',.','---─ '´ﾘ　 ', ヽ
+''´´ヽ((''- ..,　　',',',',', .',.',ソ　 ./ /　　　',) }ｰ..,,,　　 　 　 　 　 　 ┌──────────────────────┐
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│各メーカーが、ファミコンの「次の世代」というものを　 │
+　　　　　　↑　NEC　（配役：麻呂）　　　　　　　　　　 　 　 　 │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│見据え始めた世代、ということができるだろう。　　　　│
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　└──────────────────────┘
+
+
+
+
+
+506 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:28:23 ID:WzR8wAQE
+
+
+
+
+
+┌───────────────────────────┐
+│一方で、開発が完全に打ち切られた1992年は、　　　 　 　 　 　 　 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 │
+│ナムコに、プレイステーションの情報がもちこまれ、　　　　　　　　  │
+└───────────────────────────┘
+
+　　　　／´: : : : : : : : : : : : : : : : : : : }}: : : : :｀:ヽ､
+　　 ﾍ||: : : : : : : , :r ,=_'_‐_´_ ｀ '‐= JL: : : : : : : : ヽ
+　 |: ||:||, - , = r´': /　,-, フ　｀ '_r‐>-､= -､: : : : : : }
+　 ﾍ: >/竺ヽ}: : : r　//:|´　r‐'´／　　　ヽ: : ヽ: : : /
+　　ヽ{ !焦ﾝﾉ 二 }　ﾉﾆﾉ .ﾉ　 人　／_ノ　 ＼: :ﾍ:/
+　　　{｀'‐'-´ ‐::´:｀´ﾉ人､ ヽ　ﾍ　´ﾉ　　､　　ヽ-‐,ヘ､
+　　　{／::´::::::::::::／{　 ・ヽ, ノ､‐｀/　｀i　　　　　/　　 ｀＼　　　　　　　　　　　　まあ、我々の登場で、実質
+　　 /:::::::::::, r ' ´ 　ﾍ　ノ　　　ヽ＿,,､ !､　　　/　　　　　　 ｀　､
+　　/,::: r'i´ﾟﾉ　　　　 ｀　　　　　　　|　＼_　ノ　　　　　　　　　ﾍ: :＼　　　　　　　開発が終了した、ということだね。
+　　'´　 | ｀r　_ - ､ 　 　 　 　 　 　 |　　／　　　　　　　　　　／: : : :
+　　　　 .|　'ヽ　ﾜ '　　　　　　　　　 | ／　　　　　　　　　 ／ｸ: : : :
+　　　　　|　　｀　　 _ , -― ' ‐_､　　ヽ､　　　　　_ , - ‐ ': : : : : : : :
+　　　　　 ﾍ　　r_'´- ‐　￣　　　　　 r｀ヽ､＜: : : : : : : : : : : : : :
+　　　　　　 ヽ　　　　　　　　　　　　ノ　　ヽ ＼: : : : : : : : : : : : : :
+　　　　　　　 ﾍ　　　　　　　,　‐　´´ ￣￣ >==≧: : : : : : : : : : : :
+　　　　　　　　 ' - -, ､r = ´ _, - ‐_, '''''／: : : : : : : ＼: : : : : : : : :
+　　　　　　　　　 /‐=｀|　 r'´r―ﾂ ´ ~: : : : : : : :
+　　　　　　　　　{-‐i　.|, -'―': : : : : ○: : : : : : :
+　　　　　　　rﾉ´=´ノ: : : : : : : : : : : : : : : : : : : :
+　　　　, r'r,´=＝´: : : : : : : : : : : : : : : : : : : : : :
+
+　↑　久夛良木健／SCE　（配役：新城直衛「皇国の守護者」）
+
+
+　　　　　　　　　　　　　　　　 　 　 　 　 　 ┌───────────────────────────────┐
+　　　　　　　　　　　　　　　　 　 　 　 　 　 │SCEのPSプロジェクトへの参加が決まりかけた頃、ということになる　　　　 │
+　　　　　　　　　　　　　　　　 　 　 　 　 　 └───────────────────────────────┘
+
+
+
+
+
+507 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:29:30 ID:WzR8wAQE [4/12]
+
+
+
+
+
+┌────────────────────────┐
+│ソニーが任天堂との提携を解消されたのが1991年6月。　 │
+└────────────────────────┘
+┌───────────────────────────────┐
+│SCEは、そこから1年の時をかけてプレイステーションの開発を具体化し、　 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 │
+│ナムコに協力をよびかけた、という考えるのが自然だろう。　　　　　 　 　 　 │
+└───────────────────────────────┘
+
+　　　　　　 　 　 ＿
+　　　　　　　 .／.ﾆ三"''-､
+　　　　　 　 /三三三三ミヽ
+　　 　 　 　 |ニ三三三ニノ　　　　　　　　　　　　自社でつくるより、
+　　　　　 　 ',ﾆ三三三ミﾉ
+　 　 　 　 　 .i三三三三'､　　　　　　　　　　　　　あちらに参加したほうがメリットが大きい、と
+　 　 　 　 ,.､ﾉﾆ三三ﾐノ､>ヽ
+　　　_,r.'"ニ三三ﾆ.└.ゝﾆミ〉　　　　　　　　　　　判断したわけだな、つまり。
+., -.''三三三三三三三三三｀.ヽ
+|三三三三三三三三三三三ミ',
+',ニ三三三三三三三三三三三',
+. ',ニ三三三三三三三三三三三',
+　 ',三三三三三三三三三三三ﾆ.i
+　 .`、三三三三三三三三三三三}
+　　 .`､ﾆ三三三三三三三三三ミ,'
+　　 　 ヽ三三三三三三三三ミl`´
+　 　 　 .}ニ三三三三三三三ﾆ.l
+　　　 ./三三三三三三三三三.|
+
+
+
+
+
+508 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:29:49 ID:WzR8wAQE
+
+
+
+
+
+┌─────────────────────┐
+│さて、この発売されなかったハード「NC－１」だが。 │
+└─────────────────────┘
+
+
+　　　　　　　　　　　　　　　　　 　 　 　 　 ┌──────────────────────┐
+　　　　　　　　　　　　　　　　　 　 　 　 　 │実は、この開発中のNC-1を、PSの情報を持ってきた│
+　　　　　　　　　　　　　　　　　 　 　 　 　 │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+　　　　　　　　　　　　　　　　　 　 　 　 　 │久夛良木氏本人に見せたことがあったという。　　　　 │
+　　　　　　　　　　　　　　　　　 　 　 　 　 └──────────────────────┘
+
+
+　　　　　　　 　 　 　 　 .＿
+　　　　　　　　　　　　　／￣ ￣.＼
+　　　　　　　　　　　　.,'　　　　　　 .ヽ
+　　　　　　　 　 　 　 .'､　　　　 　 　 }
+　　　　　　　　　　　　 .`,　　　 　 　 ,'
+　　　　　　　　　　 　 　 '、　　　 　 ,'　　　　　　　　　　　　　　　　　　ああ、そういえば、ウチの試作してたヤツも
+　　　　　　　　　　　　 　 .'､　　　　 `､._
+　　　　　　　　　　　_ ,, ．-''　　　 　 　 ~"'' ‐- ．,,　　　　　　　　　　　みてみますか？
+　　　　　　　　　 ,.'　　　　 　 　 　 　 　 　 　 　 　 ＼
+　　　　　　 　 ／　　　　　　　　　　　　　　　　　　 　 `',
+　　　　　 ._／　　　　　　　　　　　　　　　　　 　 　 　 　 ＼
+　　　　／　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ＼
+. 　 ／　　　　　　　　　　　　　　　　　　　　　　　 ヘ　 　 　 　 ヽ
+.／　　 　 .,． '" i　　　　　　 　 　 　 　 　 　 　 /　　 ` .､　 　 　 ヽ
+',　　　 ､‐' 　 　 .l　　　　　　　　　　　 　 　 　 ,'　　 　　　7 　 　 　 〉
+..'.,　 　 ',　 　 　 .l　　　　　　 　 　 　 　 　 　 ,'　　　 　 ./　 　 　 ,.'
+　.`、　 .`、　 　 l　　　　　　　　 　 　 　 　 　l　 　 　 .,.'　　 　 , '
+　　`、 　 `、　 .l　　　　　　　　 　 　 　 　 　 l　　　／ 　 　 , '
+
+
+　　　　　　　　　　　　　　　　 ┌─────────────────────────────┐
+　　　　　　　　　　　　　　　　 │そのときの氏の反応が、　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 │
+　　　　　　　　　　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 │
+　　　　　　　　　　　　　　　　 │"SHOOTING GAME SIDE" VOL7(2013/05/31発行)に記されている。  │
+　　　　　　　　　　　　　　　　 └─────────────────────────────┘
+
+
+　　　　　　　_ , r ‐ ' ´￣￣｀ ' ‐ - ､
+　　　　　 r'´;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;｀'i
+　　　　　 {;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}
+　　　　　 };;;;;;;r'''´ 　_,m--- ,, _｀'''‐'-'}
+　　　　　　|。‐,,,'''´-‐´｀￣‐;;;--｀,,。‐|
+　　 　 　 iヽ;'´>､,;;;;;;;;;;;;;;;;;;;,;;;;;r'´ヽ ;r´｀}
+　　　 ,,r;;{ヽ;　' （ ・｀i'/i‐''''´!　・　}　| r　};;ヽ
+　　/;;;;;;;;;ﾍ ﾖ 　 ｀ｰ'　r'　　 ｀ｰ‐´　 | ' ﾉ;;;　ヽ　　　　　　それはぜひとも。
+　r';;;;;;;;;;;;;;;;;｀|　　　　 =､=　　　　　 |'´;;;,r'´,;;;}
+　{　ヽ､;;;;;;;;;;;;|　　　　　　＿　　　　|;;'／／;;;;;ヽ,
+´ﾍ;;;､　　ヽ'､;ﾍ､　'´￣￣　 ￣｀ ノ　／;;;;;;;）ヽ /ヽ
+　!､''　､　;;;;;,, ヽ;;;ヽ､　　　　, r;'／／;;;;;;;;;'''´／/　 ヽ
+　　ヽ;;;;;,,,　ヽ､　ヽ;;;;｀ー‐‐´;;'／;;;;''''''　´／
+
+
+
+
+
+509 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:30:25 ID:WzR8wAQE
+
+
+
+
+
+　 　 　 　 　 　 　 　 ／　　_,,-‐''゛゛￣゛ '''' ‐- ,,,,　　＼
+　　　　　　　　　　／　　／　.､ -‐ ''''゛゛゛゛゛ ''‐-,,｀＼ 　ﾞｉ
+　　　　　 　 　 　 l　　./／´ ｧo=ﾐ''フ ン ゛゛゛ ''''=Θ〆　l,
+　　　　　 　 　 　 |　 //　／:::::/ ､‐'゛ﾞ,,=,,゛'‐- ,,_　゛'';;)　〉
+　 　 　 　 　 　 　 'く|i´／:::::::::::l 　'　i´　　l｀゛;ゝ'､ｪ_　　'〈
+　　　 　 　 　 　 　 ,,r'､ﾆ' ,:::::::::i 　　 ｀‐・ゝ,　` 　l,-゛,ﾄ-｀＼
+　　　　 　 　 　 　 ..l..{::`:::':::..''ﾞ 　　　　　　　　　　'・ l l　　 ｀´
+　　　　　　　　　､ -‐――- ::,　　　 　　　 　　ﾃ､/ ｀i　　　　　　　　　　　　　　　………………。
+　　 　 　 ､/ッ:´:::::::::::'' ,,''''';;;;;;;＼　､ -‐- .._　　´ 　　l
+　　　／／,,,;;;;;;;;;;;;;;;;;;;;;,,,　　''''';;;;;;＼ ｀｀゛' ‐｀、,　 　/
+　　 ､.ッ;;;;;;'''',,,,,,;;;;;;;;;;;;;;;;;;''';;;;;;;;,,,,''''';;;l.　 　　　｀' 　/
+　　 .ﾞｉ;;;;;,,,;;;;;;'''''''゛､ ＜;;;;''´＼ : : : :ﾞｉ,|::::.　　　 　 /
+　　/;;;;;／　＜;;;;;;,,,,,,,,,,,,'''''''';;;;;;l: : : : :| ゛::;::'' ‐-ノ;;;;;;;｀ヽ
+　　 　 ,,,,,,,,,,　　　゛''''''';;;;;;;;;;;;,,,,''(,: : : :|l::::: ;;;;i l;;;;;;;;;;; .:::::'
+　 　 ; ; ; ;;;;;;;;;;;;;;;;,,,,,,　　'''''';;;;;;;;;;i : : :ﾞｉ;;;;;;;;;;ﾘl;;;;;;;;;; ::. .　:::..
+　　　; ; ; ; ; ; ;;;;;;;;'';;;;;;;;,,　　c ''';;;;ﾞｉ: : :|;;;;;;;;;;;;;;;;;;;;;;;;;; ::::. .::　::
+　　　; ; ; ; ; ; ; ; ;;;;,　,,''';;;' ',' ,　　'';;!､: :l;;;;;;;;;;;;;;;;;;;; _､ -‐l::....::::
+　 　 ; ; ; ; ; ; ; ; ; ;;;;;,　'';;,,'';;'',,'' , c '';｀'‐｀'';;､-,;;;;;;;;;| 　　l,,,,,,,,,,,,,
+　　　.; ; ; ; ; ; ; ; ; ;;;;;;ﾞｉ　'';;;,';ﾞｉﾞｉ''‐- ,｀'r;;;;;;;;'/;;;;;;;;;;;l 　　|;;;;;;;;;;;;;;;;;＼
+
+
+
+
+
+510 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:31:04 ID:WzR8wAQE
+
+
+
+
+
+　 　 　 　 　 　 　 　 ／　　_,,-‐''゛゛￣゛ '''' ‐- ,,,,　　＼
+　　　　　　　　　　／　　／　.､ -‐ ''''゛゛゛゛゛ ''‐-,,｀＼ 　ﾞｉ
+　　　　　 　 　 　 l　　./／´ ｧo=ﾐ''フ ン ゛゛゛ ''''=Θ〆　l,
+　　　　　 　 　 　 |　 //　／:::::/ ､‐'゛ﾞ,,=,,゛'‐- ,,_　゛'';;)　〉
+　 　 　 　 　 　 　 'く|i´／:::::::::::l 　'　i´　　l｀゛;ゝ'､ｪ_　　'〈
+　　　 　 　 　 　 　 ,,r'､ﾆ' ,:::::::::i 　　 ｀‐・ゝ,　` 　l,-゛,ﾄ-｀＼
+　　　　 　 　 　 　 ..l..{::`:::':::..''ﾞ 　　　　　　　　　　'・ l l　　 ｀´
+　　　　　　　　　､ -‐――- ::,　　　 　　　 　　ﾃ､/ ｀i　　　　　　　　　　　　　　　………………。
+　　 　 　 ､/ッ:´:::::::::::'' ,,''''';;;;;;;＼　､ -‐- .._　　´ 　　l
+　　　／／,,,;;;;;;;;;;;;;;;;;;;;;,,,　　''''';;;;;;＼ ｀｀゛' ‐｀、,　 　/　　　　　　　　　　　　　　　…………。
+　　 ､.ッ;;;;;;'''',,,,,,;;;;;;;;;;;;;;;;;;''';;;;;;;;,,,,''''';;;l.　 　　　｀' 　/
+　　 .ﾞｉ;;;;;,,,;;;;;;'''''''゛､ ＜;;;;''´＼ : : : :ﾞｉ,|::::.　　　 　 /
+　　/;;;;;／　＜;;;;;;,,,,,,,,,,,,'''''''';;;;;;l: : : : :| ゛::;::'' ‐-ノ;;;;;;;｀ヽ
+　　 　 ,,,,,,,,,,　　　゛''''''';;;;;;;;;;;;,,,,''(,: : : :|l::::: ;;;;i l;;;;;;;;;;; .:::::'
+　 　 ; ; ; ;;;;;;;;;;;;;;;;,,,,,,　　'''''';;;;;;;;;;i : : :ﾞｉ;;;;;;;;;;ﾘl;;;;;;;;;; ::. .　:::..
+　　　; ; ; ; ; ; ;;;;;;;;'';;;;;;;;,,　　c ''';;;;ﾞｉ: : :|;;;;;;;;;;;;;;;;;;;;;;;;;; ::::. .::　::
+　　　; ; ; ; ; ; ; ; ;;;;,　,,''';;;' ',' ,　　'';;!､: :l;;;;;;;;;;;;;;;;;;;; _､ -‐l::....::::
+　 　 ; ; ; ; ; ; ; ; ; ;;;;;,　'';;,,'';;'',,'' , c '';｀'‐｀'';;､-,;;;;;;;;;| 　　l,,,,,,,,,,,,,
+　　　.; ; ; ; ; ; ; ; ; ;;;;;;ﾞｉ　'';;;,';ﾞｉﾞｉ''‐- ,｀'r;;;;;;;;'/;;;;;;;;;;;l 　　|;;;;;;;;;;;;;;;;;＼
+
+
+
+
+
+511 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:31:39 ID:WzR8wAQE
+
+
+
+
+　　　　　 　 　 　 　 _, -‐‐';;´;;;;;; _ ...'''' -‐===‐- ､ヽ
+　 　 　 　 　　,,　( )￣;; ..　-‐ ' ´ ;;;;;;;;;;;;;;;;;;;;;;;;;,,,　 ''';;;ヽ.
+　　 　 ,,, -'''　_,,, '"ヾヽ､ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;'''　　'';;;;ヽ
+　　''''　_,,　-''':::::::::::::::,ヽ､ ヽ､ _ ;;;;;; ＿ ..... ---―‐--―‐‐ヽ
+　　, ´ _ ｀:::::::::::::,,::''''　 ''ﾞ｀ヽ､ ＿＿＿ 　, .,,,､ｧｰ,--,-‐―_-_ゝ
+　/　/ 　｀;;:::::,,'' 　　 　　　　'´ ----―･ﾅ´,ﾞ〃ｼ　 l
+　i　i. <　 ;;::::;　　　　　　　　　　｀￣￣-‐´-___ｭz.　 `､　　　　　 　 　 　 　 ナムコさんって、89年ぐらいから
+　!　ﾄ 〈 　''::;　　　　　　　　　　　 　　´　 　 　 　 　 　 /
+　､ヽ`ｰ ､.l !　　　　 　 　　　 　 　　　　　　　　　　　__/　　　 　 　 　 　 　 ずっとポリゴンに力入れてきたのに……
+　:ヽ､ｰﾞ'´ ,､　　　　　　　　　　　　　　　　　　　ｨ, ´, ´ ,,
+　"'',, ￣ ､､ヽ　　　　　　　　　　　　　　　　　 　 ,У､　",,
+　､　,,""ｯ, ヾ.､　 　 　 　 /／￣,￣二ニニﾆﾆﾁ./ ,:.:.:.,i　 '',,
+　"'' ,, 　 '',,:.:｀〒＝=ﾐ､ 　ヾｰ´￣　.＿　 　　　l'　/:.:.:.l|　 ,,''
+　　　 "'' ,,　 '',,:.:.:.:`:.､ `〒＝=＝〒￣ヾ　 　 / /:.:.::.:.i|　,,''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;仆''从,,､::::ﾍ
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;/;;;;;;;;''/'''从"''从　　　　|;;;;;;/
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;/;/;;''''/''''''仆　　　　　　　　　　　|;;;;|
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;彳"从''''　　　　　　　　　i　ﾍ　　　　,,,,,, |;;|､
+;;;;;;;;;;;;;;;;;;;;;;;;;;;彡　　　　　　　　　　　,, ﾉ　　＼,,;;;;''''''''''' }　}
+;;;;;;;;;;;;;;;;;;;;〃　　　　　　　　　,,,,,,;;;;'''''/　　　　/　＿,,!､´|　}
+;;;;;;;;;;;;;;;;;;;;;;;彡　　 　,,,,,,,;;;;;;,;;'''''　 　　　　　 ﾍ＝・― ,'　|ﾉ
+;;;;;;;;;;;;;;;;;;;彳　　　　,;;''　r ― '' _了　ゝ　　　 ヽ､｀ ‐　　 }　　　　　　　　  なんでこんな２Ｄのハードを
+､ヽ､;;;;;;;;;彡　　　　 '　 ´-=＝・-‐'　　　　　　　 ｀ヽ,　　 }
+　iヽ　'''';;;　　　　　　　　　　　　　　　　　　 　 　 　 |　　 |　　　　　　　　 「今頃」作ってるんですか
+､ ｀ !!､　　　　　　　 　 　 　 　 　 　 　 　 　 ／￣/´　　 |
+ヽ　､ヽ､i　　　　　　　　　　　　　　　　　 　 ｀ へ !´　 ､　|,,
+　ヽ　＼ て　　　　　 　 _,,,,, -''''　　　　　　　　　　　／｀/: '',,　　　　　　　　　（※ほぼ原文ママ）
+　　 ＼　＼从　　 　 　 !ヽ'''――ー - ｰ ―ー-‐τ　/: : : : ' ,,
+"　〃　ヽ　＼　从　　　　 ヽ,''‐､-‐- -‐ｰ-‐''ﾌ´/ﾉ ./: : : 　　　{
+　"　"〃　ヽ　　､　从 　　　　ヽ ､｀ ''' ー ‐ ´_ノ　 r'､: : ,　〃　=　´ .
+"',　 　〃　　＼　＼.　 !､= - ､　　　｀ ""　￣　　 /=　{} }　　"　 {　＼ .
+　　　　　　 　 　 　 ヽ 　仆ヽヽヽ､　　　　r 'ﾍ　 ノ＝ﾉﾉ　}
+　　　　　　　　　　ヽ　i　从ヽヽヽヽ　_/　rヽ=´ノi i　ﾉ
+
+
+
+
+
+512 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:32:43 ID:WzR8wAQE
+
+
+
+
+
+┌───────────────────────────┐
+│……文中では、時期は明言されていないが、　　　 　 　 　 　 　 　 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 │
+│SCEがナムコを訪ねだした頃と考えるなら、９１年ごろだろうか。　│
+└───────────────────────────┘
+
+　　　　　　　　　　　 　 　 　 　 　 　 　 ＿___
+　　　　　　　　　　　　　　　　　　　　　 | ┌ |
+　　　　　　 　 　 ＿　　　　　　 　 　 ／..└┘
+　　　　　　　 .／　　~"''-､ ∧　　　 　 　 　 ,ｲ｀ヽ
+　　　　　 　 /　　　　　　 （__;）　　　 ー―'　r　j
+　　 　 　 　 |　　 　 　 　 .ノ　　　　　　　　 　 ｀´
+　　　　　 　 ', 　 　 　 　 ﾉ
+　 　 　 　 　 .i　 　 　 　 '､
+　 　 　 　 ,.､ﾉ　　　　_ノ､>ヽ
+　　　_,r.'"　　　　　 └.ゝ 　 〉
+., -.''　 　 　 　 　 　 　 　 　 ｀.ヽ
+|　　　　　　　　　　　　　　　　　',
+',　　　　　　　　　　　　　　 　 　 ',
+. ',　　　　　　　　　　　　　　 　 　 ',
+　 ',　　　　　　　　 　 　 　 　 　 　 i
+　 .`、　　　　　　　　　　　　　　　　}
+　　 .`､　　　　　　　　　　　　　　　,'
+　　 　 ヽ　　 　 　 　 　 　 　 　 l`´
+　 　 　 .}　　　　　 　 　 　 　 　 l
+　　　 ./　　　　　　　　　　 　 　 |
+
+　　　　　　　　　　　　　　　┌─────────────────────────┐
+　　　　　　　　　　　　　　　│どう考えても、ＳＣＥがＰＳのため、サードパーティを　 　 　 　 │
+　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 │
+　　　　　　　　　　　　　　　│必死になって集めようとしている時期のはずであり……　　　 │
+　　　　　　　　　　　　　　　└─────────────────────────┘
+
+┌─────────────────────────┐
+│まだ、９２年のバーチャレーシング、　　　　　　　　　　　　　 　 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 │
+│９３年のバーチャファイター、スターフォックスも出ておらず、  │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 │
+│ポリゴンの時代がくるのか、家庭用にその波まで来るのか、 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 │
+│まだまだわからなかった時代なのだが……　　　　　　　 　 　 │
+└─────────────────────────┘
+
+
+
+
+
+513 名前： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>[sage] 投稿日：2013/09/23(月) 19:33:25 ID:WzR8wAQE
+
+
+
+
+
+┌───────────────────────┐
+│「技術に関する識見で先をいっていた」という意味でも　 │
+└───────────────────────┘
+　　　　　　　┌─────────────────────────────┐
+　　　　　　　│「お前、同盟相手さがしにきてその発言はナイだろう」という意味でも。 │
+　　　　　　　└─────────────────────────────┘
+
+
+　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 , ‐=ﾆヽ
+　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 !_i　　） ）
+　　　　　　　_ , r ‐ ' ´￣￣｀ ' ‐ - ､　　　　　　　 ＿ノノ
+　　　　　 r'´;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;｀'i　　　　　 //￣
+　　　　　 {;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}　　　　  ◎
+　　　　　 };;;;;;;r'''´ 　_,m--- ,, _｀'''‐'-'}
+　　　　　　|。‐,,,'''´-‐´｀￣‐;;;--｀,,。‐|
+　　 　 　 iヽ;'´>､,;;;;;;;;;;;;;;;;;;;,;;;;;r'´ヽ ;r´｀}
+　　　 ,,r;;{ヽ;　' （ ・｀i'/i‐''''´!　・　}　| r　};;ヽ
+　　/;;;;;;;;;ﾍ ﾖ 　 ｀ｰ'　r'　　 ｀ｰ‐´　 | ' ﾉ;;;　ヽ
+　r';;;;;;;;;;;;;;;;;｀|　　　　 =､=　　　　　 |'´;;;,r'´,;;;}
+　{　ヽ､;;;;;;;;;;;;|　　　　　　＿　　　　|;;'／／;;;;;ヽ,
+´ﾍ;;;､　　ヽ'､;ﾍ､　'´￣￣　 ￣｀ ノ　／;;;;;;;）ヽ /ヽ
+　!､''　､　;;;;;,, ヽ;;;ヽ､　　　　, r;'／／;;;;;;;;;'''´／/　 ヽ
+　　ヽ;;;;;,,,　ヽ､　ヽ;;;;｀ー‐‐´;;'／;;;;''''''　´／
+
+
+
+
+┌──────────────────────────┐
+│やはり、コイツは「規格外の人物」と言う他ない気がする……。  │
+└──────────────────────────┘
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ┼ヽ　 -|r‐､.　ﾚ　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ｄ⌒)　./|　_ﾉ　 __ﾉ
+
+
+＜　１９８９年のナムコのポリゴンというと、「ウィニングラン」かな。
+
+＜　日本産初の３Ｄポリゴンレースゲームだろ。
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5973/clap" id="fc2button-clap-5973" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5973").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5973/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やるやらで学ぶゲームの歴史　小ネタ　「幻のハードNC-1」" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5973.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6431.html">
+					やるやらで学ぶゲームの歴史　小ネタ　信長の野望　創造 with PKをプレイしてみた (2015/01/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6316.html">
+					やるやらで学ぶゲームの歴史　外伝その１１　"史上最凶"への遠い道 (2014/05/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6259.html">
+					やるやらで学ぶゲームの歴史　外伝その１０　その時"歴史"が動いた (2014/03/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6207.html">
+					やるやらで学ぶゲームの歴史　小ネタ　テトリスと囲碁の関係 (2014/03/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6206.html">
+					やるやらで学ぶゲームの歴史　小ネタ「ゲームの審査にビデオを使うのってどうなの？」 (2014/03/08)				</a>
+</li>
+<li class="relate_li_nolink">
+				やるやらで学ぶゲームの歴史　小ネタ　「幻のハードNC-1」 (2013/10/01)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5731.html">
+					やるやらで学ぶゲームの歴史　外伝その９　「ファミマガ編集部奮闘記」 (2013/06/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5547.html">
+					やるやらで学ぶゲームの歴史　ゲームの歴史とは関係のないネタ２　「スクエニ本社で酒を飲んできたよ」 (2013/04/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5515.html">
+					やるやらで学ぶゲームの歴史　ゲームの歴史とは関係のないネタ「脱出ゲームに参加してきたよ」 (2013/04/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5256.html">
+					やるやらで学ぶゲームの歴史　小ネタ　大川功の名刺 (2013/01/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5196.html">
+					やるやらで学ぶゲームの歴史　埋めネタ　久夛良木健という男の実像 (2012/12/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5007.html">
+					やるやらで学ぶゲームの歴史　外伝その８　脳とゲームとその教授 (2012/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4565.html">
+					やるやらで学ぶゲームの歴史　小ネタ　検証「エニックスの例のコンテストは出来レースだったのか？」 (2012/05/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4453.html">
+					やるやらで学ぶゲームの歴史　小ネタ　ＰＣゲームの売上を（少しだけ）調べてみた (2012/05/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4368.html">
+					やるやらで学ぶゲームの歴史　小ネタ　デジキューブ顛末記 (2012/04/17)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やるやらで学ぶゲームの歴史　小ネタ　「幻のハードNC-1」" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/10/01 02:34 ]
+<a href="/blog-category-290.html" title="カテゴリを参照">ゲーム系　やるやらで学ぶゲームの歴史</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html#comment_list" title="この記事のコメントを参照">CM(27)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5973"
+    dc:title="やるやらで学ぶゲームの歴史　小ネタ　「幻のハードNC-1」"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html"
+    dc:subject="ゲーム系　やるやらで学ぶゲームの歴史"
+    dc:description="┌──────────────────────────────┐│ファミコン中期から、PSが発表されるまでの頃、　　　　　　　　　　　　　 　 ││　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ││ナムコでもゲーム機を開発していたことは、本編で述べたとおりである。&#8201; │└──────────────────────────────┘　　　　　　　　　　　　　　 　 ＿　　　　　　　　　　 　 　 ／￣ ￣.＼　　 　 　 　 　 　 　 ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-10-01T02:34:32+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5976.html" title="やる夫で学ぶ鉄道模型　第２７話　やる夫で学ぶ駅前都市開発　その1">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5972.html" title="やる夫は映画を一刀両断するようです　第十三回　「ブタがいた教室」">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment64130">[ 64130 ] <strong></strong></p>
+</div>
+<div class="comb">
+作者、久夛良木さん好きだな
+サターンやドリハャス作った当時のセガの技術者なんかのエピソードも読んでみたいんだけど、そういうのは無いのかなぁ<div class="comment_navi">
+[ 2013/10/01 04:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">408995</a>') } else {
+document.write("408995"); }
+</script>
+<noscript>
+<a href="" target="_blank">408995</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64140">[ 64140 ] <strong></strong></p>
+</div>
+<div class="comb">
+この頃の任天堂はまさに横暴で、ハドソン全面協力のＰＣエンジンとか、任天堂横暴の一番の要因であったＲＯＭカセット（とそれを流通する初心会）を完全排除したＣＤ-ＲＯＭ標準搭載のＰＳへの、サード大量離脱を招くんだよなあ。とはいえＰＳが天下とるとは思わなかったが。
+ 
+一番対抗馬になるべきだったセガは一時期その任天堂の駄目な部分を真似ようとしてたり…。<div class="comment_navi">
+[ 2013/10/01 08:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64156">[ 64156 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞任天堂の駄目な部分を真似ようと
+任天堂の流通ソフト厳選方式が、ＡＴＡＲＩショックの二の舞にならないための唯一の処方箋とされてたからじゃないの？<div class="comment_navi">
+[ 2013/10/01 10:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64160">[ 64160 ] <strong></strong></p>
+</div>
+<div class="comb">
+ポリゴンレースゲーって
+TINYANの「SeeNa」が完全に無視されている<div class="comment_navi">
+[ 2013/10/01 11:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64165">[ 64165 ] <strong></strong></p>
+</div>
+<div class="comb">
+こんなこと言われたのにローンチでリッジ出す関係になるとはw<div class="comment_navi">
+[ 2013/10/01 13:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64176">[ 64176 ] <strong></strong></p>
+</div>
+<div class="comb">
+当時ゲームソフト作りの経験がないハード屋のソニーとしては、
+ソフト屋大手のナムコが2Dハード作ってること聞かされたらびっくりするのは仕方無いようなｗ
+ポリゴンに見切り付ける方針なの？って疑問が湧いたんじゃ<div class="comment_navi">
+[ 2013/10/01 17:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64178">[ 64178 ] <strong></strong></p>
+</div>
+<div class="comb">
+同時期にACとの共通規格とはいえ
+2Dハードのネオジオ出したSNKって例もあるけど…
+<div class="comment_navi">
+[ 2013/10/01 17:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64179">[ 64179 ] <strong></strong></p>
+</div>
+<div class="comb">
+任天堂時代→一年の発売本数・発売日・製造本数・どこにどれだけ流通すべて任天堂(直属卸団体初心会)が決める、不人気ソフトと人気ソフトの抱き合わせ卸上等。
+製造本数が任天堂が決めるので下手すると在庫大量に抱え、売れた場合にも追加生産は数ヵ月後しないと応じてもらえない。
+ 
+ＰＳはＣＤの生産簡易さと音楽流通での経験を武器に、製造本数は百本単位で決めれる、追加注文は速対応し3日程度で店舗まで配送、おもちゃ屋以外の新たな流通網、ライセンス料の低減でサードを切り取った。
+ 
+この頃世界的なＲＯＭ供給不足でＲＯＭ価格高騰中だったのもでかい。後期スーファミソフトの高価さはそれが原因。ＰＳソフトの5800円は当時凄まじく安く感じた。
+ 
+ナムコが作っていたのはワルキューレなどでおなじみのシステム2をそのまま再現可能な性能予定。スプライトと回転拡大縮小の典型的2Ｄ基盤。<div class="comment_navi">
+[ 2013/10/01 18:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64182">[ 64182 ] <strong></strong></p>
+</div>
+<div class="comb">
+その代わり。小売への利益が減って
+所謂ゲーム屋さんがどんどん廃業していったがな。<div class="comment_navi">
+[ 2013/10/01 19:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64197">[ 64197 ] <strong></strong></p>
+</div>
+<div class="comb">
+PSの世代って丁度バブル崩壊中で不良債権だ貸しはがしだ
+果ては阪神大震災だオウムサリン事件だで景気も世情も最悪だったしなぁ
+さらには1ドル79円の超円高やらかした時代だし
+大規模小売店舗法だなんだでシャッター街が問題になり始めた時代だよな
+丁度バブルの寵児だったFC-SFC時代とは全然違うんだよな<div class="comment_navi">
+[ 2013/10/01 22:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64211">[ 64211 ] <strong></strong></p>
+</div>
+<div class="comb">
+「ドルアーガ」ワルキューレ」「源平」「ドラゴンスピリット」「妖怪道中記」「バルンバ」etc…
+PCエンジンがHuカードメインだった時期を支えていたのは間違いなくナムコだった<div class="comment_navi">
+[ 2013/10/02 10:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64234">[ 64234 ] <strong></strong></p>
+</div>
+<div class="comb">
+当時はポリゴンより、アニメ動画付のＲＰＧが大容量の使いみちだったからなぁ
+<div class="comment_navi">
+[ 2013/10/02 20:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64260">[ 64260 ] <strong></strong></p>
+</div>
+<div class="comb">
+PSはロイヤリティを低く設定しておいて、市場を独占したPS2の頃いきなり跳ね上がった
+丁度、PS2に1万円台のソフトがゴロゴロ出始めたぐらいだな
+新規参入サードは店畳んでDSに夜逃げしたｗ
+ 
+毎回、価格競争に巻き込んで価格破壊して同業者を潰した後に
+商品の値段を釣り上げるのがSONYのやり口なんだよな<div class="comment_navi">
+[ 2013/10/03 21:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64261">[ 64261 ] <strong></strong></p>
+</div>
+<div class="comb">
+※64260
+まぁ企業である以上、他者との競合に勝つための手段として価格合戦を含む殴り合いもやむをえないとこはあるだろうからねぇ
+それに勝ったのなら勝者として、それまでの経費を回収した上での利益の収穫に乗り出すのも仕方ない
+ただサードが逃げた一番の問題はやっぱ開発費だと思うんだ
+PS3にしろ他の同世代機にしろマシンスペックは申し分ないのだろうけど
+『さぁ最高の画材を用意した、最高の絵を描いてくれ。売れれば儲けは凄いぞ、でも売れなければ･･･』
+なんて言われてもそんな冒険は難しい。
+ましてや未来は大芸術家かもしれないけど、今はまだ絵が好きな子供ってだけの新進気鋭のゲームメーカーじゃ手も出せない。
+そういうメーカーや新しいことを試してみたい老舗の考えにピタリとはまったのがDSや3DSだったんだと思う。
+決して悪い意味ではない「程々の手頃な画材」、ソフトの採算が望めそうな本体販売台数といった背景が
+クリエイターのやってみたいという意思に金勘定側としてもGoをだせるって形になったんだと<div class="comment_navi">
+[ 2013/10/03 22:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64277">[ 64277 ] <strong></strong></p>
+</div>
+<div class="comb">
+※64260
+PS2に1万円台のソフトがゴロゴロなんてしてたっけ？
+デカい箱に特典を詰めた限定版くらいしか記憶にないんだが<div class="comment_navi">
+[ 2013/10/04 09:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64287">[ 64287 ] <strong></strong></p>
+</div>
+<div class="comb">
+ＰＳ2どころか、スーファミ後期と一時期の光栄製ソフト以外に、どのハードでも一万円台のソフトがゴロゴロしていた時期は無いなあ。<div class="comment_navi">
+[ 2013/10/04 14:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64377">[ 64377 ] <strong></strong></p>
+</div>
+<div class="comb">
+特典付きの限定版とかならまだしも、PS系ハードで1万円越えたソフトなんてあったっけ？<div class="comment_navi">
+[ 2013/10/05 23:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64386">[ 64386 ] <strong></strong></p>
+</div>
+<div class="comb">
+※64260
+SONYというかYahoo（ソフトバンク）のやりくちって感じだが<div class="comment_navi">
+[ 2013/10/06 07:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64389">[ 64389 ] <strong></strong></p>
+</div>
+<div class="comb">
+おうポリゴンに目もくれずアニメ特化に走ったPC-FXや
+32bit時代になってたのにメインCPUが68000で
+ポリゴンもシオシオだったアタリのジャガーさんの悪口はやめーや
+ 
+どっちも持ってるけど、どっちがまだマシなゲーム機と問われると返答に困るゲーム機だったな<div class="comment_navi">
+[ 2013/10/06 11:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment64410">[ 64410 ] <strong></strong></p>
+</div>
+<div class="comb">
+アタリジャガーが出たころはスーファミメガドラの１６ビット時代。ＰＣＦＸは３２ビット世代と同期だが。<div class="comment_navi">
+[ 2013/10/07 00:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment66627">[ 66627 ] <strong></strong></p>
+</div>
+<div class="comb">
+バーチャファイター以前の時代でその発言か・・・すごいことはすごいけど、よく言うわｗ<div class="comment_navi">
+[ 2013/11/06 10:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment67902">[ 67902 ] <strong></strong></p>
+</div>
+<div class="comb">
+　ちょうどこのあたりに、就活でナムコの面接を受けた。中村社長が、「（ハードを）出します！！」と明言したのを覚えている。<div class="comment_navi">
+[ 2013/12/11 16:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=67902" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment70999">[ 70999 ] <strong></strong></p>
+</div>
+<div class="comb">
+当時のナムコのアーケードシステム基板の名前が、
+NA1、NB1ときて次がND1と一文字飛ぶのはそういう訳か<div class="comment_navi">
+[ 2014/03/18 08:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72560">[ 72560 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本発のポリゴン３Ｄレースゲームは、プラズマラインだったと思う。宇宙船レースだけど。
+ 
+日本発のポリゴン使用３Ｄアーケードなら、ウィニングランで正解だけどね。<div class="comment_navi">
+[ 2014/05/22 18:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">電子の海から名無し様</a>') } else {
+document.write("電子の海から名無し様"); }
+</script>
+<noscript>
+<a href="" target="_blank">電子の海から名無し様</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment75553">[ 75553 ] <strong></strong></p>
+</div>
+<div class="comb">
+1ゲーム \500._ のヘッドマウントディスプレイ装着させられるシューティングゲームがアーケードで有ったよ。
+ナムコランド限定でゲーム中はそばにお店のヒトが常備で。
+ま、期間限定だったんだが。 デモプレイぢゃなくて本営業で。
+ 
+ 
+そのタイトルは憶えてないけど、最初の 中村製作所 3Dポリゴンゲームだと思う。<div class="comment_navi">
+[ 2014/11/11 17:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment78145">[ 78145 ] <strong></strong></p>
+</div>
+<div class="comb">
+※64260
+何でアンチソニーって平然と嘘を付くんだろう
+まるで朝鮮人並の思考だな<div class="comment_navi">
+[ 2015/03/03 01:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5973" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment90744">[ 90744 ] <strong>承認待ちコメント</strong></p>
+</div>
+<div class="comb">
+このコメントは管理者の承認待ちです<div class="comment_navi">
+[ 2017/06/18 11:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">-</a>') } else {
+document.write("-"); }
+</script>
+<noscript>
+<a href="" target="_blank">-</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5973.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5973"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5973-58c19a30">http://oyoguyaruo.blog72.fc2.com/tb.php/5973-58c19a30</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5976.html" title="やる夫で学ぶ鉄道模型　第２７話　やる夫で学ぶ駅前都市開発　その1">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5972.html" title="やる夫は映画を一刀両断するようです　第十三回　「ブタがいた教室」">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

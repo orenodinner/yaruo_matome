@@ -1,0 +1,840 @@
+<div class="article">
+
+
+
+
+
+　　　　／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣＼
+　　　　|　第211回　　　　　　　　　　　　　　　　　　　 　 |
+　　　　|　やる夫がどーたらでうんたらでかんたらー　|
+　　　　＼＿＿　 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿／
+　　　　　　　　 ∨
+
+　　　　　　　／￣＼
+　,---､　 ／　　　　 ＼　　 ,----､
+　|　　 l　|　 　 　 　 　 |　　|　　 　|　　 　 ,---､　　＿＿　　　　 ,----､
+　ﾞ|　　l'　|　 　 　 　 　 |　　ヽ　　/　　 　 |　　 l ／　　　　＼　　|　　　|
+　 |　　|　|　　 　 　　　 }　　　l　　|　　 　 ﾞ|　 ／　 　　　　　　＼ヽ　　/
+　 |　　|　ヽ　　　　　 　}　　／　 / 　　　　|　|　　　　　　　　　 　l　　|　＼_人＿人∧从＿人_∧_人_从_/／
+　　､　　＼_　　　　　ノ 　／　／　　 　　　|　＼　　　　　　　　／ 　/　　 )　　　　　　　　　　　　　　　　　 ＞
+　　　＼　　　 　　　'---´　／　　　 　　　　､　　＼ 　 　　　　´　／　　＜　　　　 適当乙！ 　　　　　　　＞
+　　　　 ＼　　 　 　 　　ィ　 　　　　　 　　　　＼　　　 　　 　　ィ　　　　　<　　　　　　　　　　　　　　　　　(
+　　　　　　|　　　　　　　|　　　　　　　　　　　　　　|　　　　　　　|　　　　　／＾Y￣∨￣∨^Y^⌒Y^YY^^Y^
+　　　　　　|　　　　　　　|　　　　　　　　　　　　　　|　　　　　　　|
+　　　　　　|　　　　　　　|　　　　　　　　　　　　　 /　 　 　 　 　 |
+　　　　　　|　　　l＼　　 ＼ 　　　　　　　　　　　/　　　 / |　　　|
+　　　　　　|　　　|　 ＼　　 |　　　　　　　　　 ／　　　／　|　　　|
+　　　　　　|　　　|　　 /　 / 　 　　　　　　　　＼　　　ヽ, /　　 /
+　　　　　　|　　　|　 < 　　ヽ　 　　　　　　　　　　＼__／〈　 　 ヽ
+　　　　　　L______ヽ　 ＼_／　　　　　　　　　　　　　　　　｀ﾞ‐-‐'"
+
+
+
+
+
+
+
+
+
+
+58 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:01:28 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　 ／￣￣＼
+    　　　／　　 _ノ　　＼
+    　　　|　　　 （ ●）（●
+    　　　|　　　 　 （__人__）　　　　はい、ということで紹介はキチっとするぞー
+    .　　　|　　　　　　　　ﾉ
+    　　　 |　 　 　 ∩ ノ ⊃　　　　 今回紹介させていただくキャラはこちら
+    　　／ 　 　 .／　＿ノ
+    　 (.　 ＼ ／　.／_ノ │
+    　　＼　 “　／_＿_|　 |
+    .　　　 ＼／ ＿＿＿ /
+
+
+
+    　　　　　　_,,,.....--‐===ー――===＝＝＝＝==ｰ‐‐-- ..,,__
+    　 _,,.-‐''"~,,.-‐'',ﾆ￣_..-‐'''"~´　　　iヽ、　　　　　￣｀ニｰ--ﾆｰ-..,,_
+    ''"　　,,‐ﾆ´‐''"ﾆ-''"　　　　　　　　 .i __ヽ,,_　　_,,.-‐ニ-----..,_｀''-..,_ヽ、　　 ,i
+    　　,.:"´,,.-''"´　　　　　　　 _,,.-=ｰ''ニ,=--,＝<,.--,,..-'''７.-‐'''""''ヽ==='-,..／i,.:i
+    　/　.／　　　　　　　　_,.-'"　,:´,:':´r/_!..--::::''"ヽヾ　　/ヽ、　　　_,,...｀=!､'"_／ i
+    /　／　　　　　　　 ,.-"　　　 ; .i:;/,<　　i'".ヽ.｀ヾ i,.ヽ /）　.ヽ　 ,:'　　　　　ヽ　　!
+    　/　　　　　　　,,.:"./i　　　　.; !:.i > ﾄ.,,_.'ｰ‐'　 _,-!）i .!､ヽ 　 i　!　 _,,...,_,.,　 .ヽ/
+    ,/!、　　　　　／,' ./　i　　　　:,ヾr-i.｀ﾆ"｀'''=ﾆ!'.丿.! ! i ! .;　　i_,i_r"　_,,..:'　　　i
+    　　　　　　,.:'　　 /　　!　　　　' ,ヽiヾﾆ,,_, _ ＝.r'-iﾉ ! i .i ｰ-,ﾉァ-,--,.-、　　 /,　　　 ┌─────────────┐
+    　　　　　,:'　_,,...V　　　i..,_.　　　 ' ,ヽ'、　" 'v､/::_:::::i　! .! i_く.ヾ. ヽ ヽ ヾ='''i､_!　　 　 │アルフォンス・エルリックだ　　....│
+    　　　　 ,'.-'"_,,...!--‐‐-!..、ヽ、　　 'i i,,____,-='-''､ヽ:!　! i.ﾉ! ,ゝ-ー'ー｀''　　ノ　　　　 └─────────────┘
+    　　　 ／,:'ニ-‐'''''iー,==,‐ﾆヽヽ　　.i !::::ri''i~ i ヽ,-!ﾉ_=ノi/ !､_￣）,,ノ´｀ー"
+    ￣￣￣//　　　　｀￣￣　　ヽヽ!.,,_ i !::::!_!,'-=＝''~　 ´　!　　 ￣
+    "''-,,_ ,' ,'　　　　　　　　　　　　i　　~"ｰ-,''"´　　　　　　.!
+    　　　.i .i、　　　＿__　　　　　　j i _,,..-''"!　　　　　　 ヽ .i
+    　　　 ! !::>. ,'"´　　 ￣'''‐:､ ,../! i､　｀"" ￣ "" '''''''''' ァ',-,-‐''''フヽ
+    　　　ヽヽ! ｀　_,,......,_　　　 !/_!_/__＼　　　　　　　　 ./,-i ,-‐'''.ﾆ-.i'
+    　　　　ヽヽ ,."　,..-―-,..-''"　　　ﾆ＝i,,.....,,,,,,__＿／/ .,' -‐'''"　ノ
+    　　　　　! ヽ, ,:ヾ''i　／　　　　　 (_rニ...,,,_____,,.-/　i　 i　,,.-‐フ´
+    　　　　　ヽ_,,.!、　 /ヽ、　　　　　　　　　　　　 ./,　i　 i　 _,,-''
+    　　　　　　i､'i‐_,,.ﾉ　 /ヽ、　　　　　　　　　　 ./i_!__!- ',r'
+    　　　　 .,,-ｰ''"　　,,.'　　　ヽ 、　　　　　　　　i　　　,ノ
+
+
+
+
+
+59 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:02:30 ID:mRZ5RDKV
+
+
+
+
+
+    　 　　　＿＿＿_
+    　　　／　　 　 　＼
+    　 ／　　─　 　 ─＼
+    ／ 　　 （●） 　（●） ＼　　　エルリックっつーと
+    |　 　　 　 （__人__）　 　 |　　　なんだか最近聞いた覚えがある気がするお？
+    ./　　　　 ∩ノ ⊃　　／
+    (　 ＼　／ ＿ノ　|　 |
+    .＼　“　　／＿＿|　 |
+    　　＼ ／＿＿＿ ／
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／ _ノ　 .ヽ、＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　 （●）（●）　|
+    　　　　　　　　　　　　　　　　　　おう。16スレ目121で紹介されている　　　　　　　|　　（__人__）　.|
+    　　　　　　　　　　　　　　　　　　鋼の錬金術師よりエドワード・エルリック　　　　　|　 .　'´ｎ｀'　 .ﾉ
+    　　　　　　　　　　　　　　　　　　アルフォンスはその弟だろ　 　　　　　　　 　　 　　ヽ　. 　| |　　}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ..　ﾉ .ュノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　{ ..ﾆj､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |.　| "ﾂ　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |.　| .l　　|ヽ、二⌒)
+
+
+
+
+
+60 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:02:55 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　　　＿＿__
+    　　　　　　 ／_ノ 　ヽ＼
+    　　　　　／ （ ●）　（●）、　　　　　　エドワードは「豆粒」、「ミジンコチビ」「小っちゃいの」
+    　　　 ／::::::::⌒（__人__）⌒＼
+    　　　 |　　 　　　|r┬-|　　　 |　　　　　みたいな酷い言われようなのに、アルフォンスは随分と大柄だお
+    　　　 ＼ 　 　 　 `ー'´　　／
+    ⊂⌒ヽ　〉　　　 　　　 ＜´/⌒つ
+    　 ＼　ヽ　 /　　 　 　 　 ヽ　/
+    　　　＼_,,ノ　　　　　　|､＿ノ
+
+
+
+    　　　　　　 （⊃￣￣＼
+    　　　　　（⊃　　 _ノ　　＼
+    　　　　（⊃　　 （ ●）（●）
+    　　　　　|　　　　 （__人__）　　　　　　　大柄っつーか、まあ鎧だしな
+    　　　　　|　　　　　｀ ⌒´ﾉ　　　　　　　実際エドより頭一つ分以上はデカいが……
+    　　　　　 |　　　　　　 　 } ＼
+    　　　　 ／ヽ　　　　　　 }　　＼　　　　アルフォンスの重要な部分はそこじゃない
+    　　　／ 　　ヽ､＿＿__ノ　　 　 ）
+    　 ／　　　　　　　　.　 　|　＿／
+    　|　 　　　　　　　／￣￣（＿)
+    　 ＼　　　＼　／|　ＪＪＪ　（
+    　　　＼　　／　　 ／⊂＿）
+
+
+
+
+
+61 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:03:08 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　　　 _,<三二ﾆー―‐-､_
+    　　　　　　,..r'ｉ´ 　∧　 ｀iヽ､￣｀ヾ､ヽ、
+    　　　　 ,r'´-一´/　 ヽ｀ー-｀ヽ、　　＼＼_
+    　　　　/￣ 　 　ヽ_ _ノ　　　 ￣ヽ　　　｀ヾ､ヽ、
+    　　　∧　＿＿,..-―-､＿＿_　 ∧　　　　　ヾヾヽ
+    　　 〈・￣ﾞ:;;,,,,;;;" 　 　 ﾞ::;,,,,;;;"￣・〉　　　　　　ヾヾ｀ヽ
+    　　　!lL　　===　　 　 　===　　」l ! 　　　　　　　 ヾヾ ヽ、
+    　　 .i.l　｀i＿===,vvvv､===＿i´　l.i.　　　　　　　　 ヾヾヾヽ
+    　　 !,l |　ll | ｀V´　　　 ｀V´ | ll 　 l,.!　 　　　　　　　 ｀!｀!｀!｀!
+    /￣￣i'i　　!、　,-―‐-､　　,!　 iﾞi￣￣i,　　　　　　　 i　 i　i i
+    　　　　!.!.　　＼!　　　　!／　　.!.!　　　 ﾞl,　　　　　　 ﾉ　ﾉ ﾉﾉ
+    　　　　 l |　!'￣｀ー‐一´￣ﾞ!　| l　　　 　ﾞ!、　　　　〃　〃ﾉ
+
+
+
+    　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　 rヽ　　／　ノ　　＼ ＼
+    　　　　　　　　 i　!　　|　 （●）（●）　|
+    　　　　　 r;r‐r/　| 　 |　　（__人__）　 |　　　　　一見、鎧を着込んだ大柄な男性に見えるが
+    　　　　 〈_L (｀ヽ .}　　|　　 ｀ ⌒´　　ﾉ　　　　　この鎧の中身はがらんどう、空っぽなんだ
+    　　　　　l｀ （ ｀`/　.　 |　　　　　　　 }
+    　　　　　ヽ 　　l　　.　 ヽ　　　　　 　}　　　　　　都合のいいAAが無いから説明しづらいのは
+    　　　　　　|,. 　 l　　 /⌒　 　ー‐　　ｨ ヽ　　　　許して欲しいだろ
+
+
+
+
+
+62 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:03:39 ID:mRZ5RDKV
+
+
+
+
+
+    　　　 ／ ￣￣＼
+    　　／　　　 　 ノ ヽ
+    　　|:::::: 　 　　（● ）　　　　　原作設定を語るとキリがないので適当に割愛するが
+    .　　|:::::::::::　　　（__人）　　　　かつて犯した罪によって、アルフォンスは
+    　　 |::::::::::::::　　　⌒ﾉ　　　　 肉体を失ってしまっている
+    .　　 |::::::::::::::　　　　}　　　　　
+    .　　 ヽ:::::::::::::: 　　 }　　　　　 原作中においては、この鎧の体に魂だけを宿らせた
+    　　　 ヽ::::::::::　　ノ　　　　　　不完全で不安定な状態ってわけだ
+    　　　　/:::::::::::: く
+    　　　　|:::::::::::::: 　|
+    　　　　|:::::::::::::::|　|
+
+
+
+    　　　　 ＿＿＿_
+    　　　／　　 　 　＼
+    　 ／　　　　 　 　　＼　　　　　　おおう……結構ヘビーな背景が
+    ／ U　　_ノ 　　 ヽ_ 　＼　　　　 あるキャラなんだおね
+    |　 　　 （一）|lil|（ー）　 |
+    /　　　　 ∩ノ ⊃_）　／
+    (　 ＼　／ ＿ノ　|　 |
+    .＼　“　　／＿＿|　 |
+    　　＼ ／＿＿＿ ／
+
+
+
+
+
+64 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:03:56 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　　　　／￣￣＼
+    　　　　　　　 ／　_ノ　 ヽ､.＼
+    　　　　　　　 | 　（●）（●）　.|
+    　　　　　　　 !　　（__人__）　 |　　　　　そうだな。だが、やる夫スレで用いる分には
+    　　　　　　　 , っ　 ｀⌒´　　 |　　　　　関係ないといえばない
+    　　　　　　 /　ミ）　　 　　　/
+    　　　　　 ./　ノゝ　　　　　/　　　　　　 ここで着目すべきは、やはりその鎧姿だろうな
+    　　　　　 i　ﾚ'´　　　 　　ヽ
+    　　　　　 |　|／|　　　　 |　|
+
+
+
+    　　　　　　　　　　　 　 　 　 　 　 ,　´ /´　 _ -{ 　 }-､　　',... ｀丶
+    　　　　　　　　　　　　　　　 　 ／　..::/ 　　i　　',　,′　i、　 iヾ.､ 丶‐-　.　　　　　 　 　 　 　 ／|
+    　　　　 　 　 　 　 　 　 　 　 /　/::::/!　　,´.　 　',,′　　 i　 .i　!::ヽ ヽ　　｀丶　　　　 　 　 ／　 i
+    　　　　　　　　　　　　　_＿ /　/::::/ ! .i', |　　　 　 　 　 　 }', i .! ',:::',　i　　　　　＞,　-､ ／　　　!
+    　　　　　　　　　　　 ／i i!i! |　.i:::::i ! !｜｀ ｰ- 　 ＿ 　 -‐´ .!　!　!::::',　i', ..!｀丶 ／／´ .＼　　　!
+    　　　　　　　　　　i´ 　 !i!i!i |　.!:::::! ゝ !、 　 　γ 　ヽ　 　 ノ｀!　 !:::::!　i ', !　　 ＼.　 　 　 ＼　 !-､
+    　　　　　　　／',＼!　　|i!i!i |　 !::::i 　｀y＼_　　{　　　}　_／} r､ 　 i:::!　.! .',|　　　　＼　　　 ／,　- ヽ、_
+    　　　　　 ／　　∨:∨　!i!i!i |　 !::::!　/:::! 　ゞ≡＼／ゞ--´　!:::',　::ﾉ　/ ./.|　　　　　 .}　.／／　　　　　　ヽ
+    　　　　／.　　 　 ∨:∨　',i!i |　 !::::i./::::::!:::::::::　　　　　　　 r:::::::∨　./ ./ ∧　　　　 ﾉ／／
+    　　　-{＿ 　 　 　 ∨:∨ /´ ｀ｰ-　､─　､::::_ ＿,､_,､_,､_,-':::::::::∨＞i ./ /　｀ー--‐'/　/
+    ／ 　　　　｀ヽ　　　　　/´丶、._/　ﾉ　　　 // ｏ､､─;;,,,‐-- ,::∨　　!/ / 　 ┌──────────────────┐
+    　　　　　　　　＼　 .r'ｰ ､_　　/￣ﾉ.　 　 //　　// .i!i!/_　 i!i!i!/￣ ﾌ､-,-─│なんともいかついその姿は　　　　　　　　　　│
+    .　　　 　 　 　 　 ＼!　　　 /￣ }´　, 　 // 　　 ｀￣!i!　 ￣i!i!!-　__i!i!i!/. 　 │戦闘の多いスレに、もってこいだろう　　　　.│
+    　　　　　　　　　　!´｀>-‐y- _.,'´￣　　{ !　　　　　 !i!　 　 i!i!　　　i!i!i!｀ -.　└──────────────────┘
+    　　　　　 　 　 　 乂　i　　 } /　　　　　! !　　　　　!i!　 　 i!i!　　　!i!i! 　 　 　 　 　 　 　 　 !´_　　￣｀丶
+    :::::...　　　　 　 　 　 ￣}　./ ∧　　　　　i i::...　　 　 i!　　　!i!　　　i!i!! 　 　 　 　 　 　 　 　 !、　ヽ　　　　丶
+    ::::::::::..　　 　 　 　 　 ／｀丶、　　　　 　 ' !:::::::::::::......　　　 i!　　　.i!i!　　　　　　　 　 　 　 　 ｀ヽﾉ　　 {´￣
+    :::::::::::::::　　　　 　 ／　 　 　 i｀ｰ＜´　　　｀　　＜::::::::::::......　　　　i!　　 　 　 　 　∧ 　 　 　 　 ＼　　丶-
+    :::::::::::::::::.......:::::::／　　　　 　 !　　　＼　　　　　　　i｀　 ＜:::::::::.......　　　　　　　　　｀ヽ　　　　　　　＼
+    :::::::::::::::::::::::／´　　　　　　 　 　 　 　 ＼　　　　　 |　　　　 ＞、:::::::...　　　　　　　　　丶　 　 　 　 　 ＼
+
+
+
+
+
+65 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:04:20 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　 （⊃￣￣＼
+    　　　　　（⊃　　 _ノ　　＼
+    　　　　（⊃　　 （ ●）（ー）
+    　　　　　|　　　　 （__人__）　　　　　原作ファンとしてはあまり推奨したくは無いが
+    　　　　　|　　　　　｀ ⌒´ﾉ　　　　　俺たちやるやらや、戦闘用AAの少ないキャラの
+    　　　　　 |　　　　　　 　 } ＼　　　 強化外装として用いることもできるだろうな
+    　　　　 ／ヽ　　　　　　 }　　＼
+    　　　／ 　　ヽ､＿＿__ノ　　 　 ）　 実際、俺の知っているスレはそうやって使ってたし
+    　 ／　　　　　　　　.　 　|　＿／
+    　|　 　　　　　　　／￣￣（＿)
+    　 ＼　　　＼　／|　ＪＪＪ　（
+    　　　＼　　／　　 ／⊂＿）
+
+
+
+    　　　　　　　　　　　　　　∩＿
+    　　　　　　　　　　　　　　〈〈〈　ヽ
+    　　　　　　＿＿＿_　　　〈⊃　　}
+    　　　　 ／⌒　　⌒＼　　 |　　 |
+    　　　／（ ●） 　（●）＼　 !　　 !　　　　　なるほどなー、だお
+    　 ／ :::::⌒（__人__）⌒:::::＼|　　 l
+    　 |　　　　　|r┬-| 　 　 　 | 　／　　　　　なら、原作通りに使うとしたら
+    　 ＼ 　 　　｀ ー'´ 　 　 ／／　　　　　　 どんな感じに扱えばいいんだお？
+    　　/　＿＿　 　　　　　　/
+    　　(＿＿＿）　　　　　　/
+
+
+
+
+
+66 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:04:44 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　　　　　　　　　　　 _　　　　　　　　　　　 ,,.-'''　　　　　　　_
+    　　　　　　　　　　　　　　-,....._ヾヽ､、　　　　　　_,./,、　　　　　　　 / i. ,-,. _
+    　　　　　　　　　　　,=＝'"~｀　　、 ヾ i　　,.-;'"-､ i/　｀''- 、　　_.　/ // // ）
+    　　　　　　　　　-,=',-　 ,　　 -―ﾐ;i '< ／／　　,、,-、　　 ｀ヽ ( ヽ' ヾ､ '' ､' '´)
+    　　　　　　　　 ,:'7-',,.-/_,.-, , ,.-'''ｰ､　/ /　　i　!‐'ｰ''ヽ .　　ヽ-｀i　 ヽ ｀　／´
+    　　　　　　　　　そ i' /ﾆ'､''"'___ 　ヾ/ ./　　 ,! i　　　　,-、　 i　 ｀-、-　.ﾉ
+    　　　　　　 _,,..、　Y-,'i"i｀　　,ﾆ｀、 i > ! ,　　 i-i‐-　　.'r''iヽ　 !　　 ヽ　　ヽ
+    　　　　,.-''' ､ ､i-, !!　 ｀"　　　i'´iヽ j ヽ!.i　　 i'i"i｀　　　='.'ヽ　i　　　 ヽ　　ヽ
+    　　　/ t､ヽ,iﾉ'"　!　　 '´　　 .｀´'｀ ,=i'´!ヽ　 iｰ=''　　 、　　i　ii-‐''i'"´ヽ　　ヽ
+    　　 ./　 ヽi´ﾉ　,.-ヽ、 ｀'‐-　　　 ,_''ノ　 !ｰ!　!　 ,ｰ--‐=i .,.ｲ　!!　 .i　　 _, - '´
+    　　 i　　イ~,.-'"　　　ゝ.,_＿,,..-'''"!ヽ. 　／ヾ!i!=-ﾆ―''''ン ｀,.i/i　,　!-,.''
+    　,.-!_,,..-'i‐'　 、　　 i.ト !　,._ ,,... -'_,!ヽ/_ ／ヽ、｀ヽ￣´!ﾝヽ!-, i /　i/
+    ヽ,"´　　 .）､､ .!　　　ヽｰ-‐'' -‐''"　 /　 ヽ、　 !,,..-ゝ"´　 ヽi　i/-‐'
+    　i　　　　/.ヽヽ!　　　　 ￣　　　　　i　　　　ヽ　　 .<　i　　　 !　,!
+    　!、__,,....,,,,. ‐-i　　　　　　　　　　　<　　　　i.ヽ/　　.ヽ!　　　i　 i
+    　 ~　　　　　　!　　　　　　　　　　/　　　　　!／　　　　!　　　.!　ヽ
+
+    　　　　　　　　　　　　↑
+
+    　　　　　　　 ／￣￣＼
+    　　　　　　／ _ノ　 .ヽ、＼
+    　　　　　　|　 （●）（●）　|
+    .　　　　　　|　　（__人__）　.|　　　鎧姿に惑わされがちだが
+    　　　　　　 |　 .　'´ｎ｀'　 .ﾉ　　　実際のトコロアルフォンスは、若干14歳の男の子
+    　　　　　　 .ヽ　. 　| |　　}
+    　　　　　　　 ヽ..　ﾉ .ュノ　　　　境遇的に、実年齢よりは大人びた部分があるが
+    　　　　　　　　/　{ ..ﾆj､　　　　　それでもまだまだ子ども、ということをイメージしておいて欲しい
+    　　　　　　　　|.　| "ﾂ　＼
+    　　　　　　　　|.　| .l　　|ヽ、二⌒)
+
+
+
+
+
+67 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:05:12 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　　　　　　|＼
+    　　　　　　　　　　　|　　〉──‐ ､
+    　　　　　　　　　 ／`ー'´　　　　　＼
+    　　　　　　　　 /　　　　　　　　　　　 ヽ
+    　　　　　　　　/　 o　　　o　　　　　　　ヽ
+    　　　　　　　 /　,,　　　　　,,　 　 　 　 　 i
+    　　　　 　 　 |　　　　　　　　　　 　 　 　 |
+    　　　　 　 　 |　V＾＾＾＾＾＾＾´　　__　 ---┴‐ ､
+    　　　　 ＿＿|　　　　　　厂|￣　　　　　　　　 ＼/
+    `、　　/ |　　 |　　　　　/　 |　　　　　　　　,　-‐/
+    　ヽ　 l　|　　 |‐rrrrrrrrl 　 |　　　　　　 ／／ /
+    　　∟|　|　　 |」」」」」」」l 　 |---|｀`ｰ＜／　　`ー
+    イ／⊆⊇￣￣￣￣三三彡´￣|　　　　 ＼
+
+
+
+    　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　_ノ　　ヽ、　　＼
+    　　　　　　　　　　　　（ ●）（ ●）　　　|
+    　　　　　　　　　　　　（__人__） 　　　　 | ..／}　　　　　　　　　 　性格は柔和で優しく、また兄（家族）思い
+    　　　　　 _　 　　　 　ヽ｀⌒ ´　　　　　| /　/ 　　　__
+    　　 (＾ヽ{　ヽ　　　　　 {　　　　　　　　./　/　 .　／ .ﾉ　　　　　　怒りっぽく暴走しがちなエドワードとは対比的で
+    　(￣ ヽ ヽ　i　　　　　　ヽ　　　　　　/　厶-　´ ／　　　　　　　 原作ではそのブレーキ役としての勤めも大きい
+    .(二 ヽ　i　i　|,r‐i　　　　ﾉ.　　　ヽ /　　　　 ／
+    　　ヽ　　 ／　 ノ　　／　　 　r一'´　ー ､　　￣￣￣）　　　　　　ネコが好きだったり、撫でられる（子ども扱いされる）のを
+    　　 i 　 {　　 ｲ―イ　/　 　.`ー―.　､＿_　.〈￣￣　　　　　　　　 喜ぶような、年相応の一面も見せている
+    　　　ヽ.　`ｰ '/　　　/　　　　　　　　　 　/＼ ＼
+    　　　　　 `ー ' ￣￣!　 　　　　　　　　　|　　ヽノ
+
+
+
+
+
+68 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:05:30 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　　　 ／￣￣＼
+    　　　　　／　　 ⌒　　＼
+    　　　　　|　　ﾐｨ赱､i .i_r赱　　　ちなみにアニメでは、cv釘宮理恵だ
+    .　　　　　|　::::::⌒ （__人__）　　　声変わり前の少年だからな
+    .　　　　　|　　 　　ﾄｴｴｴｲ
+    .　　　　　ヽ　　 　　｀""´}
+    　　　　　　ヽ　　　　　ノ
+    　　　　　　　/　　　 く
+
+
+    _ノ＼＿ L
+    　　　　　 (
+    　　マ　　r￣￣￣￣＼
+    　　　　　/　　　　　　　 ＼
+    　　ジ　 {　　｀＼　　　 ／ ヽ
+    　　　　　〉 ,‐-‐､｀　　　 ._ _　＼
+    　　か　／ r:oヽ`　　 　/.:oヾ丶＼　　　　　　　　　　／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣＼
+    　　　　 {　{o:::::::}　　 　　{:::::0　}　 ヽ　　　　　　　　　|　　だから、ルイズやシャナと絡ませても　　＼
+    　　お　 |　ヾ:::ソ　　　 　ヾ:::ｿ /　　 i　 　 　 　 　 　 |　　個人的には面白いと思ってるだろ　　　 ／
+    　！？ ヽ::⌒/　　 　　,ﾍ　　｀i　　　 | r--ッ　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿／
+    , -tヽ／´::::::ﾍ＿＿／　 `、_ノ　　　/ }　 ＞
+    .　　　　　 Ｊ　　　 ＼　　／　　　　/ /＿ゝ
+    　　　　　　　　　　　 ｀-´　　　 ／
+    　　　　　　　　　　　　　　　＜
+
+
+
+
+
+69 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:05:59 ID:mRZ5RDKV
+
+
+
+
+
+    . 　～=ミ／{ _
+    　　／: : : : : :‘， （＿
+    . . ' : :u: :l|: : : : ，　 （
+    /: u: : :0il|0: : :.:；　　（　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,∧,、
+    : : : : : :ｖ‐ｖ : : :┃ 　 ′　　　　　　　　　　　　　　　　 ﾍ　　　　　　　　　　　　　　　　/。 。'i
+    : : : : : : : : : : : :┃　　　　　　　　　　　　　　_　　　　 /:: ﾍ　　　　　　　　　　　　　　　| ｖ‐ｖ::|　　お断りします
+    : : : : : : : : : : : :┃　|　┼ l l　　　　　　　／~ ￣~ヽ/::::　 ﾍ　　　　　　　　　　　　　 ／　　 　＼
+    : : : : : : : : : : : :┃　し ﾉ　　　　　　　　　　　　 ／:::::::;;;，、 ~ヽ，　　　　　　　　((⊂ 　） 　 ﾉ＼つ))
+    : : : : : : : : : : : :┃　　　え　　　　　　　　　　 /:::::::::Ｏ::: 　 Ｏ　ﾍ　　　　　　　　　　　 （＿⌒ヽ
+    : : : : : : : : : : : :┃　　　つ　　　　　　　 ,ﾍ　/:::::::::::::、,........　,　 ﾍ　∧　　　　　　　　　 ヽ　ﾍ　}
+    : : : : : : : : : : : :┃　 ┃┃　　　　　　　/:::∨:::::::::::::::Ｖ^^^~Ｖ　　 ∨ ﾍ　　　　ε≡Ξ　ﾉノ ｀J
+    : : : : : : : : : : : :┃ 　 ・ ・
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　 ／_ノ　 ｀⌒　＼
+    　　　　　　　　　　　 _　　　 　 　 　 　| （● ) （⌒ ）　.|
+    　　　　　　　　　　　|　!　　　　　　　　|　（__人___）　 　|　　　　　　　　あとは、そうだな
+    　　　　　　　　　　 ｜ !　　　　　　　　|　 ｀ ⌒ ´　　　.|　　　　　　　　デフォルメAAが一揃いはあるために
+    　　　　　　　　　　　|　!　　 ,.-,　　　　|　　　　　　　　 |　　　　　　　　本来無表情な鎧姿の割には
+    　　　　　　　　　 _,ﾉ ┴、/ ,/ 　 　 　 ヽ　　　　　　　r　　　　　　　　 非常に感情色が豊かだ
+    　　　　　　　　　 r　`二ヽ ） i　　　　　　ヽ _ ､___, 　 ﾄ
+    　　　　　　　　　 |　 ー、〉 /　　　　 _,,,,ﾉr　 `　　 ／i＼,,,,_　　　　　　喜怒哀楽程度なら、既存で十分ぶん回せるだろ
+    　　　　　　　　　 |　　r_,j　j__,,.. r''''"/::;|　＼`'／ 　 ,'::;;;r;;;;;;;;;;;;:: r ‐-、
+    　　　　　　　　　 | 　 ）　ﾉ ::::::::;;;;;;;/::;;;;|　 ／＼　　/::;;; l;;;;;;;;;;:: ::;;;;;;;:: ヽ
+    　　　　　　　　　ﾉﾆ-､　,/::;;|:::;;;;;;;;;＞::;;|／(::::ﾉ ＼/::;;;く;;;;;;;;;;;;:: i::;;;;;;;;;;;:: }
+    　　　　　　　√..:::;;; ヽ､〉;:;;|::::;;;;;;;;{ ::;;;;;|　 "::く 　/:::;;;;/;;;;;;;;;;;;:: |::;;;;;;;;;:. ノ }
+    　　　　　　/..:::::;;;;;;;;;;;;;;;〉;;;;|::::;;;;;;;;;:{ ::;;;;|　|:::::::| /:::;;;:/;;;;;;;;;;;;;:: |::;;;;;;;;;;;;;;;;:: }
+
+
+
+
+
+70 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:06:20 ID:mRZ5RDKV
+
+
+
+
+
+    　　　　 ＿＿＿_
+    　　　／　　 　 　＼
+    　 ／　　─　 　 ─＼
+    ／ 　　 （●） 　（●） ＼
+    |　 　　 　 （__人__）　 　 |　　　　　　　　　最後に使っているスレの紹介を。
+    /　　　　 ∩ノ ⊃　　／/　∩ノ ⊃　　　　といっても筆者は「やる夫がドリームプロジェクトなようです」さんと
+    (　 ＼　／ ＿ノ　 　 ＼／ ＿ノ　　　　　 「やらない夫でTALES OF THE ENDのようです」さんくらいしか
+    .＼　“　　／　　.　＼　“　　／　　　　　　知らないらしいお
+    　　＼ ／　　　　　　/＼／
+    　　　 ＼　　　　　　　＼　　　　　　　　　 このどちらでも、いわゆる「ナカノヒト」は
+    　　　　　＼　　　　＼　　＼　　　　　　　 オリジナルのアルフォンスとは別人だったお
+    　　　　　　　>　　　　　> 　　>
+    　　　　　 ／　　　　／　　／
+
+
+
+    　　　　　　　　　　　　　　　 ――　､
+    　　　　　　　　　　 ／ 〉 ´　　　　　　＼
+    　　　　　　　　　／ ／'　 __ ノ 　 ゝ.__　ヽ
+    　　　　　　　　/　/／〉　 ( ー)　(ー )　 ｌ
+    　　　　　　　　ｌ　 ´ イｌ　　 (___人___)　　ｌ　　　　まあドリプロさんの使い方、というか性格的には
+    .　　　　　　　 ｌ　 　 ｉYｌ　 　 ｀ ⌒ ´　　 ｌ　　　　 ほとんど原作アルと同じだったけどな
+    .　　　　　　　/　　 ﾊ !.!　　　　　　　 　 !
+    .　　　 　 　 /　　/　 ' ヽ 　 　 　 　 　 /　　　　　やっぱり中身の無い甲冑として使うよりは
+    　　　　　　 ｌ　　　／/ ､ゝ　　　　　　 ／ ヽ_　　　外装として使うほうが自然ってことかもしれないだろ
+    　　　　　´｀ ー‐ '｀./　　｀ー､　　,－´　　/ 　 ＼
+    .　　　　 ｉ　　　 　 ｉｉ　　 / ｀:.ｉ 　 ｉ´ヽ.　 /　　 　 ｀　 ､
+    . 　 　 , 'ｌ　　　　　ｌ.!　 /　　 ｌ 　 !　ﾊ　/　　　　　　　 ＼
+    　　　/ ,:|　　　　　| ヽ/　　　!＿'　　 V　　 　 　 ,　 ,　 　 ヽ
+    .　　/ / ｌ　　　　　|　　　　 /:.:.:.:ヽ　　　　　　　/　/　 ／　 ｉ
+    .　　!/　 !　　　 　 ｌ＼.　　 ｉ:.:.:.:.:.:.ｉ　　　　　 ／　/　 /　　　ｌ
+    　　/　　　　　　　 !　 ヽ.　 !:.:.:.:.:. !　 　 　 ´　　 !　 /　　 　 !
+
+
+
+
+
+71 ：<strong><span style="color:#009900">12～13日やる夫板Ⅱで短編企画　11日～17日ヒロイン板で美術展開催</span></strong> ：11/08/14 21:06:47 ID:mRZ5RDKV
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ー）（ー）
+    .　|　　　　 （__人__）　　　　　　　最後に一つ、欠点かもしれない部分もあげておこう
+    　 |　　　　　｀ ⌒´ﾉ
+    .　 |　　　　　　　ｎｌ^l^l　　　　　　存在するAAに、比較的大きめなそれが多い気がするだろ
+    .　 ヽ　　　　　 |　　 ﾉ　　　　　　 まあトリミングすれば問題ない話だけどな
+    　　 ヽ　　　　ヽ　く
+    　　　/　　　　　ヽ　＼
+
+
+
+    　　　　　　　　　＿＿＿_
+    　　　　　　　 ／⌒　　⌒＼
+    　　　　　　／（ ●） 　（●）＼　　　　　　　　　　原作を知っている、そのままエドと組ませても動かしやすいと思うお
+    　　　　 ／::::::⌒（__人__）⌒::::: ＼　　　　　　　　現代物にはちょっと似合わないかもしれないけれど
+    　　　　 |　　　　　|r┬-|　　　　　|　　　　　　　　秘めたポテンシャルは大きいキャラクター
+    　　　　 ＼ 　　 　 `ー'´ 　 　 (⌒)　　　　　　　 それがアルフォンス・エルリックだお
+    　　　　　　＞　　　　　　　 　 ﾉ ~.ﾚ-r┐､
+    　　　　　/　　　　　　　　　 ノ__　 |　.|　|　|　　　　というところで、今回の紹介を終わらせてもらうお
+    　　　　　|　 　 　 　 　 〈￣ 　　｀-Lλ_ﾚﾚ
+    　　　　　|　　　　　　　　 ￣｀ー┬--‐‐´ 
+
+
+
+
+<hr size='"1"'/>
+
+
+
+　　　　　　　　　　 　 　 ＿＿＿_
+　　　　　　　　　　 　 ／　　　 　 ＼
+　　　　　　　　　　 ／　　 ⌒　　 ⌒＼　　　　　　自分が見てきたものの中だと
+　　　　　　　 　 ／　　　（ ●）　（ ●）ヽ　　　　　ファンタジー物のなかで出番多いね
+　 　 　 　 　 　 l　 　 　 ⌒（__人__）⌒　|
+　　　　　　　 　 ＼　　　　　｀ ⌒´ 　 ／
+　　　　　　　 　 ／　　　　 　 　 　 　 ヽ
+　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002CZPI80&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3632/clap" id="fc2button-clap-3632" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3632").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/4.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3632/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１１" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3632.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3671.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１６ (2011/09/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3636.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１５ (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3635.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１４ (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3634.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１３ (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3633.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１２ (2011/08/24)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１１ (2011/08/24)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3631.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１０－２ (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3630.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１０－１ (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3593.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０９ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3592.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０８ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3591.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０７ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3590.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０６ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3589.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０５ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3588.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０４ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3587.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２０３ (2011/08/11)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１１" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/08/24 08:15 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html#comment_list" title="この記事のコメントを参照">CM(5)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3632"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１１"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣＼　　　　|　第211回　　　　　　　　　　　　　　　　　　　 　 |　　　　|　やる夫がどーたらでうんたらでかんたらー　|　　　　＼＿＿　 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿／　　　　　　　　 ∨　　　　　　　／￣＼　,&#45;&#45;&#45;､　 ／　　　　 ＼　　 ,&#45;&#45;&#45;&#45;､　|　　 l　|　 　 　 　 　 |　　|　　 　|　　 　 ,&#45;&#45;&#45;､　　＿＿　　　　 ,&#45;&#45;&#45;&#45;､　ﾞ|　　l'　|　 　 　 　 　 |　　ヽ　　/　　 ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-08-24T08:15:12+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3633.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１２">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3631.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１０－２">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment21948">[ 21948 ] <strong></strong></p>
+</div>
+<div class="comb">
+現行だけど
+「やらない夫はモンスターマスターとして召喚されたようです」にモンスターとして出てきたな
+やっぱり魔法使い系<div class="comment_navi">
+[ 2011/08/24 10:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3632" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21956">[ 21956 ] <strong></strong></p>
+</div>
+<div class="comb">
+ファンタジー物以外じゃ全身鎧を出す自体難しいからなー
+まあ薔薇乙女が普通に活動してるやる夫スレでそれを言うのも野暮かもだけど<div class="comment_navi">
+[ 2011/08/24 12:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3632" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21965">[ 21965 ] <strong></strong></p>
+</div>
+<div class="comb">
+大柄なのとエドが登場してるからか
+百八星が梁山泊に集うようですじゃ水牛だった
+一応同作者の別スレじゃ人間やってたけど<div class="comment_navi">
+[ 2011/08/24 20:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3632" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22057">[ 22057 ] <strong></strong></p>
+</div>
+<div class="comb">
+どこのＤＱ5かは忘れたがさまよう鎧役で主人公パーティに加わっていたのを見たｗ<div class="comment_navi">
+[ 2011/08/25 18:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22057" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22283">[ 22283 ] <strong></strong></p>
+</div>
+<div class="comb">
+原作でも誰かしらが中に入ることもあった気がするので、外の人役でも特に問題はないと思う。<div class="comment_navi">
+[ 2011/08/27 21:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=22283" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3632.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3632"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3632-77c168d8">http://oyoguyaruo.blog72.fc2.com/tb.php/3632-77c168d8</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3633.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１２">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3631.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その２１０－２">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

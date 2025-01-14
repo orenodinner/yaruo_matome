@@ -1,0 +1,1133 @@
+<div class="article">
+
+
+
+
+
+原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+紀元前241年-219年、東地中海
+
+
+､-‐ﾌ
+|　 ヽ,ﾜ
+ヽ,　　ヾ　　　　　　　　　　　　　　　　　　　　　　,｀　　　　　　　　　　　､,, ,,
+　 ~|,　　´ヾ　　　　　　　　　　　　　　　　　　　, !　　　　　　　 , - ‐ ´~　~ ｀´｀´~
+　　　|,　　　 ~ド-､_　　　　　　　　　　　　　　　　｀ヽ　　,,＿,,_ノ
+◎ﾛｰﾏヽ--ｯ　　　 ~ヽｯ　　　　　　　　　　　　　　 ,,｀=´--､
+ヽ,-､　　　 ´‐､_,　　　|　　　○ﾏｹﾄﾞﾆｱ､-､-‐､_-‐´_--‐´
+　　 ｀ｯ_　　　 ､ ヽ-､ (◎ｱﾎﾟﾛﾆｱ､ツ　　　 i´~~~
+　　　　｀‐､　/, ~｀-´　＼　　　　｀ヽ＿　　　｀‐i○ﾍﾟﾙｶﾞﾓﾝ
+　　　　　　ヽ __)　　　　 ´-,　　○ｱｴﾄﾘｱ 　､‐｀
+_ _　　＿, ノノ　　　　　　 ´_～～ｯ ＿ ト　　 ~￣｀{
+_,　｀‐´ （ ｀´　　　　　　　　　（　　､_○ｱﾃﾈ　　　　｀‐_,‐‐､,　,_i―-､,　　　,,-‐､,っ
+　 ヽ-､＿○ｼﾗｸｻ　　　　　　（_､ ､ヾ　　　　　　　　　　　 ~~　　　 ｀‐_=´-､　　)○ｼﾘｱ･ｱﾝﾃｨｵｷｱ
+　　　　　　　　　　　　　　　　　　　~ ~　　i--‐‐,,　　　　　　　　　　　i´__,,○ｷﾌﾟﾛｽ
+　　　　　　　　　　　　　　　　　　　　　　　~~~~~　　　　　　　　　　　 ´　　　　　i
+＿＿　　　　　　　　　　　　　　_,,､　　　　　　　　　　　　　　　　　　　　　　　　/´
+　　 ｀‐‐､　　　　　　　　 ,／~　　~~｀-,,,＿　　　　　　　　　　　　　　　　　　/
+　　　　　ヽ,＿_　　　　　（　　　　　　　　　｀!-‐--,,＿　　　 , - ‐ - ,,_,,,＿ノ
+　　　　　　　　 ~｀‐､_　_,）　　　　　　　　　　　　　　　｀ ‐ ´○ｴｼﾞﾌﾟﾄ･ｱﾚｸｻﾝﾄﾞﾘｱ
+　　　　　　　　　　　　~　　　　　　　　　　　　　　　　　　　　　　　　 ,､　　　　,
+
+
+
+やる夫達はローマ共和国を作るようです
+第５６．５話　「ポエニ戦間期補足」 
+
+
+
+
+
+
+
+
+439 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:23:34 ID:tgasAEns
+
+
+
+
+
+    　本当は、ここで終わるつもりだったのですが、
+    先も作っちゃったので、ここで補足です。
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 f¨ﾞ!
+    :┐　　　　　 　　　n /〉　　　　　　　　　　　　　　　<ヽ　　　　　　　　　　/^〉'
+    　!　　　　　　　　　}”/　　　　　　　　　　　　　　,､　 <｀ヽ　　　　　　　 ./:::/.,､
+    ⌒!ｨ　　　　　　　 f¨ﾟ{　　　　　　　　　　　　　<´ 'ヽ　Vハ 　 |ヽ　Y¨!　|::::}ｲ { , -ー ､　　_ /¨>　 r-‐,､ <⌒!
+    ::〈人_r-ｰ- ､_r＜}|　＞::::￣:｀ヽ__, - ､__r ､r=¨>‐-!　/:::::}＿_Vﾍ　}:::|__}::::{.ィ1.|:.:.:.:.:.:.}_, くﾉ￣!　./;;;;;;;;;}_, ﾍ⌒',
+    /:.< /::::::::::::::::Y::/|i /::::::::::::::::::::::Y:.:.:.:.:.YVｲ!:::::}::::::::|/::::::/:ァ＜!　V_::|　 ',く/⌒!}:.:.:.:.:ノ/ /:/^V__〈ヽ;;;;;/_!__ノ::::::ヽ
+    :.:.:.:}|:::::::::::::::::::|:{:. }:!:::::::::::::::::::::::: l:.:.:.:.:.:.|ィ　ゝx}:::::: |::::::/:.:/　 /　> ¨⌒ヽ:'.　　V¨¨ヒ{_. V==<:::::｀ヾア´:f⌒!ヽ:::::}
+    ＼f':!::::::::::::::::::l ﾊ:.:ﾘ'.:::::::::::::::::::::::∧:.:.:.:./　＞ｲ::! :::: |:::::{Y/'　〈　/:::::::::::::::::}:' 　　V::::::::::{ .}　　.}::::::::::|:.:.:.:.|:.:.:|:.:.}-:'
+    　 ヾ!,､:::::::::__/_／　 ヽ::::::::::::::::/|ﾚVWハ/::::::::/:::::: |::::::|ﾊ　　 V!::::::::::::::::::!:/　　./:::::::;:::Y　　/^!:::::::{:ﾄ､: |:.:.:|:./:::::
+    　　　　｀Yﾟ￣　 　 ＿/VﾚvｲW:::::｀ー-::＿_／:::::::::/:::::::|　ヽ　 ｀!:::::i:::::::::::|'　　 /:::::::/L_|　　￣⌒¨}＞ﾍ}:.:.:|”::::::::
+    、　　　　　　 f´￣::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::/::::::::::| 　　ヽ　.|:::::l::::i::::::|　　/:::::::::|　　＞-　._　　}} 　 |:.: |ヽ:::::::
+
+
+    　まず、このあたりからローマ人たちのギリシャ文化への傾倒っぷりがハンパなくなります。
+
+
+
+
+
+440 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:24:05 ID:tgasAEns
+
+
+
+
+
+    　当時のギリシャとローマはとてつもない文化力差があり、
+    ローマ人達はギリシャ文化の全てに夢中になったのであった。
+
+
+    　　　　　　　　　　　　　　　　　　　 ,,,,,,,,,,,,,,,
+    　　　　　 ,.....、　　　　　　　　　 ,,;;;;;;;;;;;;;;;;;;;;;ヽ
+    　　　　　fｪゝヽ　　　 ,rﾆ'''ー､　 ;;;/ニヽ;;;;;;;;;;;;）
+    　 r ､_　〈o　ﾘl＿　　 lｒ｡ヽ,r､ l　　> ''`　〉;;,.r---､.、
+    　 ｀>｡ヽ 'Y、ノ　 ｀ヽｖ'､　 -''ｖ'｀'-`l._　 ,r'";;;;;;;;;;;;;;;;｀ヽ
+    　　ヾ-､｀''ｰﾆ､__,......l"`'[_＿ノ　　　l`´　〉'"　　　l;;;;;;;;;;ヽ
+    　　_　　`l'-､＿＿,..⊥ 〈l　　　　　　>‐'< ｒ―　 <;;;;;;;;;;;;;;l
+    　lwヽ､＿l ヽ､_,r'"　 ヽ ヽ　 /　　 /　　ﾘ　ｴ　　レ'´`';;;/
+    　｀ー‐'､__==' l　,,,..r'"‐ヽ ｀ｲ'ー‐/､_　.<、 ､　　　　,r'_,l,_
+    　　　ｆ"　 ｀ｰｿl´　　,r'''''''''L, ／ノ　 .7　 i,'ヽ、　　´ /;;;;;;;｀'''ｰ､
+    　　　l　　　<" l　　 l　__,r'ｪ'　／　 ／!　/i'''"　 ,ノ /;;;;;;;;;;;;;;;;;;
+    　　　l　　 λ　l　　 l　`,r'" /　　／　レ';;;`ー''<、ノ;;;;;;;;;;;;;;;;;;;;
+    　　　l　　.〈 ヽ l　 / i,　 i, /　 ／ 　 /;;;;;;;;;;;,..r'´`i;;;;;;;;;;;;;;;;;;;;;;;;;
+    　　＿ヽ_＿l .ヽl /　l i,　 ヽ.,r'　 ,..=_;;;;;;;;;;;,ｆ　　　 l;;;;;;;;;;;;;;;;;;;;;;;;
+    　（＿＿＿ﾉ　 / 　 l　i、　 ヽ、,r'"　｀ーｭ'l、　 　 !;;;;;;;;;;;;;;;;;;;;;;;
+    　　　　　　　／　　l　　i、　　 ヽ　　　／　ヽ　　,..ュ;;;;;;;;;;;;;;;;;;;;;
+    　　　　　　 '　　 　 !　　 ヽ　　　　　'"　　　 ヽ'" ｀''`'''''''''''''''''''''
+
+
+    　ローマの貴族達は、子弟を次々とシラクサに留学させまくった。
+
+
+
+
+
+441 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:24:41 ID:tgasAEns
+
+
+
+
+
+    　前２４０年には、ローマでラテン喜劇が上映された。
+    　ギリシャ喜劇と似たようなものだったらしい。
+    　作者は、ギリシャ人のリウィウス・アンドロニクス。
+
+
+    ∥　∥ ∥━━━━━━┳━━━━━━━━━┳━━━━━━━━∥ ∥　∥
+    ∥＼／∥　 　 　 　 　 　 ┃　 　 　 ○○○　 　 　 ┃　 　 　 　 　 　 　 　 ∥＼／∥
+    ∥　∥ ∥　 　 　 　 　 　 ┗━━━━━━━━━┛　♪ 　 　 　 　 　 　 ∥ ∥　∥
+    ∥＼／∥　　　♪　　　　　　　　　　　　　　　　　_,.､.-――　　　　　　　_,.､.-―-.､.,　♪
+    　　　　　　 ,､-―-.､.,_　　　　　　　　　　　　 ､-''´　　　　　　　　　　､-''´　　　　　　 `'-.､,_
+    ――-:‐''^´　　　　　 `'-.､,_　　　　　 _,.､-''´ 　 　 　 　 ―--:‐''^ ´ 　 ♪ 　 ∥＼／∥
+    ∥　∥ ∥　　　　　　　　　 `'--:‐''^´　♪　　　　　　　　　　 　 　 　 　 　 　 ∥ ∥　∥
+    ∥＼／∥＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿∥＼／∥
+    ∥　∥ ∥　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ∥ ∥　∥
+    ∥＼／∥　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ∥＼／∥
+    ∥　∥ ∥　　　　　　.∧∧　　　　　　　　　　　　　　　 ∧∧　　　　 　 　 　 ∥ ∥　∥
+    ∥＼／∥　　　　 　 (´∀｀)　∧∧　 ∧,,∧　　∧∧　(･∀･)　　 　 　 　 　 ∥＼／∥
+    ∥　∥ ∥　　　　 　((　　 )) (*ﾟ ｰﾟ) .ﾐ,ﾟДﾟ,ﾐ　.(ﾟ∀ﾟ*) ((　　 ))　　　　　　 　 ∥ ∥　∥
+    ∥＼／∥　　　　　　∪∪～(　uu)　 ﾐ uu ﾐ　 (uu　)～∪∪　　　　　 　 　 ∥＼／∥
+    ∥　∥ ∥　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ∥ ∥　∥
+    　＼＿／＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿__＼＿／
+    　　　　／|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 |＼
+    　　 .／　.|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 |　 ＼
+    　　∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧ ＼
+    　∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧
+    　　＿∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧＿∧∧∧＿∧∧＿∧∧＿∧
+
+
+    　彼はもともと、ターラントに住んでおり、陥落時に奴隷として連れてこられた。
+    　その後主人のリウィウスが、彼の才能を認め、解放し自由民とした。
+
+
+
+
+
+442 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:25:19 ID:tgasAEns
+
+
+
+
+
+    　また、最初のラテン喜劇作者とされる、プラウトゥスも活躍。
+
+
+    ヽ＿,し､人＿ノ(_人_人＿／
+    ＿）　 と　 イ 言ぃ盗　　 f
+    ＼　　言ぃン う.　 作　 　し／
+    　 ).　 え　ス な　　っ　 　/
+    ＜　　！　パ　 　　て　　(＿
+    ,--＼ 　 　イ　　　　　　　 ／
+    ::::::／　 　 ヤ　　　　　　 （_
+    :::::⌒>/⌒ヽ　/⌒Ｙヽ　 て
+    :::／::/::::::::::::|/／,へヽ::＼ｆっ＿
+    :::::::７~ヽ:::::/<／ ~ヽ| |>ー`====
+    ::::::〈.{ 〉/:/ ､ヾ ヽ_,ﾟ=">
+    ミ;;;ﾃι, '／⌒ヾ (-､_）
+    .　ｷ　　/`ｰ^-､_,jノ---っ
+    　,キ　（^ヽ≡=====-っ--
+    ｙ'~ヾ　 ￣ﾁ≡≡=====-
+    　　 ￣￣
+    ＊プラウトゥスさん(AA/両津勘吉)
+
+
+    　彼はウンブロ族出身で、ローマでありとあらゆる職業を経験した後、
+    俳優となり、脚本演出も手がけた。
+    　ありとあらゆる話からネタを集めていたようである。
+
+
+
+
+
+443 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:25:46 ID:tgasAEns
+
+
+
+
+
+    　前２４１年には、セルヴィウス以来続いていた軍制が改革された。
+
+
+    　　　　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+
+
+    　と言っても、変化は武装が国家支給になった事ぐらい。
+    　ただ、中産階級が増え、健全な社会になってきていた。
+    　総兵力は３７３００。
+
+
+
+
+
+444 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:26:21 ID:tgasAEns
+
+
+
+
+
+    　通常、ローマの一個軍団は、ローマ兵４５００人によって構成されている。
+    　これに同数程度の同盟国兵士が加わるようになった。
+
+
+    　　　　　　　　　　　　　　　　　　　　　 　 ∧∧,,）～　　　　　　　　 ∧∧,,）～
+    　　　　　　　　　　　　　　　　　　　　　　 (ﾟへﾟ；),)　 　 　 　 　 　 　(ﾟo ﾟ；),)
+    　　　　　　　　　　　　　　　＜＞)))━━Ｏ━と )━　＜＞)))━━Ｏ━と )━
+    　　　　　　　　　　　　　　　　　　　　　　∧∧,,）～　　　　　　　　 ∧∧,,）～
+    　　　　　　　　　　　　　　　　　　　　　 (ﾟーﾟ；),)　 　 　 　 　 　 　(ﾟ- ﾟ；),)
+    　　　 　 　 ∧∧　　　　 ＜＞)))━━Ｏ━と )━　＜＞)))━━Ｏ━と )━
+    　　　　 　 (ﾟｰ ﾟ*)　　　　　　　　 　 　 ∧∧,,）～　　　　　　　　 ∧∧,,）～
+    　　　 __ﾊﾊと i:i:i　　　　　　　　　　　 (ﾟへﾟ；),)　 　 　 　 　 　 　(ﾟo ﾟ；),)
+    　　 ('＿ﾟ　ﾐヽ,,,ヽ～　＜＞)))━━Ｏ━と )━　＜＞)))━━Ｏ━と )━
+    　 　　 ヽ "Ｕ´）ミ　　　　　　　　　 ∧∧,,）～　　　　　　　　 ∧∧,,）～
+    　　　　 <^|￣<　　　　　　 　 　　(ﾟーﾟ；),)　 　 　 　 　 　 　(ﾟ- ﾟ；),)
+    　　　　　　　　　　 ＜＞)))━━Ｏ━と )━　＜＞)))━━Ｏ━と )━
+    　　　　　　　　　　　　　　　　　　∧∧,,）～　　　　　　　　 ∧∧,,）～
+    　　　　　　　　　　　　　　　　　 (ﾟへﾟ；),)　 　 　 　 　 　 　(ﾟo ﾟ；),)
+    　　　　　　　　　 ＜＞)))━━Ｏ━と )━　＜＞)))━━Ｏ━と )━
+
+
+    　つまり一個軍団の戦力は、大体９０００。
+    　これに騎兵３００が加わる。
+    　とはいえ、相手によって増強される事も多々あった。
+
+
+
+
+
+445 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:26:56 ID:tgasAEns
+
+
+
+
+
+    　ローマ軍は、５種類に分かれていた。
+    　まず第一が騎兵。
+
+
+    　　　　　　　　 　 　 　 　 ∧∧
+    　　　　　　　　　　　　 　 (*ﾟーﾟ)／ヽ
+    　　　　　　　　　　　　　 (　 つ≫─l>
+    　　　　　　　　　 　 ～（,,　ﾐ　ﾟ__＼/
+    　　　　　　　　　　彡（｀Ｕ"" ノ
+    　　　　　　　　　　 　 >￣>^>
+
+
+    　武装は、ギリシャ騎兵を模倣し、胸甲、兜、剣、槍、盾。
+
+
+
+
+
+    　そして軽装歩兵（ウェリテス）
+
+
+    　　　　　　　　　　　 ∧＿∧
+    　　　　　　　　　　　（　・∀・）
+    　　　　　　　　　　 （　つ╋───
+    　　　　　　　　　 　 人　 Ｙ
+    　　　　　　　　　　（__（＿_）
+
+
+    　ウェリテスは、低い階級の兵士のため、簡単な武装しか持っておらず、
+    主力ではない。
+    　それでも、剣、投槍、盾と、皮製の防具を装備していた。
+
+
+
+
+
+446 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:27:32 ID:tgasAEns
+
+
+
+
+
+    　主力となる三列の重装歩兵は、
+    前衛からハスターリ、プリンチペス、トリアーリ。
+    　前ほど若い兵士、後ろほどベテラン兵士で構成されている。
+
+
+    　　　　　 ∧,,,　　　　　　　　　　　　　　　　　　　　　∧,,,
+    　　　　　(#ﾟ;;-ﾟ)￣|　　　　　　　 　 　 　 　 　 　 　 (-;;ﾟ#|￣ |
+    　 ━━(;:つ━Ｏ━━━━━━＜＞　　 ＜＞━━と;;| ：0|━━━━━━━
+    　　 ～（;;ﾒ;:;:,ノ.＿|　　　　　　　　　　　　　　　　　　>:,. ;;|＿_|
+    　　　　(;:/'ヽ:.)　　　　　　　　　　　　　　　　　　 　 (,/｀ヽ:;)
+
+
+    　防具は鉄兜に、鎖帷子か皮の鎧。皮のすねあて。
+    　盾は、この時代は、鉄補強の楕円形盾。
+    　武器は長槍が主軸。これに投げやすい細槍。更に細身の長剣。
+    　ただしトリアーリは、投槍は持っていない。
+
+
+
+
+
+447 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:28:03 ID:tgasAEns
+
+
+
+
+
+    　同盟諸国の兵は、まず特に選ばれた人たちが執政官の警護を行なう。
+
+
+    　　 ∧＿,.,.
+    　r'（　・∀・）
+    　| /::::::ハ:::i　　　　　　　　　　　　　　　　　　∧　　　 ∧ 　　　∧　　　 ∧　　　 ∧　　　 ∧
+    　| ｀─､:::､::ヽ　　　　　　　　　 　 　 　 [::::::::::∨[:::::::::::∨[:::::::::::∨[:::::::::::∨[:::::::::::∨[:::::::::::∨
+    　||´￣||＿）__）　　　　　　　　　　　　　（・∀・|| （・∀・|| （・∀・|| （・∀・|| （・∀・|| （・∀・ || ）
+    ￣￣￣|￣￣￣￣￣￣￣￣|　　　　 〈_j:Y:::iＯ〈_j:Y:::iＯ〈_j:Y:::iＯ〈_j:Y::iＯ〈_j:Y:::iＯ〈_j:Ｙ:::Ｏ:〉
+    ￣￣￣￣|￣￣￣￣￣￣￣￣|　　　　l::::,:::::||:l l::::,:::::||:l l::::,:::::||:l l::::,:::::||:l l::::,:::::||:l　l:::::,::::||::l
+    ￣￣￣￣￣|￣￣￣￣￣￣￣￣|　　（＿ﾊ_||_（＿ﾊ_||_（＿ﾊ_||_（＿ﾊ_||_（＿ﾊ_||　（＿ﾊ_||_,）
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+    　執政官の警護を同盟国兵に任せちゃうのは凄い気もするが、
+    彼らは指揮官候補生なわけである。
+    　その後騎兵の３分の一、歩兵の５分の１を選抜し、精鋭部隊とした。
+
+
+
+
+
+448 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:28:42 ID:tgasAEns
+
+
+
+
+
+    　行軍する時は、まず執政官と同盟国精鋭が出立。
+    　次に同盟国右翼、ローマ軍１、ローマ軍２、同盟国左翼という順番で進んだ。
+
+
+    ;::;;::;:;;:;:;:,.,.,.,.,.,.
+    ;::;:;;::;;:::;:;::;;::;:;:;:;:;:;:,.,.,.,.,.,.
+    ,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､_
+    ,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､,､_
+    λλλλλλλλλλλλλλ-
+    　λλλλλλλλλλλλλλλ-
+    　 人-人-人-人-人-人-人-人-人-人-人-
+    　　　　　　 　 　 　 　 　 ∧∧　∧∧　∧∧　∧∧　∧∧　∧∧　∧∧　∧∧　∧∧
+    　　　　　　　　　　　　　 (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　)
+    　　　　　　　　 　 　 　 　 　 ∧∧　∧∧　∧∧　∧∧　∧∧　∧∧　∧∧　∧∧　∧∧
+    　　　　　　　　　　　　　　　 (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　) (ﾟ* 　)
+
+
+    　これなら、どこから敵が攻めてきてもなんとかなる。
+
+
+
+
+
+449 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:29:28 ID:tgasAEns
+
+
+
+
+
+    　宿営地を作る際には、まず一小隊が先行。
+
+
+    　　　　　　　　　　　　 ∧∧ 　　　　　　　　　　∧,..,.　 　 　 　 ∧∧
+    　　　　　　　　　　　　(ﾟ－ﾟ*) 　　　　　　　　　(ﾟ- ﾟ*)　　　　　(ﾟ- ﾟ*)　　　　 ∧∧　　 　 ∧∧
+    ＜二ニ>´ﾟ,,ミ━━Ｏﾊﾊと i:i:i━━━ 　　__ﾊﾊと i:i:i　　　　__ﾊﾊと i:i:i　　　(ﾟ- ﾟ*)　　　(ﾟ- ﾟ*)
+    　　　　　　　　　　 ('＿ﾟ　ﾐヽ,,,ヽ～　　　('＿ﾟ　ﾐヽ,,,ヽ～　('＿ﾟ　ﾐヽ,,,ヽ～　( 人 ^ヽ　　( 人 ^ヽ
+    　　　　　　　　　　　　ヽ "Ｕ´）ミ　　　　　　ヽ "Ｕ´）ミ　　 　 ヽ "Ｕ´）ミ　 , |　 -|lニ)　, |　 -|lニ)
+    　　　　　　　　 　　　　<^||￣<　　　　　　　 <^||￣<　　　 　 <^||￣<　　 <,_し｀ヽ,)_,,ヽ<,_し｀ヽ,)_,,ヽ
+    "ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ
+
+
+    　防御面よし、飲み水あり、２００００人が入れる広さがあると確認されると、
+    中心に白旗を立てる。
+
+
+
+
+
+450 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:30:07 ID:tgasAEns
+
+
+
+
+
+    　ここに執政官の陣幕が張られるわけだが、
+    その後歩いて広さを決める。
+    　６００メートル＊８００メートル。と決まっていた。
+
+
+    　 　　　＿＿＿_
+    　　　／　　 　 　＼
+    　 ／　　─　 　 ─＼
+    ／ 　　 （●） 　（●） ＼
+    |　 　　 　 （__人__）　 　 |
+    /　　　　 ∩ノ ⊃　　／/　∩ノ ⊃
+    (　 ＼　／ ＿ノ　 　 ＼／ ＿ノ
+    .＼　“　　／　　.　＼　“　　／
+    　　＼ ／　　　　　　/＼／
+    　　　 ＼　　　　　　　＼
+    　　　　　＼　　　　＼　　＼
+    　　　　　　　>　　　　　> 　　>
+    　　 　 　 ／　　　　／　　／
+
+
+    　４つの出入り口と主要な道が構成され、
+    その後重要拠点に次々と旗をたてていく。
+    　そして、本隊がやってくる。
+
+
+
+
+
+451 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:30:52 ID:tgasAEns
+
+
+
+
+
+    　そして、聖火台と演説台が設置される。
+
+
+    　　　　　　　　　　　　　 　 _　　 _ 　 _　　　_
+    　　　　　　　+　　　+　　　| | 　 | |　| |　　 | |　　+
+    　　　　　　　　　　　　　　 | | Π| |　| |　Π| |　　　　　+
+    　　　　 /￣￣￣￣/三三三三//￣￣￣￣l￣￣￣￣l　+
+    　　　/￣￣￣￣ /三三三三//￣￣￣￣￣i､￣￣￣ i､
+    　 /￣￣￣￣ _/三三三三//￣￣￣￣￣￣',￣￣￣￣l
+    /￣￣￣￣￣/三三三三//￣￣￣￣￣￣￣',三二二ニl　　　+
+    ￣￣￣￣￣/三三三三//￣￣￣￣￣￣￣￣
+
+
+    　聖火台は、犠牲式や鳥占いをする場所。
+    　演説は非常に重要とされていた。
+
+
+
+
+
+452 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:31:33 ID:tgasAEns
+
+
+
+
+
+    　聖火台の裏には執政官の陣幕があり、そのすぐそばには、
+    会計検査官（クワエストル）の陣幕。
+    　その側には近衛兵、そして将官たちの陣幕。
+
+
+    　　∧＿∧　ﾌｧｻｧ
+    　 (　･ω･) 　　 ))
+    　 /つ(￣ヽOﾉ⌒丶
+    `ノ　　)　　　　 ＼
+    (__ﾉ＼丶 ::　ノ::　)
+    　　　ノ　　　　　ﾉ
+    　(( (___ノー"～´
+
+
+    　さらに騎兵、同盟国精鋭兵・・・
+    軍団兵士たちの陣幕もどんどん張られていき、
+    それらは糸を引いたように等間隔でないといけない。
+    　馬小屋が一番外。
+
+
+
+
+
+453 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:32:09 ID:tgasAEns
+
+
+
+
+
+    　そんでもって、例え一夜限りであっても、
+    柵と堀には手を抜かない。
+
+    　四辺をきっちりと固める。
+
+
+    　　　 　 ∧∧ 　 　 　　　 　 ∧∧ 　 　 　　　 　 ∧∧ 　 　　　 　 　 ∧∧
+    　 　 　 (；ﾟへﾟ)／ヽ 　 　 　 (；ﾟへﾟ)／ヽ 　 　 　 (；ﾟへﾟ)／ヽ 　 　 　 (；ﾟへﾟ)／ヽ
+    　　　　(　 つ≫―l>　　　　(　 つ≫―l>　　　　(　 つ≫―l>　　　　(　 つ≫―l>
+    （Ｘ）三三三三三|￣|三三三三三三三三三三三三三三三三三三三三|￣|三三三三三三（Ｘ）
+    （Ｘ）三三三三三|　 |三三三三三三三三三三三三三三三三三三三三|　 |三三三三三三（Ｘ）
+    （Ｘ）三三三三三|　 |三三三三三三三三三三三三三三三三三三三三|　 |三三三三三三（Ｘ）
+    （Ｘ）三三三三三|＿|三三三三三三三三三三三三三三三三三三三三|＿|三三三三三三（Ｘ）
+    "'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'
+    :;; ;::; :; :;:; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; :;:; ;:; :;:; :; :; :; :; :; :; :; :;
+    :; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :
+    "'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'
+
+
+    　深い掘を掘り、高い柵を作り上げ、
+    こうして、完璧に防御が固められるのだ。
+
+    　後で敵に使われないよう、次の日には取り払われるのだが。
+
+
+
+
+
+454 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:32:56 ID:tgasAEns
+
+
+
+
+
+    　陣幕の設置が終わると、全員でほうきで掃除。
+    　道には水が撒かれる。
+
+
+    　　　　　 　 　 ＿＿＿_
+    　　　　　 　 ／　　　　　＼　　　　　 _
+    　　 　 　 ／　　　―　　―＼ 　 　 //
+    　　 　 ／　　　（● ）　（● ）ヽ 　//
+    　　 　 | 　 　 　 　（__人__）　l〃ヾ.
+    　　 　 ＼　 　 　 　 `⌒´　／'んソl
+    .　　　 　 〃⌒ヽ　 　 '"ィ´ヽ.//|　 |
+    　　 　 　 l＼　　＼ 　 　 　 // ′ .l
+    　　　 　 │　＼　⌒￣￣〆⌒,ゝｰ'
+    　　 　 　 |　　　｀ー──～ソ"
+    　　　　　 |　 　 　 　 　 // i
+    　　 　 　 |　　　　　　 //　 |
+    　　　　　 ＼　 　　 ､// 　 ,!
+    　　　　 　 　| 　　　//　　/
+    　　　 　 　　| 　〆ｿﾘ　 ,/　サッ サッ サッ サッ‥
+    　　 　 　 　 /ノ//ｿﾊ　丿
+    　　　.　:.　〆彡/ﾉﾘiゝ/　.　｀　,. ..
+    　　. .. :´,;､;彡ﾘﾝ〆ノｿ ..´..;' . ; ; :　.
+
+
+
+
+
+455 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:33:30 ID:tgasAEns
+
+
+
+
+
+    　そして食事。
+
+
+    　　　　　 ＿＿＿_
+    　　　　／⌒　　⌒＼
+    　　 ／（ ●） 　（●）＼
+    　／::::::⌒（__人__）⌒:::::＼
+    　|　　　　　|r┬-|　　　　 |　.　 ||
+    　＼＿＿.　`ー'´ 　_＿／　 　 ||
+    　 __,/!　|｀ヽ＿工＿{ヽ＿＿_.　||
+    　 {:::::｀ヽ| 　 　￣　 　V::::::/.一'||）　　 (⌒ヽ　o
+    　 Y⌒Ｖ| 　　 ＿　　　l|‐ｒ'´￣ .||　 ｒ‐(　　 　 ）
+    　　＼　}　　　　　　　　ﾘ　　　　||⌒　　　　⌒ヽ
+    　　乙ノ|　　 　 　 　 　 |　┌｢￣￣￣￣￣￣|┐
+    　　　　 |　　　　　 　 　 |.　 ｀|　　　　　　　　　|´
+    　　　　 |　　　　　 　 　 |　　 |　　　　　　　　　|
+    　　　　 |＿＿＿＿＿__|.　　 |　　　　　　　　　|
+    　　　　 |　　,′　| 　,′　　　､_＿＿＿＿＿_/
+    　　　　 |　 ′　.│./　　　　/　r‐――┐ 　 ｀ヽ
+    .　 　 　 し′　. ...し　　　　/　 ｣　 　 　 |＿＿__ｊ
+
+
+    　陣幕ごとに一人一人が食材を持ち寄り、
+    交代で料理した。
+
+
+
+
+
+456 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:34:09 ID:tgasAEns
+
+
+
+
+
+    　ちなみに、ローマ人は肉はほとんど食べなかった。
+    　パンか小麦がゆ、これに野菜、魚、きのこ、果物。
+    　そして牛乳や羊乳、チーズ。
+    　更にオリーブオイルとワインが付けば上等。
+
+
+    　　　　　　　　　　　　　　　｡
+    　　　　　　　　　　　　｡ O　 　　 ＿＿＿＿ｰ､
+    　　　　　　　　　　ﾟ　 ｡ ＼ヽ ／ u　゛　 u　 ＼　　ﾟ
+    　　　　　　　　　　-　　･｡ ／；ﾟ　⌒　　⌒　@＼｡
+    　　　　　　　 ,　 ﾟ　0 ─／ { U （●）　（●）　　.＼　／ ｡　 　,'´￣￣｀',
+    　　　　　　　　　ﾟ　,,､,ｒ-'⌒l u//（__人__） ､ ） ｡ﾟ　|　o　 　　 ,!　ハ　ハ !
+    　　　　　　｡　ﾟ　ｒ-'⌒`ー-'´ヾ,. iｒ- ｒ ､//u　　 ／　｡　･ﾟ　　ｌ　フ　ム ｌ
+    　　　　　　　　ヾヽ､＿,,,､-､/ミ,ヽヽ/ ノ_, -イ-､＼　　　　 ∠ 　ハ　ッ ｊ
+    　　　　　　　　　　ー = ＾～､￣r'´￣｀''ｊヽ､　 〃ヾ ﾟ　｡　　　ヽ フ　　 /
+    　ｊヽｊｖｉ､人ノｌ__　　　　　/ /　　ヽ´｛ミ,_　 ￣｀'''-ヽヾ 　　　　　｀￣￣
+    　）　　 ハ　 　７　　　 　 /　　/ ｀'＝'´ｌ ￣ｉ'-､＿,,ﾝ ﾉ　｡
+    　）　　 フ　 　　て　　　/　　/　　 !。 ｌ　　ｌ　　- ニ
+    　７ 　　ッ　　　 （　 _＿ヽ､__ｌ　___ .!。 ｌ＿_ｌ__,-=-,＿＿_
+    　 ）　 　!! 　 　　（ ,　　　　　　　　　　 　 　　ｌ　　ｌ
+    　 ＾⌒~＾⌒＾~⌒＾　　　　　　　　　　　　　 　ヽ=ﾉ
+
+
+    　ローマ兵も、パンとチーズ一片と玉葱とワイン一杯が食事だった。
+    　……お前らそんな食事で大丈夫か？
+
+    　食後の清掃も火の始末も、厳密に決められていた。
+
+
+
+
+
+457 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:35:03 ID:tgasAEns
+
+
+
+
+
+    　ちなみに、ちゃんとトイレも設置されていた。
+
+
+    　　　　　　　　　　　　　 ＿_＿＿
+    　　　　　　　 　 　 　 ／　ー　 ー ＼
+    　　　　　　　　　　　/　（●）　 （●）ヽ
+    　　　　　　　　　 　 |　　　（__人__） 　 !
+    　　　　　　　　　　　ヽ、＿_ ｀⌒´　 ノ
+    　　　　　　　ｒへニニ,r ''　　 ＼ﾉ￣ヽ
+    　　　　　　　|　 |　 /　　　　　　　　　',
+    　　　 　 ｆニニ):|　 |　　ﾄ　 　 　 　 :| |
+    　　　　　| |:::|　 |　 |　　!、　　 　 　 | |
+    　 　((二ソ　|　 |　 | 　 !、　　　　　 | |
+    　　　　　　　|　 |:　 ＼　 ＼　　　　 | ＼
+    　　　　　　　ヘ,,』,,＿Ｌ＼＿ゝ＿＿」 ､ 入
+    　　　　 　 　 └|i へ { 　 ヽふ）::::.　￣￣￣￣　ヽ
+    　　　　　　　　　L_　',ヽ、 　　⌒ヽ:::,,＿＿__/　　 !
+    　　　　　　　　 　　!　 '､｀ - _　 　ｌ三ソ　 　 !　 　!
+    　　　　　　　　 　　ヽ.　　￣:|　　 |　./　　　 |　　,'!
+    　　　　　　　　　　 　!:　　　 |　　 | /　　＿,,,|　 ｲ
+    　　　　　　　　 　　　!:　　　 |__＿i ニ￣　 .⊥_.ノ）
+    　　　　　　　　　　 　!　　　｛ミ─　∠＼￣/＞彡｝
+    　　　　　　　　　　　 ｀'' ｰ-｛ミ二ミ＝─Υ::＿シ二)
+    　　　　　　　　　　　　　　　　}￣ヽ￣￣ ￣
+    　　　　　　　　　　　　　　　　ヾﾆニ)
+
+
+    　ローマ人の衛生観念は非常に高い。
+    　立小便はもってのほかである。
+
+
+
+
+
+458 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:35:53 ID:tgasAEns
+
+
+
+
+
+    　夜間は、日没から夜明けまでを４等分し、
+    ４交代で歩哨に立っていた。
+
+
+    　　　 　 ∧∧ 　 　 　　　 　 ∧∧ 　 　 　　　 　 ∧∧ 　 　　　 　 　 ∧∧
+    　 　 　 (；ﾟへﾟ)／ヽ 　 　 　 (；ﾟへﾟ)／ヽ 　 　 　 (；ﾟへﾟ)／ヽ 　 　 　 (；ﾟへﾟ)／ヽ
+    　　　　(　 つ≫―l>　　　　(　 つ≫―l>　　　　(　 つ≫―l>　　　　(　 つ≫―l>
+    （Ｘ）三三三三三|￣|三三三三三三三三三三三三三三三三三三三三|￣|三三三三三三（Ｘ）
+    （Ｘ）三三三三三|　 |三三三三三三三三三三三三三三三三三三三三|　 |三三三三三三（Ｘ）
+    （Ｘ）三三三三三|　 |三三三三三三三三三三三三三三三三三三三三|　 |三三三三三三（Ｘ）
+    （Ｘ）三三三三三|＿|三三三三三三三三三三三三三三三三三三三三|＿|三三三三三三（Ｘ）
+    "'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'
+    :;; ;::; :; :;:; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; :;:; ;:; :;:; :; :; :; :; :; :; :; :;
+    :; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :; ::; ;:; :;:; :; :
+    "'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'"''""'"'"'"'"'"'
+
+
+    　ローマ兵も同盟国兵も、４日に一回は歩哨に立ったという。
+    　ちなみに、眠りこけたりすると罰として大量の兵士に棒で殴られるので多分死ぬ。
+    　ローマ軍の罰は超厳しいのである。
+
+
+
+
+
+459 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:36:25 ID:tgasAEns
+
+
+
+
+
+    　夜が明けると、朝食。
+
+
+    　 　 　　　＿＿＿_
+    　 　　　／⌒　　⌒＼
+    　　　／（ ●） 　（●）＼
+    　 ／::::::⌒（__人__）⌒:::::＼
+    　 |　　　　｡｀,⌒ﾟ:j´ 　　 　 |
+    　 ＼γ⌒/■)' 　　 ＿ ／
+    　　　(　^ノ￣　　　 　　ヽ
+
+
+    　優秀な司令官は、兵士の腹具合に気を使うものである。
+
+
+
+
+
+460 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2012/03/17(土) 17:37:00 ID:tgasAEns
+
+
+
+
+
+    　第一ラッパで陣幕を片付け、荷をまとめる。
+    　第二ラッパで、それらを荷馬車に詰め込む。
+    　そして第三ラッパで行軍開始！である。
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　∧,,,
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ∧_,,,　　　 (#ﾟ;;-ﾟ)
+    　ヽ￣/∧,,,　　　ヽ￣/∧,,,　　　　ヽ￣/∧,,,　　　ヽ￣/∧,,,　　と(*ﾟдﾟ)廿　/:;:;つ､
+    　/ ＼(#ﾟ;;-ﾟ)　 　/ ＼(#ﾟ;;-ﾟ)　 　 / ＼(#ﾟ;;-ﾟ)　 　/ ＼(#ﾟ;;-ﾟ)　　|‐--､;:つ　（;ﾒ:::;|　＼　　 ﾊﾊ__ﾊﾊ__
+    　ヽ＿(;:つxl　　　ヽ＿(;:つxl　　　ヽ＿(;:つxl　　　ヽ＿(;:つxl　 ／￣＼￣￣￣￣|　 　 ｰ-ﾐ　ﾟ＿')ﾟ＿')
+    　 ～（;:ﾒ;:;:;:| 　 　 ～（;:ﾒ;:;:;:| 　 　 ～（;:ﾒ;:;:;:| 　 　 ～（;:ﾒ;:;:;:|. ｜‐○‐｜　　(ﾆﾆﾆﾆﾆﾆﾆﾆ) ノ " ノ
+    　 　 (;:/´l;:ﾉ 　 　 　 (;:/´l;:ﾉ 　 　 　 (;:/´l;:ﾉ 　 　 　 (;:/´l;:ﾉ　 ＼＿／-------´　 ||￣>^||´>^||
+    """ "" """ "" """ "" """ "" """ "" """ "" """ "" """ "" """ "" """ "" """ "" """ ""
+
+
+
+
+
+    　第５６．５話「ポエニ戦間期補足」終わり
+
+    　つづく・・？
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4266/clap" id="fc2button-clap-4266" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4266").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4266/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第五十六・五話　ポエニ戦間期補足" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4266.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4471.html">
+					やる夫達はローマ共和国を作るようです　第六十三話　アルプス越え（下り） (2012/05/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4424.html">
+					やる夫達はローマ共和国を作るようです　第六十二話　アルプス越え (2012/04/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4393.html">
+					やる夫達はローマ共和国を作るようです　第六十一話　ローヌ河渡河 (2012/04/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4366.html">
+					やる夫達はローマ共和国を作るようです　第六十話　ハンニバル進撃 (2012/04/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4345.html">
+					やる夫達はローマ共和国を作るようです　第五十九話　ハンニバル出撃 (2012/04/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4315.html">
+					やる夫達はローマ共和国を作るようです　第五十八話　第二次ポエニ戦争 (2012/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4290.html">
+					やる夫達はローマ共和国を作るようです　第五十七話　ハンニバル (2012/03/26)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第五十六・五話　ポエニ戦間期補足 (2012/03/18)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4250.html">
+					やる夫達はローマ共和国を作るようです　第五十六話　対ガリア戦 (2012/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4232.html">
+					やる夫達はローマ共和国を作るようです　第五十五話　イリリア攻略戦 (2012/03/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4193.html">
+					やる夫達はローマ共和国を作るようです　第五十四話　プロウィンキア (2012/02/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4180.html">
+					やる夫達はローマ共和国を作るようです　第五十三・五話　親子の誓い (2012/02/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4179.html">
+					やる夫達はローマ共和国を作るようです　第五十三話　カルト・ハダシュト (2012/02/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4139.html">
+					やる夫達はローマ共和国を作るようです　第五十二話　サルデーニャ島強奪 (2012/02/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4093.html">
+					やる夫達はローマ共和国を作るようです　第五十一話　傭兵の乱 (2012/01/29)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第五十六・五話　ポエニ戦間期補足" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/03/18 04:46 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html#comment_list" title="この記事のコメントを参照">CM(8)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4266"
+    dc:title="やる夫達はローマ共和国を作るようです　第五十六・五話　ポエニ戦間期補足"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。紀元前241年&#45;219年、東地中海､&#45;‐ﾌ|　 ヽ,ﾜヽ,　　ヾ　　　　　　　　　　　　　　　　　　　　　　,｀　　　　　　　　　　　､,, ,,　 ~|,　　´ヾ　　　　　　　　　　　　　　　　　　　, !　　　　　　　 , &#45; ‐ ´~　~ ｀´｀´~　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-03-18T04:46:41+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4230.html" title="やる夫で学ぶTribes：Ascend　最終回">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4261.html" title="やる夫で学ぶ初めてのぷよぷよ　れっすんよん">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment32980">[ 32980 ] <strong></strong></p>
+</div>
+<div class="comb">
+>ローマ人は肉はほとんど食べなかった。
+　>パンか小麦がゆ、これに野菜、魚、きのこ、果物。
+　>そして牛乳や羊乳、チーズ。
+　>更にオリーブオイルとワインが付けば上等。
+ 
+栄養バランスはいいかもな<div class="comment_navi">
+[ 2012/03/18 06:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment32987">[ 32987 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+欧米圏なんでもっと肉バカスカ食べてるイメージだったんだが、昔の日本人みたいなヘルシーな食生活だな。意外だわ。<div class="comment_navi">
+[ 2012/03/18 09:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment33005">[ 33005 ] <strong></strong></p>
+</div>
+<div class="comb">
+>ローマ兵も、パンとチーズ一片と玉葱とワイン一杯が食事だった。
+ 
+兵士はヘルシーな食事じゃなかったみたいだな。<div class="comment_navi">
+[ 2012/03/18 13:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment33007">[ 33007 ] <strong></strong></p>
+</div>
+<div class="comb">
+玉ねぎって、ソ連の収容所でも必需品だったそうだが、
+ 
+どれくらい人体に有用なんだ？<div class="comment_navi">
+[ 2012/03/18 13:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment33020">[ 33020 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本も乳製品が作れる気候だったらねぇ
+ 
+まぁ、納豆あるしいいか・・・<div class="comment_navi">
+[ 2012/03/18 19:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=33020" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment33297">[ 33297 ] <strong></strong></p>
+</div>
+<div class="comb">
+当時のローマにヨーグルトはなかったの？
+ 
+>執政官の警護を同盟国兵に任せちゃうのは凄い気もするが、
+>彼らは指揮官候補生なわけである。
+ 
+オスマントルコのスルタンが、奴隷身分を高官や近衛兵にしたようなものかな？
+一番の敵は身内、という意識。
+同盟兵じゃ執政官暗殺しても執政官にとってかわれないから。
+<div class="comment_navi">
+[ 2012/03/23 16:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment34582">[ 34582 ] <strong></strong></p>
+</div>
+<div class="comb">
+毎日こんなしっかり設営するのか
+木材とかも持ち歩いて大変だなあ<div class="comment_navi">
+[ 2012/04/15 07:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40444">[ 40444 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞玉ねぎって、ソ連の収容所でも必需品だったそうだが、
+＞どれくらい人体に有用なんだ？
+ 
+有用っていうか腐りにくいから重宝されたんじゃないか？<div class="comment_navi">
+[ 2012/07/24 08:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4266" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4266.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4266"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4266-c97e251b">http://oyoguyaruo.blog72.fc2.com/tb.php/4266-c97e251b</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4230.html" title="やる夫で学ぶTribes：Ascend　最終回">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4261.html" title="やる夫で学ぶ初めてのぷよぷよ　れっすんよん">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,923 @@
+<div class="article">
+
+
+
+
+原作・塩野七生 著 ローマ人の物語1
+「ローマは１日にして成らず」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+
+紀元前616年、イタリア
+
+
+　　　　　　　　　　　　　　　　　　　　　,-、
+　　　　　　　　　　　　　　　　　　,-～´
+　　　　　　　　　　　　　　　　　　＼
+　　　　　　　＿　　　　　　　　　　|~
+　　　　　 /´　 ｀ヽ,　　　　　　　　|,
+　 ,-～´~　　　　　~´)　　　　　　　｀＼,
+／　　　　　　　　　　 )　　　　　　　　　｀~|
+　　　　　　　　　　　　｀)　　　　　　　　　 ｀|
+　　　　　　 　　　　　　~＼　　　　　　　　　|,
+　　　　　　　　　　　　　　く,,_　　。ｳｴｲ　　 ＼
+　　　　　　　　　　　　　　　　｀＼ 　◎ﾛｰﾏ　　 ｀"-,_,,-ｰっ
+　　　　　　　　　　　　　　　　　　＼　○ｱﾙﾊﾞ　　　　　／
+　　　　　　　　　　　　　　　　　　　 ｀ヽ,-,_　　　　　 　 ｀ヽ,,
+　　　　　　　　　　　　　　　　　　　　　　　ヽ,_,　　　　　　　 ￣｀ヽ,,_
+　　　　　　　　　　　　　　　　　　　　　　　　　｀っ　　　　　　 ,,-,,＿ ~ヽ,
+　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀ヽ,　_ 　　/　　　 `ヽ　)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ~　|,　 （_,　　　　 し´
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ）　　 ｀ヽ,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀),,　 ＿|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,-´　(
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 _)　 ノ´
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (_＿ﾉ
+
+
+やる夫達はローマ王国を作るようです
+第七話　「タルクィニウスの統治」
+
+
+
+
+
+
+
+
+
+195 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:16:50 ID:tPFGYtwc
+
+
+
+
+    見事、王の座を射止めたタルクィニウスは、その権力基盤を固めることにする。
+
+
+
+    　　 ／ : ,. -／: : : : : : : : ／: /: : : : : : : : : : : : : : : : : : : : : : :＼
+    . ／,..　'´／: : : :／: : : : /: : : l: : : : : : : : : : : : : : : : : : : : : : : : : ヽ
+    /／ 　 / : : : : /: : : : : /: : : :,! : : : : : : l: : : : : : : : : : : : : : : : : : : : ',
+    .　 　 /: : : : : /: : : : : /: : : /.|: :|: : : : : |: : : :l: : : : : : : : : : : : : : : : : l
+    　　 /: : : : : /: : : : : /-‐ x'　!: :|: : : : : |!: : : :l: : : : : :ヽ::::: : : : : : : : :|
+    　　 !: : : : :/: : : : : / : : :/ ヽ| : | : : : : | l : : : |: : : : : : :ヽ:::ヽ : : : : : |
+    . 　 !: : : :,.ｲ: : : : : :l : : /　　 l : !: : : : :| ,.x-‐‐!-､: : : : : ﾊ::::ﾊ: : : : : !
+    　　|: : :/　!: : : : : :|: : / 　 　 l: |: : : : :|　 ヽ: : !､: ヽ､ : : : l::::::l: : : : :|
+    　　|: :/　 |: : : : : : ! ll｀!‐- ､　l |､: : : :|　　ヽ: :| ヽ: :!: : : : :l:::::::!: : : l
+    　　|:/　　 l: : : : : ｲ l　|　　 ,!｀'.| ヽ: : | - ..__ヽ|　ヽ: l: : : : :l､:::::l: : :!
+    　　　　　　|: : : : :l l:|　 r'ｰ',ﾉ　 　 ヽ: |　 | 　｀丶､ヽ:|: : : : :|:ヽ::l : |　　まずは元老院議員を二倍に増やすよ！
+    　　　 　 　 !: : : ,.!: |!　 ｀ '´　 　　　ヽ! 　r'､__ ,./'/l: !ヽ : : |）:ヽ|: l　　増やす議員は王が決めて良いよね？
+    　　　　　　 ', : / | : '、 '"'"　 ,　　　　　　ヽ._,. '　l:∧!: 〉､ ,.! '´ ,):|
+    　　 　 　 　 ヽ:l　!: : :｀ヽ､ 　　､_　　　　　'"'" ･ l/: : : :l／　 ／: l
+    　　　　　　　 '.|　| : : : :|:l/丶､　 `ｰ'　　　　 r‐〈: : : : /　 ／、 : |
+    　　　　　　　　　 l: : : : |:| l:.:.:.:.:｀ ｰ,┬　'' ´ ,〉、r'ー-'､　/=-ヽ: :!
+    　　　　　　　　　/! : : : |:! |:.:.:.:.:.:./　'　　 , ':/:.:.}-- ..__,　!'"　｀ヽ:|
+    　　 　 　 　 　 /　!: : : :|:! l:.:.:.:.:.:l｀ヽ､　 / /:.:.:.l.＿＿,.　l_,. --､:}:l
+    　　　　　　　　{ 　 !: : : |:| |:.:.:.:.:.| 　　｀/ /:.:.:.:.:{　　　　 l　　 　 ヽ!
+
+    　　　　　　　　　　＊ローマ５代目王、タルクィニウス・プリスコ
+
+
+
+    人口の増加を理由に、元老の数を２倍に増大。
+    自分の息のかかったメンバーで固め、元老院を掌握した。
+
+
+
+
+
+196 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:17:24 ID:tPFGYtwc
+
+
+
+
+    更に、自ら軍を率いてラテン人の都市を次々と攻略。
+
+
+
+    　　　　　　　　 ∧
+    　　　　　　　　 ∨
+    　　　　　　　　(≡）
+    　　　　 /´二｀ ┃
+    　　 　 [(ﾟＯﾟ*[=Ｏ　　　　　 =(＝== 　 =(＝== 　 =(＝== 　 =(＝== 　 =(＝== 　 =(＝==
+    　　　　i:i:i:iつﾊ_┃　　　　 　(*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)
+    　　 ～ﾉ,,,ﾉﾐ　ﾟ_┃　　　 ━i:i:iつ━Ｏ━━━(((＜＞━(((＜＞━(((＜＞━(((＜＞━(((＜＞
+    　彡（,｀Ｕ"" ノ ┃　　　～ﾉ,,,ﾉヽヽ ～ﾉ,,,ﾉヽヽ～ﾉ,,,ﾉヽヽ ～ﾉ,,,ﾉヽヽ ～ﾉ,,,ﾉヽヽ～ﾉ,,,ﾉヽヽ
+    　　　 >￣>^>　　　　 ε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊ
+    "ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~
+
+
+
+    この王の時代に、全てのラテン人都市の制圧は完了した。
+
+
+
+
+
+197 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:17:56 ID:tPFGYtwc
+
+
+
+
+    これまでの王は、敵都市を破壊し、住民をローマに移住させていたが・・・
+
+
+
+    　　　　　　　　　　　　　　　 -－-
+    　　　　　　　　　 _.　 ' ´　　　　　　　　｀　、
+    　　　　　　 　 ／　／　　　　　　　　　　　 ＼
+    　　　　　　　/　／／　　　　　　　　　　　　　｀　ー-
+    .　　　　　　/／ィ'　　 .／　＿_　_,./　　｜ |
+    　　　　　 ,ｨ' ／　　 ／　´,　 ' ＾　′ 　 ,|　|
+    　　　　 '´ ｌ′　 _／ .__／　　　 /　 　 7ト/.
+    .　　　 　 /　. ィ'/　 「'７女ァr　/ 　 ／　!'| lヽ　|
+    　　　　 /／,ｒ１'　,.ｲ　ﾑ.　 /　/　／　ぇ､ﾘ |　　|
+    .　　 　 ´　l.{　|／　|　[＿/　 /／　　 '　ヾ:､　　|
+    　　　　 　 | ヽ|　　 |　　　　　'　　　 ん　／|　 /　|　　　もう人は十分だよ。
+    　　　　 　 |　｜ 　 |　　　　　　　　 ヽ､/,ｒ´|／　 ,ﾊ　　　何か金目のものでも頂戴。
+    　　　　 　 |　｜ 　 |＼　　　´’　 　 　 /　 ,　　, '　l/
+    　　　　 　 |　｜ 　 |　j｀　ー--‐ャ　 ´　／ |／
+    　　　　　　'.　ﾊ. 　 |/　　 ／　／　　, <　　 !
+    　⊂,.￣｀ヽ∨ ∨　|￣｀/ 　 /　, ／,ｒ⌒.ー､
+    　／　　 　 ﾞl 　 Ｖ' |　 / 　 /／'´ i´　　 ｀ヾ
+    　}',. ,　／　 |　　 ヽl. /　　/'　 　 ！　　　　 ）
+
+
+
+    物凄い量の戦利品を持ち帰り、ローマ市民を驚嘆させた。
+    初めて凱旋式を行なった王とされる。
+
+
+
+
+
+198 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:18:19 ID:tPFGYtwc
+
+
+
+
+    このころ、サビニ人が奇襲攻撃をかけてきた。
+    ローマは混乱状態に陥るが・・・
+
+
+
+    　　　 　 　 　 　 　 /::.::.::／:／／ .::.::.::.::.::.:.／ ! .::.::.::.::.::.::.::.::.::.:|::.::.::.::.::.::.::.::.
+    　　　　　　＼　　　ゝ‐＜::./::./ .::.::.::.::＼／　　| .::.::.::.::.::.:: /::.::.:|::.::.::.::.::.::.::.:::
+    　 　 　 ＼ 〃　／　＿　 ヽ:/::.::.::.::.::.:／＼　　|::.::.::.::.::.:: /::.::.:: |::.::.::.::.::.ヽ::.::
+    　　　　　　{{　/　／ __　ヽ　',.::／::.／　　　`ｰ |::.::.::.::.:: / |::.::.:/|＿::.::.::.::.:l::.::
+    .　　 ──　　|　 !　/r ）　}　|ｲ斤テ左≡ｫz　/::.::.::.::／ 斗七　!::.::.::.::.::.::.|::.::
+    .　　 　 　 　 ∧　ヽヽ _／　/::!　ﾚﾍ :::::::::/　/::.::. ／　 　 j /　 | .::.::.::.::.:: |::.::
+    .　　　　　, -―ﾍ 　`ー 　 /.::.|　rｰ'ﾟ:::::::/　/::.:／　　 テ左≠=ヵ::.::.::.::.::. |::.::
+    ＿＿__／　　　{　　　　　/.::.::.|　ゞ辷ｚﾝ　/／　　　　う｡::::::7 /ｲ .::. |::.::.::.|::.::
+    彡_／　　　　　ヽ　　 　ｲ ::.::. |　　　　　　　　 　 　 /ﾍ:::::::/　　|.::.::.:|::.::.:∧::.
+    〃　　　V　　　　ヽ　 　 ヽ.::.: |　　　　　 　 　 　 　 ヾ辷:ﾝ　／:l::.::./!::.:/　　　木材に火を付けて！
+    　l　　　 {　　　　　 ∨　　}__.::.|＼　　 　 ＜!　 　 　 　 　･ /::.ｌ::|::./│/　　　　川に流すんだよ！
+    　ヽ　　　ヽ　　　　　{　　　　 ￣￣￣｀ヽ _　　　　　　 　 ｲ::.: ｌ::|:/　j/
+    、　＼　　　＼　　　 }　　　　　　　　　　 ） ／￣￣￣l7::.:|::.::.j::l′ /
+
+
+
+    王は、燃え盛る木材の山を流して橋をぶち壊し、敵を混乱させると、
+    増強した騎兵軍団で撃退した。
+    サビニ王国と有利な和平を結び、敵はほぼいなくなった。
+
+
+
+
+
+199 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:18:59 ID:tPFGYtwc
+
+
+
+
+    そして・・・
+
+
+    　|:.:.:.:.:/:.:.:./:.:.:.:.:.:.:.:/i ｀V.:.:.:.:.iヽ:.:l.:.:.:.:.:.∧ ､ヽ
+    　|:.:.:./:.:.:./:.:.:.:.: ､／/　 |:.:.:.:/:.l　∨!:.:.i.:.:.∧ ＼
+    　|:.:/:／/:.::.:.:.:／ >､__,, |:.:./レ'／|:.l:.:.:!:.:.:.:.:|
+    　|:.|:/:,､':.:.:.:／___＿＿　!:/　＿__ !::!:.:.|:.:ｉ:.:.:|
+    　|:.|/:{　!:.:/:.| ￣￣￣　|'　 ,￣･ {::.!:.∧:ﾄ､:.!　うーん・・・
+    　|:/:.:.ヽ|:/:.:.:!　 ,,,,　 　 　 __　 　 }:.lﾚ　!'　V
+    　|':.:.:.:.:>'´￣ﾞヽ､　 　 　 ´　　,. <':.:.|
+    　':.:.:./ 　 　 　 ﾍヽ　 辷ｧ_;_:ﾁj.:.:.:.:.:|
+    　:.:./　　　 　 　 l　＼ ´}　/ r ｀i.:.:.:.|
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 ＿　＿＼
+    　|　　　 　･　　・　|
+    　|　　＠　 （__人_）
+    　|　　　　　｀ ⌒´/　　どうしました？
+    　|　　　　　　 　 }
+    　ヽ　　　　　 　 }
+    　　ヽ　　　　　ノ
+    　　　/　　　 く ＼
+    　　　|　　　　　＼ ＼
+    　 　 |　　　　|ヽ、二⌒)､
+
+    ↑側近の元老院議員
+
+
+
+
+
+200 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:19:29 ID:tPFGYtwc
+
+
+
+
+    　　　　　　_,_,;_‐: :'':'':￢:‐.-. .,,_　 _,,,r.､. . . . .,,_
+    　　　　　　　　 ￣,.¨ﾆ=-: : : : : :｀`/: : : : : : : : : :｀:`:丶. 、
+    　　　　　　　　／,. ‐ '':":´: : : : : :.:l::: : : : : :: : : : : : : : :ﾊ: :＼
+    　　 　 　 　 ,:'ﾞ'"　　 ,.　　　　 /.::;:!:::. : : : :.::. : : i;. : : : :Ｊ､: : :.ヽ
+    　　　　　／　　. . ／: : : : : : /:::/ !:::|: : : : i:::ﾊ: : i::. : :　　ヽ: : : ﾞ:,
+    　　 　 /. . : :,,: イ: : : : : : : : :i:::/　!::::!: : : :.l::l. i: : i:::. : : : :i, ﾞ; : : : i
+    　 　 /: ; -'"　/: :/: : : : : /:.;!:::i　 l:::::{: : : :.|:l　 i: :.i::::. : : : i: :i: : : :|
+    　　/／　　　/: ;.l: : : : : :/､/!::l 　 l::::!i: : : :.!l 　 i: :ﾄ;::::. : : :i: :i: : : !
+    　 '"　　　　 ; :/ !: : : : : l: :l｀ト!､,,_,,i::| ∨; ､| _,,. ⊥j‐<": : :.!: :i: : :!
+    　　 　 　 　 !:.!　!: : : : : !:≧土ｭ,,__ !|　∨.:.｢ ＿,,,｣:L-v: : :.|: :j: : !
+    　　 　 　 　 !:l　 !: : : : :i:!:lヤ[ﾞﾞ天ﾞﾄヾ　 Ｖ:.| 行ﾞ天ﾞ丁ﾔ: : j: :.|: :i
+    　　 　 　 　 l:l　 ∨: : :.i::!ﾊ　r' ｰｲ| 　 　 ヾ|　r' ｰｲ ! j:};. :.l:|; j）:l　　このローマって、７つの丘には人が住んでるんだけど、
+    　　　　　 　 l:!　　V: : :!:i:{::i　''"￣　　　　　　 ￣lﾞlT・l:i::i: :!:j,}:!: l　　間の湿地帯は使い物にならないんだよね・・・
+    　　　　　　　{|　　 ∨.;!::::::::!、　　　　　　　　　　　　 ,':':::V:.i:{:ﾘ: |
+    　　　　　　　　　　　V l:::::::::::`丶.､,,_　∠ヽ　　_,,...イ':: : : /:::!.: :.|
+    　　 　 　 　 　 　 　 　 l.:.::::::::::::i:::::::::::/丁´￣,ﾚ ヾ:l: : : /:::ヾ!: :.|
+
+
+
+    　　　　　 　 　 ｜
+    　　 　　　 ／￣￣＼
+    　　　 　／　 ヽ､_　　＼
+    　　　 　ー 　ー　　　　|
+    　　　 （__人__）　＠　　|　　そりゃあ仕方ないでしょう。常識的に考えて・・・
+    　 　　（　　　　　　.u 　|　　沼の上で暮らそうという人はいません。
+    .　　　　{　　　 　 　 　 |
+    　　　 ⊂ ヽ∩　　 　 く
+    　　 　 | '､＿ ＼　／　 )
+    　 　 　|　 |_＼　 “　.／
+    　　 　 ヽ､ ＿_＼_／
+
+
+
+    建国時から、７つの丘の周りは湿地帯のままであり、
+    全く役に立たなかった。
+    しかも交通の便も最悪で、丘同士の孤立化を招いていた。
+
+
+
+
+
+201 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:20:01 ID:tPFGYtwc
+
+
+
+
+    .　　　　／／　　　　　 　 　 　 ＿／_,∠＿＿
+    　　　 /.:/　　　　　'" ￣￣ ヘ　　　　　＿＿　¨.二ﾆ=-､
+    　　　 {::{　　／: : : : : : : : : : : : :＼: : : : : : : : : :｀丶、
+    　　 　 ヾ　 /.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽ.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽ　 ／＿
+    　　　　　>′.::.::.::.::.::.::.::.::.ヽ.::.::.::.::.::. ＼-.::.::.::.::.:＼_.::.::.＼´ ／
+    .　　 　 /.::.::.::／ :.::.::.::.::.::.:: |.::.::.::.::.::.::.|::＼.::.＼.::.::.:＼｀＼∨
+    　　　　|.::.:: /.::.::.::.::.::／|⌒:j.::.::.:.:::.::.:: |.::| _＼.::.ヽ.::.::. ヽ
+    　　　　|.::.:/.::.:: /.::.::.::.: | .:/ ＼.::.::.::.::.:ﾚﾁ斤| ﾄ.::.',.::.::.::.:l
+    　　　　|.:/.:,'.::.::|.::.::.::.::/|:/__　　ヽ.::.::.::|ち:::|　{.::Ⅳ＼.::.j
+    .　　 　 Y.:/! .:: l.::.::.: / ｨチ行 　　ヽ.::.| Vﾋｉ　',::.l　　 ∨　　よし！水を抜いちゃおう！
+    　　　　 ﾚ.::|.::.::.|.::.::.ﾊfﾍﾉ:::::ハ　　　∨　 　 ・}.::.ｌ　　　　　大規模な下水構を作る！！
+    　　　　 lrｰゝ､∧.::.ｌ∧　V;少''　　 　 _'　 　 ｲ.::.:|
+    　　　　 j ＼　＼∨.::. ヽ, -、　 　 こ.ノ　∠l | ::.:|
+    .　　 　 ,'.::.::.（￣｀ヾｰ､_/　/、 ＿＿　／//}│ .:l
+    . 　 　 /.::.::.: (￣ ヽﾉ　 　 {＼　　　ハ　/V/│.::.!
+    　　　/.::.::.::.:r'¨`ｰt'　　　ﾉ.::. ＼ｰ‐'´|　川{　∨ﾘ
+    .　　/ :.::.::.::. `ﾄ ー′　 ｲ ＼.::ヽ＼　| // ﾉ
+    　／.::.::.::.::.::.:人ゝ､_　　 lﾉ　ﾊ.:.:}∨ヽ!シｲ
+    /.::/.:::.:::.::.::〃　＼ ＼／　/） V二ﾆ¨´¨`ヽ
+    .::/|.::/.:::.::.::{{　　　＼三／人　　　 /　　}　 ＼
+    /　V.:::.:::.:::.:::ヾ　　　　　 ｲ　 ｀　　（　　 {｀ヽ､_ ＞
+
+
+
+    　　　　　　　　　　　　　 　／￣￣＼
+    　　　　　　　　　　 　 　_ノ　　ヽ、 u ＼
+    　　　　　　　　　　Σ　　・ 　　・　　　　|
+    　　　　　　　　　　　　（__人__）　＠　　| ..／}　　　　　　ええええ！？
+    　　　　　 _　 　　　 　 ヽ｀⌒ ´　 　　　| /　/ 　　　__　　何それ！？
+    　　 (＾ヽ{　ヽ　　　　　 {　　　　　　　　./　/　 .　／ .ﾉ
+    　(￣ ヽ ヽ　i　　　　　　ヽ　　　　　　/　厶-　´ ／
+    .(二 ヽ　i　i　|,r‐i　　　　ﾉ.　　　ヽ /　　　　 ／
+    　　ヽ　　 ／　 ノ　　／　　 　r一'´　ー ､　　￣￣￣）
+    　　 i 　 {　　 ｲ―イ　/　 　.`ー―.　､＿_　.〈￣￣
+    　　　ヽ.　`ｰ '/　　　/　　　　　　　　　 　/＼ ＼
+    　　　　　 `ー ' ￣￣!　 　　　　　　　　　|　　ヽノ
+
+
+
+    それは、当時のローマ人の常識を超えまくる提案だった。
+    この時点で、ローマ人の技術力は低かったのである。
+
+
+
+
+
+202 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:20:32 ID:tPFGYtwc
+
+
+
+
+    しかし、エトルリア人の土木技術は当時、極めて高かった。
+    王の提案に応えるため、大量のエトルリア人がローマに移住。
+
+
+
+    ..　　　　　　　　　　 ''';;';';;'';;;,.,
+    　　　　　　　　　　　　　''';;';'';';''';;'';;;,.,
+    　　　　　　　　　　　　　　;;''';;';'';';';;;'';;'';;;
+    　　　　　　　　　　　　　;;'';';';;'';;';'';';';;;'';;'';;;
+    　　　　　　　　　 vymyvwymyvymyvy、
+    　　　　　　ヽ(ﾟдﾟ)vヽ(ﾟдﾟ)yヽ(ﾟдﾟ)v(ﾟдﾟ)っ
+    　⊂( ﾟдﾟ )　と( ﾟдﾟ ) 〃ﾐ ( ﾟдﾟ )っ ( ﾟдﾟ )つ　　仕事だーーー！
+    　　 ゝ　 ﾐ ( ﾟдﾟ )っ ﾐ）　⊂( ﾟдﾟ ) .(彡　　ｒ　　　ローマへ行くぞー！！
+    　　　 しu(彡　　ｒ⊂( ﾟдﾟ ) .ゝ.　 ミ）　i_ﾉ┘
+    .　　　 　　 i_ﾉ┘　 ヽ　　ミ）しu
+    　　　　　 　　　　　 （⌒） .|
+    　　　　　　　　　　　 三`Ｊ
+
+
+
+    さらに、王はローマの兵士や、貧民を大量に動員。
+    「公共事業」をはじめたのだった。
+
+
+
+
+
+203 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:21:06 ID:tPFGYtwc
+
+
+
+
+    網の目のように水だらけだった湿地の水を集め、
+    テヴェレ川に流す装置が作られた。
+
+
+
+
+    　　　　ﾞ"ﾞ"ﾞ 　　　ﾞ"ﾞ"ﾞ 　　ﾞ"ﾞ"　/ﾞ|:.. 　　....　　　　　　　ヾ　　　　"ﾞ"ﾞ"
+    　　　　　"ﾞ"ﾞ"　　　　"ﾞ"ﾞ" 　／|:::.....　 　　 　:...::.　　　　　|＼　"ﾞ"ﾞ"　　　"ﾞ"ﾞ"
+    　　w、,,,WwwjwwiiW━━━━━━━━━━━━━━━━━━━━Wwwwjij,,.、
+    　　　　　　　　"" 　""""""　""""　""　　"""""　　　""""　""
+
+
+    　　　　　,,,,　,,,,,　,,,,,,,,,,　,,,,,,,,　　,,,,,,,　,,　,,,,,,,,,　,,,,,,,,　,,,,,,,,,　,,,,,,,,　,
+    　　.W..Wjw,.v━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯━┯vjiii,.、,、,,,
+    　　wWWw..>.┬┴┬┴┬┴┬／￣￣￣￣￣￣＼┴┬┴┬┴┬┴ wjwwjij,,.
+    　　iiWW.vji|,,.┴┬┴┬┴┬#/：：　　　　　　　　　　ゝ..┴┬┴┬┴┬jjw .jW,.w
+    　　Ww　.／| ┬┴┬┴┬┴;;|：：：：．．　　　　 　 　 .| .┬┴┬┴┬┴vjiiij..WW
+    　　　　＜　　　　..:::...　　　...　　　　　...::　　　　　　　..:::....　　　　　　　　|＼
+    　　　　　ﾞヽ　.....:::..　　　　　　　.:.　　　　　　　　　..::...　　　　　　　　　　　 >
+    　　　 "ﾞ"ﾞﾞ|::...　　　.:.　　　　　　　　　　..:.::...　　　　　　　　　　　　　　　│"ﾞ"ﾞﾞ
+    　　"ﾞ"ﾞ" <:::.....　　　　..:....　　　　　　　　　 　　　　　:...::..　　　　　　　　│　"ﾞ"ﾞ"
+
+
+
+    大下水溝（クロアカ・マキシマ）が完成した。
+
+
+
+
+
+204 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:21:32 ID:tPFGYtwc
+
+
+
+
+    これにより、７つの丘の間の湿地帯は消滅。
+    ローマは広大な土地を手に入れた。
+
+
+
+    　　　　　　　　　　　　 ￣￣＞ .::.::.: /.::.::.::.::.::.::.::.::.::.ヽ::＼.::.::.::.:＼
+    　　　 　 　 /⌒l　　 , ‐､／ .::.::.::.::.:: | .::.::.::.::.::.::.: | .::.: |.::.::.＼.::.::.::.:ヽ
+    　　　 　 　 {　　| 　,/ 　 |/.::.::.::/ .::.: |.::|::.::.::.::.::.:: j :.::.::|/.::.::.::.＼.::.::.: ',
+    　　　 　 　 |　　|／{　　 |.::.::.: ,'.::.::.::.:|.::l::.::.::.::.::.::ハ.::.:∧ .::.::.::.ｌ.::ヽ :.::.l
+    　　 /＾ヽ　│　 |￣!　　:l ::.l .::|:＼:/ |.::l .::.::.::.::./　 ∨.:ハ.::.::.:.|＼|::.::.:|
+    　　{　　`、 l 　 :l,　|　　:ｌ.::.:!.::.| .::/＼!∧ :.::.::./ __／∨　|.:::.::.:|.:| .::.::.::!
+    　　 `、　 ヽﾍ　 :Ｌ_j　　:{.::.ﾊ.::.l :,' 　 `ｰﾍ.::.:∧ 三三三 |.::|∨::.|.::.::.::.|
+    　　　 ＼　 ∨　　　　　 ∨ ﾍ.:ｌ小. 三三 ∨　　　　 　 ･|.::l.::.::. |^ヽl :|　　どや！
+    　　　　　ゝ　　　　　　　　ヽ　Ⅵハ　 　 　 '　　　 　 :::::::| :l.::.::.::|_ノ:l :|
+    　　　　〃 ｀Y⌒ ー─　 　 |＿ﾝｰﾍ:::::::　`ーー ’　　　│ｌ ::.::.:ﾊ.::.::V
+    　　　　{{　　 ＼　　　　　　ﾉ⌒ | l l |ヽ､ _　 　 　　 　 イ|:l.::.::.:,'.:.::.::.::|
+    　　　　 `ｰt一'´￣て`　　　 　 | l l |　ﾍヽ＞ -‐ '´ん.::ﾘ:ｌ .:: /:l.::.::.::.:|
+    　　　　　　 ｀ヽ､ _＿　　　　　　| l l |　　 | l l＼　 ∧ ∨:l.::.:/::.:l.::.::.::.:|
+    　　　　　　　　　　　 ｀ヽ､＿＿////　 　 V|ﾍ　ヽ＿}_ ∨.:/.::.::.l.::.::.::.:|
+    　　　　　　　　　　　　　　人彡∠/　　　　V|ﾍ　 ∨　|/／ヽ :.::l.::.::.::.:|
+    　　　　　　　　　　　　 ／.::.::ヽ､＿＿／　　V|lﾍ　 ヽ j /// }ー-､.::.::.:|
+
+
+
+
+    　　　　　　人从
+    　　　　　そ　　 そ
+    　　 ／￣￣＼く
+    　／　　 ＿　＿＼
+    　|　　　 ○　　○ |
+    　|　　＠　 （__人_）　　なん・・・だと・・・！？
+    　|　　　　　 |ililili|/
+    　|　　　　 　｀⌒´}
+    　ヽ　　　　　 　 }
+    　　ヽ　　　　　ノ
+    　　　/　　　 く ＼
+    　　　|　　　　　＼ ＼
+    　 　 |　　　　|ヽ、二⌒)､
+
+
+
+    ローマの中央部には、政府庁舎群と言うべきフォロ・ロマーノ（フォールム・ロマーヌム）の原型が形作られた。
+
+
+
+
+
+205 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:22:01 ID:tPFGYtwc
+
+
+
+
+    　　　　　　　　　　　　　　　　　　 　 　 　 _.　-　._　　　　　　　　　　　　 _
+    　　　　　　　　　　　　　　　　　　　　　／.　-－- ＼　　　　　　 　 　 　 l ｀i　　　＿_
+    　　　　　　　　　　　 　 　 　 　 　 　 /／　　　　　　ヽ　　　　　　　　　　}　´￣　´ '´ う
+    　　　　　　　　　　　　　　　　　　　　|｛　　　　　 ／＼　　＿＿＿＿　　j　　　　　／
+    　　　　 （ ヽ　　　　　　　　　　　　　 '.l.　　　___/　 　 ヽ´　　ー-=ﾆ.¨｀７ 　 　 ｒ '
+    　 r──’　｀ヽ　　　　　　　　　　　　.ゞ ' ´　　 　 　 　 '.　　　　　　 ｀丶、　 /
+    (´_￣　　　　 　 ヽ　　　　　　　　 ／　　　　　　 　 　 　 |　　　　 　 ＼　 ＼/
+    ‘ｰ⊂.　　 　 　 　 ＼　　　　　　/　 ,　　　 ｌ　 ｜　　　　|、　　　 　 　 ヽ‐-,ヽ
+    　　　　￣￣＼ 　 　 ＼. 　 　 /　 /　　 　 !　 ∧ 　 ｜｜ヽ__｜　　　　 ∨　｀
+    　　　　　　　　 ＼ 　 　 ＼　 /　 /　　　　 |　/　' 　 ｜｜'´ヽ l　 　 　 l.　',
+    　　　　　　　　 　 ＼ 　 　 ＼l　 '　 　 |　 ,ィ´′ ∨　ﾊ. |　　 Nヽ.　　　|､　i
+    　　　　　　　　 　 　 ＼ 　 　 ＼l.　 　 |　 /|/　 　 　/　/ 　 　 　 ',　　 |､ヽ!
+    　　　　　　　　 　 　 　 ＼ 　 　 ヽ､.　 |　i 　 　 　 ∨　　　 三三 ハ.　 !　＼　　物凄い土地ができたね！
+    　　　　　　　　 　 　 　 　 ＼.　　 /＼ |　|　ｘィ彡　　　　　　　　・{　l.　∧　/　　ここは一つ、でっかい競技場を作ろう！
+    　　　　　　　　　　　　　　　/＼ /　　 }'ヽ! "´　　　　 　 ,、_,　　　l　|∨　∨
+    　　　　　　　　 　 　 　 　 /　／　　　/ 　 ＼　　 　 ‘７´　 ） 　 .ﾉ　| 　 　 l
+    　　　　　　　　　　　　　　{　　　　　 /　　　 ',＼　　　 ､__,. '　,／　　|　 　 /
+    　　　　　　　　　　　 　 　 ＼　　 ／　　　 　 ',　ヽ----r　' ´　|　　 |　　./
+    　　　　　　　　　　　　　　　 | ｰ ´　　 　 　 　 ',　 ',　　 ヽ　 　 |　　 |　 /
+
+
+
+    王は、パラティーノ、アヴェンティーノの丘の間に、大競技場（チルクス・マクシムス）を建設。
+
+
+
+
+
+206 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:22:26 ID:tPFGYtwc
+
+
+
+
+    演目は、エトルリア式の競馬とボクシング。
+
+
+
+    　　　　　 ∧,,∧ 　.∧,,∧
+    　 ∧∧(｀・ω・´)(｀・ω・´)∧∧
+    　(｀・ω・´).∧∧) (∧∧(｀・ω・´)　　うおおおおお！
+    　｜　Ｕ (｀・ω・´)(｀・ω・´) と ﾉ　　　すげええええええ！！
+    　　ｕ-ｕ　（l 　　 ) ( 　　　ﾉ u-ｕ
+    　　　　　　`ｕ-ｕ'　 `ｕ-u'
+
+    　　　　　　 ＿,　 　 ＿, 　 　 ＿　 　 ＿ 　 　 ＿ 　　 ＿,　 　 ＿　 　 ＿
+    　　　　　　 |_|_|　　 |_|_| 　　 |_|_|　　 |_|_| 　　 |_|_|　　 |_|_|　　 |_|_|　　 |_|_|
+    　　　　|￣|＿　|￣|＿　|￣|＿　|￣|＿　|￣|＿　|￣|＿　|￣|＿　|￣|＿
+    　　　　|　 ＿|　|　 ＿|　|　 ＿|　|　 ＿|　|　 ＿|　|　 ＿|　|　 ＿|　|　 ＿|
+    　　　　|＿|　　 |＿|　　 |＿|　　 |＿|　　 |＿|　　 |＿|　　 |＿|　　 |＿|
+    　　　　　　　　∧,,∧　　　　　　　　 　 ∧,,∧　　　　　　　　　 ∧,,∧
+    　　 　 ∧,,∧（・ω・´） 　 　 　 ∧,,∧（・ω・´）　 　 　 ∧,,∧（・ω・´）
+    　　 ε=━┓Ｏニ)< > 　 　 ε=━┓Ｏニ)< >　 　 ε=━┓Ｏニ)< >
+    　 　 /　　 ノ lﾐl_, (ヾゝ　　 　./　　 ノ lﾐl_, (ヾゝ　　　./　　 ノ lﾐl_, (ヾゝ
+    　　 (o_o,ｲ 　 ヽ´|(__) ﾉ~⌒）(o_o,ｲ 　 ヽ´|(__) ﾉ~⌒.(o_o,ｲ 　 ヽ´|(__) ﾉ~⌒）彡
+    　　　 　 ﾉ　 　 ヽ| |￣ノl　ﾉ　　　ﾉ　 　 ヽ| |￣ノl　ﾉ　　 ﾉ　 　 ヽ| |￣ノl　ﾉ
+    　　　　 / /~ヽ ﾉ'''''''~ヽヽ＼ヽ_ ./ /~ヽ ﾉ'''''''~ヽヽ＼ヽ_ / /~ヽ ﾉ'''''''~ヽヽ＼ヽ_
+    　　　　 ヽニﾌ|_|　　　(_/　　ヽﾉ ヽニﾌ|_|　　　(_/　　ヽﾉヽニﾌ|_|　　　(_/　　ヽﾉ
+    　　　　　　 　 (_ヽ　　　　　　　　 　 　 (_ヽ　　　　　　　　　 　 (_ヽ
+
+
+
+    娯楽やスポーツなんて知らなかったローマ人を魅了するには、十分だった。
+    王の人気はとてつもなく高まった。
+
+
+
+
+
+207 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:22:50 ID:tPFGYtwc
+
+
+
+
+    　　　/　　　 : :.／: : : : : : : : : : l: : : : : : ',: : : : : : : : : : : 　 ＼-､　　＼
+    　　 /. . 　 　 /　　: : : : : : : ,: : :!: : : : : : :}: : : ､: : : :､　　､　　ヽ ｀ヽ､: :ヽ
+    　　,: : : : :　 /: : : . . . . . . ../:.:./|: : : : : : :.!,: : : :',: : : :､: : : ､: : : :＼ 　 ｀　＼
+    　　!: : : : : :/: : : : : : : : : :,/:-/､|: : : : : :l: |ヽ: : : l: : : : ,: : : :',: : : : : ',
+    　 .i: : :. : :./: : : :l: : : : :´:/: :/　 !: : : : :,ｲ:.|　´｀ヽ!: : : :.}: : : : ﾄ､: : : :‘，
+    　 l: : : :.:./: : : : l: : : : : /:／.　　!: : : :.:/|: |　　}:.:.|: : : : |: : : : :}　＼: : :.
+    　 |: : :.:./: : : :.,ｲ: : : : /´　　 　 |: : : :/　!:|　　',: :|: : : : |: l: : : |　　 ヽ: :.
+    　 |: : : :{: : :／:.|: : : :/　　 　 　 !: : :/ 　 |}　　 }: |: : : :/: i: : : l　　　 ∨
+    　 ',: : :/l: :/:.:.:.:|: : :/　　　　　　|: :./　　 |_　　 l:/!: : /: :/: : :,'
+    　　,: : { l:/,: : :.:|: :/ 三三三' 　l: :/ 　 三三三 ' |: :/: :ｲ: : :/
+    　　}: : :ヽ､.',: : :|:/: ',　　　　　　|:/　　　　　 　 ・!}:/: :./|: :./　　　いい感じだね！
+    　　|: : : : : : ',: :l/: :∧　　　　　 '　　 　 　 　 　 j:/l: :/ _!:/　　　せっかくだし、神殿も作っちゃおう！
+    　　|: : : : : :.∧: : : : ∧　　　{｀¨ ´ ,ｰ'　　　_ , ｲ: :.|/／　}
+    　　|: : : : : : : :.ヽ: : : : :.＞ ､_ゝ- '´_,.. . ＜ l: : : : :l /　　/
+    　　|: : : |: : : : : : ＼: : : : :､　 ト､￣ ヽ:／　!: : : :/ l　 ,.- ､
+    　　|: : : |: : : :.:./｀ヽ＼: : : :ヽ､　 ＼ヽ } ､　|:（⌒ヽl /　 　 ヽ
+    　　|: : : |: : : : {､　　　 ＼: : : :∨､　ヽ l　ヽl: /ヽ.　（　　　　 }
+    　　|: : : |: : : : |　｀ヽ　＼ ＼: : l　ヽ､_!l　　 !/､　ヽ､ ー- '　ﾉ
+
+
+
+    王は、カピトリーノの丘にてユピテル神殿を建設。
+
+
+
+
+
+208 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:23:13 ID:tPFGYtwc
+
+
+
+
+    　　　　　 __＿＿＿__　　　　　　　　　　　　　　　　　　　　　　　　　 ,../´::ヽｰ-- ､、　,!:./
+    　　　 _,./ 　　　　　　ヽ　　　　　　　　　　　　　､ｰ-　.__　 ＿＿,.‐'´/::.::.::.::.::.::.::.::.::.｀:'＜
+    　　 /　　─､,,＿　　__ヽ､-ｰ ､　　　　　　　　　 `ヾ､_::.::.::.::.::.::.::.::.::/::.::.::.::.::.::.::.::.､::.::.::.::.::ヽ
+    　　 〉 　　　　　　｀Y(,＿ ）　　）　　　　　　 　 　 　 　 ＞:.:. .::.::.: /.::.::.::.::.::.::.::.::.::.ヽ::＼.::.::.::.:＼
+    　 (´ 　　─､,,＿　 入__＿_.:ク　　　　　　　　 　　 ／.:.:.:.::.::.::.::.:: | .::.::.::.::.::.::.: | .::.: |.::.::.＼.::.::.::.:ヽ
+    　 ｝ 　 　 　 　　＼_/　　　/　 　 　 　 　 　 　　／:.:.:/.::.::.::/ .::.: |.::|::.::.::.::.::.:: j :.::.::|/.::.::.::.＼.::.::.: ',
+    　 ｛ 　　─､,＿　　 ! 　　 /!｀ヽ,.,_　 　 　 　 _／.:.::i.:.|.::.::.: ,'.::.::.::.:|.::l::.::.::.::.::.::ハ.::.:∧ .::.::.::.ｌ.::ヽ :.::.l
+    　 ヽ　　　　　　ヽ／ 　／| l 　 | l i.　　　 　 ￣「:.:.:!.:l ::.l .::|:＼:/ |.::l .::.::.::.::./　 ∨.:ハ.::.::.:.|＼|::.::.:|
+    　　 ヽ ￢─-ｰ" 　/　 |　l | 　 !.|.|｀ヽ 　 　 　 |:.:/| ｌ.::.:!.::.| .::/＼!∧ :.::.::./ __／∨　|.:::.::.:|.:| .::.::.::!
+    　　　 ゝ､_　 　　　_l　　 !　l i.　 | !.l　 ｀i、　　　|/　|:..::.ﾊ.::.l :,' 　 `ｰﾍ.::.:∧ 三三三 |.::|∨::.|.::.::.::.|
+    　　　　　　｀゛ｰ＜　　 ,ノ　,! } 　 !i |　 　ヽ_ _ 　 　 ﾘ∨ ﾍ.:ｌ小. 三三 ∨　　　　 　 ･|.::l.::.::. |^ヽl :|　　交通の便が良くなったし、城壁は欲しいよね！
+    　　　　　　　　　 ｀マ´ ／／　 ﾉﾉ,ﾉ 　 　 ＼ヽ＿_　　　　Ⅵハ　 　 　 '　　　 　 :::::::| :l.::.::.::|_ノ:l :|　　
+    　　　　　　　　　　　＼／　_／'イ　　　 　 　 ＼ ヽ￣￢_　ﾝｰﾍ:::::::　`ーー ’　　　│ｌ ::.::.:ﾊ.::.::V
+    　　　　　　　 　　 　 　 ｀ヾべ′　　　　　　　　　　　 　 ﾉ⌒　　　ヽ､ _　 　 　　 　 イ|:l.::.::.:,'.:.::.::.::|
+    　　　　　　　　　　　　 　　　　＼ ,..　　　　　　　　　　　　　　　　　 ﾍヽ＞ -‐ '´ん.::ﾘ:ｌ .:: /:l.::.::.::.:|
+    　　　　　　　　　　　　　　 　 　 　 ￣￢ -- ＿＿_ ＿ 　 ＿　　 　 　 | l l＼　 ∧ ∨:l.::.:/::.:l.::.::.::.:|
+    　　　　　　　　　　　　　 　 　　　　　　　　　　　　 ｀ｰ-‐へ｀丶、　　　 V|ﾍ　ヽ＿}_ ∨.:/.::.::.l.::.::.::.:|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,ノハ　　　 　 　 V|ﾍ　 ∨　|/／ヽ :.::l.::.::.::.:|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／.::.l　　　　　 　 　 V|lﾍ　 ヽ j /// }ー-､.::.::.:|
+
+
+
+    さらに、ローマ７つの丘全土を囲む広大な城壁の構築も開始。
+
+
+
+
+
+209 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/16(火) 20:23:37 ID:tPFGYtwc
+
+
+
+
+    エトルリア人の流入により、ローマの工業力、技術力は爆発的に増加。
+    使用できる土地が増大したことで住宅、市場が増加し、人口、経済力も増加。
+    都市ローマは、とてつもない発展を遂げ始めた。
+
+
+
+    　　　　　　 　 　 　 　 　 iｮ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 iｮ
+    　　　　　　 　 　 　 　 　 |　　　　　　 　 　 　 　 　 　 　 i　　　　　　　　　　　　　　　　　 |
+    　　　　　　　　　　　　〃"ヽ　　　　　　 　 　 　 　 　 　 ,l,　　　　　　　　 　 　 　 　 　 〃"ヽ
+    　　　 　 　 　 　 　 　 frxrxi　　　 　 　 　 　 　 　 　 　 F!　　　　　　　　　　　　　 　 崟山, |
+    　　　　　　 　 　 　 　 || || ||　　　　　　　　　　　　　　 /ハ　　 　 　 　 　 　 　 　 　 |￣|　| |
+    　　　 　 　 　 ,.へ　　 ||_||_||　　ｆli　　　　　　　　　　　Ｆ三ﾖ　 ii　 　 　 　 　 　 　 |　 |　| |
+    　　　　　　 ∧!「ﾞil:　 「｢ :|　| 　 |||　　, ＿.　　　　　　 || || |l　 |平|　　　＿＿ ,△　　|　 |　| |　　　 i|;ﾍ
+    　　　　 　 ｢l| |!L L../|:|　|　∧ｆ.二ヾ7''｢/|'，　　＿　 八ﾆ八　|○|　ｘ. /不 ∧|　|合ｌ|崟|ｌ|l|八　 __非|:|
+    　　　　　 /ﾞil上＿_ア|:k>| ｢￣| []　l　 |　|∧ ｢i Fｺ_/　,八　ﾊ:||. || lF７ﾞ,峇 　 |　|　| |二|ニl'Y''¨|Ｖ　V|
+    　　　　　 |　|　|　 /　|:|　| | [| |ｌ　　l∧k>| ./亢ｉl　|_|「¨｢¨｢ ¨ｌ|l山l| |/ V非V　|　|　|ｆ|　 |　ｌ| |:ｌ| |￣￣|
+    　　　　　 |　|　|l /　 l|:|　| | [| |V　 ｢¨ﾞ|　| ｢￣ﾞ|l　| |∧|　|∧ｌ|l￣l|/ :l|￣￣l　|　|,/ ｌ|　 |　ｌ|∧| | ｢「| l|
+    　　　　　 {　|　|/　　｢ ｢　ll｢￣|l V l| ｢l|　| | ｢l :|'，| |l冊冊冊ｌ|l㊦/　:ｌ| |干|l|　!　!　 l|　 |　/ﾞ ∧| [.ｌ] _|
+    　　　　　 |　|∠二二ヽ∠｢ 日|二Ⅵ}L|二|｢ﾆﾆ|∧:ｌ|l二二二ｌ|　/　　ｌ|二二|　! /＿ |　 |,/＿__∧「｢| l｢|
+    　　　 ｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢L ―┤｢ｌ├‐Y|　i＾i　i＾i | 「￣￣| |┼| _｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢｢|
+    　　　 Ⅵ[l三三三三三三三三三三三三三l]Ⅳ
+    　　　　 ｌ｢]「￣||￣￣||￣￣||￣||￣|| |'⌒ﾞYi ⌒Yi'⌒ﾞYi'⌒Yi⌒Y ￣￣￣ i||￣||￣￣||￣||￣￣||￣￣|| |　_∠二
+    　 ¨不¨ | ||　 l||　 　 ||　 　 |｢l　l|　 || |　　 |l 　　||l┼l ||l┼l||┼||　 ｢｣ 「　!ｌ||　 ||　 　 ||　 ||　 　 ||　｢l　||_|￣! fl
+    　__.旦.__| ||二｢|二二||二二||二||二|| Ｌ＿_||＿__||l土l ||l土l||土||＿｢」 L ｣ ||二||二二||二||二二||二二||_|__[|＝＝
+    　　圧!　| ||￣l||　 　 || 　 　|｢l　l|￣|| |￣　|| ￣ ||:.￣＞＜..￣ ||　　 | |　　「￣|| 　 　||　 ||　 　 ||￣￣|| |　 ! fl
+    　[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[＞　´　　　　 ｀　 ＜]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+    　|ﾓﾓﾓＦｺ＝Ｆｺ＝叩＝Ｆｺ＝:Ｆｺﾓﾓﾓ|
+    　 l干l ￣￣Ｆｺ l干l lＦｺ￣Ｆｺ l干l Ｆｺ l干l l|　|　 |　|,.ィ三℡|　|　 l|　| l干l Ｆｺ￣￣l干l ￣ Ｆｺ l干l Ｆｺ　￣￣￣
+    　 l┼l 　 　 |　| l┼l l|　|　 |　| l┼l |　| l┼l l|　|　 |　|三三三|　|　 l|　| l┼l |　|　 　 l┼l　　ｌ|　| l┼l |　|
+    　 l土l 　 　 |　| l土l l|　|　 |　| l土l |　| l土l l|　|　 |　|三三三|　|　 l|　| l土l |　|　 　 l土l　　ｌ|　| l土l |　|
+    　＿＿＿＿|　|＿＿l|　|＿|　|＿＿|　|＿＿l|　|＿|　|三三三|　|＿l|　|＿＿|　|＿＿＿＿＿|　|＿＿|　|＿＿＿＿
+    　二二二二｢..｣二二｢..｣二｢..｣二二｢..｣二二｢..｣二｢..｣三三三｢..｣二｢..｣二二｢..｣二二二二二｢..｣二二｢..｣二二二二
+
+
+
+    第７話「タルクィニウスの統治」終わり
+
+    つづく・・？
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3607/clap" id="fc2button-clap-3607" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3607").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/6.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3607/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ王国を作るようです　第七話　タルクィニウスの統治" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3607.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3649.html">
+					やる夫達はローマ共和国を作るようです　第十五話　傲慢王の逆襲 (2011/08/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3639.html">
+					やる夫達はローマ共和国を作るようです　第十四話　ルキウス・ユニウス・ブルータス (2011/08/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3637.html">
+					やる夫達はローマ王国を作るようです　第十三話　革命 (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3628.html">
+					やる夫達はローマ王国を作るようです　第十二話　ルクレツィア事件 (2011/08/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3623.html">
+					やる夫達はローマ王国を作るようです　第十一話　"傲慢王"タルクィニウス (2011/08/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3620.html">
+					やる夫達はローマ王国を作るようです　第十話　セルヴィウス王の死 (2011/08/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3615.html">
+					やる夫達はローマ王国を作るようです　第九話　セルヴィウスの統治 (2011/08/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3613.html">
+					やる夫達はローマ王国を作るようです　第八話　タルクィニウスの最期 (2011/08/18)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ王国を作るようです　第七話　タルクィニウスの統治 (2011/08/17)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3603.html">
+					やる夫達はローマ王国を作るようです　第六話　５代目の王、タルクィニウス・プルスコ (2011/08/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3596.html">
+					やる夫達はローマ王国を作るようです　第五話　アンクス・マルキウスの統治 (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3571.html">
+					やる夫達はローマ王国を作るようです　第四話　トゥルスの戦争 (2011/08/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3567.html">
+					やる夫達はローマ王国を作るようです　第三話　ヌマの政治 (2011/08/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3562.html">
+					やる夫達はローマ王国を作るようです　第二話　ロムルスの政治 (2011/08/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3560.html">
+					やる夫達はローマ王国を作るようです　第一話　ローマ誕生 (2011/08/05)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ王国を作るようです　第七話　タルクィニウスの統治" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/08/17 03:54 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html#comment_list" title="この記事のコメントを参照">CM(5)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3607"
+    dc:title="やる夫達はローマ王国を作るようです　第七話　タルクィニウスの統治"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="原作・塩野七生 著 ローマ人の物語1「ローマは１日にして成らず」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。紀元前616年、イタリア　　　　　　　　　　　　　　　　　　　　　,&#45;、　　　　　　　　　　　　　　　　　　,&#45;～´　　　　　　　　　　　　　　　　　　＼　　　　　　　＿　　　　　　　　　　|~　　　　　 /´　 ｀ヽ,　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-08-17T03:54:59+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3608.html" title="やる夫で学ぶ「議論のしかた」　第二章　議論の精神">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3606.html" title="やらない夫と二つの大便">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment21715">[ 21715 ] <strong></strong></p>
+</div>
+<div class="comb">
+ギリシャも優秀な人を流失させたなー
+ハーフだからと自分を疎外してきたエトルリア人を
+技術が有るからと使ったタルクィニウスは偉いわ<div class="comment_navi">
+[ 2011/08/17 14:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しの萌さん</a>') } else {
+document.write("名無しの萌さん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しの萌さん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3607" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21717">[ 21717 ] <strong></strong></p>
+</div>
+<div class="comb">
+戦争も内政もできるとか超人過ぎる・・・<div class="comment_navi">
+[ 2011/08/17 16:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3607" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21726">[ 21726 ] <strong></strong></p>
+</div>
+<div class="comb">
+フォロ・ロマーノ・・・後代になっても絶対に出てくる重要な場所だな
+城壁は後に壊されるんだったかな？<div class="comment_navi">
+[ 2011/08/17 19:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠</a>') } else {
+document.write("名無しさん＠"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3607" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21740">[ 21740 ] <strong></strong></p>
+</div>
+<div class="comb">
+城壁作ったのは一代後のセルヴィウスなんだが…
+変えたのには何か理由があるのかな。<div class="comment_navi">
+[ 2011/08/18 04:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=21740" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment25220">[ 25220 ] <strong></strong></p>
+</div>
+<div class="comb">
+外からの人材も適度にいるということか
+（ただし犯罪者、民度の低い連中は除く）<div class="comment_navi">
+[ 2011/10/23 03:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=25220" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3607.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3607"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3607-c470bcba">http://oyoguyaruo.blog72.fc2.com/tb.php/3607-c470bcba</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3608.html" title="やる夫で学ぶ「議論のしかた」　第二章　議論の精神">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3606.html" title="やらない夫と二つの大便">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

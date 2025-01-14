@@ -1,0 +1,746 @@
+<div class="article">
+
+
+
+
+
+　　　　　　　　　　　　　　　　　 　　∧_∧
+　　　　　　　＿＿＿＿＿＿＿＿.（ﾟДﾟ::）＿＿＿＿＿＿＿＿＿＿
+　　　　　　　　　　　　　　　　＿|￣￣|:::::）＿＿
+　　　　　　　　　　　　　　　 /　.|＿＿ｒ,,-,-,-i　/|
+　　　　　　　　　　　　　　　/　　 　 　| l | l|/ /./|
+　　　　　　　　　　　　　　　|￣￣￣￣￣￣~|/-'
+　　　　　　　　　　　　　　　|_|￣￣￣￣￣ |_|
+　　　　　　∧_∧　　＿ /|＿＿＿＿＿＿＿/|＿　 ∧,,,∧
+　　　　　r（　ﾟД）　/＿| .|　　　　　 /　　　　| |＿　ﾐДﾟ　彡
+　　　　　|　l　　 つ .品_|/ ＿＿_　 /　　　　 |/_品⊂　　 .ﾐ l
+　　　　　| （＿　./　/二/三三/|　/ /三三/|　　　/ /　__,l .|
+　　　　　|_r― ./　　　 /三三/lll / /三三/lll 　　/|./_-―､_l
+　　　　　　　　/　　　　|＿＿_ll/./　|＿＿_ll/　　/ /
+　　　　　　 　/―――――― /―――――‐/ /
+　　 　∧_∧　　/|　　　　　　　/　　　/ /|三/|∧_∧
+　　　（;;;ﾟд）＿| .| /二/　　　/ ./二/|_| |＿l/（дﾟ=）_
+　　 r（#;;;;;;;つ,_|/　　　　　　./　　/二/|/品 ⊂　　=l l
+　　 | （＿ / /三/|　　　　　/　　　　　　￣　//　 __,l l
+　　 |_r―/　|＿,|/　　　　 /　　　　　/二/ //　/,--､l
+
+
+
+
+
+
+
+
+876 ：<strong><span style="color:#009900">愛知 ◆kE/wFCFZeU</span></strong>：2012/01/30(月) 21:22:29 ID:hSdC9Q/w
+
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼　　　　　　ふー…。
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　　　　三箇日も終わらぬ内に出勤とかマジ勘弁してほしいお。
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+    　　　　　　　　　　　　　　　-──-　 .,
+    　　　　　　　　　　　 '"　 /ｰv'⌒V⌒Vﾍ ヽ
+    　　　　　 　 　 ／ 　 　 /＜二二二二二＼ ＼
+    　　　　 　 　 　 | 　 　:/二二二二二二二ﾆ＼ ＼
+    .　　　　 　 / 　 |　 　/ﾆニニ＞'⌒ソ＼_人ヽﾆﾍ　＼
+    　　 　 　 /　　 :|　　;ﾆﾆﾆ／ノ⌒¨}　 　 ＿_⌒＼}:.. 　 ,
+    　　　　　′　　 ! 　 |ﾆ／ﾉ/ 斗ｰ/　　 .::/ /| |=-∧:.　
+    　　　　 ;　　 　八　.:|/_ﾉ,./|.::/| / |　 :／|/斗ﾐﾊ　ハ, 　
+    　　　　 |　　 　 　＼|／〃:|/斗ミﾉ／ 　ｲ_)ｉﾊ ∨:|:::/ 　 |}　　　　　あ！　
+    　 　 　 |　　　＼　　＼ |〃_)ｉ:ﾊ　　 　 　 Vソ 八ﾉ/　 　:|
+    .　　　　| 　 　 　 ＼　　八乂)ソ　　　 　､ 　:::::: |:/　/　　　　　　　　やる夫さん、あけましておめでとうございます。
+    　　　　　　　　　　 ::＼ 　 ＼::::::::　　　 　__ 　 ／彡'　 /
+    　　 　 ' 　　　＼　　　:::::ﾟ¨⌒＼　　<　　　｝ 〃/::/　 ∧
+    　　　/　　 ／::/:＼ 　 　 :::::＼/〉　　　ｰ 'ﾟ /||::|::　　/ 　 :,
+    .　 　 　 ／.::::/::x‐=≫ｘ　　　//＞　.,　　 /:::||::|　　/::::..　　:,
+    　　　／ .:::／厂￣￣＼ ＼　　　Vﾍ　Г :::::乂|　 ,'＼::::.. 　 ＼
+    　　　 .::／:::::;　　　　　　＼ ＼　　∨⌒i＼_＿_|　 |＿_＼　　　 ＼
+    　　　:::::::::::::::|　　　　　　　　 　＼ .::i∨:|个ｿ＼|　 |─‐┴‐＝ﾆ二ﾌﾟ¨!＿＿＿
+    　　　:::::::::::::::|　　　　　　 　 ‘，　 ）ﾉ　}:|ii|ii|ﾊ}:.乂_{＿＿＿＿＿/　　|　.....::::::::
+    　　　:::／⌒ﾟ|　　 　 　 . : :　 ‘ ／　　ﾉ:|ii|ii|::j| 厂￣　　| |　　／　　 ﾉ::::::::::::::::
+
+
+
+
+
+877 ：<strong><span style="color:#009900">愛知 ◆kE/wFCFZeU</span></strong>：2012/01/30(月) 21:23:18 ID:hSdC9Q/w
+
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／ 　 　 　 ＼
+    　　　　　　　　　　 ／　 ⌒ 　 ⌒　 ＼　　　　　　うん、あけましておめでとう。
+    　　　　　　　 　 ／　　（●）　（●）　　＼
+    　 　 　 　 　 　 l　 　 ⌒（__人__）⌒　 　 ｌ　　　　今年もよろしく頼むお。
+    　　　　　　　 　 ＼　　 　 ｀⌒´　　 　 ／
+    　　　　　　　 　 ／　　　 　 　 　 　 　 ＼
+
+
+
+    　　　　　　　　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　　　　　　　　　 ／＿＿＼　 ｀丶
+    　　　　　　　　　　　　　　 ／ /: :_:_:_:_:_:.ヽ　 　＼
+    　　　　　　　　　　　　　 // /{／　　i　 ＼}　　i　 :.
+    　　　　　　　　　　　　　// //i ﾄ､ 　 !八iヽi　/_＼r'.
+    　　　　　　　　　　　　〈〈　i i八!´＼ﾘ､__, ﾉ' /{- 　 ヽ.＿　　　　　　　　ええ、こちらこそ。
+    　　　　　　　　　　　　　ヽヽ/∧ｰ' ､ 　 ''/ /_人 ＿_ﾉ::::::::ヽ_
+    　　　　　　　　　　　　　　＼{ 込、 ー'　{ {/{:}/::::::::::i::::::::::/::}　　　　　　…ところで年末はご実家に帰られてたんですよね？
+    　　　　　　　　　　　　　　　/ / /介ト rく_,i／_}::::／￣￣}::∧
+    　　　　　　　　　　　　　　/ / / /_iﾘ/ﾊ´ { ⊂ﾆ＼: : : : :.{/　 ＼　　　　　
+    　　　　　　　　　　　　 ／ / /´／///{ `ﾆ廴彡{　∨ ￣{　　 　 ＼＿-=ﾆニ=ミ
+    　　　　　　　　　　 ／ __,/ /__フ/ { {__}__､--つﾉ　 ‘.　 ∧　_　-=二二二二二ﾆヽ
+    　　　　　　　　　　人＿_彡' 　 {/￣i｣　　　　 ヽ　　　{　　 { i_　-=　￣￣｀丶＼／
+    　　　　　　　　 ／／／_.ｲ i　　　　　 　 　 i　　/＼　 '.　　/}　　 　 ＼　　　　　＼
+    　　　　　　　／／／／`そ{　　ノ　 　 　 ノ　 ∧　 ＼ ‘,　 /＼　　　　＼{｀丶　　 ＼
+    　　　　　 ／／／　{　 ヽ／}　 　 　 　 　 　 /　i　　　`ー‐'　　}　-=ニ二二}　＼　　＼
+
+
+
+    　　　　　　　　　　　　　　　　／ ￣￣ ＼
+    　　　　　　　　　　　　　　 ／ノ　　ヽ__ 　 ＼
+    　　　　　　　　　　　　　／（―） 　（― ） 　 ＼　　　　本当は面倒だけど、
+    　　　　　　　　　　　　　|.　　（_人＿）　　　u　|
+    　 　 　 　 　 　 　 　 　 ＼ 　 ｀⌒ ´　　 　 ,／　　　　年末ぐらい帰らねぇとうるさいからね…。
+    　　　　　　　　　　　　　　/ 　　　　　　　　ヽ
+    　　　　　　　　　　　　　./　l　　　,/　 /　　 i
+    　　　　　　　　　　　　　(＿) 　　(__ ノ 　 　 l
+    　　　　　　　　　　　　　／　　／　　　___ ,ノ
+    　　　　　　　　　　　　　!､＿__!､＿_＿＿_つ
+
+
+
+
+
+878 ：<strong><span style="color:#009900">愛知 ◆kE/wFCFZeU</span></strong>：2012/01/30(月) 21:23:45 ID:hSdC9Q/w
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　-‐…‐-
+    　　　　　　　　　　　　　　　　　　　　　　　 ´　　　　　　　 ｀　､
+    　　　　　　　　　　　　　　 　 　 　 　 ／　　 厶 -=＝=-　､　　＼
+    　　　　　　　　　　　　　　　　　　　 / /　　/::::::::::::::::::::::::::::::＼　　＼　　(⌒)
+    　　　　　　　　　　　 　 　 　 　 　 / /　　/::_;: -‐=＝=‐- ::_:::ﾊ　ヽ　ヽ　　　　°
+    　　　　　　　　　　　　　　　　　　/ /　　/ﾍ/,ﾊ⌒⌒⌒7ヽ斗 ＾}　 }i
+    　　　　　　　　　　　 　 　 　 　 /　′　 { i 〕トミ、　　 折ミ/＼′/ﾊ　 ､丶.
+    　　　　　　　　　　　　　　　　　′ {　 　 Y´r心　＼{{/ r心｀'ｙ′ 　 }　 {＼ ＼
+    　　　 　 　 　 　 　 　 　 　 　 ,　 八　 ､∧弋ソ　　 ｀ 弋ソ /　/ 　 ｊ　八　 ヽ ＼　　　　　　ご実家は愛知でしたよね？
+    　　　　　　　　　　　　　　　　,′　 ∧　ヽ ∨/　　′_ 　 // イ　　∧　 ∧　　 　 ',
+    　　　　　 　 　 　 　 　 　 　 ,　　 //∧　 V 》　 「　　 }　 《 ﾉ/ 　 / ∧　 ∧　　　}ﾊ　　　　　当然、お土産はありますよね？
+    　　　　　　　　　　　　　　　/　　////∧　∨ト　ゝ　 '′.ィ∨　／// ∧　 ∧　　　 }
+    　　　　　　　　 　 　 　 　 /　　/γ'⌒Yﾍ　〈 三≧=≦三|　イ_/// /　　　　ﾍ　　}/7
+    　　　　　　　　　　　　 　 ′　　 ,{:::/＾∧　（ ＼ﾍ_/只k'´ﾘ　人}‐-､ ＿　　 　 ‘， ヽ{_
+    　　　　　　　　　　　　　/　　 　 {ｊ:::|　|　と⌒ 　 r‐ﾐ､{ヾｖ／／ }'⌒'y‐く＾ヽ　　　 　 ﾚう)
+    　　　　　　 　 　 　 　 / ／　　 く::ﾒ､ ﾊ__}⌒7⌒{　/´）_/ く ／}ｉr'⌒ヽ　Y ｝　　 ',　　 "
+    　　　　　　　 　 　 　 ／　　　 　 }　 人＿}V´￣ﾚ/く ｽ≧=く 〈八　 ,､_r┴{
+    　 　 　 　 　 　 　 ／　　　　　　/:〉'⌒ヽV 厂￣}′/ /ー-ﾐ}_/ｰ厂}　 ﾄ　/　　　　',
+    .　　 　 　 　 　 ／　　 ..:::´　 　 ﾚ　､　　/ 仁二{{　 ／　　　　呂 }￣¨７ 〈// 　 　 ‘，
+    　　　　　 　 ／_,. イ　　 :{　　　 |　　V / /　　　 У　...:::´　　　 /ヾミ==彡､// 　 　 丶
+    　　　　　　〈　V　/　　　 :　　　 ∨ ｨ{/ /　　　／}....::::::'　　　　∧ 　 　 /　 V /　　　　 ＼
+    　　　　　　人　＼ /　　　　 /　/　「:r‐'　 　 ´　/　:::::'　　　　∧ }　　　　 　 〉//＞　　 　 ＼
+    　　　　　　ヽ ＼　＼　　　 , 　 ヽ/ ´　　 　 　 / 　 ::'　　　　/ 八､ 　 　 　 /　　　　{＼　　　丶
+    　　　　　 . :介ｘ　　　＼　 ′　 /＼　 　 　 ／　　 ′　 　 〈　　　＞ ､__／　　　　 ∧　丶.　　　 ｰ┐
+    　　 　 ／ ,r┴-=ミ､　　〉 l// r'　　 ヽ　ィ´　　,　　ィ´　　　‘，　　　　 　 　 l＼　 　 ∧　　 ｀ T 　 /7
+    　　　（（　r{　ﾏﾆ=- -r ′l///〉、　　 ／}_厶斗ｧ7/,　　　　　〉　　　 :.　　　 l　 ＼　　∧　 　 i}　　 勹
+    　 　 ､_））{ﾍ.　＼{　　|　　|∨/　ミ=ﾆニ7/＿][＿_][ ﾆ=-　イ∧　 　 }ﾊ　 　 l　　　ヽ　} }＼　/　　／}
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼　　　　　　　　はいはい。
+    　　　　|　 　 　 （__人__）　 　　 |
+    　　　　 ＼　 　　｀ ⌒´ 　　 ,／　　　　　　　　ちゃんと地元の名産品を買ってきてあるお。
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+
+
+
+879 ：<strong><span style="color:#009900">愛知 ◆kE/wFCFZeU</span></strong>：2012/01/30(月) 21:24:24 ID:hSdC9Q/w
+
+
+
+
+
+    　 　 　 ′　　　 　 ///////////////// ∧　　＼
+    　　　/ 　 　 　 　 /////////////////// ∧　　　 、
+    　 　 ′ 　 　 　 ////＞ ''´､￣￣ 二ニ＝=ミﾊ 　 　 ヽ
+    　　/ 　 |　　　 / ィ_,､＿,八 { ｀￣´ ヽ ＼　　ヽﾏ　　　　:.
+    　 /　　 |　　　/_ノ!　 _|__　ヾ:、　　-‐=＝}―-　!、　 /
+    　 l　 　 l　　　|　 ィ'"　!ヽ 　 ＼ 　 |　ｊ　 ﾊ, ｜｜.ヽ/
+    　 |　 　 :. 　..イ{:　|ヽ　|　 ＼　　　｜ｲ /　 ', |　j　V
+    　 |　　　 Ｖ　｜!　|　 ＼-‐　｀:|　 /j‐j/-　　}ﾊ/} /
+    　 |　　　　:.　 | |ヽ|x=＝ミ　　 j／　 ｚ＝=ミ:､/ｲ/　　　　　　　　　　　　　　さすが、やる夫さんですわ！
+    　 | :.　　　 ヽ |　〃　　　　　　 　 　 　 　 　 ｀7ｰ　／　　 /
+    　ﾊ　＼ 　 　 ／ ､､､､　 　 　 　 {　　 　 ｀｀／　／ 　 　 ∧　　　　　　　　それで何を買って来てくれたんですか？
+    /　 、　 ＼　　 ＼　　　　　　　　　　　　／_. イ　　　　 /
+    　　 :＼　　｀ 　 ．_＼_　　　r　 ￣　　　|.ｉ´/　j　　　　/　　　　　　　　　　ういろうですか？
+    　 /　　＼　　 　 ＼￣l`i　 丶. __ ノ　　|.ﾚ′/　　　 /　　　　　　　　　　　きしめんですか？
+    . /　　　　 ＼　　　　ヽ| ﾄ 、 　 ¨´　 .ィ´ヾ∨ 　 　 /　　　　　　　　　　　 それとも味噌カツですか？
+    /　 　 　 　 j/＼ 　 　 l | 　 　 ‐-　　 j、　/ 　 　 ∧
+    　　　 　 　 / 　 i＼　　 |｀ ー-ｖ-‐　´　 Ｖ　　 ／　 :、
+    　 　 　 　 / 　 /　 ,ゝ、　∨/二ﾏ 　 　 /　 xく　　 　 ヽ
+    　　 　 　 / 　_/ｘく　 /＼　}ィ个xヽ 　 〈 ／ 　 ヽ、　 　 ＼
+    　　-‐ァ７￣:::::::::::::ﾝ　　 〉ﾉノ∧ハ ＼ノ＼　　 　 ＼ー--
+
+
+
+
+    　　　　　　 ＿＿＿
+    　　　　　／　　 　 　＼
+    　　　 ／　　　⌒ 　 ⌒＼
+    　　／ 　 　 ,（⌒）　（⌒）､＼　　　　　　　いやいや、
+    　　| 　 　 /// （__人__）/// |
+    　　＼　 　　　 ｀ ヽ_ノ　　 ／　　　　　　　サ　ボ　テ　ン　だ　お
+    　　　　ヽ　　 　, ＿_ , イ
+    　 　 ／　　　　　　　|＿"＿＿__
+    　 　| 　　ｌ..　　　／l´ サボテン.`l
+    　 　ヽ 　丶-.,／ 　|___＿＿＿___|
+    　　　/`ー､＿ﾉ　／　　　　　　／
+
+
+
+
+
+880 ：<strong><span style="color:#009900">愛知 ◆kE/wFCFZeU</span></strong>：2012/01/30(月) 21:24:51 ID:hSdC9Q/w
+
+
+
+
+
+    　 ′　 |:.:／ソ　　　|　　　｜|　　:i　｜ ||＼＼ ／ :|　　　　　/　　 /
+    　|　　　|/ ノ　　 |　 |､　 　 |/　　 |　 |　||. 　× ＼ |　 　 　 /　　 /
+    　|　　∠ソ 　 　 |　 |､＼　/ 　 　 l　 |　j|／ 　 ＼ :|　　　 ./　　 /
+    　|　|　ｰl- ．.._i　|、 |　ヽ＼　　　 _:._. イ/ -‐ﾆ-ァく|　　　/　　 /
+    　|./|　　|　　　|¨T ＼ー-- ＼　 　 V　'"´Vノ(_ﾉ } 〉ｰ　/　　 ∧i
+    　|| .|　　|　 　 | ｰｧｯヤ卞ﾏ　　丶、_＼_　 ゝ-- '^ j　／　　 /　 }　　　　　　　　え…？
+    　||...ｌ　　l　 　 | 〈〈'⌒V(_,ハ 　 　 　 ￣￣　　 　 / /　　　/ 　 ﾑ
+    　||　!　　ｌ　| 　 ､ノへ、ゝ- ´ 　 :.　　 　 　 ／／/ /　 　 / ,／　 }
+    　||　l　　 :. |ﾄ､　 ＼　 　 　 　 　 }　 　 　 　 　 / /　　 〃7lヽ　 ﾉ　 __
+    　||　 :.　　　、 ＼ヽﾍ／／　　　　　　 　 　 　 /〃　　//,.|∧|‐:::::¨／::
+    　||　　、　　 ヽ 　 ＼ヽ、し　　　　　　　　 　 // | 　 / |:::::::/lヽ::::/::::::::
+    　| ＼ ヽ　　　 ＼　　　 ＼　　 　 　___,　 - 、|| .ｲ　/　.|::::/|∧|::/::::::::::
+    　 ヽ、＼＼　　　　 　 　 ヽ＞　、 　ｰ　 "´ ／　| /　　| /::::::::::/::::::::::::
+    　　　 ＼ ｀¨＼　　　　　 　 ;　　 }｀ 丶､__.ｨ 　||　|'　　　K:::::::: /::::::::::::::
+    　　　 　 ｀¨T ´＼　　　　　 Ｌ..-‐ァ''¨´::::::ﾊ　||　| 　 　 ｌ:ヽ::::/::::::::::::::::
+    　　　　 　 /|　 ＼＼　　 　 |::::／:::::::::::／　}　| /|　　　 |:::::Ｖ::::::::::::::::::
+
+
+
+    　　; ' + 　　　　　＿＿　　'　，:‘. 　, .. .
+    　　　　　　 ／￣　　 　 ｀ヽ　　; 冫;．"
+    ＼＼／ ／　　　　　／＿ 　ヽ　ﾟ:｡:+
+    .　 >　く/　　　　　､ｨ,ｨtj ｲ　 　}
+    ／／ヽl ｒ＝=､　　　｀ ､　　　　!　　　 .||
+    ／　　 i　ィ彡'　 　､＿ﾉ☆　 ノ　＿＿||＿＿　　　　　　オミヤゲ　イズ　サブォテェン！
+    　　　　!　　　（__ノ- ' ,　　 ／l.　 ￣￣||￣￣
+    　　　　 ヽ　　　　 ￣　　　 　 ｌ　 　| 　||
+    　+ﾟ+。o　_ー--,　ｰ　　,　‐､　ｌ ￣|￣　　＋+
+    　　　ｒ-､/ /　　/　　　/　　　} ｌ　　　　*::｡
+    　　 ｊ　　　{　　/　　／　　　　　ｌ
+    　　 {　　　 ｀ー-- '　　　／　　　ｌ ＼＼／／
+    　　 ｀ー-､__　　　　　／　　　　　ｌ　 .>　 < 　＼／
+    　　*::｡　　　T ー-‐'　　　　　　　 ｌ／／＼＼／＼
+    　　　　　　 /　　　　　　　　　　　　ｌ
+
+
+
+
+
+881 ：<strong><span style="color:#009900">愛知 ◆kE/wFCFZeU</span></strong>：2012/01/30(月) 21:25:41 ID:hSdC9Q/w
+
+
+
+
+
+    　　　　　 　 　 ／　　　 　 　 丶 　 　 　 　 ＼
+    　　　　　　　, ' /＜´￣￣￣｀ ∧　 　 　 　 　 ヽ
+    　　　 　 　 /.:///////////// ∧　　　　　　　　'
+    .　　 　 　 / //,＞― ――＜// ∧　　　　　　｜ '
+    　　　　　/ ,'／　　 　 　 　 　 ＼//ｌ　　　　 　 ｜　',
+    .　　　　 ′|　Ｘ| 　 |　　　　/　 /＼!　　　 　 　 |　 ∧
+    　 　 　 {　 | 　 |＼ |　 　| /}　/ |..斗　}　　　　 八　 　 、　　　　　　　　　　　やる夫さん！
+    　 　 　 | 　|｜ィ ｆぅﾄ､.:ｰr' ｧ＜´l＼|　′　　　/　 ＼ 　 ＼
+    　　 　 ∧..:|∧ｉﾄ Vﾘ　＼| 'f_,ﾊ ヽ　j/　　　　∧　　　丶　　＼　　　　　　　　　お土産は食べ物にしてくださいって
+    　　 　 {　V 　 i|〃　,　　　 Vﾂ ノ^/: 　／　/ｰ- 　　_　　　 　 ＼
+    　　　　　　'　 八　　　 　 　 〃　/. :／　／ハ　　 　 　 ￣｀ヽ.　 ＼　　　　　　お願いしましたよね！？
+    　　　　　　 ∨　{＼ ﾏ'⌒ヽ　 　ﾉ／　／////|　　　　　／　 ハ　 　＼
+    　　　　　　　丶　、 ＼ ー┘..イ´/／　/////|　 　 　 ′ 　 　 |　　　　　　　　なのに何でサボテンなんて買ってくるんですの！？
+    　　　　　　　　 ＼＼　｀7´//| ∨'　　//////|　　　/　　　　　 |
+    　　　　　　　　 ∧.＼＼l// /|　{ ＼///////j　 　 ′　　　　　|
+    　　 　 　 　 ／　∧　＼}／ ∧　 、 ＼ー＜´　　 {　　 　 　 　 |
+    .　　　 　 ／　, ' ／∨　ﾉヽ///＼ ＼　＼//〉　　　　　　　 　 人
+    . 　 　 ／　／／ 　 {／　ノ、////＼ ,＞‐}/　　　　＼　　　　 　 ＼
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　　　　サボテンは　『　食　べ　物　』ですが何か？
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　 　ー‐　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┼ヽ　 -|r‐､.　ﾚ　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｄ⌒)　./|　_ﾉ　 __ﾉ
+
+
+
+
+
+    愛知出身＝名古屋人って勘違いしてる人が多かい職場だったわ…
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B0030BRM5W&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B006Y3RRBM&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B004NNEUDS&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4106/clap" id="fc2button-clap-4106" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4106").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4106/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶご当地知識＆方言　その２９　愛知の奇妙な食材" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4106.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4145.html">
+					やる夫で学ぶご当地知識＆方言　その３６　鳥取小ネタ集 (2012/02/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4144.html">
+					やる夫で学ぶご当地知識＆方言　その３５　鳥取の名産品 (2012/02/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4134.html">
+					やる夫で学ぶご当地知識＆方言　その３４　東京の思ひ出 (2012/02/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4133.html">
+					やる夫で学ぶご当地知識＆方言　その３３　鳥取県基礎知識 (2012/02/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4116.html">
+					やる夫で学ぶご当地知識＆方言　その３２　愛知の珍名所紹介　神社編 (2012/02/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4112.html">
+					やる夫で学ぶご当地知識＆方言　その３１　兵庫県のローカルメディア・神戸新聞社についてのちょっとしたお話 (2012/02/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4111.html">
+					やる夫で学ぶご当地知識＆方言　その３０　何の役にも立ちそうもない津軽講座　ソウルフード編 (2012/02/02)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶご当地知識＆方言　その２９　愛知の奇妙な食材 (2012/01/31)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4105.html">
+					やる夫で学ぶご当地知識＆方言　その２８　愛知の方言２ (2012/01/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4101.html">
+					やる夫で学ぶご当地知識＆方言　その２７　愛知の方言 (2012/01/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4100.html">
+					やる夫で学ぶご当地知識＆方言　その２６　ひよこ饅頭の真実 (2012/01/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4095.html">
+					やる夫で学ぶご当地知識＆方言　その２５　滋賀Ｑ＆Ａ (2012/01/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4094.html">
+					やる夫で学ぶご当地知識＆方言　その２４　金沢雀の金沢&amp;石川ネタ (2012/01/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4081.html">
+					やる夫で学ぶご当地知識＆方言　その２３　兵庫県の漫画アニメに関するちょっとしたお話 (2012/01/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4077.html">
+					やる夫で学ぶご当地知識＆方言　その２２　島根石見観光案内 (2012/01/22)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶご当地知識＆方言　その２９　愛知の奇妙な食材" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/01/31 23:00 ]
+<a href="/blog-category-372.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶご当地知識＆方言</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html#comment_list" title="この記事のコメントを参照">CM(13)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4106"
+    dc:title="やる夫で学ぶご当地知識＆方言　その２９　愛知の奇妙な食材"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html"
+    dc:subject="学ぶ系　やる夫で学ぶご当地知識＆方言"
+    dc:description="　　　　　　　　　　　　　　　　　 　　∧_∧　　　　　　　＿＿＿＿＿＿＿＿.（ﾟДﾟ::）＿＿＿＿＿＿＿＿＿＿　　　　　　　　　　　　　　　　＿|￣￣|:::::）＿＿　　　　　　　　　　　　　　　 /　.|＿＿ｒ,,&#45;,&#45;,&#45;i　/|　　　　　　　　　　　　　　　/　　 　 　| l | l|/ /./|　　　　　　　　　　　　　　　|￣￣￣￣￣￣~|/&#45;'　　　　　　　　　　　　　　　|_|￣￣￣￣￣ |_|　　　　　　∧_∧　　＿ /|＿＿＿＿＿＿＿/|＿..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-01-31T23:00:01+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4107.html" title="やる夫がモノポリーで遊ぶようです　後編">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4105.html" title="やる夫で学ぶご当地知識＆方言　その２８　愛知の方言２">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment30362">[ 30362 ] <strong></strong></p>
+</div>
+<div class="comb">
+硬い＝こわいってのも方言か？<div class="comment_navi">
+[ 2012/02/01 02:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30364">[ 30364 ] <strong></strong></p>
+</div>
+<div class="comb">
+愛知県の名古屋でないどこかでサボテン料理が名物なの？
+これだけだとよく分からないや。<div class="comment_navi">
+[ 2012/02/01 02:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30370">[ 30370 ] <strong></strong></p>
+</div>
+<div class="comb">
+サボテンが名物って春日井市の事か？
+それに名古屋土産ならゆかりが鉄板だろうに<div class="comment_navi">
+[ 2012/02/01 04:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30373">[ 30373 ] <strong></strong></p>
+</div>
+<div class="comb">
+つけてみそかけてみそを配って味噌布教だろ<div class="comment_navi">
+[ 2012/02/01 06:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30391">[ 30391 ] <strong></strong></p>
+</div>
+<div class="comb">
+例のマウンテンの駐車場にもサボテンが植えてあるよ、食えるやつらしいけど。<div class="comment_navi">
+[ 2012/02/01 14:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30399">[ 30399 ] <strong></strong></p>
+</div>
+<div class="comb">
+とんかつ屋のさぼてんか何か？（無知）<div class="comment_navi">
+[ 2012/02/01 18:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30447">[ 30447 ] <strong></strong></p>
+</div>
+<div class="comb">
+恐らく春日井のサボテンじゃないかと思うんだが、
+あのAA見ちゃうと違うものなのかもしれない・・・。
+ 
+30362
+共通語の可能性もあるけど、古語の扱いになるかも。
+ちなみに、固い飯のことを昔は『こわいい』と言ってる。<div class="comment_navi">
+[ 2012/02/02 01:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://alexmaster.livedoor.biz";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">アレックス</a>') } else {
+document.write("アレックス"); }
+</script>
+<noscript>
+<a href="http://alexmaster.livedoor.biz" target="_blank">アレックス</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=30447" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30450">[ 30450 ] <strong></strong></p>
+</div>
+<div class="comb">
+春日井のサボテンサブレじゃねーの？<div class="comment_navi">
+[ 2012/02/02 02:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30507">[ 30507 ] <strong></strong></p>
+</div>
+<div class="comb">
+サボテンなんて今日初めて知った岡崎出身者がここに……
+岡崎なら淡雪か手風琴をお土産にするかなー<div class="comment_navi">
+[ 2012/02/02 20:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30562">[ 30562 ] <strong></strong></p>
+</div>
+<div class="comb">
+多分春日井のことではないかと
+ステーキにしたりお菓子に混ぜたりと色々やってるが
+別においしくともなんともないらしい
+春日井市民だが食ったこともないし食おうとも思わないがな<div class="comment_navi">
+[ 2012/02/03 19:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">駄目人間名無しさん</a>') } else {
+document.write("駄目人間名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">駄目人間名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30605">[ 30605 ] <strong></strong></p>
+</div>
+<div class="comb">
+たしか、サボテンの生産量、消費量の愛知が日本で1位だった気がする。<div class="comment_navi">
+[ 2012/02/04 08:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30631">[ 30631 ] <strong></strong></p>
+</div>
+<div class="comb">
+愛知県民だけどサボテンと言われるととんかつ屋連想するな<div class="comment_navi">
+[ 2012/02/04 17:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4106" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment30636">[ 30636 ] <strong></strong></p>
+</div>
+<div class="comb">
+おこわの「こわ」も固いという意味だよね。
+あと強面（こわもて）の「こわ」もそうかな。<div class="comment_navi">
+[ 2012/02/04 17:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=30636" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4106.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4106"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4106-39f22638">http://oyoguyaruo.blog72.fc2.com/tb.php/4106-39f22638</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4107.html" title="やる夫がモノポリーで遊ぶようです　後編">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4105.html" title="やる夫で学ぶご当地知識＆方言　その２８　愛知の方言２">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

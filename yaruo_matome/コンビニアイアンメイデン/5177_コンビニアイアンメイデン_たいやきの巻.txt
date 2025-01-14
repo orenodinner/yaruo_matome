@@ -1,0 +1,766 @@
+<div class="article">
+
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; /.　　　　 　 　 　 　....:::.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;:;:;::;;;;;;;;;;;;;:;:;:;:;:;:;:;;;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;:;::;::;;:;:;: |. 　　　　　 　 　　 　　|;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;
+;;:;:::::;::;::;::::;::::;:::;::;::;:::;:::;::;:::;:::;::;::;:;::;::;::;:::;::;::;::;::;:::;:::;::;:;::::::.............. 　 　 　　　...;::;::;:::;::;:;::;::;::;:::;::
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ　　　　　　 　　 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼　　　　　　　 ／
+:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;` 　 ー ─ ':;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+　　 ／ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／
+　／＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿__／.／
+　|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿.|／／
+　|　　　　　パー速町駅前支店　　　　　Ｍａｒｔ　『ｱｲｱﾝ ﾒｲﾃﾞﾝ』 　 　 |／／!
+　|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣.|／..:::|
+　￣|￣|￣￣￣￣￣￣￣￣￣|￣|￣￣￣￣￣￣￣￣￣￣￣|￣|￣ 　..::::|
+　　 |　 ||　 ／　 ／　　　　　 　 |　 |.　　　　　　 　 　 　 　 　 　 .:|　 | 　 　..::::|
+　　 |　 ||／　 ／　　　　　 　 　 |　 ||￣￣|￣￣￣|￣￣￣|￣￣|　 | 　 　..::::|
+　　 |　 ||　 ／　　　 ∩凸∩　　|　 ||／ 　|／／　 | 　 　　 | 　　 |　 | 　 　..::::|
+　　 |　 ||／ 　　　　（@盆@ ）　 |　 ||＿＿|／ 　　 |　 　 　 |＿＿|　 | 　 　..::::|
+　　 |　 ||　　　　 ┌┬─┐.） 　|　 ||＿＿|￣￣￣|￣￣￣|＿＿|　 | 　 　..::::|
+　　 |　 |||￣￣￣￣￣￣￣|＿＿_.||／／|￣￣￣|￣￣￣|／／|　 | 　 　..::::|
+　　 |　 ||| ┌─┐┌─┐./οο/|||／　 |　 　 　 |　 ／／|／　 |　 | 　 　 ／　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+　　 |　 |||.. |.. 　｜..|　　..|...|￣￣| .|||　 　 |　 　 　 |／／　 |　 　 |　 | 　 ／:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+　　 |　 |||=============|..ｺﾞﾐ..|. |||　 　 |､____ ／|／_____､|　 　 |　 | ／　　　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+￣￣￣￣￣￣￣￣￣￣.l----l,ｲ￣￣￣￣￣￣￣￣￣￣￣￣￣:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:
+:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;　　　　　　　　　　　　　　　　　　　　　　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;　　　　　　　　　　　　　　　　　　　　　　　　　　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+
+
+
+
+
+
+
+
+75 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:44:15 ID:BEKvwf3A
+
+
+
+
+    　　　　　　　　　　　　　　＿＿＿　　　　　　　　　　　　　　　 　 三三┃　　　　　　　　 　 |
+    　　　　　　　　　　　　 ／　　　　 ＼　　　　　　　　　　　　　　　 　 　 ┃　　　　　　　　 　 |
+    　　　　　　　　　　　／　⌒　　 ⌒　＼　　　～♪　　　　　　　　　　　┃　　　　　　　　 　 |
+    　　　　　　　　 　／　 （⌒） 　（⌒） 　＼　　　　　 　 　 　 　 　 　 　 ┃ 　 //　　　　　　..|
+    　　　　　　　　 　|　　 　　___´___　　 　　|　　　　　 　 　 　 　 　 　 　 ┃　//　　　　　　　 |
+    　　　　　　　　　　ヽ、　　 `ー '´　　　／　　　　　　　　 　 　 　 　 　 ┃　　　　　　　　 　 |
+    　　　　　　　 　 　 ／ ゝ　　 　 　 　 ィ'ヽ　　　　　　　　 　 　 　 　 　 ┃　　　　　　　　 　 |
+    　　　　　　　 　 ／ 　 　 　 　 　 　 　 　 ＼　　　　　　　　 　 　 　 　 ┃　[自動]　　　　....|
+    　　　　　　　　/　　 ｨ　　　　　　　　　 r 　 ＼　　　　　　　　　　　　　┃　　　　　　　　 　 |
+    　　　　　　 　 | 　 `||　　　　　 　 　　　|ヽ　　ヽ　　　 　 　 　 　 　 　 ┃　　　　　　　　 　 |
+    　　　　　　 　 /⌒ヾ|　　　　　　　　　　|　|,　　|　　　　　　 　 　 　 　 ┃　　　　　　　　 　 |
+    　　　　　　　 ヾ___,ｿl　　　　　　　　　　│（､__,ﾉ　　　 　 　 　 　 三三┃　　　　　　 //　　|
+    　　　　　　　　　　　 |　　　　　　　　　　|　　　　　　　　　　　　　　　　┃　　　　　　//　　 |
+    　　　　　　　 　 　 　 l　　　 Y´　　 　 /　　　　　　　　　　　　　　　　 ┃　　　　　　　　 　 |
+    　　　　　　　 　 　 　 ヽ,　　 （ 　 　 ,/　　　　　　　　　　　　　　　　　 ┃　　　　　 _,n＿00
+    　　　　　　　　 　 　 　 ヾ　　|　　　|　　　　　 　 　 　 　 　 　 　 　 　 ┃　　　　　└l ｎ |　 　に二二l
+    　　　　　 　 　 　 　 　 　 、 ;|　　　|　　　　　 　 　 　 　 　 　 　 　 　 ┃　　　　　　 U Ｕ
+    　　　　　　　　　　　　　　(.（"＿｀ﾞ_）　　　　　　　　　　　　 　 　 　 三┃　　　　　　　　 　 |
+
+
+
+
+
+76 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:44:43 ID:BEKvwf3A
+
+
+
+
+    ┌──────────────────────┐
+    │　　　　　　　　　　　　　　　　 　 ⌒)＿　　　　　　　　　　 .│
+    │　　　　　 ＿_　　_＿＿_　／ ／ ／ ／ ）　　　　　　　　　 │
+    │　　 　 ｒ┘　　￣Z 　　　｀Y… ― く ／⌒Y　　　　　　　　│
+    │　 　 　 て＿＿／z人从ィ ヽ　　　　＼彡く　　　　　　　　.│
+    │　　　 　 　 　 /∩∩　　 |　人人ノ　　 ヽ= )　　　　　　......│
+    │　　　　　　　/（(ｿ（(ｿ　 f⌒ヽ人人人　　ﾍう ／|　　　　　.│
+    │　　 　 　 　 |　　　.:::::::.　、 　 丶人人 ）　 ∨＝!　　　 　 .│
+    │　　 　 　 　 |＿,ノ:::::::::::　|＼　　∨∨ヽ 　 _ 三 !　　　 　 .│
+    │　　　　　　　＼　　　　　 Ｋ ｝　　 !　）　 ／)∨=′　　　　.│
+    │　 　 　 　 　 　 ＼＿　 /　/　　　|＿,／ミ_） ∨　　　　　...│
+    │　　　　　　 　 　 　 　 ￣て　　　人_入_ソ　　　　　　　　　│
+    │　　　　　 　 　 　 　 　 　 (_,､_／　　　　　　　　　　　　　....│
+    └──────────────────────┘
+
+
+
+
+    　 　 　 　＿＿　 rz､　_ - ―- ― - ．f:izｨ―‐z
+    　 　 　 　`ヽメ＼|ﾏィ ´　　　_ 　ｰ -　彡≦三←､
+    　 　 　 　 ≫三イ ミ=　　 ￣　　　　　 、ヾ. ＼　　　～♪
+    　 　 　 ／／¨7 　 　 /　 ,　　 l| 　 l}　　',　',＼＼
+    　 　 ／／　　}　　　 ,'　 /　l|　l|`ﾄ､l|　l　l}　'.　＼＼
+    　 ／／　　　 |　 　.: |　卞二士{　l `ﾒ士ｾl　l|　　＼＼
+    ／／　　　　 ,′　.:　|　 代 { ﾘヾ､j/{:fﾖz:ﾊ/l′　 　 ＼＼
+    ＼{ヽ　 　 　/　　.: 　j　 lﾍ ￣ 　 "　ゞ=ﾁ　|　　　　　　ﾑｲ　 　 　 　 毎日～　毎日～
+    　 ＼＼ 　./　　.:　　Ⅵ.::ゝ ""　　 ′""j　 !　　　　　／ノ　　　　　　僕らは鉄板の～
+    　 　 ＼＼'　　.:　 　 ,rzⅦ、　 　 ワ .ィ　　 !　　　 ／／
+    　 　 　 ＼＼.::　　 （ iゝ‐ｚ ＞ｘ 　イ　|:. 　 ﾍ　 ／／ ＿_ 　 　 　 　 上で焼～か～れ～て～
+    　　 　 ./__＼＼　　 〉￣ﾄ　辷ﾗ七彡 :!::.. 　 ﾊ　￣￣７ /
+    　　　 ハ￣￣￣`ｰ"-: :ヽﾆユ辷ﾗｿ､．-―ｚ､ﾊ　 　 / /
+    　　 ,'{／￣`Ｙ: : : : : : : : : : : : ゝ:Yr=x: : : : : ﾑ '. 　./ /
+    .　 /く＿ : : └──z: : : : : : : : :《ｨ泌>: : : : ヾ､ﾊ / /
+    .／　 .〉: ＼: : : : : : :∧: : : : : : : :.ゞXｲ: : : /￣: ｽ　〈
+    　　 .: ＼: : `ｰ─: : :.ノ＞─～ｰ､＿: 〉ｰく: : ／:ノ＼＼
+    　 ..::　 ム: : : : : : :イ／: : : : : : : : : :￣）: :ヽ: : く 　:. ＼＼
+
+
+
+
+
+83 ：<span style="color:#990000"><strong>普通の名無しさん</strong></span>：2012/11/17(土) 10:47:47 ID:R5nOadyE
+
+
+
+<strong>    日本で一番レコードが売れた歌だっけか？</strong>
+
+
+77 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:45:09 ID:BEKvwf3A
+
+
+
+
+    　　＿＿ ＿＿ 　:||≡≡≡≡≡≡≡≡≡≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡
+    ／　　／　　／|　:||／日　凸　□□□／ 　 |ニニ|／|XXXX|／|三三|／|三三|／ 　○／
+    |￣￣|￣￣|　 |　　　　　 　 　 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+    | //　| //　| |￣￣￣|＼--l　　　　　　　　　　＿＿＿
+    |￣￣|￣￣| |＿＿＿|　 ／￣￣￣￣￣￣／／／／|／￣￣.:::／￣￣￣￣￣￣￣￣￣:
+    | //　| //　| |＿＿＿|／＿＿＿＿＿＿_.|￣￣￣|／＿＿＿／
+    |￣￣￣￣　　　　　　　　　　　　　　　　　 ￣￣￣|　 |　　　　|￣￣￣￣￣￣￣￣￣￣￣
+    |　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |　 | :::::::::::::|
+    |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|／::::::::::::::::|＿＿＿＿＿＿＿＿＿＿＿
+
+    　　　　　　　　　　　　　　　　　　　　　 _,.-zzzzzzzzzzz-､
+    　　　　　　　　　　 　 ＿__/!　/　　,ｨﾁ圭圭圭圭圭圭圭ミ､
+    　　　　　　　　　　 ,r'ﾆ三{ |ヽl| ,ｨ佳圭,r､圭圭圭圭圭圭ﾁ{
+    　　　　　　　　_,ｨ彡"/'≧ヽミY圭r-､/圭l}彡"´　　　 ,...-─ゝ、
+    　　　　　 ,ィ"´_ノ/, '/　 ,≦＼＼l圭|l彡'ヾ! ／ ,　 ／　 　 / l ＼
+    　　　　　 {|-=彡|l |/ ／　／　f⌒ｺ{じ)､_ノ': :／／ 　 　／　 !　ヾヽ
+    　　　　　 ヾ=≠|'ノ /　 '/ , ' /`T´/｀T’/: :/／:.: : : :／,.'　　,| 　 ﾞ＼ヽ
+    　　　　　　　 ＼彡'　/　 　 /' ,ｲ{ '`''" /　/＿.'二＞-/: :,ィ/'l 　 ハ ヽl
+    　　　　　　　,r‐ｧx'　,'　 !　　 / |ﾊ| rｧ7 ,.ｲ　≦≠ﾃﾐ/／//ヽ| : : !:.:l　 |!
+    　 　 　 　 ,ｲ　!'ヽ|　|l　 |＼ /／ﾊ| {l/ ∧|　 ヾじﾘ, '"　/',rzx.!　 ;': ,'　 |!　　　 　 らめぇ！
+    　　　　／/l!　|　 ∨!|　 !　 X{　　l /,ﾍし|ヽ ""｀"　 　 　{iｿﾘ,'　/ ,へ,ｨ|l
+    　　　/　/,'l!:　!　　∨l! ｜/,' |　 /{/: `Tﾊ　` 　u.　　 　 '｀;,ｲ／' /／｀´　　　　　熱いのに感じちゃう　ﾋﾞｸﾝﾋﾞｸﾝ
+    　　,/　,':/ l!　 l　　人|l　ﾘ| ヽゝ彡l!: : /|ﾘ　､　　　 r ｧ　　/'ﾊ //'　 _,
+    　 /　 .|:l:　l!　 l､ 〃 ヽ|从ヽ＿ﾌ: :|!ノ==!　　＼　　　 _ イ {_У' ,ィﾁ二三三三≧=z､
+    　,'　　 !:|:　l!　 ヾ､__彡ヽ: : :.＼:_:_<ﾄ､ィﾘ　＿..-≧＜ミ{＞≠'／: ;r===ﾆ≧､｀￣ヾヽ}ヽ
+    　|　 　l:.|:　l!　　ﾄ＼　　 ヽ_:_彡≧ﾉ＼|'　/r‐''"´＞ｸ’／　　ヽ／　　　　　　}!　　　｀!: Y´
+    　|　　 ﾞ､:､　l!　　lヽ:＼　 |!'　＝､人＼!_//=彡-ﾁ,':|　　　　　 ﾊ　　　　　 _ノ'　　　 /,':.:|
+    　|　　　ヽ:.､ ヽ　 l ヽヾ=ﾁL,r=≠＝ﾏﾎ)'三三,r=7:´≧=､　　/: ﾄ､＿,..ｨﾁ"´　　 　/,:　:,'
+    　ヽ、　　 ､:.:､ :.､　! ヾ､ `ﾄ<_彡ｲﾁ7/ﾊ|　　 /,rf::::::::::/⌒ヽ,:': :∧:＼　　　　 　 _ノ,:　 /
+    　　　￣￣ヽ:.:､　:. |　ヾ､ !　_|::レ'//,'|:l:! / ‘"　｀￣ﾘ/　 　 ＼|　l:　 ＼　　_,ィ´ :/ ／　　 ＿,.--､
+    　　　　　　　ヽ:.:.、 !　 }:| ヽヾ彡///ﾉ!l:|'　　　　 　 ﾊ　　　　|　ヽ|:　　　`Y´: : ../:/　　 ／／:／⌒ヽ
+    　　 ,r‐ｧ＝=-､ヽ:l: |　 |:|　!　/　`ｰ’LL!<　 　 　 ノハ　　　 |　 |,'　　　　,': : : :. /　　 /, ': : / ヽ: : : :ヽ
+
+
+
+
+79 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:45:41 ID:BEKvwf3A
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.. ..: ,,.::..,.,,::,;;::,::,,;;,::;;:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    :::　　　　　　　　　　　　　　　　　..　.,　..　　..:.　　... ,.. .. . ..,...::,,::.:;:;;:..:;:.;:;;:,.,,,:;;:;:;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    ::::　　　　　　　　　　　　　　　　　　　　　　　.. 　　　.:..::..,....::.,.;:;..,:.:;;:,,.;.;::;:;;:;;:,;,,;:;:;;;;;;;;;;;;;;,;,;;;;;;;;
+    ::::　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　..;.: ..,,:;:.,,;:;.:;.;.:;::,.:;:;.:;:;:;;;:;;;;;;;;;;;;;;;;;;;;;;
+    :::: 　　 ￣￣￣￣＼　　　　　　　　　　　　　　　　　　　　　　　.. .,..::,:,:,,;:;::,,:;.:,,;:;:.:;:;;;;;;;;;;;;;;;;;;;;
+    :::　　　　　　　　　　 ＼　　　　　　　　　　　　　　　　　　　　　　　　　.,.,,....::;:;;.,:;:;;.,::;;:;;;;;;;;;;;;;
+    ::::　　　　　　　 　　　 　＼　　　　　　　　　　　　　　　　　　　　　　　　　 ..,,.::.:;:;;:.:;,;;:;;;;;;;;;;;;;;
+    ::::::::　　二二￣　 ｀ニニ　l　　　　　　　　　┌───────┐　　 .. 　,,.. 　.,...,,,..,,::.:;:.:,
+    ::::::::　　T'''T'　　 　T''T 　 l　　　　　　　　　│　……増えた 　 .│　　　　　　　.. .. .,,.. ..;:..
+    ::::::::::::::￣￣　 　　　￣ 　 |　　　　 　 　 　 └───────┘　　　　　　　..　　:;; 　:;
+    ::::::::u:::::::::　　　　　′ 　 　i　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .. ..:
+    :::::::::::::::::::::　―‐－　　 　丿
+    ::::::::::::::::::::::　　　　　 　／
+
+
+
+
+
+80 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:46:12 ID:BEKvwf3A
+
+
+
+
+
+    　┏━━┓　　　　　　　　　　　　　　　　　　∬
+    　┃\***┃　　　　　　　　　　　 ＿_. ∬　△／
+    　┗┯┯┛_　　　　　　　 　 　 ..|お.|　 ＜●　∬
+    |￣￣￣￣| |　　　　　　 　 　 　 |でﾞ|￣￣￣￣￣|.
+    |　 　 　 　 | |＼　 　　　　　　 　 |ん.|〓 ◎::◎ 〓|.
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|￣
+    　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |
+    　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |
+    　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    　　　　　　　　　　　　　　- ―　､―‐ -
+    　　　　　 　 　 rt=z ／´　　　　　　　　　 ヽ＿
+    　r=＝＝=ミ　_ゞYｿ　　　　 ,　　　　　　　　 ゞミ=＝＝＝＝=z
+    　ヾ;､　　　　＞≫7|ミニ ／ 　 　 　 ､　　　　　ヽ＼　 　 　 /7　　♪
+    .　　｀＼　／メ∠/::! 　 / 　 　 ＼ 　:l}　 ヽ　　　‘，ﾞ 　 　 /7
+    　 　 }7／ 才/／!:/ 　/　　　ﾊ　:}＼ﾊr=;､ｌ|:!　 　 }ト　　 / ′
+    　　// ￣　 イ　 ﾚ　.八_rt､.l:| -/イ/ヽr≠从　　 八 　 〃　　　　　　ある朝～
+    .　//　　 　 /　　　.: : :///｢从=＝ﾐ ′ {泌7从イく　　〃　 　 ＿
+    　{:(　　　 ノ　　　.: : :〈〈〈 { |　 xwx　　, ヾﾒﾊ: : :l| :ﾊ　 {{ 　／　⌒ヽ　　　　ボクは店のおじさんと～
+    　ヾ＼／　　　／: : .:人＿　＼ ､―‐ ,　 ｨ　 トﾐ:l|: : }　 し　　　　　}ﾉ
+    -‐イX} 　 .:＜:r=＝＝くヽ. ＼ ヽ ￣ ／ ′/:}: :V:ノ　　　　　　 ／
+    . ／／　.: : : :/~⌒~¨｀ヽ∧ﾐ　＼}｢不八_,ノイ : :ﾊ　　　　　　／
+    /／　.: : : : :∧: : : : : : : : : : :》-く_;))ｽ∧: : : |: : : :l　 　 　 ／
+    !′ .: : : : : : :∧: : : : : : : : :7/: : : : :}薔∧ : :V:. : :| r 一 ´
+    ゞ;､ : : : : : : : :∧: : : .:x≦Z/: : : : .:ﾑ>く_∧: .:V: : K
+    : :ヽ＼: : : : : : : .:ゞ=く: :〃:{: : : : : :{-く<ノﾉﾊ: :.V: :トミ＝＝=ﾐ､
+    : : : ＼＼: : : : : : : /:|∧: :.:!: : : : : :|: : ｀¨ヾ＼::ﾉ: :': : :}　＼　　ヾ＼
+    : : : : : ＼＼: : : : /ﾟ∧:_ヽ:(: : : : : : }: : : : : :＼＼: : : : |　　 ＼　 ＼ヽ
+    : : : : : : : ヽ ＼ : ﾚ′l/ : ＼: : : : : :): : : : : : : )　): : : ﾉ ﾉﾊ }ハ　　 )′
+
+
+
+
+
+81 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:46:42 ID:BEKvwf3A
+
+
+
+
+    　　　　　　　　　　 　 　 　 　 　 　 ＿＿
+    　　　　　　　　　　　 　 　 r=ミ⌒Yニニニﾆ＞
+    　　　　　　　　　　　　 ／ 廴__≫　¨￣￣¨＜ﾆヽ
+    　　　　　　　　 　 　 /{　 x==/　　　　 　 　'⌒ヽ∧
+    　　　 　 　 　 　 　 / ﾙ {{　 ′/ 　/} 癶　　　　 Ⅵ
+    　　　　　　　　　　　 / 　ゝ=|　{ﾅメ／__　｝/　　　ﾚ
+    　　　　　　　　　　　 ｰ==彡ﾍ {沁、　x=ミ/} i　},rく　　　　　　　　　　　厨房へ誘われるまま
+    　　　　　　 　 　 　 　 　 　 小{ ｀ ,.　　ツ // /{:::／⌒ヽ　　　　　　 　 ホイホイと付いていっちゃったのだ
+    　　　 　 　 　 　 　 　 　 ,/（（込 　、_ 　 ｰ__´ﾉ〃/⌒Ｙﾉ
+    　　　　　 　 　 　 　 　 ﾉ{ {｀ヽヾ≫ -r=≦た｝ {_/{Y⌒ヾ}､　　　　　　　『 いいこと思いついた
+    　　 　 　 　 　 　 　 　 {{ﾍ∨'⌒ﾇ=Ⅳ/ﾆﾆ え斗=く｀Y⌒ヾ}　　　 　 　 　 お前、腹の中にカスタード詰めろ 』
+    　 　 　 　 　 　 　 　 /八Ⅳ　 / {{≫≪}} //　　　 ∨⌒) ）
+    　　 　 　 　 　 　 　 { {　 / r=ミ／==}j　､{/´　／　　ﾟ｡{ （　　　　 　 　 本来、あんこを詰めるべき和菓子に
+    .　　　　 　 　 r‐Y´￣｀Y／　 ｰ/一　　　{く⌒ヽ 　　 八{　ー　　 　 　 クリームだなんて、なんて人なんだろう…
+    　　　　　　　　ヽﾍz== 八　　ｰ{一　　 　 }{'⌒ヽ(_)／ 　ヽ
+    　 　 　 　 　　__辷_了r─=ミｰヽ =ミ __ ｲ:{二二}┘
+    　　　　　　　 ｀ｰr=⊂Y´￣/⌒　｀ ＜三:/-‐ 　}　　　 　 　 　 　 　 　 しかし、意外とおいしそうな組み合わせに
+    　　　　　　　　 （　 　 ｀ー {ヽ　 　 　 　 　 ヾ　/　　　　　　　　　 　 　 試してみたい衝動が　──…
+    　　　 　 　 　 　 ヽ 　　 ﾉ/「＞　　　　 　 　 } ′
+    　 　 　 　 　 　 　 　ー　' //{:::::}{::::}}≧=‐r＜
+    　　 　 　 　 　 　 　 　 ／ヽ ::{i==i}:::::: '⌒ヽ 　 ﾟ　 ｡
+    　　　　　　　　　　　／ /　 |＼:}{:::／/　　　　　＼　｀　、
+    　　　　　　 　 　 ／ 　/　　|i　　 　 /　 　 　 :.　　 ヽ　　＼
+    　　　 　 　 　 ／　　 /　　 |i 　 　 / 　 　 　 　､ 　 　＼　/
+    .　 　 　 　 　 ヽ 　　/　　　|　　　/ 　 　 　 　 　ヽ　　　∨
+
+
+
+
+
+
+
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／ノ 　 ヽ､_＼
+    　　　　　／（ ○）}liil{（○）＼　　　　やめんかーーーッ！
+    　　　 ／　　 　 ＿´＿　　　 ＼
+    　　　 |　　　ヽ　|!!il|!|!l|　/　 　 |
+    　　　 ＼　　　　|ｪｪｪｪ| 　 　 ／
+
+
+
+
+
+82 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:47:24 ID:BEKvwf3A
+
+
+
+
+    　　　　　　　　　　　　　/イ〆‐ｧ((＿〆／:::| /::　 /　　／ ／::　......／::::＞‐　　　　/､　l　 /
+    　　 　 　 　 　 　 　 　 　 　 ／7 ／(／∧:: i:|:::　/　　/:: /:::≧=--ミ／　　 .....:::/../ ハ 　 ′／
+    　　　　　　　　　 　 　 厂￣￣ミ ＜ ／|:: ゝ_j:::. ,::..　/:: /:__´　_　　/　...:::::::::/イィ′ 彡
+    　　　　　　 　 　 　 ／´￣￣　　　　＼ V::/！:::|:::../ | ´ん'示ミxy′＿_ ／ __　|:::/ 　 }
+    　 　 　 　 　 　 　 (,ｨニ二ニ=ミ:::::::...... ＼{　‘;:: |:::.　 i/弋^,ﾉ:ﾉ ｀{／　　　　 　 ヾ/ 　 /}
+    　　　　　　　　　 　 ゞ====≦､　＼:＼:::: ﾊ､_,‘; |:::| 　 .::::.｀¨´　　　　　　x=ﾐ 　 /:::..../ﾘ
+    　 　 　 　 　 　 　 /￣￣￣　　＼ﾉ＼:}ノ　ゞ!　＼:ゝ　　 :::::.　　　 　 　 ん' ﾊ　′:::/ ′　　いらっしゃいませ
+    　　　　　　　　　　ゞﾆﾆﾆ=ミ 　 　 ＼リ　　　j　 　 ヾ　　　　　　　　　　弋ﾝ ／　／ ,′
+    　　　　　　　　　　　 ｀　ー--＼　 ...:::}　＿,ム __ ＼　 　 　 丶　_ 　′..:::∠　イ j／　 　 　 新発売のタイヤキなど
+    　　　　　 　 ／￣￣＞ 　 　 　 ＼ ::/{^￣￣￣ ≧ ＼　　　　 　 　 　 　 / ＼　　　　　　　 いかがですか？
+    .　　　　 　 /:::/　／＿＿三≧=イj:/　j─── ＞ァ'´ ￣￣＼ ─ ｧ‐=彡　／
+    　　　　 　 |: /　/￣　　　 ｀　ｰ一"　ノ´￣￣　 //　　　　　 　 ＼/:／／／／￣＼　　　 　 　 　 ＿＿rt､ -　 ￣｀　:.rtz､
+    　　　　　　ゞ:::: |　　　　　　　　　　_/　　　　　 // 　 .::/ 　 　 ＼ハ'／∠〆 ／　／　　　　　　 　 ≫ニ{:!ｦ　　　　　　 ゞ{ﾉ
+    .　　 　 　 　 ＼|　　 　 　 　 　 γ/　　　　　 // 　 .::/　 　 　 　 ＼v仁/:::.. 　／　　　　　　　　　　　/　}　　{　 ',　 　 !　!
+    　 　 　 　 　 　 ＼　　 　 　 　 /.:′　 　 　 // 　 .::/　　　　　　　　丶/:::::{:: /　　　＿＿　　　　　　/　ｲ　- !　　} | - |　|
+    　　　　　　　　　　 　 　 　 　 /:/′　 　 　 { {　 .:::/　　　　　　　　　　 ＼_;Vミー＜￣￣｝　　 　 ／／ |从从　 ﾊ从从ｲ
+    　　　　　　　　　 　 　 　 　 丿 |:|　　　　　　＼､::/　　 ..::::/::　...::::::::::::::::::::}　 　 ￣¨¨ヾﾝ′ 　 ／／　　| 代ｿ}ノﾏ薔}ﾚ' |
+    　　　　　　　　　　　　 　 ／　.::ゞ　　　　 　 　 У 　..:::::::/::::::: ＿＿＿::::/＼ 　 　 . ／..　　 ／／　　　 | lゝ、 ｰ ""ィ|　|
+    　　　　　　　　　　　　　 {:::::::::::::::|　 　 　 　 　 { .:::::::::::::/::::／i O 　 　 ヽ　　　　　　　　　／／ 　 　 　 ′ ./>匀}~7ﾍl　l
+    　　　　　　　　　　　　 　 ＼::::::::::i,　　　　　　　 ｀ヾ:::: /:／　 j／￣￣∨:::....　}　 　 　 　 ＼＼　　　　/　 .(: :(: : : :{: :ﾊ. |
+    　　 　 　 　 　 　 　 　 　 　 ＼::::ﾊ　::.、　　 　 　 :::::｀¨{:::: ／　　　　　‘、::::::/ 　 　 　 　 　 ＼＼ 　 /　 . :}Y: : : : :|: : :V
+
+
+
+
+
+
+
+
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／ノ 　 ヽ､_＼
+    　　　　　／（ ○）}liil{（○）＼　　　　今の流れで
+    　　　 ／　　 　 ＿´＿　　　 ＼　　　タイヤキが食いたいと思う奴があるかぁーーッ！？
+    　　　 |　　　ヽ　|!!il|!|!l|　/　 　 |
+    　　　 ＼　　　　|ｪｪｪｪ| 　 　 ／
+
+
+
+
+
+84 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2012/11/17(土) 10:48:04 ID:BEKvwf3A
+
+
+
+    　　_ ゝ{　　　 》　／　　　　　　 　 　 　 　 ｉ　　､
+    . 〃 ¨ヽ＼/¨ヽ〃　　　　　　　　　　 　 　 }　 　 ＼
+    〃　　　》´｀Ｙ}}′　　　 　 　 　 　 　 　 ／ヽ　　 　ヽ
+    {　　 　 {{　 ヾjl　 　　　 /　/|　 /l　 　 '　　　ｌ 　 !　　i
+    ｀≧===｀彡ﾟ,　　　′　′/-}ｰｧ十〃 　 　､ j　! j　､　.　　　　　　　　　　　　　　　　　　 　 ┌┐
+    〃 　 　 ≠ ′ 　 |　　　厶=≠ミ}/　　 　 云ｰУ!　|　|　　　　　　　　　　　　　　　 　 　 　 ｜｜
+    {{　　　 〃 '{　 　 　 /　/′ｨてﾊ ｀　　　 ´ｨfﾊヽＶ　|　ｌ　　＿＿＿＿＿＿＿＿＿＿,､∧,､｜｜＿＿＿＿＿＿＿＿＿
+    ＼ ＿〃　∧　i 　{ '　/ゝ　{///ﾟ}　　　　　{//} ﾉ} 　ｌ　{ 　 ￣￣￣￣￣￣￣￣￣￣∨`'`.｜｜￣￣￣￣￣￣￣￣￣
+    　 ￣¨{{_ノ′{∧　j＼{　 　 ｀¨¨´　　‐yヽ,､¨¨ 　: i　!:八　　　　　　　　　　　　　 　 　 　 　 └┘
+    .　　 　 ＼ 　 ∨∨　 　 　 　 　 ／ ／ /　ｈ　　И: | 　 〉　　　　　　　　　　　　　　　　　　 ┌┐
+    　 　 　 ＿ゝ　八 {_　　U　　　 /　/　 ′/Yヽ 　}人ｊ　　　　　　　　　　　　 　 　 　 　 　 　 └┘
+    　　　ｉ¨￣￣￣￣ﾐﾄ 　 　 _　 /　/　/　 '　l　l　人_
+    　 　 } ...:::::::: ￣ ≧〉:.､　　| У__'__ /____ 　|　ﾄ<¨￣￣¨ｊ
+    　　　｀-=ﾆ二二ミｉﾄ＼＞/_/::::/::::/::::::/:ヽ| _j〈-……= ﾄ,
+    　　 　 　 ):::::￣彡j　ヽヽ{ ::::::::::::::::::::::::::::::::!::::`ｘ=‐…_彡'
+    　ｉ¨￣￣￣￣ ﾟＹ´　　 ｀|:::::::::::::::::::::::::::::::::|:::::::|.....::::_（＿
+    　L三二ニ:::...... ﾄ､ 　 　 !::::::::::::::::::::::::::::::::;::::::人 ≦¨￣￣
+    　　 　 ）::::..￣〃　ヽ　　 〉::::::::::::::::::::::::::::/::::::′ }....::::_.. ＜
+    　¨￣￣￣¨ >′　　＼ ｉ´￣￣ ¨ヽ::::::/::::::/ ＼{.....:::::::::.....
+
+
+
+
+
+
+
+
+    　　　　　 　 　 　 ＿＿＿_
+    　　　　　　　　 ／ノ 　 ヽ､_＼
+    　　　　　 　 ／（ ○）}liil{（○）＼
+    　　　　　 ／　　 　 ＿´＿　　 　＼　　　　　意外そうな顔をするなッ！！
+    　　　　　 |　　　ヽ　|!!il|!|!l|　/　　　|
+    　　　　　 ＼　　　　|ｪｪｪｪ|　　　 ／ l!| !
+    　　　　　 　／　　　　　　　　　　 ＼ |i
+    　　　　　／　　　　　　　　　　ヽ !l　ヽi
+    　　　　 （　　 丶- 、　　　　　　 しＥ　|そ　　ﾄﾞﾝｯ！
+    　　　　　　`ー､＿ﾉ 　 　 　 ∑　l､Ｅ ﾉ　く
+    　　　　　　　　　　　　　　　　　ﾚY^Ｖ^ヽｌ　　　　　　　　　　　　　　　　　　　　　　　　　　　　【　おしまい　】
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5177/clap" id="fc2button-clap-5177" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5177").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/7.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5177/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="コンビニアイアンメイデン　たいやきの巻" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5177.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5458.html">
+					コンビニアイアンメイデン　餃子の王将の巻 (2013/03/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5397.html">
+					コンビニアイアンメイデン　続・よくカケる鉛筆の巻 (2013/02/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5392.html">
+					コンビニアイアンメイデン　よくカケる鉛筆の巻 (2013/02/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5378.html">
+					コンビニアイアンメイデン　オレンジさんの超簡単サーモン（まぐろ）丼のつくり方の巻 (2013/02/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5371.html">
+					コンビニアイアンメイデン　アメ横の買い物話の巻 (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5307.html">
+					コンビニアイアンメイデン　はなまるうどんの巻 (2013/01/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5297.html">
+					コンビニアイアンメイデン　アサシンのしりアスな話の巻 (2013/01/18)				</a>
+</li>
+<li class="relate_li_nolink">
+				コンビニアイアンメイデン　たいやきの巻 (2012/11/29)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5171.html">
+					コンビニアイアンメイデン　富士そばのとり天そばの巻 (2012/11/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4893.html">
+					コンビニアイアンメイデン　ローソンストア100のパスタ＆ソースの巻 (2012/08/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4869.html">
+					コンビニアイアンメイデン　オナラ小話 (2012/08/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4861.html">
+					コンビニアイアンメイデン　カレーショップC＆Cの三元豚ロースかつカレーとコーラの巻 (2012/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4701.html">
+					コンビニアイアンメイデン　かつやのかつ丼の巻 (2012/07/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4622.html">
+					コンビニアイアンメイデン　Sガストの若鶏竜田揚げ定食の巻 (2012/06/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4465.html">
+					やらないキッチン：コンビニアイアンメイデン　すた丼の巻 (2012/05/06)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="コンビニアイアンメイデン　たいやきの巻" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/11/29 03:28 ]
+<a href="/blog-category-119.html" title="カテゴリを参照">オリジナル系　やらないキッチン</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html#comment_list" title="この記事のコメントを参照">CM(12)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5177"
+    dc:title="コンビニアイアンメイデン　たいやきの巻"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html"
+    dc:subject="オリジナル系　やらないキッチン"
+    dc:description=";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; /.　　　　 　 　 　 　....:::.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;:;::;;;;;;;;;;;;;:;:;:;:;:;:;:;;;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;:;::;::;;:;:;: |. 　　　　　 　 　　 　　|;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;;;:;:::::;::;::;::::;::::;:::;::;::;:::;:::;::;:::;:::;::..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-11-29T03:28:15+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5153.html" title="やる夫が徳川家康になるようです　第５話　「信長包囲網」">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5176.html" title="やる夫で学ぶＪリーグの旅　Ｊリーグ２０１２ダイジェスト　Ｊ２編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment48311">[ 48311 ] <strong></strong></p>
+</div>
+<div class="comb">
+終わりかよ！w<div class="comment_navi">
+[ 2012/11/29 06:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=48311" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48312">[ 48312 ] <strong></strong></p>
+</div>
+<div class="comb">
+鳥天そばよりもこっちが先だろう。<div class="comment_navi">
+[ 2012/11/29 08:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48319">[ 48319 ] <strong></strong></p>
+</div>
+<div class="comb">
+「ああっ、くるみやりんごやバナナが入っちゃう」、某チェーンの店でのたい焼きの中身<div class="comment_navi">
+[ 2012/11/29 10:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48321">[ 48321 ] <strong></strong></p>
+</div>
+<div class="comb">
+子供の時あんこが嫌いだった俺はいつもたいやき屋のおっちゃんに
+あんこ無しのたい焼きをやいてもらってたなぁ<div class="comment_navi">
+[ 2012/11/29 10:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=48321" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48323">[ 48323 ] <strong></strong></p>
+</div>
+<div class="comb">
+アップルカスタードシナモンはうまかった（こなみかん<div class="comment_navi">
+[ 2012/11/29 12:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48327">[ 48327 ] <strong></strong></p>
+</div>
+<div class="comb">
+管理人さん、もしかして、富士そば回の米欄見てまとめに入れて下さったんですか？
+まとめ乙です。
+<div class="comment_navi">
+[ 2012/11/29 12:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48332">[ 48332 ] <strong></strong></p>
+</div>
+<div class="comb">
+よし、次はカレーとピザソースだ…<div class="comment_navi">
+[ 2012/11/29 15:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48334">[ 48334 ] <strong></strong></p>
+</div>
+<div class="comb">
+マミさんには愛と希望が詰まってる（願望）<div class="comment_navi">
+[ 2012/11/29 16:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48340">[ 48340 ] <strong></strong></p>
+</div>
+<div class="comb">
+たい焼き「よし、良い事思いついたぞ、お前俺の中にハムとチーズを入れてみろ」<div class="comment_navi">
+[ 2012/11/29 19:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48358">[ 48358 ] <strong></strong></p>
+</div>
+<div class="comb">
+マミさんは支援絵の方が先に出来上がってしまうという人気振りだからなｗ<div class="comment_navi">
+[ 2012/11/30 01:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment54394">[ 54394 ] <strong></strong></p>
+</div>
+<div class="comb">
+あんことクリーム、一つずつ貰おうか<div class="comment_navi">
+[ 2013/04/01 07:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ゆとりある名無し</a>') } else {
+document.write("ゆとりある名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">ゆとりある名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment61138">[ 61138 ] <strong></strong></p>
+</div>
+<div class="comb">
+うちの近くの焼きたて屋だと
+タイ焼きの中にたこ焼きをぶち込んだ「たいたこ」というのがあってだな
+ 
+結構美味かった<div class="comment_navi">
+[ 2013/08/14 20:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5177" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5177.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5177"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5177-32d045ef">http://oyoguyaruo.blog72.fc2.com/tb.php/5177-32d045ef</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5153.html" title="やる夫が徳川家康になるようです　第５話　「信長包囲網」">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5176.html" title="やる夫で学ぶＪリーグの旅　Ｊリーグ２０１２ダイジェスト　Ｊ２編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

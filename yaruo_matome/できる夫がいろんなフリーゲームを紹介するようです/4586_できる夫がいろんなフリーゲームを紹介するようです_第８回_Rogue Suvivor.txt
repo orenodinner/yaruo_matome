@@ -1,0 +1,804 @@
+<div class="article">
+
+
+
+
+    　　　　　　　　＿＿＿_
+    　　　　　　 ／　　 　 　＼
+    　　　　　／　⌒　 　 ⌒　＼
+    　 　　／ 　 （●） 　（＜） 　＼
+    　　　 |　　　　　 ___'___　　　　 |　　　できる夫と！
+    　　 　 ＼　 　　 ｀ ｎ´　　　,／
+    　　　　／　　　　　| |　　　 ＼
+    ..　　　　　　　　　ﾉ .ュ
+    　　　　　　　　　{ ..ﾆj
+    　　　　　　　　.　| "ﾂ
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／　　　　 　 　 ｀　 ―‐--- ､:i:i:i:i:-....､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　　　　　　　　　　　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　　　　　　　　　　　　　　／　|:i:i:i:i:i:i:i:i
+    　　　　　　　　　　　　　　　　　　　　　　　 　豆腐で送る＞. 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 　 　 　 　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+    　　　　　 　　　　　　　　 ＿＿
+    .───┐　　　　　 ／　...::::::..＼
+    ￣￣￣| |　　　　 ／　　　...::::::::::.＼
+    　 　 　 | |　　　／　　　　　...:::::::::::::.＼　　　　　　できる夫がいろんなフリーゲームを紹介するようです。
+    　 　 　 | |　　　|　　　　　　...::::::::::::::::: |
+    　 　 　 | |.　　　＼､　　......::::::::::::::::::／　　　　　　 第八回
+    二二二 」　＿　＿ ゞ　　　　...:::::::丶
+    ─┴┐ ⊆ﾌ＿)＿_./ 　 　　┌ヽ　ヽ┐
+    二二二二二二ｌ　 /　 　　 　|　 | 　 | |
+    ＿l＿＿＿＿_| ／　　　　　　|＿| 　 |_|
+    　 |　　 　 　 ／　　__,　　　　ノ　 |─l
+    　 |───/　 ／lﾆ/　 　/二ﾆ　luul.
+    　 |　 　 ___|　　|　　|　　 |_|.
+    　└─（　　　　）(ﾆ|　　 |./二ﾆ)
+    　　　　　￣￣　　/　　 ）
+    　　　　　 　 　 　 ｀ー ´
+
+
+
+
+
+
+
+
+
+278 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:24:38 ID:OAmCBO2k
+
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼　　　今回ご紹介するのは…こちら、Rogue Suvivorです
+    　　　　|　　　　　___'___　　 　　 |
+    　　　　 ＼　 　　`ー'´　　　 ,／　　　ジャンルはローグっぽいサバイバルゲームかな。
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+    　公式HPはこちら。（英語）
+
+    　<a href="http://roguesurvivor.blogspot.com/" target="_blank" title="ttp://roguesurvivor.blogspot.com/">ttp://roguesurvivor.blogspot.com/</a>
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／ 　 ,イﾎｲ＾ﾇﾃﾐ.､ ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　cぅじｿ斗ォん圦　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　｀＾ｰ{辷孑彳ｿﾇ}　　 　 ／　|:i:i:i:i:i:i:i:i　　　完璧に英語だ。日本語版などない。
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 ｀¨＾´｀´　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　　英語アレルギーの方は用法容量を間違えないようにしてくれ
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i　　　ゾンビ化マジ勘弁。
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+
+279 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:25:02 ID:OAmCBO2k
+
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　　ゲーム内容は至って単純。「生存せよ」ですね。
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　　ただし街がアンデッドだらけになった状態を、という条件がつきます。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／ 　 ,イﾎｲ＾ﾇﾃﾐ.､ ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　cぅじｿ斗ォん圦　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　｀＾ｰ{辷孑彳ｿﾇ}　　 　 ／　|:i:i:i:i:i:i:i:i　　　ゲームモードでは生存者、もしくはアンデッドを選ぶことができる。
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 ｀¨＾´｀´　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　　作者は生存者モードを推奨してるな。
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+    　　　　　　　　＿＿＿_
+    　　　　　　 ／　　 　 　＼
+    　　　　　／　⌒　 　 ⌒　＼
+    　 　　／ 　 （●） 　（＜） 　＼　　　人間側でも一回死んだらアンデッドとしてもう一回動けますよ。
+    　　　 |　　　　　 ___'___　　　　 |
+    　　 　 ＼　 　　 ｀ ｎ´　　　,／　　　ただしｩｰｧｰいいながら頭の悪い行動しか出来ないです。
+    　　　　／　　　　　| |　　　 ＼
+    ..　　　　　　　　　ﾉ .ュ
+    　　　　　　　　　{ ..ﾆj
+    　　　　　　　　.　| "ﾂ
+
+
+
+
+
+280 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:25:22 ID:OAmCBO2k
+
+
+
+
+
+    　 　 　 　 ＿＿＿_
+    　 　 　 ／　　　　　＼
+    　 　 ／　 - 　　　　- ＼
+    　 ／ 　 （●） 　（●） 　＼　　　タイトル画面はこちら、ローグ。というだけあって大変質素です。
+    　|　　　　　 __´___　　　　　|
+    　＼ 　　 　 `ー'´ 　　　 ／　　　ただグラフィックが用意されていますのでパッと見でわかりやすいから大丈夫。
+    　/　　　　 ∩ノ ⊃ 　 ／
+    　(　 ＼　／ ＿ノ　|　 |
+    .　＼　“　　／＿＿|　 |
+    　　　＼ ／＿＿＿ ／
+
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/ZONBItaitle.png" target="_blank"><img alt="ZONBItaitle.png" border="0" height="300" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/ZONBItaitles.png" width="349"/></a>
+
+
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／　　　　 　 　 ｀　 ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　　　　　　　　　　　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　　　　　　　　　　　　　　／　|:i:i:i:i:i:i:i:i　　操作方法はこちら。
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 　 　 　 　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　多そうに見えるが実際使うキーはかなり少ない。
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i　　あとアイテム関係はマウスを使うことに注意だ。
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/sousazonbi.png" target="_blank"><img alt="sousazonbi.png" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/sousazonbis.png" width="151"/></a>
+
+
+
+
+
+
+281 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:25:38 ID:OAmCBO2k
+
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼　　で、ゲーム画面はこちら。
+    　　　　|　　　　　___'___　　 　　 |
+    　　　　 ＼　 　　`ー'´　　　 ,／　　右上にある、HP　STA　FOD　SLP　SANという数値に目を向けてください。
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/zonbigamegamen.png" target="_blank"><img alt="zonbigamegamen.png" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/zonbigamegamens.png" width="393"/></a>
+
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／ 　 ,イﾎｲ＾ﾇﾃﾐ.､ ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　cぅじｿ斗ォん圦　　　　　　ｧi:i:i:i:i:i:i:ヽ　　HPはそのまんま、体力だ。30という数値はすごく少ないぞ。
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　｀＾ｰ{辷孑彳ｿﾇ}　　 　 ／　|:i:i:i:i:i:i:i:i
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 ｀¨＾´｀´　 　 　 ／　,　'|:i:i:i:i:i:i:i:i　　STAはスタミナ。戦闘にもバリケードを作るにも消費する。
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i　　簡単に回復するけど戦闘中にすぐ息切れしてくれる。
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´　　FODはFOOD。お腹空いたゲージだ。序盤からずっと悩ませてくれる。
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+    　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　 　 ／ 　 　 　 ＼
+    　　　.　　　　　／　＿,ﾉ　　⌒　＼
+    　　　　　　 ｌ^l^lｎ　 （●） 　（●）　＼　　　SLPはスリープ。ゼロになると戦闘中だろうがおかまいなくうたた寝します。
+    　　　　　 　ヽ 　 L　　 ､　｀　　 　 　　|
+    　　　　　　　 ゝ 　ﾉ　　 ￣￣　　 　／　　　一回それが原因で死んだ。
+    　　　　　　／ 　 /　　　　　　　 　　＼
+    　　　　 ／　　 /　　　　　　　　　 　 　＼　　SAN値はそのまんま。アンデッドを見りゃ誰だって精神に支障をきたしますよねー。
+    　　　. /　　 　/　　　　　　　　　-一'''''''ー-､.
+    　　　人＿＿ﾉ　　　　　　　　(⌒＿(⌒)⌒)⌒))　　これが減ると悪夢にうなされて眠れなくなります。死活問題。
+
+
+
+
+
+282 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:25:49 ID:OAmCBO2k
+
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／　　　　 　 　 ｀　 ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　　　　　　　　　　　　　　　　ｧi:i:i:i:i:i:i:ヽ　　ゲームを始めたばかりは何も持っていない。
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　　　　　　　　　　　　　　／　|:i:i:i:i:i:i:i:i
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 　 　 　 　 　 　 ／　,　'|:i:i:i:i:i:i:i:i　　貴重な弾薬をどう消費するか。そもそも食料調達をどうするか？
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i　　眠ることができる安全な場所の確保は？
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´　　とにかく課題が山積みだ。
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+    　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　 　 ／ 　 　 　 ＼
+    　　　.　　　　　／　＿,ﾉ　　⌒　＼
+    　　　　　　 ｌ^l^lｎ　 （●） 　（●）　＼
+    　　　　　 　ヽ 　 L　　 ､　｀　　 　 　　|　　　　　　ゲームを開始したらとりあえずIキーで街の情報の確認をしましょう。
+    　　　　　　　 ゝ 　ﾉ　　 ￣￣　　 　／
+    　　　　　　／ 　 /　　　　　　　 　　＼　　　　　 　このゲームはマップが毎回ランダムで生成されます。
+    　　　　 ／　　 /　　　　　　　　　 　 　＼
+    　　　. /　　 　/　　　　　　　　　-一'''''''ー-､.　 　 ショッピングエリアが近くにあることを祈りましょう。
+    　　　人＿＿ﾉ　　　　　　　　(⌒＿(⌒)⌒)⌒))
+
+
+ <a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/map.png" target="_blank"><img alt="map.png" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/maps.png" width="141"/></a>
+
+
+
+
+
+
+283 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:26:05 ID:OAmCBO2k
+
+
+
+
+
+    　 　　 　　　　 ＿＿＿_
+    　　　　　　　／ ノ　　＼＼
+    　　　　　 ／　（●） 　(●）＼
+    　　　　／　u　　　___'__　 　　＼　　　　　　　　一応エンディングも存在するらしいのですが・・・。いかんせんキャラがとにかく死にます。
+    　　　　|　　 　　　 `ー'´ 　　　 |
+    　　　　 ＼　/⌒)⌒)⌒)　　 ／/⌒)⌒)⌒)　　スケルトンやゾンビラットを楽勝だと思ったら3匹に囲まれて瀕死状態。
+    　　　　ノ　　|　/　/　/　　　(⌒) /　/ / /
+    　　　/　　　 |　:::::::::::(⌒)　　ゝ　　:::::::::::/　　　ただのゾンビ一体に殺されるのは日常茶飯事
+    　　　|　　ｌ　 |　　　　　ノ　　/　　）　　/
+    　　　ヽ　 ヽ_ヽ　　　 /' 　　/　　　 ／　　　　　やった、生存者だ！と思ったらバイカーギャングだった。等等…。
+    　　　　ヽ ＿＿　 ／　 　 /　　 ／
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／ 　 ,イﾎｲ＾ﾇﾃﾐ.､ ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　cぅじｿ斗ォん圦　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　｀＾ｰ{辷孑彳ｿﾇ}　　 　 ／　|:i:i:i:i:i:i:i:i　　>>1はやっと7日間生存できた。
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 ｀¨＾´｀´　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　そこまで行くと*中立*の軍隊が出てくるから
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i　　軍人の支援物資を横取りしながら生きることになる。
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+
+284 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:26:18 ID:OAmCBO2k
+
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　本スレでは食料庫作ってバリケード建ててずっと寝てたらなんとかなる。
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　なんてありましたが無理無理。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／ 　 ,イﾎｲ＾ﾇﾃﾐ.､ ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　cぅじｿ斗ォん圦　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　｀＾ｰ{辷孑彳ｿﾇ}　　 　 ／　|:i:i:i:i:i:i:i:i　　まず食料確保に手間がかかる。
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 ｀¨＾´｀´　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　次にグレネードや銃弾の確保も大変だ。
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i　　大体倉庫を作ってる間に死んでしまう。
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+
+285 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:26:32 ID:OAmCBO2k
+
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼
+    　　 　 |　　　　　 __´___　　　　　|　　敵のアンデッドだけでなくNPCの生存者が出るのが最大の問題点です。
+    　　　　＼ 　　 　 `ー'´ 　　　／
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／　　　　 　 　 ｀　 ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　　　　　　　　　　　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　　　　　　　　　　　　　　／　|:i:i:i:i:i:i:i:i　　街に落ちてるアイテムはNPCも使う。そのアイテムを寄越せ！
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 　 　 　 　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　と襲ってくるNPCもたまにいるからやっかいだ。
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i　　……ちなみにNPCが死ぬと所持品を落とす。後はわかるな？
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+
+286 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:26:42 ID:OAmCBO2k
+
+
+
+
+
+    　 　 　 　 ＿＿＿_
+    　 　 　 ／　　　　　＼
+    　 　 ／　 - 　　　　- ＼
+    　 ／ 　 （●） 　（一） 　＼　　ですが、友好的なNPCにも利用価値はあります。
+    　|　　　　　 __´___　　　　　|
+    　＼ 　　 　 `ー'´ 　　　 ／　　アイテムの交換やおとり作戦。ﾘｰﾀﾞｰｼｯﾌﾟのスキルを取得すれば仲間として連れ歩けます。
+    　/　　　　 ∩ノ ⊃ 　 ／
+    　(　 ＼　／ ＿ノ　|　 |
+    .　＼　“　　／＿＿|　 |
+    　　　＼ ／＿＿＿ ／
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／　　　　 　 　 ｀　 ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　　　　　　　　　　　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　　　　　　　　　　　　　　／　|:i:i:i:i:i:i:i:i　　スキルはキャラ作成時に一つ、
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 　 　 　 　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　後は*朝を迎えるたび*に一つずつ習得できる。
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i　　ゾンビ相手に無双しても意味が無いことに要注意だ。
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+
+287 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:27:03 ID:OAmCBO2k
+
+
+
+
+
+    　　　　　 　 ／￣￣￣＼
+    　　　　　 ／　ノ　　　　ヽ ＼
+    　　 　 ／ 　 （●） 　（●）　 ＼
+    　　 　 |　　　 　　__´　_　　　 　|　　　　　ちなみに完全英語ではありますが、いわゆる長文はありません。
+    　　 　 ＼　　 　 　 ￣　　　 ／
+    　⊂⌒ヽ 〉　　　 　　　　 　く　/⌒つ
+    　　 ＼　ヽ　 /　　 　 　　＼　ヽ　/
+
+
+
+
+    　　　　 　 　 　 ,....-‐＝:::／｀　―‐- ､￣￣:::＝―-....､
+    　　　　　,...-‐:ｉ:ｉ:i:i:i:i:i:i:／ 　 ,イﾎｲ＾ﾇﾃﾐ.､ ―‐--- ､:i:i:i:i:-....､
+    　　　 ／.:i:i:i:i:i:i:i:i:ｉ:ｉ／　　cぅじｿ斗ォん圦　　　　　　ｧi:i:i:i:i:i:i:ヽ
+    　　 /.:i:i:i:i:i:i:i:i:i:ｉ,r<　　　　｀＾ｰ{辷孑彳ｿﾇ}　　 　 ／　|:i:i:i:i:i:i:i:i　　簡単な単語ばかりなのでそこで詰まることはそうそうないと思う。
+    . 　 !:i:i:i:i:i:i:i:i:i:i:i:}　 ｀　　‐-　　 ｀¨＾´｀´　 　 　 ／　,　'|:i:i:i:i:i:i:i:i
+    　　{:i:i:i:i:i:i:i:i:i:i:i:i　　　 　 　 　 ｀ 　 ‐-　 　 ､／　,　 　 |:i:i:i:i:i:i:i:i　　是非英語アレルギーの方にもプレイしてもらいたい。
+    　　ヽ:i:i:i:i:i:i:i:i:i:i{　　　　　　 　 　 　 　 　 　 |,　　　　　;|:i:i:i:i:i:i:i:i
+    　　　 ＼:i:i:i:i:i:ｉ:ｉゝ　　 　 　 　 　 　 　 　 　 |　　　　　/.:i:i:i:i:i:i:i:i
+    　　　 　 ｀ヽ､:i:i:ｉ:ｉ.｀ヽ､　 　 　 　 　 　 　 　 |　　　 ／.:ｉ:ｉ:ｉ:i:i:,ィ´
+    　　　　　　　 ｀ヽ:i:i:i:i:ｉ.｀ー――――――-'―=イ:, -=＝'´
+
+
+
+
+
+288 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/06/03(日) 18:27:15 ID:OAmCBO2k
+
+
+
+
+
+    　　　　　　　　　　　 ＿＿＿_
+    　　　　　　　　 　 ／ 　 　 　 ＼
+    　　　.　　　　　／　＿,ﾉ　　⌒　＼
+    　　　　　　 ｌ^l^lｎ　 （●） 　（●）　＼
+    　　　　　 　ヽ 　 L　　 ､　｀　　 　 　　|　　　だけどホラー耐性がない方は音量に注意してくださいね。
+    　　　　　　　 ゝ 　ﾉ　　 ￣￣　　 　／
+    　　　　　　／ 　 /　　　　　　　 　　＼　　　ていうか無音のほうがいいです。いきなりアレなBGMが鳴ってビビる。
+    　　　　 ／　　 /　　　　　　　　　 　 　＼
+    　　　. /　　 　/　　　　　　　　　-一'''''''ー-､.
+    　　　人＿＿ﾉ　　　　　　　　(⌒＿(⌒)⌒)⌒))
+
+
+
+
+    　　　　　　　　　　　　　 （（　　　　　　））　　　　　　　 （ （
+    　　　　　　　　　　 ＿　　))　_,.　　-‐r― 、======= ‐-））.._　　　　（（
+    　　　　　　　　 ／///> '"´//＞-―:|r‐､ l ／⌒l―-＜r- ､/｀＞ ､　))　 ((
+    　　 　 　 　 ／// ／////／　/＾>､｜　／／⌒| -――-，＼//// ＞ 、 )
+    　 　 　 　 く// ／// /⌒彡ニ|　{　 ＼/_/＿　/ /￣￣￣ﾊ／~　 ｰ-　、＼
+    　　　　　　 }〃//r=彡　, -‐,≧ニ、　／: : : : ＼/　 　 　 / |.／＾＼　／| ､/,丶 丶
+    　　　　　　 / /（（ ﾆ -‐　／ ﾄ､_:_: :Y: :}ヽ-; : : :/＿＿_ ノ: く　　　　 ＼￣￣ヽ/＼　丶　　　　　 　 　 　 　 　 　 　 　 　 _ｎ_,､ 　 .
+    　　　　　　 | :| ( :＞―=､{: :_｣　/: : :{: /へ{: : : :{　　　　 ｀i|　 ＼　　　／　　　　>/ﾊ 　　 > 、　　　　　　　　 　 　 　 　 └i rﾍ〉
+    　　　　　　 | :|//:}ヽ _: : : }:⌒V: :; -‐…ｰ- ､:_:｣.:　-―-､, -- ､　／~｀ ｰ- 、／/ l: |　　く／　> ､　　　　　　　　　　　　 （才Ｐ_）
+    　　　　　　 ｌ :∨:｣ ┌':_:_ﾉ三二ノ'´￣ .:.:.::} r‐一' ´￣.:.:} } ⌒ヽヽ　　　　　　>y'　l: |__　　　 く／　 >､　　　 　 　 　 　 　 _ ｎ＿
+    　　　　　　 ∨ ﾍ:⌒ノ.:.:.:.:.:.:.:.)ﾉ,.:.:.:.:.:.:.:.:.:ﾉﾉ.:.:.:.:.: _.:.:彡'イ｀il:.:.:.:} 〉:. __　　／　|　/ /ﾆ/l　　　　　く／　丶、　　　　　　　 l ﾘ r┐|
+    　 　 　 　 　 }＼ ＼{:.:.:.:.:_;ノ,二ニﾆ丶-------- ､)):.:.:.:.:.〃ｰ=ﾆ二、 ＼　／／／ﾆ//ヽ　　　 　 　 　 , -‐ ､　　　　　 └1」 L｣
+    　　　　　　 八//＼ ＼(（:.:.:.:.:.:.:r,='＾.:.: ￣￣￣｀ヽ ＼=ﾆ´.:.:.:{: :　　_ ＼:.{ ／／ﾆ／/ 丶 ＼　 　 　 ／　 _　 ヽ　 　 　 　 ｎ ｎ
+    　　　 /三三三>､/ 丶 丶 :.:.:.:.{｛:.:.:.:.:.:.:.:.:.:.:.:.:.:.:_ノ　　}:.:.:.:)' ＿ ノ｛.:.:レ '´／,三ﾆ／ 　　 ＼ ＼ 　 /　/´　 }　|　　　　　　ｌ｣ l l
+    　 ／ |三三/￣　 ＼///＞.丶-=ﾆ ＿ r_' ￣, -―ｧノ.:.:.:.:.:＞-‐ '"´,. イ//L{/三ヽ 　　　 　＼ ＼l 　丶_ ,ノ　|　　 　 　 　 rリ
+    　｛　｛}三三{　　　　　丶 /////≧ｰ-　　二二二二二　　 -‐≦´//////／ﾍ三三} 　 　 　　 ｝　}　　　　　／
+    　 l＼ ＼　　　　　　　　　＞　　///////////////////////////　　＜　　}三三{　　　　／ ／!　　　 ／
+    　 |　 ＼ ＼　　　　　　　　　　 ≧=ｰ-=ﾆ三三三三三三三ﾆ=-‐=≦　　　 　 　 　 　 　 ／ ／　 |　　／
+    　 l＼ 　 ＼ ＼　　　　　　　　　　　　　　　　　　||||　　　　　　　　　　　　　 　 　 　 　 ／ ／　 ／j ／
+
+
+
+
+
+    もしも世界がいきなりゾンビに覆われたら…そんな妄想を実現しちゃったゲーム「Rogue Survivor」の紹介でした。
+    ペットフード美味しいﾃﾞｽ。軍隊とか一体何が目的で街に来てるのやら。
+
+
+
+
+
+290 ：<strong><span style="color:#990000">小さな名無しさん＠この板は300レスまで</span></strong>：2012/06/03(日) 18:30:29 ID:QcrFMRxE
+
+
+
+<strong>    乙
+
+    なんかおもしろそうだｗ
+
+
+<span style="color:#009900">    実際面白いですよ。
+    場合にもよりますが1プレイ10分程度でサクッと死にます。</span></strong>
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4586/clap" id="fc2button-clap-4586" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4586").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/3.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4586/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="できる夫がいろんなフリーゲームを紹介するようです　第８回　Rogue Suvivor" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4586.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5232.html">
+					できる夫がいろんなフリーゲームを紹介するようです　番外編　『World of tanks』 (2012/12/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5231.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１４回　『Notrium』＆『Crimsonland』 (2012/12/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5042.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１３回　『勇者百年計画』 (2012/10/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5033.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１２回　『絶対的人狼』 (2012/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4946.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１１回　『Wraith』 (2012/09/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4874.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１０回　『行商！』 (2012/08/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4717.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第９回　RPG特集 (2012/07/10)				</a>
+</li>
+<li class="relate_li_nolink">
+				できる夫がいろんなフリーゲームを紹介するようです　第８回　Rogue Suvivor (2012/06/04)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4559.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第7回　Dwarf Fortress (2012/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4532.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第六回　MuscleTracer (2012/05/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4527.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第五回　歴史隆々 (2012/05/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4517.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第四回　Stranded2 (2012/05/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4490.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第三回　kkrieger (2012/05/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4481.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第二回　Gearhead (2012/05/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4472.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第一回　Progress Quest (2012/05/06)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="できる夫がいろんなフリーゲームを紹介するようです　第８回　Rogue Suvivor" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/06/04 06:43 ]
+<a href="/blog-category-404.html" title="カテゴリを参照">ゲーム系　できる夫がいろんなフリーゲームを紹介するようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html#comment_list" title="この記事のコメントを参照">CM(5)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4586"
+    dc:title="できる夫がいろんなフリーゲームを紹介するようです　第８回　Rogue Suvivor"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html"
+    dc:subject="ゲーム系　できる夫がいろんなフリーゲームを紹介するようです"
+    dc:description="　　　　　　　　＿＿＿_    　　　　　　 ／　　 　 　＼    　　　　　／　⌒　 　 ⌒　＼    　 　　／ 　 （●） 　（＜） 　＼    　　　 |　　　　　 ___'___　　　　 |　　　できる夫と！    　　 　 ＼　 　　 ｀ ｎ´　　　,／    　　　　／　　　　　| |　　　 ＼    ..　　　　　　　　　ﾉ .ュ    　　　　　　　　　{ ..ﾆj    　　　　　　　　.　| "ﾂ    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-06-04T06:43:33+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4584.html" title="やる夫で学ぶガンダムSEED　C.E.の歴史　第七話">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4585.html" title="やる夫で学ぶフットボールの歴史 　番外編３５　トゥーロン国際日本ＶＳトルコ戦分析">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment37687">[ 37687 ] <strong></strong></p>
+</div>
+<div class="comb">
+何で相方が豆腐なんだ？ｗ
+最後で腹減ってきたじゃないかこのやろう<div class="comment_navi">
+[ 2012/06/04 08:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4586" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37696">[ 37696 ] <strong></strong></p>
+</div>
+<div class="comb">
+37687
+バイオの隠しモードで操作キャラが豆腐になるってのがあったから
+それを踏まえたんだろ<div class="comment_navi">
+[ 2012/06/04 11:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4586" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37721">[ 37721 ] <strong></strong></p>
+</div>
+<div class="comb">
+>実際面白いですよ。
+>場合にもよりますが1プレイ10分程度でサクッと死にます。
+ 
+これがこのゲームを簡潔に表してるんだろうけどわろたｗｗｗｗｗｗ<div class="comment_navi">
+[ 2012/06/04 19:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4586" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37730">[ 37730 ] <strong></strong></p>
+</div>
+<div class="comb">
+10分で死にますw
+なんてわかりやすい…<div class="comment_navi">
+[ 2012/06/04 23:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4586" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37737">[ 37737 ] <strong></strong></p>
+</div>
+<div class="comb">
+食事前に腹話術してるのかもなｗ＞豆腐<div class="comment_navi">
+[ 2012/06/05 02:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4586" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4586.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4586"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4586-9b3acb4e">http://oyoguyaruo.blog72.fc2.com/tb.php/4586-9b3acb4e</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4584.html" title="やる夫で学ぶガンダムSEED　C.E.の歴史　第七話">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4585.html" title="やる夫で学ぶフットボールの歴史 　番外編３５　トゥーロン国際日本ＶＳトルコ戦分析">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

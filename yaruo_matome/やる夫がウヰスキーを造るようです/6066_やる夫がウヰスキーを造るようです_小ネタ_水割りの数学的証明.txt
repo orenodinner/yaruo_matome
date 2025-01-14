@@ -1,0 +1,690 @@
+<div class="article">
+
+
+
+
+
+
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　　　　　　　　　　やる夫がウヰスキーを造るようです
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　　　　　　　　　　　　小ネタ：水割りの数学的証明
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+    　　　　　　　　　　　　　　　　　＿＿
+    　　　　　　　　　　　　　　／ -―‐- ､:丶
+    　　　　　　　　　　　　　〃´　　　　　 ＼:ヽ
+    　　　　　　　　　　　　　{{ __　　　　　　　}.::｝
+    　　　　　　　_,　-　―‐‐┤ ＼ー‐――'＜
+    　　　　　 ／.::＿／.::.::.::.::|.::.::.::.::.::.::.::.::.::.::.::＼
+    ＿＿____/／_／__＿＿::/|.::{.::.::.::.::.::.::.::.::.ヽ::.::ヽ　　　　　　　水割りの薄め方についてだけど、ウイスキー：水比を、
+    ￣￣￣￣￣￣￣ ~|lll|'.::|.::|.::.::.:|.::.::.::.::.::.::.l.::.::. ',
+    _　　　　　　 　 　 　 |lll｢.::j.::ｌ::.::.::l＼⌒.::.::.::|.::.::.::l　　　　　　 やる夫は１：２を進めているし、ニッカやサントリーの
+    │　　　　　 　 　 　 |lll|::ハ.l:.::.:: | 　ヽ.::.::.: |.::.::.::|
+    │　　　　　 　 　 　 |lll|　　',.::.::.│　　＼.::.|.::.::. |　　　　　　 水割りの作り方を見ても１：２から、多くても１：２．５だし
+    │　　　　　 　 　 　 |lll|三　ヽ ::.:|三三7:ヽ|.::.::.｀ヽ
+    │　　　　　 　 　 　 |lll|"　 　 ＼|　""･l.::.::|⌒ｌ:ド､l　　　　　概ねハイボールより濃く設定されているけど
+    │　　　　　 　 　 　 |lll|、　‘ｰ'ｰ' 　 　 j.::.::|-ｲ.:|
+    │　　　　　 　 　 　 |lll|:l＞ー‐rーt＜ ﾘ .::|.: ｌ :|　　　　　　　これってどういう根拠があるのかな？
+    │　　　　　 　 　 　 |lll|:|_j;斗＜＿,＞/.:: /! ::.: |
+    │　　　　　 　 　 　 |lll|:|　＞､ ＿＿/.:: / ヽ.::. |
+    ├‐tｭ‐‐┬‐tｭ――|lll|:| /　　　　 /.:: /　　 ｉ.::.|
+    │ ∥　 ∥　ll　　　 |lll|:V　 　 　 ,'.::.:/　　　.|.::.|
+    │ ∥　 ∥　|!＿___ |lll|.::ヽ　　　 i/.:/ｌ　　　 |.::.|
+    _j￣|!￣｀|!￣|!　/　￣ l＼{ 　 　 Ⅳ /　　　 |.::.| 
+
+
+
+
+
+
+
+
+
+
+
+583 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:37:25 ID:BQE.hmC20
+
+
+
+
+
+    　　　　　　　　　　　　　　r-､
+    　　　　　　 　 　 rｰ―― !: : `´￣｀. .' . ､
+    　　　　　　　　　,!: : : : : : :!: i : i､: : : : : : : :ヽ、
+    　　　　　　 　 /: : : : : / /|: | : l:!ヽ : : : : ヽ : :ヽ　　　　　　４０％のウイスキーを１：２で割ると、アルコール度数は１５％になります
+    　　　　　　　/ : : : : : ,': ,' .! l: : !|　l: i、: : : ヽｉ : ',
+    　　　 　 　 / : : : ,: : ,!-!‐ !,ｌ: : l:!　!‐!- ､ : : ヽ : !　　　　　 これはワインや日本酒と同じくらいの濃さになり、
+    .　　　　　 ,': i: : : i: : :l :l　 lﾉ!: : !!　|/　ヽ : : i: ',: |
+    　　　　　 l : |: : : !: : :N　 ＿! : ﾘ　' ＿　ヽ: :|: :V　　　　　 食中酒として、食事と酒の風味が最も調和する濃さだと考えられます
+    　　 　 　 |: /!: : :|: : l. ,´＝= `r‐{.　=＝ミ!i: :ｈ: !
+    　　　　　 l/　!: : i、:ｉ'{ ''''　 　ﾉ ,.ヽ　　''''ﾉ,ﾊ:ｌ,ﾊ,!　　　　　　ハイボールは１：４～５に薄める事が多いようですが、
+    　　　　　　　 ヽ: l ヽ!:`iｰ‐‐'　r‐┐`''''",!,! :i' :|:i
+    　　　　　　　　 ヽ! ,|: |:i`'ｰ-　`_‐',., イ: !': : !: :!:!　　　　　　もちろんこれはビール並みの濃さですので、料理との調和より、
+    　　　 　 r ､ 　 　 /|: :!|: : |, '^'、　,ハl:/: : :,! : ',|
+    　　　　　ヽ ヽ_r_v r! :ヾ―l,　　Ｖ　　/: : : ハ: :ヽ　　　　　 爽快感や、口中を洗い流すという役割を期待されているのでしょう
+    　　　 　 　 Y,. -{ Y!:',: :ヽ:.:.V´,ﾌ､ヽ/ : : /:.:｀i,: : :',
+    　　　　　　 l、/´）ﾊヽ'､ :ヽ:.ヾｲ|.!|､! : :, ':.:.:./ ! : : ヽ
+    　　　　　　/ `ｭ,ノ　}i 〉ヽ :ヽ:ヾ|,|,!'l: :/:/:., '　 !: : : : ヽ
+    　 　 　 　 ト´、　 ノ l':.:.:.:ヽ:}:.:.::.:.:.:|/:.:i／/　 l: : : : : : i
+    　 　 　 　 !　　`　 　 !:.:.:.:.:lﾉ:.:.i:.:.:.:.:.:.,'　/　　ｌ: : : : : : |
+
+
+
+
+
+584 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:37:44 ID:BQE.hmC20
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ,､
+    　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 | ｀ヽ、
+    　　　　　　　　　　　　　　　　　　 　 　 　 ,ｒ‐--}｀ヽレ‐-､.｀ヽ、
+    .　　　 ＼　　　　　　　　　　　　　　 　 ／　 　 ,|　　 }｀ヽ､.｀ヽ、｀ヽ、
+    .　　　　　＼　　 　 　 　 　 　 　 　 ／ 　 /　//|　　| /|　 ｀ヽ､｀ヽ　｀ヽ、
+    　　 　 　 　 ＼　　　　　　　　　 ／/　　/　// .ｌ　　l/| |､　　　ヽ　ヽ　　｀i
+    　　　　　 　 　 ＼　　 　 　 　 /　/　　/　//| /| 　 |　l| ヽ 　 　 ヽ　ヽ 　 |
+    　　　　　　　　 　 ＼　　　　　l　 | 　 /　/,.. -､ l 　 | ,..-､ ヽ 　 　 ヽ　',　 |
+    　　　　　　　　　　　 ＼-､　　　　!　/ l //ｒ｀::ｒ ヽ、.l　lｒ:::ヽヽヽ 　 i ヽ .l　|　　　　しかし実は、水割りの１：２という濃度は
+    　　　 　 　 　 　 　 　 ｒ'{ヽ ',__　　ヽ{　ﾄ| l l.:::ﾉ i__,/ ゝ l:::::::ｒ' 〉 ﾄ､　', ∨　|
+    　　　 　 　 　 　 　 　 {ﾆi／／｀ヽ、　l　､i. ___,ノ　'､ 　｀ｰ ,' /　|) ）　} | ヽ′　　　数学的に証明されているのです
+    　　　　　　　　　　　　 ｙ ／　　 　 ｀ <　 |｀　､_　ｰ ｀ー‐'_,/　 |'´ | ,/ |　||
+    　　　　　 　 　 　 　 　 >'　　 　 　 ,／　/ヽ,.-､_＞-‐ ＜)　　 l　 ﾚ'　 |　||
+    　　　　　 　 　 　 　 　 ＼　　　,／　　/　 　,／/::／ /::/　　 /　　 　 |　}{
+    　　　　　　　　　　　 　 　 ＼ / 　,.-‐' 　 ,∠ ｆ＝＝＝==＝＝┐　　　|（　ヽ
+    　　　　　　　　　　　 　 　 　 { {　i､＿__ /　／|　　　　 ||　　　　| 　 i 　 l　ﾞﾞﾞﾞ
+    　　　　 　 　 　 　 ＿＿... -‐ヽヽ|′／l／⌒,ﾈ　　　　||　　　　|　　|　　l
+    　　　　　　,.-‐ ´　　　　　　 　／ ／／/::::／/ｰ┬-ｒ､i´|｀ﾚ)＿|,　　|　 　',
+    　　　　 ／,..-‐ｧ'´　 　 _,. '´／　/／ ,/::::/７7:::::::|　lヽ、＿ノl　）ヽ　 |　　 ヽ
+    . 　 　 〃´　／／　 ／　／　 ／ 　 ,|::::/:/::l:::::::ﾉ|　 ＼＿_,/ノ ／　　|　　　ヽ
+    　　　　　　/ ,ｲ　　/　／　 ／　　／::ﾚ'::/::::|／|::|　　　 ＼__,.<　 　 　 |　　 　 ',
+    .　　　　　 l　i |　　|／ 　／　　／／::::::/::::::::::::l:::|　　　　　　　ヽ　　 　 |　　　　}
+    　　　　　　ヽ、|　 /　／　　／::/::::::::::/::::::::::::::l::::|　　　　　　　　ヽ　 　 |　　 　/
+    　　　　　　　　ヽ/　/　 　,/:::::/::::::::::/::::::::::::::::ｌ::::|　　　　　　　 　 ヽ 　 l　 　 /
+    　　　　　　　　　{ /　 　 /:::::/:::::::::::/:::::::::::::::::l:::::|　　　　　　　　 　 ヽ ﾉ　　/
+    　　　　　　　　　/　　　/___'ｰ- __く‐-､:::::::::::l::::::l　　　　　　　　　　　ヽ ／
+    .　　　　　　 　 /　　　　｀ｰ-〈:::::::::::/ | ヽ、ﾉ:::::::| 　 　 　 　 　 　 　 　 ヽ
+    　　　　　　　 く 　 　 　 　 　 ｀ｰ-/__| 　 |｀ｰ--|　　　　　 　 __... -─-､ ヽ
+    　　　　　 　 　 ｀ー──────-|　　|─--L__,.. -─＜´　　　　　__＞
+    　　　　　　　　　 　 　 　 　 　 　 　 l　　 |　　　　　　| 　 |　｀ｰ--‐‐'´
+    　　　　　　　　　　　　　　　　 　 　 l　 　 |　 　 　 　 |　　|
+    　　　　　　　　 　 　 　 　 　 　 　 / 　 　 l　　 　 　 ,'　　 l
+    　　　　　　　　　　　　　 　 　 　 /'´￣￣｀ヽ　 ,. -┴ ､ 　{
+    　　　　　 　 　 　 　 　 　 　 　 （ 　 　 　 　 |　i　　　　 ヽ!)､
+    　　　　　　　　　　　　　　　　 　 ｀ｰ----‐‐′}　　　　　,-┘
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ｀ー--‐'´
+
+
+
+
+
+585 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:37:58 ID:BQE.hmC20
+
+
+
+
+
+    　　　　　　　　　　　　 　 　 　 ／'´⌒｀`: .、
+    　　　　　　　　　　　　　　　　/　 　 　 　 }.:ﾞ!
+    　　　　　　　　　-=ニ￢-.､　 /ヽ　　　　ﾉ:.ﾉ
+    　　　　　　　　　　　　＞. : :｀/: :└-. . .'／
+    　　　 　 　 　 　 ,. '　. . . . /:,l : : :.!: : : : :.｀:,r～､
+    　　　　　　 　 , ';.ィ" : : : /:/.!: : : :!､:､: : :.ヽ{.　　＼
+    　　　　　 　 / '´,': /: : :./7` lλ: :| ﾞvヘ: : ',:Y＾i 　 }
+    　　　　　　/'′ i:/: : ::/｣'≧ !l ﾞ: :.l　ヾ!､: : :',:｀、=彡、
+    　　　　　　　 　 l': : :/:!| i'';.:| l|　ヾ! 示ﾄ､:､: :',､:Yニ彳、　　　　　ええー本当！？
+    　 　 　 　 　 　 l: ://!::!└`'　　 　 i '',:ﾘ,!∧: :!,Ｘ!／ λ
+    　　　　 　 　 　 l/,!' |:〈　　　　　 　 ｀"・/::::ﾍ:|''"　　　｀i　　　　　そんなの聞いた事無いよ！？
+    　　　　　 　 　 　 　 l: :`:.､　T^ｧ　　　,.ｲ.:.:ﾑﾍ!::..　　 　 l
+    　　　　　　　　　　,.-ﾍ: : ｢.｀ヽ￢マ幵｢l::.:,'　く、.:.:.,　 　 |
+    　　　　　　 　 ／´/￣ヾ:.|ミﾐ､ヾﾞl　l l/: :,'　　　｀ヾ　　ノ
+    　　　　　　／ 　 / '"´`ｰﾞ-､_,ッ⊥,∠;.:/　　　_,. - '"
+    　 　 　 　 ＼.　/ 　 　 　 　 l　|｜l　,ﾉ',ィ‐f"´
+    　　　　　　　,.>{　　 　 　 　 |　!｜|个゛: l: :|
+    　　　　　 ／,ｲへ、 　 　 　 ゝ⊥l-:ﾍ|: : :l.:.l
+    　　　　 /／/:.;∠-｀￣￣丁´　,ﾉ　　ﾞi: : l.:|
+    .　　　 // ./.:.;'ヽ､_,/｀i ､_｜ ／　＼.　l: :.l:.!
+    　　　〃　/: ;': : ,.ｲ　 l.　 ｢!へ,、＿_｣ヽl:.:.ｌ:!
+    　 　 i′ ,': :,':／/ 　 l　　|　　|　 |: : : : : :.ｌ|
+    　　　 　 i.: :,ｲ　i.　　 !　　|　　l.　 |: : : : : :ｌ!
+
+
+
+
+
+586 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:38:16 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　最初にウイスキーの量をｘ、水の量ｙとしましょう
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    .　　　　　　　　　ウイスキーの量 ＝ ｘ
+    　　　　,＿_　　　
+    　　　 iii■　　　 水の量 ＝ ｙ
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・. ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　みゆき教授お久しぶりですｵｯｽｵｯｽ
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+587 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:38:38 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　まず、ウイスキーの水割り、というくらいですから
+    |　ｘをｙで割りましょう
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    　　　　,＿_　　　ｘ ÷ ｙ
+    　　　 iii■　　　
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・. ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　ほうほう！
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+588 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:38:56 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　続いて、水割りとは、ウイスキーに水を加える事ですから、
+    |　以下の式が成り立ちます
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    　　　　,＿_　　　ｘ ÷ ｙ ＝ ｘ ＋ ｙ
+    　　　 iii■　　　
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・. ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　ん？
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+589 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:39:15 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　また、水割りとは、ウイスキーに水を掛ける事ですから、
+    |　同様に以下の式も成り立ちます
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    　　　　,＿_　　　ｘ ÷ ｙ ＝ ｘ ＋ ｙ ＝ ｘ × ｙ
+    　　　 iii■　　　
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・.；ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　あの……　みゆきさん？
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+590 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:39:31 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　この連立方程式には、
+    |　以下の解が存在します
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    .　　　　　　　　　ｘ ÷ ｙ ＝ ｘ ＋ ｙ ＝ ｘ × ｙ
+    .　　　　　　　　　
+    .　　　　　　　　　　　　 １
+    　　　　,＿_　　　ｘ ＝ ─　　　　ｙ ＝ －１
+    　　　 iii■　　　 　　　 ２
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・. ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　おーい、みゆきさーん
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+591 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:39:50 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　ｘ と ｙ を比率で表すと以下のようになりますね
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    　　　　,＿_　　　ｘ ： ｙ ＝ １ ： －２
+    　　　 iii■　　　
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・. ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　人の話は聞きましょうよ
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+592 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:40:05 ID:BQE.hmC20
+
+
+
+
+
+    ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    |　もちろん、水は薄めるために存在するので、マイナスになるのは自明です
+    |　そこでマイナスを取れば ｘ ： ｙ の比率は１：２になるので、
+    |　ウイスキーと水の比率は１：２が正しいことが数学的に証明されました
+    ＼＿＿ 　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    ━━━∨━━━━━━━━━━━━━━━━━━
+    .　　　　　　　　　
+    　　　　,＿_　　　ｘ ： ｙ ＝ １ ： ２
+    　　　 iii■　　　
+    　　'´.　 /i´ ヽ.　
+    　 }N〈ノ/ ﾉ}ﾘ'ﾘ　　　　　　　 :'´￣::｀ヽ)
+    ━ﾉゝﾘ(.ﾟ)ヮﾟﾉ!{/ ━━━━i:ﾊ/ヽﾘﾊ:::i━━━━━━━
+    　　　 i　<y>つ　∇ 　 　　　ﾘ・_,_,・. ﾘi|
+    　　　ﾉ 　　>|￣￣|　　　　/⊂!氷!　l:l:|
+    　 〆＿＿_| |　□ |　　　√￣(_＿_ﾉl:l:|　√￣
+    　. 　 ∪∪　|　 　 |　　　||　　 ━┳┛　 ||　　 ━┳┛
+    　￣￣￣￣.|　 　 |＝＝＝＝∧＝＝＝＝＝＝＝＝＝＝
+    　　　　　／￣￣￣￣￣￣￣　 ￣￣￣￣￣￣￣￣￣￣￣
+    　　　 　 |　………………
+    　　　　　＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+
+
+
+593 ：<span style="color:#009900"><strong>モララー店長 ◆LcMORARAmQ</strong></span>：2013/11/10(日) 13:40:16 ID:BQE.hmC20
+
+
+
+
+
+    　　　　　　　　　　　　　　r-､
+    　　　　　　 　 　 rｰ―― !: : `´￣｀. .' . ､
+    　　　　　　　　　,!: : : : : : :!: i : i､: : : : : : : :ヽ、
+    　　　　　　 　 /: : : : : / /|: | : l:!ヽ : : : : ヽ : :ヽ
+    　　　　　　　/ : : : : : ,': ,' .! l: : !|　l: i、: : : ヽｉ : ',
+    　　　 　 　 / : : : ,: : ,!-!‐ !,ｌ: : l:!　!‐!- ､ : : ヽ : !
+    .　　　　　 ,': i: : : i: : :l :l　 lﾉ!: : !!　|/　ヽ : : i: ',: |
+    　　　　　 l : |: : : !: : :N　 ＿! : ﾘ　' ＿　ヽ: :|: :V　　　　　どうですか？
+    　　 　 　 |: /!: : :|: : l. ,´＝= `r‐{.　=＝ミ!i: :ｈ: !
+    　　　　　 l/　!: : i、:ｉ'{ ''''　 　ﾉ ,.ヽ　　''''ﾉ,ﾊ:ｌ,ﾊ,!
+    　　　　　　　 ヽ: l ヽ!:`iｰ‐‐'　r‐┐`''''",!,! :i' :|:i
+    　　　　　　　　 ヽ! ,|: |:i`'ｰ-　`_‐',., イ: !': : !: :!:!
+    　　　 　 r ､ 　 　 /|: :!|: : |, '^'、　,ハl:/: : :,! : ',|
+    　　　　　ヽ ヽ_r_v r! :ヾ―l,　　Ｖ　　/: : : ハ: :ヽ
+    　　　 　 　 Y,. -{ Y!:',: :ヽ:.:.V´,ﾌ､ヽ/ : : /:.:｀i,: : :',
+    　　　　　　 l、/´）ﾊヽ'､ :ヽ:.ヾｲ|.!|､! : :, ':.:.:./ ! : : ヽ
+    　　　　　　/ `ｭ,ノ　}i 〉ヽ :ヽ:ヾ|,|,!'l: :/:/:., '　 !: : : : ヽ
+    　 　 　 　 ト´、　 ノ l':.:.:.:ヽ:}:.:.::.:.:.:|/:.:i／/　 l: : : : : : i
+    　 　 　 　 !　　`　 　 !:.:.:.:.:lﾉ:.:.i:.:.:.:.:.:.,'　/　　ｌ: : : : : : |
+
+
+
+    　　　　　　　,ｒ:-::‐:::-:.､
+    　　　　　 　 |:/"￣｀ヽ::}
+    　　　　__,.:-┴::─ｨ'ヽｊ/:‐:-.､
+    　　,.ィ´:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ﾊ::.::.:.:.:｀ヽ、
+    　,/:.:.:.:.:.:.:.:.::.:.:.:.::ｉ:.:.:.:.:.::|:.:.:.ヽ､:::.:.＼
+    ../:.:.:.:.:.:.,'.:.:.:.:::ｉ::.:|;/|:.:.:.:|:.:|ｉ:.:.:.:ﾍ:::.:.::ﾍ　　　　　　今回が番外編でなく
+    .ｊ.......:.:.:/:.:.:.::;-ｉ‐-　|:.:.:.:|:.:||‐-:.:ﾊ:::.:.:ハ
+    l: : : :.:/:.:.:.:.:.:/|:.:|.　|:.:.::ﾘｊ/| ∨:.:.:|::::∧:|　　　　　小ネタ扱いなのがよく判りました
+    {:.:.:.::/:.:./::.:/__ｊ;/_　|:.:/　__!__|:V:..}:.:}
+    ∨:〃::/:.:./ｵ≡≡ ｊ;/　≡≡|:.∨::/
+    . ∨:.:/:.::/:| 　　　　　　　　 ’|::.:|;/
+    　 |::/.:.:/::.:|､゛　　 ｰ'ｰ'　　 ィ|::.:|
+
+
+    参考資料：「パズルの宣教師」　芦ヶ原伸之著
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/6066/clap" id="fc2button-clap-6066" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-6066").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/0.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/6066/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫がウヰスキーを造るようです　小ネタ　水割りの数学的証明" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-6066.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6335.html">
+					やる夫がウヰスキーを造るようです　第二十一話　ノースランド (2014/06/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6272.html">
+					やる夫がウヰスキーを造るようです　番外編第十一話　東葛調査隊！ (2014/03/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6271.html">
+					やる夫がウヰスキーを造るようです　番外編第十話　美味しんぼ７０巻「スコッチウイスキーの真価」を読む (2014/03/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6185.html">
+					やる夫がウヰスキーを造るようです　第二十話　宮城峡蒸溜所 (2014/01/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6134.html">
+					やる夫がウヰスキーを造るようです　番外編第九話　連続式蒸溜機について (2014/01/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6113.html">
+					やる夫がウヰスキーを造るようです　第十九話　ブラックニッカ (2013/12/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6067.html">
+					やる夫がウヰスキーを造るようです　番外編第八話　ウイスキーフェスティバル２０１３ｉｎ東京 (2013/11/25)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫がウヰスキーを造るようです　小ネタ　水割りの数学的証明 (2013/11/25)			</li>
+<li class="relate_li">
+<a href="/blog-entry-6060.html">
+					やる夫がウヰスキーを造るようです　第十八話　スーパーニッカ (2013/11/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6014.html">
+					やる夫がウヰスキーを造るようです　第十七話　竹鶴リタ (2013/10/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6003.html">
+					やる夫がウヰスキーを造るようです　第十六話　丸びんニッキー (2013/10/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5964.html">
+					やる夫がウヰスキーを造るようです　第十五話　朝日麦酒 (2013/09/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5925.html">
+					やる夫がウヰスキーを造るようです　第十四話　３級ウイスキー (2013/09/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5835.html">
+					やる夫がウヰスキーを造るようです　番外編第七話　大日本果汁と朝日新聞 (2013/08/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5777.html">
+					やる夫がウヰスキーを造るようです　第十三話　第二次世界大戦 (2013/07/11)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫がウヰスキーを造るようです　小ネタ　水割りの数学的証明" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/11/25 22:31 ]
+<a href="/blog-category-443.html" title="カテゴリを参照">歴史系（日本史）　やる夫がウヰスキーを造るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html#comment_list" title="この記事のコメントを参照">CM(4)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/6066"
+    dc:title="やる夫がウヰスキーを造るようです　小ネタ　水割りの数学的証明"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html"
+    dc:subject="歴史系（日本史）　やる夫がウヰスキーを造るようです"
+    dc:description="━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    　　　　　　　　　　やる夫がウヰスキーを造るようです    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    　　　　　　　　　　　　小ネタ：水割りの数学的証明    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    　　　　　　　　　　　　　　　　　＿＿    　　　　　　　　　　　　　　／ &#45;―‐&#45; ､:丶    　　　　　　　　　　　　　〃´　　　　　 ＼:ヽ    　　　　　　　　　　　　　{{ __　　　　　　　}.::｝  ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-11-25T22:31:02+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6067.html" title="やる夫がウヰスキーを造るようです　番外編第八話　ウイスキーフェスティバル２０１３ｉｎ東京">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6065.html" title="やる夫は映画を一刀両断するようです　第二十回　「エグザイル/絆」">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment67306">[ 67306 ] <strong></strong></p>
+</div>
+<div class="comb">
+これはｙを炭酸水にしても成り立つのではないか<div class="comment_navi">
+[ 2013/11/26 10:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6066" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment67317">[ 67317 ] <strong></strong></p>
+</div>
+<div class="comb">
+ΩΩΩ＜な、なんだってー！<div class="comment_navi">
+[ 2013/11/26 13:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6066" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment67321">[ 67321 ] <strong></strong></p>
+</div>
+<div class="comb">
+みゆきさんのπはどれくらいなんでしょうか<div class="comment_navi">
+[ 2013/11/26 15:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=67321" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment67379">[ 67379 ] <strong></strong></p>
+</div>
+<div class="comb">
+>67321
+∞<div class="comment_navi">
+[ 2013/11/27 16:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6066" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-6066.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="6066"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/6066-05fd7628">http://oyoguyaruo.blog72.fc2.com/tb.php/6066-05fd7628</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6067.html" title="やる夫がウヰスキーを造るようです　番外編第八話　ウイスキーフェスティバル２０１３ｉｎ東京">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6065.html" title="やる夫は映画を一刀両断するようです　第二十回　「エグザイル/絆」">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></y></y></y></y></y></y></y></div>

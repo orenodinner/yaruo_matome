@@ -1,0 +1,468 @@
+<div class="article">
+
+
+
+
+
+　　　　　　　　/´〉,､　　　　　|￣|rﾍ
+　　l､￣￣了〈_ノ<_/（＾ｰヵ　L__」L/　　 ∧　　　　　 /~7 ／）
+　　　二ｺ ,|　　　　　r三'_」　　　 r--､　（/ 　 /二~|/_/∠／
+　　/＿＿」　　　　　　　　　　　_,,,ﾆｺ〈　 〈〉　/￣ 」　　　　／^ヽ､　／〉
+　　'´　　　　　　　　　　　　　 （__,,,-ｰ''　　　　~~￣　　ャｰ-､フ /´く／／>
+　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 `ｰ-､__,| 　　　`"
+
+　　　　　　　 ／,　-=ァ : : : : : : : : : : : : : : : : : : : : : : :｀＼　　 ／ ￣￣￣｀ヽ
+.　　　　　　 /／　／.:.:.:.:.:.:-.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽr/.:.:-=ミ .:.:.:.:.:.:.:.'.
+　　 　 　 　 　 ／:::: ／::::::::::／::::::::::::::::::/::::::::::::::::::::::::::::＼-::}}:::::::::.:.:.:.:.:.:.:.:.:.:.:.:i
+　　　　　　　 /:::::／::::::::::::::/ ::::/:::::/::::/:::::/ ::::::{:::ヽ:ヽ ::::::V:ﾊ:::::::::::i.:.:.:.:.:.:.:ヽ: |
+.　　　　　　 ,':::::/ ::::::::/::::〃::::/:/::::!:::/|::::::|::::::::::}:::::}:::}}:::::::::∨:::::::::::l .:.:.:.:.:.:.: }.:|
+　　　　　　 |::::/| :::::::/:::: {{:::::7:丁:::j:::l`ト::::l::ヽ‐十:::ト:ﾘ:::,'::::::ﾍ:::::::: :l.:.:.:.:.:.:.:.: ! |
+　　　　　　 ∨ l|:::::::,'{:::::从 ::|∨ヽ八:{　＼{ ヽ＼{Ⅵ:∧/ ::::::ｌ::}::::::: :l.::.:.:.:.:.:.:. ! |
+.　　　　　 　 　 |::::::ハ::::Ⅵ ::{　ｨ=＝ミ;;;;;;;;;;;;;ｨ=-ﾆ_j/ /:::::::/j/:::::::::::l .:.:.:.:.:.:.:.:! |　　　　…どういう事なん、やる夫くん？
+　 　 　 　 　 　 ',:::::l.ハ:::ﾍ|::小　　,,,,,;;;;;;;;;;;;;;;;,,,,,　｀ヾ/::::／}::::ｌ :::::::: l:.:.:.:.:.:.:.:: ! |
+　　　 　 　 　 　 ＼{　 ＼{| 八　　　　　 j　　　　　 彡イﾚ |::::l ::::::::::l::.:.:.:.:.:.:.: ! |
+　　　　　　　　　　　 　 　 {:::::::ヽ.　　　ｰ 一　　　 ／' :::,'　|::::l ::::::::::l.::.:.:.:.:.:.:. ! |
+　　　　　　　　　　　　　　 ヽ::::{　`ﾄ､　　　　　　イ /:::::/　 |::::l::::::::::::l .:.:.:.:.:.:.: ! |
+　　　　　　　　　　　　　　　　＞く/`=≧-z≦=|`∨:／　　 ! ::l ::::::::::l .:.:.:.:.:.:.: ! |
+　　　　　　　　　-―――‐'´／　{　 ／＾＼.　 } /く　`ー- L::_:::::::::::l .:.:.:.:.:.:.: ! |
+　　　　　　〃::.::.::.::.::.::.::.::.:／　　 |　/ミ{^}彡,　|　　ヽ::.::.::.::.::.::.::. ￣入 :.:.:.:.:.: ! |
+　　　　　 ∧::.::.::.::.::.::.::.::./　　　　Ⅳ／∧＼.Ⅵ　　　',::.::.::.::.::.::.::.::./:.::|.::.:.:.:.:.::! |
+　　　　　 |::.ヽ_　-――/　　　　∧く_./　ヽ._>∧　　　〉――-　_/ .::.:|.::.:.:.:.:.::! |
+　　　　　_|::.::∧　/　　　｀ヽ ＿/　ﾏ¨￣￣¨ﾌ＼}__,／　　　　　∧ :.::.|.::.:.:.:.:.::! |
+.　　　〃＾|::. |　∨　　　　く￣ 　　　＼::.::.::./　　 ＼　　　　　∨　|::.::.|｀ヽ :.:. ! |
+
+
+
+
+
+
+
+
+
+796 ：<strong><span style="color:#009900">博多んもんな横道もん ◆hWcstb6ctA</span></strong>：2012/01/29(日) 17:20:54 ID:U4oHRUcw
+
+
+
+    　　　　　　　　：　ィ´￣￣ ｀ヽ ：
+    　　　　　　　　 　ー-''　 ヽ､__ヽ
+    　　　　　　： /　(　　)　　（　 ）　ヽ
+    　　　　　　　{　|i|T(＿人＿)　u 　}　　　…え、いや、あのその
+    　　　　　　　!　　u　　|--|　　　　/ ：
+    　　　　　　： 丶.　 　 |＿j　 ＿ノ　　　　た、他意はなかったんだお…！
+    　　　　　　　　 ゝ　 ー‐　　ヽ　：
+    　　　　　 　 ： /　　　　　　　 ',
+    　　　　　　　 /　　　　　　　　 ',
+    　　　　　　　!
+    　　　　　　： {　　　　　　　　　　i
+
+
+
+    |: ::!: : l : ::| : : : : : | : : : ::l　|:l　.| : : : : / ://　.|: : : l : l: : : :,! : : : : : : : :l: : l : : : : ∧: :|
+    | :,'|: : l : :.| ::_..-‐!:l''::￣/｀ ト　l|:: : : :/ /:/ 　 | : : ,!: :.!: : :./ : : : : : : : :l: : :l: : : : : :∧ |
+    |::l |: : :! : :l:´ :| l :l !: :::/　　!|　!ｌ : : :/:/:７￣｀ト: ./| : l: : :/: : : : : : :|: :.! : : ﾄ､: : : : :∧|
+    | ! |: : :| : ::!:::::! .|:! |: :,′　 | / ,! : :////　　 .,! :/｀ﾄ:,'|: :/!: : : :/ : : ｌ: :|: : :∧:＼: : : ∧
+    !l　l: : :| : : !: ||.　| .|/ －-.、　/:;／//'　　　/'l/　 l:/.!ヽ:,!: : :/ : : :/.: :l: : : :∧: :.＼: :.∧
+    l'　.l: : :|: : :| :||. _=土三ﾆ:::.、/ ' ／ 　 , ‐-/　 　 /' .|//: : :/ : : :/!: : ﾊ: : : :.∧: : : ヽ: :ﾊ
+    　　|: : |､: ::ﾄ:!、´　￣￣｀丶　　　　 　 ´ﾆ≡::.､./　 /./ : /: : : :/ .l: ::!: :∨ : :.ﾊ: : : : :|ヾ:}　　　そーやねー
+    　　 ﾞ! :| ﾞ､ :l.|＼　　　　　　　　　　　　 ￣｀ﾞ丶ﾐヽ、 /: :/: : : ::/　 !:/! : : ∨: : :!: : : : !　}'
+    　　　lﾞ:| : :ﾞ､l|　｀｀｀　　　　　　　　　　　　　　　　｀`/,.ｲ : : : :/　 //:|: : : : ∨: :|: : : : |　　　　　もし知っとってやっとったんなら、生きてこの地から
+    　　　| : : : : :|、　　　　　　　 　 ,:　　　　　　　｀｀ ／ /／: :, ':!　//: |!: : : : :.∨:|: : : : |
+    　　　.!: : : : :.| ヽ　　　　　　 _　　　　　　　　　　　, ／/: ／:/ ./ .|: :l|: : : : : : }/: : : : .!　　　　　帰れんかったよ？　わりと本気で♪
+    　　　.|: : : : ∧　 ＼　 　 　 ヽ｀＞　 　 　 　 　 , '￣/／: :./ ./　.|: :l|: : : : : :/': : : : : |
+    　　　.∨: !: :从　　 l＼　　　　　　　　 　 　 _／　／!: : : :/　　　 |: :!|: : : : : : : : : : : :.!
+    　　　　∨:ﾄ､{　 　 _|　 ＼　　　　　　_.. ‐ '"　　　 /: : : :/　　　　.|: |.|: : : : : : : : : : : :.!
+    　　　　　ヾ ｀＼ .∧　 　 丶... -‐ "´ .|_ 　 　　.／イ;ｲ/　　 　 　 !: ! !: : : : : : : : : : : :|
+    　　　　　　　　　/　ﾞ、　　　　　　　 ,/ .|　　　　　 /'　'　　　　　　|: | |: : : : : : : : : : : :.!
+
+
+    .
+
+797 ：<strong><span style="color:#009900">博多んもんな横道もん ◆hWcstb6ctA</span></strong>：2012/01/29(日) 17:21:41 ID:U4oHRUcw
+
+
+
+
+    　　　　　￣＞--｀:.:.:.:.:.:.:.:.:.:.:.:.:.:.:｀ヽ:/ヽ、:.:.:.:.:.ヽ、
+    　　 　 .／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.!:.:.:.:.:、:.:.:.:.ヽ/:|＼:.:.:.:.:.:ﾍ
+    　 　 /:.:.:〃:.:.:.:.:.:.:.:.l:.|ヽ:.:ヽヽヽ、:.:.:.:.:',:.:ｉ:.:',:＼:.:.:.:.ﾍ
+    　　 ,':.//:.:.:.:/:.:.:.:|:.:|:.|ヽ＼七云ヽ、:.:.:.ｉ,､:.∧:.:.＼:.:.:ﾍ
+    　　 ∨.ｉ:.:.:/:ｉ:|:.:.､メ云　ヽ .'ら い,.ｉ:.:.:|:|ヾ/　',:.:.ヽ＼:.:',
+    　　　　|:.:∧:.ｉヽ:.ヽんう　　　.辷ﾉ .}:.:.,':| /　　',:.:.:.ヽ ヽ:.ｉ　　　　…ばってんさぁ
+    　 　 　 ',:.| {:.:',ヽヽ:ヾ､ゝ,　　　　　,':./:.:!/　　　ｉ:.:.:.:ｉ:.:.ヽ:|
+    　　　　　ヽ ヽヾ ＼ヽ、 ｀＿　　　〃|:./|　　 　 }:.:.:.:|:.:.:.:.|　　　 いくら博多ん来るんが初めてやからって
+    　 　 　 　 　 ヽヽヽ、.ト 、　　　./／./ .|､　　　.ｉ:.:.:.:|:.:.:.: |
+    　　　　　　　　　＼ 　ヽ:.｀＞ .イ　.〃／/.>＜￣7‐‐ ､:. |　　　 いくら何でん、東京土産でこれは無かよ？
+    　　　　　　　　　　　　　ヾ 、.r/､./／ /　/:::::／::::::::::::::',:.|
+    　　　　　　　　　　　　,､r:::´// .ﾍ´　/　./-:/::::::::::::::::::::::}:|
+    　　　 　 　 　 　 　 /:|:::::::/ Ⅳ∧ヽ′ / / ヽ::::::::::::::::::::,':.|
+    　　　　　　　　 　_/::::| /ヽ／ヾ､/ヽ‐‐　.| ./ |::::, ≠ ､::/:.:|
+    　　　　　　　　 //::::〃　/ .|::／　／　.／ 　.|:/,'　　.}/|:.:.:|
+    　　　 　 　 　 //::〃∠‐ゝ∠ ／ 　 /.､ヽ　　!{ ､　.丿:|:.:.:|
+    　　　　 　 　 ゝ ｀/　　　/:／｀ ‐‐ぐ､ゝ′ 　 |｀-::´!:.:.|:.:.:|
+    　　　　　　 / ___ {　　 ./:/　　　　　 ヽ´＼　　‐‐／:.:.:|:.:.:|
+    　　　　　 .///　 ヽ 、 |:.|　　　　　　　ヽ　　 　 //:.:.:.:.|:.:.:|
+    　　　　　/ /　　　　　｀ヽ ､　　　　　　　　　 /./ |:.:.:.:.:|:.:.:|
+
+
+    .
+
+798 ：<strong><span style="color:#009900">博多んもんな横道もん ◆hWcstb6ctA</span></strong>：2012/01/29(日) 17:22:24 ID:U4oHRUcw
+
+
+
+
+
+    　　　　　　　　この、　『ひよこ饅頭』は―――
+
+
+    　　　　　　　　　　　､_　　　　
+    　　　　　　　　　　　 ~) ヽ　　　　　　　＿＿
+    　　　　　　　　　　　 / ／ ト 、 ﾄ､__　　~ﾞﾞｿ
+    　　　　　　　　　　　（ i､_ノﾉ`　 | i"~　ｰ=､ `ニ=　
+    　　　　　　　　　　　　`ｰ'"　( =_ﾊ`>　　　）ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　ゝ'
+    　　　　　　　　　　　　　　　,､,,..._
+    　　　　　　　　　　　　　　 ﾉ　・　ヽ　
+    　　　　　　　　　　　　　 /　:::::　　 i　
+    　　　　　　　　　　　　　/　:::::　　　ﾞ､
+    　　　　　　　　　　　　 ,i　::::::　　　 　`ｰ-､
+    　　　　　　　　　　　　 |　::::　 　　　　 　　 i
+    　　　　　　　　　　　　 !　:::::..　　 　　　　　ﾉ
+    　　　　　　　　　　　　 `ー――――― '"
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┼ヽ　 -|r‐､.　ﾚ　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｄ⌒)　./|　_ﾉ　 __ﾉ
+
+    .
+
+
+
+    いじょ
+
+    意外とひよこ饅頭が元々福岡生まれと知らない人、結構いるらしいですねｗ
+
+
+
+
+
+800 ：<strong><span style="color:#990000">普通の名無しさん</span></strong>：2012/01/29(日) 17:24:17 ID:Hxk/wsvo
+
+
+
+<strong>    おつー
+
+    鶏卵素麺は知ってても、ひよこが福岡ものとは今の今まで知らなかったYO！</strong>
+
+
+801 ：<strong><span style="color:#990000">普通の名無しさん</span></strong>：2012/01/29(日) 17:26:17 ID:NFrCb4ag
+
+
+
+<strong>    東北から出稼ぎに来た人が東京土産として本来は福岡土産なひよこを買って帰ったのが原因だってね。</strong>
+
+
+802 ：<strong><span style="color:#990000">普通の名無しさん</span></strong>：2012/01/29(日) 17:28:59 ID:ZrIIVHg6
+
+
+
+<strong>    乙
+
+    頭からひよこを食べた後に、ふと感じる罪悪感
+
+
+<span style="color:#009900">    何かでありましたな
+
+    頭から食べるのは残酷な人で、お尻から食べたらスケベ野郎
+    だから丸々食べるのが正しいって
+
+    いや、ほんとかどうかは知りませんがｗ</span> </strong>
+
+
+
+
+
+<hr size="1"/>
+
+
+
+
+　　　　　　　　　　関東人からするとひよこは東京土産のイメージだよな
+　　　　＿＿
+　　 ／　　　＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）　　　　　　　　　　　 　＿＿＿_
+.　|　　　　 （__人__）　　　　　　　　　　　／　　　　　＼
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　 ／―　　 ―　 　＼　　　　　　博多土産といったらやっぱ明太子だしね
+.　 |　　　　　　 　 }　　　　　　　　 ／ （● ）　（● ）　 　 ＼
+.　 ヽ　　　　　 　 }　　 　 ＼ 　 　 |　　　（__人__）　 　　 　　|
+　　 ヽ　　　　　ノ　　　　 　 ＼　　＼　　　　　 　　　 　 _／
+　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　＼
+　　　|　　　　 ＼ 　＼　　　　(⌒二　　　　　 　 　 　 　 　 |
+　 　 |　　　　|ヽ、二⌒)、　 　 　 　 ＼　泳ぐ管理人｜　 |
+
+
+
+　　　　　　　　　　通りもんとかもこっちじゃ知ってる人そんなにいないよね
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4100/clap" id="fc2button-clap-4100" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4100").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/5.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4100/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶご当地知識＆方言　その２６　ひよこ饅頭の真実" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4100.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4133.html">
+					やる夫で学ぶご当地知識＆方言　その３３　鳥取県基礎知識 (2012/02/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4116.html">
+					やる夫で学ぶご当地知識＆方言　その３２　愛知の珍名所紹介　神社編 (2012/02/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4112.html">
+					やる夫で学ぶご当地知識＆方言　その３１　兵庫県のローカルメディア・神戸新聞社についてのちょっとしたお話 (2012/02/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4111.html">
+					やる夫で学ぶご当地知識＆方言　その３０　何の役にも立ちそうもない津軽講座　ソウルフード編 (2012/02/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4106.html">
+					やる夫で学ぶご当地知識＆方言　その２９　愛知の奇妙な食材 (2012/01/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4105.html">
+					やる夫で学ぶご当地知識＆方言　その２８　愛知の方言２ (2012/01/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4101.html">
+					やる夫で学ぶご当地知識＆方言　その２７　愛知の方言 (2012/01/30)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶご当地知識＆方言　その２６　ひよこ饅頭の真実 (2012/01/30)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4095.html">
+					やる夫で学ぶご当地知識＆方言　その２５　滋賀Ｑ＆Ａ (2012/01/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4094.html">
+					やる夫で学ぶご当地知識＆方言　その２４　金沢雀の金沢&amp;石川ネタ (2012/01/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4081.html">
+					やる夫で学ぶご当地知識＆方言　その２３　兵庫県の漫画アニメに関するちょっとしたお話 (2012/01/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4077.html">
+					やる夫で学ぶご当地知識＆方言　その２２　島根石見観光案内 (2012/01/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4076.html">
+					やる夫で学ぶご当地知識＆方言　その２１　何の役にも立ちそうもない津軽講座　青森の玄関口編 (2012/01/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4075.html">
+					やる夫で学ぶご当地知識＆方言　その２０　福岡人の男三人熊本旅行 (2012/01/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4068.html">
+					やる夫で学ぶご当地知識＆方言　その１９　ざっくり学ぶ新潟のスケート事情 (2012/01/22)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶご当地知識＆方言　その２６　ひよこ饅頭の真実" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/01/30 23:00 ]
+<a href="/blog-category-372.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶご当地知識＆方言</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html#comment_list" title="この記事のコメントを参照">CM(3)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4100"
+    dc:title="やる夫で学ぶご当地知識＆方言　その２６　ひよこ饅頭の真実"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html"
+    dc:subject="学ぶ系　やる夫で学ぶご当地知識＆方言"
+    dc:description="　　　　　　　　/´〉,､　　　　　|￣|rﾍ　　l､￣￣了〈_ノ　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 `ｰ&#45;､__,| 　　　`"　　　　　　　 ／,　&#45;=ァ : : : : : : : : : : : : : : : : : : : : : : :｀＼　　 ／ ￣￣￣｀ヽ.　　　　　　 /／　／.:.:.:.:.:.:&#45;.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽr/.:.:&#45;=ミ .:.:.:.:.:.:.:.'.　　 　 　 　 　 ／:::: ／::::::::::／::::::::::::..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-01-30T23:00:03+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4101.html" title="やる夫で学ぶご当地知識＆方言　その２７　愛知の方言">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4099.html" title="やる夫達は戦後の裏舞台を戦い抜くようです　外伝　昭和くるわ小唄">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment30339">[ 30339 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞頭から食べるのは残酷な人で、お尻から食べたらスケベ野郎
+ 
+ならばいっそ球磨川式に食べてやろうかｗ<div class="comment_navi">
+[ 2012/01/31 21:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=30339" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment32264">[ 32264 ] <strong></strong></p>
+</div>
+<div class="comb">
+九州に親戚がいてよく送ってもらえるのと、年二回の聖地巡礼で東京に行く絡みで、福岡ひよこと東京ひよこ両方よく食べてたんだが、双方の味はちょっと違うような気がする。
+福岡ひよこはあんがしっとりしていて、東京ひよこはちょっとぱさっとしている。自分はしっとりの福岡ひよこが好きだ。
+一時期東京ひよこもかなり福岡ひよこに近づいた時期があったんだが、また元のぱさっに戻ったりもした。
+工場の機械でつくっているはずなのにどうして差が出るのだろう。レシピや温度管理の微妙な差異でああなるんだろうか。<div class="comment_navi">
+[ 2012/03/04 08:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4100" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment42240">[ 42240 ] <strong></strong></p>
+</div>
+<div class="comb">
+福岡県人に「ヒヨコは東京銘菓」というと結構な割合で怒りだす
+なんか思い入れがあるらしい<div class="comment_navi">
+[ 2012/08/26 22:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4100" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4100.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4100"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4100-d12e51d3">http://oyoguyaruo.blog72.fc2.com/tb.php/4100-d12e51d3</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4101.html" title="やる夫で学ぶご当地知識＆方言　その２７　愛知の方言">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4099.html" title="やる夫達は戦後の裏舞台を戦い抜くようです　外伝　昭和くるわ小唄">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

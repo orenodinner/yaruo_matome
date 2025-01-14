@@ -1,0 +1,965 @@
+<div class="article">
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　えー、世間では
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　　　ー‐　　　　＼
+
+
+
+
+
+    　　　　　　　　 し!　　　　　_　　-──　‐- 　　､　 , -─-､　-‐─_ﾉ
+    　　九 焼　　　 /／￣＞ ´ ￣　　　￣　　｀ヽ　 Y　 ,　 ´　　　　　） 　 焼　え
+    　　州 酎　　　 L_　／　　　　　　　　　　　　　 　 ／　　　　　　　 ヽ　 酎　 |
+    　　人 が　　　　/ '　　　　　　　　　　　　　　　　'　　　　　　　　　　 i　 !?　マ
+    　　だ 許　　　 /　　　　　　　　　　　　　　　　 /　　　　　　　　　　 く　　　 ジ
+    　　け さ　　　 l　　　　　　　　　　 ,ｨ/!　　　　/　　 　/l/!,l　　 　 ／厶,
+    　　だ れ　　 i 　 ,.lrH‐|'|　　　　 /‐!-Lﾊ_　　l　　　 /-!'|/l 　 ／｀'ﾒ､_iヽ
+    　　よ る　　　l　 | |_|_|_|/|　　　 / /__!__ |/!ﾄi　　　i/-- ､ ﾚ!/ 　 /　,-- ﾚ､⌒Y⌒ヽ
+    　　ね の　 　_ゝ|/'/⌒ヽ ヽﾄ､|/　'/￣｀ヾ 、ヽﾄ､Ｎ'/⌒ヾ　　　　　 ,ｲ￣｀ヾ,ﾉ!
+    　　 l　は　　「　　l ′ 「1　　　　　　 /てヽ′|　|　|　 「L!　　　　　' i'ひ}　　　ﾘ
+    　　　　　　　 ヽ　 | ヽ__Ｕ,　　　　　 ､ヽ シノ ﾉ!　!　|ヽ_､ｿ,　　　　　 ヾシ _ノ　_ﾉ
+    -┐　　　　,√　　 !　　　　　　　　　　 ￣　　 ﾘ l 　 !　￣　　　　　　　￣　　 ７/
+    　 ﾚ'⌒ヽ/　!　　　 |　　　〈　　　　　　　_人__人ﾉ_　 i　　く　　　　　　　 　 　 //!
+    人_,､ノL_,iノ!　　/! ヽ　　 r─‐- ､　　 「　　　　　 Ｌ_ヽ　　 r─‐- ､　　 u　　ノ/
+    　　　　　　/　 /　lﾄ､ ＼　ヽ, -‐┤　 ﾉ　　キ　　　 了＼　 ヽ, -‐┤　　　　　/／
+    ハ　キ　　{　 /　　　ヽ,ﾄ､ヽ/!｀ｈﾉ　　）　　モ　　　　|/!　「ヽ, `ｰ ／）　　 _　‐'
+    ハ　ャ　　 ヽ/　　 r-､‐'　// / |-‐ く　　　 |　　　　 ＞ / / ｀'／／-‐､　　　　／
+    ハ　ハ　　　 ＞ ／＼＼// / /ヽ_　 !　　 イ　　　 （　 / / ／／　　/　`ｧ-‐ '
+    ハ　ハ　　　/　/!　　 ヽ　　　 レ'/　ﾉ　　　　　　　　＞　 ' ∠ 　-‐　￣ノヽ　　　/
+    　　　　　　 {　 i　l　　　 !　　　　/　 フ　　　　　　　/　　　　　-‐　/￣/〉 〈 ＼ /!
+
+
+
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　とまぁこういった風潮なわけですが
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　　　ー‐　　　　＼ 
+
+
+
+
+
+
+
+963 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:38:28 ID:uZ2XQLn20
+
+
+
+
+    実際……
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　,,,ｨ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　 ....:::ニ'＝―-　　　　　　　　　　　　　　__,ﾉ
+    　　　　　　　人_,､ノL_,iノ!　　　　　　　　　　　　　　　|i／::::::::::::::::::::::::｀ヽ　　　　　　　　　　　　　）.
+    　　　　　　　　　　　　　/　　　　　　　　　 　 　 　 　 !:::::::::::::::::::::::::::::::::ヾ::＞　　　　　　　　　　 ｿ　 飲　芋
+    　　　　　 　 だ　芋　　{　　　 　　　　　　　　　　　　ｒ:::::::::::::::::::::::::::::::::::::ヾ:ﾏ　　　　　　　　　　,） 　 む　焼
+    .　　　　　　　!!.　焼　 　ヽ　　　　　　　 　 　 　 　 ノ:::::::::::::::::::::::::::ｨ(ｃ7::爪ヾ=≠≦ヽ　　　　⌒ヽ.　だ　酎
+    　　　　　　　　.　酎　 　　＞ 　 　　　　＿　　イ´/::ｌ 〉::::::::::::::::::::::::￣ｒ/ ﾘ ）从　　圦　　　　　_,ﾉ　 ろ
+    　　　 　 　 　 　 　 　 　 /　　　　　　从7ミヽ:::::::i::::! !:::::::::::::::::::::::::::::ｊ/:::::!! !|　ｊ　　i!ﾉﾊ　　　⌒ヽ
+    　　　⌒)　　　　 　 　　ｨ　　　　　　ィミ）　ヽ:::::::::}::弋ヽ:::::ヽ:::ｚ- -メｊ::::// .i!　　　 !| イト、　　　　ヽ
+    　　 ､- ' 　 だ　芋 　 L_　　　　 ｒ三｀ヽ::::::::::::::::::|:::::::::）〉::::::::::::::::::::::::::!' ﾉｲ　i　　　|l　 ク!　　　 __,ﾉ　　な
+    　　 _ )　　 ろ　.焼　　 く　　 ／: 三: : ::::::::＞==７¨｀!:::乂::::::::::::::::::::::::::((　　/　　　,| ／/ ∧　　　ヽ.　 あ
+    　　 ）.　 　 う　 酎　　 (_　, '::（￣￣￣７{入 ｲ　ヾノ人:::::::::::::::::::::::::::::::::ﾉ　/　　　 /!　　ノ　∧ 　　 ）
+    　　 ´）　　 !?　　　　　　.,'::::::/―――{ :| !´ .|　　ヽ:::::::｀ヽ、::::::::::::::::::::弋以>　　/:::＼　　イノ〉　　　Ｙ⌒
+    　　　 )　 　　　　　 　　（i::::::i　　　　　 ∨´＼ ＼　　}ｧ⌒ __〉::::::::::::::::::::::ー――ｧﾐﾐﾆ） !　　/∧
+    　　j`‐'　　 　 　 　　　ｨ 代:::>　　　　　ヾ＞‐ つ‐し':::::::::::::::::::::::::::::::::::::::::::::::::::/　ヾ　｀ミ!　/　∧
+    ､- '　　お　芋　な 　 L_ヾ三≧=ニ三＞‐'￣´ヽ::::::::::::::::::::::::::::::::::::::::::::::::::::／ ｀ヽニニ　爻　　 ト、
+    _ ). 　　ま　焼　あ　　 く　　　　　　　　　　　　　}::::::::::::::::::::::::::::::::::::::::::::::::/　　　　＼　ニ刹ニ /／!
+    ） 　 　 え　酎　　　　 (_　　　　　　　　　　　　　　）::::::::::::::::::::::::::::::::::::::::::::::}}　　　　　 ）少　　／　/ ７
+    ´）　　　　　だ　　　　 ,ﾆ=-　　　　　　　　　　　　|:::::::::::::::::::::::::::::::::::::::::::::::ヾ　　　　　 ＼ ヾ三≧ｿ 八
+    　)　 　　　 ろ　　　 　（_　　　　　　　　　　　　　ﾉ::::::::::::::::::::::::::::::::::::::::::::::::ﾘﾄ-　　　　　　＼}:::::::::}　　 i
+    ⌒)-､ ,. 、　 　　　　　〈　　　　　　　　　　　　　/:::::::::::::::::::::::::::::::::::::::::::::::::::::ノ:::::）　　　　　　i:::::::::::、　 l
+    　　　　′ ヽ/⌒ヽ'⌒ヽ「　　　　　　　　　　　ｒ:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ノ＼ 　 　 　 .|:::::::::::入　!
+
+
+
+
+
+964 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:38:41 ID:uZ2XQLn20
+
+
+
+
+    だの
+
+
+    　　　　　,,wwww,,
+    　　　　;ミ~　　　　＼
+    　　　 :ミ　　 　　　　|
+    　　　 ミ 　-= 　　=-|
+    　 　 rミ　<・> 　<・>|
+    　 　 {6〈　 　　 |　　〉　飲み会で焼酎頼まん若もんを
+    　　　ヾ| `┬ ^┘イ|　どげんかせんといかん
+    .　　　　＼ | -==-|/
+    　　　　／|＼＿／
+    　　 ／　 |＼/|＼
+    　　|　　　「,只| 　|
+
+
+
+
+
+965 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:38:57 ID:uZ2XQLn20
+
+
+
+
+    だの
+
+
+    　　　　　　　　　　　　　　 　 　 　 ／¨ヽ
+    　　　　　　　　　　　　　　　　　　/　　　 ヽ‐-　　._　 ___
+    　　　 　 　 　 　 　 　 　 _.　 -‐ '　　　　　_}:.:.:.:.:.:.:.:.｀ヽ ｀ヽ
+    　　 　 　 　 　 __　 　 ／:.:.:.:.:.:.:.:!　　　　　 ヽ:.:.:.:.:.:.:.:.:.:.:.:＼}
+    　　　　　　　　|　ヽ／. : :.:.:.:.:.:.:,'　　___　　' 　 ヽ:.:.:.:.:.:.:.:.:.:.:.:ヽ　　　飲み会には白岳しろ。
+    　　　　　　　　l　　: : : : :.:.:.:.:. '　,ｲ::ヽ　ヽ　'_　　',:.:.:.:.:.:.:.:.:.:.:.:.:.',　　ロアッソ熊本胸スポンサーだぞ?
+    　　 　 　 　 　 ',　/ ` ‐-　' ´　 { ﾚ' ⌒`　__　 　 !'´　　　　 ｀ヾ}
+    　 　 　 　 　 　 V､　,ィ:r 、　　　　 　 　 　 ' 　　 }　　　　　　　＞'´
+    　　　　　　　　　{､　{ ﾚ'‐ 　 ､ ,　　,　　　　　　 _.ﾉ__　　　,　 '´
+    　　　 　 　 　 　 ', ｰ_´　　 ､_ノｰ '´　　　 　 ／　　_.ゝ'"
+    　　　　　　　　 　 ､　_,　　　　　 　 　 　 　 _{ {_ ／
+    　　　　　　　　　　 ヽ　　　　　　　　　_.z≦彡"
+    　　　　　　　　　　　　 ｀ ｧ-‐-､z==彡''"´
+    　　　　 　 　 　 　 　 　 {　　) ,)＞'´
+    　　　　　　　　　　　　　 ＞‐'´
+
+
+
+
+
+966 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:39:13 ID:uZ2XQLn20
+
+
+
+
+    だの
+
+
+    　　　　　　　　　　　　　　　　 .ｒﾆYﾆヽ　　　　　　　　　　, ---一 ､
+    　　　|レ 　 　 　 　 　 　 　　//_夢_ ｊ |　　　　　　　　　/ 　　飲 　i
+    　　　!!＿ 　　　　　　　　　 ｲ t｀ !_,` } |　　　　　　　　,' 　　　む 　i
+    　　　ﾞ- '´ ,､　　　　　　　／ｊ　ﾄ ‐=' ﾚｊ　　　　　　　　l　麦 　な..　|
+    　　　　　　-''´　　　,r'´￣｀ﾞ}　|二二ｊ l|rﾆ二ﾄ､　　　 |　焼 　ら 　 |
+    　　　　　　　　　　　〉─7-'´l|ｊﾄ､`}-ｲl;|`--l一〈　　　.|　酎 　　　　|
+    　　　　　__ii__　　　 | 　 ﾚ　ﾙﾘ-ﾄ､|州ﾘ　　 |　 .|　　 `|　だ..　　　　|
+    　　　　　イi　　　　ｊ　　ｊ　,,　 ヽヽ |/　　 　 |　　',　　 |　　　　　　　i
+    　　　　　　`　　, イ　　ﾊ ヒ､　ﾄ､　|　　　　 ｊ　　 ',　　ヽ　　　　　 ﾉ
+    　　　　　　　 ノ　 }　 /　}､ ヽ} ヽヽ|　　 　ノ ',　　|　　　` ---一 '
+    　　　　　 ／　　 ｲ　 }　{ニ二ﾆﾆ}´7二ﾆﾆ}　 ',　 |
+    　　　 ／/　　／　l 　|　',ニ二ﾆﾆi　|ﾆ二Y　 　',　|
+    .　 ／／　　/　　　l 　}　ヾニ二ﾆi　|ﾆ二ｲ　　　',　',
+    ／ /　　　　l 　　　ﾚﾐｊ 　 {ﾆ￣￣￣￣￣{　　　 {三i
+    　/　i　　　/　　　　}　ヶ /　｀丶、　_, -'´ |　　　 }　ヽ
+    ん-ﾄ､　　　　　　　 |_彡 ｊ　二ﾄ､ }-|　 　　|　　　ヽｊ-''
+    　　　ヽ／　　　 /　　　 {　　　　/　|　　　 |　　　　 l
+    　　　　ヽ　　　/　　　　ﾚ､　　　|　 |　　　 レ-､　　/
+    　　　　　`-- ´--､__　 ｊ　ヽ　　ｊ 　|　 ./', |　　｀丶{
+    　　　　　　　　　　　 ￣|　　',　/￣|　/ 　iｊ
+    　　　　　　　　　　　　　',　　 〉{ 　 |./　　 l|
+    　　　　　　　　　　　　　 ',__,r'　}　 .|k　　　ｊ
+    　　　　　　　　　　　　 　 ',　　 | 　 |`丶、r'
+    　　　　　　　　　　　　　　 ',　　|　　|　　 ｊ
+
+
+
+
+
+967 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:39:33 ID:uZ2XQLn20
+
+
+
+
+    だの言われるわけですが、
+
+
+    　　　　　　　　　　 　 　 ＿＿＿_
+    　　　　　　　　　　 　 ／　　 　 　＼
+    　　　　　　　　　　 ／　─　 　 ─　＼
+    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　福岡は違うんですお
+    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |
+    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　 　 ／　　　　　ー‐　　　　＼
+
+
+
+
+
+968 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:39:47 ID:uZ2XQLn20
+
+
+
+
+    【実例その1】
+
+
+    　　　　／　　 ＼.x -=| |, l==-　x､　　／／　　 　 　 ', ',
+    　　 ／　　　　／ 　　 ! |l |　　　　　｀/,く　　　　　　　 ', ',
+    - =/　　 　.／　　　　 | ｌｌ L__「　ヽ￣￣ ＼　　　　　　 ', ',
+    　 /　　　 /　　　　 ／.!l￣　 |　　　ヽ　　　 ヽ　　　　　 l l
+    . /　　　 /　　　　 /　　',.　　 |　　　　 ヽ　　ヽヽ.　　　　l l
+    〃 /　 /| ヽ　　 /　　　 ', 　 .|　　　l　　 ヽ　　ヽ､　　　 l l
+    ｲ　!　 / |　　ヽ./　 　 /　',　/ｌ　　　ﾄ､　 　ヽ 　 ',ヽ　　 .||
+    .l /| ｌ　　{ヽ　　.|　　 /　 /V.　',　　 |　ヽ　 _ﾍ　　} !　 　 |
+    /　l/!　 .ﾊ　ヽ.｜ 　 ｌ　/|/ ',　 ', 　 |　　／　 } .| .!　　　/
+    . 　l｜./　.{ヽｘ､.!　　 !7"ト､__＼_',_, ｌ .Xﾃ「}ゝ ./l/
+    ..　　l/　　.l｜ヽ.',　　l　,Xtﾃ示　 ヽ.ヽ ﾋﾘ　V/ /
+    .　　 !　　 .| ゝ､ﾍヽ.　! ﾍ 弋り　　　ヽｌ - '　|'
+    　 　 　 　 |　　｀-ﾍヽ'､　　ー '　　　　ヽ　　i　　あんた達、何にすると?
+    　 　 　 　 |　　　　}.ヽ ＼ ι　　　　 　 '　 ｲ
+    　 　 　 　 | 　 　 V 　 ＞.､　 　 　 　 '　∠､
+    　 　 　 　 | i　　　{　　　　　≧　 ､..._,／ハ ',
+    　 　 　 　 | {　　　ヽ.　　　　　　 ハ＼　 ＼ﾊ
+    　 　 　 　 |.ﾊ.　　　 ＼　　　　 /　 }､ ゝ､　 ＼
+    　 　 　 　 |　}ゝ､ 　 　 ＼　　　i　 / ヽ　 ｀ ＜.＼
+    　　　　　 / /　　＼__　　 ＼.　　_ '　　ﾍァ､　 }ヘヽ
+    .　　　　 / /　　　　　　｀ヽ.　＼'　　　 ､/　ﾊ　.Ｖ｀. ＼
+    　　　　 l /　　　　　　　　　＼　＼ 　 /　/　}　 i⌒ヽ }
+
+
+
+
+
+969 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:40:00 ID:uZ2XQLn20
+
+
+
+
+    :: ..　　　　　 　 /:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:}..:＼
+    　:: :: .　　　　 /.:.:.:.:.:.:.:.:.;:.:.:.:.:.:.:.:.:.:.:.:.:.:.|:.:.:ハ:.:.:.:.:､
+    　　 : : .　 　 /:.:.:.:.:.|:.:.:.:|ﾞﾞﾞﾞﾞﾞﾞ｀´""""'''|:.:.|:.:.:i:.:.:.:.:.丶
+    　　　: :: .　 /: : :.:.:.:|:.:.|:|-‐::ﾌ 　 ヽー-|:.ﾊ:.:.:|.:.:.: :.:.:.:＼ 　 　. .. . ..
+    　 　 : :: :　/:.:.:.:.:.:.:ﾊ:.:{､{￣　 　 　 ￣ jﾉ　!.:.!.:.:.:.:.:.:.:＼;ゝ .: ::　 　:: :.
+    　　　: :: ::/イ/::/i:.|.rV====ﾐ､ 　 r======ﾚ1:.:.:!:.:.:.:.:.:.:,ゝ: ::　　 　 :: :　あ、日本酒で。
+    　 　 : :: : 　|i:.:.:.:|.F{:| r=＝=}:}＝{:{ ＝==　}:H:.ﾉ:.:.:.:.､:.:＼: ::　　 　 .: :　繁桝ありましたよね?
+    　　 . :: : 　 {:!:.:.:.:.:八､＿＿ﾉﾉ|　 ､､＿＿_ﾉﾉ}ｲ:.:.:.:.:.:.iｰ- ゝ:. :. .　..: :
+    　 . :: : 　 　 |:.:.:.:.ﾑ　｀￣￣´ ､　,　｀￣￣´　 |:.:.:.:.:.:.:.!　　
+    .. :: :: :　　　 };.ｨ:.:..:.|　　 　 ､＿　　＿,　　　　 |:.:.:.:.:.:|､」　　　　 .. .: :: :: :: :: :: :. ..
+    : :: :.　　　　 jﾉ|:.:.:.:.＼　　　　　　　　　　　 ,..ｲ:.:人:.:.|＼　　.: :: :　:　: 　 　:　:　: :: :.
+    　 : :: :: . 　 　 ｊ人:.i|:.:.:＼_　　　　　　　 ／　 ﾚ′　｀ﾞ　 ＼: :: :　:　　 　 　 　 　 :　:: :.
+    　　 :: :: :.　　　 　 ｀Vﾌ〔　＼ー---‐＜　 ／ 　 　 　 　.: .: ＼:　　　　　　　 　 　 :　:: :.
+    　 　: : :: :: 　 　 　 　 ／＼_ﾊ　　　　　／ ／　　　　　.: :: :　: :ヽ　　　　　　　　　 :　:: ::
+    ―─┬──‐┐　 /　/ >{　L＿__.／ ／　　　　　　 :: :: :　: :　i　　　　　　　　　 :　:: ::
+    ┬┬┘o　　　 |　/　/ （O|/厂　　　　,...--――-.､　:. :: .　: : ｜　　 　 　 　 　 .:　:: ::
+    │└──┬─|/　/　 　 |　　　　 ／　　　 　 　 　 ＼ : :　: :.. |　　　　　　　 . : : .: .::
+
+
+
+
+
+970 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:40:12 ID:uZ2XQLn20
+
+
+
+
+    　　　　 　 　 /.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:|/.:.:.:ｉ:|　’;.:.:.:.:.:.: }.:.:.:.:.:.:|:.:.:.:.:.:.:.ヽ
+    .　　　 　 　 /.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.i.:.:/|.:.:.:/j:|-─＼.:.:.: |.:.:.:.:.:.:|.:.:.:.:.:.:.:.:l|
+    .　　　　　　,.:.:.:.:.:.i.:.:.:.:.:.:.:.:.:.:.:.:,斗/‐|:.７　ﾘ,.斗‐ｯｧヽ.:|.:.:.:.:.:.:|.:.:.:.:.:.:.:.:l|
+    .　　　　 　 {.:.:.:.:.:.|.:.:.:.:.|i.:.:.:.:.:.:.:.:/　 |/　／ V炒ﾟ　 　〉 .:.:.:.:.:|⌒ヽ.:.:. l|
+    .　　　　 　 |.:.:.:.:.:.|.:.:.:.:.|ﾚ.:.:i|.:.:./　　　　　　　　　　 ｲi .:.:.:.:.:.:| ヽ　ｉ /:l|
+    .　　　　 　 |.:.:.:.:.八:／ハ;斗∨　　　　　　　　 　 　 ﾘ .:.:.:.:.:.:| ）ﾉ ﾙ :.l|　あぁ、あるぞ。
+    .　　　　 　 |. :ｉ.:.i.:.:.:ﾄ､| < V炒　　 　 　 　 　 　 　 / :.:.:.:.:.:.: |　 /.:.:.:.:l|　私は赤間宿にするが
+    　 　 　 　 八:|.:.|l.:.:.小 　 　 　 }　　　　　　 　 　 厶イ.:.:.:.:.:..lイ.:.:.:.:.:.:l|
+    　 　 　 　 　 ＼|l.:.:ｉ:.:.:.:.　 　 　 ヽ　　　　 　 　 　 　 |.:.:.:.:.:.:.| ｉ:.:.:.:.:.:.:l|
+    　　　　　　　　　∨＼:.:.:.:.　　　　 　 　 　 　 　 　 　 |.:.:.:.:.:.:.| |.:.:.:.:.:.:.l|
+    　　　　　　　　　　　　}.:.:ハ　　　　　r_ つ　　　　　 ｜:.:.:.:.:.:| ‘;.:.:.:.:.八
+    .　　　　　　　 　 　 　 |.:.:.:少:､　　　　　　 　 　 　 　 |.:.:.:.:.:.:.| 　ﾏ.:./:.:.:ヽ
+    .　　　　　　　 　 　 　 |:i.:.:.:.: 个　.　　　　　　 　 ／　|.:.:.:.:.:.:.|　　∨ .:.:.:.:.}
+    .　　　　　　　 　 　 　 |:|:ｉ.:.:.:.:.|　 |.:＞　 　 　 ／　　｜:.:.:.:.:.:|　　　＼.:.:.:.|
+    　　　　　　　　　　 　 仏|.:.:.:.:.|ｰ┴‐＜ ｀ ｰく.　　　　|.:.:.:.:.:.:.|　　　　　＜ト .,
+    　　　　　　　　　 　 ／　|.:.:.:.:.|　　　　 　 　 ハ 　 　 |.:.:.:.:.:.:.|　　　　　　|l　　 ｀ 　 ，
+    .　　　　　　　　　 〃 ＼:|.:.:.:.:.|　　　　　　　{ 　 　 　 |.:.:.:.:.:.:.|　　　　　　ﾘ　　　　　　≧=-　,
+    .　　　　　　 　 　 { 　 　 |.:.:.:.:.|　　　　　　　| 　 　 　 |.:.:.:.:.:.:.|　　　　　 ,　　　　 　 　 　 　 // ¨ヽ
+    .　　　　　　 　 　 | 　 　 |.:.:.:.:.|　　　　　　　lー ､　　 |.:.:.:.:.:.:.|＿＿_ ,. /　　 　 　 　 　 　 //　　/ ヽ
+    .　　　　　　 　 　 | 　 　 |.:.:.:.:.|　　　　　　　| 　 　 　 |.:.:.:.:.:.:.|　　　　/　　 　 　 　 　 　 //　　/　 ハ
+
+
+
+
+
+971 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:40:30 ID:uZ2XQLn20
+
+
+
+
+
+    l|　　　|: : : : : :l /: : : :/　 __」: l- ´ l : : : ヽ｀ ー- /<､　|: l､: : : | : : : : |
+    l|　　　|: : : : : :/ : l : /／　　ヽl 　 ﾊ : : : : l　　／　　｀ | j ヽ: : ! : : : : l
+    ヽ　　｜ : : : / : /|:／　 　 　 '| ヽ 　＼ : ├　' 　 　 　.l/　 ', : } : : : : }
+    　', 　 ﾊ: : : : : ,/::,l | ,x≠ﾆミr､ヽ　　　 ヽ: |　 ,ｨ'ﾆ≠ﾐ<､　 /} /: : : : :,'
+    　 ヽ　　i: : : : ', :ハY　 .Xﾊ　 ヽ ＼　　　l: ! 　　Xﾊ ´　X_　 }' : : : : /
+    　　　___ﾑ､: : : : ｌ ,仆　 { {}.}　　　　　　　lﾊ| 　　{ {}.}　　.仆 / : : / /
+    ＜ ´ /::| l}ヽ : : l ﾊl{ 　弋.ﾉ　　　 　 　 ノ　!　　弋.ﾉ　 _.ﾑ{/ : ／ｌ:/ﾄ､
+    /　 ./::::l ヾ,}＼: ＼｀　　　　　　　 　 　 　 ﾉ　　　　　　 '"/:／ ／ ハヽ
+    .　 /::::::ﾍ　ヽ.､ヽ: :ヽ‘｀ー　 ´　　　 　 {　　 ｀　｀ 一 'つ/'　／ﾉ /｀..ー.≧-　　九州人って焼酎しか飲まんっちゃなかったと?
+    .　 !:::::::/,:ヘ ｀ﾄ-ヽ :ヽ　　　 　 　 　 　 〉　　　　　　　 /　 ´ ´／|::::::::::::::::::　　←社会人になって博多に来た人
+    . 　|:::::::l l::::::::｀rﾊ　ヽ} ｀　　　　　　　　　　　　　　　　 i　 ,r イ: : |!:::::::::::::::::
+    .　 |:::::::l l:::::::::::!: ﾍ　 i　　　　　　 , -　― -､　　 　 　 　 /ｌ :/ : : ｌl:::::::::::::::::
+    .　 |:::::::l l:::::::::::|: : lゝ.　　　　　　/～　　　-ﾍ　　　　　／ .l/: : : /l:!:::::::::::::::::
+    .　 '､:::::l l:::::::::/: : :!: l| >､　　 　 ｀ー ―‐ ‐ '　　 　 ／　 ./: : : /:::!|:::::::::::::::::
+    ヽ　 V::', ',:::::/: : : l: :l| 　 ＞､　　　 　 　 　 　 　 ,< 　　 /: : : /::::::!|::::::::::::::::::
+
+
+
+
+
+972 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:40:49 ID:uZ2XQLn20
+
+
+
+
+    【実例その2】
+
+
+    　　　　　　　　　　　　　　/i　　,:
+    　　　　　　　、i､ i､ ,,...--l :l:､　l !　　,
+    　　　　　. t､{ヾ !,ｨ'.::.;:.::.:l .l::.:｀l ﾄ､ /:!
+    　　　 ,.,t'f._,f_　/_;;.::--:;l､:|ヽ::| |::.;'　!
+    　　,.':/　ヾ ,ﾚ'ﾞ.::ﾞ'.::.::.::.::.::.::.｀ヽ､¨　　ー―----....__,
+    　　l::ヽ.__,ｨ,..-､::.;:-:<¨ヽ;;.､_:/.:j:ヽ;::￣｢￣￣￣
+    　　｀'ｰ;--'.::.:;.::.::.::.::.::ヽ::、.::.｀ヽ.::l.:Y::.::l!
+    　　 fﾞ.::.:;.::.::.l.::.::ヽ、ヽ:'_,:ｨﾞｰ:､::.:i.::.:;i::.:i.:l
+    　　 ､::.::.､{::fヽ::.:､ﾑﾞ｢:iヽ二=_ヽ}:､.::.l::.l.::.ヽ.
+    .､__ノ:;.'::.:}ｰ7'"ヽ::i.:l　lt三fﾅ｢ﾁl::.:ゝ;:__,::.::ﾑ
+    　ﾞｰf:;i.::,zr/ﾆzri }i/　 ヾﾆｿ,,ｨ:!ゝ.:ヽ'':l.::./}ｿ
+    　　ヾヽ:ﾐﾑﾞ.ゞzﾘ l!..::::::::.:￣::::::ヾﾐ｀Y}_ヾヽ、　　あんた達何飲むと?
+    　　　｀ヾ:ﾙﾞiﾞ'ｰ'::::::ﾞ'　　　　　　/ﾘ:ﾉ::l￣ﾞヽ::i
+    　　　　frﾍ:ヽ、__　　fヽ、__,,..ｨﾞ:l::ﾐ.:ノ　　　l:i
+    　　　　ヽ.ﾉ:ﾉ:t‐''￣7Tf￣　_',/lﾘ:ﾉ､　　　 l:.､__,
+    　　　　　{:.､::.::ﾊ. // lﾘ＿,'...//l'i:|　./　　 :lゝ‐'
+    　　　　　,ヽ!｀Y'ﾞ//　!o@0o::j　 | l　l　　　:l
+    　　　　 ,'.::.ﾑ　,:' {　 ｀'ー,''ﾞ¨　 ,; ,ヽl　　　l!
+    　　　　;:.::,'.::.V'ﾍﾑ. 　 ﾞY　　 ,.':/ﾞ'ﾞ:l　　　l!
+    　　　　|::.l.:i.::;　　ヾt､　:i　_,ｨ',ｨﾞ　 ﾉ　　 .ﾊ
+    　　　　∨､::.:.､　　　>,:二=､{''　, '　　　/ .ﾑ
+    　　　　　ヾﾐz::.｀iｰ'=tr''ﾞ ｀'ｰﾞｧ'　 　 ／　　 ＼
+
+
+
+
+
+973 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:41:01 ID:uZ2XQLn20
+
+
+
+
+    　　　　　　　　　, _-､
+    .　　　　　　　 .ｨ辷 　)i= 　 - 　．.
+    .　　　　　　 /　'辷 　ﾘ 　　　　　　 `'く＾Ｘ^ヽ
+    　　　　　　/　　 `77´　/　／ 　 　 　 ヾハ ‘.
+    .　　　　　ｲ　 　 ,ｲｲ 　/／∨　/ /ｌ l .　 ∨　l
+    　　　　　 j/ 　 刈 | ,ｨ^ﾄ､ / ∨ //リ |│卜　’.
+    　　　　　│ ,.ｲ 八｣ ]、| じ,､/ / r介｢|│卜 卜）　カル酎!
+    　　　 　　j从ﾉ/　/| ｢＾冖'＾　/　辷'ﾉ,I人ﾉ /ﾘ　　　 　
+    　 　 　 　 　 / .,厶リ>､ 　ﾄ--ｧ　　 从 /j/　　 　 ←　どや顔
+    　　　　　　__[ﾚ^V) 〇､j/ 辷リ-＜j/ j/　　　　　　　　
+    　　　　　　〉　　r‐>　ヾミｖｰv彳 　 ＼　　 /Ｙ^i
+    　　　　　　しへJ ｝　　　 ｀ﾆ´　　!　　 ＼// し'^)
+    　　　　　/:八　　ﾉ￣￣＼　y―┤　　　{つ　`个i
+
+
+
+
+
+974 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:41:16 ID:uZ2XQLn20
+
+
+
+
+    ＼＼　　　　　　　　　　　＿
+    　 ＼＼　　　　　　　,..-<三-二=t-､　　　　　　
+    ＼　　　　　　　_,ｨ'´　　　｀'ｰ=三彡､ ＼　　　　
+    ＼＼　　　 _, '　　 ;i､　｀ヽ、ヽ　¨　＼　 ＼　　　
+    .　　　　　//　　　　!. lﾞ'ｰ-､＼ヽ ＼ ヽ　、.ﾑ　　　
+    　　　　 //　　 l　|. | l! ;ﾚ'ヽヽ､＼　 V V　v ﾑ　　
+    　 　 　 L!　　l. l　|. l//liﾏｪﾊ i, ヽ＼ |! :i　 ';　ﾑ　レモンチューハイ!
+    　　　　　| i　 :i. |､.|i ! ﾞ ﾞ'ｰ-'ノﾞ// Vヾ!　l　 ';　 |　
+    　　　　　l　!　 ﾄｨｭ､!､!　￣////　 | i　|　.　　　ﾑ7
+    . 　 　　　| :i　: ﾄヾzj .､　　,.:､　　　l ! :ﾊ　ヾ　　　ﾚ､
+    .　　　　　|∧ : l;;ﾐt､:::　_,ｲﾉ::::＼　l/:/,.ｨV .＼　　　.＼
+    　　　　　/__.∨ |l;;ﾐl、　｀ヽ::::::::_}ノ_;:ｨﾞﾞ　ヽ　　ヽ　　　 ヽ、
+    　　　,ｨ''",.z :l_V､ilﾐﾑ＞.--,ｨ'　　　　　　､　＼＼＼＼　 .ﾑ
+    　　./,　 ._｀ヽ l!ﾞ ヾミﾑ.　　{.　　　　　　　 Y　 ＼＼＼＼　ﾑ
+    　　l　　.._｀ヽlｰ'　　ヾﾐli,.ｨ'iﾍ　　　　　　　ﾉ　　　lヽ、＼　　 ﾑ
+    ／ |　　　_ﾞ'/　　　 ,.ｨ'　　:l.i:ﾍ　　　　　V　　　,:/　liﾘ､　V　l :l!
+
+
+
+
+
+975 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:41:28 ID:uZ2XQLn20
+
+
+
+
+    　　　＿_,,.-i_　　　　　〉・・
+    -‐/　　　,ｨ.i/ﾞi　　（ ､ﾉ ）
+    . /　　 ./"ﾞ'ヾ.'、　　∫
+    /　　 /i .l .i ヽ ∨　∫
+    　　 /!,| ﾊ ﾚ､|ヽ!
+    　　,'//ヽﾆノ l::lﾊ
+    　　|!:zzzzzｭ.:::l　　(……チューハイなんて邪道やろうもん)
+    .:.:　l.::￣￣.:::::l　　←南九州出身
+    .:.:.　lXXX.:::::::::ヽ.
+    l.:.:.　l.:::::::::::::::::::::し､
+    ;l.:.:　ヽ.:::::::::::::::;､:::く
+    ﾞ'ヽ　　lﾆﾆー'". ﾞｰ'
+    :::lV､　 | il ミ|ｫﾞi
+    ７| V､i､|､ｰ-'ヾ!
+    ヽ!　∨ i!:＼! tﾟl.y
+
+
+
+
+
+976 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:41:42 ID:uZ2XQLn20
+
+
+
+
+    【実例その3】
+
+
+    　　　　 　 　 //　 /　　　 : /　　　/　　　　　 ヽ＼　　: 　ヽ　　 ＼/ /:::{_入
+    .　　 　 　 　 ; '　 / 　 '/ : /　　　: ｉ　　　　　:i　:ｉ　 ＼|: .　ハ.　 　 ∨:::::::j:::∧
+    　　　　　　　ｉ　 /　 //　:│　. : ｊ:│　　　　: |　:i　 　 i＼ 　 |　　　 j:::::::/|:::::人
+    　　　　　　　i　:'/ 　 ｉ　 : :|:ｉ :_｣⊥:L　　　. :-j―|: .- / :|､ ｰﾘ:=‐:{-〈:::::/∧::::::::〉
+    　　　　　　　i　ｉｉ : i　| i　: ｉ八: | ｉ八　　　. :i :|:ｉ :|: . /|:.∧: :人 : 　∨∨::|: |＼∧
+    　　　　　　　i　|ｉ : i　| i　: :Ⅵ斗ﾃ芋ﾐ: : : : ｉ: |斗yﾃ芋ミ≪ |:/＼:　{: ,'|:::|: | :::|　l　はじめまして……そらです……
+    　　 　 　 　 乂|ｉ : i　i八.: :爪　 _)ﾟ//}丶: : |八　 ,_)ﾟ//}　爪＼:　＼ⅥL｣: L:_j:　l
+    　　 　 　 　 　 |i＼i: : : |＼八　弋_:ソ　 ＼|　　 弋_.:ソ　　ﾘ: :　 /ﾞＹ/| : ,':i :　　 |　お飲み物、何になさいますか？
+    　　 　 　 　 　 ｉ八八: 人: :丶＼　　　　　　 　 　 　 　 　 /: : //_ノ'　i: /: i :　　 |
+    　　　　　 　 　 ∨ ＼ハ: ＼:∧ ／／　′　　　　／／／ｲ／/／　　|/: : i :　　 |
+    　　　　　　　 　 |: // ヽi:_ノ: ;=- 　 　 　 　 　 　 　 　 　 厶〃　　　 /. : : i :　　 |
+    　　　　　　　 　 |/　　. :i: : :/ 　 ゝ　　　 ｀　´　　　　　／ |/　　 　 /,': : : :ｉ :　　 |
+    　 　 　 　 　 　 ,′　. :i:ｉ: :/　　　　 丶、　　　 　　 　´ 　 |⌒　　 //j : : : ｉ: : .　 |
+    　　 　 　 　 　 :,　 . : : i:ｉ:/　　　　 　 　 ,＞r　　´ 　 　 　 ト-､　　ｉ i | : : : i: : :　 |
+    　　　　　　　 /,ｉ　 . : : ｉ/　　 　 　 　 ／ / |　　　 　 　 　 ∨　＼:| i | : : : i: : :　 |
+    . 　 　 　 　 // |　 . : : |　　　　　　 /　 厶ｲ　　　　　　　／　　　 ＼:| : : : i: : :　 |
+
+
+
+
+
+977 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:41:55 ID:uZ2XQLn20
+
+
+
+
+    .　　　 　 　 ,..-''"::::::::::::::::::::::::::::::::::::::::｀ヽ
+    　　　　　／:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ヽ
+    .　　 　 /::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::'.,
+    .　　 　 Y~~~~ﾉﾘ~~~~~~~~~~~~l:::::::::::::::::::::::::::::',
+    　　　　 i　　　　　　　　　　　 ﾉ::::::::::::::::::::::::::::::',
+    　 　 　 l＝=､　 ヽニニニﾆヽヽ::::::::::::::::::::::::::::::l　そうか……ブランデーを水割りでお願いするよ
+    　 　 　 ヽ T .}　　" '.￣rヽ、　 .i::::::/⌒ヽ:::::::::,'
+    　　　　　 l ｀/　　　　‐┴'　　　 |::://⌒ .l:::::::,'
+    　　　　　 |./,,,　　　　　　　　　　|/. ）)　./:::::,'
+    　 _｀　 　 lヽ､ -‐　　　　　　 　 　 ／.／:::::::i
+    　 ‐. 　 　 ',　　　　 　 　 　 　 　 __／ ＼:::::::i
+    　　′　　 .',　ヽ＝=-　　　　 　 /. ＿＿_｀''-i
+    　　 　 　 　 ', 　 -‐'　　　.,.-''"￣　　　　 ｀ﾞ"''‐.､
+    　 　 　 　 　 ', 　　　　 ／
+    .　　　　　　　 ヽ.__,,..-/
+    　　　　　　 　 　 　 /
+    　　　　　　　　　　/
+    　　　　　　　　　　l
+
+
+
+
+
+978 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:42:17 ID:uZ2XQLn20
+
+
+
+
+    　　　　 　 　　 　　　　 　 　 　 　 ,.　ー- ､
+    　　　　　　　　　　　　　　　　　／＿_____.. ｀ｰ-ー--　.._
+    　　　　　　　　　　　　　　　／/´.. ‐'' ´　　 　 　 　 　 　 ｀　 ､
+    　　　　　　　　 　　 　　 ／　〃´　　 　　　 　 　　 　　　　　　 ヽ、
+    　 　 　 　 　 　 　 　 　/ 　/ i　　　　　　　　　　　　　　　　　　 　＼
+    　　　　　　　　　　　　/　 /　l　 　 　 　 　 　 i　　　　　　 　 　 　 　ヽ
+    　　　　　　　　　 　 　,　 ,ﾞ 　 ! 　 　i 　　l 　　|　 　　 l 　 i　　　 　 　 ',
+    　　　　 　　 　 　 　　ﾚ'7　　　ｌ 　　| 　　l　 　!!　　　 | 　 l 　 　　　i　 i`　、
+    　 　 　 　　 　 　 ／ { ,,ｌ　i　　l 　 _｣ -‐十-　|ヽ　　-l－┼- i、 　 l 　| ＼＼
+    　　 　 　　　　　/ /^''､ !　!　　!　　ハ　 八　 |　',　　ﾊ　,ﾊ　 l　　　l　 |ヽ　ヾ ＼　　芋焼酎……ありますよ……?
+    　　　　　　　　く_/　　 ∧ {i　　!　　|　Ｖ__　＼l　 !／　l/___! /l 　 　!　 !> ',,ィﾞ ＼＼
+    　　　 　 　 　　 　 　 / ∧l ',　ﾊ　 イて:::::::}` 　 　 　 仔::::::}`'i 　　ﾊ.　l 　i　i 　　ヽ ヽ
+    　　　　　　　　　　　/ / 　〉 V　ゝ.i |弋ｚ.ツ　 　 　 　弋ｚツ /l　 / i 　 !.　!　!　　　ゝ'′
+    　　　　　　　　　　 / / 　/　　i 　 从　 ＼＼＼＼＼＼＼∠ｲ / 　! 　 !　l　|
+    　 　 　　　　　　　　｀　 /　 ' 八 　ﾞ、ヽ.　 　 　　'　　　　 ／ 　　 　|　　|　|__|
+    　 　 　 　　 　 　　　　/　 / 　l_.>､ ヽ i `r ､_ 　 ^ 　 ,.ィ'´　　　　　 !　　|
+    　 　 　 　 　 　 　 　 / 　/.／ 　　 ヽ ＼!_l￣` ｰ＜　,ﾉ- 、 ! 　 　 　 　 |
+    　 　 　 　　 　　　　/ 　//　　　　, ｰ|　　i　 　　　_∨＿ /　| 　 　　i　 　|
+    　 　 　　　　　　　/ 　 /´ 　 　 　 　 | 　 |　　　　　､!_　　｀'' ｰ-rｰ ､!　　 !
+    .　 　 　 　 　　　/ 　 /　 　 　 　　　ﾉ　 ﾉ　　 　　　 i　　　　　　lヾ. ヽ.　　!
+
+
+
+
+
+979 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:42:29 ID:uZ2XQLn20
+
+
+
+
+
+    ´￣￣￣｀`ヽ､
+    　　　　　　　　 ＼
+    　､　　　　　　　　ヽ
+    　|ヽ ﾄ､ 　ﾄ､　ﾄ､ ､.`、
+    /|l. l. | |l l | | l |l.| |l. l
+    /'　j/ ﾉ|ﾙ'/ﾚ〃j/l　|
+    -‐7"　ヾー---┐|_.j
+    ￣ 　　./ﾞﾆ,ﾆF､'' ｌ _ヽ
+    :: 　 ,.,. |ヽ 」９L.` Ｋ }.|　(阿部先輩、ブランデーだなんて九州人にあるまじき行為だと思います)
+    　　　　ｌ'　 """　 ｌ ) /
+    　　ｈ､,.ﾍ. 　 　 　ﾚ'/
+    　　　　　 　　　　ﾚ′
+    　r.二二.) 　 　 /　　
+    　　≡≡ 　 　,ｲ
+    .　　　　 　 ／　!
+    ＼　　　／　　├､
+    ::::::｀￣´ 　 /　 !ハ.
+    :::.　 　 　 /　／　 ﾅヽ
+
+
+
+
+
+980 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:42:40 ID:uZ2XQLn20
+
+
+
+
+    　　　　　　　　　　 　 ＿_
+    　　　　　　　 　 ,.-''";;;;;;;;;;｀`'ヽ､
+    　　　　　　　／;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヽ、
+    　　　　　　/;;;;､;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;､
+    　　　　　 ,!;;;!ﾞ`''～^～ｧrr-'ﾞ`'´''ﾗﾍ;;;!
+    　　　　　 |;;;|　　　　 　ﾉﾘ　　　　　ﾐ;;;|
+    　　　　　_ゞ;! ｰ- ..,,_　　　 ,,.-‐''''　ﾐ;ﾘ
+    　　　 　 !ﾍl;| ,.=≡=､｀　,´ｨ,.=≡=､｢ヽ　そうか……
+    　　　　　!(,ﾍ!　 　 '"　　|:::.`　　　 ,ﾄﾞﾘ　だが俺は芋焼酎が苦手なんだ
+    　　　　　ヽﾞ､!　　　　　　!;　　　　 ,ﾚｿ
+    　　　　　　 `| 　　 　 ^'='^　　　　ﾑ'′
+    　　　　　 　 .ﾄ 　 ヽ二二二フ　.,ｲ
+    　　　　　 　 i| ＼　　 ===　　 ,ｲ.:|
+    　 　 　 　 ,ｲi|　ﾞ､＼　　; 　 ／ﾘ.:;ﾄ､
+    　　 　 　 　 　 　 　 `ｰ─''ﾞ
+
+
+
+
+
+981 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:42:54 ID:uZ2XQLn20
+
+
+
+
+    　　　　　　　　　　 　 ＿_
+    　　　　　　　 　 ,.-''";;;;;;;;;;｀`'ヽ､
+    　　　　　　　／;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヽ、
+    　　　　　　/;;;;､;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;､
+    　　　　　 ,!;;;!ﾞ`''～^～ｧrr-'ﾞ`'´''ﾗﾍ;;;!
+    　　　　　 |;;;|　　　　 　ﾉﾘ　　　　　ﾐ;;;|
+    　　　　　_ゞ;! ｰ- .,,_ 　 　 ,,..-‐''''　ﾐ;ﾘ
+    　　　 　 !ﾍl;|. ぐ世!ﾞ｀　 ,´ｨ'"世ﾝ　｢ヽ
+    　　　　　!(,ﾍ! 　￣'"　　|:::.` ￣　 ,ﾄﾞﾘ　だから、ブランデーなんだ。
+    　　　　　ヽﾞ､!　　　　　　!;　　　　 ,ﾚｿ
+    　　　　　　 `| 　　 　 ^'='^ 　　　 ﾑ'′
+    　　　　　　　.ﾄ､. 　 -‐‐ ‐‐-　　/|
+    　　　　　 　 i| ＼　　 ===　　 ,ｲ.:|
+    　 　 　 　 ,ｲi|　ﾞ､＼　　; 　 ／ﾘ.:;ﾄ､
+    　　 　 　 　 　 　 　 `ｰ─''ﾞ
+
+
+
+
+
+982 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:43:16 ID:uZ2XQLn20
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼
+    　　　　|　 　 　 （__人__）　 　　 |　とまぁこんな感じで福岡人は焼酎以外を頼むことも多いです。
+    　　　　 ＼　 　　｀ ⌒´ 　　 ,／
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+
+
+
+983 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:43:37 ID:uZ2XQLn20
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼
+    　　　　|　 　 　 （__人__）　 　　 |　ちなみに、作者は芋の臭さが苦手なので焼酎は米か麦に限るそうです。
+    　　　　 ＼　 　　｀ ⌒´ 　　 ,／
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+
+
+
+984 ： <strong><span style="color:#009900">◆6LxJTC/oRc</span></strong>：2012/07/20(金) 22:44:14 ID:uZ2XQLn20
+
+
+
+
+    　　/∧|　|　　　| i　　　　 :/ ｉ亅　　　i |　|ｉ　`'＜.:ｊ|::　　 　 i　　 　 　 　 | ｉ　　l　／||i: :ｊハ｝
+    .　//　 iヽ|　　 i.| | 　 　 ::// |｜　　: :i |　||　　. .:.::|`'＜　.:i |　:.　|　　　ｉ | ｉ　　l'´／|||; :ｉ :‘,
+    　i　 　 lヽ|＼. :l:| | 　 .: :7Ｔ' ＴＴ´ : :.:::ｉ 　八 　 . .:::|　::.　　`'ｰ-　∟ L ｣ LＬ=-|'゜ｉ　|||ｉ : : :‘,
+    　| |　　|　|　.:.:ｉ|ﾊｊ　　: :｛！ ｣｜ . : ::::i ｢`=- ..,_.:.::::|　 :.　 :i |　:.:: |　 i:　| | i　iｉ |　ｉ　|||l: : : ',‘,
+    　| |　　|　|　.:.:ｉ|　|　　.::衍ﾐｯ,い　.: .::::i |　　　＼｀ﾆト　i｣_ :i |　.::: |　 i:　| | i　iｉ |　ｉ　|||l: : :｝｝:}
+    　| l　　 、|　.:.:ｉ|　| 　 . :|│ _}::込　.:::::i |　‐--=込.::|　 l:| ｀7ト. .:: |　 ｉｉ::.| | i　iｉ |　ｉ　Ⅶ:,_;ﾉイ|
+    .　'　　 ﾉ} |　.:.:ｉ|　|.!　 .::| と ＶＪソ＼.::i {　 ア行ｧ=ﾐﾄxJﾊ:/｜. .:: |　 ｉi:::.Ｖ i　iｉ |　i　 i |.:| | ｉ|:|
+    .　 ＼_,ノ八　 .:| ,从　.:！／/／　　 ＼ヽ 　 　 トrく:::え沁≧ｘ/::ﾘ　 ｉ|::::.ヽi　iｉ |　i　 i |.:| | ｉ|:|　〆はやっぱりラーメンで
+    .　　　　｛　|＼ 乂|_|:＼.:＼　　　　　 　 ＼　　 -ゝ辷;とう'＾ ｝/:ﾝ!:|　:ｉ|＼:::.＼ｉ_|　i　 i |.:| | ｉ|:|　お　わ　り
+    　　　 　 ヽ| i　'ー|ﾉ:| :个ー‐'　ﾉ　　 　 　 `ー／／/／/　,ﾉ／ ｊ人 :ｉ|.:::/ｱ７爪　i　 i |.:| | ｉ|:|
+    　　　　　　| |　 '~]_iﾉ.:八　　　　　　 　 　 　 　 　 　 （＿_／}／ ／ﾊ､V:/ / /,:　 i　 i l:/ | ｉN
+    　　　　　　| |　 ｀Ｔ7´ .:ｉ:ヽ　 　 ､_　 　 　 　 　 　 　 　 　 ／ ／.::/ .:冫' / //i:　 i　 i i′| ｉ|
+    　　　　　　| |　　 | i . .::ｌ :::i::.、　　⌒ヽ　　　　　　　　　／ . : :::／::／ .:: ' //: i:　 i　 i i　 | ｉ|
+    　　　　　　| |　　 | l . .::| .:.i::::::.、　　　　　　,｡-‐…ｰ＜ . .:::_／::／.:::／｀ﾏ/ .: i i:: i　 i i　 | ｉ|
+    　　　　　　| |　　 | | . . | .::ｉ:i:::|:.＼ 　 ／⌒′　　　　　 ｀'⌒＼x‐ｖ'′ ／} .:::::i i:: i　 i i　 | ｉ|
+    　　　　　　| |　　 | | 　 | .::ｉ:i::.| .: |_>'′i.::/　　　　　　　　　 　 ヽ} V≠＜ ＼ :i i:: i　 i i　 | ｉ|
+    　　　　　　| |　　 | | 　 |　:ｉ:i:::／ /　　 |/　　　　　　　　　　　　 ｛　Ｖﾍ　 ｀ミ辷i:: i　 i i　 | ｉ|
+    　　　　　　| |　　 | | 　 |　:ｉ:i/　 ,′　　|　　　　　 　 　 　 　 　 　 　 Ｖﾊ　　 　 i:: i　 i i　 | ｉ|
+
+
+
+    CAST
+    鹿児島人……島津豊久(ドリフターズ)
+    宮崎人……東国原英夫(実在)
+    熊本人……ニャンコ先生(夏目友人帳)
+    大分人……クラウザーさん(DMC)
+
+    福岡人
+    実録その1……平野コータ・毒島冴子(学園黙示録HOTD)
+    実録その2……むろみさん・富士さん(波打際のむろみさん)
+    実録その3……阿部高和(くそみそテクニック)
+
+    よそから来た人
+    実録その1……宮本麗(学園黙示録HOTD)
+    実録その2……リヴァイアさん(波打際のむろみさん)
+    実録その3……道下正樹(くそみそテクニック)
+
+    キャバ嬢……春日野穹(ヨスガノソラ) 
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B003AV0088&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002P36XUQ&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B0047NK5TM&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B003M2IFC8&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B004XKXIWK&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B0063LXEBM&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4777/clap" id="fc2button-clap-4777" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4777").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4777/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶご当地知識＆方言　その４７　九州における焼酎へのこだわり" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4777.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4817.html">
+					やる夫で学ぶご当地知識＆方言　その５４　佐賀の居酒屋メニュー (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4816.html">
+					やる夫で学ぶご当地知識＆方言　その５３　佐賀の方言 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4815.html">
+					やる夫で学ぶご当地知識＆方言　その５２　福井県　源平落人伝承 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4814.html">
+					やる夫で学ぶご当地知識＆方言　その５１　サガケンインパクト！ビックリ大作戦～！ (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4813.html">
+					やる夫で学ぶご当地知識＆方言　その５０　結構簡単！広島弁講座　「ほーね」編 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4812.html">
+					やる夫で学ぶご当地知識＆方言　その４９　ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4789.html">
+					やる夫で学ぶご当地知識＆方言　その４８　超時空県ＳＡＧＡ (2012/07/23)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶご当地知識＆方言　その４７　九州における焼酎へのこだわり (2012/07/22)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4740.html">
+					やる夫で学ぶご当地知識＆方言　その４６　福岡大牟田市動物園について (2012/07/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4564.html">
+					やる夫で学ぶご当地知識＆方言　その４５　東西文化比較　そば・うどん編 (2012/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4377.html">
+					やる夫で学ぶご当地知識＆方言　その４４　姫路城のお話　 (2012/04/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4251.html">
+					やる夫で学ぶご当地知識＆方言　その４３　鳥取の方言２ (2012/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4234.html">
+					やる夫で学ぶご当地知識＆方言　その４２　鳥取の方言 (2012/03/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4233.html">
+					やる夫で学ぶご当地知識＆方言　その４１　加賀豪姫物語 (2012/03/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4216.html">
+					やる夫で学ぶご当地知識＆方言　その４０　20世紀梨の出生について (2012/03/04)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶご当地知識＆方言　その４７　九州における焼酎へのこだわり" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/07/22 08:34 ]
+<a href="/blog-category-372.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶご当地知識＆方言</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html#comment_list" title="この記事のコメントを参照">CM(4)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4777"
+    dc:title="やる夫で学ぶご当地知識＆方言　その４７　九州における焼酎へのこだわり"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html"
+    dc:subject="学ぶ系　やる夫で学ぶご当地知識＆方言"
+    dc:description="　　　　　　　　　　 　 　 ＿＿＿_    　　　　　　　　　　 　 ／　　 　 　＼    　　　　　　　　　　 ／　─　 　 ─　＼    　　　　　　　 　 ／ 　 （●） 　（●） 　＼　えー、世間では    　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |    　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／    　　　　　　　 　 ／　　　　　ー‐　　　　＼    　　　　　　　　 し!　　　　　_　　&#45;──　‐&#45; 　　､　 , &#45;─&#45;､　&#45;‐─_ﾉ    　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-07-22T08:34:59+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4782.html" title="やる夫で学ぶ本田宗一郎　その４３">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4783.html" title="やる夫で刑事コロンボ　CASE ２　完全犯罪の誤算　第二話　後編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment40397">[ 40397 ] <strong></strong></p>
+</div>
+<div class="comb">
+焼酎しか飲まないって、九州というよりもっぱら鹿児島で、他はせいぜい熊本が加わるかなってイメージ
+ 
+宮崎大分福岡佐賀長崎についてはそんなイメージ全くないけどな<div class="comment_navi">
+[ 2012/07/23 06:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=40397" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40876">[ 40876 ] <strong></strong></p>
+</div>
+<div class="comb">
+とある漫画で、九州は福岡は清酒でどっかが芋でどっかが麦で、と分かれてるって書かれてたっけなぁ<div class="comment_navi">
+[ 2012/08/01 23:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">幻夜</a>') } else {
+document.write("幻夜"); }
+</script>
+<noscript>
+<a href="" target="_blank">幻夜</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4777" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41655">[ 41655 ] <strong></strong></p>
+</div>
+<div class="comb">
+熊本：白岳（米）
+大分：二階堂（麦）
+鹿児島：さつま白波（芋）
+宮崎：霧島or日向木挽（芋）
+沖縄：泡盛
+ 
+あとはそば焼酎で雲海とか黒糖焼酎で黒の曙とか<div class="comment_navi">
+[ 2012/08/17 12:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4777" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment42318">[ 42318 ] <strong></strong></p>
+</div>
+<div class="comb">
+ってか近頃は、九州でも焼酎飲まなくなってる（酒全般）
+飲んでるのは、焼酎ブームにのっかた生き残りだけじゃないかね？<div class="comment_navi">
+[ 2012/08/28 10:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4777" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4777.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4777"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4777-d4441117">http://oyoguyaruo.blog72.fc2.com/tb.php/4777-d4441117</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4782.html" title="やる夫で学ぶ本田宗一郎　その４３">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4783.html" title="やる夫で刑事コロンボ　CASE ２　完全犯罪の誤算　第二話　後編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,937 @@
+<div class="article">
+
+
+
+
+
+
+    　　╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋
+    　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃
+    　　┃　　　　　　　　　　 　 やる夫で学ぶTribes：Ascend　　　　　　　　　　　　　┃
+    　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃
+    　　╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋
+
+    　　　　　　　　　　　　　　ディーフェンス！ディーフェンス！
+
+
+    .
+
+
+
+    　 /　　　 ､__,,..-''..-､ヽ　　　　./　 　 　 　 　 /:::::｀ヽヽ　　　　 　 ヽ、　　　 　 前回の最後
+    . /　　 ,　　　/.{::::::::::} .l　　　 /_,,-''´　　　 l　l::::::::::::ﾉ .'　　　　　　　 '.,　　　　  かっこつけておきながら
+    . l _,,.-' -.､　 ヽヽ-‐'　　　　 ,'　　　 ‐.､　　ヽ._｀¨¨´　 　 　 　 　 　 　 i　　　　 フラッグに触れもしなかったお
+    . l. /:::::ヽ .l　　　　　 ｀ヽ　　 l　/:::::::ヽ l　　 　 　 ｀ヽ　　　　　　　　 　 |
+    　l ヽ::::ノ　　　　　 　 　 } 　 / ヽ._::::ノ '　　　　　　　l　　　　　　　　　 /
+    　ヽ._　/　　　、　　　　ノ　　ヽ._　　 / 　 　 ､　　 ／　　 　 　 　 　 ／
+    　　i　 l　　 　 l-―‐''´　　　 ',.　 　 l　　　　ﾉ ¨¨´　　　　　.,..-''"´ヽ｀"''-..,,　　　　 初心者の割には頑張っただろ
+    　　.',　ヽ..,,__ノ　　　　　 　 ／',　　　ヽ-‐''"　　　　　 　 .／　　　／　　　　　｀ヽ
+    　　 .ヽ　　,.--..,,_　　 　 ／　　',　　　　　 ,.-''"￣ ヽ　 ./　　　／
+    　　 　 ＼｀ヽ　　 ヽ__／　　 ／ ヽ.　　　　｀ヽ　　　 ｀ｰ'　　　 {
+    　　　　　 ＼ ヽ　　　　　　　ヽ　　 ｀　　　　　ヽ　　　　　　 　 ヽ
+
+
+
+
+
+
+
+
+
+85 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:41:32 ID:ekFKpHXk
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼　　　　　　  しかしこのまま終わるわけには行かないだろ
+    　|　　　（ ●）（●）
+    .　|　　　　 （__人__）. ｒｍ､　　 彼を知り己を知ればなんとやら
+    　 |　　　　　｀ ⌒´ﾉｒ川 ||　　 攻撃が上手くいかないなら防御をやってみるだろ
+    .　 |　　　　　　 　 },.!　 ノ'
+    .　 ヽ　　　　　 　 ｒ / .|
+    　　 ヽ　　　　　ノノ　ﾉ
+    　　　/　　 　 ／ .／
+    　　　|　　　 　 ／
+    　 　 |　　　　i´
+
+
+
+
+    　　　 　 　 　 　 　 　 　 　 ／￣￣＼
+    　　　 　 　 　 　 　 　 　 ／ _ノ　 .ヽ、＼　　　　ということで防御のスペシャリストに来ていただいた
+    　　　 　 　 　 　 　 　 　 |　 （●）（●）　|
+    　　　　　　　　　　　　 　 |　　（__人__）　.|　　　  先生！　どうぞ！
+    　　 　 　 　 　 　 　 　 　 |　　 ｀ ⌒´ 　ﾉ
+    　　　　　　 r─一'´￣`＜ヽ　　　　　　}
+    　　　　　　 `ー‐ｧ　　 ,　 　 )　　　 　, -'~⌒ヽ、
+    　　　　　　　　 ノ　　　{. 　 ,ﾍ　　　　,l.　ゝ、_ .'ヽ).
+    　　　　　　  ／, ､　_　　　/. |　　 　.　',　　.　..　 .ヽ、
+    　　　　 　 （／ / // / /　...|　 　 　 ...|＼..＼＼ ＼_)
+    　　　　　　 　 / // / /　　　　　　 　 . .　＼_＼_)､_）
+    　　　　　　　　ｰ' {_/ノ　　　　　　　　　 　 　　."´
+
+
+
+
+
+
+
+
+    　　　　 　 　 　 　 　 　 　 　 －-　　　 　 　 　 　 　 　 　 , -'" ￣ ｀ 丶、　 /
+    　　　　 　 　 　 　 　 　 　 　 ─--　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　 仙道だと思ったか？
+    　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 /　　　　　　　　　　　 |
+    　　　　 　 　 　 　 　 　 　 　 ───　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　 僕だよ！
+    　　　　 　 　 　 　 　 　 　 　 ￣￣　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉
+    　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　　　　 　 　 　 　 　 　 　 　 二二二　　　 　 　 　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧
+    　　　　 　 　 　 　 　 　 　 　 ──　 ＿＿＿　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　　　　 　 　 　 　 　 　 　 　 ま　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　　　　 　 　 　 　 　 　 　 　 さ　　二ニ　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　　 　 　 　 　 　 　 　 　 に　　　　　_, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　　　　　 　 　 　 　 　 　 　 　 鉄 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　　　 　 　 　 　 　 　 　 　 壁　　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　　　　　　　　　　　　　　　　　　　r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　　　　 　 　 　 　 　 　 　 　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+    .
+
+
+87 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:42:18 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　＿＿＿_
+    　　　　　　　 ／ノ 　 ヽ､_＼　　　　r ⌒j　　　　　　 ちょ！　防御の意味が違うお！！
+    　　　　　　／（ ○）}liil{（○）＼　　/ 　 /
+    　　　　 ／　　　 （__人__）　　 ＼/ 　 / 　　／　 ）　  この流れで攻撃の先生が兄貴とか
+    　　　　|　　　　　|i|||||||i|　 　 　/　　/　 ／　 ／　　  ベタすぎるのはやめるんだお！！
+    　　　　＼ 　 　　|ｪｪｪｪ| 　 　 /　 　'` ´ 　／
+    　　　　　　r´　　(⌒'ー―- イ′　　　　　´廴　　　　　　  貞操の危険が危ないお！
+    　　　　　/　　　 ＞ 、　　　　　ヽ　　　 　 _　￣￣￣)
+    　　　　/　　 　　　　 -､　　　 　 } 　 　 　 　(　￣¨´
+    　　　/　　　 　 　　　　　ヽ._　　　　　　　__　 ＼
+    　　　　　　　　　　　　　　　　｀　　　--‐'´　｀ﾞ' 、_.)
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／￣￣＼
+    　　　　　　　　　　　　　　　　　　安心しろやる夫　　　　　　　　　　　　　 　 　 　 　 　 　 ／　 ヽ､_　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 （●）（● ）　　　|
+    　　　　　　　　　　　　　　　　　　攻撃の先生はとある有名なお方に頼んでおいた　  （__人__）　　　　 |
+    　　　　　　　　　　　　　　　　　　それより防御についてしっかり学ぶだろ　　　　　　 （｀⌒ ´　　　　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 {　　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 {　　 　 　 　 ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 mｍ 　 ヽ 　 　 　ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 （⊂　￣￣￣　　　ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ￣￣￣|　　　　|
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 rヽ　　／　ノ　　＼ ＼
+    　 　 　 　 　 　 　 　 　 ということで先生、防御の基本について　　　　  i　!　　|　 （●）（●）　|
+    　 　 　 　 　 　 　 　 　 ご教示お願いしますだろ　　　　　　　　　　 r;r‐r/　| 　 |　　（__人__）　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 〈_L (｀ヽ .}　　|　　 ｀ ⌒´　　ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 l｀ （ ｀`/　.　 |　　　　　　　 }
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ヽ 　　l　　.　 ヽ　　　　　 　}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 |,. 　 l　　 /⌒　 　ー‐　　ｨ ヽ
+
+
+    .
+
+88 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:42:49 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　 　 　 　 　 　 　 　 , -'" ￣ ｀ 丶
+    　　　  　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼　　　　 OK！！
+    　　　　　 　 　 　 　 　 　 　 　 /　　　　　　　　　　　 |
+    　　　　　　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　 　 　 防御の基本は3つだよ
+    　　　  　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉
+    　　　　 　 　 　 　 　 　 　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　　　　　　 　 　 その１！　ベースに来る前に倒す
+    　　　　　 　 　 　 　 　 　 　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　　　　　　  その２！　フラッグに触る前に倒す
+    　　　 　 　 　 　 　 　 　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉　　　　　　　  その３！　フラッグを取ったやつを倒す
+    　　　　　  　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　　　  　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､　　　　　　　 簡単だね！
+    　　　　　  　　　　　　_, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　　　　  　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　　  　　　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　　　　　　  r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　　　　　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+    　 　　 　　　　 ＿＿＿_
+    　　　　　　　／ ノ　　＼＼
+    　　　　　 ／　（●） 　(●）＼　　　　　シンプルなのはいいけど
+    　　　　／　∪　 （__人__）　　＼　　　  もうちょっと詳しく説明して欲しいお
+    　　　　|　　 　　　｀ ⌒´　　　　|
+    　　　　 ＼　/⌒)⌒)⌒)　　 ／/⌒)⌒)⌒)
+    　　　　ノ　　|　/　/　/　　　(⌒) ./　/　/
+    　 ／´　　　 |　:::::::::::(⌒)　　ゝ　　::::::::::/
+    　|　　　　ｌ　 |　　　　　ノ　　/　　）　　/
+    　ヽ　　　 ヽ_ヽ　　　 /' 　　/　　　 ／
+    　　ヽ ＿＿　　 　 ／　　 /　　 ／
+
+
+    .
+
+89 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:43:17 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　 　 　 　 　 　 　 　 , -'" ￣ ｀ 丶、
+    　　　　　　　　　　　　　　　　／　　　　　　　　 ＼　　　 　 　 それじゃ一つづつ見ていこうか
+    　　　 　 　 　 　 　 　 　 　 /　　　　　　　　　　　 |
+    　　　　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　　　　 まずその１
+    　　　　 　 　 　 　 　 　 　 |　／二` 　 　 "二ヽ、　|　 〉
+    　　 　 　 　 　 　 　 　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　　　　　　　  これは味方ベースに向かってくる敵を
+    　　　 　 　 　 　 　 　 　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　　　　　ベースに関わる前に倒してしまうシンプルな方法だ
+    　 　 　 　 　 　 　 　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　　　　　　　　　　　 　 i　　 { ='"三二T冫 　/´＿ノ　　　　　　　 どれだけ攻撃力があっても
+    　　　 　 　 　 　 　 　 　 _,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､　　　　　 攻撃できなきゃ意味が無いもんね！
+    　　　　　　　　　  _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　　　　　　　／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　　　　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　　　　  r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　　　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /　ヽ､_ 　　.＼
+    　　　　　　　　　　　　ある意味、当たらなければ～と同じ意味だろ　 （　（● ） .　　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 （人__）　　　　　|
+    　　　　　　　　　　　　もしかしたら陽動の可能性もあるが　　　　　　  r‐-､　　 　.　　　|
+    　　　　　　　　　　　　それはまた別の話だな　　　　　　　　　　　　　 （三））　　　.　　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 >　ﾉ　　　　　　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 / 　/ ヽ、　.　　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 / 　/ ⌒ヾ　　　.〈
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 （＿__ゝ､ 　＼／.　）
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 |＼　　 　,.1
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 |　 ＼_／...|
+
+
+    .
+
+90 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:43:49 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　つぎはその３！
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　　　こっちもシンプルだね！
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　　 　 フラッグを奪い返すだけだよ
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　　　　　　フラッグは持って帰るまでがTribes！
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿　　 持って帰ったはいいけど
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､　　　　　　 味方フラッグが無いのは日常茶飯事だけどね！
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ,.-、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ＿＿＿_　 　 　 　 ( ﾉﾞ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ／ 　　　　 ＼ 　　　i′ ヽ_ ）
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ／ ― 　　―　　＼ 　 .〉　 ,.く
+    　　　　　　 　 　 　 　 そうだお　　　　　　　　　　　 　 　 　 　 　 ／　（●）　（●）　　　＼/ 　 ハ ヽ
+    　　　　　　 　 　 　 　 CTFは奪って終わりじゃないんだお　　  |　　　（__人__） 　　　　　| 　 /　　ヾ
+    　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ＼　　　 ヽﾉ　　　　　 ／ ／　　！ ｉ
+    　　　　　　 　 　 　 　 でもその２はどうしたんだお？　　　　　　　 ＼_ 　 　　　　　　　＜、　　 〃ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ／　　　　　　　,.-､ 　 _, -｀ く '"
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 / 　　|　　 　 　 (`　 ￣ 　　　　〉
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 !　　<|　　 　 　 ヽ､__,.― --―'
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ＼_　ヽ''＾ヽ　　　　　　｜
+    　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ｀ヽ､_ﾝ′　　　　 　 |
+
+
+    .
+
+91 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:44:19 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　　　 いい質問だね
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　　　 実はその１とその３は
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　 　 　 同じプレイヤーが担当できるんだ
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　　　　　　 ポジション的には遊撃だよ！
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉　　　　　　  さらにフラッグを取りに行く途中で
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿　  同じくフラッグを取りに行く敵を倒せば
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､　　　　　  結果として同じ働きをするんだ
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　 ／￣￣＼　　　　　　　 遭遇した敵に適当に撃ったら
+    　　　／　　 _ノ　　＼　　　　　　 偶然当たって倒したとかたまにあるだろ
+    　　　|　　　 （ ●）（●
+    　　　|　　　 　 （__人__）
+    .　　　|　　　　　　　　ﾉ
+    　　　 |　 　 　 ∩ ノ ⊃
+    　　／ 　 　 .／　＿ノ　　　　 　 　 　 　 　 　 たまにとか嘘だお　　　　　　　　　 　 　 　 ＿＿＿_
+    　 (.　 ＼ ／　.／_ノ │　　　　　　　　　　　　 やる夫はそれで何度も死んでるお　　  ／　　 　 　＼
+    　　＼　 “　／_＿_|　 |　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ／　─　 　 ─　＼
+    .　　　 ＼／ ＿＿＿ /　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ／ 　 （●） 　（●） 　＼
+    　　　　　　　　 　 　 　 　 　 運が悪すぎるだろ　　　　　　　　　　　　　　　　　　 |　 　 　 （__人__）　　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ＼　 　　 ｀⌒´ 　　　,／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ／　　　 　ー‐　　　　＼
+
+
+    .
+
+92 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:44:49 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /　　　　 それじゃ最後のその２だ！
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |　　　　　　　 これはフラッグを取るために
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　　 敵が高速で飛んでくるような状況だね
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　　　　 やる夫君はもうわかっていると思うけど
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　　 空中の敵に攻撃を当てるのは
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉　　　 連射系じゃないと難しいんだ
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ＿＿＿_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ／　　 　 　＼
+    　　　　　　　　　 　 マシンガンで撃つのもやってみたけど　 　 　 　 　 　 ／　─　 　 ─　＼
+    　　　　　　　　　 　 これも結構難しいんだお　　　 　 　 　 　 　 　 　 　 ／ 　 （●） 　（●）　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 |　 　 　 （__人__）　 　　 |
+    　　　　　　　　　 　 威力も高くはないから倒しきれない事が多いお　　 ＼　 　　｀ ⌒´ 　　 ,／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 / 　　　 　,⊆ニ_ヽ、　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 /　 　 ／　r─--⊃、 　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 |　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+    .
+
+93 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:45:21 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　　  そうだね！
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　  そこで少しでもダメージを稼ぐために
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　　  プレイヤーが設置できるライトタレットや
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　　　　 地雷なんかの設置物も併用して
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　  徹底的に邪魔をするんだ
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　 　 　 　 　 　 　 フラッグを取る前に倒すのがベターだが
+    　 　／￣￣＼　　　 　 もし取られても持ち帰られる前に
+    　／　　 _ノ　　＼　　　 取り戻せばいいからな
+    　|　　　 （ ●）（●）
+    .　|　　　　 （__人__）　　 そのためにダメージを与えておくだろ
+    　 |　　　　　｀ ⌒´ﾉ
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ＿＿__
+    　　 ヽ　　　　　ノ　　ｍm　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ／ヽ 　／＼
+    　　　/　　　￣￣￣　つﾉ　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ／（●）　（●）丶
+    　　　|　　　　|￣￣￣　　　　 　 　 なるほど　　　　　　 　 　 　 　 　 　 　 　 　 /::⌒（__人__）⌒:::uヽ
+    　　　　　　　　　　　　　　　　　　　 フラッグを持って帰るまでがTribesかお　  l　　　 |r┬-|　　 　 l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ＼　　 `ー'´　　　／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 /　　　　　　　　 ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 し､　　　　　　 ﾄ､ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |　　　_　 　 l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 !___/´　ヽ___l
+
+
+    .
+
+94 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:45:56 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　  でも防御施設も弱点があるんだ
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　 直接破壊されるのは勿論
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　  ジェネレーターが停止すると
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　　　 一部を除いてそれらも機能を停止するんだよ！
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　／　─　　─＼　　　　  ちょうど昨日やった事だろ
+    　　　　　　　　　　| 　　（●）（●）|
+    　　　　 ＿＿＿_. .|　　 （__人__）　|　　　　　　 あの変な機械かお
+    　　　／　　 　 　＼　　　｀ ⌒´ 　ﾉ
+    　 ／　　─　 　 ─＼　　　　　 　.}　　　　 あれはAAの都合だろ
+    ／ 　　 （●） 　（●） ＼　　　　　}
+    |　 　　 　 （__人__）　 　 |　　　 ノ.ヽ
+    /　　　　 ∩ノ ⊃　　／∩ノ ⊃|　 |
+    (　 ＼　／ ＿ノ　|　 |／ ＿ノ　|　 |
+    .＼　“　　／＿＿|　 |　／＿＿|　 |
+    　　＼ ／＿＿＿ ／／＿＿＿ ／
+
+
+    .
+
+95 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:46:19 ID:ekFKpHXk
+
+
+
+
+
+    　 －-　　　 　 　 　 　 　 　 　 , -'" ￣ ｀ 丶、　 /
+    　 ─--　　　　　　　　 　 　 ／　　　　　　　　 ＼|
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |　　　　　 そこでジェネレーターの修理に人が行き過ぎると
+    　 ───　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　 フラッグの守りが薄くなるからね
+    　 ￣￣　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|　 　 画面の前のみんなは気をつけるんだよ！
+    　 二二二　　　 　 　 　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧
+    　 ──　 ＿＿＿　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 ま　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 さ　　二ニ　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　 に　　　　　_, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　　 陽 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　 動　　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　　　　＿＿＿
+    　　　　　／　　 ヽ､_ ＼　　　　　 でもそれだと大変じゃないかお？
+    　　　 ／（● ） （● ）　＼
+    　　／:::⌒（__人__）⌒:::::　＼　　 あのジェネレーター、簡単にぶっ壊れたお？
+    　　| 　ｌ^l^lｎー'´　　　　　　 |
+    　　＼ヽ 　 L　　　　　　　 ／
+    　　　　 ゝ 　ﾉ
+    　　　／ 　 /
+
+
+    .
+
+96 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:46:52 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　　  そんなときは施設のアップグレードだね！
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　  敵を倒したりすると
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　　  クレジットが溜まるのには気付いてるかな？
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　  施設に接近してＧキーを押すと
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉　　 クレジットを消費して強化ができるよ！
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　　　　　　　 　　　＿＿＿
+    　　　　　　　　　　　／　　 　 　＼　　　　　 おー、なんか光ったお
+    　　　　　　　　 　／　　─　 　 ─＼　　　　 アップグレードしたら壊れにくくなるのかお？
+    　　　　　　　　／ 　　 （●） 　（●） ＼
+    　　　　　　　　|　 　　 　 （__人__）　 　 |
+    　　　　　 　　 ＼　　 　　 ｀ ⌒´ 　 ,／
+    　　　　　　　　ノ　　　　　　　　　　　＼　　　　　　ｶﾁｶﾁｯ
+    　　　　　 ／´ 　 　　　　 ,. -つ──┐＼ｎ⌒i
+    　　　　　|　　　　ｌ 　 　 /　　￣ﾌ ─┘　.（| こ）
+    　　　　　ヽ　　　 -―― 　 ￣ﾉ　　　　l＼(|⊆ｿ
+    　　　　　　ヽ ＿＿＿＿,ﾉ￣
+
+
+    .
+
+97 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:47:23 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　 　 ／￣￣＼
+    　　　　　　　　　　　　　　　　 ／　　　　　　ヽ　　　　　　　　　 　 　 耐久力がアップするのは間違いないだろ
+    　　　　　　　　　　 　 　 　 ┏i　　 　 　 　 　 | ━━━━━━┓
+    　　　　　　　　　　　 　 　 　 _|__ 　　 　 　 　 | ─────┐┃　  他にもベースタレットなら
+    　　　　 　 　 　 　 　 　 __　ノ..::. ｀ ＜　　　　,' 　 　 　 　　　│┃　  発射間隔も短くなってるし
+    　　　　　 　 　 　 　 ／---‐一一- .､＼　　7ヽ、　　　　　　│┃　  リペアレートってのも強化されるらしい
+    　　 　 　 　 　 　 ／..::::::::::::::::::::::::／⌒ヽ〉_ノ j 〉 ﾄ､.　　　　 │┃　  これが何を意味しているのはよくわからないだろ
+    　　　　　　　　／..::::::::::::::::::::::::::／..::::::::.｀ヽ⊃/∠ノ　　　 　 │┃
+    　　　　　　 ／..::::::::::::::::::::::::::::/..／..::::::::::...＼ ノ　　 　 　 　 │┃
+    　 　 　 　 /.:::::::::::::::::::::::::::::: /..::::::::::::::::::..___＿ヽ　────┘┃
+    　　　　　/.:::::::::::::::::::::::::::::::::::ﾄ､ ::::::::::´¨::::::::::::::...＼　┳━━━
+
+
+
+    　 －-　　　 　 　 　 　 　 　 　 , -'" ￣ ｀ 丶、　 /
+    　 ─--　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　日本語の解説はまだ少ないからね
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |　　　　　英語wikiを読めばわかるのかもしれないけど
+    　 ───　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿
+    　 ￣￣　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　常に英語が赤点ギリギリだった>>1に読めるとは思えないね！
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　 二二二　　　 　 　 　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧
+    　 ──　 ＿＿＿　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 ま　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 さ　　二ニ　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　 に　　　　　_, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　　 阿 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　 呆　　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+    .
+
+98 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:47:49 ID:ekFKpHXk
+
+
+
+
+
+    　　　 ／￣￣￣＼
+    　　／　　　　　　　 ＼　　　 なるほど
+    　/　　　 ─　　　─　ヽ　　 その上で地形とかいろいろ考える要素があるのかお
+    　|　　　 （●） 　（●）　|
+    　＼　　∩（__人/777／
+    　／　　（丶＿//// ＼　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ／　　ヽ_　　.＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 （ ●）（ ●）　　｜
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 （__人__）　 　 　 |
+    　　　　　　　  そうだな　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ｌ｀ ⌒´　　　　｜
+    　　　　　　　  単純にセンターに捉えてクリックするだけじゃ勝てないだろ　　  {　　 　 　 　 ｜
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 {　　　　　　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 _. -: ´Λ　　　　 _.へ｀　、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 r＜: : : : /:|: :、 ￣r'　 　 ＼ :＼_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /: : :ｌ : : : : : :＼`IエL>、　 　 >ﾍ::Λ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 |: : : ﾄ､: : : : : : : : : : : : : `ｰ／ : : V　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 〈: : : :::: _ -￢-－―-､: : く:r ､: : : V ｝
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 /: : :_ン´: : : : ＼ ,___, ｨ ）: : :`く : : : ヘ|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+    .
+
+99 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:48:13 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　 　 それじゃやる夫君！
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |　　　　　　　防御の極意を教えるよ
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　 　 "防御に完璧は無い"
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　　うん！　いい言葉だね！
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉　　　 最後に勝てばいいんだよ！
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　 　 　　　＿＿＿_
+    　 　　　／_ノ　 ヽ、＼
+    　　　／（ ●） 　（●）.＼　　　　ちょ、先生今までの内容はなんだったんだお
+    　 ／　　　（__人__）　　u. ＼
+    　 |ｎi 7　　 ｀ ⌒´　　　　.　|ｎ
+    l^l | | ｌ ,/)　　　　　　U 　l^l.| | /）
+    ', U ! ﾚ' /　　　　　　.　.　| U ﾚ'/／)　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ／￣￣＼
+    {　　　 〈　　　　　　　　　ﾉ　　　 ／　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ／　 ヽ､_　　＼
+    ..i,　　 　."⊃　　　　ｒニ 　　　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 （●）（● ）　　　|
+    　."'""⌒´　　　　　　　`''""''''　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 （__人__）　　　　 |
+    　　　　　　　　　　 　 　 　 　 いや何も変なところはないぞやる夫　　　　　　　 　 　 （　　　　　 　 　 |
+    　　　　　　　　　　 　 　 　 　 前に言ったようにゲームは基本攻め有利だろ 　 　 　 {　　　 　 　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　⊂ ヽ∩　　 　 く
+    　　　　　　　　　　 　 　 　 　 それに圧倒的な速度の前じゃタレットも意味がない　  | '､＿ ＼　／　 )
+    　　　　　　　　　　 　 　 　 　 撃つ前に通り過ぎてるからな　　　　　　　　　　 　 　 　 |　 |_＼　 “　.／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ､ ＿_＼_／
+
+
+    .
+
+100 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:48:47 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　  そうだね！
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　 それに負けてもいいんだよ
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　  負けても、それが熱い戦いならそれは
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　 "Good Game"さ！
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　 　／￣￣＼　　　　　Good GameはFPSプレイヤーの憧れだろ
+    　　　／　　 ⌒　⌒＼
+    　　　|　　　 （ ●）（●）　　　　　　　 　　 　 　 ＿＿＿_
+    .　　　|　　　⌒（__人__）　　　　　　　　 　　　／⌒　　⌒＼
+    　　　 |　　　　　|r┬-|　　　　　　　 　　　／（●）　（●）　＼　　 やる夫達のの目指す最終オブジェクトだお
+    .　　　 |　　　　　`ー'´}　　＼　　　 　　／:::⌒（__人__）⌒:::::: ＼
+    .　　　 ヽ　　　　　 　 } 　　　 ＼　 　 　|　　　　|r┬ | 　　　　　|
+    　　　　 ヽ　　　　　ノ　　　 　 　＼　　 ＼　　　｀ー ´ 　　　_／
+    　　　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　 ＼
+    　　　　　|　　　　 ＼ 　＼　　　　(⌒二　　　 　　　　　　　　 　|
+
+
+    .
+
+101 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:49:09 ID:ekFKpHXk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　 , -'" ￣ ｀ 丶、　 /
+    　 　　　　　　　　　　　 　 　 ／　　　　　　　　 ＼|　　　　　　　 僕の言いたい事が伝わったようで何よりだ！
+    　　　　　　　　　　　　　 　 /　　　　　　　　　　　 |
+    　 　 　 　 　 　 　 　 　 　 i　　 _ _　　　　 _ _ 　　ヽ＿　　　　　 それじゃ僕は戻るよ
+    　 　　　　　　　　　　　　　|　／二` 　 　 "二ヽ、　|　 〉　　　　 僕の事を必要としてくれる兄貴達のもとにね！
+    　　　　　　　　　　　　 　 _| 　_,ｨiュﾐ 　 r_,ｨiュミ　　ﾚ-|
+    　　　　　　　　　　　　　 ヾ! 　　- ' r　 `ヽ ￣´　　|　∧　　　　 Bye！！
+    　　　　　　　　　　　 　 　 ﾞ!　　〃　 ＾ ＾　 ヽ　　　l-/　 〉
+    　　　 　　　　　 　 　 　 　 i　　 { ='"三二T冫 　/´＿ノ／＼＿＿
+    　　　 　　　　　　　　　　_,ｨﾍ　　ヽ ヾ== 彳　　 /:::/`ー- ､
+    　　　　　 　 　 　 _, ィ´:::::/　l＼ ﾄ､ ｰ一　/ ／::／　　　 　 ＼
+    　　 　 　 　 　 ／　 |:::::::::￣￣￣::`ｰ＝彳＿∠ ＿　　　　　　ヽ
+    　　　　 　 　 /　　　|::::::::::::::::::::::::::::(‥):::〈＿　 　 　 ＼　　 　 　 l
+    　　 　 　 r'"｀丶、　|:::::::::／:::/::::´:::::::::::::::::(＿　　　 　 ﾄ､　 　 　 |
+    　 　 ／ / `ｰ ､　＼|::::／:::::/:::::::::::::::::::::::::::(＿　　　　　　＼　　　 ＼
+
+
+
+    　　　／￣￣＼　　　　　　 先生ありがとうございましただろ
+    　 ／　⌒　⌒　＼
+    　 |　（●） （●）　|　 　 　　　　　　　　 　　＿＿＿_
+    　 .|　 （__人__） 　.|　　　　　　　 　 　　　／　　 　 　＼
+    　 .|　　｀ ⌒´　　 |　　　、、　　　　 　／　 ─　　― 　＼　　　　、  赤さん、さすがの貫禄だお
+    　　|　　　　　　　 }l⌒l　ﾉﾉ　　　　  ／ 　 （●）　（●）　　＼l⌒l　ﾉﾉ
+    .　 ヽ　　　　　 　.}`'''|　 ＼　 　 　 |　 　 　（__人__）　　 　　|`'''|
+    　　 ヽ　　　　　ノ ./　 　 　＼　 　 ＼ 　 　 ｀ ⌒´　　 　_／　/
+    　　　/　　　 く/　/　　　　　　＼ 　 ノ　　　　　　　　　　　 ／
+    　　　|　　　　　＼ ＼　　 　　(⌒二　　　 　　　　　　　　　|
+    　 　 |　　　　|ヽ、二⌒)、　　　　 　＼　　　　　　　 　　　 |
+
+
+    .
+
+102 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:49:30 ID:ekFKpHXk
+
+
+
+
+
+    　　　 　　　 ／￣＼
+    　,---､　 ／　　　　 ＼　　 ,----､　　　　　　　　　　　　　　　 　 　 　 　 　 それじゃ早速実践するだろ
+    　|　　 l　|　 　 　 　 　 |　　|　　 　|　　 　 ,---､　　＿＿　　　　 ,----､
+    　ﾞ|　　l'　|　 　 　 　 　 |　　ヽ　　/　　 　 |　　 l ／　　　　＼　　|　　　|
+    　 |　　|　|　　 　 　　　 }　　　l　　|　　 　 ﾞ|　 ／　 　　　　　　＼ヽ　　/　　　　　　  今夜は寝かさないお
+    　 |　　|　ヽ　　　　　 　}　　／　 / 　　　　|　|　　　　　　　　　 　l　　|
+    　　､　　＼_　　　　　ノ 　／　／　　 　　　|　＼　　　　　　　　／ 　/
+    　　　＼　　　 　　　'---´　／　　　 　　　　､　　＼ 　 　　　　´　／　　　　  夜になる前に帰るだろ常識的に考えて
+    　　　　 ＼　　 　 　 　　ィ　 　　　　　 　　　　＼　　　 　　 　　ィ
+    　　　　　　|　　　　　　　|　　　　　　　　　　　　　　|　　　　　　　|
+    　　　　　　|　　　　　　　|　　　　　　　　　　　　　　|　　　　　　　|
+    　　　　　　|　　　　　　　|　　　　　　　　　　　　　 /　 　 　 　 　 |
+    　　　　　　|　　　l＼　　 ＼ 　　　　　　　　　　　/　　　 / |　　　|
+    　　　　　　|　　　|　 ＼　　 |　　　　　　　　　 ／　　　／　|　　　|
+    　　　　　　|　　　|　　 /　 / 　 　　　　　　　　＼　　　ヽ, /　　 /
+    　　　　　　|　　　|　 < 　　ヽ　 　　　　　　　　　　＼__／〈　 　 ヽ
+    　　　　　　L______ヽ　 ＼_／　　　　　　　　　　　　　　　　｀ﾞ‐-‐'"
+
+
+    .
+
+103 ： <strong><span style="color:#009900">◆WMQpVtKKkc</span></strong>：2012/03/04(日) 20:49:50 ID:ekFKpHXk
+
+
+
+
+
+    　　 　 　 　 　 ＿＿＿_
+    　　 　 　 　 ／＼ 　　／＼
+    　　　　　 ／（ ○）}liil{（○）＼　 　 　 　 Woohoo！
+    　　　  ／　　　 （__人__）　　　＼
+    　　　  |　　　　　|!!il|!|!l|　　　　　|　　　  I am the greatest！
+    　　　  ＼　　　　|ｪｪｪｪ| 　 　 ／
+    　　　　  ,-＼　　　　　　　　ﾉ￣￣ヽ､
+    　　　　 /　／;;/　 i　 　　 iヽ　　　　 ﾍ
+    　　　  /／;;;;;;i　　|　 　 　 ﾍ;;;;;;ゝ---丿
+    　　　  /　＼/　　ｌ　　　　　ﾍ;;;;ヽ　　　＼
+    　　  /　 　i''''､-‐´｀'‐‐‐､　/ ﾞiヽ/´｀＼／ﾍ　　　　　　　　　人_ﾊ_
+    　　  /　　ﾍ　　｀‐‐'´￣（（￣￣∟巛巛￣￣￣￣'―´￣＜　 　　＞
+    　　  iｿ――ﾍ'´ﾍ　　---､＿＿　（（二二（（三三三三三三>　 　<
+    　　  ﾍ　　　ヽ'´ｌ巛ＥBソ|￣|ノ　｀――､＿＿三三三三　＜　　　＞
+    　　　  ＼＿iﾍ　ﾍＥＥB凵|＿|∩∩∩∩　　　　｀――､＿＿V^Ｖ^
+    　　 　 　 　 ｀'''─'''''''　　　　ヽ＿＿＿/
+    　　　　 　 　 　 |ﾍ　　 　　／　　　　|　　　　 ╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋
+    　　　　 　 　 　 |　ヽ;;　　/　　　　 　|　　　　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃
+    　　　　 　 　 　 |　 ｀‐‐‐ｌ　,---､ 　ﾉ＼　　  ┃　　　　　　　　　　 　 やる夫で学ぶTribes：Ascend　　　　　　　　　　　　　┃
+    　　　　 　 　 　 |　　　 　i,';;;;;;;;;;ヽ/｀｀''''）　　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃
+    　　　　 　 　 　 |　　　　|ゝ-----ﾍ∠´~　　 ╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋
+    　　　　 　 　 　 ヽ　　　Ｋ　　　　i´／｀ﾍ
+    　　　 　 　 　 　 ヽ'''''''フ　＼　　|　　　　＼　　　　　　　　　　　　　　 　 　 お　わ　り
+    　　　　　 　 　 　 ヽ─'´　　　ヽ-ｌ　　　　　＼
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4227/clap" id="fc2button-clap-4227" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4227").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4227/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶTribes：Ascend　第三話" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4227.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4230.html">
+					やる夫で学ぶTribes：Ascend　最終回 (2012/03/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4229.html">
+					やる夫で学ぶTribes：Ascend　第五話 (2012/03/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4228.html">
+					やる夫で学ぶTribes：Ascend　第四話 (2012/03/13)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶTribes：Ascend　第三話 (2012/03/11)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4226.html">
+					やる夫で学ぶTribes：Ascend　第二話 (2012/03/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4220.html">
+					やる夫で学ぶTribes：Ascend　第一話 (2012/03/05)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶTribes：Ascend　第三話" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/03/11 13:32 ]
+<a href="/blog-category-387.html" title="カテゴリを参照">ゲーム系　やる夫で学ぶTribes：Ascend　</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html#comment_list" title="この記事のコメントを参照">CM(1)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4227"
+    dc:title="やる夫で学ぶTribes：Ascend　第三話"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html"
+    dc:subject="ゲーム系　やる夫で学ぶTribes：Ascend　"
+    dc:description="　　╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋    　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃    　　┃　　　　　　　　　　 　 やる夫で学ぶTribes：Ascend　　　　　　　　　　　　　┃    　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ┃    　　╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋    　　　　　　　　　　　　　　ディーフェンス！デ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-03-11T13:32:14+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4239.html" title="やる夫で学ぶ初めてのぷよぷよ　れっすんさん　後編">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4224.html" title="やるおのひとりごはん　第２話　昼まで寝ていた日">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment32642">[ 32642 ] <strong></strong></p>
+</div>
+<div class="comb">
+リペアレートは回復の間隔ということで修理時の速度上昇じゃね？<div class="comment_navi">
+[ 2012/03/11 22:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4227" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4227.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4227"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4227-2169d0fa">http://oyoguyaruo.blog72.fc2.com/tb.php/4227-2169d0fa</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4239.html" title="やる夫で学ぶ初めてのぷよぷよ　れっすんさん　後編">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4224.html" title="やるおのひとりごはん　第２話　昼まで寝ていた日">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

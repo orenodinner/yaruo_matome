@@ -1,0 +1,1051 @@
+<div class="article">
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　 , ‐─-､　　　　　　　　　　　　　　　　 　 　 　 　 , -─‐- ,
+　　　　　　　 　 　 　 　 　 　 　 /.i　　　i ',　　　　　　　　　　　　 　 　 　 　 　 　 ,'.l　i　 　.!∧
+　　　　　　　　　　　　　　　 　 ,'　.l　 　 l　i　　　　　　　　　　　　　　　　　　　 　 i l　l 　 　l.　',
+　　　 　 　 　 　 　 　 　 　 　 1　 i　 　 l　ﾄ､　　　　　　　　　　　　　　 　 　 　 ,.ｲ l　l 　 　i 　 l
+　　　　　　 　 　 　 　 　 　 　 l 　 l　 　 l　l　｀' .､　　　　　　　　　　　　　　,.r ´!　 l　l　 　 l 　 l
+　　　　　　 　 　 　 　 　 　 　 l　　!.　 　i　l　i_ !　! 　 　 　 　 　 　 　 　 　 !　!.._i　l　i　 　 l　　l
+　　　　　　 　 　 　 　 　 　 　 l　　i　 　 l　l._　.i　.! 　 　 　 　 　 　 　 　 　 !.　i.　_.l　l 　 　i　　l
+　　　　　　 　 　 　 　 　 　 　 l　　l　 　 l　l　i_ !　! 　 　 　 　 　 　 　 　 　 !　! _i　l　l 　 　l　　l
+　　　　　　 　 　 　 　 　 　 　 l　　l　 　 l　l._　.i　.! 　 　 　 　 　 　 　 　 　 !.　i.　_.l　l 　 　l　　l
+　　　　　　 　 　 　 　 　 　 　 l　　l　 　 l　l._　.i　.!.,　　　　　　　　　　　　 ,.!.　i.　_.l　l 　 　l　　l
+　　　　　　 　 　 　 　 　 　 　 l　　l　 　 l　l　i_ !　! ｀ ｰ ，.,　　　　　,.，‐ ´ !　!.._i　l　l 　 　l　　l
+　　　　　　 　 　 　 　 　 　 　 l　　l　 　 l　l._　.i　.!._　.i　.!_i　　__ 　 i_!　i　_.!.　i　_ l　l 　 　l　　l
+.　　 ○｀Y´○　 　 　 　 　 　 l　　l　 　 l　l　i_ !　! l.,_.l 　 .!r'´! !｀'r ! 　l._,.l !　!_i.　l　l 　 　l　　l 　 　 　 　 　 　○｀Y´○
+_＿ . , 　| |　　　 　 　 　 　 　 l　　l　 　 l　l._　.i　.!._　.i　.,r'=ﾆ二ﾆ=ヽ　!　_.!.　i 　_l　l 　 　l　　l 　 　 　 　 　 　 　 | |　 , .＿_
+l 　 　 ｀ l l' r ､　　　　　　　　 l　　l　 　 l　l　i_ !　!._　.i,.ｨ ﾆ二三二ﾆ i.,i.　_.!　!._i　l　l 　 　l　　l 　 　　　　　　　, r 'l l ´　　　.l
+|┬┬┬.ll┬┬ ，,　　　 　 　 l　　l　 　 l　l._　.i　.!|二二二二二二二二二|!.　i.　_l　l 　 　l　　l 　 　 　　　,， ┬┬ll┬┬┬ |
+|┬┬┬.ll..l　.l_l_i__｀ ー─┬. l　　l　 　 l　l._　.i　.!|二二二二二二二二二|!.　i.　_l　l　　　l　　l .┬─ー ´__i_Ll.　l..ll┬┬┬ |
+|┬┬┬.ll.二_l_l_i_i !i riiiiiiiiii.r.,|　　l.oTo.l　l　i_ !　!.─┬‐┬──┬‐┬─.!　! _i　l　l.oTo.l　　.|,.r.iiiiiiiiiir i! i_i_LL二.ll.┬┬┬|
+|┬┬┬.lllr ＝｀'ーｭ_ヾiiii〆i,.|　　l 　l　.l　l　i_ !oTo.:..ll　 .ll　　 　.ll 　.ll. ll..:.oTo! _i　l 　l.　l　　.l　|.,iﾍiiiiッ_ｭー'´＝rlll.┬┬┬|
+!┴┴┴.ll　‐ ‐ ‐ ‐ ‐ ‐‐‐ｪｪｪｪｪｪｪｭl.,..l　l　i_ !　l:.:::.:.ll　 .ll　　　 .ll 　.ll. ll.:::: :l　! _i　l　 l..,.lｭｪｪｪｪｪｪｪ‐‐‐ ‐ ‐ ‐ ‐ ‐ll.┴┴┴!
+;:;:;:;:;:;:;:;:;:ll;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;..|r´￣.‐.‐.‐.l ‐ 二二二二二二二二 ‐..l.‐.‐.‐.￣｀r|..;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;ll:;:;:;:;:;:;:;:;:;
+;:;:;:;:;:;:;:;:;:ll＿＿＿＿＿＿＿＿r‐i´　!　￣ ￣ ￣￣ ￣￣　　　　　￣￣ ￣￣ ￣ ￣　!　｀i‐r＿＿＿＿＿＿＿＿ll:;:;:;:;:;:;:;:;:;
+.￣￣￣.ll　　　　　　　　　　 　 　 　 l ￣ ￣ ￣￣ ￣￣　　　　　　 ￣￣ ￣￣ ￣ ￣.l　　　　　　　　　　　　　　　ll.￣￣￣ 
+
+
+
+
+
+
+
+
+
+
+804 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:23:45 ID:c2pAtB36
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　 　 ｛',
+    　　　　　　　　　　　　　　　　　　　　　　 ':ﾊ
+    　　　　　　　　　　　　　　 　 　 　 　 　 　 ',ﾊ
+    　　　　　　　　　　　　　　　　 　 　 　 　 　 Vﾊ　　 　 　 　 　 　 　 　 f´￣￣￣￣￣ ｀ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　 V:ﾊ　　　　 　 　 　 　 　 |　　…ふぅ
+    　　　　　　　　　　　　　　　　　　　　　　　　 _V_ﾊ　　　　　　　　　　　ゝ＿＿＿＿＿_ ノ
+    　　　　　　　　　　　　　　 _,.　　-‐　　¨´￣　　_丶｀丶、
+    　　 　 　 　 _　 　 ／＾>'´　　　　　　　　 　 　 　 、 ＼　＼
+    　　,　-‐- 〈_ ｀¨´　　 {　　　　　　　　　　　　　 　 ＼　ヽ.　〉
+    　〃　 　 　 /)　　　 八　　　　　　　　　 　 　 　 ＼　＼｜|
+    ./　　　　　/ (__　　　　 ＼x个'ｰ---------一-､　 ',　 〕! |
+    　　 　 　 /　　 )　　　,　-‐ '´　　　　　　 　 　 　 }　 |／/:J
+    　　　　　　　　丶-,　 {　　　　　　　　 　 　 　 　 /　/{_∧/ﾊ
+    　　　　　　　 　 　 〉-'　　　 　 　 　 　 　 　 　 〔.／ 　 　‘{ ﾍ
+    　　　　　　　 　 〃　　　　　　　　　　　　　　 　 　 　 　 　 ＼',
+    　　　　　　　 ／　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ｀
+    　 　 　 　 ／
+    　　-‐ｧ'´
+
+
+
+
+
+806 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:24:23 ID:c2pAtB36
+
+
+
+
+    　　　　　　 　 　　从从w!　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 |
+    　　　　　　 　 　 ,ﾊｖＶｖwﾘ　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 |
+    　　　　　　 　 　/ﾙｗｗＶ.ヽ　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |
+    　　　　　　 　 　 ＷwwＷ　　　　　　　 　 　 ＿＿＿＿＿＿＿_＿__　　　　　　 　 　 |
+    ＿＿＿＿＿＿＿| 　 :::|＿＿＿＿＿＿_／　　　　　 　 　 　 　 ／|＿＿＿＿＿＿_.|
+    　　　　　　　　　　ヽ＿,ﾉ　 　 　 　 　 　 ［ニニニニニニニニニ／ Ｉ　　　　　　　　　 丶
+    　　　　　　　　　　　　　　　　　　　　　 　Ⅱ::::...　　　　　　 　　Ⅱ　 I　　　　　　　　　 　 ＼
+    　　　　　　　　　　　　　　　　　　　　 　　Ⅱ:::::::::.... 　 　 　 　　Ⅱ／
+
+
+    　　　　　 ､_ ＿ ＿,．'´. : : : : : : : : : : : : : : ｀丶､
+    　　　　 　 ＼　. : : : : : : : : : : : : : : : :´ ￣￣ ｀ヽ｀丶､　　　　　　　　 l　 /
+    　　　　　　　 ＼. : : : : : : : : : : : : : : : : : : : : : : : |￣ ｀ヽ: ..ｨイ　 　 　 　 ′／
+    　　　　　　　 ／. : : : : : :1: : : : : : : :, -‐‐- ､: : :.!: : : : : ﾄ､イ
+    　　､ _ ＿ ∠: : :r=＝＝1: : :!: :.!: :./三三ミﾐヽ､:!: : : : : :!: :ヽ､
+    　 　 ＼. : : : : : :L__＿ _」: : :!: :.l: / ￣￣¨¨`ヽﾐﾚ'彡1.:.:!. :.:.:.:.:.:.:ﾌ
+    　　　 　 ｀＞. .: l .: : : : l:!: : :!: : l/￣￣｀¨¨ー-- ､｀`1.:.:L. .: .:／
+    　　　　／　. : : : ／:, :ｲ:!: : :!: : l｀二二ﾆ￣｀`　　 `ヽ!.:.:|　￣
+    　　 ／ 　. : : :／.:.:.:ﾊ l:.|: : :l: : l云ﾃtrく　　　　∠ﾆ' .:!.: ﾄ､
+    　∠ _ ＿, ィ´.:.:.:.:./.ﾊ.l.:|: : :l :/辷ﾝﾉﾉ 　　　 ,rﾃﾃ.:.:. !.:.:l.:.:.>　　　　　どうしたのよ、しゃっちょー
+    　　　 ￣／.:.:.:.:.:.////l:.|: : :l |´￣　　　　 　 じｼﾞ.:.:.:. !.:.:l'´
+    　　　　　￣￣フノﾉ/l l:.|: : :l |　　　　　　　,:　 ,ﾊ.:.:.:.: !.:.:!　　　　　　　でかい溜息なんかついてさ
+    　　　　　　　 ,.ヘ　　　l.:|: : :l | ､　 　　　_,　 ,.ｲ.:.:|.:.:.:..!.:.:!
+    　　 　 　 　 /: : : .＼　l:.|: : :l |　＼　　´, .イ.:/￣|.:.:.:..!.:;′
+    　　　　　　/. : : : : : :＼N: : :l | /.:.:.｀ﾆ´ 　 !/　　|.:.:.:.:l/
+    　　　　　ノ. : : : : : : : //:l: : :l |'.::.:.:.:.:.〉〉 　 ′　 |.:.:.:.;′
+    　　,. .:'´. : : : : : : : : //.:.:.＼:l | ';.:.:.://.:l「.:.:.:｀ヽ､|.:.:.,′
+    ..:'´. : : : : : : : : : : :.//.:.:.:.://ヽl　';://.:.:.l|￣ `ヽ: l: /
+
+
+
+
+
+
+    　　　 /.../　　 　 .:　./　　.: /:　./　　　 /ミﾐﾐ､l| ﾉ-､ﾊ
+    　　.,/__/_._____ .::/ ./.　 .:: / / .′　　 /三ﾐﾐﾐi|/___.......|
+    ..,〔二､__,､___　￣｀ー‐‐‐ｦノ　.:　　 　.l　 　 `.l彡テ;／
+    ／￣7　　 .`7ヽ,-＞,r'"´ 　 ::　.:　　 .|　　　 .|::::;／
+    .　　/　　 .:::/　,ｲ ,ｒ" :.　　　.::: .:: ..._,ｘ´-､_ 　 l:::lﾊ
+    　.:/　 .:::;ｆ´／ｌ|.::ｌ::　:::,.　　 l:::;::r"　　｀`‐ `-ﾉ:i:lハ
+    :::/　.::,ｒ" / . |.|:::::l::..::ﾉ: .: :.,':::|::l　 ヽ、 　.／_ノノノ　　　　　 　 　 　 はい…　それが
+    / .:::,ｒ".〃　 .|.|::::::l::/.: .: i./.::;;|:|　 　 `′ﾄ､l ￣´
+    .::／..:〃　 .:::|.|:::://.: .::.:∥.'´ .`‐　 　 　 |:::|　　　　　　　　　　　　　 この度の消費税増税にあわせて
+    ´ .:::〃 .:::ｒ‐‐!|ﾁｲ.::　l::::l'.,ﾍ　　 　 __ _.,　':::ﾄ-ｧ　 　 　 　 　 　 　 　 各部署から賃上げの要求が出ておりまして
+    .::://.ｒ‐ｘ.|　　|ノ.|,ｒ'`,|l::|/　`i .、　, '´:::;::::)::|~
+    ://.:::`i .ﾉ　 _ !‐′ /ｌ|､lヽ、ｊL;:::`i::::／／.ｌ:|　　　　　　 　 　 　 　 　 どう対処したものかと　───…
+    '/.::::,ｘ'　　　｀`ヽ、ト､,..=,､_ i´.|1l||::/´　　ﾘ
+    :l::,ｒ".　 　 　 　 　ヽ.~　/‐｀ヽ ﾄ!!.|:l
+    |:l:::::::::::::. 　　　　　 /　/　 　 l~l､`i
+    l::l;::::::::::::::　 　 　 /　 Ｌ__　　ﾞi 　 |
+
+
+
+
+808 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:24:54 ID:c2pAtB36
+
+
+
+
+
+    ━━━━━━━━━・━━━━━━…━━━━━━━━━━━━…━━━━━━━━・━━━━━…━━━━━
+
+
+    　　　　　　　　　　　　　　　　　　ヽ人人人人人人人人人人人人人人人ノ
+    　　　　　　　　 ／￣(Ｓ）~＼　　＜　　　　　　　　　　　　　　　　　　　　　　＞
+    　　　　　　　／ ／ ∧ ∧＼ ＼＜　　そーれ、ボッキ！ボッキ！　　　 　＞
+    　　　　　　　＼ ＼( ﾟД,ﾟ ) /　/＜　　　　　　　　　　　　　　　　　　　　　　＞
+    　　　　　　　　 ＼⌒　　⌒　/　　ノ Y´｀Y´｀Y´｀Y´｀Y´｀Y´｀Y´｀Y´｀Y´｀Yヽ
+    　　　　　　　　　　）_人＿ ノ
+    　　　　　　　　　 /　　　　/
+    　　　　　 ∧＿∧ ■□ （　　　　）)
+    　　　　　（　　　； ）■□ ￣￣ヽ
+    　　　γ⌒　　　⌒ヽ ￣￣ﾉ　 ﾉ
+    ￣￣￣￣￣￣￣￣￣￣￣|
+    ━━━━━━━━━・━━━━━━…━━━━━━━━━━━━…━━━━━━━━・━━━━━…━━━━━
+
+
+
+
+    　　　　　　　ヽ: : : : :,.. : : : : : : : : :./: : : : : : : : : : : : : : : : : : : : : : ＼
+    　　 ﾄ､ _＿＿ ＞: :/ . : : : : : : : : :′: :ミﾐヽ: : : : : : : : : : : : : : : : : : :.＼　　　　　　　人_,
+    　　 ヽ .: : : : : : : :/. : : : : : /　三ミヽ彡三ﾐヽ: : : : : : : : ::!: : : : : :ヽ: : : :`ｰ---イ　　　 　て
+    　　　　＼: : : : ::/: : : : : : / ´ ￣￣￣￣￣｀ヽ: : : : : : : ::!: : : : : : : :＼.:.:.:.:.:.:.∠　　　　(´
+    　　ヽ _＿＞-イ: : : : : :.:/　　　　　　　　　＿ ..',: : : : : : ::l＼: : : : : : : : ＼:::::／　　　 ⌒
+    　　　　　　　 /: : : : : : /,. -‐=＝､ﾆ二二＿ ...,: ',: : : : : :.l　 |.:.:.:.:.: : : : : : :＼
+    　　　　　　 ././: : : : :.∧ 二ヽ　　　｀¨¨¨ ,＞=そ1: : : : :.l＼|:.:.:.:.:.: : : : : : : : :＼
+    　　　　　　/:/: : : : : /: ﾊ Y心ヽ　　 　ｨｲ 千rﾃ11: : l:l : ﾄ､:.:.:.:.:.:.:.:.:.ヽ.:.::::::::::／
+    　　 　 　 /:/1: : : : /l:/: ﾊ.廴ｿ　　　　 ヽ弋辷ｿﾉ.:.:.:.l:l::::l　 ):.:.:.:.:.:.: : : ＼￣　　　　　ちちちち、チン上げェッ！？
+    　　 　 ／|/: l: : : :/:.:l: :/ 1, , , , 　　　　　, , , , , l.:.:.://.:.:レ': :.:.:.:.:.:.:.:.:.: : : ＼
+    　　 　 ￣|:/ l: : : l: :::l:::l _人　　 ヽ　　　　　　u. l.:.://.:.:.:l:.:.:.:.:.:.:.:.:.:.:.: : : : :／ 　 　 　 そんなものを要求するだなんて
+    　 　 　 　 　 l: : : l: :::l:::l::::ノ ヽ　　ﾏ ￣｀ヽ　　 /::/.::::::::/.:.:.:.ヽ ￣ ￣ ￣　　　　　 　 なんていやらしいッ！
+    　 　 　 　 　 l: : : l: :::l:::l　　　 l＼　ヽ ＿ノ　, ｲ::/.:::/l:/:::::::::::::::＼
+    　　　　　　　 ＼: l: :::lヽ!　　 ノ:: : >　 _,. ィ´　//.:::/ﾆﾆ7⌒ヽ::::::::::＼
+    　　　　　　　　　＼: :l　　　 ￣　　　「V //.::77／.::::::::〈　　　　￣￣
+    　　　　　　　／.::::::ヽl.:::::::::::::`ｰ---1::l//.:::://.:.::::,.　-┴……‐- ､
+    　　　　 　 /.::::::::::::::::::::::::::::::::::::::::::::/:://.::://.:, ィ´. :.:.:.::::::::::::::::::::::::::`ヽ
+    　　　　　/.:.:.::::::::::::::::::::::::::::::::::::::::/::://:::: //::::::::::::::::::::::::::::::::::::::::::::::::::::::::＼
+
+
+
+
+810 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:25:46 ID:c2pAtB36
+
+
+
+
+    　　　　　　　　　　,, -ｲ´ ￣ ｀`ヽ､　　　　　　　 　 　 ＿_
+    　　　　　　　 ,.ｨ'´　 _　,r'´￣｀ヽ､　`ヽ、　　　　 　 （/⌒)）
+    　　　　　　,.ｲ　 .,-―ミ ,彡ー ､ 　 ヽ、.ﾊ　　　　　　　〔l´
+    　　　 　 ./ .,ｲ."　,ｨ=-､,r‐''''''''`i 　.l　 ｉ　i　　　　　　　Ｏ
+    　　　　 ,' .::: /i　i:,r'´　　　　　　l 　.l　　ｉ .l
+    　　　　.i .::::i　l　ll　　　　　　＿_| .　ﾍ,　.i .l
+    　　　　l ::::::| ,' .::i!　 ,,r'　　　　　l　　　ヽ,ｌ .ﾄ、　　　　　　　　　　 　 いやらしい…？
+    　　　　| ::::::ｿ.::::::`i'" _ 　　　　;'´ヽ、　　.ﾞi |.iﾍ
+    　　　　| . ;/.::i:::::::;ｌ " .`　　　　==-‐iヽ.　 l l i. ﾍ　　　 　 　 　 　 　 確かに、増税に便乗した
+    　　 　 ,!.〈.:::::l::;;イ　_,ｨ彡 　 　 　 　 l'’l ,ｲ .ｉ .ｌ . ヽ　　　　　　　　　 要求だと見ることもできますが
+    　　 　 l　ヽ;::l,'.r‐,っ、　　 　 ′ 　 / / iｌ l　l! .lヽ、ヽ
+    　　　 i! .::､_):ｌ l ﾉ,ｨヘ、_. 　 ` ´ ,ｲ //ﾉ` l　.ｌi　ｌ ヘ、ヽ　　 　 　 　 生活が苦しくなったこともまた事実でしょうし
+    　　　 l..:::::｀i:::::l　./＞i　 ﾄ'、－'／.ｌｉ/　 ｨ ! . l.ﾍ ﾍ、 ヘﾊ
+    　 　 ﾉ.:::/.:::l::､＼　く!ｊ.　.|　〉‐〈　 /ﾄ ｲ ./　ﾉ‐.､＼`ヽ、ｉ.ﾊ
+    　 .,ｲ.::;ｲ.::: /`ー ヽ ヽ, . | /ｌ:::l∨ｉ／ ／,.ｲ/ ` ﾍ　.ヽ　ヽ　i
+    . /　::,'::|.::::ｌ　 ’i |i `i　 `i l' .l:::l ,ｲ　 ,´イ i.l　　　 l　　 i l iヽl　　　　　　　　 こういうときこそ経営者として
+    .i　 :::i :::::::::l 　 .i ｌｌ...l｀`ヽ! _l:::::i'　l　i l　 ,'.l　　　 i|　　 l ｌ l　l　　　　　　　　 何か力になってさしあげたいとも思っております
+    ..V　::l　::::::.l､　 `ｌ| .|　　o.l |:::::l､. ヽｌ.l　 ｌ l　　　,'.l　　,'　/　l
+    　ﾍ　.',　::::: iﾍ　 ／!ヽ、__l_l::::::|`ヽ　i.　 ｉ.ｌ/　　i .l　 / ./　/
+    　　`i　`､ :::ヽ.ﾍ l　|　 ! |　ﾄ,::::::l￣i　i　ヽｌ　　,'　l　,' ./ ,ｲ
+    　　 ｉ .:　::.i　 .i　'|　　　 |...l. |::::/,ｲ ノ　　 ｌ　 /　.l i　,'ｲ　l
+    　,イ .:: .:::::l :::: l　l!　　　　l　i:/ i　(　　　 l　./　 l.' ./ i　 .l
+
+
+
+
+
+
+
+    　　　　　　 ／ : : : : : : :／: : : : : : : : : : : : : : : ヽ
+    　　　　　／ : : : : : : :／: : : : : : : : : : : ／ミ、: : j: : : : : :｀l
+    `ミー-彡 : : : : : : : / : : : : : : /: : : ／三ミﾐ、: i: : ; -: : : l彡′
+    ｀ヽ三: : : : :_:彡＝:l : : : : /: :,': : ／ー- ..._ヾ}:/:彡i : : : : i　　　　　　っ
+    ー彡´: : :/　　　（（ｌ:: : : :,' : ,' ／　　　　　　ミー ﾑ: : : : :i　　　　　　　　っ
+    : : : : : : : ゞ-彡´: : l: : : :i : ,／三ミ¨ ー‐-= 、　　ﾑ: : : : ﾄ、＿　彡
+    : : : : : : : : : : : : :_:_:l: : : :i : i:三ミ_ ｀ヽ　　　　　｀ヽl: l: : : :i : : : : :／
+    ヾミ: : : : : : : : :/　.i: : : :i : l:::::心 ヾヽ　　　　/￣　ﾊ : : : i: : 彡´
+    .＿,≧ー: : : : :{ 　 i: : : :i: :l:::ツ __　　　　　 /仍 ./ : l: : : l彡´　　　　　　 　 前向きに考えているというわけね
+    `ミ:_: : : : : : : : :＼_l: : : :i: :l￣´　　　　　　 {ツ_./: : : l: : :l　　　　　　　 　 　 チンだけに　──…
+    　　 ￣￣￣ﾌ:_: : : '; : : i : l .u　 　 　 　 　 、./i : : : l : ,′
+    　　　　　　 〃 ﾘ: / ';: : :i: :l　　　　　　 　　/ .,'::i: : : :l: :′　　　　　　　　　　でも、ほら急に言われても
+    　　　　　　/　 .i ﾘ /i:'; : i: :l　　　 ー ‐ ｧ　／≦ｌ: : : l ;　　　　　　　　　　　　出せるものと出せないものがあるじゃない
+    　 ム、　　　　　　ｒ┴.',: :i: l＼　　 　¨　／￣ミ .l: : :i!:;
+    . ////＞、　　　 |::::::::::'; :i ト ≧:.__　イ　　　 　 l: : ji;
+    /∧ ////＼　　 j::::::::::::': i l::::::::::i:::/　 ムヾ　　 ｌ: /.i:　　　　 　 　 　 　 　 　 　 チンじゃなきゃダメなの？
+    .〈　〉//////＼/::::::::::::::::';i;i::::::::::i::′.////∧ヽ.l:/　i|　　　　　　　　　　　　　　 現状のまま、マンでなんとか…
+    /∨////////∧ヾ::::::::::::::ヾ::::::::i人//ﾑ///∧ /　 /
+    ////////////.∧::::::ゞ;:::::::::::::::i::::::::::::云ー/∧::ﾑ
+
+
+
+
+
+811 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:26:34 ID:c2pAtB36
+
+
+
+
+    ||[[[[[[[[[[[[[[[ || ||[[[[[[[[[[[[[[[ || ||［[[[[[[[[[[[[[[[[[.||
+    ||==========|| ||==========|| ||============||
+    ||[[[[[[[[[[[[[[[ || ||[[[[[[[[[[[[[[[ || ||［[[[[[[[[[[[[[[[[[.||
+    ||==========|| ||==========|| ||============||
+    ｉ⌒⌒⌒⌒⌒ｉ|| ||[[[[[[[[[[[[[[[ || ||［[[[[[[[[[[[[[[[[[.||
+    i'--、_______, -'、 ￣￣￣￣￣￣￣￣￣￣￣￣￣＼
+    i丶_丶　　丶＼＼
+    ｣＼|　|-----ヽ|　|
+    　l＼￣￣￣￣￣￣＼
+    　| | .＼＿＿＿＿______＼
+    　　 　 | |-----------| |
+
+
+    　　　　　　　　　　 ／: : : : : : : : : :ヾﾚ : : : : : : : : : ＼　　　　　　　 　 　 ＿_
+    　　　　　 　 　 　 /: : : : : : : ,:　- : ､: : : : _,. - ‐ ､: : : :＼　 　 　 　 　 （/⌒)）
+    　　　　　　　 　 /: : : : : : ／三ミヾヾ;ヽ/ｼ彡三:三ヽ: : : :ヽ　　　　　　 　 〔l´
+    　　 　 　 　 　 ,': :/: : : :（ 彡 ﾐ ^^`´　　｀ ^'^'`ヽミ:ﾐ:',: : : : ',　　　　　　　 Ｏ
+    　　　　　　　 ,': :/ : : : : : ',／　　　　　　　　 　 　 ヾヽ! : : :l:l
+    　　 　 　 　 ,': :,': : : : : : : :ヽ _,. - ｰ　　　　 ｰ- .,_　ヽ,': : : | !
+    　　　　　　/:!: !: : : : : : : : : :ヽ　　　　　　　　　　　｀ l: : : : ! |
+    　　　　　 ,':.ﾉ: :l: : : : : : : : : : ﾉ_.ィ　 　 　 　 T 'ｰ- _ !: : :l ,': ',
+    .　　　　　l/: : : l: : .::l: : : : : /　　 ヽ　　 　 　 '　..,,_　', : : ',:ヾ:ヽ　　　　　　　　　　　（　賃ではなく、現状のまま万？
+    　　　　／: : : /ヽ .::,': : : : / 　 _,,,...　　 　 　 ヾ＝=ミlヽ: : :ヾ: .:::＼
+    　　 ／: : : : :,':/::.〉: : : : .,'　彡=＝'"　　　　　　　　　l/}: : : : l:l : .:::丶、　　　　　 　 　 つまり賃上げではなく
+    　 /: : : : : : :l/.::/: : .:::l: :!　　　　　　 　 　 l〉　 　 ､ __!/: : : :,'.::!: : :::. : ':,
+    　,': : ,': : : .:::| :（: : : .:::ヽ::ヽ､_.,　　 　 　 __ _　　　ゝ- : : ／/ .:::',: : : ::. : ',　　　　　　　 一律一万円くらいの
+    　!: : l: : : : .:::l : :ヽ: : :人::::::::く.　 　 　 　 ｰ　　 ／/: : :/: / : .::::! : : : :::. : !　　　　　　　特別手当を出そうということでしょうか　──…？　）
+    　l: : :ヽ: : : .:::ヽ: :/ノ:::::::）:::::::::}｀ﾄ　、　　　 .イ:l::/: l .::,'ヽ!: : : .::::!: : : :l::. : l
+    　ヽ: : ::',: : : .::::l : .::/::::/:::::::::/::::l　　　｀ ´ 　 !::!{: :! .:::!:. : : : : .::,' : : : l::. : :}
+    .　　＼:::!: : .:::/ .:::,'::::/ノ::::::::_／i　　 　 　 　 l::!;ヽl.::,:' : : : :_ - ': : : : :!:::. ,'
+    　　 　 ',!: : :/: .::::l . - ´＼´　　　　　　　　　 ｀／j/: : : ／::::::l::. : : : :l:::/
+    　　　 /: ／: .:::_〈　　　　　＼ー ､　 , ─　 ／ : : : : ／ ｀ヽ_:::!::. : : : ':,!
+    　　／: /.:::冫´ l:.ヽ　　　　　 ＼ 　 _,.- ´/: : : : : ／　_.ィ´　 ｀ヽ: : : .::.ヽ
+    　/: : :,'.::::/　　 !:.:.:.ヽ　 　 　 　 Χ　　 ,': : : : ／　／..:.:!　 　 　 ',::. : : .::.＼
+    .,': : : :l.:::::l　　　l:.:.:.:.:.:.＼　　 ／　 .＼ l : : : /:l ／..:.:.:.:.:l　　　 　 l::::. : : : .:::.＼
+
+
+
+
+813 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:27:22 ID:c2pAtB36
+
+
+
+
+    　　　　　　　　　　　　 　 　 　 　 ／ ,. ＿ ＿　　 /　_,. -ｰ　　　　＼
+    　　　　　　　　　　　　　　　　 .／／　 ,　　　｀`　 ／-'´￣｀　､　　､ 丶　　　〃／
+    　　　　　　　　　　　　　　　　/ /　　 λ＝- ､_　　　,,. -=ﾆ::ｰｲ　　 l,　 l,　　　　 ⌒
+    　　　　　　　　　　　　　　　 / .i'　　/:::::::::::::::::::ヽ､,イ:::;-=::､_:::::| 　 　|　 l,
+    　　　　　　　　　　　　　　　/　l　　 |彡 ' ￣｀｀｀`゛´´　　　　゛ﾌ　　　|　　l
+    　　　　　　　　　　　　　　　|　:|　　 {　　　　　　　　　　　　　 / /　　.|　　{
+    　　　　　　　　　　　　　　 /／l　i　 'l　　　　　　　　　　　　　ハ　　　|　　 ＼　　　　 　 そうですね、まずはそういたしましょう
+    　　　　　　　　　　　　　.／　　　l　　ﾊ, - '￣　　　　　￣゛`'7　{,　 　ﾋ､　　　 ＼
+    　　　　　　　　　　　 ／　　　　/　　　|　_,. -、　　　　 ,--　､＼ l,　ヽ ` ＼　 　 　 　 　 ですが、増税自体は一時的なものではなく
+    　　　　　　　　　　　_l　　　　／　　 ノ ´　　　　　　　　　＿ 　 人　 | ﾉ　　l　　　　　　　恒久的なもの
+    　　　　　　　　　 ／ ゝ、 .::/　　　 .ｲ　,,=＝ニ　　　　 'ﾆ＝= 、 | |　ν　 ./
+    　　　　　　　　／　　r-‐‐う__,∠´lﾑ_´ 　 　　　　;　　　　　　　ｿﾉイ　..／　　　　　　　　いずれは全体のベースアップも考えねばなりませんね
+    　　　　　　 ／　　　 |　T／　l　 | | ｛:`i 　　　　　'　　　　　 ゝ､ｲ::::;::／l
+    　　　　　　l　　　　　l　 | _ｲ　l,　|/　l;:人　　　　 ‐_ｰ　　　　／|::://´ /　　　|
+    　　　　　　|　　..::::::/　´ヽ:::ヽ_ゝﾄ-　|､＼ヽ. _　　　　　 ,. イ|::|::`f_'__, |:.　　　|
+    　　　　　　ヽ ::::::::::ﾍ　　 ヽ､　 `´::　ﾄ-ﾉ:ﾊ:::::::|＞ ､ r '´ |:::::|::ヽ::::.　　|::　　　|:..　　　　　　　　 思い切った構造改革なんかも視野に入れて　──…
+    　　　　　　　＞ ‐ ´ﾊ　　　 ｀i　　　/`ヽ､＿:ノ 　 　 　 　|_::::l::::::＼:..　ヽ..:|　　l:::
+    　　　　,.-‐ ´　　　　 l:　　　　l　　/　　　＼　　　　　　　　`ー‐, ､_ヽ;.　ヽ|　　 ＼
+    　　 ／　　　,　　 ＿λ:...　　　　人　　　　 `､‐-- ､　　　 ,,...../　　`‐i:: :　＼
+    　　l　　 ...:／　/´　（(ｿ:::::.　　 /　 ＼　　　　 ＼　 ｀　　´　／　　　 ﾉ:::::　　 l
+
+
+
+
+
+816 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:29:29 ID:c2pAtB36
+
+
+
+
+
+    ┌───────────────────────┐
+    │　　　　　　　　　　　 -‐　 ￣￣　｀丶、　　　　　　　　　　　　│
+    │　　　　　　　　　／　　　　　　　　　　 ヽ　　　　　　　　　　　 │
+    │　　 　 　 　 　 / /　/〃/{　{ ヽ　｀ヽ.　∧　　　　　　　　　　..│
+    │　　　　　　　　ｌ /　/斗/ハ ｨｰ‐ヽ　 ∨　l　　　　　　　　　　..│
+    │　　　　　　　　{ {　 ﾚﾃく　 ヽ＼{ヽ＼　ヾ│　　　　　　　　　...│
+    │　　　 　 　 　 乂l　f r'ﾊ　　 　 __ 7ﾊ＼ﾘ l　　　　　　　　　　 │
+    │　 (⌒⌒)　　　 .八,}弋ｿ　 　 ''⌒ｿﾉ ）　八　　　　　　　　　　│
+    │.　　ヽ〃｀ひ､ ノイ }ゝ"　ｎ　 "" { {´　　丶＼　　　　　　　　..│
+    │　　　　　　　／ rz-､_　,＞‐r＜_∧!＞､ 　 ＼丶　　　　　 　 │
+    │.　　　　, -‐"　 とノハ/　 ヽ{>ﾛ<ﾌ〈.　　ヽ　　 　 ＼　　　　....│
+    │　　　 //　　／ /　ヽ､__,／∨{　　 j>＜__〉＼ 　 丶.ヽ　　 　 │
+    │.　 　 {八　〃　ﾊ 　{　/{　 / 大　　　, <　　　}ヽ 　} 　}　　　..│
+    │　　　　　)/ ヽ（. ヽ人{　>‐ヽ/ j ＼／　 ∨} ﾉ 　ヽjｲノ　　　 .│
+    │　　　　 "　　　｀　′ ヽ ﾍ_,んく/__j＿{_／ (（　　 (　"　　　.....│
+    │　　　　　　　　　　　　　　/　 /　 |　　l　　　　　　　　　　　　 │
+    │　　　　　　　 　 　 　 　 /　 / 　 .|　　l　　　　　　　　　　　　 │
+    └───────────────────────┘
+
+
+
+
+
+    　　　　　　　ヽ: : : : :,.. : : : : : : : : :./: : : : : : : : : : : : : : : : : : : : : : ＼
+    　　 ﾄ､ _＿＿ ＞: :/ . : : : : : : : : :′: :ミﾐヽ: : : : : : : : : : : : : : : : : : :.＼　　　　　　　人_,
+    　　 ヽ .: : : : : : : :/. : : : : : /　三ミヽ彡三ﾐヽ: : : : : : : : ::!: : : : : :ヽ: : : :`ｰ---イ　　　 　て
+    　　　　＼: : : : ::/: : : : : : / ´ ￣￣￣￣￣｀ヽ: : : : : : : ::!: : : : : : : :＼.:.:.:.:.:.:.∠　　　　(´
+    　　ヽ _＿＞-イ: : : : : :.:/　　　　　　　　　＿ ..',: : : : : : ::l＼: : : : : : : : ＼:::::／　　　 ⌒
+    　　　　　　　 /: : : : : : /,. -‐=＝､ﾆ二二＿ ...,: ',: : : : : :.l　 |.:.:.:.:.: : : : : : :＼
+    　　　　　　 ././: : : : :.∧ 二ヽ　　　｀¨¨¨ ,＞=そ1: : : : :.l＼|:.:.:.:.:.: : : : : : : : :＼
+    　　　　　　/:/: : : : : /: ﾊ Y心ヽ.:.:.:.:.:.:ｨｲ 千rﾃ11: : l:l : ﾄ､:.:.:.:.:.:.:.:.:.ヽ.:.::::::::::／　　　　　　 構造の改革ッ！？
+    　　 　 　 /:/1: : : : /l:/: ﾊ.廴ｿ　.:.:.:.:.:.:ヽ弋辷ｿﾉ.:.:.:.l:l::::l　 ):.:.:.:.:.:.: : : ＼￣
+    　　 　 ／|/: l: : : :/:.:l: :/ 1, , , , 　　　　　, , , , , l.:.:.://.:.:レ': :.:.:.:.:.:.:.:.:.: : : ＼　　　　　　 　 つまりそれは性転換手術をして
+    　　 　 ￣|:/ l: : : l: :::l:::l _人　　 ヽ　　　　　　u. l.:.://.:.:.:l:.:.:.:.:.:.:.:.:.:.:.: : : : :／　　　 　 　 　 穢れたバベルの塔をまたぐらに建設しようと
+    　 　 　 　 　 l: : : l: :::l:::l::::ノ ヽ　　ﾏ ￣｀ヽ　　 /::/.::::::::/.:.:.:.ヽ ￣ ￣ ￣
+    　 　 　 　 　 l: : : l: :::l:::l　　　 l＼　ヽ ＿ノ　, ｲ::/.:::/l:/:::::::::::::::＼　　　　　　　　　 　 　 　 そんなことまで考えてんのッ！？
+    　　　　　　　 ＼: l: :::lヽ!　　 ノ:: : >　 _,. ィ´　//.:::/ﾆﾆ7⌒ヽ::::::::::＼
+    　　　　　　　　　＼: :l　　　 ￣　　　「V //.::77／.::::::::〈　　　　￣￣
+    　　　　　　　／.::::::ヽl.:::::::::::::`ｰ---1::l//.:::://.:.::::,.　-┴……‐- ､
+    　　　　 　 /.::::::::::::::::::::::::::::::::::::::::::::/:://.::://.:, ィ´. :.:.:.::::::::::::::::::::::::::`ヽ
+    　　　　　/.:.:.::::::::::::::::::::::::::::::::::::::::/::://:::: //::::::::::::::::::::::::::::::::::::::::::::::::::::::::＼
+
+
+
+
+818 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:30:27 ID:c2pAtB36
+
+
+
+
+    　　　　 　 　 　 ,l　 .;'.　　'　　　, -=- ､　　　 , -‐== 、　　`　　.i.　 l
+    　　　　　　　　 ,ｆ'L..:;l　　　　　/三二ﾆﾆ`ヽ〃ﾆﾆニ三i　　　　　ト､rヽ
+    　　　　　　　 .l,　,ｲ/! .ｉ　　　 i´　　　 　 　 　 　 　 　 ,'　 　 .ｌ　 ｌ!ヽ.`.|
+    　　　　　　　 ﾉ,l　/ ｌ　ｉ 　 　 .',　　　　　　　　　　 　 ,'　 ,　　l.　 iヽ_ﾉ!'i　　　　　　　 　 　 ,'´￣￣｀',
+    　　　　　　 〃,／...,' .:;ｌ　　　　.i　　　　　　　　 　 　 ｉ　 ::　　ヽ:.　ヽヽiﾊ　　　　　 　 　 　 ｌ 　 ：　　 ｌ
+    　　　　　,.ｲ/.'　　 '..::/　　　:　 l＿＿,, -'　　 '-,,＿__ヽ. ヽ:.　　ヽ:.　 ヽ`,ﾍ　　　　　　　 ∠.　　：　　 ｌ
+    .　 　 ,.イ ,ｲ,' .:　 .:::,ｲ.　　 .:　 /'´ ￣ｌ｀　　　　 '´l￣｀ ヽ ヽ:.　　　,:: 　 ｉ i ＼　　　　　　　 ヽ 　 ﾟ　ノ
+    　,.イ　／, ｲi　:　:::/　,　 .::;　, '　　　　 　 　 　 　 　 　 　 ∨';:.　 　 ;:.　 l l､　 ヽ、
+    '´　　 .;.イ:::ハ::. ::,'　 ｉ　.::;',ｲーﾓ元テ-　　　　　 -ﾓ元テ- 〉ｉ::: .　　l::　,',i!ﾍ　 　 ヽ、
+    　 .,.イ..::,.ｲ .,':iヽ;::i　 l　:::i ハ. ｀｀￣´　 　 　 　 　 ｀￣´´ .,',.i.l:::　　 ｉ: /iｲi、ﾍ;:::..　　ヽ
+    .'´..:;.イ　 :/:,'　 i:.', .i:i. ::.'i ｉ::ﾍ.　 　 　 　 　 ,.　　　 　 　 ./.:ﾉ,'::　.:l ,': i lハﾍ　 ` ､:::::... ヽ
+    ,.イ 　 ..:;ｲ:/.　.,'::::i: lﾊ.:::::`ミ==‐'.　　 　 　 ｌ:　　　　 ､_,=彡':::: ..:,'ｲ::: ',＿ノ:.ヽ . 　 ヽ、::
+    　,.イ::,ｲ:::/ _ノ::::/..;'::::l::::::. i. ',　li`　、　　.‐ ‐　　　,.イ ｉ:i::,' ,: i.:::i::i:::::.∧　 ﾄ;::::`...､ 　 ﾍ;
+    ,ｲ.:;:ｲ::::;ｲ ￣フｲ::;i:::::,'::i::::: ｌｉ:ｉ...i.l〈＼＞. _　　_ ＜l／〉l.:ｌ,'::i!: l::;::ｌ:';::::::ﾊl　 ｌ iヽ,::::::..ヽ、.`
+    .;:ｲ:::::;ｲi!.　 ´:::::!/ｉ::i:,'::;!:::::.i::ｌl ,' l　ヽ `ヽ、`´,ィ'´　./ .l:::l!:i.l:: ∨ ヽ､__,. 　.:i .lﾍ:ﾍ:::::::...`.､
+    '::::::,ｲ!l l! 　 ::::::.l|::ｌ:ｌl::::i::i::,':::.i ／)　,l､ （⌒)}{(⌒） /, .(＼'i!.ヽ、i!`ー'´　　,'　ｌ ﾊ:.ﾊ:::::::::
+
+
+
+
+
+
+
+    　　　　　 ､_ ＿ ＿,．'´. : : : : : : : : : : : : : : ｀丶､
+    　　　　 　 ＼　. : : : : : : : : : : : : : : : :´ ￣￣ ｀ヽ｀丶､
+    　　　　　　　 ＼. : : : : : : : : : : : : : : : : : : : : : : : |￣ ｀ヽ: ..ｨイ
+    　　　　　　　 ／. : : : : : :1: : : : : : : :, -‐‐- ､: : :.!: : : : : ﾄ､イ
+    　　､ _ ＿ ∠: : :r=＝＝1: : :!: :.!: :./三三ミﾐヽ､:!: : : : : :!: :ヽ､
+    　 　 ＼. : : : : : :L__＿ _」: : :!: :.l: / ￣￣¨¨`ヽﾐﾚ'彡1.:.:!. :.:.:.:.:.:.:ﾌ
+    　　　 　 ｀＞. .: l .: : : : l:!: : :!: : l/￣￣｀¨¨ー-- ､｀`1.:.:L. .: .:／
+    　　　　／　. : : : ／:, :ｲ:!: : :!: : l｀二二ﾆ￣｀`　　 `ヽ!.:.:|　￣　　　　　　 ,'´￣￣｀',
+    　　 ／ 　. : : :／.:.:.:ﾊ l:.|: : :l: : l云ﾃtrく　　　　∠ﾆ' .:!.: ﾄ､　　　　　　 　 ｌ 　 ：　　 ｌ
+    　∠ _ ＿, ィ´.:.:.:.:./.ﾊ.l.:|: : :l :/辷ﾝﾉﾉ 　　　 ,rﾃﾃ.:.:. !.:.:l.:.:.>　　 　 　 ∠.　　：　　 ｌ
+    　　　 ￣／.:.:.:.:.:.////l:.|: : :l |´￣　　　　 　 じｼﾞ.:.:.:. !.:.:l'´　　　　　　　　ヽ 　 ﾟ　ノ
+    　　　　　￣￣フノﾉ/l l:.|: : :l |　.u　　　　　,:　 ,ﾊ.:.:.:.: !.:.:!
+    　　　　　　　 ,.ヘ　　　l.:|: : :l | ､　 　　　_,　 ,.ｲ.:.:|.:.:.:..!.:.:!
+    　　 　 　 　 /: : : .＼　l:.|: : :l |　＼　　´, .イ.:/￣|.:.:.:..!.:;′
+    　　　　　　/. : : : : : :＼N: : :l | /.:.:.｀ﾆ´ 　 !/　　|.:.:.:.:l/
+    　　　　　ノ. : : : : : : : //:l: : :l |'.::.:.:.:.:.〉〉 　 ′　 |.:.:.:.;′
+    　　,. .:'´. : : : : : : : : //.:.:.＼:l | ';.:.:.://.:l「.:.:.:｀ヽ､|.:.:.,′
+    ..:'´. : : : : : : : : : : :.//.:.:.:.://ヽl　';://.:.:.l|￣ `ヽ: l: /
+    : : : : : : : : : : :「 ﾆﾆﾉ.::.:.://　 　 　V.:.:.: l|:. : : : : :l/
+
+
+
+
+
+819 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:31:07 ID:c2pAtB36
+
+
+
+
+
+    　　　┌──────────────────────────────── ──　─
+    　　　└────────────────────────── ──　─
+    　　　┌──────────────────── ──　─
+    　　　└──────────── ──　─
+    　　　┌──────── ──　─
+    　　　└── ──　─
+
+
+
+
+
+
+
+    　　　　　　　　　　　　　　／.: : : : : : : : : . . . .:／.: : : : : : : : : ヽ : : ＼
+    　　　　　 ｆ　　　　　　 ／..: : : : :-―-ミ､.: : :/.: : : :＼: : : : : : : :゛. : : : `: . . _＿＿__ ﾉ
+    　　　　　 {:､＿＿__ ..:'. : : :／. : : : : : :＼＼:′. . :ヽ: :ヽ: : : : ∧/: : :＼: : : : : : : :.／
+    　　　　　 乂: : : : : : : : : :/. : : : : : : ＿ : :.ヽＹ. : ／ ﾍ.: : : : :/:∧∧ : : :`ー‐　　´
+    　　　　　　　　 ｰｧ. : : : :.′: : : : /二ニ=ミ､!ｨ"´´_.. -ﾟ，: ∨/ : : : : : : : : :.＼
+    　　　　　　 　 ／. : : : : :{: :ｉ: : ｉ: 廴..　　-‐=ﾆ::::￣:::::::::ハ: :/ : : : : : }ヽ: : : : :.＼
+    　{　　　　　／. : : : : :/:.:ｉ: :| : :| :|::::::::::::::::::::::::::::_ ..　-―=}::|'. : : : : :.:|::::}: : : : : : :`: . . _＿_ ,ﾉ
+    　乂ー. . :´.:.:.: : : :／. : :|: :|: : |: |:. 　 -‐,　　´､ー――--|:|-'.: : : }: :|ヽ}: : : : : : : : : : : : :／
+    　　 ｀　 ー=≦:／. : : / |: :|: : |: |　　／′　　　　　　 ／_|:|__j,: : :.|: :| : ＼ : : : : : : : :.／
+    　　 　 　 　 ／. : :.:／.: :|: :|: : |: l ／-―　 　 　 　 　 イr'}:|ｒ'ハ.: :|: :|｀Y⌒:ー--=≦-‐ﾉ
+    　{　　 　 ／. : : ／. : : : |: :|: : l:イ _. 孑≦､　　　　　　 }以:!'とつ: |: :ﾄ 八: : : :.＼ｰ‐　´
+    　乂ー..:" : : ／.:: : : : .:.:|: :|: : i: 〃{_ノZ斗' 　 　 　 　 ´　ｉ:| 　 　'.|: :|"＼: : : : : : `: . . __　ﾉ
+    　　　 ￣ .／.: : : :._ ...イ:|: :|: : |:..ゞ とづ´　 　 　 ｉ.　　　　|:|　　　 |: :|: : : ＼ー―‐--‐　´　　　　　三ヶ月間、給料８％カットされたぉ…
+    　 ` ｰ= "-‐　　´ / : ﾉｨ|: :|: : |: ﾄ､　　　　　　 　 `　　 　 |:|　　　 |: :|: : : : : :`ーノ
+    　　　　　乂＿ ／. : : ノ:|: :|: : |: |､,＼　　　　 　 _ .　-―ｧ|:| 　 　 ′|＼ー‐　"
+    　　　　 　 ＼: : : : : : : :人 |: : |: |: ＞-.､　　　　 ｀　こ ´　|:|　 ,.ｲ :i: :|　 ` ｰ
+    　　　　　　　　 ｰ‐ 　 ´ 　 |: : |: |＿,ノハ＞　.　　　　　　 |:l／乂八.:|
+    　　　　　　　　　　　　　　 乂:.|: | 　 　 ﾉｲ{ 乂:＞　　. _..ｨjﾉ厂[:/ . :)}
+    　　　　　　　　 　 　 　 -――|: |r――＜|: :||￣￣￣:∨′: :./:／八ー――――ﾍ_
+    　　　　　 　 　 　 ／.::/ /.:::/人:||: : : : .:.:人 ||: : : : : .: /.: : : :/.': : / /.:/ / /:/.:/ /-ミ＼
+    　　　　　　　　　/ / / /ﾍ厶.-‐八: : : : : : : ｣| : : : : :./.: : :／.: : :/ /.:/ / /:/.:/ /:⌒ヽヽ＼
+    　 　 　 　 　 　 ′ / / ,:| l:.､: : : : :＼￣￣￣`: ｰ=./. : : : : :.:.:.:/ /.:/ / /:/.:/ /. : : : :.ﾟ. V∧
+    　　　　　　　　 {. :/.:/ /│|: :＼: : : : : : : : : : : : .:.:./. : : : : : : :./ /.:/: ⌒Y.::/ /.: : : : : .: l |'/ }
+    　　　　　　　　 ∨ /.:/ /|│: : : ＼: : : : : : : : : :／. : : : : : : : 〈 〈.:/ :ゝ- ' / /. : : : : : : :.| |//!
+
+
+
+
+
+820 ： <span style="color:#009900"><strong>◆08T8EOtaSs</strong></span>：2014/04/20(日) 17:31:24 ID:c2pAtB36
+
+
+
+
+
+    　　　　　 　 　 　 ＿_＿＿＿＿＿＿＿＿＿_　　　　　　　＿_＿＿＿＿＿＿＿＿＿_
+    　　　　 　 　 　 〔===||ﾏｯｽﾙCATCHER||===〕　　 　　　〔===||ﾏｯｽﾙCATCHER||===〕
+    　　　　　　　　　　|￣|｢￣||￣ | |￣￣￣||￣|　　　　　　　 |￣||￣昴￣| |￣￣￣||￣|
+    　 　 ∧＿∧. 　　|　 ||　 昴　 | ｌ∧＿∧||　 |　　　　　　　 |　 ||. ∧∧. | |　// 　 ||　 |
+    　　 （　 ・∀） 　　|＿||＿＿＿| （　　　　）＿|　　　　　　　 |＿||.(　　 ﾟ)ﾞ|_|＿＿/_.||＿|
+    　 　（　 つと)　 ｌﾆﾆﾆﾆﾆｌ―― （　　 　 ）ﾆﾆｌ　　　　　　 ｌﾆﾆﾆﾆ|　　つ ――ｌﾆﾆﾆﾆﾆｌ
+    .　　　）　）　） 　 | 匚]… |. 　 　｜　|　 |匚] |　　　　　　　| [:～（　　 |　 　 　 | …匚] |
+    　　 （＿ ）__） 　 |＿＿___|二二.（＿（＿_）＿|　　　　　　　|＿＿!し'`Ｊ二二二|___＿＿|
+
+
+
+    　　　　　　　 　 　 　 , -､r‐=＝ミ､
+    　　　　 　 　 　 　 ／ /＞ｰ―‐-､ヽ/}
+    　　　　　　 　 　 く { /　　　　 rc_／ ﾑ
+    　　 　 　 　 　 /{__ﾉ ｝―‐-　〈∠二__人_
+    　　 　 　 　 　 ヽﾆ=1　 ￣　　 {｀¨ 「}⌒´
+    　　　 　 　 　 　 　 (| .u 　 　 ,└=くﾉ　　　　　あ、そう…
+    　　　　　　　　　　　‘，　　 ＿ 　 /
+    　　　　 　 　 　 　 　 ﾄヽ　　　　. ′
+    　　　　 　 　 　 　 　 |//≫-＜|
+    　　　　　 　 　 　 _／|//{{r介}}ﾊ ､
+    　　　　_ ..　-=≦　／//,}}/　 V∧　｀ ﾆ-　.._
+    　　　く　　　＿_／////,ﾘ i　 } V/＼ 　 　 / }
+    　　　　}ヽ　 ＼///////V⌒冖},'///＼　 ′{
+    .　　　〈 　 ＼　｀¨¨ ヽ/ｉ|　　　 |iV ¨¨¨´ 　 _/
+    　　　　} ｀　　}、　　　{::||　　　 ||:}　　　/　　{　　　　　　　　　　　　　　　　　　　　　　　　　　　　【　おしまい　】 
+
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/6305/clap" id="fc2button-clap-6305" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-6305").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/10.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/6305/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="コンビニアイアンメイデン　春とうでチン上げの巻" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-6305.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li_nolink">
+				コンビニアイアンメイデン　春とうでチン上げの巻 (2014/04/21)			</li>
+<li class="relate_li">
+<a href="/blog-entry-6292.html">
+					コンビニアイアンメイデン　ねぎしのねぎしセットの巻 (2014/04/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6274.html">
+					コンビニアイアンメイデン　宗教について熱く語るの巻 (2014/03/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6228.html">
+					やらないキッチン　トンカツの巻 (2014/03/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6157.html">
+					やらないキッチン　ピーチパイの巻 (2014/01/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6032.html">
+					コンビニアイアンメイデン　すじこのおにぎりの巻 (2013/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5853.html">
+					コンビニアイアンメイデン　オレンジさん、UFOキャッチャーはこりごりでゴザルの巻 (2013/08/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5812.html">
+					コンビニアイアンメイデン　魅惑のカクテルの巻 (2013/07/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5788.html">
+					コンビニアイアンメイデン　クセになるボールペンの巻 (2013/07/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5771.html">
+					コンビニアイアンメイデン　ノーパンしゃぶしゃぶの思い出の巻 (2013/07/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5737.html">
+					コンビニアイアンメイデン　大江戸そばの肉盛りゴマ酢つけそばの巻 (2013/06/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5703.html">
+					コンビニアイアンメイデン　松乃屋のトンカツの巻 (2013/06/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5606.html">
+					コンビニアイアンメイデン　サンクススタイルワンの巻 (2013/05/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5487.html">
+					コンビニアイアンメイデン　ノザキのコンビーフの巻 (2013/03/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5458.html">
+					コンビニアイアンメイデン　餃子の王将の巻 (2013/03/23)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="コンビニアイアンメイデン　春とうでチン上げの巻" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2014/04/21 02:10 ]
+<a href="/blog-category-119.html" title="カテゴリを参照">オリジナル系　やらないキッチン</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html#comment_list" title="この記事のコメントを参照">CM(21)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/6305"
+    dc:title="コンビニアイアンメイデン　春とうでチン上げの巻"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html"
+    dc:subject="オリジナル系　やらないキッチン"
+    dc:description="　　　　　　　　　　　　　　　　　　 , ‐─&#45;､　　　　　　　　　　　　　　　　 　 　 　 　 , &#45;─‐&#45; ,　　　　　　　 　 　 　 　 　 　 　 /.i　　　i ',　　　　　　　　　　　　 　 　 　 　 　 　 ,'.l　i　 　.!∧　　　　　　　　　　　　　　　 　 ,'　.l　 　 l　i　　　　　　　　　　　　　　　　　　　 　 i l　l 　 　l.　',　　　 　 　 　 　 　 　 　 　 　 1　 i　 　 l　ﾄ､　　　　　　　　　　　　　　 　 　 　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2014-04-21T02:10:06+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6306.html" title="やる夫と学ぶ野村克也　第２２話　「逆襲の荒鷹軍団」">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6304.html" title="カリブの海と海賊たちのはなし　第五話　「ハウェル・デイヴィスのはなし」　その５">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment71850">[ 71850 ] <strong></strong></p>
+</div>
+<div class="comb">
+もしかして溜まってるの？
+俺でよかったら喜んで////<div class="comment_navi">
+[ 2014/04/21 03:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71867">[ 71867 ] <strong></strong></p>
+</div>
+<div class="comb">
+よく左遷されなかったなｗ<div class="comment_navi">
+[ 2014/04/21 07:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71870">[ 71870 ] <strong></strong></p>
+</div>
+<div class="comb">
+最初話が繋がらなかったら８％はなかったのかもw<div class="comment_navi">
+[ 2014/04/21 08:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71873">[ 71873 ] <strong></strong></p>
+</div>
+<div class="comb">
+タイトル見ただけで嫌な予感しかしなかったが
+想像以上だったよ！w<div class="comment_navi">
+[ 2014/04/21 08:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">電子の海から名無し様</a>') } else {
+document.write("電子の海から名無し様"); }
+</script>
+<noscript>
+<a href="" target="_blank">電子の海から名無し様</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71876">[ 71876 ] <strong></strong></p>
+</div>
+<div class="comb">
+クレーンゲームの時はちょっと残念くらいだったのがかなり残念な人になったなｗｗｗ<div class="comment_navi">
+[ 2014/04/21 09:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71886">[ 71886 ] <strong></strong></p>
+</div>
+<div class="comb">
+ナナリーはまともなのか<div class="comment_navi">
+[ 2014/04/21 12:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71908">[ 71908 ] <strong></strong></p>
+</div>
+<div class="comb">
+くだらねー<div class="comment_navi">
+[ 2014/04/21 17:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=71908" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71913">[ 71913 ] <strong></strong></p>
+</div>
+<div class="comb">
+実にくだらない……だがそれがいい！
+ 
+というか、ませた小学生が考えるようなアホネタを堂々とクリ出す>>1に敬礼っ<div class="comment_navi">
+[ 2014/04/21 19:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71922">[ 71922 ] <strong></strong></p>
+</div>
+<div class="comb">
+今日も安定の酷さ<div class="comment_navi">
+[ 2014/04/21 21:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71931">[ 71931 ] <strong></strong></p>
+</div>
+<div class="comb">
+純粋に残念な子とか一周して新鮮だ、が……
+やっぱオレンジ勢が面白いのは確信犯だからだよなぁｗ<div class="comment_navi">
+[ 2014/04/21 23:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71962">[ 71962 ] <strong></strong></p>
+</div>
+<div class="comb">
+つまんねえ<div class="comment_navi">
+[ 2014/04/22 18:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71964">[ 71964 ] <strong></strong></p>
+</div>
+<div class="comb">
+この世界にもまともな感性の人が居るんだな<div class="comment_navi">
+[ 2014/04/22 18:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71980">[ 71980 ] <strong></strong></p>
+</div>
+<div class="comb">
+というかこの世界の社会人にまともなヒトがいた事が驚き
+今まで唯一の常識人枠が出目川だったからなぁ……<div class="comment_navi">
+[ 2014/04/23 00:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=71980" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71992">[ 71992 ] <strong></strong></p>
+</div>
+<div class="comb">
+しかしマッスルキャッチャーは絶賛稼動中<div class="comment_navi">
+[ 2014/04/23 13:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=71992" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72006">[ 72006 ] <strong></strong></p>
+</div>
+<div class="comb">
+「春とう」が気になる！
+なんかに引っ掛けてんのか？<div class="comment_navi">
+[ 2014/04/24 15:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72012">[ 72012 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞72006さん
+春闘（賃上げ要求）ですよ<div class="comment_navi">
+[ 2014/04/24 22:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=72012" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72017">[ 72017 ] <strong></strong></p>
+</div>
+<div class="comb">
+そら回答は「あ、そう」しかないわな<div class="comment_navi">
+[ 2014/04/25 01:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72042">[ 72042 ] <strong></strong></p>
+</div>
+<div class="comb">
+>72006
+>72012
+俺もわからないんだが、
+そっちじゃなくてアッチのナニにかかってるのかってことじゃないかな<div class="comment_navi">
+[ 2014/04/26 17:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72061">[ 72061 ] <strong></strong></p>
+</div>
+<div class="comb">
+「春闘」をわざわざ「春とう」と表記するという事は、
+「賃上げ」＝「チン上げ」以外の別のエロワードにかけているんじゃないか？という疑問が頭から離れんのです
+僕、疲れているんですかね？<div class="comment_navi">
+[ 2014/04/27 23:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">72006</a>') } else {
+document.write("72006"); }
+</script>
+<noscript>
+<a href="" target="_blank">72006</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72070">[ 72070 ] <strong></strong></p>
+</div>
+<div class="comb">
+春を売るとかそういう・・・<div class="comment_navi">
+[ 2014/04/28 17:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名前はまだない</a>') } else {
+document.write("名前はまだない"); }
+</script>
+<noscript>
+<a href="" target="_blank">名前はまだない</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72108">[ 72108 ] <strong></strong></p>
+</div>
+<div class="comb">
+わかってやってるのと天然物はやっぱ違うな<div class="comment_navi">
+[ 2014/05/02 09:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6305" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-6305.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="6305"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/6305-decd096f">http://oyoguyaruo.blog72.fc2.com/tb.php/6305-decd096f</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6306.html" title="やる夫と学ぶ野村克也　第２２話　「逆襲の荒鷹軍団」">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6304.html" title="カリブの海と海賊たちのはなし　第五話　「ハウェル・デイヴィスのはなし」　その５">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

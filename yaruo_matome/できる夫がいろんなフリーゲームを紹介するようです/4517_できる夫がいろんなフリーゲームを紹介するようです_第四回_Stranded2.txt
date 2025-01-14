@@ -1,0 +1,802 @@
+<div class="article">
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼
+    　　 　 |　　　　　 __´___　　　　　|　　　　できる夫と！
+    　　　　＼ 　　 　 `ー'´ 　　　／
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /　　　｀ヽ 　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 （● ）（● ）　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 |　　|　　　　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　 　 　 できない夫でおくる！　　　　....| ___｀___　　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | 　　　 　　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ヽ　　　　　　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ヽ　　　　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 >　　　 <
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |　　　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |　　　　 |
+
+
+
+    　　　　　 　　　　　　　　 ＿＿
+    .───┐　　　　　 ／　...::::::..＼
+    ￣￣￣| |　　　　 ／　　　...::::::::::.＼
+    　 　 　 | |　　　／　　　　　...:::::::::::::.＼　　　　　　できる夫がいろんなフリーゲームを紹介するようです。
+    　 　 　 | |　　　|　　　　　　...::::::::::::::::: |
+    　 　 　 | |.　　　＼､　　......::::::::::::::::::／　　　　　　第四回。
+    二二二 」　＿　＿ ゞ　　　　...:::::::丶
+    ─┴┐ ⊆ﾌ＿)＿_./ 　 　　┌ヽ　ヽ┐
+    二二二二二二ｌ　 /　 　　 　|　 | 　 | |
+    ＿l＿＿＿＿_| ／　　　　　　|＿| 　 |_|
+    　 |　　 　 　 ／　　__,　　　　ノ　 |─l
+    　 |───/　 ／lﾆ/　 　/二ﾆ　luul.
+    　 |　 　 ___|　　|　　|　　 |_|.
+    　└─（　　　　）(ﾆ|　　 |./二ﾆ)
+    　　　　　￣￣　　/　　 ）
+    　　　　　 　 　 　 ｀ー ´ 
+
+
+
+
+
+
+
+
+122 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:57:12 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　（　　ヽ　　　　　　――――　　○　　――――
+    　　　　　　　　　　　　　　　 ,　⌒ヽ　　　　(　　　　　）　　　　　　　　　　／/ |　＼
+    　　　　　　　　　　　　　　 （　　　　'　　　（　　　　　　　ヽ⌒ヽ 、　　 ／　/　|　 　 ＼
+    　　　　　　　　　　　　　　　ゝ　　　　｀ヽ(　　　　　　　　　　　 　 ） 　 　 　 　|　(⌒ 、
+    　　　　　　　　　　　　　　( 　　　　　　　　　　､⌒　　　　　　　　　ヽ　　　　　（　 　 　ヽ
+    　　　　　　　　　　　　　(　　　　(⌒　　　　　　　　　　　　　　　　　　）　　　(
+
+    　　　　　　　　　　　　　　　というわけで、今回は無人島サバイバルACT「Stranded2」です。
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　_.． ヾr０ヾ_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　/ ,r'l０i{'０ヾヽヽ
+    　　　　　　　　　　　　　　　　　　　 　 　　 　 　 　 ~｀i,/ {!i}　ヽi´~.., -‐ノ　、
+    　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ヽ.― 、.{!i}　　...../ 　（● ●
+    　　　　　　　　　　　　　　　　　　　　　　　　 　 ●）　　l...{!i}　 　 .ゝ　　-'-ノ　　ｻﾒｪ…。
+    　　　　　　　　　　　　 　 　 　 　 　 　 　∧　　 ! 　 　 .|　{!i}　　 .|　､/ ) 　 ヽ
+    　　　　　　　　　　　.　　|ヽ.　 　 　 　 　/;;ﾍ..　.ヽ　　 ノ　 {!i}...　...`ー ′　.|)　　　　 ,;i
+    　　　　　　　　　　　　　|:::::ヽ　　　　　　　　　__r 　 　 へ、."~"'''-.し'　　　Ｊ　　　　./::|　　　　　　,;i
+    　　　　　　　　　　　.. ...|;;;;;;;;;;ヽ_....._... ,._,,..-‐''..GL　 _ィ^ ○.. ... ... .._. ... ｀ﾞ''ｰ-､,_...../;;;;;|: ... _... . ::./::|.. ..._... ._
+    　　　　　　　　　　　.::..:..:..ｰ::::..:..::.:.～|:ヽ,..:...::..:(___/｀ー'...:.. .～.::..:..:..ｰ::::..: ..::.:..:.～..: .:..: ::.:... ..: .:/::::::|:-..::::..:..:
+    　　　　　　　　　　　～.::..:..:..ｰ::::..:..:::::|;;;;;;;ヽ::..:..::... ～.::..:..: ..:..:..::.:..:...::..:..:: ... ～.::..::: ....::..:..::..:..ｰ/;;;;;;;;;;| ～.::..:..::..
+
+
+
+
+    Stranded2公式サイト
+
+ <a href="http://www.unrealsoftware.de/game_stranded2.php" target="_blank" title="ttp://www.unrealsoftware.de/game_stranded2.php">ttp://www.unrealsoftware.de/game_stranded2.php</a>
+
+
+    Stranded2日本語wiki
+
+ <a href="http://www28.atwiki.jp/stranded2/" target="_blank" title="http://www28.atwiki.jp/stranded2/">http://www28.atwiki.jp/stranded2/</a>
+
+
+
+
+
+123 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:57:43 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　 ／￣￣＼
+    　　　　／　　「　 　へ
+    　　　　|　 　（●）（●）|
+    .　　　　|　　　　 ｜　　|
+    　　　　 |　　 　__´___　j
+    　　　　 |　　　 `ー'´　}　　　Stranded2は南国無人島サバイバル物のゲームだ。
+    　　　　 ヽ　　　　　　 }
+    　　　　　 ヽ　　　 　ノ　 　　 3Dの一人称視点なのでプレイするのは嫌ーって人もいるかもしれない。
+    　　　　　　/　　　 く
+    　　　　　　|　　　　 |
+    　　　　　　|　　　 　|
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　　推奨スペックは…詳細不明です。
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　　ですが、かなり低解像度のテクスチャなので結構古いPCでもｻｸｻｸ動くと思います。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+
+124 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:58:00 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　　　　　　　っ
+    　　 　／￣￣＼
+    　　／　　 ／　　＼　　っつ
+    　　|　 　 （ ●）（●）
+    　　|　　　　 　 ｜　|
+    　　|　　　　　__´___ﾉ　　　　当然のことながら全て英語で作成されている。
+    　　|　　　　　`ー'´}
+    　　ヽ　　　　　 　 }　 　 　　英語アレルギーの方は公式サイトを見て失神しないように気をつけてくれ。
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く
+    　　　　|　　　　 ＼
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼　　　　　　もっとも、このゲームには日本語Wikiが存在しております。
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　　日本語化ファイルもありますので感謝しながら導入しましょう。
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　　間違っても>>1のように「感覚でやれるゲームなら英語でも大丈夫だよな」なんて考えないように。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+
+125 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:58:20 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　 ／￣￣＼
+    　　　　／　　「　 　へ
+    　　　　|　 　（●）（●）|
+    .　　　　|　　　　 ｜　　|
+    　　　　 |　　 　__´___　j　　　…感覚でやれるゲームじゃないのか？そう、Wikiに書いてあるぞ。
+    　　　　 |　　　 `ー'´　}
+    　　　　 ヽ　　　　　　 }
+    　　　　　 ヽ　　　 　ノ
+    　　　　　　/　　　 く
+    　　　　　　|　　　　 |
+    　　　　　　|　　　 　|
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　　アイテムの説明文を読まなかった結果、弓と釣竿なし、野宿のまま30日生きる羽目になりました。
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　 　ここの>>1は英語読めないんですよね。読める気になった結果がコレだよ！を何度もやってます。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+
+126 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:58:46 ID:hdDuzRa2
+
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　　サバイバルとはありますがきっついのは序盤だけで
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　　軌道に乗せてしまえば無人島が住みかになります。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+
+
+    　　 　／￣￣＼
+    　　／　　 「　　 ＼
+    　　|　 　 （ ●）（●）
+    　　|　　　　 　 ｜　|　　　さらに主人公は超人なのがこのゲームの特徴だな。
+    　　|　　　　　__´___ﾉ
+    　　|　　　　　`ー'´}　　 　素手で亀を解体、ライオンも素手で倒そうと思えば倒せる。
+    　　ヽ　　　　　 　 }
+    　　　ヽ　　　　　ノ　　　　骨折してようが出血してようが適切な処置をすればすぐ回復する。
+    　　　　/　　　 く
+    　　　　|　　　　 |
+
+
+
+
+
+127 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:59:09 ID:hdDuzRa2
+
+
+
+
+
+    　 　 　 　 ＿＿＿_
+    　 　 　 ／　　　　　＼
+    　 　 ／　 - 　　　　- ＼
+    　 ／ 　 （●） 　（一） 　＼
+    　|　　　　　 __´___　　　　　|　　　　ちょうちょに荷物を持たせてみたり…石でワインやジュースを作ったりします。
+    　＼ 　　 　 `ー'´ 　　　 ／
+    　/　　　　 ∩ノ ⊃ 　 ／　　　　　 ちなみに素手でココナッツ食べてますよ。
+    　(　 ＼　／ ＿ノ　|　 |
+    .　＼　“　　／＿＿|　 |
+    　　　＼ ／＿＿＿ ／
+
+
+
+    　　 　／￣￣＼
+    　　／　　 「　　 ＼
+    　　|　 　 （ ●）（●）
+    　　|　　　　 　 ｜　|　　　鉄も存在しているが、なんとソレを石のハンマーで加工している。
+    　　|　　　　　__´___ﾉ
+    　　|　　　　　`ー'´}　　　ネタバレになるから伏せるがアドベンチャーモードでは超展開の連続だ。
+    　　ヽ　　　　　 　 }
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く
+    　　　　|　　　　 |
+
+
+
+
+
+128 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:59:28 ID:hdDuzRa2
+
+
+
+
+
+    　　 　／￣￣＼
+    　　／　　　「　　＼
+    　　|　　　（ ●）（●）
+    　　|　　　　　　｜　|
+    　　|　　　　　__´＿ﾉ　　　もっとも、一応主人公は人の子だ。殴られれば痛いし、運動をすれば喉が渇き、腹も減る。
+    　　|　　　　　`ー'´}
+    　　ヽ　　　　　 　 }　　　　疲れれば眠気も出てくる。序盤は必ず水資源と食料の確保、そしてシェルター作りから始まる。
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く
+    　　　　|　　　　 ＼
+
+
+
+    　　　　　 ／￣￣￣＼
+    　　　　／　＿,ﾉ　　⌒ ＼
+    　　 ／　　（●） 　（●）　＼
+    　　| 　 　 　 、　´　 　　　　|　　　素手でライオンや亀の解体をできるのは人とは言いません。ピクルです。
+    　　＼　　　　 ￣￣ 　　　／
+    　 　ノ　　　　　　　　　　　＼
+
+
+
+
+
+129 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 19:59:45 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　 ／￣￣￣＼
+    　　　　／　＿,ﾉ　　⌒ ＼
+    　　 ／　　（●） 　（●）　＼
+    　　| 　 　 　 、　´　 　　　　|　　　さて、ゲームモードのご紹介といきましょう。
+    　　＼　　　　 ￣￣ 　　　／
+    　 　ノ　　　　　　　　　　　＼
+
+
+
+    　　 　／￣￣＼
+    　　／　　　「　　＼
+    　　|　　　（ ●）（●）
+    　　|　　　　　　｜　|
+    　　|　　　　　__´＿ﾉ　　　　アドベンチャー・シングル・ランダムの三種類だ。
+    　　|　　　　　`ー'´}
+    　　ヽ　　　　　 　 }　　 　　まずはアドベンチャーをプレイすることをお勧めする。
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く　　　　　　このゲームのチュートリアルみたいなもので、生存するための環境を用意してくれてあるんだ。
+    　　　　|　　　　 ＼
+
+
+
+
+
+130 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 20:00:04 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼
+    　　　　|　　　　　___'___　　 　　 |　　　「シングルアイランド」では、用意されたマップで妙なことができます。
+    　　　　 ＼　 　　`ー'´　　　 ,／
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+
+
+    　　 　／￣￣＼
+    　　／　　　「　　＼
+    　　|　　　（ ●）（●）　　　・チュートリアルが面倒な人向けのアイテム解説。
+    　　|　　　　　　｜　|
+    　　|　　　　　__´＿ﾉ　　　 ・タワーディフェンス
+    　　|　　　　　`ー'´}
+    　　ヽ　　　　　 　 }　　　　 ・的当てゲーム
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く　　　　　　・指定された色を覚えてカラースイッチを順番に押すゲーム
+    　　　　|　　　　 ＼
+    　　　　　　　　　　　　　　　が*デフォルト*では入っている。
+
+
+
+
+
+131 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 20:00:28 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　　　　＿＿＿_
+    　　　　　　 ／　　 　 　＼
+    　　　　　／　⌒　 　 ⌒　＼
+    　 　　／ 　 （●） 　（＜） 　＼　　　これらはゲーム中のエディタで作られたものです。
+    　　　 |　　　　　 ___'___　　　　 |
+    　　 　 ＼　 　　 ｀ ｎ´　　　,／　　　やろうと思えば自作できますし、公式フォーラムでもマップが配布されています。
+    　　　　／　　　　　| |　　　 ＼
+    ..　　　　　　　　　ﾉ .ュ
+    　　　　　　　　　{ ..ﾆj
+    　　　　　　　　.　| "ﾂ
+
+
+
+
+
+    　　 　／￣￣＼
+    　　／　　　「　　＼
+    　　|　　　（ ●）（●）
+    　　|　　　　　　｜　|
+    　　|　　　　　__´＿ﾉ
+    　　|　　　　　`ー'´}　　　軽く触っただけでその後一切手を触れていない人が多いんじゃないかな。
+    　　ヽ　　　　　 　 }
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く
+    　　　　|　　　　 ＼
+
+
+
+
+
+132 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 20:00:45 ID:hdDuzRa2
+
+
+
+
+
+    　　 　 　 　　　＿＿＿_
+    　　 　 　　　／　　　　　＼
+    　　 　　　／　⌒　　　⌒　＼
+    　　　　／ 　 （●） 　（●）　　＼　　　そして本番ともいえる「ランダムアイランド」
+    　　 　 |　　　　　 __´___　　　　　|
+    　　　　＼ 　　 　 `ー'´ 　　　／　　　難易度・島の環境などを決めて島をランダム生成、自由に生存します。
+    　　 　　ノ　　　　　　　　　　　＼
+
+
+
+    　　　　　　　　　　　っ
+    　　 　／￣￣＼
+    　　／　　 ／　　＼　　っつ
+    　　|　 　 （ ●）（●）
+    　　|　　　　 　 ｜　|　　　Easyモードはいろいろと荷物を持ち込みこちらを襲うような動物は存在しないが、
+    　　|　　　　　__´___ﾉ
+    　　|　　　　　`ー'´}　　　Hardモードは着の身着のまま、鮫のいる海に放り込まれる。ライオンとか当たり前のようにいるし、
+    　　ヽ　　　　　 　 }
+    　　　ヽ　　　　　ノ　　　　運が悪いとそのまま餌になって終了だ。
+    　　　　/　　　 く
+    　　　　|　　　　 ＼
+
+
+
+
+
+133 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 20:01:02 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　　　　 　 　　＿＿＿_
+    　　　　　　　　 　　／　　 　 　＼
+    　　　　　　　 　 ／　─　 　 ─　＼
+    　　　　　　　 ／ 　 （●） 　（●）　 ＼
+    　　　　　　　 |　 　 　　 __´　_　 　　　|　　　だが我らが主人公。パチンコで石つぶてを飛ばし、海中の鮫を倒します。
+    　 　　　　　　＼　 　　　 ￣　 　　 ,／
+    　r､　　　 　r､／　　　　　　　　　　ヘ　　 　鮫肉なのにライオンと同じ漫画肉が出てきます。
+    　ヽヾ　三　|:l1　　　　　　　　 　　　　ヽ
+    　　＼>ヽ/ |｀ ｝　　　　　　　　　 　　|　|
+    　　　ﾍ　lノ `'ｿ 　　　　　　　 　　　　|　|
+    　　　　/´　 /　　　　　　　　　　　　 |.　|
+    　　　　＼. ｨ 　　　　　　 　 　 　 　　|　 |
+    　　　 　 　 |　　　　　　　 　 　 　 　 | 　|
+
+
+
+
+    　　　　　　　　　　　っ
+    　　 　／￣￣＼
+    　　／　　 ／　　＼　　っつ
+    　　|　 　 （ ●）（●）
+    　　|　　　　 　 ｜　|　　　　ロケットランチャーとか出てくるし、やる夫スレ向きだと思うんだけどなぁ…
+    　　|　　　　　__´___ﾉ
+    　　|　　　　　`ー'´}　　　　誰かやらないだろうか。
+    　　ヽ　　　　　 　 }
+    　　　ヽ　　　　　ノ
+    　　　　/　　　 く
+    　　　　|　　　　 ＼
+
+
+
+
+
+134 ：<strong><span style="color:#009900">ミントドリンクWithココア ◆d2PmdJDO/s</span></strong>：2012/05/18(金) 20:01:32 ID:hdDuzRa2
+
+
+
+
+
+    　　　　　　／￣￣＼
+    　　　　 ／　　　　　　＼
+    　 　 　 |　 　 -‐' 　へ　|　 　　「minecraft」のように
+    　 　 　 |　 （ ●) ( ●） |
+    　 　 　 |　　　　 ｜　　│　　　…アイテムを組み合わせて新しく作るとか、いろんな物を殴ってアイテムを手に入れるとか
+    　 　 　 |　 　 ､__´___ 　 ｌ
+    　　　　 ヽ　　　　　　　 !　　　　結構肝心な情報を出し忘れている気がする…。
+    　　　　　 ヽ　　 　 　 ノ
+    　　　　　　/　 　 　 く
+    　　　　 　/　 　 　 　 ヽ
+
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　 　 　＼
+    　　　　 　／　─　 　 ─　＼
+    　　　　／ 　 （●） 　（●）　 ＼　　　手探りでやるのが楽しいんです。
+    　　　　|　　　　　___'___　　 　　 |
+    　　　　 ＼　 　　`ー'´　　　 ,／　　　左クリックで殴って右クリックでアイテム使用を覚えておけばなんとかなります。
+    　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+    　 　　/ 　　　 　,⊆ニ_ヽ、　 |　　　　ESCキーでメニューが出せるのは万国共通です。
+    　　　/　 　 ／　r─--⊃、 　|
+    　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _ｎ_,､ 　 .　 　 _ ｎ＿　　　　　 ｎ ｎ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 └i rﾍ〉　　　　l ﾘ r┐|　　　　...ｌ｣ l l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 （才Ｐ_）　　　 └1」 L｣　　 　 　 .rリ
+
+
+
+
+
+    序盤の生存が一番楽しいゲーム、それが「Stranded2」
+    お暇があったらお試しあれ
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4517/clap" id="fc2button-clap-4517" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4517").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/3.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4517/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="できる夫がいろんなフリーゲームを紹介するようです　第四回　Stranded2" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4517.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5232.html">
+					できる夫がいろんなフリーゲームを紹介するようです　番外編　『World of tanks』 (2012/12/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5231.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１４回　『Notrium』＆『Crimsonland』 (2012/12/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5042.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１３回　『勇者百年計画』 (2012/10/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5033.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１２回　『絶対的人狼』 (2012/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4946.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１１回　『Wraith』 (2012/09/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4874.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第１０回　『行商！』 (2012/08/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4717.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第９回　RPG特集 (2012/07/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4586.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第８回　Rogue Suvivor (2012/06/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4559.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第7回　Dwarf Fortress (2012/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4532.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第六回　MuscleTracer (2012/05/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4527.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第五回　歴史隆々 (2012/05/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				できる夫がいろんなフリーゲームを紹介するようです　第四回　Stranded2 (2012/05/19)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4490.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第三回　kkrieger (2012/05/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4481.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第二回　Gearhead (2012/05/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4472.html">
+					できる夫がいろんなフリーゲームを紹介するようです　第一回　Progress Quest (2012/05/06)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="できる夫がいろんなフリーゲームを紹介するようです　第四回　Stranded2" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/05/19 10:04 ]
+<a href="/blog-category-404.html" title="カテゴリを参照">ゲーム系　できる夫がいろんなフリーゲームを紹介するようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html#comment_list" title="この記事のコメントを参照">CM(5)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4517"
+    dc:title="できる夫がいろんなフリーゲームを紹介するようです　第四回　Stranded2"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html"
+    dc:subject="ゲーム系　できる夫がいろんなフリーゲームを紹介するようです"
+    dc:description="　　 　 　 　　　＿＿＿_    　　 　 　　　／　　　　　＼    　　 　　　／　⌒　　　⌒　＼    　　　　／ 　 （●） 　（●）　　＼    　　 　 |　　　　　 __´___　　　　　|　　　　できる夫と！    　　　　＼ 　　 　 `ー'´ 　　　／    　　 　　ノ　　　　　　　　　　　＼    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ／￣￣＼    　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-05-19T10:04:51+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4513.html" title="やる夫で学ぶ恐竜　第１３話　恐竜が好きな人はホネホネロックも好きだと思う">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4520.html" title="やらない夫となのはさんと珈琲豆と。　埋めネタ　抹茶の入れ方">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment36848">[ 36848 ] <strong></strong></p>
+</div>
+<div class="comb">
+話だけ聞くと結構面白そうだ<div class="comment_navi">
+[ 2012/05/19 11:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4517" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36852">[ 36852 ] <strong></strong></p>
+</div>
+<div class="comb">
+こいつの魅力はこれに加えてさらに大規模なパッチファイルを色んなユーザーが作成している事にある
+それこそゲームシステムの根幹をいじったものや、アイテムを増やしたものまで
+日本語化パッチも当然ある……が
+一番面白そうだったパッチファイルがドイツ語で作られており、どうやってもバグが起こってしまうので挫折した……；；<div class="comment_navi">
+[ 2012/05/19 12:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4517" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36884">[ 36884 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんという超人。うらやましすぎるｗｗ
+同じサバイバルなのにのサバイバルやる夫もこんな感じだったら楽だろうにｗ<div class="comment_navi">
+[ 2012/05/19 23:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4517" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36885">[ 36885 ] <strong></strong></p>
+</div>
+<div class="comb">
+>36884
+全くだなw
+やる夫じゃなくてハルヒがこんなだったら、とも思うけど
+それじゃやる夫スレの意味が無いかw<div class="comment_navi">
+[ 2012/05/19 23:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4517" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36921">[ 36921 ] <strong></strong></p>
+</div>
+<div class="comb">
+このゲームはバニラ状態だとすぐやることがなくなるんだ。
+ランダムアイランド・ハードでやっても、ゲーム内時間100日めくらいで、恐竜全部手懐けるとかできちゃう。
+その先は延々スキルアップ作業とかになるんだけど、正直ただの作業。<div class="comment_navi">
+[ 2012/05/20 15:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4517" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4517.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4517"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4517-0aa6a89b">http://oyoguyaruo.blog72.fc2.com/tb.php/4517-0aa6a89b</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4513.html" title="やる夫で学ぶ恐竜　第１３話　恐竜が好きな人はホネホネロックも好きだと思う">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4520.html" title="やらない夫となのはさんと珈琲豆と。　埋めネタ　抹茶の入れ方">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

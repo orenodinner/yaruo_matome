@@ -1,0 +1,1433 @@
+<div class="article">
+
+
+
+
+
+＜ＰＣゲームの売上を（少しだけ）調べてみた＞
+
+
+
+
+　　　　 ／￣￣＼
+　　　／　　 _ノ　　＼　　（ ;;;;(
+　　　|　　　 （ ─）（─　　) ;;;;)　　　　　　 ＧＷを利用して、図書館でいろいろ調べものをしていたんだが……
+　　　|　　　 　 （__人__）　/;;／
+.　　　|　　　　　　　　ﾉ　l;;,´
+　　　 |　　　　　∩ ノ)━・'　　　　　　　 　 ファミ通ゲーム白書に、ＰＣゲームの年間売り上げランキングがのっていた。
+　　／　　　　／ ＿ノ´
+　 (.　 ＼ ／　.／ 　 │　　　　　　　　　　 以前話にあがった、信長の野望（PC版）の売上数字を調べてみたんだが……
+　　＼　 “　／_＿_|　 |
+.　　　 ＼／ ＿＿＿ /　　　　　　　　　　　＜　ＰＣゲーム（非エロ）のランキングはなかなかないんだよな
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　 　 　 ＿＿＿_
+　　　　　　　　　　 　 ／　　 　 　＼
+　　　　　　　　　　 ／　─　 　 ─　＼
+　　　　　　　 　 ／ 　 （●） 　（●） 　＼　　　　おっ
+　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |
+　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／
+　　　　　　　 　 ／　　　 　ー‐　　　　＼
+
+
+
+
+
+
+
+
+
+577 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 00:59:36 ID:HDqs73po
+
+
+
+
+
+    　　　　　　　　　　 　 　 /7
+    　　 　 　 　 　 　 　 　 //
+    　　　　　　　　　　 　 //
+    　　 　 　 ＿＿　 　 //
+    .　　　 ／ノ　ヽ＼ .//
+    . 　 ／　（●）（●〉/　　　　　　　　　とりあえず、2006/03発売の
+    　　l　 　 （__人_,//l
+    .　　|　　 　｀⌒// ﾉ　　　 　 　 　 　 「信長の野望　革新」がトータル12万ぐらい売れてるようだ。
+    　　 l 　 　 　 // ./
+    .　　 ヽ r-‐''7/）/　　　　　　　　　　 本体合計 86,917　+ with PK 33,932 = 約12万ね。
+    　 　　/　と'_{'´ヽ
+    　 　 /　 _.､__〉　ﾄ,　 　 　 　 　 　 　 (※ソースネクスト版含まず、ＰＢＯＸ含む）
+    　 　 {　 ､＿_}　 |.i
+    　 　 ヽ　_,.ﾌ　　.|.|
+
+
+
+
+
+
+
+
+
+
+    　　　　　　　　　　　　　 ／￣￣＼　　　 　 　 　 　 　 初年度(2006年）の販売本数が5万本ぐらいなんだが、
+    　　　　　　　　 rヽ　　／　ノ　　＼ ＼
+    　　　　　　　　 i　!　　|　 （●）（●）　|　　　　　　　 　 そのあと、2007年、2008年とずっと売れ続けているのが
+    　　　　　 r;r‐r/　| 　 |　　（__人__）　 |
+    　 　 　 〈_L (｀ヽ .}　　|　　 ｀ ⌒´　　ﾉ　　　　　　　 　 ＰＣゲームとしての特徴だな。
+    　　　　　l｀ （ ｀`/　.　 |　　　　　　　 }
+    　　　　　ヽ 　　l　　.　 ヽ　　　　　 　}　　　　　　　　　  息長く売れるソフトといえるだろう。
+    　　　　　　|,. 　 l　　 /⌒　 　ー‐　　ｨ ヽ
+
+
+
+
+
+578 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 00:59:49 ID:HDqs73po
+
+
+
+
+    　 　　 ／￣￣＼
+    　 　／　　 _ノ　　＼
+    　 　|　　　 （ ー）（ー）
+    .　 　|　　　　 （__人__）　　　　　　　 　 　 　 ただ、同じ調べ方で「三国志」を調べたら、
+    　 　 |　　　　　｀ ⌒´ﾉ
+    　 　.ｌ^l^lｎ　　　 　　}　　　　　　　　　　　　 三国志X　　 44,657 + wpk(12,986) = 約 5.7万
+    .　　 ヽ 　 L　　　 　}　　　　　 　 　 　 　 　 三国志11　　46,926 + wpk(27,624) = 約 7.4万
+    　 　　ゝ 　ﾉ　　　ノ
+    　 　／ 　/　　　 ＼　 　 　 　 　 　 　 　 　 ぐらいで、ちょっとおかしいんだよなあ……？？
+    　 ／　 /　　 　 　　＼
+    . /　　/　　　　　　|ヽ、二⌒)､
+    　ヽ＿＿ﾉ
+
+
+
+
+
+
+
+
+
+    　　　 ／￣￣￣＼
+    　　／　　　　　　　 ＼
+    　/　　　 ─　　　─　ヽ　　　　　　　　「信長」に比べると、ずいぶん少ないお？
+    　|　　　 （●） 　（●）　|
+    　＼　　∩（__人/777／
+    　／　　（丶＿//// ＼
+
+
+
+
+
+579 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:00:03 ID:HDqs73po
+
+
+
+
+
+    　　 　　 ＿_　　　　 ━┓
+    　　　 ／　～＼ 　　┏┛
+    　　／ ノ　　(●)＼　・
+    .　｜　(.／) 　 ⌒）＼　　　　　　　　　　 そうなんだよ。コンシューマだとだいたい
+    .　｜　　 （__ノ￣　　 ＼
+    　　＼　　　　　　　　　 |　　　　　　　　　 「三国志」＞「信長の野望」っていう売上になるみたいだし、
+    　　　　＼　　　　　　　/
+    .　　　　　 ＼　　⊂ヽ∩　　　　　　　　　 こんなに少なくなるとは考えにくいんだけど……
+    　　　　　　/´　 　 (,＿ ＼.
+    　　 　 　 /　　　　　　 ＼. ＼　　　　　　 データか、見方か、どこかおかしいと考えたほうがいいかもしれない。
+    　 　 　 ./ 　 / 　 　 　 |. ＼ソ
+    　　　　（ 　y'　　　　　 .|
+
+
+
+
+
+580 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:00:27 ID:HDqs73po
+
+
+
+
+
+    　　　 　　　　　 ／￣￣＼
+    　　　　 　　　／　_ノ　 ヽ､.＼
+    　 　 　 　 　 | 　（●）（●）　.|　　　　　　　 しかも、なんでか２００４－２００８の間しか
+    　　　　　　 　!　　（__人__）　 |
+    　 　 　 　 　 , っ　 ｀⌒´　　 |　　　　　　 　 売上数字がのってなかったので、
+    　　　　　　 /　ミ）　　 　　　/
+    　　　　 　./　ノゝ　　　　　/　　　　　　　　　2003年「天下創世」2009年「天道」はデータなし。
+    　　　　 　i　ﾚ'´　　　 　　ヽ
+    　　　 　　|　|／|　　　　 |　|　　　　　　　　　 ＜　たぶん、集計元が変わったからだけど。
+
+
+
+
+
+
+
+
+
+
+
+
+    　 　 　　　＿＿＿_
+    　 　　　／　　 　 　＼
+    　　　／　─　 　 ─　＼
+    　 ／ -=・=- 　　-=・=-　＼　　　　　　　　ありゃりゃ。また間の悪い……
+    　 |　 　 　 （__人__）　　U 　|
+    　 ＼　　 　 ｀ ⌒´ 　　　 ／
+
+
+
+
+
+581 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:00:42 ID:HDqs73po
+
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　　　_ノ ＼
+    　|:::::: 　 　 （● ） ）
+    .　|:::::::::::　　 （__人)　　　　　　　　　　　　 　 　 　 　 ついでに……こいつをしらべててＰＣゲーム市場の状況も
+    　 |::::::::::::::　　｀⌒´ﾉ　　　　　　　　　　....,:::´,　.
+    .　 |::::::::::::::　　　　} 　　　　　　　　　....:::,,　　..　　　　 目の当たりにすることになっただろ……。
+    .　 ヽ:::::::::::::: 　　 } 　　　　　　 　,）:::::::ノ　.
+    　　 ヽ::::::::::　　ノ　　　　　　　　（:::::ソ:　.
+    　　　/:::::::::::: く　　　　　　 　　,ふ´..
+    　　　|:::::::::::::::: ＼ 　　　　　 ノ::ノ
+    　 　 |:::::::::::::::|ヽ、二⌒)━~~'´
+
+
+
+
+
+582 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:01:00 ID:HDqs73po
+
+
+
+
+
+
+    ※実売ランキング　　ファミ通ゲーム白書　2009-2011より
+    ┌────────────────────────────────────┐
+    │　　 　 .|　2008年　　　　　　　　　.|　2009年　　　　　　　　...|　2010年　　　　　　　　　 　 　　│
+    │1位　　|　MHF　3.0　　　　　　　....|　MHF　5.0　　　　　　......|　FF14　コレクターズED　　　　│
+    │2位　　|　MHF　4.0　　　　　　　....|　信長の野望　天道　　|　FF14　　　　　　　　　　 　 .　　│
+    │3位　　|　FF11　ヴァナコレ　　　.|　MHF　7.0　　　　　　......|　MHF　7.0　　　　　　　　　 .　　│
+    │4位　　|　クラナド フルボイス　　|　MHF　6.0　　　　　　......|　MHF　8.0　　　　　　　　　 .　　│
+    │5位　　|　MHF　2.0　　　　　　　....|　MHF　2周年　　　　　 .|　MHF 2010　　　　　　　　....　　│
+    └────────────────────────────────────┘
+    　　　　　　　　　　 　 　 /7
+    　　 　 　 　 　 　 　 　 //
+    　　　　　　　　　　 　 //
+    　　 　 　 ＿＿　 　 //
+    .　　　 ／ノ　ヽ＼ .//　　　　　　　　とりあえず各年の上位売上を出してみた。
+    . 　 ／　（●）（●〉/
+    　　l　 　 （__人_,//l
+    .　　|　　 　｀⌒// ﾉ
+    　　 l 　 　 　 // ./
+    .　　 ヽ r-‐''7/）/
+    　 　　/　と'_{'´ヽ
+    　 　 /　 _.､__〉　ﾄ,
+    　 　 {　 ､＿_}　 |.i
+    　 　 ヽ　_,.ﾌ　　.|.|
+
+
+
+
+
+
+
+    　　　　　　　　　＿＿＿_
+    　　　　　　　 ／⌒　　⌒＼ 　 　 　 　　━━┓┃┃
+    　　 　　 　／（ ￣） 　（＿）＼　　　　　　　　 ┃　　　━━━━━━━━
+    　　　　 ／::::::⌒（__人__）⌒:::: ＼ 　 　 　 　　┃　　　　　　　　　　　　　　　┃┃┃
+    　　　　|　　　 ゝ'ﾟ　　　　　≦　三　ﾟ｡　ﾟ　　　　　　　　　 　 　 　 　 　 　 　 　 　 ┛
+    　　　　＼ 　 ｡≧　　　　　　　三　＝=-　　　　　　　　　　　モンハンだらけっ！？
+    　　　　　　　 -ｧ,　　　　　　　　≧=-　。
+    　 　 　　　　　ｲﾚ,､　　　　　　　＞三　　｡ﾟ　･　ﾟ
+    　　　　　　　 ≦｀Vヾ　　　　　　　ヾ　≧
+    　　　　　　　 ｡ﾟ　/｡･ｲﾊ ､､　　　　｀ミ　｡ ﾟ　｡ ･
+
+
+
+
+
+583 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:01:22 ID:HDqs73po
+
+
+
+
+
+    　　　　　　　　　　　　　　　_____
+    　　　　　　　　　　　　 ／ ￣ ￣＼
+    　　　　　　　　　　　／　　　 　 　　＼　　　　　　　　　　 2008-2010の3年間、ベスト５の15本のうち、10本。
+    　　　　　　　　　　　| 　　 　_,.ノ '(ゞ､_|
+    　　　　　　　　　　　.|　　　 （ ー）ヽ ヽ　　　　 　 　 　 　 2/3がモンハンだ。
+    　　　　　　　　　　 ノ| U 　　（___人_＼＼__
+    　　　　　　 ____-‐./l l|、　　　 ｀⌒（⌒_　　 ＼
+    　　　 ,,-=ﾆ_::::::､::l ::::! ヽ. 　　　　　し「、　　　 ＼
+    　　 / ::::::::::: ヽ::::::)::::::|　｀ヽ.　___´ノ ヽ ヽ、..,,____i_　　　　 「携帯市場で圧倒的に強い」というイメージがあるモンハンだが、
+    　　i :::::::::::::::::: ヽく::::::::ヽ　 / ￣ lヽl:::::〉::::Y________l_
+    　　l :::::::::::::::::::::: ヽ:::y:::::ヽ/､＿_l 　!:: /::::| ::::::::::::::: |　　　 実は、「ＰＣゲーム市場でも圧倒的な強さ」と
+    　　 ! :::::::::::::::::::::::: l::::＼::::ヽ　l　ヽ.l::: l::::: | ::::::::::::::: |
+    　　 ヽ :::::::::::::::::::::::: ヽ:::＼::::ヽl　　l!::: l:::: | ::::::::::::::: |　　　いっていいのかもしれん……。
+
+
+
+
+
+
+
+
+
+
+    　　　　　　　　　　　　　／￣￣＼
+    　　　　　 　 　　　　 ／　　ヽ_　　.＼
+    　　　　　　 　 　　 （ ●）（ ●）　　｜
+    　　　　　　　　　　 （__人__）　 　 　 |
+    　　　　　　 　 　　　ｌ｀ ⌒´　　　　｜　　　　　　　　　　　　 各パッケージ
+    　　　　　　　　　　　{　　 　 　 　 ｜
+    　　　　　　　　　　　{　　　　　　 /　　　　　　　　　　　　　　だいたい3-5万本売れているわけだが、
+    　　　　　　　_. -: ´Λ　　　　 _.へ｀　、
+    　　　 　 r＜: : : : /:|: :、 ￣r'　 　 ＼ :＼_　　　　　　　　　  2010年は、ＭＨＦのパッケージがなんと
+    　　　　/: : :ｌ : : : : : :＼`IエL>、　 　 >ﾍ::Λ
+    　　　　|: : : ﾄ､: : : : : : : : : : : : : `ｰ／ : : V　|　　　　　　　　 ベスト１０に６本ランクインしている。
+    　 　 〈: : : :::: _ -￢-－―-､: : く:r ､: : : V ｝
+    　　　 /: : :_ン´: : : : ＼ ,___, ｨ ）: : :`く : : : ヘ|
+    　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+
+
+
+584 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:01:37 ID:HDqs73po
+
+
+
+
+
+
+    　　　　　　 　 　 　／￣￣ ＼
+    　 　 　 　 　 　　_.,ノ　ヽ､,_　　＼
+    　 　 　 　 　 　 (＝ ) (＝ )　　　|
+    　 　 　 　 　 　 （__人___）　　u　| 　 　　　　　　⌒ヽ　　 　 　 　 2010年にいたっては、ランキング５０のうち21本が、
+    　　　　　　　　　 '､　　　　　　　 |　　　____ 　,.-、ヽ､
+    　　　　　　 ,,.　-ｰ|　　　 　　 　 |ヽ__∠___ゝ」　r'　　　　 　 　 　 ＭＨＦをリリースしているイーフロンティア社から出ている。
+    　　　　　 / .::::::、::|　　　　　　 /ｨ::::〔 _,.-ｰ 　｀'r-、
+    　　　　　 l :::::::::::::::::ヽ__､____,.　":::/:::〔／　　　 l:::. ヽ　　 　 　 　 上位に集中していることもあり、ＰＣ市場の半分近くは
+    　　　　　」 ::::l:::::::::::::::「二二::::／ :::::::ﾄ､ y　　　|::::::. ',
+    　　　　　l ::::::ヽ:::::::::::::::::::::::::::::::::::::::::::::::r　　　　l:::::::: i　　　　　　 ここがもってるといってもいいかもなあ……。
+    　　　　/ :::::;;:ｰミ､:::::::::::::::::::::::::::::::::::::::::::ヽ､＿ ノ L::::|
+    　　　/ :::::::::::::::::ヽ::::::::::::::::::::::::::::::::::::::::::::く:::::::::::::::: i::|
+    　　/ ::::::::::::::::::::/ヽ::::::::::::::::::::::::::::::::::::::::::「 :::::::::::::::: ||
+    　 / ::::::::::::::::::::/　　＼::::::::::::::::::::::::::::::::::::V :::::::::::::::: |
+
+
+
+    ┌────────────┐
+    │※2010年トップ５０より　　　　│
+    │　　　　　　　　　　　　　　　　　 │
+    │イーフロンティア　２１　　　　 │
+    │コーエー　６　　　　 　 　 　 　 │
+    │エレクトロニックアーツ　６　　│
+    │スクウェアエニックス　５　　　 │
+    │サイバーフロント　３　　 　 　 │
+    └────────────┘
+
+
+
+
+
+585 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:02:05 ID:HDqs73po
+
+
+
+
+
+    　　 　　 ＿_＿__　　　　　━┓
+    　　　 ／　―　　 ＼ 　　 ┏┛　　　　  これ、
+    　　／ノ　　( ●)　　 ＼　 ・
+    .　｜ ( ●) 　 ⌒）　　　|　　　　　　　　 ………2010年の実売ランキングなのに、
+    .　｜　　 （__ノ￣　　　 /
+    .　｜　　　　　　　　　/
+    　　＼＿　　　 　 _ノ＼　　　　　　　　　 39位に「魔法使いの夜」が入ってるのはなんでなんだお？
+    　　　　/´　　　　 　 　 |
+    .　　　 |　　/　　　　　　|
+
+
+
+
+    ────────────────────────────────────
+    　　39位　2010/09　ノーツ　　　魔法使いの夜　初回版　　　　　ＡＤＶ　8000円
+    ────────────────────────────────────
+
+
+
+
+
+    　　　　　　　 ／￣￣￣￣￣￣￣￣￣＼
+    　　　　　　／ ;':::::::::::::::::::::::::::::::::::::::::::::::::::'; ＼
+    　　　　 ／　;'::::::::::::::::::::::::::::::::::::::::::::::::::::::::';　 ＼
+    　　　／ 　 ;:::::＼::::::::::::::::::::::::::::::::::::::::／::::::;　　 ＼
+    　　│　　 ;::::::::::::＼:::::::::::::::::::::::::::::／::::::::::::::;　　　|
+    　　│ ＿＿＿＿＿　 　:::::::::::::＿＿＿＿＿　 　 l
+    　　│　│::::::::::::::::│　､ :;:;:;:;:; ﾂ│::::::::::::::::│. 　 |
+    　　│　│::::::::::::::::│ 　 .;:;::::::　 │::::::::::::::::│.　 │　　　　　　　………大丈夫！　ファミ通のランキングだよ！
+    　　│　 ヽ::::::::::::::::ﾉ　　:;:;:;:;:;:;:;;゛ ヽ::::::::::::::::ﾉ.　　│
+    　　│　　;::::::: 　　::::::::::::::::::::::::::::::::: 　 　 　 　 　 │
+    　　│　　;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::; 　 　 │
+    　　│　　;:::::::::::（＿＿＿人＿＿＿）::::::::::;　U　　|
+    　　│　　;:::::::::::::::::::|＿＿＿＿＿|:::::::::::::::;　　 　 |
+    　　│　　.;:::::::::::::::::::　　　　　　　::::::::::::::;　　　 　 |
+
+
+
+
+
+586 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2012/05/04(金) 01:02:20 ID:HDqs73po
+
+
+
+
+
+    　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　／　 ＼　 　 ＼
+    　　　　　　　　　　　 .（●）（● ） 　u.　|
+    　　　　　　　　　　　　（__人__） 　u　 　|　　　　 　 　 　 　 　 ま、マジメな話、データ提供はＢＣＮらしいので、
+    　　　　　　　　　　　　.(｀⌒ ´　　　　　|
+    　　　　　　　　　　　　 { 　 　　　　　　|　　　　　　　　　 　 　 そっちに文句いうべきなのかなあ。
+    　　　　　　　　　　　　　{ 　 　　　u.　/
+    .　　 　 　 　 　 　　＿＿＼　　　　 /ﾘ 厂`'‐- .._　　　　　 　 たぶん、前払い予約系のを売上としてカウントしちゃった
+    　　　　　　　　　／ :　　: :介ｰz＜__｣// |: : : : : : :ヽ
+    　　　　　　　 　 | : : : : ::〈　｢｀乂/ 　/ 丿: : : : : : : |　　　　　 集計対象店舗があったんじゃね？
+    　　　　　　　　　| : : : : : /: |　{::::}　/ `7: : : : : : : :│
+    .　　　　 　 　 　 | : : :　〈: :│ {::::l /. :/. : : : : : : : : |
+
+
+
+
+
+
+
+
+    　　 　 　 　 ／￣￣￣ ＼
+    　　　　　 ／　　 :::::＼:::／＼
+    　　 　 ／　　 　｡<一>:::::<ー>。　　　　　　　　まあ、参考程度ってことでひとつよろしくですお。
+    　　 　 |　　　　.:::｡ﾟ~（__人__）~ﾟj
+    　　 　 ＼、　　　゜　｀ ⌒´,;／゜
+    　　　　／　 ⌒ヽﾟ 　'"'"´(;ﾟ　｡
+    　　　/　,＿ ＼　＼／＼ ＼
+    　 　 と_＿＿）_ヽ＿つ_;_ヾ_つ.;.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ┼ヽ　 -|r‐､.　ﾚ　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ｄ⌒)　./|　_ﾉ　 __ﾉ
+
+
+
+    上のほうで書いたとおり、コンシューマだと
+
+    革新(2006)　　PS2　8.9万　+ WPK 3.1万 + Best2.0万
+
+    ぐらいなので、
+    この時期だと、だいたい、コンシューマ売上＝ＰＣ売上なんでしょうかねえ。
+    データ不足すぎて、ちょっと推測としては弱いですが。
+
+    まあ、ＰＣゲームの売上データは収集難しいんでしょうねえ、いろいろと……。 
+
+
+
+
+
+
+<hr size="1"/>
+
+
+
+
+　　　　　　　　　　　　今ＰＣゲーってなんかあったっけ？
+　　　　　　　　　　　　エロゲとネトゲとＦＰＳ以外に
+　　　　＿＿
+　　 ／　　　＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）　　　　　　　　　　　 　＿＿＿_
+.　|　　　　 （__人__）　　　　　　　　　　　／　　　　　＼
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　 ／―　　 ―　 　＼　　　　　　ファルコムやコーエーもコンシューマーや携帯機に行ったし
+.　 |　　　　　　 　 }　　　　　　　　 ／ （● ）　（● ）　 　 ＼　　　　割れも多いしなー
+.　 ヽ　　　　　 　 }　　 　 ＼ 　 　 |　　　（__人__）　 　　 　　|
+　　 ヽ　　　　　ノ　　　　 　 ＼　　＼　　　　　 　　　 　 _／　　　　 同人界隈ならまだ多いような気がするけど
+　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　＼　　　　 ツクールゲーとか東方とか
+　　　|　　　　 ＼ 　＼　　　　(⌒二　　　　　 　 　 　 　 　 |
+　 　 |　　　　|ヽ、二⌒)、　 　 　 　 ＼　泳ぐ管理人｜　 |
+
+
+
+
+　　　　　　　　ＰＣ自体の普及率は昔とは比べ物にならないくらい増えたのにねえ
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4453/clap" id="fc2button-clap-4453" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4453").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/6.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4453/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やるやらで学ぶゲームの歴史　小ネタ　ＰＣゲームの売上を（少しだけ）調べてみた" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4453.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5731.html">
+					やるやらで学ぶゲームの歴史　外伝その９　「ファミマガ編集部奮闘記」 (2013/06/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5547.html">
+					やるやらで学ぶゲームの歴史　ゲームの歴史とは関係のないネタ２　「スクエニ本社で酒を飲んできたよ」 (2013/04/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5515.html">
+					やるやらで学ぶゲームの歴史　ゲームの歴史とは関係のないネタ「脱出ゲームに参加してきたよ」 (2013/04/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5256.html">
+					やるやらで学ぶゲームの歴史　小ネタ　大川功の名刺 (2013/01/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5196.html">
+					やるやらで学ぶゲームの歴史　埋めネタ　久夛良木健という男の実像 (2012/12/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5007.html">
+					やるやらで学ぶゲームの歴史　外伝その８　脳とゲームとその教授 (2012/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4565.html">
+					やるやらで学ぶゲームの歴史　小ネタ　検証「エニックスの例のコンテストは出来レースだったのか？」 (2012/05/30)				</a>
+</li>
+<li class="relate_li_nolink">
+				やるやらで学ぶゲームの歴史　小ネタ　ＰＣゲームの売上を（少しだけ）調べてみた (2012/05/04)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4368.html">
+					やるやらで学ぶゲームの歴史　小ネタ　デジキューブ顛末記 (2012/04/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4280.html">
+					やるやらで学ぶゲームの歴史　小ネタ　唐突に売上分析 (2012/03/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4274.html">
+					やるやらで学ぶゲームの歴史　外伝その７　「紅のプログラマ」 (2012/03/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4194.html">
+					やるやらで学ぶゲームの歴史　小ネタ　星の弁護士 (2012/02/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3754.html">
+					やるやらで学ぶゲームの歴史　外伝その６　この手で世界を！ (2011/10/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3698.html">
+					やるやらで学ぶゲームの歴史　外伝その６ ゲーム本紹介「死ぬまでにやりたいゲーム１００１」 (2011/09/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3609.html">
+					やるやらで学ぶゲームの歴史　外伝その５ THE立役者 (2011/08/18)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やるやらで学ぶゲームの歴史　小ネタ　ＰＣゲームの売上を（少しだけ）調べてみた" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/05/04 12:00 ]
+<a href="/blog-category-290.html" title="カテゴリを参照">ゲーム系　やるやらで学ぶゲームの歴史</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html#comment_list" title="この記事のコメントを参照">CM(41)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4453"
+    dc:title="やるやらで学ぶゲームの歴史　小ネタ　ＰＣゲームの売上を（少しだけ）調べてみた"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html"
+    dc:subject="ゲーム系　やるやらで学ぶゲームの歴史"
+    dc:description="＜ＰＣゲームの売上を（少しだけ）調べてみた＞　　　　 ／￣￣＼　　　／　　 _ノ　　＼　　（ ;;;;(　　　|　　　 （ ─）（─　　) ;;;;)　　　　　　&#8194;ＧＷを利用して、図書館でいろいろ調べものをしていたんだが……　　　|　　　 　 （__人__）　/;;／.　　　|　　　　　　　　ﾉ　l;;,´　　　 |　　　　　∩ ノ)━・'　　　　　　　 　 ファミ通ゲーム白書に、ＰＣゲームの年間売り上げランキングがのっていた。　　／　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-05-04T12:00:02+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4452.html" title="やる夫達の村に羆嵐が吹くようです　終章　───慟哭の谷───">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4448.html" title="やる夫が天覧試合で投げるようです　第３話　アカとラッパ">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment35635">[ 35635 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCでゲームしなくなったよね～
+まほよは久々にやったPCゲーム<div class="comment_navi">
+[ 2012/05/04 12:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35636">[ 35636 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCは性能が一定じゃないせいでゲームするのメンドイ……。
+しかもちょっと最新のゲームしようとしたら目ん玉飛び出すぐらい高価なパーツが要求される上に、ゲーム機なんか目じゃない速度で陳腐化するからなぁ。
+普及帯PCで出来るようなゲームなら、コンシューマーで良くね？ってのが正直な所じゃなかろうか。<div class="comment_navi">
+[ 2012/05/04 12:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=35636" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35639">[ 35639 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCでやるなら、輸入盤のゲームオススメ。
+海外開発のソフトでも有名どころなら日本語化のパッチがあるし、
+日本開発のソフトならそのままインスコしても日本語でプレイできる。
+そして、なにより安い。<div class="comment_navi">
+[ 2012/05/04 13:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35642">[ 35642 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>35636
+ただ、その事前準備の段階で篩いにかけられちゃうから、個人的にプレイしてるPCのスパ4では、ケンカうってくる変なヤツがほとんどいないって利点があるっちゃあるかな。<div class="comment_navi">
+[ 2012/05/04 13:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35648">[ 35648 ] <strong></strong></p>
+</div>
+<div class="comb">
+米35639
+そして和訳版正式リリースで誤訳に驚愕。どことは言わないけど機械翻訳で製品出荷とか狂気の沙汰。それだったら英語の辞書さえあればどうにかなる輸入盤の方が余程まし。<div class="comment_navi">
+[ 2012/05/04 14:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35650">[ 35650 ] <strong></strong></p>
+</div>
+<div class="comb">
+※35648
+あるある。
+ユーザーの作ったパッチの訳の方がよっぽど正確だったりすることもしょっちゅうだよね。<div class="comment_navi">
+[ 2012/05/04 14:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35660">[ 35660 ] <strong></strong></p>
+</div>
+<div class="comb">
+2010年は■の地雷が１・２とってるのか・・・<div class="comment_navi">
+[ 2012/05/04 15:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35665">[ 35665 ] <strong></strong></p>
+</div>
+<div class="comb">
+pcゲームはどこもそんなもんだよ
+アメリカにしても家庭用ゲームの４％ぐらいしかないし
+ 
+ちょっと前シムズが１億超えたとか発表されてたけど
+よくよく見ると、累計入場者数が１億人を超えたって発表だったんで笑った<div class="comment_navi">
+[ 2012/05/04 16:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35666">[ 35666 ] <strong></strong></p>
+</div>
+<div class="comb">
+これsteamなどのようなDLプラットフォームはカウントできないから実際の正確な数字はよくわからないよねえ<div class="comment_navi">
+[ 2012/05/04 16:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=35666" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35673">[ 35673 ] <strong></strong></p>
+</div>
+<div class="comb">
+>2010年の実売ランキングなのに
+> 39位に「魔法使いの夜」
+ 
+ﾜﾛｽ<div class="comment_navi">
+[ 2012/05/04 17:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=35673" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35674">[ 35674 ] <strong>管理人のみ閲覧できます</strong></p>
+</div>
+<div class="comb">
+このコメントは管理人のみ閲覧できます<div class="comment_navi">
+[ 2012/05/04 17:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">-</a>') } else {
+document.write("-"); }
+</script>
+<noscript>
+<a href="" target="_blank">-</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35680">[ 35680 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCスペックのバラツキがネックなんだろう
+最高でも最低でも理不尽になりそうだもな<div class="comment_navi">
+[ 2012/05/04 18:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35691">[ 35691 ] <strong></strong></p>
+</div>
+<div class="comb">
+未だにPCゲーの売上日本一なのは「ザナドゥ」らしいしな。<div class="comment_navi">
+[ 2012/05/04 19:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35700">[ 35700 ] <strong></strong></p>
+</div>
+<div class="comb">
+エロゲの売り上げは数年前までは出てたはず
+最近は出なくなったけど<div class="comment_navi">
+[ 2012/05/04 21:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35711">[ 35711 ] <strong></strong></p>
+</div>
+<div class="comb">
+ハーツオブアイアンシリーズはよくプレイするわ。
+面倒臭さもあり、でも遊び方が決まっていないから、
+気楽さもあり。
+ 
+第二次大戦後シナリオで世界が第三次大戦してる中、
+日本で軍隊一切作らずエコノミックアニマルやったり
+あの自由度は見習いたいところ。
+ 
+<div class="comment_navi">
+[ 2012/05/04 22:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35734">[ 35734 ] <strong></strong></p>
+</div>
+<div class="comb">
+'80～'90年代は家庭用ゲーム機・・・っつーかファミコンの性能限界やレーティングから、
+ハイティーン～アダルト層向けの非エロPCゲームだけでやってけたソフトハウスも多かった。
+光栄や日本ファルコム、エニックスやコナミなどFCと両立できたところもあれば、
+工画堂スタジオ、日本テレネット、ウルフチーム、ゲームアーツetc...<div class="comment_navi">
+[ 2012/05/05 01:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35740">[ 35740 ] <strong></strong></p>
+</div>
+<div class="comb">
+HoIはなんというかユカイなゲームだ<div class="comment_navi">
+[ 2012/05/05 02:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35742">[ 35742 ] <strong></strong></p>
+</div>
+<div class="comb">
+ウルフチームとか懐かしすぎて吹いたw
+グラフィックと音楽、演出センスはすごかったよw
+ 
+あれで中身も良ければ言うことなしだったんだがなあ・・
+<div class="comment_navi">
+[ 2012/05/05 02:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35744">[ 35744 ] <strong></strong></p>
+</div>
+<div class="comb">
+35636
+「これで○○できますか？」　→「グラボ買ってこい。○万くらいな。あと、CPUとSSD。合わせて～・・・」
+ってなるからな。
+今の家庭用に普及してるPCって大抵オンボードだし。PCあるから出来るよね？、で買ってきても、まぁ、動かん。
+グラボ？なにそれ？ってな人も多いから敷居高いし。
+ 
+35650
+だな。翻訳代1000円程度とかなら別に出してもいいや、とは思うがアプデで追加された分には対応してないとかザラだし、何か追加資料入ってたりするわけでも無いのが多いしね。
+SPORE、sims3、Mount &amp; Blade、トロピコとかちょいちょいやるけどアプデかけると差分が英語化するのあるから結局有志の翻訳MOD当ててるわ。
+コンシューマと違って、ニッチなのも結構あるから漁ってると結構おもしろいんだけどな、PCゲー。<div class="comment_navi">
+[ 2012/05/05 02:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35747">[ 35747 ] <strong></strong></p>
+</div>
+<div class="comb">
+ところでMount&amp;Bladeのやる夫って需要あると思う？
+<div class="comment_navi">
+[ 2012/05/05 04:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35749">[ 35749 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCゲーならModで遊べるシミュレーションゲームなんか家庭用とは一味違ってくるが
+Modが充実してるゲームとなると数年間にわたってじわじわ売れてくるから瞬間的な売り上げだとパッとしない<div class="comment_navi">
+[ 2012/05/05 06:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35752">[ 35752 ] <strong></strong></p>
+</div>
+<div class="comb">
+35747
+やらない夫メインのやつあったなぁ
+エタになったけど<div class="comment_navi">
+[ 2012/05/05 09:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35758">[ 35758 ] <strong></strong></p>
+</div>
+<div class="comb">
+この手の数字は実際のとはかなり違ってるらしいねぇ。音楽だがアニメの円盤だったかゲームだったか忘れたけど、2万本くらい実際のものと差があった、なんて話を聞いたことあるし。
+ 
+企業内にはちゃんとした数字のデータとかあるんかな。まあ、よく会社が潰れたりする業界だから、大抵は残ってなさそうだけど……<div class="comment_navi">
+[ 2012/05/05 11:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35759">[ 35759 ] <strong></strong></p>
+</div>
+<div class="comb">
+ファルコムが英雄伝説をPSPに移植するときにPCゲームを愛する社員からもの凄く異議が出たけど
+社長は経営者としてそれじゃ駄目だと思ったって言ってたなぁ…
+やっぱりPCゲームは売れないのかね？<div class="comment_navi">
+[ 2012/05/05 11:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35764">[ 35764 ] <strong></strong></p>
+</div>
+<div class="comb">
+いやー、PCゲームをメインでやる人は
+Steamで買ってるパターンが多いと思うんだよね。<div class="comment_navi">
+[ 2012/05/05 13:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35765">[ 35765 ] <strong></strong></p>
+</div>
+<div class="comb">
+英雄伝説は零以降PSPだけになったしね・・・
+中国ではPC版があるらしいが<div class="comment_navi">
+[ 2012/05/05 13:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35769">[ 35769 ] <strong></strong></p>
+</div>
+<div class="comb">
+たとえばエロゲーに関しては売上本数の１割が、秋葉原だけでの成績と言われてる。
+大手以外ではソフトハウスの営業が売り場担当に直接交渉して納品数を決めている状態。
+ 
+今みたいにメーカー直販やアマゾンなどのネット通販やSteamに代表されるDL販売が
+盛んでもなかった時代、PCゲームの販売数拡大は容易なことじゃなかった。
+企業としてはどういう形でも生き残っていくことが先決だから、人の目につきやすい
+家庭用ゲーム機業界に向かったのは仕方ないんじゃないかな。<div class="comment_navi">
+[ 2012/05/05 14:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35788">[ 35788 ] <strong></strong></p>
+</div>
+<div class="comb">
+最近の内蔵VGAはそこそこ性能が上がってきたけど、C2Dより前のものは3Dはおまけだったしなあ。
+下調べせず買ってきて「ノートじゃ無理です」「デスクトップならPS3より高いVGAを買って下さい」
+ではライト層が寄り付かないのも当然。<div class="comment_navi">
+[ 2012/05/05 18:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35816">[ 35816 ] <strong></strong></p>
+</div>
+<div class="comb">
+要求してくる性能が高すぎんだよ
+お陰でPCゲーの最新作なんてできるわけない<div class="comment_navi">
+[ 2012/05/06 00:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35835">[ 35835 ] <strong></strong></p>
+</div>
+<div class="comb">
+まあ、海外直輸入盤とかカウントに入ってないだろうしなあ。
+（入ってても誤差程度な気もするけど）
+ 
+個人的にはPC98⇒Win3.1, Win95への移行期に国内メーカーが
+軒並み失速した理由が知りたい。<div class="comment_navi">
+[ 2012/05/06 07:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35841">[ 35841 ] <strong></strong></p>
+</div>
+<div class="comb">
+MHFは3Dゲームにしては結構軽い方だからそういう意味ではやりやすいよねぇ、
+パッケージ買えば武器と防具の素材に消費アイテム色々、何日か分のプレイ用クーポンとか
+ついてくるし、なんといってもモンハンだから売れるのもまぁ納得できる気もする。<div class="comment_navi">
+[ 2012/05/06 09:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment35848">[ 35848 ] <strong></strong></p>
+</div>
+<div class="comb">
+専らマウスのおかげでストラテジーやミニスケープはPCでやってるな
+steamでDL購入するのが基本になるからこういうランキングには載らないだろうけど
+ 
+PCゲームをDL購入するような人は、そこそこコアなゲーマーだろうから売り上げ自体には大勢は無いと思うけど
+PCの売り上げを語るにはDL販売について触れないと余り意味が無いような気もする<div class="comment_navi">
+[ 2012/05/06 10:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=35848" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36274">[ 36274 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCゲームはコンスタンスに遊んでいるけど
+パッケージは5年ぐらい買ってない　DLのみ<div class="comment_navi">
+[ 2012/05/09 17:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36321">[ 36321 ] <strong></strong></p>
+</div>
+<div class="comb">
+これからはPCゲーより携帯スマホゲーの時代という気もする<div class="comment_navi">
+[ 2012/05/10 21:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37456">[ 37456 ] <strong></strong></p>
+</div>
+<div class="comb">
+割れが無ければもっと流行ったかも知れんのにな。
+ 
+>>35765
+イースもね。セルセタの樹海を早く出せというに。<div class="comment_navi">
+[ 2012/05/30 00:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=37456" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37511">[ 37511 ] <strong></strong></p>
+</div>
+<div class="comb">
+むしろPCゲーの方にこそ可能性を感じるな
+パソコンの普及台数や、コンシューマーの衰退を見ているとね…
+コンシューマーは大手ばかりになって多種多様なゲームがあまり期待が出来なくなったけど、
+PCゲーは同人に近い感覚で面白いゲームを作っている個人が増えている気がする
+最近だとMinecraftが一番の衝撃だったな…<div class="comment_navi">
+[ 2012/05/31 18:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37567">[ 37567 ] <strong></strong></p>
+</div>
+<div class="comb">
+PCゲーは普通のPC（家電量販店などで販売されてる奴）では安定してプレイできない場合が多いからな
+最新のゲームをまともにプレイするなら軽く10万はするだろうしな
+それ考えたら本体3万程度で最新高水準のゲームをプレイできるCSはどれだけすごい存在か<div class="comment_navi">
+[ 2012/06/02 03:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=37567" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment44699">[ 44699 ] <strong></strong></p>
+</div>
+<div class="comb">
+以前買っていたコンプティークにエロと非エロが
+一緒のＰＣゲーのランキング載っているが
+ランクインしてるゲームは９割型エロゲーである
+非エロのＰＣゲーは儲からないんだなと感想を持ったよ<div class="comment_navi">
+[ 2012/10/06 07:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=44699" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45251">[ 45251 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本でのPCゲーは486時代に死んだままだな、以降エロだけであとはネトゲパッケが売れる程度
+アメリカはFPSで勢いついたPCゲー強いね
+未だ抜かれてない「ザナドゥ」の恐ろしいところはあの時代、コピーが結構当たり前の状況の上、今のように普及台数多いわけでもないのにあの本数が売れたところ
+コピーを仮に含めたら、ゲームを全くしない人除けば当時本体持ってた人の8割方は所有していたのではないかと<div class="comment_navi">
+[ 2012/10/11 10:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48627">[ 48627 ] <strong></strong></p>
+</div>
+<div class="comb">
+※45251
+ザナドゥはコピーガードが強くてツールが流れるまで時間が稼げてた気がする
+こんなの尋常じゃない人気に比べたら十分に小さな事だけど<div class="comment_navi">
+[ 2012/12/06 21:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50203">[ 50203 ] <strong></strong></p>
+</div>
+<div class="comb">
+※37511
+俺は3万くらいの中古パソコンでMount&amp;Bladeとかトロピコをやりまくってたな。
+DL販売にはまるとコンシューマーとか割高すぎて買う気がおきない。
+ 
+もう少し低スペック＆ローコストでできるPCゲームが増えれば
+新たな市場になりそうなんだけどね。
+ハード以外にも始めるまでの準備やゲームの進め方でも初心者には敷居が高いと感じる事が多いよね。<div class="comment_navi">
+[ 2013/01/08 22:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4453" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4453.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4453"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4453-f92bf558">http://oyoguyaruo.blog72.fc2.com/tb.php/4453-f92bf558</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4452.html" title="やる夫達の村に羆嵐が吹くようです　終章　───慟哭の谷───">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4448.html" title="やる夫が天覧試合で投げるようです　第３話　アカとラッパ">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

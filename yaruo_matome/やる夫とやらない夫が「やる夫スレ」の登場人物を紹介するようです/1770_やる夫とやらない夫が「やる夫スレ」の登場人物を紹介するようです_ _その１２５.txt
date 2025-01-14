@@ -1,0 +1,864 @@
+<div class="article">
+
+
+
+
+
+
+
+
+　　　　　　　.　-‐ ''　￣￣　‐- . 
+　　　 　 ／:..　　　　　　　　 . : .:::ヽ 
+.　　　, ':.:. :.　　　　　　　　　. : .:.:::::ヽ 
+　　 /::.:.:. .　　 　 , ⌒　ー-　.__,;.-‐､', 
+.　 ,'::.::.:.. :　　 　 :　　　　　　　　　　 ヽ:! 
+　 i:::.:.:._,.-､,,　　 } 　 　 ― 　 　 ―　 ＼:t 
+　_レ'´... _ゝ'__,. /　　（ (;;;;;) ）　（(;;;;;) ）ヽ:::} 
+. {::.:._,.-'´'´ ゝ;/ 　　　　　　　　　　　 　 |:::ﾍ 
+. 冫{´:.. ._;.イt:冫　　 　　（___人___,）　　 |:::::ﾉ　　　　　　　　 やる夫と！ 
+/:::｀ｰァ{:.ヽ｀　}　　　　　 　｀ー ´　 　　/＾´ 
+ヽ:__;ノ　!:.:.:.:「 　　　　　　　　　　　　.／ 
+　　　　,j:.:.:.:rl＼　　　　　　　　　　／ 
+　　　彡気/｀ヽ､｀ヽ　　　　　　´´/ 
+　 彡イﾊ/: : : : : 丶 ｀ ｰ-　..__,,.ィ 
+. 〈/幺//: : : : : : : : :｀丶､._　　{,ハ 
+　 ｀ヽУ: : : : : : : : : : : : : : ￣VY戈ｰ:､ 
+　　／: : : : : : : : : : : : : : : : : : ﾍ气 ヽﾐﾍ 
+,／: : : : : : : : : : : : : : : : : : : : : : V衣,〉ｰ}７ 
+: : : : : : : : : : : : : : : : : : : : : : : : : :V巛Y/ﾐ{ 
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／　ノ　　＼ ＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　 （●）（●）　| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　|　　（__人__）　 | 
+　　　　　　　　　　　　　　　やらない夫の　　　　　　　　　　　　　　　　　　|　　 ｀ ⌒´　　| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　 |　　　　　　　 } 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　 ヽ　　　　 　 ノ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,ﾍ1、 　 　 /へ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_　 -イ::::::::::,ﾍ　 ／／::::::｀ト-　　 _ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／: : : : : :!::::::::::::, ﾍ/ /::::::::::::/: : : : : : :＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／: : : :i: : : : !::::::::::::::ゞ_/::::::::::::/: : : : : !: : : : ＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ./: : : : : :!: : : : ヽ::::::::::::／:::::::::::/: : r'1: : ! : : : : : : 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/: : :/: !: :!: : : : : : ＼／:::::::::::／: : : iz!}: : i : : : : : : 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　./: : : :!: :l: :i: : : : : : : :/:::::::::::／: : : : : |Z1: : !: : : : : : 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /: : : : :i: : V: : : : : : ／::::::::／::: : : : : : :!ｷ!: : i : : : : : : 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　. /: : :/: : l: :/:: : : : :／::::::::／: : : : : : : : : :!ｷ!: : l: j1: i : : 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/: : : :! : : l: :! : : :／::::::::／: :rｭ ､: : : : : : : !ｷ!: : !/1: :l:/ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　: : : : i! : : i: :!::／::::::::／ : : ::'-<:ｷ 、 : : : : !ｷ!:: :l: { : :j1: 
+
+
+
+
+　　　　　　　　　　　　　　　　　 ┌────────────────┐ 
+　　　　　　　　　　　　　　　　　 │やる夫スレ登場人物紹介パート１２５　│ 
+　　　　　　　　　　　　　　　　　 └────────────────┘ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+389 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:53:23 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　,r'7'7'フヽ、 
+　　　　　　　　　　　　　　　　　　　　　　　　　/ / / / ,r-､i 
+　　　　　　　　　　　　　　　　　　　　　　　　_/_/_/_/ /　　ｌ| 
+　　　　　　　　　　　　　　　　　　　　　　__/_ｏ＿_ｏ__ ￣｀`i 
+　　　　　　　　　　　　　　　　　　　　　 {,､r‐'"´<||: : : : :￣:ﾞ､ 
+　　　　　　　　　　　　　　　　　　　　　 ,'　,,r―ヾ||:: : : : : : : :', 
+　　　　　　　　　　　　　　　　.　　　　　{ ｲけﾌ　 .||ｆ^l: : : : : : :', 
+　　　　　　　　　　　　　　　　.　　　　 /　 ￣　　 ||_リ: : : : : : : ', 
+　　　　　　　　　　　　　　　　　　　　〈､　　　　　 ｌl |:: : : : : : : : :} 
+　　　　　　　　　　　　　　　　　　　　　 |―‐ヽ　〃 l: : : : : : : : / 
+　　　　　　　　　　　　　　　　　　　　　　l　 　 〃=.､ヽ､_:__:__:ノ 
+　　　　　　　　　　　　　　　　　　　　　 ├π'"ﾀ=-′／::::::::::::>､ 
+　　　　　　　　　　　　　　　　　　　　　　′｀ﾗｉ|　　 /::::::::::::／ 　 ｀ヽ､ 
+　　　　　　　　　　　　　　　　　　　　　　／/!ｌ|l 　 /:::::::::::/　　　　　　｀ヽ､ 
+　　　　　　　　　　　　　　　　　　　　／　/::ｌl ||　/:::::::::::/　　/´　　　　 　 ＼ 
+　　　　　　　　　　　　　　　　　　　/　　/::::ｌｌ 0./:::::::::::/　　 l l　　　　　　　　ヽ 
+　　　　　　　　　　　　　　　　　　 / 　 /:::::ｌl　/:::::::::::/　　　l.l 
+　　　　　　　　　　　　　　　　　　/　 /:::::::ｌｌ /:::::::::::/　　 　 ｌl 
+　　　　　　　　　　　　　　　　　 /　 ,':::::::::0/:::::::::::/ 　 　 　 l 
+
+───────────────────────────────── 
+
+
+
+
+
+
+
+
+
+　　　　 ／￣￣＼ 
+　　　／　　 _ノ　　＼　　　　　　　 今回紹介するのはこの人 
+　　　|　　　 （ ●）（●　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｼｮｶﾂﾘｮｳ 
+　　　|　　　 　 （__人__）　　　　　　中国を代表する通俗小説「三国志演義」に登場する大軍師　諸葛亮　だ 
+.　　　|　　　　　　　　ﾉ　　　　　　　字（あざな）で諸葛孔明ともいう 
+　　　 |　 　 　 ∩ ノ ⊃ 
+　　／ 　 　 .／　＿ノ　　　　　　　三国志を題材にした作品は日本でも枚挙にいとまがないが、 
+　 (.　 ＼ ／　.／_ノ │　　　　　　このAAは横山光輝の漫画「三国志」のものだ 
+　　＼　 “　／_＿_|　 | 
+.　　　 ＼／ ＿＿＿ / 
+
+
+
+
+
+
+
+
+
+390 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:53:52 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+　　　　　　　　　　　　　＿,,..........,,,,＿ 
+　　　　　　 　 　　 ,.z.!ﾞ　||　 ||　 || 　||`, 
+　　　　　 　 　 　 ((~|| 　||　 || 　||　 ||　| 
+.　 　 　　　　 　 　l　||　 || 　||　 ||　 ||　| 
+　　　　　　　　　　|　||　 || 　||　 ||　 ||　| 
+　　　　　　　　　　|　||　 ||　 ||　 ||　 ||　| 
+　　　　　　　　　　|'''｡'"´￣￣￣o￣￣ﾞ| 
+　　　　　　　　　　,''l.T:/´ ￣￣ `'"￣ ｀| 
+　　　　　　　 　　 l::| |/ 　　　　　　　　　| 
+　 　 　 　 　　 　 !::| | ／｀ヽ､,,_　　 _,.=ﾍ|　　　　　　 わたしはこの男を召し抱えるのは反対でございます 
+　　 　　 　　　　 !ヽ!j 　 ',´('7｀ 　 .{ ｴi｀ | 
+　　　　　　　　　| 9.lj　　　￣　　 　l￣　.!　　　　　　 むしろ処刑をすべきでございます 
+　　　　　　　　　!`ｰｌｌ　　　　　　　_.j　　 | 
+　　　　 　 　　 ,'::::::::ｌ',.　　　〃_＿__ ',　,' 
+　　 　　　　 　,'::::::::/ ヽ　　 ''　 　 　 './l 
+.　 　 　 　 　 ゞ:／ヽ 　 ＼ 　 　 　／::ﾉ 
+　 　 　 　 __／ヽ 　 ヽ 　　 ｀ ''iﾘi" |ヾ 
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＿＿＿_ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／―　―　＼ 
+　「三国志演義」での孔明先生の描写は　　　　　　　　　　　　　　　　　　　 ／（●） 　（●） ＼ 
+　もはや妖術使いか予知能力者　　　　　　　　　　　　　　　　　　　　　　 ／　 　（__人__） 　u　 ＼ 
+　中国４０００年の歴史が誇る天才チートキャラだお　　　　　　　　　　　|　　　　｀ ⌒´　　 　　　| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼　　　　 　 　　　　／ 
+　だいたい一人称は「わたし」「私」　　　　　　　　　　　　　　　　　　　　　　 ／　　　　　　　　　＼ 
+　慇懃なふるまいのなかにもどこか毒を感じるお　　　　　　　　　　　　　　|　　　・　　　　・ 　 　 ） 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　　|　 　 　 　　 /　 / 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| 　 |　　　　 　 /　 / | 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　　|　　　 　 /　 / 　| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(YYYヾ　　Y　(YYYヽ　| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（_＿＿ノ-'-（'＿＿_）_ﾉ 
+
+
+
+
+
+
+
+
+　　　　　　　 ／￣￣＼ 
+　　　　　　／　⌒　　⌒＼ 
+　　　　　　|::::::（○）（○） ｜　　　　　 善玉のくせにその所業は敵に嫌味を言って憤死させたり 
+　　　　　.　|:::::::::::（__人__）｜　　　　　 気に入らない部下を爆殺（未遂）したり結構エグイからな・・・ 
+　　　　　　 |::::::::::::::｀ ⌒´ ｜ 
+　　　　　.　 |::::::::::::::　　　　}　　　　　　特に横山版ではファンにネタにされることが多いだろ 
+　　　　　.　 ヽ:::::::::::::: 　　 } 
+　　　　　　　 ヽ::::::::::　　ノ 
+　　　　　　　　/ヽ三＼´ 
+-―――――|:::::::::::::::: ＼-― 
+
+
+
+
+
+
+
+
+391 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:54:29 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+孔明の罠 の検索結果 約 46,600 件中 1 - 10 件目 (0.03 秒) 
+
+
+
+
+
+
+　　　　　　　　　　＿＿＿＿＿_　 　 　 　 仕　　　な 
+　　　　　　　　 r〃〃〃 f７⌒ろ） 
+　　　　　 　 　 l∥∥∥　|| 　 f灯　　　　　業　　　ん 
+　　 　 　 　 　 |∥∥∥　|| 　 |　| 
+　　 　 　 　 　 |儿儿儿._」∟⊥厶　　　　　か　　　で 
+　　　 　 　 　 〔＿_o＿＿＿_o_≦ﾄ､ 
+.　　　 　 　 　 「⌒ヽノ　　 ヽ|l __　　ヽ　　　よ　　　も 
+　　　　　　　　 |ヘ、　rノ￢､ l「r,ヽ　 i 
+.　　　　　 　 　 l ー|　｀ー'　　||､_八　|　　　 ：　　　俺 
+　　　　　　　 　 l　│　　　　　ll　 〃V 
+　　　　　　 　 　 ､｛｀―-ヽ ,〃　〃　 ＼　　　　　　の 
+　　　　　　 　 　 __＼ rテ ノ´　〃　　 ／　ｰ- ､ 
+.　　　 　 　 　 ,ｨ(⊆≧ﾘ≦⊇)〃　　 /　　 　 rｸ＼ 
+.　　　　 　 ／ 　 |￣r少}¨￣〃　　 /　　　　/′　ヽ 
+　　　 　 〃 l　　 |　 l| | l|　〃　 　 /　　 　 /　　　 └ヽ 
+　　　　 /　　　l　 |l | |ｌ/″　　 /　 　 　 !　 厂　　　　＼ 
+　　　 く,　　Y　　 !　l」fﾚﾄ!　　　 / 　 　 　 |　/　　　　　 　 1 
+　　　 丿　　|　 　| 丿}　じ’　　/　　　　　 | /　　　　　　 　 | 
+　　　/ 　 　 l　　 | ｀¨　 　 　 /　　　　　　ﾚ′　　　　　　　 | 
+
+
+
+
+
+
+
+
+
+　　　　／￣￣＼ 
+　　 ／　　 _ノ　　＼ 
+　　 |　　　 （ ●）（●） 
+.　　 |　　　　 （__人__）　　　　　　　　　　最たるものがネットスラングにまでなった「孔明の罠」だろ 
+　　　|　　　　　｀ ⌒´ﾉ 
+.　　　|　　　　　　 　 }　　　　　　　　　　劇中で孔明のあまりの恐ろしさに敵が疑心暗鬼に陥るさまから 
+.　　　ヽ　　　　　 　 }　　　　　　　　　　 巧妙な釣りや煽りに「これは孔明の罠だ！」なんつってな 
+　　　　ヽ　　　　　ノ　 /つ━・ 
+　　　　／　　　　 ＼ / / 
+　　　/ /＼　　　/￣＼ 
+　＿|￣￣ ＼　/　 ヽ　＼_ 
+　＼￣￣￣￣￣￣ ＼＿_） 
+　　||＼　　　　　　　　　　　　＼ 
+　　||＼||￣￣￣￣￣￣￣||￣ 
+　　||　 ||￣￣￣￣￣￣￣|| 
+　　||　 ||　 　 　 　 　 　 　 || 
+
+
+
+
+
+
+
+
+392 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:55:03 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼ 
+　 ／　　─　 　 ─＼　　　　　 そんな孔明先生だけど 
+／ 　　 （●） 　（●） ＼　　　　やる夫スレでの出番はあまり多くないんじゃないかお？ 
+|　 　　 　 （__人__）　 　 | 
+./　　　　 ∩ノ ⊃　　／　　　　 外見からして歴史スレか学ぶ系じゃなきゃ使いにくそうだけど 
+(　 ＼　／ ＿ノ　|　 |　　　　　 本人の個性が強すぎて他人を演じるのは向かないのかお 
+.＼　“　　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　　　／　　 _ノ　　＼ 
+　　　　|　　　 （ ●）（●） 
+　　　.　|　　　　 （__人__）　　　　　　　　　　　　　　三国志ものだと諸葛亮自体にやる夫その他が配役されることが多いしな 
+　 　 　 |　　　　　｀ ⌒´ﾉ 
+.　　　　 |　　　　　　 　 }　　　　　　　　　　　　　　 「やる夫が李斯になるようです」では横山孔明が張良を演じている 
+　　　.　 ヽ　　　　　 　 }　　　　　　　　　　　　　　 孔明自身「張良・陳平の才あり」と評された歴史上の先輩軍師だろ 
+　　 ＿/⌒ヽ　　 　　ィ 
+　i'⌒ﾞl |　　 l　　 　 　 　 ＼＿＿ｨ～っ　　　　　　もっともペーペー時代の張良だからやる夫扮する李斯に 
+　|　　|. |　　 |　　 　 　 ﾄ､_"＿＿冫く;'三｝　　　　 手玉に取られるという新鮮な光景が見られる 
+　|　　|　（　"￣⌒ヽ、　|＿＿＿＿`ー‐" 
+　|. 　￣￣￣￣|ｿﾉﾉ￣｀ヽ￣⌒ヽ.'⌒lｿ 
+　|　　　　　　　 l 　.| y　　|＿ｨ 　 |　 .|| 
+　|　　　　　　　 | 　.|.|　　 |　 |　　| 　 || 
+　|　　　　　　　 |　　 |＿__|　 |_＿|　　|| 
+　|＿＿_＿＿__.|＿__（＿_ﾞ)__{_＿_ﾞ)＿|| 
+
+
+
+
+
+393 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:56:09 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+┌───────────────┐ 
+│派生キャラが多いのも特徴だな　　 .│ 
+└───────────────┘ 
+
+
+　　　　　　　　　　 　 　 　 　 　 　 　 　 ／ ／ 
+　　　　　　　　　__,, ----──--､ 　　　/　/ 
+　　　　　　　 ／:::::::::::::::::::::::::::　　 ＼　 /　/ 
+　　　　r─::'´:::::::::::: へ::::::::::::::::::::　　: !/　/ 
+　　　　|::::::::::::::::／　　 ｀‐-､::::::::::::::::::::ｌ / 
+　　　　ヽﾍ::::／　　_,,..,,_　＜::::::::::::::::::::l、 
+　 　 　 /_　　　 /´　　　＼　＼::::::__:::::::::ヽ 
+　 　 　 ヽ＼　 /／＿≧_　　　 〉/　l:::::::::::::── 、 
+　　　　　l ﾆゞ、"｀､__ﾟノ　 　　/::l 　 l:::::::::::::::::::　　＼ 
+　　　　　 l　 /　　ﾞ　　　　 　 l:::::l__/:::::::::::::::::::::::::::::::::l 
+　　　　　 ヽ ｌ　 　 　 　 　 　 |:::::l l:::::::::::::::::::＿＿＿ | 
+　　　　　 ｒ〃‐_＿＿_ ,ﾍ　 　l:::::l {:::::::::::::／ 　 　 　 ! 
+　　　　 /　　ヽ｀=一'´ ｀ヾ／丶/ /＼::::::|　衝..　|　│ 
+　　　　{　 ,'　/　　　　,.イ　　　／ 　 /＼|　撃　│　|ヽ 
+　　　　l　 i 　ヽ∧＜ /　>r ‐´　　 /　　 !　の　そ　|　 ＼ 
+_　　 ＿l　l　　/／、 l／　l 　 ＿_/＿ 　 !　ア.　う.　|　　　ヽ 
+..￣〃　 l 〉 .|￣￣ / lニ/l￣ ／　 　 ￣|　ル　は　|　　　　　} 
+　 ∥　　 l 　l　／./´/　l　l／:::::::::::::::::-=　 ベ　思　|　　　　　 l 
+　 ∥　　　l　!/　/　 l　 ｌ::::::::::::::::::::::::::::::::|　.ル　い　!ヽ 
+_／ヾー‐‐ヽ{l　 l::::::::::::::::::::::::::::::::::::::::::::::::!　 ト　.ま　|　｝ 
+　　　　　　 r＼　:::::::::::::::::::::::::::::::::::::::::::::::l 　 　 .せ　| / 
+　　　　　　 l l'´＼ー::::-::::＿＿:::::::::＿_:::|　　　 ん.　! 
+　　　　 　 （l ｀ヽ　 ヽl⌒ヽ:::::::::::￣::::/⌒|　　　 か　|、 
+_,,. -‐ ''''￣/　|　＼　｀ヽ　 ヽ::__:::::::/　　.!　　　.？　|　 ヽ 
+`ｰ～^´￣＿/Ｏ 　｀ ー ヽ.＿＿〕〔| 　 ﾉ|　 　 　 　 |　　　　＼ 
+ｰ一～^Ｏ　　　　　　 　 　 　 ゝ | | ￣//＼＿＿_ ノ 
+
+
+
+┌────────────────────────────────────────┐ 
+│横山キャラがスターシステムで出演する今川泰宏監督『ジャイアントロボ THE ANIMATION』より　.│ 
+│策士・諸葛亮孔明だ　元作品とキャラの立ち位置が大きく異なるのが特徴の作品だが、　　　　　. │ 
+│この孔明は世界征服を目的とするとされる謎の組織「BF団」の最高幹部　　　　　　　　　　　　　　　│ 
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.│ 
+│BF団最強の「十傑集」をも手駒として利用し底知れぬ知謀をふるう陰謀家として描かれる　　　　. │ 
+└────────────────────────────────────────┘ 
+
+
+
+
+
+
+
+
+
+394 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:57:39 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　／￣￣＼ 
+　　　　　　　　　　　 　／　　ヽ_　　.＼ 
+　　　　　　　　　　　 （ ●）（ ●）　　｜ 
+　　　　　　　　　　　 （__人__）　 　 　 | 
+　　　　　　　　　　　　ｌ｀ ⌒´　　　　｜　　　　　　　　　 「やる夫が士大夫たちの時代を駆け抜けるようです」で 
+　　　　　　　　　　　　{　　 　 　 　 ｜　　　　　　　　　　Gロボ孔明が北宋時代の政治家・李を演じていたな 
+　　　　　　　　　　　　{　　　　　　 / 
+　　　　　　　　　　　　ヽ　　　　　ノ　　　　　　　　　　　　悪人ではないが何でもお見通しというちょっと胡散臭いキャラだ　　　　　　　 
+　　　　　　　　▼／￣　　　　　￣￣）＿＿__ 
+　　　　　　〃(⊥) ´/　　　　/￣￣/ /　 〃 ⌒i 
+　 ＿＿＿i /⌒＼./　　　/∧ ∧し' ＿＿|;;;;;;;;;;i 
+
+
+
+
+
+
+
+
+
+
+
+
+.　　　　　　　　　　　　, ィ´_＞‐''　　　　､　　　＞､ 
+　　　　　　　　　　┌く　 '´　　　　 ー-　｀ 　 ､　　＼ 
+　　　　　　　　ｒ‐'´ ￣＼/二二二二ニ＼　　 ｀ ー- ＼ 
+　　　　　　　　ｌ　　　 /フ　"　￣￣￣ ¨''￢ ､_　＿ ＞'´ 
+.　　　　　　　　＼　 ７ｲ　　　 /　　　ヽ　　　　 「　ハ 
+　　　　　　　　 　 ! 〃　/ 　 ｌ.|.i　::|」ﾑL辻| 　 .|　　 ｌ 
+.　　　　　　　　 　{ !i.|　.! . :!_斗! :.ﾊ|ｌ斗-‐+　 ::ト; 　.|　　　はわわ、ご主人様 
+　　　　　　　　　　>!ﾊ　|.::l::ﾄﾚ-;V　　｀´￣|　 .i:ﾚ: :　ｌ 
+　　　　　　　　 ／∧ Ⅵ､|ヽﾄ'´　丶, ､　　 |. : :!ｊ::::::ｌ/　　　　敵が来ちゃいました！ 
+　　　　　　　 ,ｲ ./　　'ヽﾊﾞ､|ﾊ.　　 ヽ'　　,〃:::/::ｲ从 
+　　　　　　 , ' ,.ｲ　　　　|ｌ :::!`::＞-　、_ ｨ7ｲ /＞'⌒ヽ_ 
+　　　　 　 /,ｲ/　　　　 ﾊ|..ぃ!:ﾉﾞ´　ｒｰY勹／ ﾚ　 __ ｆ0ﾄ､ 
+.　　　　　/〃ｌ　　　　./　!ヽ|　|/　 ヾ,仆ｿ　 /　_.ゝ≧≦ﾊ 
+.　　　　 ,'/ | ヽ　＿＿ノ/　!ﾊ/　　 /ム!|　 ´‐ ' ¨´　个｀ } 
+　　　　〃　!　　　 |　　∧_/./　　,ィ/+ﾑ.|　∨　　　　　／ 
+　　　　!′｜　　　|　 ｜　¨ｌ_　彳/厂　|.ﾄﾞ　{／￣ ¨ｱ'＜￣｀ヽ 
+　　 　 |　....|　　　｜　 !　　|＞‐+'/‐ ￢!:|¨７　　　 /´　　　　/ 
+　　 　 | 　 .!　　　 ∨ .ﾄ､　 {　__,'.'　＿__| ﾚ′　　 ん　　　　/ 
+　　 　 | 　 ﾊ　　　 .∨.!∧　|　 ｌ｜　　　ﾚ′　 　/|　　　　 ｨ 
+　　 　 |　　∧　　 　.∨　∧{＿ｌ 厂￣ /　　　　/_」＼　　 |′ 
+
+
+┏─────────────────────────────────┓ 
+│変り種としては三国志武将が美少女化する「恋姫†無双」シリーズにも　　　　　　.│ 
+│諸葛亮がいるな　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.│ 
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│ 
+│あいにくやる夫スレへの登場は確認されてないだろスレ趣旨的に考えて・・・　　..│ 
+┗─────────────────────────────────┛ 
+
+
+
+
+
+
+
+
+395 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:58:03 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+
+　　　　　　　　　　　＿＿＿ 
+　　　　　　　　　,, ''　　＿＿_＼ 
+　　　　　　　　　┐γ　　_ノ　　＼ 
+　　　　　　　　　,'　|　　（ ●）（●）　　　　　　 今回はAAの多い横山孔明を中心に話したが、 
+　　　　　　　　　|　|　　　 （__人__）　　　　　　　派生キャラまで含めれば諸葛亮というキャラは 
+　　　　　　　　　|　|　　　　｀ ⌒´ﾉ　　　　　　　たいへんバラエティ豊かだ 
+　　　　　　　　　|　|　　　　　　　} 
+　　　　　　　<＼ヽヽ　　　　　　}　　　　　　　　やる夫歴史界隈の発展を願って 
+　　　　　　　　＼＼ヽヽ　　　ノ　　　　　　　　 今日はこのくらいにさせてもらおう 
+　　　　　　　　　　ヌ/　　　 く 
+　　　　　　　　　　　|　　　　 ＼ 
+　　　　　　　　　　　|　　　　|ヽ、二⌒) 
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　_＿ 
+　　　　　　　　　　　　./|　.| 
+　　　　　　　　　　　 / .|.　.| 
+　　　　　　　　　　　 |￣￣￣| 
+　　　　　　　 　　　／￣￣￣＼ 
+　　　　　　　　　／　─　 　 ─ ＼ 
+　　　　　　　 ／　 （●） 　（●）　 ＼ 
+　　　　　　　 |　　　　（__人__）　　　　| 
+　　　　　　　 ＼　　　 ｀ ⌒´.　　 　／　　　　　　　　 ボス敵、強力な味方、解説役などなど・・・ 
+　　　　　　　＿|￣￣￣￣￣￣￣|＿ 
+　　　　　 ／＼ ￣〉￣￣|￣￣〈￣ ／＼　　　　　　 お気に召すまま孔明先生の起用をご検討くださいお 
+　　　　　|　　　＼〉　　 　|　　　 〈／　　 | 
+　　　　　|　　　　|　　　.|￣|　　 |　　　　 | 
+　　　　　|　　 ＼|　　　 |.　|　　 |／　　　| 
+　　　　　|　　　　＼　　 |　|　 ／　　　　 | 
+　　　　　＼　　　　 |~|⊃ ⊂|~|　　　　 ／ 
+　　　　 ／ ＼　　　| |　.∪　| |　　　／＼ 
+
+
+
+
+
+
+
+
+396 ：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/03/13 02:58:35 <strong><span style="color:#0000FF">ID:0KzCx5n3</span></strong>
+
+
+
+
+
+
+
+　　　　 　 　 　 r'丁´￣￣￣￣｀7￢‐,-､ 　 　 　 　 　 ／ 
+　　　　　　　　r'|　|　　　 　 　 　 |　 |/　 ＞、　　　　 / 
+　　　　　　　　! |　|　　　 　 　 　 |　 |レ'´／| 　 　 　 |　　 待 て 
+　　　　　　　　| |　|　　 ／＼　　 |　 |l　 /⊂う　　　　| 
+　　　　　　　　| |　|__∠∠ヽ_＼　|　 ﾘ　/　 j　　　　　ヽ 　 あ わ て る な 
+　　　　　　　　|´￣　　　O　 ￣￣￣￣￣｀!　　　　　　〉 
+　　　　　　　　l'"´￣￣ヾ'"´￣￣｀ヾ::幵ー{　　 　 　 /　　 こ の 紹 介 も 
+　　　　　　　 ⊥,,,,,＿､　　　　＿__,,,,,ヾ| l::::::|　　　 　 | 
+　　　　　　 　 lヾ´ ｆ｝｀7 　 ﾍ´ｆj￣ﾌ　 | l::i'⌒ｉ　　　　|　　　孔 明 の 罠 だ 
+　　　　　　 　 l　,.ゝ‐ｲ　　　 `‐=ﾆ、ｉ　| l´ (　}　　　　ヽ　　 
+　　　　　　 　 l 　 　 {　　　　　　 　 U | l　､_ﾉ　　　 ∠ヘ 
+　　　　　　　　l　　　/￣　　''ヽ、　　　| l　ヽ_　　　　　　　＼,＿＿＿＿＿＿＿＿＿ 
+　　 　 　 　 　 !　　ﾊ´￣￣￣｀ﾄ、　　|亅〃/＼ 
+　　　　　　　 ,人　ｆ　´￣￣￣｀`ヾ　 j ,!// {_っ ）､ 
+　　　　　　／/　｀ト､_＿iiiii＿_____,レ'‐'//　 _,／　/ｽｧ-､ 
+　　　　,.イl{ ｛ 々 !／´しllllﾄ､￣`ヽ、 // /´,.-、 /彑ゝ-{ｽｧ-､ 
+　　,.イ彑l l > ゞ く l　〃 l|ハ.lヽ、　ﾊVゝヽ二ノ/ゝ-{､彑ゝ-{､彑ｧ-､ 
+,.イ彑ゝ-'l l　（ (,) レｼ′　　 !l　｀ｿｧ'´　 　 _ノ7{､彑ゝ-{､彑ゝ-{､彑{ 
+ュゝ-{､彑l l　 ` -イﾍ　 　 　 !ｌ　//　/⌒ヽヾ/_ゝ-{､彑ゝ-{､彑ゝ-{､ 
+　{､彑ゝ-'l l f⌒Ｙﾊ　',　　　　!l/ /　ヽ_う ﾉ /-{､彑ゝ-{､彑ゝ-{､彑ゝ 
+彑ゝ-{､彑l l｛ に!小　ヽ　　 /!l /　　 ,／　/彑ゝ-{､彑ゝ-{､彑ゝ-{､ 
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　おわり 
+
+
+
+
+
+
+
+
+
+
+
+
+<hr size="２"/>
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　 __　,.-￢-　､._
+　　　　　　 　 　 　 ／　'´,　 ､　　 、 ｀ヽ､
+　　　　　　　　　 ｒ´　 　 /　l　ヽ　　＼　､ヽ
+　　　　 　 　 　 /　　/ /l.　 l、　＼　　ヽ ', lヽ　　　　　　　　　　　　　　やる夫スレの孔明ポジションといえばこの僕でしょうか
+　　　　　　　　/,　l. / /´ヽ　lヽ 　 ヽ. !　ヽ. ト ヽ､
+　　　　　　　 '´|　 V　'＿_ヽ. ﾄ＼､＿',| 　 ',｜
+　　　　　　　　 | l. ,|　|　__　＼ﾞ､ヽ.__ヽl.　　ﾄ.|
+　　　　 　 　 　 lﾊｌﾍ｜´　｀ 　 ヽ´　｀｀〉,^! | !
+　　　　　　　　 　 l＼ｌ|　　　　|　　　　//ｨ N
+　　　　　　　　　　| ﾊ ヽ　　＿＿ 　 /ﾊ/ ｀　　　　 　 _
+　　　　　　　　　　'′lﾊn＼ ｀ニ´／! !　　　　　　　 ,ｲ |
+　　　　　　　　　　 _,.-' /ヽ ｀ - ´ ,ﾊ＼　　　　　　　| |ヽ
+　　　　　　 _,　- ' / 　 |　　ヽｪ､ ' 　 |　ヽｰ､　 　 _　| ﾄ. ヽ
+　　,.､-‐　´　 　 /　　｜　 /　　〉 　 | 　 ヽ　｀⌒.l ヽ',ヽヽヽ
+　 / ヽ　　　　　〈　　,.-|ヽ/ ヽ-/ ヽ/|､　　,〉 　 　 |　l_! ヽ　ﾞl
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　__　　　　　　　　　　　　　/
+　　　　　　　　　/ｌ.　 　i´　`i　　　　　　　　　　 ,　ｌ
+　　　　　　　 ＜　＞　.|　　 |　　　　　　　r,ｼ,..:':レ'l　　　　　　　　　おっと、私も忘れてはいけません
+　　　　　　　　　V　　 |　　 .| 　 　 　 　 /::::':::::::::::::',
+　　　 　 　 　 　　 　　|　　 .ｌ　　　　　　i::::ニ_:::::::､:::',
+　 　 　 　 　 　　　　　|　 　 !　　　　　,r':::､::_:ミ:::ヽ､::ヽ、
+　　 　 　　　　　　､､　i　　　|　　　　 /:::i:::::::::＼:::::::::ヽ::::`- ＿__　 ＿_
+　　　　　　 ___　i´　 ｀1　　 .l　　　　,ﾘ:::!::::lﾞ_､::::::､::::::::::ヾ::::::::ヾ ｌ /
+.　 　 　　 /　 ｀'ｌ:　　 iー－ |＿　 __!_l:::::',lﾞi oヽ＼ i`o､::::::::::::ヾ '
+　　　/￣､i　　 i.',　　 ',__...　l　 `'´、 ﾉ::::::i `'''´　　 `''''"ﾞi::::::ﾊ-､
+　　 /　　　i 　　ﾞ'; 　 　i　　 !、　　 ヽ !ハ::､　　´ `　　 ,从::l ﾞ 　l
+　　　〉、 　ヽ､ 　 ヽ. 　 i 　 ヽ`ｰ‐-＝--―=._‐＝‐ ,ｨ'１!ﾘヾ 　 l
+　　　ﾞｰヽ､＿:ii.r''''ｿiニﾌ　　　　 　　　　　　　 ｀iｪ‐ﾆ'ノ　　〃　|i
+　　　　 i　　　｀`'''": '´ 　　　 　　_,.-ｯｰ-――‐'ー''"　　 jt.　 　l
+　 　 　　i　　　　　_､_＿　　,.-‐'´r-'i '　　　　　　　　 , ' /　i　　 l
+　　　　　｀`ー-''''´ヽ､＿ニ‐'''´~ 　 i　　　 _　　　　, '　/　 ｱ-‐ .ｌ
+　　　　　　　　　　　　　　　　　 　 く_,.-‐'´　　　　　 ／　／￣ , !
+　　　　　　　　　　　 　 　　　　　 / ｀`　　　'　　　　l!　／　　／
+
+
+
+
+
+
+　　　　,,　-―――
+　　　〃:::〃::::::;;、:::::::::::ヽ
+　　　 Yｱ（￣　　{_:::彡::::|
+　　　　{{;ィ..::ｬ=ミ　ヽ::r:､|
+　　　　代･} 弋･ﾌ /　＾}ﾘ 　　　　　
+　　　　 ';::.:L .:::　 ｛　 r〈　　　　　　　　　　　　おじさんもいるよぉ～
+　　　　　';t‐ｪｪタ　　ｲ　>､_
+　　　　　 i:::二 　／ ／／　＼　　　　　　　　　ま、俺たちがいる限り本家さんの出番はいらないってことだな
+　　　　 　 `ー＜／ ／o＼　　＼
+　　　　　　　　rﾍo/／￣￣:.::＼∧
+　　　　　　　　∨//.::.::.::.::.::.::.::.::.ヽﾊ
+　　　　　　　　/7ﾛ::.::.::.::.::.::.::.::.::.::.} _}
+　　　　　　 　 { |圦:.::.::.:.::.::.::.::.::.::.::｢ |
+　　　　　　　　V |.:}ヽ.::.::.::.::.::.::.::.::. く|
+　　　　　　　　 {ﾉ:ﾉ ハ.::.::.::.::.::.::.::.::.::.}
+　　　　　　　　 Ⅳ 　 ∧.::.::.::.::.::.::.::.::.:｝
+　　　　　　　 　}ﾘ ／　〈.::.::.::.::.::.::.::.::.::｝
+　　　　　　　　くく　　　〔.::.::.::.::.::.::.::.::.:{
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　どっちかというと司馬仲の方が出番多いような気がする
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/1770/clap" id="fc2button-clap-1770" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-1770").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/3.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/1770/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２５" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-1770.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-1825.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１３２ (2010/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1824.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１３１ (2010/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1823.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１３０ (2010/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1822.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２９ (2010/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1821.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２８ (2010/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1772.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２７ (2010/03/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1771.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２６ (2010/03/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２５ (2010/03/20)			</li>
+<li class="relate_li">
+<a href="/blog-entry-1769.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２４ (2010/03/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1730.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２３ (2010/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1729.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２２ (2010/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1728.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２１ (2010/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1727.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２０ (2010/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1726.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１１９ (2010/03/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1725.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１１８＋α (2010/03/13)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２５" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/03/20 16:02 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html#comment_list" title="この記事のコメントを参照">CM(2)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/1770"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２５"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　　　　.　&#45;‐ ''　￣￣　‐&#45; . 　　　 　 ／:..　　　　　　　　 . : .:::ヽ .　　　, ':.:. :.　　　　　　　　　. : .:.:::::ヽ 　　 /::.:.:. .　　 　 , ⌒　ー&#45;　.__,;.&#45;‐､', .　 ,'::.::.:.. :　　 　 :　　　　　　　　　　 ヽ:! 　 i:::.:.:._,.&#45;､,,　　 } 　 　 ― 　 　 ―　 ＼:t 　_レ'´... _ゝ'__,. /　　（ (;;;;;) ）　（(;;;;;) ）ヽ:::} . {::.:._,.&#45;'´'´ ゝ;/ 　　　　　　　　　　　 　 |:::ﾍ . 冫{´:.. ._;..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-03-20T16:02:35+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1771.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２６">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1769.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２４">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment3725">[ 3725 ] <strong></strong></p>
+</div>
+<div class="comb">
+恋姫の朱里は、「やる夫がときめきメモリアルな体験をするようです」でちょっとだけ出演したことあり
+ちなみに父親は横山諸葛亮。<div class="comment_navi">
+[ 2010/03/21 23:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1770" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment4057">[ 4057 ] <strong></strong></p>
+</div>
+<div class="comb">
+恋姫の朱里はフューラーでビスマルク役だった希ガス
+<div class="comment_navi">
+[ 2010/04/12 22:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1770" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-1770.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="1770"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/1770-a78628b9">http://oyoguyaruo.blog72.fc2.com/tb.php/1770-a78628b9</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1771.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２６">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1769.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１２４">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,2825 @@
+<div class="article">
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 广^|　 ll'"ﾞﾞl;;_厂´ゝ-ri　 i,,......　　＝---――-i．
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｌ　　! ｰ″　　　　　　 .!　i{　　　　　　　　　　　｜
+　　　　　　　　　　　　　　　　　 　 　 　 　 　 P''″　　　 　 　 　 　 　 ,i -" il　　,i-，　　.,i=ｯ　　　 |
+　　　　　　　　　　　　　　　　　　　　　　　　 lm--〟　.,,-l=ｯ　 .て｝　 .!　　'l′　.ｌ./ 　　└″　　　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　│　 .|　　》　　∪　 .!　　ll‐　 ._,,,、　　.i''”>　　　.!
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 l　　 |　　 ｌ　　　　　l.　　 !　　|　|　　 .―″　　.,ﾄ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　 |　　　ｌ、.._,i..wﾃ　　.ﾘ　　￣ 　 　 　 　 ,,.〃
+　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 !　　│　　　´　　 　 　 　 /″　 .x--､　　　.'|i、
+　　　　　　　　　　　 　 　 　 　 　 i=-┐　　　　　 !　　 ￣.￣￣´ﾞﾞ'7　　　,i″　　 ./　　|　 .,i'ｉ,　ﾞl．
+　　　　　　　　　　　　　　　　　　 ﾞl　　|　　　　　 │__.　　______,._、 !　　　..ｌr‐ﾞﾞ｝　.!　　 !　 .!　!i〃
+　　　　　　　　　　　 　 　 　 　 　 ,!　　l．　　　　 .~ﾞﾞ“￣´　　 .゛ ｀..゛　　　　　 .“¨ﾞ　　 ﾞ'''''''ﾞ　 .`
+　　　　　 ,.. ―――ｯ　　　　　　　|　　 !　　　　　 ｙ -,　　　　　 ./´| .!´!　　　i←――'y 　 　 　 　 ,,......――ｰ.... ､..,,　　　　i'←x、
+　　　　 ┴-- ..x....　′ 　 　 　 　 |　　 |　　　　　│　｀―'‐､　　.!i..ゝト″　　.ｌr‐，　　 |　.,i'ﾞﾞ>.、　 !　　　　._,,.　　　.!　　　.i′　 |
+　　　　　　　　　　　　　　　　　　　!　　 !　　　,,　‐　　　　,..-″　　　　　.i/. ｀-'"　._、　 ｀゛ノ../ /　|　　 ,i.´.,..ﾉ　　　|　　　/　　 .,!
+　　　　　　　 .'l← ,,　　 　 　 　 　 !　　.l!　　　ヽ..　=､　　.ﾞl＿__,　　　　 ._〉　　　／　ヽ,　　 ｀　/　 .!　　｀″._　　　 .|　　 /　　　/
+　　 　 　 　 　 ｌ　　'ヽ　　　　　　　|　　.l!　　　　　　 ﾞl、　　　　 〉　　 _ｒ'"　　　 .''^^^ﾞ'''ﾞ　　　　.ｌ.　 !　 .,l.｀´ / 　　　!　　 !　　　/
+　　　　 .＿.　　.|　　 ﾍ.　　　　　　 |　　 !　　　　 _, -'"　　　 ./´　　 .'(.　.,.. ､　　,,．　　,,........ ､. ..ゝ.|　 .ﾞ‐''ﾞ´　　　 ./　　 l,　　　l
+　　　 ./ 　i′　 l　　　ﾞl　'ｧ-､　　　〔　　!　　　　..ｌ,,　‐'''.,,　　 ﾞ!、　　 i ﾆ､.... !　 .!-″　!....----］　.|　　r‐‐'>　　 .7　　 .|`　　/
+　　 / 　　!　　　|　　　 !　｛　 ヽ.　　|　　|,　　　.r‐''､.　　 ＼　　.ｌ.　　 ヽ____　　　　　　 .＿,,,,,..〃　.l!　 ﾞ''"ﾞ´　　 ./　　　,!　　./
+　　/　　/ 　　,./ 　　 /　　ｌ　　 |　　ｌ　　ﾞl、　　ﾞ'､　 ＼,　　｀'-.. ﾉ　　　　.／　.,i'"｀|　 ﾓ 　 　 　 　 / 　　　　.,....ゝ　　　!￢'''ﾞ
+　 ./　./ 　 .／　　 ,／　　 ｀ｉ.　 ｲ　　ｌ.　　.ゝ..、　.ヽ、　.＼　　　　　　 .／　 ,./ 　　.ｌ.　.＼,,　　　 ,i′　ﾉ'j　　l＿,,,,,,,.　./'ﾞ‐'ｯ
+　 ﾞ''''''ﾞ　　―---‐゛　　　　　ﾞ､,;,!　　 .`-............ ﾆl‐ .ﾞゝ.........ｌ　　　　　.r二.／　　　　 !､,,,,,,,,,,,｝　,i,ﾞ,,,,,,,./ . |,,,,,,,,,,,,,,,,,,,,,!　~''x,/
+
+
+
+　　　　　　　　　　　　　　　　　　┌──────────────────────┐
+　　　　　　　　　　　　　　　　　　│<a href="http://www.youtube.com/watch?v=CQhBLIemMkU" target="_blank" title="ttp://www.youtube.com/watch?v=CQhBLIemMkU">ttp://www.youtube.com/watch?v=CQhBLIemMkU</a>　　│
+　　　　　　　　　　　　　　　　　　└──────────────────────┘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+898 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:49:52.01 ID:et6mQQEo
+
+
+
+
+
+　　　　　,ｨ, (fー--─‐- ､、
+.　 　 ,ｲ/〃　　　　　　　　ヾ= 、
+　　 N ｛　　　　　 　 　 　 　 　 ＼
+　 ﾄ.l ヽ　　　　　　　　　　　　　　 l
+　､ゝ丶　　　　 　 　 ,..ｨ从　　　　|
+　 ＼`.、_　 　 _,. _彡'ﾉﾘ__,.ゝ、　 |
+　　　｀ゞf‐＞ｎ;ﾊ二r^ｧｎj＜ y=ﾚヽ　　　今日のテーマは、“中世の軍馬”
+.　　　 |fjl、 ｀￣ﾘj＾ヾ) ￣´　ﾉ ﾚ ﾘ　　　 近年、ポニーだとかなんだとか言われ、
+　　　　ヾl.`ｰ- べｌ,- ｀ ｰ-‐'　 ,ン　　　　脚光を浴びている存在ですが、
+　　　　　 l 　 　 r─‐-､　　　/:|
+　　　　 　 ﾄ､　　｀二¨´　　,.ｲ　|
+　　　　　_亅::ヽ、　　　 .／　i　:ﾄ､
+　　-‐''｢ F′::　 `:ー '´　　,.'　 ﾌ ＞ｰ､
+　　　　ﾄ､ヾ;､..__　　　　　, '_,.／ ／l
+
+
+
+
+
+
+
+　　　　　　N./"ｨ,　　　　 　 　 　 ｀ヽ.、　__
+　　　　　N､（ (　　　　　　　　　　　　 '"´､´
+　　　　N､ヽ､ヽ　　　　　　　　　　,.　　　　ヽ
+　　　ヾﾐ､ヾヽ　　　　　　　　　,.ﾉﾊ.　　　　 ﾞi
+　　　　ゞﾐ、`　　　　　　　 .::ノﾉj'　ヾ､　　　.i
+　　　　｀ミ:.､._　___､.　__.::,:彡ノﾉ_,.. _ゞ:、　　!
+　　　　　　rﾞt=' ＜(;`)ヽ}＝{'"(´;)＞｀==tr '、
+　　　　　　}'^　ヽ　　.:: ソ;　ゝ'、　　丿　' ^゛}
+　　　 　 　 ! (、 ｀￣´　〈r;、　 ￣´　u　 ) .!
+　　　 　 　 ゝ┤ u　　　__ ＿_　　　　　 '_ノ　　　　皆さん、ポニーってそもそも何か、ご存知ですか？
+　　　　　　　　ﾄ　　　　´ー一'`　　　　 |
+　　　　　　　　| ＼　　　..::~"　　 　 .ｲ .|
+　　　　　　_,....j　 : ＼　　　　　　／ .:! .|
+　　　　 _/　{:.:.:.＼:..　＼.＿__.／　　;i　ﾄ､
+　　,..ィ´/　 ヽ:.:.:.:.:.＼　　.:::.　　　　　 ﾉi　ヽ
+／　/　i' 　　 ヽ:.:.:.:.:.:.:.＼　　　　　／ .:.|　 ヽ､
+.　 /　 　 　 　 ヽ:.:.:.:.:.:.:.:.:.:.｀＞-＜ .:.:.:.:|　 　 ､＼ 
+
+
+
+
+
+899 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:51:24.60 ID:et6mQQEo
+
+
+
+
+
+　　 　 ﾄ/ |'　{　　　　　　　 　 　 　 ｀ヽ.　　　　　　　　　　　 ,ﾍ
+　 　 Ｎ│ ヽ. `　　　　 　 　 　 　 　 　 ヽ　　 　 　 　 /ヽ　/　 ∨
+　　 N.ヽ.ヽ、　 　 　 　 　 　 ,　　　 　 　 }　　　　l＼/　　`′
+.　　ヽヽ.＼　　　　 　 　 ,.ｨｲﾊ　　　　 　 |　　 ＿|
+　　 ヾニｰ　__　_　-=_彡ｿﾉ u_＼ヽ、 　 |　　＼　　　ポニーとは体高1.48[m]以下の
+.　　 　 ￣ﾞr=<‐ﾓﾐ､ﾆr;＝=ｪ;ｭ＜_ゞ-=7´ヽ　　　>　　馬のことを指す総称で、
+.　　　　 　 l 　 ￣ﾘーh ｀ ｰ‐‐'　l‐''´冫)'./　∠__
+　　　　　　 ﾞiｰ- ｲ'__　ヽ､..＿__ノ　　 ﾄr‐'　　　　/　　 実は、欧州一部地域の
+　　　　　　　l　　 `＿__,.、 　 　 u　./│　　　　/＿　　　　　　ローカル用語だったんです！
+.　　　　　 　 ヽ.　 }z‐r--|　　 　 ／　 ﾄ,　　　 　 　 |　 ,、
+　　　　 　 　 　 >､`ｰ-- '　　.／　 ／　|ヽ　　　　　l／　ヽ　　 ,ﾍ
+　　　　　　_,.／| ヽ`ｰ--‐ _´.. ‐''´ 　 ./　 ＼､　　　　　　　＼/　ヽ/
+-‐ '''" ￣ /　 :| 　 ,ゝ=＜　　　　　　/　　　 |　`'''‐-　､.._
+　　　　　/　　 !.／l;';';';';';';＼　　　 ./　　　　│ 　 ＿
+　 　 　 _,＞ '´|l. ﾐ:ゝ､;';';_/,´＼　 ./|._ , --､　|　i´!⌒!l　 r:,＝i
+.　　 　 | 　 　 |:.l.　/';';';';';|=　　ヽ/:.|　.|l⌒ｌ ｌﾆ._ | ﾞｰ=':|　|. L._｣　）） 
+
+
+
+
+
+
+901 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 02:52:04.34 ID:YH4HcM2o
+
+
+
+<strong>15ハンド以下の体高の低い馬だっけか </strong>
+
+
+
+902 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 02:52:30.28 ID:smy3k32o
+
+
+
+<strong>そういわれてみると全然知らなかったわｗｗ </strong>
+
+
+
+903 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:52:32.73 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　――日本人の知ってるポニーは、
+
+　　　　　――主にシェトランドポニー。ポニーといえばこれというほど有名。
+
+　　　　　――平均体高は1[m]くらいの小型馬である。
+
+
+　　　　　　　　　　　　　　∧__∧
+　　　　　　　　　　　　　彡　　 　 ヽ
+　　　　　　　　　　　　 彡 　●　 ●
+　　　　　　　　　　　　彡　 (　　　　|＿_＿__＿ 　　　
+　　　　　　　　　　　　彡　　 ヽ　　 l,.,.,.,.、、／＼
+　　　　　　　　　　 ／`　　　　 ( ･ ･)　　 ／　 ／　　。　　
+　　　　　　　　　／|￣￣￣￣￣￣￣ |＼／| 　　　　　　
+　　　　　　　　　　 |　キ　ャ　ベ　ツ　｜　／ 　　　
+　　　　　　　　　　 |＿＿＿＿＿_______|／
+
+
+
+
+
+
+Shetland　<a href="http://images.google.co.jp/images?q=Shetland+Pony " target="_blank" title="ttp://images.google.co.jp/images?q=Shetland+Pony ">ttp://images.google.co.jp/images?q=Shetland+Pony </a>
+
+
+
+
+
+904 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:54:16.54 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　――ポニーは英国王立農業協会が19世紀に規定したもので、
+
+　　　　　――体高が14ハンド２インチ以下の馬を特にポニーと称するとした。
+
+　　　　　――アメリカでは割と適当で、乗用馬がポニーと呼ばれる。
+
+
+
+
+
+
+
+
+
+　　　　　　　　　 　 ,ﾊiヽ..　　　ﾋﾋｨｰﾝ
+　　　　　　　　　　ノ"･,,'' ヽミ
+　　　　　　　　.　(｡,,／ ) 　ヽﾐ～─～⌒ヾﾐミミミ彡←
+　　　　　　　　　　　　 ﾉ　　　　　④　　　　）
+　　　　　　　　　　　　(　、 ..）__＿彡(　 ,,.ノ
+　　　　　　　　　　　/／（ ﾉ　　 　　ﾉ.ノ (
+　　　　　　　　　 　//　　＼Ｙﾌ　.. 〆　.い
+　　　　　　　　　 .（ﾉ　　　　　　くﾉ　 　//
+　　　　　　　　　　　　　　　　　　　　 くﾉ
+
+
+
+
+
+
+
+　　　　　――ただ小さい馬のことも愛称としてポニーと呼び、
+
+　　　　　――非常にややこしい呼称ではある。
+
+
+
+
+
+
+
+905 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:55:48.43 ID:et6mQQEo
+
+
+
+
+
+　　 N ｛　　　　　 　 　 　 　 　 ＼
+　 ﾄ.l ヽ　　　　　　　　　　　　　　 l
+　､ゝ丶　　　　 　 　 ,..ｨ从　　　　|　　　
+　 ＼`.、_　 　 _,. _彡'ﾉﾘ__,.ゝ、　 |　　　
+　　　｀ゞf‐＞ｎ;ﾊ二r^ｧｎj＜ y=ﾚヽ 　　
+.　　　 |fjl、 ｀￣ﾘj＾ヾ) ￣´　ﾉ ﾚ ﾘ
+　　　　ヾl.`ｰ- べｌ,- ｀ ｰ-‐'　 ,ン 　　　主に、血統が明確でない、
+　　　　　 l 　 　 r─‐-､　　　/:|　　　　 原種の馬が、一まとめにポニーと呼ばれることが多いそうです。
+　　　　 　 ﾄ､　　｀二¨´　　,.ｲ　|　　　　
+　　　　　_亅::ヽ、　　　 .／　i　:ﾄ､
+　　-‐''｢ F′::　 `:ー '´　　,.'　 ﾌ ＞ｰ､　
+　　　　ﾄ､ヾ;､..__　　　　　, '_,.／ ／l　　　
+
+
+
+
+
+
+
+　　　 　　　　　　　　　　 　 　 　 　　　　　　　 ,. ─- ､,,.＿__
+　　　　　　　　　　　　 　 　 　 　 　　　 　 　 ,ｲ〃　 　 　 　 　 ｀ヽ,__
+　　　　　　　　　 　 　 　　　　　　　 　　　N. {'　　　　　　　　　　 　 ＼　　　因みに以下の品種も
+　　　　　　　　　　　　　　　　 　　 　 　 N. {　　　　　　　　　　　　　　 ヽ　　“ポニー”に分類されます。
+　　　　　　　　　　　　　　　 　 　　 　 N.ヽ｀　　　　　　　　　　　　　　　〉
+　　　　　　　　 __　　　 　 　 　 　　　 N.ヽ｀　 　 　 　 ,.ｨｲ从　　 　 　 /　　　体高は目安です。
+　　　 __. -＜＾l三!　　　　　　　 　　 　 ヾミ.＿__-‐=彡'ノﾉﾉ__,ゞミ=-_rく　　　
+　 ／　 ｀l一|￣!　!　 　 　 　 　 　 　　 　　lrf´ゞ“ﾓ=ヾｰf =ﾓﾁ＜}rv^i 　　　体高は地面から肩までの高さの事だ。
+　|　 `j三|　j _,ﾉソ-　´￣｀ヽ　 　　 　　　　ヾﾄ、｀￣,り「弋! ￣´ノ　ソ
+　|ー（_／ｰ'　　　|　l」 -‐''"　　　　 　　 　 　 !　￣　 ii{_,.　 ￣　　/r'　　　　分類としてのポニーと、
+　ｌー‐､　　　 r‐: レ'　　　　　　 　 　 　 　 　 ,ゝ、　 ｉｰ-ー､　　, '　|＼　　　通称としてのポニーは違うんですね。
+　`､　 |　　　 | ／　　　　　　　　　 　-‐''7´ 　 ドヽ. ｀ニﾆ´ .／;;　 |　　ヽ
+　　!ー　　　 r'　　　　　　　 　 　 ／　 　 　 　 　 ﾄ` ｰ-- ´　　__,ノ　　 　 ＼
+　　!　　　　_,l`!　　　　　 　 　 ／　　　　　 __　-〈　ヽ,.-─ '"　　 　　　 　　 ﾞヽ､
+　 f `ー‐ ':.:.:　!　　　　　　 ／　 　 　 　 　 　 　/´
+　ﾉ:.:...　　..:.:.:.: `!　　 　 ／　 　 /　 　 　 　 　 /　t（__）
+　!:.:.:.:.:.:.:.:.:.:.:.:.: |　　 ／　　 　 / 　 　　 　 　 /
+
+
+
+
+
+
+Falabella 　0.71[m]　<a href="http://images.google.co.jp/images?q=Falabella+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Falabella+Pony">ttp://images.google.co.jp/images?q=Falabella+Pony</a>
+Caspian　　1.11[m]　ttp://<a href="http://images.google.co.jp/images?q=Caspian+Pony" target="_blank" title="images.google.co.jp/images?q=Caspian+Pony">images.google.co.jp/images?q=Caspian+Pony</a>
+Dartmoor　1.23[m]　<a href="http://images.google.co.jp/images?q=Dartmoor+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Dartmoor+Pony">ttp://images.google.co.jp/images?q=Dartmoor+Pony</a>
+Gotland　　1.23[m]　ttp://<a href="http://images.google.co.jp/images?q=Gotland+Pony" target="_blank" title="images.google.co.jp/images?q=Gotland+Pony">images.google.co.jp/images?q=Gotland+Pony</a>
+Sorraia.　　1.27[m]　ttp://<a href="http://images.google.co.jp/images?q=Sorraia+Pony" target="_blank" title="images.google.co.jp/images?q=Sorraia+Pony">images.google.co.jp/images?q=Sorraia+Pony</a>
+Bali　 　　　1.27[m]　<a href="http://images.google.co.jp/images?q=Bali+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Bali+Pony">ttp://images.google.co.jp/images?q=Bali+Pony</a>
+Batak. 　　 1.32[m]　<a href="http://images.google.co.jp/images?q=Batak+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Batak+Pony">ttp://images.google.co.jp/images?q=Batak+Pony</a>
+Bashkir.　　1.42[m]　<a href="http://images.google.co.jp/images?q=Bashkir+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Bashkir+Pony">ttp://images.google.co.jp/images?q=Bashkir+Pony</a>
+Dales.　　　1.44[m]　<a href="http://images.google.co.jp/images?q=Dales+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Dales+Pony">ttp://images.google.co.jp/images?q=Dales+Pony</a>
+Mongolian（蒙古馬）　1.23~1.52[m]　<a href="http://images.google.co.jp/images?q=Mongolian+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Mongolian+Pony">ttp://images.google.co.jp/images?q=Mongolian+Pony</a>
+Kiso　　　 （木曽馬）　1.32[m]　　　　<a href="http://images.google.co.jp/images?q=Kiso+Pony" target="_blank" title="ttp://images.google.co.jp/images?q=Kiso+Pony">ttp://images.google.co.jp/images?q=Kiso+Pony</a>
+
+
+
+
+
+
+906 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:56:40.57 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　　 ,. ─- ､,,.＿__
+　 　 　 ,ｲ〃　 　 　 　 　 ｀ヽ,__
+.　　　N. {'　　　　　　　　　　 　 ＼
+.　　N. {　　　　　　　　　　　　　　 ヽ
+.　 N.ヽ｀　　　　　　　　　　　　　　　〉　　
+　 N.ヽ｀　 　 　 　 ,.ｨｲ从　　 　 　 /　　　以下のサイトに拠れば、ポニーの種類は69種類。
+.　 ヾミ.＿__-‐=彡'ノﾉﾉ__,ゞミ=-_rく　　　 大きさもまちまち、用途も体格もまちまち。
+　　　　lrf´ゞ“ﾓ=ヾｰf =ﾓﾁ＜}rv^i !　　　大きいのに胴長短足もいれば、小さくてもスマートなのもいます。
+　　　　ヾﾄ、｀￣,り「弋! ￣´ノ　ソ
+　　 　 　 !　￣　 ii{_,.　 ￣　　/r'´
+　　 　 　 ,ゝ、　 ｉｰ-ー､　　, '　|＼
+　　-‐''7´　ドヽ. ｀ニﾆ´ .／;;　 |　 ヾ''ｰ-
+　　　 /　　 ﾄ､　` ｰ-- ´　,;'　,ｲ　　:|
+.　　 /　　　:ト､` ｰ-､ r--‐_'´/　　　|
+　　/　_,..､-‐＼ ￣! ﾚ' 厂　/へ、　 :|
+　　T´　ヽ＼l.0| 　 V / 　 / /　 ＼　|
+
+
+
+
+
+
+
+JRA競走馬総合研究所。
+<a href="http://www.equinst.go.jp/JP/index2j.html" target="_blank" title="ttp://www.equinst.go.jp/JP/index2j.html">ttp://www.equinst.go.jp/JP/index2j.html</a>
+
+
+
+
+
+
+上記サイト内、馬の品種事典。ここのポニーの品種リスト参照の事
+<a href="http://uma.equinst.go.jp/jiten/equus/index.html" target="_blank" title="ttp://uma.equinst.go.jp/jiten/equus/index.html">ttp://uma.equinst.go.jp/jiten/equus/index.html
+</a>
+
+
+
+
+
+
+907 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 02:57:00.22 ID:YH4HcM2o
+
+
+
+<strong>ファラベラはほとんどペットだからな </strong>
+
+
+
+
+908 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 02:58:19.91 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――その中には、世界を制したあのモンゴルの蒙古馬もポニーに分類されており、
+
+　　　　　――我々の知っているポニーのイメージとはかけ離れている。
+
+　　　　　――シェトランドポニーは1[m]で昔の日本の馬は1.3[m]。
+
+　　　　　――そもそもポニーの認識が間違っていたことになる。
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　 ▲　　▲
+　　　　　　　　　　　　　　　/:::ヽ‐‐:::ヽ
+　　　　　　　　　　　　　　彡:::::::::::::◇:::ヽ
+　　　　　　　　　　　　　 彡:::::::　⑧∥::⑧
+　　　　　　　　　　　　　 彡:::::(::::::::::::::::::::l
+　　　　　　　　　　　　　彡:::::::::ヽ::::::::::::::::|
+　　　　　　　　　　　　　彡:::::::::::::ヽ::::::::::::l
+　　　　　　　　　　　　　 `　　　　 （::::o::o) 
+
+
+
+
+
+
+
+909 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:00:27.07 ID:et6mQQEo
+
+
+
+
+
+
+　　ヽ､.三 ﾐﾆ､＿ ＿＿＿ _,. ‐'´／/-─==＝＝=-､ヾ 　 　 　 ／ヽ
+　　　　　　　 ,.‐'　　　　　　　ヽ:::::::/　　　　　　　　　ゝ‐;----//　ヾ.､
+　　　　　　　[　　　　　　　　　 }二　　　　　　　　　　|.r-'‐┬‐l l⌒　| }
+　　　　　　　 ﾞl　　　　　　　　 ﾘ￣ヽ　　　　　　　　　|l:::::::::::!ﾆ! !⌒ //
+.　　　　　　 　 i　　　　　　　 ｿ;;:..　 ヽ､._　　　　　_,ノ':::::::::::::::::ゞ）ノ./
+　　　　　　　　 ｀ ｰ＝=--‐'´(__,. 　 ..、　￣￣￣　　:::::::::::::::::i／‐'／　　　では、なぜ日本の馬がポニーと強調されるのか。
+　　　　　　　　　 i::::::::::::: 　　 　 .:::ﾄ､ ￣ ´　　　　　::::::::∪::::::l､_／::|
+　　　　　　　　　　!::::::::::::　　　　　　　 　 　 　 　　:::::::::::::::::::::|:::::::::::|
+　　　　 　 　 　 　 ヽ::::::::::: 　　--───--　　　:::::::::::::::::: !::::::::::::ト､ 
+
+
+
+
+
+
+
+
+　　 N ｛　　　　　 　 　 　 　 　 ＼
+　 ﾄ.l ヽ　　　　　　　　　　　　　　 l
+　､ゝ丶　　　　 　 　 ,..ｨ从　　　　|　　　・木曽馬が一番昔の馬に近い。
+　 ＼`.、_　 　 _,. _彡'ﾉﾘ__,.ゝ、　 |.　　　・木曽馬はポニー種に分類される。
+　　　｀ゞf‐＞ｎ;ﾊ二r^ｧｎj＜ y=ﾚヽ 　　・ポニーといえば子馬。
+.　　　 |fjl、 ｀￣ﾘj＾ヾ) ￣´　ﾉ ﾚ ﾘ　　　昔の馬＝木曽馬＝ポニー＝子馬
+　　　　ヾl.`ｰ- べｌ,- ｀ ｰ-‐'　 ,ン 　　　　　　　　　　　↓
+　　　　　 l 　 　 r─‐-､　　　/:|　　　　 “武士の戦闘しょぼすぎpgrwwwwwww”
+　　　　 　 ﾄ､　　｀二¨´　　,.ｲ　|
+　　　　　_亅::ヽ、　　　 .／　i　:ﾄ､　　　　という、ある種のアドバルーン的に書物を売る手段のひとつと考えられます。
+　　-‐''｢ F′::　 `:ー '´　　,.'　 ﾌ ＞ｰ､　普通の専門書より、トンデモ本の方が、みなに受け入れやすいのです。
+　　　　ﾄ､ヾ;､..__　　　　　, '_,.／ ／l　　　
+　　　ヽl　＼＼‐二ﾆ二三／ ／ / 
+
+
+
+
+
+
+910 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:02:22.82 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――ただ、“武士の乗ってた馬はポニー”というのは間違いではない。
+
+　　　　　――要するに、“蟹は甲殻類”というのとほぼ同じ主張なのである。
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　. ━━━━Ｏ∧　∧━━━━ﾛﾆニ＞
+　　　　　　　　　　　　　　　 　 ∧,,∧（　｀Д´）
+　　　　　　　　　　　　　　　　 /ο ・ )Ｏニ)<;;>
+　　　　　　　　　　　　　　 　 /　　 ノ lﾐliii|(ヾゝ
+　　　　　　　　　　　　　　　 (o_o,ｲ＿_ヽ´|(__) ﾉ~⌒）彡　　　┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨
+　　　　　　　　　　　　　　　　 　 ﾉｌｌｌｌｌｌｌｌヽ| |￣ノl　ﾉ
+　　　　　　　　　　　　　　　　　 / /~ヽ ﾉ'''''''~ヽヽ＼ヽ_
+　　　　　　　　　　　　　　　　　 ヽニﾌ|_|　　　(_/　　ヽﾉ
+　　　　　　　　　　　　　　　　　　　 　 (_ヽ
+
+
+
+
+
+
+
+　　　　　――うそは言ってない、悪く受け取るほうが悪い。
+
+　　　　　――かなり卑怯な理論ではあるが。
+
+
+
+
+
+
+
+
+911 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:03:46.15 ID:et6mQQEo
+
+
+
+
+
+
+　 .ト＼　　　　　　　　　　　∧
+　　＼　　　　　　　　　 　　/ ヽヾ、　　　　／~`＼
+　　ト-`　　 　　　　　　　／ ﾆ=_ , . --一/ /~
+　　＼　　　 　　　__,.／'∠,　　''`｀　 ヽ三| |
+　　　　ヽ-ーーヾヽ-' ﾍ>' 　　　　　　　　 　ゞﾐ/
+　　　　　　　　　 ヾヽ　 ~　　　　　　　　　　　　／　　　　馬について、我々日本人は何も知りません。
+　　　　　　　　　　/iヽ　　　　　　　　　　　 .i-'
+　　　　　　　　　/　ヾヽ　　　　　　　　　　　.i　　　　　　　そこで、海外に目を向け、
+　　　　　　　　　`ー-、　　　　　　　　　　　 /　　　　　　 彼らの声を聞いてみましょう。
+　　　　　　　　　　　　!　 ,.-一 　　　　　　 /
+　　　　　　　　　　　　｀`!　　　　　　　　　/
+　　　　　　　　　　　　　 `.i　　　　　　　／
+　　　　　　　　　　　　　　 i　　　　 　／_
+　　　　　　　　　　　　　　　`丶-ー　' ` ヽ、　／
+　　　　　　　　　　　　　　　　　　　　　　 　／
+　　　　　　　　　　　　　　　　　　　　　　　/＼
+　　　　　　　　　　　　　　　　　　　　　 　/　　＼
+
+
+
+
+
+
+
+（英語版wikiから紹介。所詮wiki、されどwiki）
+
+
+
+
+
+
+
+
+912 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:05:17.00 ID:et6mQQEo
+
+
+
+
+
+
+　　／/　　　　　　　　　 l、::::::: l、
+　(ヾ:::l　 　wiki　　　　　 |::::::､::､::::.ヽ,
+､ノ:::::.| ＿,,､ 　 ,､､＿_　 |:::::::::::ゝ::::::>
+ゝ:::::::|''=・-`l　ﾄ'=･=ｰ`　ヽ:::::::::::ゞ:::ゝ
+　 ヽ.|　｀　　　　　ｰ　　　,ヽ::,-;:::;;::/
+　　　|　 　 ､_,､,｀ 　　　 　 l/6l::::ノ
+　　　|　　 　 ! 　　　 　,　, l_ ﾉ:／
+　　 __|　　 -'ー-ヽ 　 ／ ／`)
+　 ヽ　 |　,　￣　 　 __l_／,,-'=i＿＿＿＿＿＿
+＿_,,＼｀､_ ｰ-―' _//='''_-;;;;;;（( oo（（　　　　））
+
+
+
+
+
+
+
+Types of horses
+
+
+
+
+
+
+
+Throughout the period, horses were rarely described by breed,
+　but rather by type: by describing their purpose, or their physical attributes.
+
+
+中世を通して、軍馬について品種について記されることは稀であり、
+　利用目的や、身体的な特徴で記される方が一般的であった。
+
+
+
+
+
+
+
+Many of the definitions were not precise, or were interchangeable.
+
+
+その数少ない記述の多くも、明確でなかったり、どうとも取れるものであった。
+
+
+
+
+
+
+
+Prior to approximately the 13th century, few pedigrees were written down.
+
+
+13世紀頃までは、わずかな血統書が書き残されているのみであった。
+
+
+
+
+
+
+
+Thus, many terms for horses in the Middle Ages did not describe breeds as we know them today,
+　but rather described appearance or purpose.
+
+
+従って、中世の軍馬についての表現は、今日我々が知る品種と言う意味合いではなく、
+　体躯や目的別に分けられた総称であった。
+
+
+
+
+
+
+
+One of the best-known of the medieval horses was the destrier, renowned and admired for its capabilities in war.
+
+
+軍馬の中でも最も有名なものでデストリア（Destrier）がある。
+　デストリアは人気があり、軍馬としての能力には定評があった。
+
+
+
+
+
+
+
+It was well trained, and was required to be strong, fast and agile.
+
+
+デストリアは強く、速く、素早くあるようにと十二分に調教されていた。
+
+
+
+
+
+
+
+A fourteenth century writer described them as "tall and majestic and with great strength".
+
+
+14世紀の作家がデストリアのことをこう記している。「大きく、気高き、素晴らしき力を持ちしもの」
+
+
+
+
+
+
+
+In contemporary sources, the destrier was frequently referred to as the "great horse"
+　because of its size and reputation.
+
+
+現在では、デストリアであったろう軍馬の品種を、その表現と評判を以って、
+　グレートホース(Great Horse)と呼称されている。
+
+
+
+
+
+
+
+Being a subjective term, it gives no firm information about its actual height or weight,
+　but since the average horse of the time was 12 to 14 hands (48 to 56 inches (120 to 140 cm)),
+　thus a "great horse" by medieval standards might appear small to our modern eyes.
+
+
+ただそれらも主観的な表現であり、実際の体高や体重がどの程度であったかを示す確実な資料は存在しない。
+　その当時の平均的な馬の体高は12~14ハンド（1.22~1.42[m]）であった為、
+　中世で言うところの“Great Horse”は、現代の我々の目から見れば小さく感じるかもしれない。
+
+
+
+
+
+
+
+913 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:06:45.75 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　／　　　　 　　 　　｀`ｰ‐-、
+　　　　　　　　　　　　　　　;"　　　　　 　　　　 　　　　　）
+　　　　　　　　　　　 　 　/　　　　　　　　　　　　　　　　|ﾉ
+　　　　　　　　　　　　　　|　　　　　　　　　　 　　　　　 )/.　日本ではデストリアでググるとチョコボが
+　　　　　　　　　　 　　　 |　　　　　　　　　 ,;';;,,　　　　/ﾉ　 出てきます。
+　　　　　　　　　　　　　　|::::.................:::::::::;;,'^;､::::::'''..,,_;､丿
+　　　　　　　　　　　　 　/:::::::::::::::::::::::::::;"ﾞ, /ﾞ~ﾞ`''::;'ﾞ; 　 　　後ここで言うところの騎士（knight）は、
+　　　　　　　　　　　 　 `､;;::::::::::::::::;／　),;'　　　:.'.,、 　　　　戦闘員の総称じゃなくて身分のことだと思われます。
+　　　　　　　　　　　 ,へﾉ 　 `'''''"´　 　.:;　　　　 .:::_ヽ
+　　　　　　　　　 Ｙ　　 ＼　　　　 　　.::;　 　　 ::::ゝ　　 　　 後多分この記述英国主観なので、
+　　　　　　　　　∧　　　　＼　　　 　::::::､　　 .:;`　　　　 　　気をつけて読んでください。
+　　　　　　　　　|ヽ丶　　　　＼;;　　:::;;;;::..,,､. ::i
+　　　　　　　　　|　`　　　　　 　＼;;;;/　 　 `ﾞ
+
+
+
+
+
+
+
+The destrier was highly prized by knights and men-at-arms, but was actually not very common,
+　and appears to have been most suited to the joust.
+
+
+デストリアは、騎士や兵士によって非常に珍重された。
+　しかしながら、実際はそれほど一般的なものではなく、馬上試合で用いられることが多かったようである。
+
+
+
+
+
+
+
+A more general-purpose horse was the rouncey (also rounsey), which could be kept as a riding horse or trained for war.
+
+
+より一般的に使われた馬として、ラウンシー（RounceyまたはRounsey）がある。
+　ラウンシーは乗馬用として使われつつ、戦闘も行えるよう調教されていた。
+
+
+
+
+
+
+
+It was commonly used by squires, men-at-arms or poorer knights.
+
+
+ラウンシーは騎士の郎党、兵士、貧しい騎士等が飼育していた。
+
+
+
+
+
+
+
+A wealthy knight would keep rounceys for his retinue.
+
+
+裕福な騎士は自分の郎党のためにラウンシーを保持していた。
+
+
+
+
+
+
+
+Sometimes the expected nature of warfare dictated the choice of horse; when a summons to war was sent out in England,
+　in 1327, it expressly requested rounceys, for swift pursuit, rather than destriers.
+
+
+時には、戦争の状況が想定される場合、ラウンシーが指定される場合があった。
+　1327年のイングランドにおいて、戦時徴兵時、迅速な追撃を行う為、明確にラウンシーが指定されたことがある。
+
+
+
+
+
+
+
+The well-bred palfrey, which could equal a destrier in price, was popular with nobles and highly-ranked knights for riding, hunting and ceremonial use.
+
+
+
+血統の良いパルフレイ（Palfrey）と言う馬は、貴族や高位の騎士の間で人気があり、
+乗馬や狩、式典において乗用された。価格はデストリアと同じくらいであったようだ。 
+
+
+
+
+
+
+
+Ambling was a desirable trait in a palfrey, as the smooth gait allowed the rider to cover long distances quickly in relative comfort.
+
+
+側対歩はパルフレイの売りであり、滑らかな歩みは、他の種類より比較的楽な旅路をもたらしていた。
+
+
+
+
+
+
+
+Other horse types included the jennet, a small horse first bred in Spain from Barb and Arabian bloodstock.
+
+
+他にはジェニット（Jennet），これはスペインにおいて、バルブ（Barb）種とアラブ（Arabian）種の交配で生まれた小型馬である。
+
+
+
+
+
+
+
+Their quiet and dependable nature, as well as size, made them popular as riding horses for ladies;
+　however, they were also used as cavalry horses by the Spanish.
+
+
+ジェニットは穏やかな気質の持ち主で、大きさも手頃であった事から、女性用乗馬として非常に好評を博した。
+　しかし、スペインにおいては騎兵用の馬としても用いられていた。
+
+
+
+
+
+
+
+Rounceys were sometimes used as pack horses (but never as cart horses).
+
+
+ラウンシーは荷馬として利用されることもあったが、馬車馬として利用することはほとんど無かった。
+
+
+
+
+
+
+
+The hobby was a lightweight horse, about 13 to 14 hands (52 to 56 inches (130 to 140 cm)), developed in Ireland from Spanish or Libyan (Barb) bloodstock.
+
+
+ホビー（Irish Hobby） は軽量種で、体高は13~14ハンド（1.32~1.42[m]）。スペイン種とバルブ（Barb）種を交配させて生まれたアイルランド馬である。
+
+
+
+
+
+
+
+This type of quick and agile horse was popular for skirmishing, and was often ridden by light cavalry known as Hobelars.
+
+
+ホビーは足が速く敏捷性があり、小規模戦闘に向いていた為、軽騎兵用の馬として用いられる。
+　ホビーに乗る騎兵の事をホビラー（Hobelars）と呼んだ。
+
+
+
+
+
+
+
+Hobbies were used successfully by both sides during the Wars of Scottish Independence,
+　with Edward I of England trying to gain advantage by preventing Irish exports of the horses to Scotland.
+
+
+ホビーはスコットランド独立戦争時、敵味方双方に渡って効果的に活用された。
+　イングランドのエドワード一世は戦局を有利に進めるために、アイルランドのスコットランド向けホビー輸出を止めるようとさえした。
+
+
+
+
+
+
+
+Robert Bruce employed the hobby for his guerilla warfare and mounted raids, covering 60 to 70 miles (97 to 110 km) a day.
+
+
+Robert Bruce（スコットランド王ロバート1世）はホビーを用いて、一日に97~110[km]を走破しながらゲリラ戦を展開した。
+
+
+
+
+
+
+
+Horses in the Middle Ages
+<a href="http://wikipedia.org/wiki/Horses_in_the_Middle_Ages" target="_blank" title="ttp://en.wikipedia.org/wiki/Horses_in_the_Middle_Ages">ttp://en.wikipedia.org/wiki/Horses_in_the_Middle_Ages</a>
+より引用 
+
+
+
+
+
+
+915 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:09:06.20 ID:et6mQQEo
+
+
+
+
+
+
+.　　　N. {'　　　　　　　　　　 　 ＼
+.　　N. {　　　　　　　　　　　　　　 ヽ
+.　 N.ヽ｀　　　　　　　　　　　　　　　〉　　
+　 N.ヽ｀　 　 　 　 ,.ｨｲ从　　 　 　 /　　　各自暇があれば調べてみてください。
+.　 ヾミ.＿__-‐=彡'ノﾉﾉ__,ゞミ=-_rく　　　 デストリアの子孫は下に。
+　　　　lrf´ゞ“ﾓ=ヾｰf =ﾓﾁ＜}rv^i !
+　　　　ヾﾄ、｀￣,り「弋! ￣´ノ　ソ　　　 因みに戦国時代に来た海外の宣教師が日本の馬を小さいと思ったのは、
+　　 　 　 !　￣　 ii{_,.　 ￣　　/r'´　　　デストリア級と比べたんでしょうね。
+　　 　 　 ,ゝ、　 ｉｰ-ー､　　, '　|＼
+　　-‐''7´　ドヽ. ｀ニﾆ´ .／;;　 |　 ヾ''ｰ-　後、コーサー(Courser)とチャージャー(Charger)ってのがありますが、
+　　　 /　　 ﾄ､　` ｰ-- ´　,;'　,ｲ　　:|　　　コーサー(Courser)は軍事専用のラウンシー見たいなもので、
+.　　 /　　　:ト､` ｰ-､ r--‐_'´/　　　|　　チャージャー(Charger)はデストリア、コーサー、ラウンシーの総称とか。
+　　/　_,..､-‐＼ ￣! ﾚ' 厂　/へ、　 :|
+　　T´　ヽ＼l.0| 　 V / 　 / /　 ＼　|
+
+
+
+
+
+
+
+・デストリア（今のサラブレッドと同じか少し小さい。値段はラウンシーの4~25倍）の子孫。
+　所謂重騎兵用の馬。
+
+
+
+
+
+
+Percheron　1.68[m]　<a href="http://images.google.co.jp/images?q=Percheron" target="_blank" title="ttp://images.google.co.jp/images?q=Percheron">ttp://images.google.co.jp/images?q=Percheron</a>
+Friesian.　　 1.62[m]　<a href="http://images.google.co.jp/images?q=Friesian" target="_blank" title="ttp://images.google.co.jp/images?q=Friesian">ttp://images.google.co.jp/images?q=Friesian</a>
+Belgian　　　1.70[m]　<a href="http://images.google.co.jp/images?q=Belgian" target="_blank" title="ttp://images.google.co.jp/images?q=Belgian">ttp://images.google.co.jp/images?q=Belgian</a>
+
+・文中に出てきた品種
+Arabian. 　　1.47[m]　<a href="http://images.google.co.jp/images?q=Arabian+horse" target="_blank" title="ttp://images.google.co.jp/images?q=Arabian+horse">ttp://images.google.co.jp/images?q=Arabian+horse</a>
+Barb　　　　 1.40[m]　<a href="http://images.google.co.jp/images?q=Barb+horse" target="_blank" title="ttp://images.google.co.jp/images?q=Barb+horse">ttp://images.google.co.jp/images?q=Barb+horse</a>
+Spanish. 　　1.52[m]　<a href="http://images.google.co.jp/images?q=Spanish+horse" target="_blank" title="ttp://images.google.co.jp/images?q=Spanish+horse">ttp://images.google.co.jp/images?q=Spanish+horse</a>
+
+・おまけ
+Hobelar　 <a href="http://images.google.co.jp/images?q=Hobelar" target="_blank" title="ttp://images.google.co.jp/images?q=Hobelar">ttp://images.google.co.jp/images?q=Hobelar</a>
+Hobilar　　<a href="http://images.google.co.jp/images?q=Hobilar" target="_blank" title="ttp://images.google.co.jp/images?q=Hobilar">ttp://images.google.co.jp/images?q=Hobilar
+</a>
+
+
+
+
+
+
+※ただし、近代改良を受けて総じて大型化している可能性がある。 
+
+
+
+
+
+
+916 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:10:43.83 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――長いので三行で説明すると、
+
+
+　　　　　　　　　　　体高と
+　　　　　　　　　　　戦闘能力は
+　　　　　　　　　　　関係無い
+
+
+　　　　　　　　　　　　　　∧＿∧　　　ﾌﾟｯ　
+　　　　　　　　　　　　　 （　 ´,_ゝ）
+　 　 　 　 　　　　　　／ 　 ､ ヽヽ　ミﾐ(ヽ,,,ﾍ
+　 　 　 　　　＿_＿_（　___ ヽ二つﾐﾐｼﾞ ,,　･ヾヽ、
+彡彡彡ミﾐ"´ 　||　丿丿 |￣" 　　 ｀`メ-ゝ-々_ﾟ〉
+　 　 　 /,　　,） ヽ（＿）-"　　ヽィ´,／
+　 　 　（　　,ヽ 　 　 | | 　 　､ヽ )ﾉ l
+　 　 　 ヽ　　ﾉ｀ﾞ`i''‐'‐'─ｔ" ヽ<ﾉソ 
+
+
+
+
+
+
+917 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:11:47.85 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――“いけづき”は体高四尺八寸(約145～150cm)。
+
+　　　　　――当時としてはグレートホースである。
+
+
+　　　　　　　　　　 | ｀'|
+　　　　　　　　　　ﾉ,.､ ゝ､._＿
+　　　　　　　　 ／ー ､,__､,.__　｀＼
+　　　　　　 　 /＿,,._/_,ｼﾞ＝､＼　 ＼
+　　　　　　　/ - ､,_　　ヽ､_　:》､＼ 　 l
+　　　　　　 /　ｨ‐ ､_｀'‐ ､,_ヾ゛＼ ｀ヽ/´＼
+　　　　　　/ / |　　　＼＿ ｀ ‐ ､_>　ヽ_／〉
+　　　　　 /　|　〉､＿／ヽ７＼_i／__＼_li∠、
+　　　　　　｀'＞|iﾍ/'`Y´`|i　//T/,-‐｀ﾆ _‐､>'"＼
+　　　　　 ／／ヽ∧_ハ.ｲ｀ﾒ‐|./ﾊ'､＿＿ 〉ﾉ!丶､　＼
+　　　,..､/.／ 　 ,.<ゝｨ;;/ `゛‐ｲﾉ｣|ﾍ――‐ ｲ!ヽ　 ｀丶＼
+　 ／ゝへヽ_.／　 〉YV'y‐|`vﾍ　＼ヽ-t‐'"　 ,|i　　　｀i |
+　/　　　　｀'ー‐'/r'v‐i'ヾ_,ﾄｲY'＼_ ￣７＼／　| / ﾄ‐''´
+　ヽ､_　　　∠ｰf_ﾊ.,l､.ト|´＼ﾉ ソ! |ﾄ､　＼l＼　 !| /
+　　　 `''‐'゛　￣||i｀ヽ ‐| /｀l／ 　 |.| ヽ 　 ＼＼V
+　　　　　　　　　|l　／　｀ヽ/　　　| |　 ヽ　 ヽ＼＼ ＿
+　　　　　　　　　〉く　　　／　　　//　　 ヽ　 ヽ　＼_＼｀ ‐ 、
+　　　　　　　　　|ヽ/　 ,ｲ　　　_//　　　　＼　 ＼_/ ＼＼　 ＼
+　　　　　　　　　|　|　 /　　　 | /　　　　　　 ＼ 　 ＼＿`ー ､_ ＼
+　　　　　　　　　!　 i.∧　　　 |.|　　　 　 　 　 ／／`ｰ､　 r‐‐＝ニ＼
+
+
+
+
+
+
+
+　　　　　――寧ろ海外のwikiを見る限り小型馬のほうが速度や敏捷性において
+
+　　　　　――勝ってる認識さえある。
+
+
+
+
+
+
+
+
+
+918 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:12:54.57 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　───―――
+　　　/＼ 　 　 　 ヾ､-=＝＝==─-丶＼｀'‐ .,_ ＿＿＿ ＿､ﾆﾐ 三.､/
+　､.ヾ　丶丶----;‐ゝ､ -:==;─- .,∠　i.丶 　 /_.､ -‐''`　｀'‐.,
+　} |　 ⌒l l‐┬‐'-r.| .,（_Y_） _＿｀' ｀`{ .二}ゝb'ソ_￣￣　|￣
+　 丶 ⌒! !ﾆ!　 　　l| 　￣￣ 　''''　､d/￣ﾘ｀‐ﾞ--　　　　|
+　　丶.ノ（ゞ　　　　　＼,_　　　　　_.､/ 　..:;;ｿ 　 　　　　 |　　それでは皆さんにクエスチョン。
+　　　＼'‐＼i　　　　　　￣￣￣　、.. 　 .,__)｀'‐--=＝ｰ　　　何故サラブレッドは足が速いのでしょうか？
+　　　　|::＼_､l 　　　　　　　　　　　｀ ￣ ､ﾄ:::. 　 　　　　i
+　　　　| 　 　:| 　 　 　 　 　 　 　 　 　　　　　　　　　　!
+　 　　､ト　　::! 　 　 　　　　　⊂ﾆﾆﾆ:==‐ｰ　　　　　/
+
+
+
+
+
+
+
+919 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:13:52.50 ID:1fgG5Xco
+
+
+<strong>えーっと…スラっとしていて足が長いから？ </strong>
+
+
+920 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:13:53.31 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　　　　　　,,..--―-､　　 　　　 /￣￣￣￣￣￣￣￣￣￣￣
+　　　　　　　　 ／, -----､.ヽ, 　　　 /　　世界、ふしぎ発見！
+　　　　　　　　 | 　i_,,,,_ 　__ﾞl |　　　　| 　
+　　　　　　　　 ,!､i'ﾞ-‐-: '-､|/　　　／　　＿＿＿＿＿＿＿＿＿＿
+　　　　　　　　/'') ..., '‐-‐､.j　　　　￣￣
+　　　　　　　 / ,‐!::...`'''''''`ﾉ
+　　　　　　_,,,l ;! ::|ヽ､二 イ
+　　 , -‐'ﾞ゛　i::.. 　| .ヽ/;ヽj!`‐-､_
+　　 l 　　　 ﾉ::.　.:|、 .ヽ,:ヽ|　 <゛~ヽ、
+　　,:''`` ''"ﾞ.|;;:‐''ﾞ|.ヽ、 ヽ;::|　 /　 .|ﾞl
+　 ,:　　　　 ヽ::il;;!　　ヽ､ヽ|　/　　 | :|
+　 i　　　 oﾟ :｀;''ﾞ　　　 　ヽ| /　　　|　.|
+　 i　　 ..:::::,:::'::::: .　　 　　 |ﾟ　　　 |,,;:->、
+　　`.､__;;／:::::::::: :　　　　 |　　　　!''"　 |
+
+
+
+
+
+
+
+921 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:13:55.05 ID:6S6FtuYo
+
+
+<strong>足が長いから？ </strong>
+
+
+922 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:13:58.47 ID:YH4HcM2o
+
+<strong>
+脚が長くてストライドが大きい、にヒトシくん人形をだす </strong>
+
+
+923 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:14:04.97 ID:c0JnZJQo
+<strong>
+
+ぜい肉が少なくて軽いから？
+足細いよね。 </strong>
+
+
+924 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:14:25.75 ID:.W66/Q.o
+
+
+
+<strong>・平坦な馬場を
+・軽い重量で
+・速く走るためだけに
+品種改良されたから？ </strong>
+
+
+
+925 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:15:15.33 ID:et6mQQEo
+
+
+
+
+
+
+　　ヽ、.三 ミニ、＿ ＿＿＿ _,. ‐'´／/-─==＝＝=-、ヾ 　 　 　 ／ヽ
+　　　　　　　 ,.‐'´　　　 __　 ヽ 　 /.i　　|　__＼.　 |、ゝ‐;----//　ヾ.、
+　　　　　　　[　|、!　 　'´lノ:　|}二. {`´ ヽ! lノ:!ヽヽ |. |.r-'‐┬‐l l⌒　| }
+　　　　　　　 ゛l |｀}　..: 　|:::|　リ￣ヽd、　 |:::|　/|ヽ　 |l　　　!ニ! !⌒ //
+.　　　　　　 　 i.! l .:::::. ┴'‐ ソ;;:..　 ヽ、._⊥:L.|ノ　_,ノ'　　　　　ゞ）ノ./
+　　　　　　　　 ｀ ー＝=--‐'´(__,. 　 ..、　￣￣￣　　　　　　i／‐'／　　　　正解は――、
+　　　　　　　　　 i　　　　 　 .:::ト、 ￣ ´　　　　　　　　　　　 l、_／::|
+　　　　　　　　　　!　　　　　　 　|￣￣|　 　 　 　 　 　 　 |:　 　 |
+　　　　 　 　 　 　ヽ　　　　　　 ヽ、__/　　　　　　　 　 　 !::　　　ト、
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　,,_,
+　　　　　　　　　　　　　　　　　,, ﾉ!／;;i!r‐,,､_
+　　　　　　　 　 　 　　　　　　 | i!::＾:::::::: :::::::::｀`'‐‐-､
+　　　　　　　　　　　　 　　　|`i::::':::::::::: :::::::::::::::::::: ::::::ﾞi__　
+　　　　　　　　　　　　　　,､ﾞi ﾞ':::'::::::::　::::::::::::::::: :::::::::::::::ﾞi.　 　“足が遅い固体”と“走れない個体”を、
+　　　　　　　　　　　　　　 ﾐ::':::::::::::::::　 :::::::::::: :::::::::::::::::::::ヽ.　　・ ・ ・
+　　　　　　　　　　　　　　　　ヾ:::::::::::::::: : : : :,;_;,;､:: : : : ::::ｿ　　潰してコンビーフにしているから、
+　　　　　　　　　　　　　　　　〈《{ﾞ7`'‐-､彡彡ｿ_||: : : :::::ｿ
+　　　　　　　　　　　　 　 　 　 ヾ|!,,　 　 }ミr'''E=､,ヾ:::::ｿ　　　“速い”のです。
+　　　　　　　　　　　　　　　　　 i| `‐-‐'ｿ｀i　｀ﾞ`''）ﾐぅi´
+　　　　　　　　　　　　　　　___r'´ヽﾞゝ,_ﾐ|_　`'‐-‐'/ソ
+　　　　　　　　　　＿_,,,-‐''::::::::::::;-i　 ﾞﾞ''==-‐ヾノ| ''ヽ,
+　　　　　　　 _,,ｨ'´　　:::::::/　　::|　ヽ`' :､__,,, ィ'´:::| ''　|`'‐､
+　　　　　　　|ﾐ　ﾐ　　　／　　 ::| 　 ＼　　_,, ィ''´:|　　 |　　`'‐､
+　　　　　　　7ヾ　i　／　　　　/|　,,-‐''＜,　 　 ﾉ|　 　 |　　　　`'‐､,,
+　　　　　　 / 　 ヾi/　　　　　|　!´ ヾ;;;;;ソヽ､ ,ﾉ | 　 　 |　　　,,-‐''´|
+　　　　 　 /　　　/　　 　 　 /　 | /::::::|　　/　　|　　 　 |　,r' 　　　 } 
+
+
+
+
+
+
+926 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:15:52.34 ID:1fgG5Xco
+
+
+<strong>な、なんだってー！？ </strong>
+
+
+
+
+928 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:16:39.61 ID:smy3k32o
+
+
+
+<strong>なんという最終的解決ｗｗ </strong>
+
+
+930 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:17:17.32 ID:.W66/Q.o
+
+
+<strong>
+ああw
+自然でなく淘汰してるってことですかw
+馬刺しおいしいです </strong>
+
+
+
+931 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:17:43.00 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――遺伝子は気まぐれで、放っておくとあっという間に品種の特性が変わってしまう。
+
+　　　　　――足の速い雄を足の速い雌と掛け合わせ、
+
+　　　　　――その積み重ねでサラブレッドという品種が作られ、
+
+　　　　　――その積み重ねでサラブレッドという品種が保たれるのである。
+　
+
+（　　　　　　　　　）　　　　　ゝ　　　　｀ヽ(　　　　　　　　　　　）　　　　　　　　　　 |
+　ゝ　　　　　　　　　　 ｀ヽ,(　　　 (　　　　　　　　　　　　　　　　｀ヽ
+（　　　　　　　　　　　　　　）　　　　）　　　　　　　　　　　　　　　　 ）
+.
+.
+.
+　　　　　　　 　 　 　 　 ∧＿　　　　　　　　　＿∧
+　　　　　　　　　　 　 ／ ・,＿）　　　　　　　 （＿｀　ミ_
+　　　　_,,--───'~　,／　　　　　　　　　　　　 ＼,　~'───--,,
+　　　λ　_　　 　 　 _　）　　　　　　　　　　　　　　 （　_　　　　　　 λ
+　　 ノ　〉〉￣￣￣　 〉〉　　　　　　　　　　　　　　　 | |　￣￣￣ | | ﾉ
+　　　 //　 　 　 　 //　　　　　　　　　　　　　 　 　 | |　　　　　　| |
+从wＷW从ＷW从Ｗ从WＷ从从WＷ从WwＷW从wＷW从wＷW从W从wＷW从W从ＷW 
+
+
+
+
+
+
+932 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:18:47.27 ID:6S6FtuYo
+
+
+<strong>ゴキブリと同じですねわかりますｗｗ </strong>
+
+
+933 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:18:54.19 ID:wBlFZ1co
+
+
+<strong>コンビーフとマヨネーズ玉葱和えは数百年後にも通用する食い物だと思うぜ </strong>
+
+
+
+934 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:18:57.65 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　,,_　　　　　　　　　　　足の遅い固体を絶種する。
+　　　　　　　　　　　　　　　　　 ,,r''ﾞ:::::ﾞ`'‐-､,_ 　 　　　　　遺伝子のひとかけらも残さない。
+　　　　　　　　　　　　 　　　　 ,r'::::::::::::::::::::::::::::ﾞ‐,　　　　　そうしてサラブレッドは“維持”される。
+　　　　　　　　　　　 　　　　 ､〉:::::::::::::::::::::::::::::::::::',　　　　 交雑は赦さない、絶対にだ。
+　　　　　　　　　　　　　　　　''‐;;;:::::::::::::::;从::::::::/
+　　　　　　　　　　　 　　　 _,, -‐'｀'こ_)ﾐr‐=､,,r'i' 　　　　　動物も植物も変わりません。
+　　　　　　　　　　　　,,-‐'':::::::::::/l i ''-t,,`‐,f'l´lヽ
+　　　　　　　　　　　　>iヽ:::::::::;/ l l ﾐ=-ｯ '' ;:l　l　　＼　　　品種は維持しないと2，3代経たずに
+　　　　　　　　　　　 ﾞ!i!　　 ::/　l :lr'´};;;r ､r'l　 i!　　　＼　 形質が変わってしまいます。
+　　　　　　　　　　　 /i!ヾ　 /　,/ :l　/:::l　/ l　　i!　　 / i}
+　　　　　　　　　　 r''　 l ,／　 /　:l,/::::::l /　l　　:i!　/　/　　交配させて選抜して交配させて、
+　　　　　　　　　　 〉ヾ／　　 / 　 l!::::::::l/　 l　　 i! }-‐{　　　そうやって目的とする形質を得、
+　　　　　 　 　 　 /,／ 　 　 .i!　　 {:::::::::} 　 l　　　i!　　ﾞｩ　　維持します。
+　　　　　　　　　/ ´- ､,,＿_ i!＼　 l::::::::l 　 l 　 　 ﾞi!　ﾞ i{
+　　 　 　 　 　 /　　_,,r''´　 i!　　ヽ l::::/　,,rl_,,,＿ 　 ＼ .i! 　馬の繁殖可能な年齢は3~18歳。
+　　　　　　　 /　 l￣　　　　i!　　　i!ﾞy,,r'　l!　 　 こ￣　 i!　 つまり、10世代が最短30年で達成できる。
+　　　　　　　 ＼'''l　　　　　i!　　　 ,/'　 　 l　　　　｀`!　 i! 
+
+
+
+
+
+
+935 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:19:12.03 ID:c0JnZJQo
+
+
+<strong>おいらは品種改良は当然と思うが・・・競走馬育成の話にどっぷりつかっちまったせいか </strong>
+
+
+
+937 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:19:37.13 ID:YH4HcM2o
+
+
+
+<strong>ダビスタ＆ウイポの世界ｗｗ </strong>
+
+
+
+938 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:20:13.77 ID:1fgG5Xco
+
+
+<strong>なんという劣悪遺伝子排除法 </strong>
+
+
+
+
+940 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:21:59.59 ID:5glpTeQo
+
+
+<strong>でも、ある種の遺伝子を消してしまうということは、生物として、すさまじく脆弱になるってことだよなー。 </strong>
+
+
+
+941 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:22:23.54 ID:et6mQQEo
+
+
+
+
+
+
+
+
+　　　　　――現在の大型馬の元になっているアラブ種がアラビア半島から欧州に来たのは1500年。
+
+
+
+
+
+
+
+
+　　　　　　 ,ﾊiヽﾐ　　　　　　　　　　　　　　　∧,,∧
+　　　 　 　/"･,,　ミﾐ　　　　　　　　　　　　　(＾ω＾；)っ_/)　　　≡ ＝
+　　　　　 (｡／ ) 　 ミi┬―┬‐'⌒ヾﾐミミミ彡と,,＿＿,,つ
+　　　　　　　　ﾉ　 　 |_|_____.|　"　 　 ）　　　　　　　　　　　　　　　≡ ＝　=　-
+　　　　　　　,(　、　 ,,）_.||＿彡(　 ,,ノ　　　＝　―
+　 　 　 　　 /／（ ﾉ."　　　　,ﾉ.ノ, (　　　　　　≡ ==
+　　　　　　// 　　＼Ｙﾌ 　, '／　 い　　　　　　　　三 ≡ ＝ ―
+　　　　　 くﾉ 　　　　" 　くﾉ 　　 //"三
+　　 ,.,,, ,.,,,　　　　　　,,,　　　　　くﾉ　　　,,,
+
+
+
+
+
+
+
+　　　　　――主にポーランドで品種改良が行われ、
+
+　　　　　――あのユサールことポーランド騎兵の原動力となった。
+
+
+
+
+
+
+
+
+942 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:22:40.75 ID:wBlFZ1co
+
+
+<strong>まあ軍馬としては荷馬みたいな馬力、スタミナ重視の馬も必要とされるしな </strong>
+
+
+
+ 
+944 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:23:31.85 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　　　/!/ヽ‐'"　　　　　　　　 /　ｲ⌒ヽ
+　　　　　　　 　,l_/　　　　　　　　　　 l l　　/ /!　　 ヽ
+　　　　　　　　 |l　　　　　　　　　/lﾊ//　　V|　!　　　ﾊ
+　　　　　　　　 |　l　　　　　　 ／　　ｲ　　　　ヽヽ/Vl　!
+　　　　　　　　 | ﾊVヽﾄ`ー- ' イ／　　 ,ｨ/!　　＼ ∧l |
+　　　　　　　　､ﾄ､ ＼ ヽー- '　　_,..ｨ/ // ハ ト､　　　l!
+　　　　　　　　 ＼　　ヽ＿,.メ､＜イ_／__,.._-=ニ-ヽ _,/　　 
+　　　　　　　　　　ヽi｀､|　 ､‐rｯヾ =|二|-=_rｯァ　｀}',.}　　　 
+　　　　　　　　　　　{ ヽ!　　 ￣ シﾉ!　ヽヽ ￣　　//ﾘ　　　 Museum of London（ロンドン博物館）の、
+　　　　　　　　　　　ヽヽ!`ー--‐'´/|　　` ｰ--‐ ' /./　　　　英国中世本によると、。
+　　　　　　　　　　　　＼!　　　　　ヾ_,.　　　　　 /‐'　　　　　以下のようになるようです。
+　　　　　　　　　　　_ィﾆlヽ　　　　＿＿　　　　,ｲiヽ､
+　　　　　　　_,. -‐'" 　 l |　＼　 　｀二´　 　,ｒ'　l !　 `ヽ､._
+　　_,. -‐ '"　　　　　　l　|　　 ＼ 　 　 　 ／ 　 | l　　　　　 ｀` ｰ- ､._
+‐'"　　　　　 _,. -‐　￣`ヽrァｒ--`‐──'‐‐-r ,!　!　　　　　　　　　　 ｀` ｰ-
+　　　 ＿,.ィ´　　　　 ヽ､._　ヽ　　　　　　　 ./ /i　 l
+ァ‐／ /　　　　　　　　　＼_ノ!　　　　　 　 ｌ / l　　',
+　/ 　 {　　　　　　　`ヽ､　 }!ヽ!　　　　 　 /V　!　　 ヽ
+　!　　 ヽ　　　　　　＼　 Y | 　` r====r'´　　|　　　　〉
+
+
+
+
+
+
+
+The Medieval Horse and Its Equipment: C. 1150-1450
+
+
+<a href="http://www.amazon.co.jp/Medieval-Horse-Its-Equipment-Excavations/dp/1843830973" target="_blank" title="ttp://www.amazon.co.jp/Medieval-Horse-Its-Equipment-Excavations/dp/1843830973">ttp://www.amazon.co.jp/Medieval-Horse-Its-Equipment-Excavations/dp/1843830973</a>
+
+
+
+
+
+
+
+The Roman specimens from London so far recovered have produced a maximum of 13_3/4hand (LDW84),
+　most specimens being over12 hands except for one animal from late Roman deposits
+　at Beddington villa (BSF86) of just under 11 hands (Pipe &amp; Reckham 1990)
+
+
+今までの所、ロンドンで発掘されたローマ時代の馬骨は最大体高13_3/4ハンド（1.39 [m]）、
+　Beddington邸の後期ローマ遺跡から出土した11ハンドの一匹を除いて、
+　馬骨の多くは12ハンドを超えている。
+
+同p169より
+
+
+
+
+
+
+
+946 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:24:37.05 ID:9f3bevEo
+
+
+<strong>ラバみたいなのもいたな。
+優秀だけど繁殖しないという。</strong> 
+
+
+947 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:25:45.74 ID:5glpTeQo
+
+
+<strong>つーことは、マケドニア騎兵とかはせいぜいポニーだと </strong>
+
+
+
+948 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:25:56.20 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――つまりあの紀元前のカンネーの戦いやザマの戦いには、
+
+
+
+
+
+
+
+
+　　　　　　. ━━━━Ｏ／⌒ヽ━━━━ﾛﾆニ＞
+　　　　　　　　 　 ∧,,∧(＾ω＾　)
+　　　　　　　　　 /ο ・ )Ｏニ)<;;>
+　　　　　　　 　 /　　 ノ lﾐliii|(ヾゝ
+　　　　　　　　 (o_o,ｲ＿_ヽ´|(__) ﾉ~⌒）彡　　　┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨
+　　　　　　　　　 　 ﾉｌｌｌｌｌｌｌｌヽ| |￣ノl　ﾉ
+　　　　　　　　　　 / /~ヽ ﾉ'''''''~ヽヽ＼ヽ_
+　　　　　　　　　　 ヽニﾌ|_|　　　(_/　　ヽﾉ
+　　　　　　　　　　　　 　 (_ヽ
+
+
+
+
+
+
+
+　　　　　――主戦力が、“ポニー級”であった可能性もある。
+
+　　　　　――しかしまあ、当時の馬の体高は140~150ほどであったらしいが。
+
+
+
+
+
+
+
+
+949 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:27:01.68 ID:6S6FtuYo
+
+
+<strong>昔の人間の体格と今の人間の体格は違うだろうしなぁ・・・ </strong>
+
+
+950 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:28:09.17 ID:et6mQQEo
+
+
+
+
+
+
+ヽ、.三 ミニ、＿ ＿＿＿ _,. ‐'´／/-─==＝＝=-、ヾ 　 　 　 ／ヽ
+　　　　　 ,.‐'´　　　 __　 ヽ 　 /.i　　|　__＼.　 |、ゝ‐;----//　ヾ.、
+　　　　　[　|、!　 　'´lノ:　|}二. {`´ ヽ! lノ:!ヽヽ |. |.r-'‐┬‐l l⌒　| }
+　　　　　 ゛l |｀}　..: 　|:::|　リ￣ヽd、　 |:::|　/|ヽ　 |l　　　!ニ! !⌒ //
+.　　　　 　 i.! l .:::::. ┴'‐ ソ;;:..　 ヽ、._⊥:L.|ノ　_,ノ'　　　　　ゞ）ノ./
+　　　　　　 ｀ ー＝=--‐'´(__,. 　 ..、　￣￣￣　　　　　　i／‐'／
+　　　　　　　 i　　　　 　 .:::ト、 ￣ ´　　　　　　　　　　　 l、_／::|
+　　　　　　　　!　　　　　　 　|￣￣|　 　 　 　 　 　 　 |:　 　 |
+　　 　 　 　 　ヽ　　　　　　 ヽ、__/　　　　　　　 　 　 !::　　　ト、
+
+
+
+
+
+
+
+ヌミディア騎兵はともかく、ガリア騎兵やローマ騎兵の乗馬は“ポニー”に分類されたのかもしれません。
+まあ、ブリタニアは後進もいいとこですから、地中海の方がどうだったかはわかりません。
+この本によると中世の馬の体高は10_1/4~16ハンド（1.04~1.63 [m]）だったとか。
+更に言えば中国始皇帝の兵馬俑出土の馬は1.3 [m]。
+兵馬俑は限りなく現実に近づけているので、この体高が当時の基本であったことがわかります。
+少なくとも体高と戦闘能力に全く相関性はないことがこれでわかります。
+
+
+
+
+
+
+
+951 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:30:18.17 ID:et6mQQEo
+
+
+
+
+
+
+
+
+　　　　――なお、鎌倉から出土した、南北初期の新田義貞が埋葬した馬の体高の平均が、1.30 [m]。
+
+　　　　――当時としては別に小さいわけではない。
+
+
+
+
+
+
+
+　　　　　　　 .ィ:::::.:.イ　l,,＿＿__'':::::::::::::::丶
+　　　　　／ﾉ;;;／/::::i::::（ ＾ω＾　i::::::::::;;;;丿＼
+　　　　/ ::::::::::...ﾉヽ,,,/:::丿＿＿/　　/__::::..　ヽ
+　　　./　ゝ　... .ll::::::::巛＼) ＿　　 ノ　ﾍ　　.丿
+　　 /　.:::　:::::::::ll:::::::/:::::::::ヽ＿￣￣ (　:::;:;::/
+　　ヽ　::::　.:::::::ll::::ノ:::::::::::::::::::::──__＼::";;丶
+　　/　::::　::::::::/／:::::::::::::::::::::::::::::::::::ヽ:::::＼：・ヽゝ_　___--''''' ~~ '' ヽ
+　 /　　　:::: ◇:::::::::::::::..　::.. 　　　　:::::丶:::::＼／ヽ:::ヽ....::::.....　　　..::..丶
+　/　:::::...- ノヽ::::::::::::::::::.. ::::..　　　　　:::::丶::::ヾ::::::ヽ::::＼:::　　　 ..:::::::::...ヽ,,,,,,,,,,,
+　ゝ ⌒)ﾉ　　　＼:::::::::::::. ::::::..　　　　.: ::::::::i::::ゝ:::::ノ:::::::::＼　　　:::::::::::::.. ..:::::::::::::::,,,,,,,,,
+　＼_ノ　　　　　　ヽ::::::::::.. 　　　　 ..::　:::::::i::::::::::::::::::::::::::::::..　....::::::::::::::::::: 　;;;;;;;;;;;:::::::::::
+　　　　　　　　　　　）:::::::::::　　　　..:::::　 :::::i::::::＿__---￣~::　...:::::::::::::: ::::/''';;;;:::::;;;;;;;; 
+
+
+
+
+
+
+
+　　　　　――また、下級御家人の新田義貞がそこまで良い馬が揃えられたかも疑問である。
+
+
+
+
+
+
+
+952 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:31:56.91 ID:UU6J1V6o
+
+
+<strong>木曽馬も十分でかい。180cmの人間が乗っても、木曽馬を小さく感じなかった。 </strong>
+
+
+953 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:32:29.14 ID:5glpTeQo
+
+
+<strong>新田の零落は物悲しい脳 </strong>
+
+
+954 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:33:15.77 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　　――なお、鎌倉当時、軍馬と乗馬を乗り代えて使用した形跡があり、
+
+　　　　　――乗馬はタフで、軍馬は速度に優れた馬を使用していたのだろう。
+
+　　　　　――範頼はおそらくその違いがわからず、
+
+　　　　　――頼朝からもらった軍馬を二頭乗馬として使って乗り潰してしまっている。
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　 ,　-‐'":::::::::::::｀ヽ､
+　　　　　　　　　　　　　 　 　 　_∠:::::::::::::::::::::::::::::::::::::＼
+　　　　　　　　　　　　　　　　／:::::::::::::::::::::::::::::::::::::::::::::::::ヽ
+　　　　　　 　 　 　 　 　 　 / .: . :: .: .::::: : :.　:::. : ::::. : : ::::::ヽ
+　　　　　　　　　　　　　　 /. .: :.: :: .:::;;- ､ : :. :::. .　::. : :. :::::::',
+　　　　　　　　 　 　 　 　 {::::::::::::::::::/　　ヽ:.::..::::::.::::}::::::::::::::::}
+　　　　　　　　　　　 　 　 l::i;::::::::l::ﾄ{__　　 }:::;ｲ::::／l::::::::::::::::l
+　　　　　　　　　　　　　　 'i:{ヽ:::::ﾄ{Tフﾐ､ ﾉ'´ﾉｊｨﾌT}／::::}､::{ 　　
+　　　　　　　　　　　　　　　ﾞ{　 7;'､ゝ-'　 ,　　　'-ソイ :::ｊ/::i;'､
+　　　　　　　　　　　　　　　　ノィ:::ヽ　 　 ､　　　　 /. ::/::::::}｀`
+　　　　　　　　　　　　　　　　 //}::::;＼　ﾏ￣ ﾌ　_/1::/:::::::ﾉ
+　　　　　　　　　　　　　 ,　-‐{/‐!:/{::::{} ヽ二‐ '´ . ｌ:/;ィ::/
+　　　　　　　　　　　　／　　　　 ｌ'　ヽ{」　　　　　　ｌ/' ﾉ' ￣` ー- ､　　 __／￣ヽ
+　　　　　　　　　　　/　　　　丶､　　　`}　　　　 /　　　　　　∠-‐''"￣､　　　　ﾉ
+　　　　　　　　　　 ,'　　　　　　　` － ､,　　　∠_,　-―一 '´　　　　　__＞ｒ‐ '´
+　　　　　　　　　　 }　　　__　　　　　　　　　　　 {{　　　　　＿　　　　 ヽ　 ヽヽ
+　　　　　　,. -―‐┴―- ､ヽ　　　　　　　　　　　｀'''''''''''''へ　　　　　 /　　 /`ヽ
+　 　 　 ／　　　　　　　　　｀}　　　　　　 }　/　　　　　　　　{`－ ｒ , ｨ 　 ／　／〉
+　　　, '　　　　　　　　　　　 {　　　　　　　　　　　　　　　　　ヽ､_ ``- ｚ'´　／ , '
+　　 /　　　　・　　　　 ・　　 ',丶 __　　　　　　　　　　　　　／　　7 ‐一`'''ー'´ 
+
+
+
+
+
+
+956 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:34:15.28 ID:smy3k32o
+
+
+<strong>勿体ねえな </strong>
+
+
+957 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:34:38.55 ID:YH4HcM2o
+
+
+
+<strong>な　ぜ　裸　だ </strong>
+
+
+
+959 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:35:41.48 ID:et6mQQEo
+
+
+
+
+
+
+　 NヽN｀　　　　　　　　　　　　　　｀ﾞ､
+.、Nヾミ　　　　　　　　　　　　　　　　i
+　ヾミﾐ､　　　　　　 _,.ｨｲ八、　　　　 !
+　　ー-=ﾆ ＿,..､_'"'ノ,."-'ニ'ヾ､.＿ l_
+　　　　　{F|!　￣ ﾞiニ{'´　 ￣ﾞ!r'-r,^､i　　 因みに、良くこの手の本に頻出する、
+　　　　　 l;jﾞ､_ 　 ﾉ　ヽ)、　　ﾉ'　 ゝ:'/　　 NHK“歴史への招待”で行われた“実験”があります。
+　　　　　　｀!　￣ヽ '　　￣~´u　,'.,ｨ'　　　 当時の馬と同じ1.3 [m]に、人間と45 [kg]の錘を載せて走らせたところ、
+　　　　　　　i.u　　_＿_　　　　　,'　|　　　　分速150 [m]で十分程度しか走れなかったと言う。
+　　　　　　　 ヽ､ ´ -- ｀` 　 .／　 ﾄ、
+　　　　　　　,..-i;:ヽ、　　 ,. '´　　／ ヽ､_
+　　　　_,.イ´　 j　　￣￣　　 ／　　　,i､ﾞト-､
+
+
+
+
+
+
+
+
+　 |ゝ､ヽ　　─　　　　　/　　　　ヽ　|
+　│ ヾ　ゝ＿　　　　　　　　　＼　　|
+　│　　ヽ＿ ＿ ／　/| |＼　　　＼｜
+　　＼ヽ　　　＿ ／/ / |　　＼　　 ｜
+　　　ヽ＼二＿二//　∠二二二| ﾍ|
+　　　　| | | ヽゝｿゝ|TT|<ゝｿ ﾌ　|/ｂ｝　　　実際映像を見てないので何ともいえませんが、、
+　　　　ヾ| ヽ＿__ ﾉ/|| .ミ＿＿ ﾉ | ﾉ　　　　大概の書物では品種も明確にせず（多分乗馬）、
+　　　　　 | 　 　 　 ⊿　　　　　 /ﾌ　　　　 どのような調教や交配が行われ、
+　　　　　　|　u　.F二二ヽ　　 /|/　　　　　 どの程度比較に妥当性があるかについて無批判に引用されております。
+　　　　　　＼. 　 |/⌒⌒|　　 ｲヽ
+　　　　　　/. ＼　 ＝＝′／ |.| |　　　　　その“実験”そのものの意味はともかく、
+　　　　 ￣|｜　 ヽ＿＿／　　/ /￣　　　 この実験を興味深いとか言って、“源平合戦は実は～”って言う人は、
+　　　　　　＼ヽ＿＿＿＿＿ノ ﾉ 
+
+
+
+
+
+961 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:36:44.91 ID:c0JnZJQo
+
+
+<strong>
+<span style="color:#0000FF">>>954</span>
+軍馬と乗馬は別の品種ということかな？
+それともたまたまタフな馬を乗馬用、速い馬を軍馬用として使っていただろうということなのかな。 </strong>
+
+
+
+962 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:36:55.49 ID:et6mQQEo
+
+
+
+
+
+
+　.ﾄ│|、　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 |
+.{､l ､ﾄ! ＼　　　　　　　 　 　 /　　 　 ,ﾍ　　　　　　 　 　 　 　 　 |
+i　 ﾞ､ iヽ　　　　　　　　　　／　 /　　/　ヽ　　　　　　　　　　　　│
+. ｌヽﾐ ゝ`‐､_　　　＿_,. ‐´　 ／　 ,.ｲ　　 ＼　ヽ　　　　　　 　 　 |
+　`‐､ヽ.ゝ、_　　　　＿,,.. ‐'´　 ／/l , ‐'´, ‐'`‐､＼　　　　　　　 |　　“俺達は勘違いをしてたのかもしれない。
+　ヽ､.三 ﾐﾆ､＿ ＿＿＿ _,. ‐'´／/-─==＝＝=-､ヾ 　 　 　 ／ヽ　　秋田犬に犬ぞりを引かせたら長距離引けなかった。
+　　　　　　 ,.‐'´　`''‐- ､._ヽ 　 /.i　∠,. -─;==:- ､ゝ‐;----//　ヾ.､　だから同じ体高のシベリアンハスキーもきっと引けるわけがない。
+　　　　　　[　|､!　 /'￣r' ゝ}二. {`´ '´＿_ （__）,. |.r-'‐┬‐l l⌒　| }　　ちょっと小さいサモエドも引けるわけがない。
+　　　　　　 ﾞl |｀}　..:ヽ--ﾞ‐´ﾘ￣ヽd､　''''　 ￣￣　 |l　　　!ﾆ! !⌒ //　だとしたら引ける犬なんて居ない事になる。
+　　　　　　 　 i.! l .:::::　　 　 ｿ;;:..　 ヽ､._　　　　　_,ノ'　　　　　ゞ）ノ./　 つまり――。”
+　　　　　　　 ｀ ｰ＝=--‐'´(__,. 　 ..、　￣￣￣　　　　　　i／‐'／
+　　　　　　　　 i　　　　 　 .:::ﾄ､ ￣ ´　　　　　　　　∪　　 l､_／::|
+　　　　　　　　　!　　　　　　　　　　 　 　 　 　 　 　 　 　 |:　 　 |
+　　　 　 　 　 　 ヽ　　　　　ｰ‐=======‐-　　　　　 　 !::　　　ト､
+　　　　　　　　　　 ヽ　　　　　､＿＿,,.. 　 　 　 　 　 　 /:;;:　　　.!; ＼
+　　　　　　　　　　　 ヽ　　　　　 ::::::::::: 　 　 　 　 　 ／:::;;::　　／　　 l 
+
+
+
+
+
+
+963 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:37:56.10 ID:et6mQQEo
+
+
+
+
+
+
+　　li　l　ヾ、　　　　ヾ　　　　　　　　_,,=＝　　ミﾍベ
+　 , |i､ヽ　　ヽ､　　　　 ヽ　　　　　　　　　　　　 ヾ　ﾞ
+　 !ヾ　ヽー- ＿　ー-　,,__　　　　　　　　　〃ヾ
+　　ヾヽヾ　‐- ,,___　　　　　　　　　　　　 /ｿﾂ､ヾゞ､ヾヾ
+　　 ` ､`ー-　、...,,─--　　__,,　　　　　彡ｿｿ　ヾゞゞミﾐ
+　　ヽ.､　`ー ---　.,,─--　　__,,　彡ソｿﾉ,;　　,,-弋ミﾐﾐミ
+　　　 ＼　ﾞｰ‐- ､..,,,____,,. --彡彡彡'"'",ィ'-＝＝==､ヽミﾐﾐ
+　　　　　 ｀`,.-､-─r,=＝＝＝=､:;;,,::;;::f" ,.'i´ o`i　冫ヽ ]-'´　∧∧
+　　 　 　 　 ﾞiヾ ニill　〈　（.Ｏ)ーi｀￣´i　　_`_-_'....'　　li　ﾞ＿/　　　ヽ
+　　　　　　　 ﾞi　　 ill::::::::;ｰ-‐γ'i'::l,⌒ヾ`)::::::::::;;''　　〃u ＼
+　　　　　　　　ﾞi　　:ill::::::::;;　　ソ::::;i,､,　 ヾ:::::::;'''　_,,ノ'　　,r-|
+　　　　　　　　 ﾞi､　　ﾞ`‐=＝'"..::::::;i,, .,,,　 ﾞﾞ'''''"~´　　　　l＿|　　“犬ぞりなんて嘘だったんだよ！”
+　　　　　　　　　　ヾ.ｲ　　　　　　　 '''"..-一､　　　u　　 .lヽ
+　　　　　　　　　　　 ヽ　　　　　:;;l￣´　_,,,...,.ヽ　　　　 ,ｲ＿〉
+　　　　　　　　　　　　 ﾞi.　u　　　;;iｪ'´　i'　 ヾﾄ!　　　 ./:! ＼
+　　　　　　　　　　　　　 ﾞ!.　　　 :;;Fi、　　　,,.ﾂ　　　./;:;:　　ﾞi
+　　　　　　　　　　　　 ./ﾞi ヽ　　 ﾞ;ヽﾆ二ニ-'´　 .／　:;:;　 / ﾍ
+　　　　　　　　　　　 ／　i　　ヽ　　　　:..,,-‐'　／::;'　 ;:;　/　　/∨＼/
+
+
+
+
+
+
+
+　　　　　　　　　ナ ゝ　　　ナ ゝ　/　 　 十＿"　 　 ー;=‐　　　　　　　　　|! |!
+　　　　　　　　　　cト　　　　cト　/＾､_ﾉ　 | ､.__　つ　 （.__ 　 ￣￣￣￣ 　 ・ ・
+
+　　　　　／　ミ:::,..::- ､::;;;ﾐミミ彡）　　　　　　　　　　　　 .／´.: .:: ~:. :.｀ﾞｰ=,
+　　　 !'"　 ﾐ:::／　　　u｀ヽ--､'k.､　　,..-一､,.‐--､,,_　　 i '.: .:　,,..,.,..,..　ﾄﾞヾ　　　__,,,,...::-一=､
+　　　 i.　ﾐ::／　ﾞﾞﾞ''ヽ、　 u　　 iミ;!,.'";: .: .: .: .:. ::　ド;'.　　i _,.ｧ='-ノﾉi!_､i　　　 ／.: .: :　　　:. :.ﾐ
+　　/',､ヾ　! u　,'"´r｡`ヽ､_ :.　_,,iﾐi ''　　彡_ｲｨiﾚヾiﾞ｀　　iﾍi ﾞ--ﾟ,..` t_;7!　　　.i .:　,.=-､ｿiヾ､.,ヾ
+　　ﾞi 'ﾍ i:┘　　ﾞｰ---.,,　 ﾞi''f..i ,.i.-.／r'"r｡ヾ､ｨ;､ﾞ!　　　ゝ. u .,.-､.,.ゞ. i　　　.r､:i‐i' ( ;) i-i;"ﾞi'
+　　 .! ﾞヾ　　u　　　　"　　 .:ﾔ''〈ﾍｫi　u￣,._　ﾄ‐-!　　 ,,.ｨ''ヾ ド--､ 〉丿　　　ゞ_ uﾞｰ=､'.冫ィ
+　 _,__7‐'i　　　　　,.:-‐-､.´／　.i,ﾞF'i　　 /__.ﾞﾗ' ,..j_,,ｨ'"　i.　.:ヾ.==-'/　　_,,..／i'　.､（ー-7 ノ
+;'";;;ﾞi.　　i.　　　 /｀＝=‐-/　 .ノ: i.　＼ ﾞ､__./.／　　ﾞ､　 :i. ﾞ' .:::`ﾞT´ i`ｰ'-､;,.　 ﾞ､ ::ﾞｰr-'_´
+;;;;;;;;;;ﾞi.　 ,;＼　　ﾞ､-- ､.:/　／;,: : :ﾞi :. ;,,｀ｰr'´､.__　　 ﾞ､　 .i.-､ ,.-i:　.i　　　ﾞi ;,　　ﾞ､;::::i　 ';,ー､
+;;;;;;;;;;;;ﾞi.　, ; ;;＼　 ﾞ二ﾆ'.／: : : ;,: : :ﾞﾄ､　;;::i: : :;,: :.ヽ　　ﾞ､　.:i.　　 i　:i　　　 ﾞi　;,　　ﾞ､ﾉ　　;'　 :i
+
+
+
+
+
+
+
+
+　　　　――大体これと同じことを言っているに等しい。
+
+
+
+
+
+
+
+
+
+965 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:39:59.95 ID:et6mQQEo
+
+
+
+
+
+
+　　　 　 　 　 　 　 　 　 ｲ/ f´:.:.ハ,ﾊ
+　　 　 　 　 _　　　　　 　 Vい__{:.:.ﾉ ｱ
+　　　　　　 i:ﾊヽ. 　 __　,／.-‐;.:.:｀`く
+　　　 　 　 |:r':.:.:￣:.:.:.:｀´く´ :,!:.:.:.:.:.:.ヽ
+　　　　　　 }:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヾ:j:.:.:.:.:.:.:.:.:.i
+　 　 　 　 /:.:.:.: .:.:.:.:. ..:.:.:.:.:.:.:.{:.:.:.:.:.:.:.:.:.|
+　　 　 　 ,':.:.ｆぅ:.:.:.:.:.:ｒぇ:.:.:.:.:.:.:!:.:.:.:.:.:.:.:.:l
+.　　　 　 {:.:r ､_;.-､:.:.｀¨_:.:.:.:.:.:.|:.:.:.:.:.:.:.:.:|
+　　　　　ﾍ:{　､_ﾞT⌒¨´　ヽ:.:.r1:.:.:.:rﾍ:.:.j
+　　　　　　}!ヽ　　｀´　 ,　'⌒:}_}:.:.:.j　 ヽ!
+　　　　　　{|　 ｀ －　　　　 /メヽ;ハ　 }|
+.　　　　 　 ドヽ_　　　　_,.〃 }:.:.ﾊ}　 i　∥
+　　　　　　 l! ｀ーtュ-‐''´　 l:.:.!´ 　 {　jj
+　　　　　 　 ',　　ｰtt__,　 　 l:.;'　　　｀¨′
+　　　　　　　 i!　　 |＾´ l　　 |:i 
+
+
+
+
+
+
+
+
+　　　　　――サモエドや樺太犬は体格が小さくても長距離の犬ぞりが引ける。
+
+　　　　　――犬ぞりに用いられる犬種は大きくとも体高60 [cm]。
+
+　　　　　――ドッグレースにはグレイハウンドという体高70 [cm]前後だが当然犬ぞりは引けない。
+
+　　　　　――近代の軍馬と中世の軍馬は乗せる対象自体が違う。
+
+　　　　　――速度重視のサラブレッドをグレイハウンドとすれば、
+
+　　　　　――運搬能力重視の中世の馬はシベリアンハスキーともいえる。
+
+　　　　　――体高だけで単純比較しようとする事自体がそもそもの間違いなのである。
+
+
+
+
+
+
+
+966 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:43:05.98 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿,,, ,,,, ,,,,､＿ ＿＿ ,,, ,- '.;;;;;
+　　　　　　　　　　　　　　　　　　　　　　　　　　＿　__,,,-ｰ''´;::::::;;;;;;;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;;
+　　　　, __,,,,,‐‐ー ー,,　､　　　　　　　_,,,-‐‐''´;:::;　::;;''''　:／:::::　::::::::;;;;;;; ;;;;;;; ;;;;;;;;; ;;　;　;;;;
+　_,,,,-='´;;;/ヽ;ヽ　;　;; ;;　i　　　　.／´;;;;;:::;;;:::::::::;;'''　　:: ／::::::::　:::　:::::::'''　;;;;;　 ;;;;;;;;　　;; ;;;
+/,,,　!_ 二ヽ二 /　i　;;ヽ　 |　　／:::;;;　;;　;;　;;;;　 ;;　::　/　::　:::　:　::::　;;　　;;　　　:;　　;ﾞ　　_
+|　＿＿,, ‐、＿／!　;;　;;ヽ;|-/;;;;;;::::　|　 ;;　　;;　 :;;　 /　　::　::　ノ　:　　:　　:: 　　 _ ,,,-ｰ''´
+..Ｗ!!Ｗ""　 _,‐‐'´;,_ 　;;　;;＼ !　＿ i　 ;;　　 ;;　;;:　/　　　 ／　　...::::／ 　_ -´￣
+　　　/　,,,ii/　　　| 　｀ー-‐、_|　　::::i　:;;　　 ;;　;; /　　　／　　::_,,-´　 _／
+　　!!MM／　_,-‐´￣｀ｰ--､　 ヽ　::i _ ;;_,　ー;;　;;|;;;;;冫=‐ _,,-''´　　 ／ ､
+　　ヽ-‐‐''''´　　　　　　　　￣ヽ_ヽ　i__;;　___,,,-ｰヽ;;::::::　　 ::i＿ _.,‐´:::::: ヽ
+　　　　　　　　　　　　　　　　　　　|　i　￣　　 　　　i;;;;; i　: :|　　　｀ｰ､_;;;;;;ヽ
+　　　　　　　　　　　　　　　 ,-ｰ´,ｰ´'! 　　　　　　 　　'i;;; i　::|　　　　　 ｰ､_　＼._
+　　　　　　　　　　　　　　　ヽｿ￣　| |　　　　　　　 　　'!;; ;i;:/　　　 　　 　　ヽ:::: :｜
+　　　　　　　　　　　　　　　　　　　 i ソ　　　　　　　　　'!;; ::|　　　　 　　　 　 !;; ;;| | 
+
+
+
+
+
+
+
+　　　　――大体、骨からの情報だけで何もかもわかったつもりで居られるなら、
+
+　　　　――恐竜の姿かたちはもっと早く決まってもいいはずである。
+
+　　　　――骨はわかっても、その骨についていた筋肉はわからず、
+
+　　　　――当時の100[kg]に及ぶ武士を乗せて戦闘が出来た馬が、例え居てもおかしくない。
+
+　　　　――シェットランドポニーと、サラブレッドは、本来同じウマなのである。
+
+
+
+
+
+
+
+967 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:44:44.21 ID:5glpTeQo
+
+
+
+<strong>犬だって、チワワからセントバーナードまで、学名はみんなカニス・ファミリアだしなー。 </strong>
+
+
+
+968 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:44:53.27 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　　　　　　_,.-‐"':"￣~ﾞ'ヽ、
+　　　　　　　　　　　／　　　　 　　 　　｀`ｰ‐-、
+　　　　　　　　　　;"　　　　　 　　　　 　　　　　）
+　　　　　　 　 　/　　　　　　　　　　　　　　　　|ﾉ
+　　　　　　　　　|　　　　　　　　　　 　　　　　 )/.　　日本の木曽馬についてだが
+　　　　　 　　　 |　　　　　　　　　 ,;';;,,　　　　/ﾉ　　
+　　　　　　　　　|::::.................:::::::::;;,'^;､::::::'''..,,_;､丿 　明治期に西洋種の導入と共に軍馬としての
+　　　　　　　 　/:::::::::::::::::::::::::::;"ﾞ, /ﾞ~ﾞ`''::;'ﾞ; 　 　　 需要を失った。
+　　　　　　 　 `､;;::::::::::::::::;／　),;'　　　:.'.,、 　　　　馬ってのは目的にあわせて
+　　　　　　 ,へﾉ 　 `'''''"´　 　.:;　　　　 .:::_ヽ　　　Breeding（交配）とTraining（調教）を行わなきゃいけない。
+　　　　　 Ｙ　　 ＼　　　　 　　.::;　 　　 ::::ゝ　　 　 馬を育成するのは金も手間もかかる。
+　　　　　∧　　　　＼　　　 　::::::､　　 .:;`　　　　 　やめるのは一瞬だ。
+　　　　　|ヽ丶　　　　＼;;　　:::;;;;::..,,､. ::i　 　　　 　あっという間に交雑し、ノウハウも失われただろう。
+　　　　　|　`　　　　　 　＼;;;;/　 　 `ﾞ
+
+
+
+
+
+
+
+　　　　　　　　　　　　　_,.-‐"':"￣~ﾞ'ヽ、
+　　　　　　　　　　　／　　　　 　　 　　｀`ｰ‐-、
+　　　　　　　　　　;"　　　　　 　　　　 　　　　　）
+　　　　　　 　 　/　　　　　　　　　　　　　　　　|ﾉ
+　　　　　　　　　|　　　　　　　　　　 　　　　　 )/.
+　　　　　 　　　 |　　　　　　　　　 ,;';;,,　　　　/ﾉ　　そして昭和14年（1939年）に制定された種馬統制法で、
+　　　　　　　　　|::::.................:::::::::;;,'^;､::::::'''..,,_;､丿 　軍用に不向きな小型馬は繁殖を禁止
+　　　　　　　 　/:::::::::::::::::::::::::::;"ﾞ, /ﾞ~ﾞ`''::;'ﾞ; 　 　　 昭和18年（1943年）、木曽馬系種牡馬はすべて去勢。
+　　　　　　　 　 `､;;::::::::::::::::;／　),;'　　　:.'.,、 　　　木曽馬の絶滅を惜しむ人たちが、
+　　　　　　 ,へﾉ 　 `'''''"´　 　.:;　　　　 .:::_ヽ　　　 神馬として奉納されていた純血木曽牡馬を漸く見つけ、
+　　　　　 Ｙ　　 ＼　　　　 　　.::;　 　　 ::::ゝ　　 　　それが漸く現在木曽馬200頭まで回復した。
+　　　　　∧　　　　＼　　　 　::::::､　　 .:;`　　　　 　しかし過度の近親交配で矮小化してしまった。
+　　　　　|ヽ丶　　　　＼;;　　:::;;;;::..,,､. ::i
+　　　　　|　`　　　　　 　＼;;;;/　 　 `ﾞ 
+
+
+
+
+
+
+969 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:45:52.86 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　　　　　　_,.-‐"':"￣~ﾞ'ヽ、
+　　　　　　　　　　　／　　　　 　　 　　｀`ｰ‐-、
+　　　　　　　　　　;"　　　　　 　　　　 　　　　　）
+　　　　　　 　 　/　　　　　　　　　　　　　　　　|ﾉ
+　　　　　　　　　|　　　　　　　　　　 　　　　　 )/.　残ってたのは農耕用だ。
+　　　　　 　　　 |　　　　　　　　　 ,;';;,,　　　　/ﾉ　　胴が長いのは盲腸が長い為だ。
+　　　　　　　　　|::::.................:::::::::;;,'^;､::::::'''..,,_;､丿 　草だけで生きていける、燃費が良い。
+　　　　　　　 　/:::::::::::::::::::::::::::;"ﾞ, /ﾞ~ﾞ`''::;'ﾞ; 　 　　 短足は坂道や泥田でも踏ん張りが利く。
+　　　　　　 　 `､;;::::::::::::::::;／　),;'　　　:.'.,、 　　　　この農耕馬は需要があったから、維新後も
+　　　　　　 ,へﾉ 　 `'''''"´　 　.:;　　　　 .:::_ヽ　　　Breeding（交配）とTraining（調教）が残った。
+　　　　　 Ｙ　　 ＼　　　　 　　.::;　 　　 ::::ゝ　　 　 軍用木曽馬は生き残れなかったんだ。
+　　　　　∧　　　　＼　　　 　::::::､　　 .:;`
+　　　　　|ヽ丶　　　　＼;;　　:::;;;;::..,,､. ::i
+　　　　　|　`　　　　　 　＼;;;;/　 　 `ﾞ
+
+
+
+
+
+
+
+　　　　　　　　　　　　　_,.-‐"':"￣~ﾞ'ヽ、
+　　　　　　　　　　　／　　　　 　　 　　｀`ｰ‐-、
+　　　　　　　　　　;"　　　　　 　　　　 　　　　　）
+　　　　　　 　 　/　　　　　　　　　　　　　　　　|ﾉ
+　　　　　　　　　|　　　　　　　　　　 　　　　　 )/.　 木曽馬は奇跡的に絶滅を免れたが、
+　　　　　 　　　 |　　　　　　　　　 ,;';;,,　　　　/ﾉ　　以下の日本在来種が絶滅した。
+　　　　　　　　　|::::.................:::::::::;;,'^;､::::::'''..,,_;､丿
+　　　　　　　 　/:::::::::::::::::::::::::::;"ﾞ, /ﾞ~ﾞ`''::;'ﾞ; 　 　　 南部馬、三春駒、三河馬、能登馬
+　　　　　　 　 `､;;::::::::::::::::;／　),;'　　　:.'.,、 　　　　土佐馬、日向馬、薩摩馬、甲斐駒、ウシウマ
+　　　　　　 ,へﾉ 　 `'''''"´　 　.:;　　　　 .:::_ヽ
+　　　　　 Ｙ　　 ＼　　　　 　　.::;　 　　 ::::ゝ　　 　 本当に、木曽馬が生き残ったのは奇跡なんだよ。
+　　　　　∧　　　　＼　　　 　::::::､　　 .:;`
+　　　　　|ヽ丶　　　　＼;;　　:::;;;;::..,,､. ::i
+　　　　　|　`　　　　　 　＼;;;;/　 　 `ﾞ 
+
+
+
+
+
+
+970 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:47:14.10 ID:6S6FtuYo
+
+
+
+<strong>ウシウマってなんぞ？ </strong>
+
+
+
+971 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:48:56.29 ID:c0JnZJQo
+
+
+
+<strong>うわ、名門の馬産地が…
+戦時統制なんて大嫌いだー </strong>
+
+
+
+972 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:49:02.09 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　――したがって、日本の軍馬は、事実上絶滅したといって良い。
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　|,, |;;;;;;;;|　､､,,,,/
+　　　　　　　　　　　　　　　　　　　　　　|∩;;∩|　､,,,,/
+　　　　　　　　　　　　　　　　　　　　　彡ミミミ/　､,,,|
+　　　　　　　　　　　　　　　　　　　　彡ミミ/つ　､,,,,,|
+　　　　　　　　　　　　　　　　　　　彡ミミ:/ /　､､　,,|
+　　　　　　　　　　　　　　　　　　彡ミミ:V /　,,、,,,、,|
+　　　　　　　　　　　　　　　　／::::::::::::::::::ｲ　,,,､,　,,　|
+　　　　　　　　　　　　　　／::::::::::::::::::::::::/　,,,､,,,　,､,,|
+　　　　　　　　　　　　　/　::::::::::::::::::::::::/　,,　,,､､,,　,,|
+　　　　　　　　　　　　　|　::::::::::::::::::::::/　､､,　,,,　､,,　＼
+　　　　　　　　　　　　　|　::::::::::::::―く＿＿＿＿_　｀'''　＼
+　　　　　　　　　　　　　＼＿＿＿＿＿＿＿＿_二つｗｗ,＼
+
+
+
+
+
+
+
+
+　　　　――今となっては、もはや彼らの事実がどうであったかは。
+
+　　　　――地道な発掘、文献調査しかないのである。
+
+　　　　――それを無視して、現在の木曽馬を基にした“科学的”と称する論説は、
+
+　　　　――いささかフェアではない。
+
+
+
+
+
+
+
+
+974 ：以下、VIPにかわりましてパー速民がお送りします [sage]：2009/10/17(土) 03:50:34.51 ID:5glpTeQo
+
+
+
+<strong>ぐぐった。本当に危ないところで、木曽馬は生き残ったのか。 </strong>
+
+
+
+975 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:50:42.06 ID:et6mQQEo
+
+
+
+
+
+
+
+　　　　――日本列島の中世を駆けた軍馬たち。
+
+
+
+
+
+
+
+
+
+　　　　　　　. ━━━━Ｏ∧　∧━━━━ﾛﾆニ＞
+　　　　　　　　　 　 ∧,,∧（　｀Д´）
+　　　　　　　　　　 /ο ・ )Ｏニ)<;;>
+　　　　　　　　 　 /　　 ノ lﾐliii|(ヾゝ
+　　　　　　　　　 (o_o,ｲ＿_ヽ´|(__) ﾉ~⌒）彡　　　┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨┣¨
+　　　　　　　　　　 　 ﾉｌｌｌｌｌｌｌｌヽ| |￣ノl　ﾉ
+　　　　　　　　　　　 / /~ヽ ﾉ'''''''~ヽヽ＼ヽ_
+　　　　　　　　　　　 ヽニﾌ|_|　　　(_/　　ヽﾉ
+　　　　　　　　　　　　　 　 (_ヽ
+
+
+
+
+
+
+
+
+　　　　　――彼らの本当の姿が明らかになるのは、もう少し、先になるのだろう。
+
+
+
+
+
+
+
+
+
+977 ： <strong><span style="color:#009900">◆OSXMqpvhvA</span></strong> [saga]：2009/10/17(土) 03:51:58.04 ID:et6mQQEo
+
+
+
+
+
+
+　　　　　　　　　　,,..--―-､
+　　　　　　　　 ／, -----､.ヽ,
+　　　　　　　　 | 　i_,,,,_ 　__ﾞl |
+　　　　　　　　 ,!､i'ﾞ-‐-: '-､|/
+　　　　　　　　/'') ..., '‐-‐､.j
+　　　　　　　 / ,‐!::...`'''''''`ﾉ
+　　　　　　_,,,l ;! ::|ヽ､二 イ
+　　 , -‐'ﾞ゛　i::.. 　| .ヽ/;ヽj!`‐-､_
+　　 l 　　　 ﾉ::.　.:|、 .ヽ,:ヽ|　 <゛~ヽ、
+　　,:''`` ''"ﾞ.|;;:‐''ﾞ|.ヽ、 ヽ;::|　 /　 .|ﾞl
+　 ,:　　　　 ヽ::il;;!　　ヽ､ヽ|　/　　 | :|
+　 i　　　 oﾟ :｀;''ﾞ　　　 　ヽ| /　　　|　.|
+　 i　　 ..:::::,:::'::::: .　　 　　 |ﾟ　　　 |,,;:->、　　　　　　　┼ヽ　 -|r‐、.　レ　|
+　　`.､__;;／:::::::::: :　　　　 |　　　　!''"　 |　　　　　　　 ｄ⌒)　./|　_ノ　 __ノ 
+
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/883/clap" id="fc2button-clap-883" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-883").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/19.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/883/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫が鎌倉幕府の成立を見るそうです　番外編" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-883.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-1082.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第五十三 (2009/11/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1067.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第五十二 (2009/11/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1036.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第五十一 (2009/11/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1007.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第五十 (2009/11/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-975.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十九 (2009/11/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-926.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十八 (2009/10/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-886.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十七 (2009/10/18)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫が鎌倉幕府の成立を見るそうです　番外編 (2009/10/17)			</li>
+<li class="relate_li">
+<a href="/blog-entry-849.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十六 (2009/10/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-809.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十五 (2009/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-771.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十四 (2009/09/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-763.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十三 (2009/09/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-724.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十二 (2009/09/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-723.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十一 (2009/09/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-687.html">
+					やる夫が鎌倉幕府の成立を見るそうです　巻第四十 (2009/09/13)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫が鎌倉幕府の成立を見るそうです　番外編" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2009/10/17 17:10 ]
+<a href="/blog-category-23.html" title="カテゴリを参照">歴史系（日本史）　やる夫が鎌倉幕府の成立を見るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html#comment_list" title="この記事のコメントを参照">CM(28)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/883"
+    dc:title="やる夫が鎌倉幕府の成立を見るそうです　番外編"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html"
+    dc:subject="歴史系（日本史）　やる夫が鎌倉幕府の成立を見るようです"
+    dc:description="　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 广^|　 ll'"ﾞﾞl;;_厂´ゝ&#45;ri　 i,,......　　＝&#45;&#45;&#45;――&#45;i．　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｌ　　! ｰ″　　　　　　 .!　i{　　　　　　　　　　　｜　　　　　　　　　　　　　　　　　 　 　 　 　 　 P''″　　　 　 　 　 　 　 ,i &#45;" il　　,i&#45;，　　.,i=ｯ　　　 |　　　　　　　　　　　　　　　　　　　　　　　　 lm&#45;&#45;〟　.,,&#45;l=ｯ　 .て｝..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2009-10-17T17:10:32+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-880.html" title="やる夫達はカルト教団と戦うようです その３">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-884.html" title="やる夫は傭兵になるようです　おまけ">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment545">[ 545 ] <strong></strong></p>
+</div>
+<div class="comb">
+恐ろしい事実をしってしまった・・・！
+<div class="comment_navi">
+[ 2009/10/17 17:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment549">[ 549 ] <strong></strong></p>
+</div>
+<div class="comb">
+この作者の薀蓄披露は嫌味がなくて面白いなあ<div class="comment_navi">
+[ 2009/10/18 07:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment741">[ 741 ] <strong></strong></p>
+</div>
+<div class="comb">
+犬ＨＫは日本を貶めるためならなんでもやるぞ<div class="comment_navi">
+[ 2009/11/17 00:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment962">[ 962 ] <strong></strong></p>
+</div>
+<div class="comb">
+否定の為の薀蓄ではないのがいいんだよな<div class="comment_navi">
+[ 2009/12/05 20:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment13511">[ 13511 ] <strong></strong></p>
+</div>
+<div class="comb">
+これ、勘違いしてる日本中の人に知らせてやりたいよ・・・<div class="comment_navi">
+[ 2011/02/07 23:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment13831">[ 13831 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんか、目から鱗だった。<div class="comment_navi">
+[ 2011/02/14 21:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment14174">[ 14174 ] <strong></strong></p>
+</div>
+<div class="comb">
+閠逶 竇 竦闔碵. 竇 闍纔袱. 竇 芻琲鉤髓矗 袱礪瑯. ?鴈 竇繧 芻琲鉤髓碆. 竇 芻琲鉤髓矗 闊鱚? 竇 芻琲鉤髓矗  鱚齏繞. 芻琲鉤髓碆 瘰瑾邇竡 竇<div class="comment_navi">
+[ 2011/02/24 16:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">Burntreweerce</a>') } else {
+document.write("Burntreweerce"); }
+</script>
+<noscript>
+<a href="" target="_blank">Burntreweerce</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=14174" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment14375">[ 14375 ] <strong>凰踵 偵碼 説鴈跪瘉謌: : 袱褌 赭驪 艢謌矗鴾  褌韲瘧 瘡 ?6</strong></p>
+</div>
+<div class="comb">
+ﾀ糘珸瑩 ﾎ蒟? - 琥 蒟?瑙 ? 珞?礪 韈 ?  ??, ?? 珞? ?  裙. ﾖ褊  ?粱褊? 珞? ?  ﾀ糘珸瑩 ﾎ蒟??碵?萵褌 糂裘跫? 珞?礪 ?, 鈞萵ｸ 粽? ??褌 鍄糺  ?粢? 珞?粱琅褄?裘, 蒟? 糀褶瑣?  糂裘跫? 胛瑾, ??<a href=<a href="http://.name/r>.</a>" target="_blank">http://.name/r>.</a></a><div class="comment_navi">
+[ 2011/03/02 14:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">mocaexosics</a>') } else {
+document.write("mocaexosics"); }
+</script>
+<noscript>
+<a href="" target="_blank">mocaexosics</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=14375" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment14423">[ 14423 ] <strong>New news</strong></p>
+</div>
+<div class="comb">
+?萵纈. 圃 矗 粤諤-鴈?  
+沃 矗 ?韭 髀瑕蓿?鴈 跪肭?<div class="comment_navi">
+[ 2011/03/04 08:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">CoogeSturorce</a>') } else {
+document.write("CoogeSturorce"); }
+</script>
+<noscript>
+<a href="" target="_blank">CoogeSturorce</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=14423" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment15818">[ 15818 ] <strong>?蒻瑯 骼釶鞐芻 關蓐纃纃蕈 - 蓁髓頌襁? 闊髓鉉纈 蒻纈</strong></p>
+</div>
+<div class="comb">
+ﾓ  蓁? ?鶯 糺 ?褪 ?璞瑣? 
+[url=<a href="http://afwaeyaert.nm.ru/" target="_blank">http://afwaeyaert.nm.ru/</a>]竟????  韲褊褊?[/url] 
+[url=<a href="http://afwaeyaert.nm.ru/" target="_blank">http://afwaeyaert.nm.ru/</a>]竟???? ??鈿 ?????鐚/url] 
+[url=<a href="http://afwaeyaert.nm.ru/" target="_blank">http://afwaeyaert.nm.ru/</a>]?璞瑣 竟????[/url] 
+韭珸  ??? 
+ﾀ ??  蓿?.<div class="comment_navi">
+[ 2011/04/11 22:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://afwaeyaert.nm.ru";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">instrukcyoprimen</a>') } else {
+document.write("instrukcyoprimen"); }
+</script>
+<noscript>
+<a href="http://afwaeyaert.nm.ru" target="_blank">instrukcyoprimen</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=15818" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment16943">[ 16943 ] <strong>廉纃 蓁鱚鞳骰 鴈闊</strong></p>
+</div>
+<div class="comb">
+嘯辮纃,   騾踵 蓁鱚鞳骰 鴈闊 轢 鉤 ?頌跂. 辨籥 癈糂 艢褂糴矗鴾 鞐芻 蓁鱚鞳骰 骼癪鱶?  碌鴃纓? 跪聽 骼瘉鞐鴾?  粽鼇?跏. 博礦鱚 髷籥 驍鉞 褌諡繝  韲粫鱚諷?  鰰 聽 謫蔘 粽鼇繪. 俥瘤鰰蜥  肆礦鱚 鴦? 轢驪琅籥蜥繿? 落 站珥邇 - 辣 鞐髑諤瘠?蜥繿? 
+剥珸鱚 褌邃 逑肭 鉐鰰邇礦鴾?, 辣 黷諷袱蜥繿 驪蔕褌 驤譛邇 蓐, 跪肭 鉐鰰鴾? 辷  ?<div class="comment_navi">
+[ 2011/05/02 08:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">swetproorgo</a>') } else {
+document.write("swetproorgo"); }
+</script>
+<noscript>
+<a href="" target="_blank">swetproorgo</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=16943" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment18657">[ 18657 ] <strong>刹黽蓿繼? 銛鞐轢 -- 碌 蔡芫?</strong></p>
+</div>
+<div class="comb">
+ﾎ 糺?  ???, 蔘??  胛??? ?,  ?聿 ?粢 ? 蓖? ? ? ?珸琿? -- ﾏ??頸?..  [url=<a href="http://s-m3.ru/images/jpg/map.html" target="_blank">http://s-m3.ru/images/jpg/map.html</a>]?褥? 蓿琺粢 k50in [/url]  ﾒ頡? ?蒻 ? 糂裨 ?裨  ﾁ?韃 ?矜? ???鈞?. <div class="comment_navi">
+[ 2011/06/08 16:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://elartycoon.ru/includes/styles/map.html";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">wocuctfeets</a>') } else {
+document.write("wocuctfeets"); }
+</script>
+<noscript>
+<a href="http://elartycoon.ru/includes/styles/map.html" target="_blank">wocuctfeets</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=18657" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment18846">[ 18846 ] <strong>neium</strong></p>
+</div>
+<div class="comb">
+[url=<a href="http://nila.selfip.net/lavozyh/2009-12-01.html" target="_blank">http://nila.selfip.net/lavozyh/2009-12-01.html</a>]驟襃 芻琲鉤髓矗 邇碆褥芻纐袱[/url] 落驤譛 矗 繝 闔袱聽? 廷韲窶?, ? 辣 礦胝 粮韲竏. 剥璢鱚, ? 闔袱 辣 闔髓珥蓚 銓蔬葯譛逶 粫珮邇? 邇, 闔聽,  鴦 裨瑜驤驫蓍 驪齬珸 鞐舮碆纃? 謌鉐鱶. 零 辣闍銛 繚粫 轢 鉗 褌癪諷, 繿謌 鱚痳 銜 釿 諷笳? 耶 逑肭 碼鰰鴾 銜 跪籥 銜髷籥.                    
+ 
+刹齪珸, 逑  鱚? 鋏纃 瘤窶鴿 驪鈞瑁逶 艢閠? 尤襃,   蓐纃邇 鰰 轢闊騾邇? 沃闊騾邇,  ? 粮諞纃 ?礦鴆? 轢 關蒟邇 闢迥 7竡 驪? 淘謌 矗 銛銜辷褂 轢?鴆? 鰰? 繿謌 鉈 碼蜆齟 轢 驍?苜, 關蒻琅蓿 蓐 艢瘉鞐鴾? 銜鴦籥. 刹齪珸, 跂? 騾跪竡 粮諞逶 鞳 閠頌 跂? 骭纃蓿? 繿謌 鴈譛褌 ? 辣 轢頌 辷袱褂 關珥蓚.  辣譛? 癈粤  鉐鰰邇礦鴾, 繿謌 辣 銜裨蓿 碌 褌跫鱚顋  跏鞳. [url=<a href="http://salla.selfip.net/cats20/snyat-prostitutki-minska.html" target="_blank">http://salla.selfip.net/cats20/snyat-prostitutki-minska.html</a>]骰?鴾 關鉐鱶鴦鳧 跏迹?[/url]               
+ 
+落 ? 粽 瘤? 俥髑袱聽 跋 碌?  ? 蔡芻? 註午琿 蒟碚璞纃纐  碌 關葢鼬琺! 奈譛,  碌 鰰 闔謫謗髴.  鉈 髓鼕逑諤 鱚? 癈鴿謚鉗? 楳 鱚痳  碌闔跏轢鴾? 来 鈔轢 聽逋蓁 辣 譫瘉諤 跂? 鰰? 袱 譫瘉 鉈? 剪鉞鱚, 站?? 轢 ?鴈竦瑣蓙 鱚 驪珥逶 粱繪  窶籥纈? 袱 碌 跪站 驪鈕蓿?. [url=<a href="http://nila.selfip.net/menu14/seks-chat-znakomstva-dlya-seksa.html" target="_blank">http://nila.selfip.net/menu14/seks-chat-znakomstva-dlya-seksa.html</a>]驟襃  芻琲鉤髓矗 粳? 驟襃?/url]                 
+刹蔕褌 辷芒  ?硴 轢豸 轢 闔髓繼? ?鞳矼髓 竦琅籥迹褂  轢褌闊鱚譛. 圃袱? 騾赭? 譫瘉赭? 髓 矗竡 骰? 菩邃 鉈 髓鉞  籵辮? 碆 碚繻? 艪鉈袱 鱚諷?轢. 汳 ?迺瑜鱶袱, ? 鋏纃 髣瑜鳬萵. 囂鉤?逑鴈踈, 袱 碼 艢跂鱶謌,  ?鈞裙 轢髓鈞.            
+ 
+[url=<a href="http://stella.blogsite.org/menu14/gykybyv.html" target="_blank">http://stella.blogsite.org/menu14/gykybyv.html</a>]芻琲鉤髓矗 艢 頌痳 粳? 聽逋蓁[/url] <div class="comment_navi">
+[ 2011/06/12 08:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">enurnicle</a>') } else {
+document.write("enurnicle"); }
+</script>
+<noscript>
+<a href="" target="_blank">enurnicle</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=18846" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment19536">[ 19536 ] <strong>關萵矼</strong></p>
+</div>
+<div class="comb">
+ﾌ ? ??鞴瑣 ?? 砒??褊 ???    
+褊 蒡 -)   
+ 
+ ? 砒?胚 ?珥琿珥珥   
+ ?? 裘???  ??   
+ ?? 蓁? ?? ???   
+??? ?? ?  裄?   
+ 
+ 
+裄?<div class="comment_navi">
+[ 2011/06/24 04:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">Slaphybah</a>') } else {
+document.write("Slaphybah"); }
+</script>
+<noscript>
+<a href="" target="_blank">Slaphybah</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=19536" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment19679">[ 19679 ] <strong>? 關繚葢纃鱚 嚠辟韆閻, 轢骭纔謌碆 黷辮? 鉈 廷韭?  辣竡 癈粤 髓鉉 粤辣?  鉈 髏瑯 銜褓鈬 謫 驟鴾 袱痼褌 碆 碌纒 "體? 粤鞳硴? 代韭鉈鰰.</strong></p>
+</div>
+<div class="comb">
+凰 碆碌 辣 癪 糂鞐褌?  [url=<a href="http://tk-marianna.ru/spaw/load/index.html" target="_blank">http://tk-marianna.ru/spaw/load/index.html</a>]驫瑾瑩 驟韆琺 粮?韋 蒟 閻鴈礪 [/url]  綜鞦 竦鉤褌 褓蔟琺, 釶 "轢髓韲蓿?", 袱 鉈  轢茆矗? 邇 瑩跪髞辮 髓琿鈞蓚瑜 碌 瘤諷 轢?逑鴈? 闔 鴃繧鈕邇? <div class="comment_navi">
+[ 2011/06/27 18:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://www.nulevoy.ru/dataphotos/6/index.php";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">wocuctfeets</a>') } else {
+document.write("wocuctfeets"); }
+</script>
+<noscript>
+<a href="http://www.nulevoy.ru/dataphotos/6/index.php" target="_blank">wocuctfeets</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=19679" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment19839">[ 19839 ] <strong>ﾓ 矜? 磊 ?  韲褊 ﾐ瑙?</strong></p>
+</div>
+<div class="comb">
+淘謌, 驫琅繻, 褌謗瘧 體聹纃 粮諠? 肆芻? 鴈 蒟釶鞳鱚迯 鱚韭蓁 "褌謗瘧?碆髓? 癈粤 肆鴾 髓鉉 碚繻纃? 驫鉉 闔聽諤 繝 蒟釶鞳鰰鱚謌.  [url=<a href="http://traktorodetal.ru/lib/empty/index.php" target="_blank">http://traktorodetal.ru/lib/empty/index.php</a>]驫瑾瑩 關釿鞐跛 粳? 骼碎纖纃? ?鴈竦瑣蓍 [/url]  ?鴈 轢髓齒蓚 骭辮鴾 骼 碌繻 關蒟轢袱跏 蓁?韋鰰. <div class="comment_navi">
+[ 2011/07/02 21:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://underwood.ru/templates/backup/index.php";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">wocuctfeets</a>') } else {
+document.write("wocuctfeets"); }
+</script>
+<noscript>
+<a href="http://underwood.ru/templates/backup/index.php" target="_blank">wocuctfeets</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=19839" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment20783">[ 20783 ] <strong>廷髓珥袱 纈鈞  怛瘤襃瑁瑪</strong></p>
+</div>
+<div class="comb">
+蒼裙 纈鈞  代辣體? 報闊鴾, 帙轢, 夥鴈, ?鉞艪鈔蓐  關鈔珥璢踵 鴈矗顋. 蒼裙鴿 纈鈞, 蒼裙鴿  褌跫鈑蔬蓙 蒟 肆碼 纈鈞, 巵纈? ?鉋蔡鱶袱,
+報闊鴾 肆碼 纈  匁迹裙  粮髓珥褌 - 驍珞縺逶 癈裙鴿 粳? 辣矼髓?
+跂聹鼾瑁鈔轢? 粮髓珥袱 纈鈞  闔籥韋鈞 闔 嚏鞐蓁? 纈  闔籥韋 冷繿騾, 来褌諤繧, 滉逶? 秘碌? 槽諠鉋鈔-庭繿鴃鈞驫蓍, 墓繧.
+悶聹鼾瑁鈔轢? 粮髓珥袱 纈鈞 鉐齷繿鰲?纈?  153 竡體籥韵鰲? ? 退踈 聽諤辷 踵 跪聽 鉐齷繿鰲蓿 粮髓珥褥 癈裙鴈   辣 關繖髓珥諷迯 轢 騾蜥
+報闊鴾 癈裙 纈鈞  野驫矼 - 辣粮韲竡. 報闊鴾 癈裙 蒟 肆碼 纈鈞 闔 鱚諷?逑  野驫矼. 俸黹謗體鴈 關蓁蓐璢 艢?礪 轢 蒟竡鴈硅纃蒹 癈裙鴈 蒟 肆碼
+ 
+[url=<a href="http://zakaz-cvetov-v-moskve.ru" target="_blank">http://zakaz-cvetov-v-moskve.ru</a>]楳袱 癈裙鴈 纈鈞  跪驫矼[/url]<div class="comment_navi">
+[ 2011/07/25 13:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://zakaz-cvetov-v-moskve.ru";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">cuhsouseMough</a>') } else {
+document.write("cuhsouseMough"); }
+</script>
+<noscript>
+<a href="http://zakaz-cvetov-v-moskve.ru" target="_blank">cuhsouseMough</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=20783" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment20878">[ 20878 ] <strong>?踈 癪 矗 辣 關蓁珞諷聳鴾 粽黹 粽黹?</strong></p>
+</div>
+<div class="comb">
+剋跋繧瑩? 辣 關蔘鈔蓿? ? 闔竦黽纃蒹 驍?迯釿 闊騾辷?  竦纒 轢謗髴  閻鞨釿 繝 鰰鱚?  艢褌逞蓿? 鴈譛褌  闔驪繖辷 鰰鱚諷? 碌  跪肭 轢艪瑩 硴纔辷 闔竦黽纃蒹?..  [url=<a href="http://gittin.ru/img/jpg/index.php" target="_blank">http://gittin.ru/img/jpg/index.php</a>]驫瑾瑩 ?譛踵 hd 痳髀諤鴉 [/url]  羅關?鴉鉤 鞐艫鈞鉋? 竦鈑萵踈 鱚閻顫 碆髀鉐諷粮矗鴾, 闔跂謗 辣鈕葢琿邇 闔?硅纃蒹 鈴諷. 恍釶 闔謐鉐鴾 闔?鴾 碌 芬?纃蔟繿褥 驍?芒 鈑轢矗辷?  褌迺繩髓 褌鴈韲 踈跏?  瘰蓆 袱 癪 瘤顰鴆? 艢 跂髓  竇韭纈蔟邇 碼繻裙 褌褌轢, 辣釶粫跪 芻瑩?  提轢繧   碚繻? 轢粫鴆?  約跛?廷諷,  艢骰繙纃邇 粮謌辣 艢 闔?齏 褓齟鉤, 邃 釶蓿珱 踈跛?鴃鉉謌, 體髓矗, 闔韲聹纃逶 碆釶鞐聽辷繻 繖驫鉗 闊騾鱚譛辷 呶矼 熏髑鉈, 褌鴈鞐? 骼舮琺 譖 鉐 蒟 肆芻 蔘 骼舮琿蓍.      
+ 竡髀鈔 ?瘠鉅  鞳閠?  艪琺 繝? 鉈 籥聽 辣 釶辮逑鞫?. 汳 轢譛邇?  銜褓琺鉐 繻 袱聹 鞐? 褌邃 鉈 粮瘉鞐鞫? 粮 鋏辮繖邇 碼骼鴉鉗 銜跂鳧  釶鉋瑾萵琺? 轢 鉤 赭繻 . ?髓鉋 碆 鴈韲闍萵 窶跏  鴈韲闍萵 闔舮鉋鈞琺?  籥赭跏. <div class="comment_navi">
+[ 2011/07/27 19:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://pvsystem.ru/UserFiles/temp/index.php";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">wocuctfeets</a>') } else {
+document.write("wocuctfeets"); }
+</script>
+<noscript>
+<a href="http://pvsystem.ru/UserFiles/temp/index.php" target="_blank">wocuctfeets</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=20878" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21011">[ 21011 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんでここだけ、こんなバグってんだか
+ワザとかなぁ<div class="comment_navi">
+[ 2011/07/31 02:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment21183">[ 21183 ] <strong></strong></p>
+</div>
+<div class="comb">
+*741
+これはNHKがというよりこの実験を無批判に引用してる人に対しての批判だと思うのだが<div class="comment_navi">
+[ 2011/08/03 18:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=21183" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment32962">[ 32962 ] <strong>Ask me now</strong></p>
+</div>
+<div class="comb">
+[URL=<a href="http://dosugspbuvv.u-gu.ru/eskort-uslugi-krasnoyarsk.html" target="_blank">http://dosugspbuvv.u-gu.ru/eskort-uslugi-krasnoyarsk.html</a>]褌頏 齣謫竏 褓瑜邇?韵?/URL]
+[URL=<a href="http://dosugspbddb.u-gu.ru/prostitutki-rostov-na-donu.html" target="_blank">http://dosugspbddb.u-gu.ru/prostitutki-rostov-na-donu.html</a>]關鉐鱶鴦鳧 韲髓鈞 轢 粮逑[/URL]
+ 
+?仆亟亳于亳亟?舒仍从亳 亳 仗?仂??亳???从亳 丕??, ?亠仍亠?仂仆?, 舒亟?亠?舒 ?仂?仂 亳 于亳亟亠仂 仆舒
+仗?仂??亳???从亳 舒亰亳舒?从亳 仄仂?从于舒, ???弌丐?丐丕丐?? ?????? ??丱????,
+Real Dosug 从?舒?亳于?亠 亟亠于??从亳 亳 ?仍亳?仆?亠 仗?仂??亳???从亳 vip ??从仂?? ??仍?亞亳
+ 
+[URL=<a href="http://dosugspblks.u-gu.ru/devushka-dlya-intima.html" target="_blank">http://dosugspblks.u-gu.ru/devushka-dlya-intima.html</a>]粤碵 粳? 蓁鱶赭[/URL]
+ 
+弍仍?亟亳 亟亠于从亳 亟亠于仂?从亳 仗仂 于?亰仂于? 亟亠于??从亳 仗仂 于?亰仂于? 亟亠?亠于?亠 仗?仂??亳???从亳
+??仂??亳???从亳 ?仂?从于?, ?亳?亠?舒 亳 亟??亞亳? 亞仂?仂亟仂于 ?仂??亳亳 - 亟亠??于?亠 亳 ?仍亳?仆?亠
+<div class="comment_navi">
+[ 2012/03/17 11:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ABISSIDGE</a>') } else {
+document.write("ABISSIDGE"); }
+</script>
+<noscript>
+<a href="" target="_blank">ABISSIDGE</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=32962" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40004">[ 40004 ] <strong></strong></p>
+</div>
+<div class="comb">
+さらに補足。
+体高とは、立った状態での『地面から背中まで』の高さ。
+頭までの高さは頭頂高。
+で、体高と頭頂高との差は、目算だけどだいたい体高の３割くらい。
+つまり、体高１．３ｍだと、頭頂高は最低でも１．６ｍくらい。
+結構でかい。<div class="comment_navi">
+[ 2012/07/15 07:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment40014">[ 40014 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本を小馬鹿にすることで、自分を高みにおけると考えている馬鹿がいる。しかもそれで金を得ている奴がいる。
+マスコミや知識人（笑）は自分達が一般的な日本人ではないと思っているらしい。己が、自分の『知り合い』から最も馬鹿にされているJAPであることに気づかぬ馬鹿に過ぎないのにな。
+ 
+いい加減「うざい」どころの話でなくなってるよな。<div class="comment_navi">
+[ 2012/07/15 12:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48378">[ 48378 ] <strong></strong></p>
+</div>
+<div class="comb">
+いわゆる「井上眞哉史観」だと思う。
+日本刀は首狩り用で、リーチの長い弓や槍の方が強いに決まってる！
+とか、一見革新的合理的に見えるのか、ネットを中心に広まってるね。<div class="comment_navi">
+[ 2012/12/01 09:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment57491">[ 57491 ] <strong></strong></p>
+</div>
+<div class="comb">
+48378 
+いわゆる「井上眞哉史観」だと思う。
+日本刀は首狩り用で、リーチの長い弓や槍の方が強いに決まってる！
+ 
+強さは知らんが戦場での死亡する割合は弓や槍の方が多いぞ
+ただ、馬上の太刀から山岳森林用の打刀に移行したように使用される場所でその威力は大きく変わるからね
+馬から引きずり下ろした奴をしとめるのにわき差しが有効だったり
+万能兵器なんてこの世に存在しないんですよ<div class="comment_navi">
+[ 2013/06/14 12:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69799">[ 69799 ] <strong></strong></p>
+</div>
+<div class="comb">
+今残ってる日本在来馬はどこも農耕労働馬の子孫なんだけど、宮崎の御崎馬だけは高鍋藩の軍用馬の直系子孫だね。他の在来馬よりも比較的すらっとした足で走るのに適してるそうな。<div class="comment_navi">
+[ 2014/01/26 20:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71087">[ 71087 ] <strong></strong></p>
+</div>
+<div class="comb">
+ちなみに、安土桃山時代には南部藩にアラブ種が輸入されて、繁殖が行われている。
+まあ、日本の気候と地形と利用法だとアラブ種よりも在来種の方が合っているのだろうけど。<div class="comment_navi">
+[ 2014/03/20 09:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment76675">[ 76675 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本でデストリアで検索するとチョコボが出るというのでやってみたら
+ 
+見事に緑一色ｗｗｗ　ガミラス艦ばっかで噴いたｗｗｗ
+googleの検索結果もトレンドを知ることができる歴史資料だなあと思った<div class="comment_navi">
+[ 2014/12/12 13:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=883" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-883.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="883"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/883-06dc0582">http://oyoguyaruo.blog72.fc2.com/tb.php/883-06dc0582</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-880.html" title="やる夫達はカルト教団と戦うようです その３">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-884.html" title="やる夫は傭兵になるようです　おまけ">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

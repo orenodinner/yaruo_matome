@@ -1,0 +1,1592 @@
+<div class="article">
+
+
+
+
+┌─────────────────────────────────┐
+│2005年──────アメリカでとあるドキュメンタリー映画が公開された。　　......│
+│タイトルは【グリズリーマン】。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　......│
+│これはある一人のグリズリー保護活動家を追いかけた作品である。　　　　　　 ...│
+└─────────────────────────────────┘
+
+　　　　,,,,,,,_
+　.r''~~ﾞ|　　￣ﾞﾞﾞ"''''─ｰ--､､､､,,,,,,,,,,__
+　　　　|　　　　　　　　　　　　　　　 　￣~~''''''ｰ―----､､､､、
+　　　　|　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　| |
+　　　　| .|　 　　市街地映画座＿__　　　　　　 　 　 　 　　| |
+　　　　| .|　 |￣￣|￣￣|｀ｰ───｀　　　　＿＿＿＿＿　| |
+　　　　| .|　 |＼＼|＼＼|＼＼|＼＼|　　　［:|　iyou-re2:::|　| |
+　　　　| .|　 |＿＿|＿＿|＿＿|＿＿|..　　 ［:|::::ΛΛ::::::.....|　| |
+　　　　| ,|　[l_l_l_l_l_l_l_l_l_l_l_l_l_l_l_l_l_l_l]　 　 [:|::::(・ω)丿;;;;;|　| |
+　　　　| :|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,　[:|'''ﾟy''''ﾟy'''''ﾟy'ﾘ　| |.r"ﾞ'ﾞ｀‐､,,rｰ､,,
+　　　　| ￣￣￣￣ ￣￣ ￣￣ ￣￣ ￣|　　 ﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞ　| |:ﾞ;:":;:ﾞ::｀ﾞ;:":;:ﾞ::｀‐''､
+　　　　| .l￣￣ll￣￣￣ll￣~~|','|_＿______|:　[: :］┌───┐| |ﾞl ﾞ;:":;:ﾞ::｀ﾞ;:":;:ﾞ::｀_;:
+　　　　| .l　// ll　 //　 ll　/　|','|［ﾁｹｯﾄ］|　 |l:| l,,,,,上映中,,,,,l、|ﾞ'''''''ﾟﾞ“　: : ｀ _＿_
+　　　　| [ﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆ］' |━━━l|　 |l:| l　 l:l: : : l:l 　 l | |　──,,_　　|:←:|
+　　　　| [:::::::::::ll￣l￣ll:::::::::::::]',',|l (~) (~)||　 |ll| l　 l:l: : : l:l,,,,,,,l | |　　　　 　￣|..P..|
+　　　　| [:::::::::::l|　ﾟlﾟ　|l;;;;;;;;;;;;;]',',|￣￣￣l|　 |ll| ﾟﾟﾟﾟﾟﾞ ￣,,',,, ,, ,,,,|,,|　　　　　　"""""
+　---､ヽ[---ｰ''''''"~ﾞ＿,,,,,,,,,､￣---ｰｰ┴''''''""~ﾞ￣: 　 :　._,,,,,,,,,,､､､ｰ''''''"ﾞﾞﾞ~￣
+　　　　―ｰ''''''"ﾞﾞﾞ~￣: 　　　　　 : .__,,,,,,,,,､､--―''''''"ﾞﾞﾞ~￣
+　　　　　　: ＿,,,,,,ｰ''''''"ﾞﾞﾞ~￣~ﾞ~｀
+ｰ''''''"ﾞﾞﾞ~￣ 
+
+
+
+
+
+
+
+
+
+866 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:03:10 ID:AVsgUOtI0
+
+
+
+
+
+    ┌──────────────────────────┐
+    │グリズリーとは、北アメリカに生息する羆の亜種の一つで　　......│
+    │またのなをハイイロクマという。　　　　　　　　　　　　　　　　　　　.│
+    │平均体重は雄で260キロ、雌で170キロと非常に重い。　　　　　.│
+    └──────────────────────────┘
+
+
+    　　　　　 　 　 　 　 　 　 　 　 　 _,.　-──-　.._
+    　　　　　　　 　 　 　 　 　 　 ,.　´　　　　　　　　 ｀ ､
+    　　　　　　　　　 　 　 　 _,／　 　 　 　 　 '´￣ ヽ　 ＼
+    　　　　　　 　 　 ,..-‐　´　　　 ｏ　　　　 　 '⌒> ﾉ　　　＼
+    　　　　 　 　 　 ｛::j　　　　　　　　　　　　　　　　　　 　 　 ＼
+    　　　 　 　 　 　 Ｖ　　　　　　　　　　　 　 　 　 　 　 　 　 　 ＼
+    　　　　　　　　 　 ＼
+    　　　　　 　 　 　 　 ｀　‐- .._
+    　　　　　　　　　　　　　　　　｀丶
+    　　　　　　　　 　 　 　 　 　 　 　 ＼
+    　　　　　　　　　　　　　　 　 　 　 　 ヽ
+    　　　　　　　　　　　　 　 　 　 　 　 　 |
+    　　　　　　　　　　　　　　　 　 　 　 　 !
+    　　　　　　　　　　　　　 　 　 　 　 　 ,′
+    　　　　　　　　 　 　 　 　 　 　 　 　 /
+    　　　　　　　　　　　　　　　　　　　 /
+    　　　　　　　　　　 　 　 　 　 　 　 ′
+    　　　　　　　　　　　　　　　　　　　|
+    　　　　　　　　　　　　　　　　　 　 |　　　　　　 　 　 　 　 丶
+    　　　　　　　　　　　　　　 　 　 　 |　　　　　　 　 　 　 　 　 '.
+    　　　　　　　　　　　 　 　 　 　 　 |　　　　　 　 　 　 　 　 　 !
+
+
+
+
+
+867 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:04:12 ID:AVsgUOtI0
+
+
+
+
+
+    ┌────────────────────────────────────┐
+    │ヒグマと同じ雑食性ではあるが、オオカミから獲物を奪ったり　　　　　　　　　　　　　　　　│
+    │同じ熊の仲間であるアメリカクロクマを捕食する事もあり、日本の　　　　　　　　　　　　　.│
+    │ヒグマより好戦的な性格がうかがえる。　　　　　　　　　　　　　　　　　　　　　　　　　　　　...│
+    │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.....│
+    │一時期絶滅寸前にまで数が減ったことがあったが、現在は回復傾向にある。　 　　　......│
+    │しかし、生息地での人間との軋轢──────。　　　　　　　　　　　　　　　　　　　　　　..│
+    │交通事故や観光客との接触が相次いでおり、共存は容易ではない。　　　　　　　　　 　 .│
+    └────────────────────────────────────┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,,,,
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,,,, -‐‐ii i/./
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　､、‐''ヾヾ ii ii ii / /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,,..‐ｰヾヾヾヾヾヾヾjj jj j/ /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`ヾ､ヾヾヾヾ ／　　　ヾ//
+    　　　　　　　　　　,,,,,,-‐ｰｰｰｰ- ､　　　　　　　　　　　　　　` ヾ ､ﾞﾞ/　　　　　 /
+    　　　　　　　　／　　　　　　　　　　`ヽ､　　　　　　　　　　　　　　　`ヽ　　　　 i
+    　　　　　　 ./　　　　　　　　　　　　　　　＼　　　　　　　　　　　　　　j　　　　　i
+    　　　　　 ./　　　　　,,,--､　　　　,,,,-ｰｰ､　＼　　　　　　　　　　　　/ゞ､　　　　ヽ
+    　　　　　 .i　　　　／,,‐､ ヽ 　　 i'　 ｀`　　｀ヽ,ヽ　　　　　　　　,,､　 iヾヾ　　　　 ヽ
+    　　　　　 i　　　　 ヽヽ　'‐'　　　　''''ヽ　　　　　　`ヽ‐ﾉ''''l////ヽヽ ヽ/　　　　　 .ヽ
+    　　　　　 j　　　　　　　　　　　　　　　 j　 〈ヽ　　　　　 ｀ヽヾヾﾉ ,,‐'''´　　　　　　 .ヽ
+    　　　　/´ヽ　　　　　　　　　　　　　　　i　 ｀´`　　　　　　　　 ﾞ''´　　　　　　　　　　j
+    　　　 ヽ`ヽ!　　　　　　　　　　　　　　 ヽ　　　j　　　　　　　　　 ＿　　　　　　　　.／j
+    　　　　　`j　　　　　　,,‐-ゝ　　　　　　＼＼'''´　　 j　　　　　　　　 ` ヽ､　＿,,,,-''´ .j
+    　　　　　 j ヽ　　_　　 ￣　　　　　　　　 ＼　　｀'''''´　　　　　　　　　　　. ｀ ヽｰｰ　/
+    　　　　　 j　ヽ　ヽj,,,,_ゝ　　,,,､　　　/　　　　＼￣　　　　　　　　　　　　　　　　　 /
+    　　　　　 i　　 ｀ヽ iｰｰ'∠　／ j＿/　　　　　/ ＼　　ヽ　　　　　　　　　　　　　/
+    　　　　　 ヽ　　　 /｀''´　　ヾ-''　　j　　　　／　　ヾ　ヾヾ＼　　　　　　　　__,／
+    　　　　　　j　　　ヽ　　　　　　　　/　　　　i　　　　ヽヾヾヾヾヾ`ヽ‐､‐‐‐''''´
+    　　　　　 j　　　　 j　　　　　　　 ヽj　j　j j　　　　　 ヾヾヾヾヾヾヾヾゝ
+    　　　　　　ヾi77'''´　　　　　　　　　 ￣￣　　　　　　　＼ヾヾヾヾヾ／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヾヾヾ''´
+
+
+
+
+
+871 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:06:12 ID:ySn.ispQ0
+
+
+
+<strong>    ライオンや虎に並ぶ猛獣の代名詞だよなぁ＞グリズリー</strong>
+
+
+868 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:05:28 ID:AVsgUOtI0
+
+
+
+
+
+    ┌───────────────────────────────────┐
+    │そしてかつてアメリカに、このグリズリーの保護活動に生涯をかけた男がいた。　　　..│
+    │その名はティモシー・トレッドウェル。　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 .│
+    │【グリズリーマン】の主役である。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 │
+    └───────────────────────────────────┘
+
+
+    　　 　　　 ＿Ω＿＿＿
+    　　 　　／|;;;;;;;;;;;;;;;;;;;;;|＼
+    　　 　 |＿.|;;;;;;;;;;;;;;;;;;;;;|＿|_＿＿
+    　 　　／　　　⌒ｗｗ⌒　　＼
+    　　／　　 （ ◎） 　（◎）　　　＼　　グリズリーの為なら死ねるぜファック。
+    　 /　∵∴⌒Y__人__Y⌒∵∴ 　ｌ
+    　 |　　　　　　｝r┬-｛　　　　　　 |
+    　　＼ 　　　　　`ー'´ 　　　　　／
+
+
+    ┌───────────────────────────┐
+    │彼は野生のグリズリーに全裸で近づいて抱きついたり　　　　　　...│
+    │その他色々アレな行動をとった色々残念な活動家である。　　　....│
+    └───────────────────────────┘
+
+
+
+
+
+869 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:06:09 ID:AVsgUOtI0
+
+
+
+
+
+    ┌───────────────────────────┐
+    │彼はもともとダイビングで奨学金を得て、大学に進学した　　　　....│
+    │典型的な中流階級のアメリカ青年であった。　　　　　　　　　　　......│
+    └───────────────────────────┘
+
+
+    　　　　　　__Ω＿__
+    　　　　 ／|;;;;;;;;;;;;;;;;|＼
+    　　　　 |__|;;;;;;;;;;;;;;;;;|__|_＿＿
+    　　　／　 _ノ 　ヽ､_　 ＼
+    　 ／ oﾟ(（◎）) (（◎）)ﾟo ＼　　　腰を痛めたぜファック。
+    　 |　：： ⌒Y__人__Y⌒ ：： |
+    　 ＼　　 　　｀⌒´　　　 ／
+
+    ┌─────────────────┐
+    │しかし、腰を痛めドッロプアウト。　　　　　.│
+    │それ以来、酒に溺れるようになる。　　　...│
+    │　　　　　　　　　　　　　　　　　　　　　　　　 .│
+    │絵にかいたような転落人生である。　　　 │
+    └─────────────────┘
+
+
+
+
+
+873 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:07:30 ID:AVsgUOtI0
+
+
+
+
+
+    ┌───────────────────────┐
+    │それからは一時、コメディアンを目指し　　　　　　　　　　.│
+    │オーディション番組で最終選考にまで残るも落選。　　　.│
+    └───────────────────────┘
+
+    　　　 　 　　　　　　　　　　　　　　 ﾌ ｱ ﾂ ｸ
+    .　　　　　　　　　　　　　　　　　　　 lニ　 　 l
+    .　　　　　　 　　　＿Ω＿＿.　　　　!　Ｕ Ｃ Ｋ
+    　　　　　　　　／|;;;;;;;;;;;;;;;;;;;;;|＼　　　　　　　　　　　 ﾕ ｰ
+    　　　　　　 　|＿.|;;;;;;;;;;;;;;;;;;;;;|＿|_＿＿　　　　　　 ヽ／
+    .　　　　　　 ／　　　⌒ｗｗ⌒　　＼. ＼　　　　　 　l　 Ｏ Ｕ
+    .　　　　　／　　 （ ◎） 　（◎）　　　＼　ヽ､._
+    　_,... -‐/　∵∴⌒Y__人__Y⌒∵∴ 　ｌ　 l
+    .　　　　|　　　　　　｝r┬-｛　　　　　　 |　 |
+    　　　　 ＼ 　　　　　`ー'´ 　　　　　／　　|
+    　　　　 　 ﾄ､　ﾞﾞﾞﾞ　........_;;:::-‐'::: 　 >|　　　|
+    　　 , --､ |　 ｀ Tヾ￣::::::::　　　／　|.　 　 |
+    　　l;';';';';';}|.　 　 |　＼　　　 .／　　 | 　 　 |
+    .　　〉-y'´|　　　_|　　 ＼ ／　　　　|_　 　 :|
+    　 /7./　.＞'' ´　|　　　/ ＼　　 　 |　`''‐＜
+
+    ┌───────────────────────┐
+    │それ以来、自然保護活動に入れ込むようになる。　　......│
+    └───────────────────────┘
+
+
+
+
+876 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:09:38 ID:ag.GVw..0
+
+
+
+<strong>    つうか、色々と落ち着きのない男だな…</strong>
+
+
+875 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:08:43 ID:AVsgUOtI0
+
+
+
+
+
+    ┌──────────────────────────┐
+    │しかし、保護活動と言っても、彼の行動は色々胡散臭い。　　　.│
+    └──────────────────────────┘
+
+
+    　　　　　　　　　__　　　　　　　　　　　　　　　　　　　　　　　　 　　 　 　　 　 　__
+    　　　　　　　　l´　ｌi　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　 　　iｌ　｀l
+    　.　　　　　　 lｰ‐' !　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　　! '‐ｰl
+    　　　 　　　　l　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 　　　| 　　l
+    　 　 　 　 　 |　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　| 　　|
+    　　　　　　　l　 　 L＿.　　　　　　　　　　　　　　　　　　　　　　　　　　 　.＿_l 　 　l　　　　ファック！
+    　　 　　/⌒'|　　/￣ヽｉ￣ヽ 　 　 　 　 　 ＿Ω＿＿＿ 　　　　　　,r'￣ｉ,r'￣ﾞｉ　　|'⌒ﾞｉ　　グリズリーをもっと保護しろ！
+    　　 r‐'ｉ　　 |　　|　 　 |　　 |　 　 　 　 ／|;;;;;;;;;;;;;;;;;;;;;|＼ 　　　　　| 　　| 　 　|　　| 　　ｉ'‐r　　ファック！ファック！
+    　　 |　!　　 '　　 !　 　 !　　 l.　　　　　|＿.|;;;;;;;;;;;;;;;;;;;;;|＿|_＿＿　.l 　　! 　 　! 　　' 　　!　|
+    　　 ! ,!　　　　　 　 　 　 　 ｀|　 　　／　　　⌒ｗｗ⌒　　＼ 　　　|´ 　 　 　 　 　　　　　!, !
+    　　 | ヽ　　　 　 　 　 　 　 　| 　 ／　　 （ ◎） 　（◎）　　　＼ 　|　 　 　 　 　 　 　　　,r' |
+    　.　 ＼ 　 　　　　　　 　 　　|　/　∵∴⌒Y__人__Y⌒∵∴ 　ｌ 　|　　 　 　　　　　　 　 ／
+    　.　　　＼　　　　　　 　　　/　 |　　　　　　｝r┬-｛　　　　　　 | 　ﾞｉ　　　 　　　　　　／
+    　　　 　 　＼ 　　　 　 　　|　 　＼ 　　　　　`ー'´ 　　　　　／　 　|　　 　 　　　 ／
+
+    ┌────────────────────────────────┐
+    │自然保護を担当する政府関係者に聞くに堪えない罵詈雑言をとばしたり　　....│
+    │また、常にビデオカメラを持ち歩き川の中に居るグリズリーに裸で　　　　　　....│
+    │『愛してるぜ！』と言いながら近づいて行く映像を恋人に撮影させたり　　　 　 .│
+    │疑問が残る行動ばかりである。　　　　　　　　　　　　　　　　　　　　　　　　　　......│
+    └────────────────────────────────┘
+
+
+
+
+
+879 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:09:51 ID:hK8gvaCM0
+
+
+
+<strong>    ただのアホじゃないかｗｗ</strong>
+
+
+881 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:10:27 ID:8kcXsolQ0
+
+
+
+<strong>    典型的なプロ市民だなw</strong>
+
+
+880 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:10:08 ID:AVsgUOtI0
+
+
+
+
+
+    ┌──────────────────────┐
+    │彼の敵であったとある政府関係者はこう語る。　　　....│
+    └──────────────────────┘
+
+    　　　 ,' ⌒ﾊヽ、,_r　-　－¨⌒`へ　_,、,ﾊ⌒　、
+    　　 ﾉ....:::::::::.%〃:::::::::::::::::::::::ﾍ::::::::::::ヽ`ヽ:::::::::::ﾊ
+    　　i...:::ｨ::::∧::::::::　　::_::::::::,::::ﾊ:::::::::::ヽ:ヽ ´丶:/:i
+    　 ﾄ..:::/::/::|/:::　　:/´:::::::::ﾒ:/ヽ:::i::::::: :ゝ:::ヽy::::::::i
+    　/.:::ﾉ::::ﾘ/:::/:::::/:::/´::::/::/|　l:::::l::::::::::::丶::ヽ::::::ﾘ
+    　{.: 〈jYyﾉ::/::::ｲ:::::::::::::::::/|/　l:::/l:::/l::::::::i:ヽ::l:::〈
+    　 ）　　　|/|/:::;;/l;::/.ﾚl/,. j　 l::/l;:/　!:::::::l::::l ﾙﾘ:::、　　アイツは熊を『ディディベア』のように扱っていたわ。
+    　　　　　　l:/::::l;::/.ﾚl/,.　　　 l/ ,l;_　l:::,::::l:::!　　 ヽ）　　熊に対する基本姿勢がおかしいのよ。
+    　　　　　　ﾚ∧:j:l"弋ラ``　 " ﾋラ``ﾚ::i::l:Y
+    　　　　　　　|/::ハ''''　　　　.　　　''',!ﾉ:l:::l:/　　　　　　　そもそも、現在はグリズリーはちゃんと保護されてるの。　
+    　　　　　　　!/:::::｀ﾄ　　　　,、　　, ':::/|:::i:|　　　　　　　　自然のバランスを崩すアイツの方がよっぽど熊たちにとって
+    　　　　　 　 l:::,':::i:::;;ｌ:`r 、_　, イ/:::/:::|:::i:|　　　　　　　　脅威よ！
+    　　　　　　:l::l/:::::l/:l;l:::l 　　　　|l::从:ﾉｌ:.:.V
+    　　　　　:::/ ...;;::::l:/l::l:{ヾ、　　_ ｿ/￣/'ヽl:.::ヽ,
+    　　　　　/'l..,ｨ'´‐∧　ゞi ﾍ-‐-ｲ/　 /　　 ｀ヽ、
+    　　　 　/:.::{ ゝ ヽ　 '⌒`Ｖ＾~＾Ｖ⌒ヽ 　 /　i/ 'ヽ
+
+
+
+
+
+883 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:11:06 ID:AVsgUOtI0
+
+
+
+
+
+    ┌─────────────────────────────┐
+    │インディアンの血筋を引くあるアラスカ博物館の所員はこう言う。　　......│
+    └─────────────────────────────┘
+
+    　　　　　　　　 　 　 　 ,.　-::::::―:::::-　..._
+    　　　　　　　　　　　／:::::, -‐'',ニ==ﾆﾆ=-｀ヽ
+    　　　　　　　 　 　/:::::::::ﾉ ,.ｲ ､ヽ:::::::::::::::::::::::::｀ヽ
+    　　　 　 　 　 　 ,{:::::;;／‐''个 }ﾞ 〉／´￣`ヽ::::::::::',
+    　　　 　 　 　 ／ 〉"i,,.-''"¨{｀Y'ﾞ〉　　　　 　`;::::::::|
+    　　　　　　／}∠'')　 ﾞI'ﾓラ{｀Y´〉　　　, - 、 ヽ::::|　　　　　　　　　　　　　　　　　　　我々は熊と人間の境界に一線を引いて
+    　　 　 　 ,{　ﾉ }く　　 ヽ｀｀ {｀Y"〉ヽー' ,ｨ1 } 　 }::ｌ　　　　　　　　　　　　　　　　　　　決して踏み越えはしなかった。
+    　　　　 / ｀ﾒィ′,)r¨_ 　　 {`Y'ﾞ） 　　 _2ﾉ,ﾊ._ノ:ﾉ　　　　　　　　　　　　　　　　　　　ヤツがやった行為は熊に取って
+    　　　　 ) く_ノ 　 )=ﾆ=‐　 入ﾚ(. 　　/-‐'ヽ:;;;;;ﾉﾌ7-､__＿,,... -:::'''ニ三￣`ｰ- ､_　　　害でしかない。
+    　　　　/ﾒ/ 　 　 `ｧｰ'" 　 {, }_ﾉ 　 / 　.,. -―`ヾ-､;;;::::::::::::::::::―＝三=::::::::::::::::::｀ヽ、ヤツのせいで熊は人間を怖がらなくなってしまった。
+    　　　 ﾉﾒ/ 　 　 　!.＿_,,,,,.. 出-‐''" ／,ィﾆ三了ヾｰ-二=-､:;;;;;;;;;;;;;;;;::::ニ-―‐-､;;;;;;;:::ﾆ=‐-
+    　　　 }イ、　　　　　｀￣~~ﾞ同ヽ.／　/[ﾚ'／テ) <||　　= ､　　　　＼　　　　　　　　　　　熊が簡単に人間の社会に出没するようになれば
+    　　　ﾉ　||　 　 　 　 　　　ﾉ={　 |}　 j|.（__勺ィｲ <ﾘ　　=　|　　　　　＼　　　　　　　　　　そっちの方が危険だ。
+    　 　 ヽi ﾘ　　　　　　　　 {,1 }ｉ　|ﾚ) ∥ヾﾆｴ=)）''ﾞ　　 ﾐ　､!　　 　　 　 ＼　　　　　　　　　人にとっても熊にとってもな。
+    　　　　V 　　　　　　　　　）}iﾘ　| ﾌ 八　　　 ﾞ　´ "ヾ〃＿＼　　　　　　　ヽ
+    　　　　　　　　　　　　 　 ﾉ;〃　{' /　　＼_ ､　　　＿ﾉ{/￣| ｀>､__ 　 　 　 人
+    　　　　　　　　　　　　　 彡′　|/ 　 　 　 !＼ /´ ／| `==' 　 | ヽ>__,,,..:::'ﾞ丶ヽ
+    　　　　　　　　　　　 　 　 　 　 |　　　　　::::''　V厶 　| /r^ヽ::::::￣＼　　::.　　ヽ
+    　　　　　　　　 　 　 　 　 　 　 |　 　 　　　　　 |＿||. | ヾ=' .／＼ｰ-＼　 :::.. . . ヽ
+    　　　　　　　　 　 　 　 　 　 　 |　　　　　　 　　 ｀ヾ::::ﾚ'／´＼／　ヽ､ヽ　::.　　｜
+    　　　　　　　　 　 　 　 　 　 　 ヽ 　 　 　 　 　 　.::::＼{　　,::'　　　　　　｀〉ー‐-⊥_
+    　　　　　　　　　　　　　　　　　　|＼ 　 　 　 ,. ‐'',.."二＼　丶　　　　　../!￣´"''ｰ､|
+    　　　　　　　　　　　 　 　 　 　 〔|　　＞､_／ ／　　　　　ヽ ､- ‐ ､.....::::;! |　〇　Ｏ |)
+
+    ┌─────────────────────────────────────────┐
+    │その行為はとても自然保護活動と呼べるものではなく、ただの自己満足に過ぎなかったのだ。　　　.│
+    └─────────────────────────────────────────┘
+
+
+
+
+
+885 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:11:54 ID:ySn.ispQ0
+
+
+
+<strong>    ―――うん、コイツは緑豆や海犬と同類のアホウだ。死んでも同情は出来ん</strong>
+
+
+886 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:12:13 ID:AVsgUOtI0
+
+
+
+
+
+    ┌──────────────────────────────────────┐
+    │トレッドウェルは自分で撮影したビデオ映像の中で『俺は人間が大嫌いだ！』と何度も　　　　│
+    │叫んでいる。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　..│
+    └──────────────────────────────────────┘
+    　　 　　　 ＿Ω＿＿_
+    　　 　　／|;;;;;;;;;;;;;;;;;;;;;|＼
+    　　 　 |＿.|ノ;;;;;;;;ヽ､_;;|＿|_＿＿　　　　　俺は人間が大嫌いだファック！
+    　　　oﾟ(（◎）) (（◎）)ﾟo 　　,. -- ､　　　　可愛い女の子は別だけどｗｗｗｗ
+    　 ／ ∴⌒Y__人__Y⌒∵　/　 　 __,＞─ ､
+    　 |　　　　　|r┬-|　　　　/ 　 　　　　　　　ヽ
+    　 |　　　　　|　|　 |　　　｛ 　　　　　　　　　　 |__
+    　 |　　　　　|　|　 |　　　 ｝ 　＼　　　　　　 ,丿　ヽ
+    　 |　　　　　|　|　 |　　　/ 　 ､　｀┬----‐１　 　 }
+    　 |　　　　　|　|　 |　　／　　　`￢|　 　 　 l　　　ﾉヽ
+    　 ＼ 　　 　 `ー'ｫ　/　　　　､ !_/ｌ　　　　l　 　 /　 ｝
+    　　　　　　　　　　　{　　 　 　 ＼　　　　 l　　 /　　,'
+    　　　　　　　　　　　＼　　　 　 ´｀ヽ.__,ノ　　/ 　 ﾉ
+    　　　　　　　　　　　　 ＼　　　　 ヽ､＼ __,ノ　／
+    　　　　　　　　　　　　　　￣ ヽ､_　　〉 ,!､__／
+    　　　　　　　　　　　　　　　　　　 ￣
+    ┌────────────────────────────────────┐
+    │───ちなみに彼が人間嫌いになった理由は自然保護活動とは関係なく　　　　　　　.....│　　
+    │以前自分が受けたコメディアンのオーディションで他人にデビューの座を奪われた　　　.│
+    │事が理由であると言われている。　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　...│
+    │とことん残念な男である。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　....│
+    └────────────────────────────────────┘
+
+
+
+
+
+887 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:13:16 ID:AVsgUOtI0
+
+
+
+
+
+    ┌──────────────────┐
+    │ある関係者はこう語る──────。　　....│
+    └──────────────────┘
+
+
+
+    　　　　 -‐ '´￣￣｀ヽ、
+    　　 ／::::::::::､::::::::::::::/ 　 て
+    　∠／::::::::/'´￣￣｀｀ 　　ヽ
+    　ノ／/::::/ 　シ　 .ヽヽ　　｜
+    　ｲ /: :从 　（─）（─）ﾚレ|
+    　　|ﾊ　|　　　（__人__）./ﾉ　　・・・・アイツはグリズリーになりたかったんですよ。
+    　　　　ｲ|.ｌ^l^lｎ｀⌒´ 　ﾉ　　　周りの何にも影響されない、孤高の王者になりたかったんです。
+    　　.　　 ヽ 　 L　　　　}
+    　　　 　　ゝ 　ﾉ　　　ノ
+    　　　 　／ 　/　　　 ＼
+    　　　 ／　 /　　 　 　　＼
+    　　. /　　/　　　　　　|ヽ、二⌒)
+    　　　ヽ＿＿ﾉ
+
+
+    　　　　　 　 　 ｜
+    　　 　　　 ／￣￣＼
+    　　　 　／　 ヽ､_　　＼
+    　　　 　ー 　ー　　　　|
+    　　　 （__人__）　＠　　|　　　あいつに純粋な環境保護精神など存在しない。
+    　 　　（　　　　　　.u 　|　　　あいつが保護しようとしてるのは熊に投影してる自分自身なんだよ。
+    .　　　　{　　　 　 　 　 |
+    　　　 ⊂ ヽ∩　　 　 く
+    　　 　 | '､＿ ＼　／　 )
+    　 　 　|　 |_＼　 “　.／
+    　　 　 ヽ､ ＿_＼_／
+
+
+
+
+
+888 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:14:22 ID:AVsgUOtI0
+
+
+
+
+
+    ┌───────────────────────────┐
+    │彼が撮影しているビデオ映像の中で彼は何度も─────　　....│
+    └───────────────────────────┘
+
+
+    　　 r‐.､　　　　　　　　　　　　　　　　　　　　　　　　.,r‐┐
+    　　..| 　.',　　　　　　　　　　　　　　　　　　　　　　　 |　　|
+    .. 　 .|　　}　　　　 　　　 ＿Ω＿＿　　　　　　　　　 { 　 |
+    ..　 _,ﾄ!!!ｲ　　　　　　 ／|;;;;;;;;;;;;;;;;;;;;;|＼. 　　　　　　　ﾄiii!1
+    　 ,ﾑ､ ﾋ,''"f　　　　 |＿.|;;;;;;;;;;;;;;;;;;;;;|＿|_＿＿　　　　ｿ　 ',　　　　　グリズリーの為なら死ねる！
+    , ィ〈　い,　ヽj　　　／　　　⌒ｗｗ⌒　　＼　　　　 /^' 　 i!　　　　　グリズリーを愛してる！
+    　　. '､,〉ﾉ__ . i!　／　　 （ ◎） 　（◎）　　　＼　　/　　　　'i,
+    ,ゝ､, ィ.´f^い ゞ､　∵∴⌒Y__人__Y⌒∵∴ 　ｌ　f 　 　 　 　'i,
+    八　　..ﾍ､ゝ'ｰ､｀ヽ 　　　　｝r┬-｛　　　　　　|, ｲ　　 .し-＜ヾ
+    | |｀' ッ''~　(^'い　'i, 　　　　　`ー'´ 　　　　／　ﾂ　f´「｀i　 / .| 　 　 .
+    ┌────────────────────────┐
+    │と、何度も叫んでいるのだが、ここでのグリズリーとは　　　│
+    │熊に投影している自分自身の事なのである。　　　　　　　...│
+    └────────────────────────┘
+
+
+
+
+
+889 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:14:22 ID:Q8BGGY3w0
+
+
+
+<strong>    駄目駄目なのに笑えねえ…</strong>
+
+
+890 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:14:47 ID:lyN9htf.0
+
+
+
+<strong>    いつの時代にもいる生々しいダメ人間だな・・・・</strong>
+
+
+891 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:14:59 ID:8kcXsolQ0
+
+
+
+<strong>    挫折による劣等感を社会批判で埋めようとする</strong>
+
+
+893 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:15:17 ID:F7MqvYSE0
+
+
+
+<strong>    うわ・・・イテぇ・・・厨二とかいうレベルじゃねえぞｗ</strong>
+
+
+894 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:16:11 ID:4fXjknB.0
+
+
+
+<strong>    迷惑な奴クマー</strong>
+
+
+896 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:16:20 ID:AVsgUOtI0
+
+
+
+
+
+    ┌───────────────────────────┐
+    │そして、そんなグリズリーになりたかった彼だが─────　　......│
+    └───────────────────────────┘
+
+    　　　　　　　　　　　　　　　|!　ﾄヽヽ,＼__　__,、
+    　　　　　　　 　 　 　 　 　 f ,i !- ':´ ￣￣ヽ.　ヾト ｨ',ｨ, ,.ィ__
+    　　　　　　　　 　 　 　 __∠　　　 ― 二 =､ ヾY,}:i:iK '｀　　｀てｲｰzｨ
+    　　　　　　　　　 　 `斗ﾚ'　　　￢ .＜ヾﾄ､　Y}:}:j厶- - ､　　　　　　`ｔ__
+    　　　　　　　　　　 __ノ’ ,.　　--､ヽ.＼ヽ:Y!iv厂 --一-　｀`、　　　 　 `^戈__,＞`ヘ
+    　　　　　　　　　 __Z　　 , ィ'´fiﾐ__Yiいヽ!:ﾘ√ィ彡r '´￣´￢丶ヽ、　　 X. i{　　　　　',
+    　　　　　　　＿__）　　　 ≦ 'ﾗ_{(･)}j川 kｿ个rイ〃 '/／ ＿ヽ　ヽ.　　 　 ﾍヾ 　 　 　 }
+    　　　　　　 ＿,)'/,　 z 彡rｼ ｿｿ:｀,ｿ:'　ﾒ⌒i. j ‐､ヾi i,.ｨ_'ﾆ二ヽ,　　ヽ　　　 ｝:i　　　　/
+    　　　　　　勹/〃,　 -ｰ彳´ ;／¨:::`::く._　　　　ヾ Yij{(･)>= ≧ヾ:ヽ:ヽ ヾ,　 `ﾐゞ--:r'
+    　　　　 　 之. イ/ ／ , ﾞ ,'　{::f⌒}::,':::::::::ヽ　 ,丶 `iヾ三ぐ￢ミド}　}ヽト :}　 　 ゞﾐ(＾
+    　　　　　'ﾗｲ〃i;'　,'　　 ,' :v'ヾ| ,ﾉ:::/⌒!:::/　　　　,.i ﾄヽヽ丶`　 ヾﾐ:ヾﾄ､　　 ヾヽミi}　　があああああ！
+    　　　　_,ﾒィ/;:イ　' /　 ;i:　i! ヽ.. ｰ' ￢'Lｲ ji ,i　　　,i.l }: ヽ丶`｀　　　ヾ　ヽ ＼:.ヽ:ﾄゝ
+    　　　__Z イｨ /i　,〃　/!i　iト .,___　ヾ´　'’　,八 ヽ　}!　　　＼ヽ`　　　 ＼､ヾ :,ﾊ ﾍ,
+    　　 ブｲ〃/／i ,:/:,　ﾊ1ｉ: ,＞'‐L/7'ｧ-ｧｧ'个 ､ ヽ ヾ　　　　 c　ヾ`　､`:　ﾐﾄ､}　ﾊ ﾒゝ
+    　　厶'〃// ,' ,.ｲ ,' /　'i:iﾊ.y' ｛_ ￣ ブZ j:j:ヽヽ__,ｨこつ　ヾヽ、 　 ヽ. ＼　 ヾﾄ､ﾍN
+    　　 ,ﾉiii/〃/ ,'/ ,' ,:　,' i:{,ﾊ!　　7ｰ'´/り } :ﾄ､　￣´　　ヽ　　　＼ヽ`: ＼ヽ`＼ﾍﾍ!
+    　　,jﾊ/:〃/〃/〃,' ,' ,'iﾊ/`ﾄ､/__,_,_仄! .Ｎﾄ､＼ ヾﾐJヽﾄ､ヾ` ｀ ヾ`｀ヾ`｀ヾ`｀ヾし!
+    　　, ｲ:〃/〃/〃/〃;ﾊli　`'く,_l,｣jﾉ┘iﾄ :i: j: ヾ`ヾ`ヾ`ヾ`ヾ`ヾ`ヾ`ヾ`ヾ`ヾミ三;く
+    　 ,ﾉｨ〃/〃/〃/〃〃,':ヾ= ｰz i ､ﾄヾｉ: .:|:. ! i　 i:.i:. i:.ヾ＼ヾ＼ヾ＼ヾ＼ヾ＼ヾﾐ::(_
+
+
+    　　　　　　__Ω＿__
+    　　　　 ／|;;;;;;;;;;;;;;;;|＼
+    　　　　 |__|;;;;;;;;;;;;;;;;;|__|_＿＿
+    　　　／（ ◎）}liil{（◎）＼
+    .　／：： ⌒Y__人__Y⌒ ：：＼　　ぎゃあああああ！
+    　 |　　　ヽ　|!!il|!|!l|　/　　　|　　　友達だと思ってたのにー！
+    　 ＼　　　　|ｪｪｪｪ| 　 　 ／
+
+    ┌─────────────────────────────────┐
+    │2003年10月、国立公園でキャンプを張っていた所を恋人諸共グリズリーに　　　 │
+    │食い殺された。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　...│
+    │ある意味彼の願いは叶ったといえよう。　　　　　　　　　　　　　　　　　　　　　　　 ...│
+    └─────────────────────────────────┘
+
+
+
+
+895 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:16:17 ID:VsEmQ6wM0
+
+
+
+<strong>    自業自得でしかないな・・・・熊にとっては災難すぐるが</strong>
+
+
+897 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:16:35 ID:lyN9htf.0
+
+
+
+<strong>    ごちになりましたね
+    本当の意味で</strong>
+
+
+901 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:17:14 ID:8kcXsolQ0
+
+
+
+<strong>    彼はグリスリーの血肉として一体になれたんだな
+    果たしてこれが本望だったのかねぇ・・・</strong>
+
+
+900 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:17:12 ID:AVsgUOtI0
+
+
+
+
+
+    ┌────────────────────────┐
+    │この時期はグリズリーの冬眠準備の時期であり　　　　　　.│
+    │凶暴性が増していたのである。　　　　　　　　　　　　　　 　 .│
+    │そこを普段通りに近づいた所を襲われたのである。　　 　 │
+    └────────────────────────┘
+
+    　　　　　　　　　　　　r―┬―――――――r―――‐‐.、
+    　　　　　　　　　　 　 l::::::::{:.: : : : : :SD::2000x:l:::::::::l ´:::::::`ｉｌ
+    　　　　　　　 　 　 　 |┐:::|: : : : : : : : : : : : : : :l:…:::|{::（:::::}:||
+    　　　　　　　 　 　 　 ｌ┘:::| :_:_:._:._:_:_:_:_:_(_:_:_)l … 八::::::::: '
+    　　　　　　　　　　 　 l::::::::ゝ．_:_:_:_:_:_:_:_:_: : :.:l{::::::::}　`ー /
+    　　　　　　　 　 　 　 l:::::::::::::::::s:o:n:y::::::::::Y:: l::::::::::',　　 /
+    　　　　　　　 　 　 　 ﾄ::::::::`ｰ::::―::::‐::‐:::彡:::::::::::::::::¨::¨}
+    　　　　　　　　　　　　　`ー―――‐ヾ;:::::::┌ ´￣￣￣
+    　　　　　　　　　　　　　　　　　 　 　(¨):::::;::≧ｮｭ
+    　　　　 　 　 　 　 ＿＿＿＿＿＿＿}-‐=彡"¨
+    　 　 　 　 　 　 〈::::::::::::::::::::::::::::::::::::::::::):::::::::|
+    　 　 　 　 　 　 　￣￣ 　 ￣￣￣￣|::{◯}:{
+    　　　　　　　　　　　　　　　　　 　 ／ ／/ ∧
+    　　　　　　　　　　　 　 　 　 　 ／ ／// ∨∧
+    　　　　　 　 　 　 　 　 　 　 ／ ／　// 　 ∨∧
+    　　　　　　　　　　　　　　／ ／ 　 // 　 　 ∨∧
+
+    ┌──────────────────────────────┐
+    │しかもその際、彼はビデオで撮影しようとしていたのだが　　　　　　　　　 .│
+    │当然そんな暇は無く、音声のみがカメラに残されていた。　　　　　　　　　 │
+    │ちなみに、その録画音声だという物がネット上の動画サイト　　　　　　 　 .│
+    │などで出回っているが、本物なのか偽物なのかははっきりしない。　　　　│
+    └──────────────────────────────┘
+
+
+
+
+
+904 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:18:34 ID:AVsgUOtI0
+
+
+
+
+
+    ┌───────────────────┐
+    │ただ、哀れなのは彼の恋人である。　　　　　 │
+    └───────────────────┘
+
+    　　　　　　　　／"´　　　　　　￣｀`＜　＼
+    　　　 　, '⌒Y-‐ 　 ,　　／　　　　　＼ ＼ ヽ
+    　　　 ./ 　 .├＝／　／　/ /　　　ハﾍヽ ﾍ　',
+    　　　 l　　　 ﾄヽ,'　　||　　|　|　 　, 　 l l|　|　l　l
+    　　　 | 　 　 |　 l　i　|| 　 |　|　 ,ｲ　| .l l|　レ'　|
+    　　　 |　 　 ∧ :|　l　ﾘ､　.|　|／ l　 l .l l|　| 　 :|　　　や、やめて！
+    　　　 |　　 ﾊ.∧ﾍ ﾊ圷 ㍉　　 ｨ〒ミﾊハ/　　:|　　　離して！
+    　　　 |　　 ヾ ヽl 　 l*（○）|ｌｌ|｀（○）* ／　　 :|
+    　　　 |　 　 |＼§　|⊂⊃､__,､_, ⊂⊃ l　　 　 |　　　 　 ⌒ヽ
+    　　　 |　 　 |　 §　| ゝｕ、　{__ﾉ , イ §|　　 　 |　　 　 / 　 / 　 　 _
+    　　　 |　 　 |.　 | 　 l メ、_￣_ノヾ |　　|　　 　 |　　　/ 　 / 　　／　 ）
+    　　　 |　 　 レ´| 　 |´ll　　∂　 ll｀|　　ト､　　 :|　　 /　　/　 ／　 ／
+    　　　 |　 　 |　 仁二]||　｀　 ´　||仁二]　 ＼　l 　 /　 　'` ´ 　／
+    　　　 |　 　 |　 仁二] ヽ 　 У∧仁 (⌒'ー―- イ′ 　 　 　 （
+    　　　 |　 　 |　{: )ソ: : : : ｀: :≡: : : )ソ＞ 、　　　　　ヽ　　　 　 _　￣￣￣)
+    　　　 |　 　 {二ゞ: : : : : : : : 人: : : : : : :.ノ＼　　　 　 }　 　 　 　(　￣¨´
+    　　　 |　 　 {　　丶- -: --< : : ｀ー 1´|　　 ヽ 　 　　 　　　_　　＼
+    　　　 |　　　`ーーーーく＿,ﾉ: : : : :/　.l　　　 |｀　 　 --‐'´　｀ﾞ 、_ )
+
+    ┌──────────────────────────────┐
+    │彼女はグリズリーを怖がっていたが、恋人の為に　　　　　　　　　　　　　　│
+    │その無茶な撮影に常に同行していた。　　　　　　　　　　　　　　　　　　　　..│
+    │襲われた際も、恋人を助けるためにその場に踏みとどまり　　　　　　　　..│
+    │フライパンで熊に抵抗したが敵わず、共に餌食になったのである。　　　...│
+    └──────────────────────────────┘
+
+
+
+
+
+905 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:19:09 ID:4fXjknB.0
+
+
+
+<strong>    無茶しやがって……</strong>
+
+
+906 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:19:14 ID:hl1Dtwng0
+
+
+
+<strong>    …うわぁ</strong>
+
+
+908 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:19:34 ID:lyN9htf.0
+
+
+
+<strong>    一人でくたばってればよかったのに
+    クズはいつも周りに迷惑をかけるから嫌だ</strong>
+
+
+907 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/03(木) 21:19:26 ID:oaJSGYZ20
+
+
+
+<strong>    人の味を覚えたグリズリーは射殺されるから、サンドマンの言う通り熊のためにも
+    なってねえよ、完全な自己満足野郎だ。実際の自称動物愛護マンはこんなのが多いから困る。</strong>
+
+
+909 ：<strong><span style="color:#009900">１ ◆7m.CTF/Sgs</span></strong>：2012/05/03(木) 21:20:14 ID:AVsgUOtI0
+
+
+
+
+
+    ┌────────────────────┐
+    │映画【グリズリーマン】の監督はこう語る。　　 　 .│
+    └────────────────────┘
+
+    　 　 　　　＿＿＿_
+    　 　　　／　　 　 　＼
+    　　　／　 　　　　　　 ＼
+    　 ／ 　　(●）　（●）　　＼　　ティモシーは自然界は愛と平和に満ち溢れた
+    　 |　　 （ﾄｪｪｪｪｪｪｪｪｲ）　 　|　　天国だと思っていたようだが、それは大間違いだ。
+    　 ＼　　＼ェｪｪｪェ／ 　 ／　　自然界は混沌と弱肉強食の世界だ。
+
+
+
+
+    　　　　　::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    　　　　　　　　::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+    :　　　　　　　　　　::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+    　　　　　　　　　　　　　::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    　　　　　　　　　　　　　　　　:::::::::::::::::::::::::::::
+
+    　　　　　　　　　　　　　　　　　　　::::::::::
+    　　　　　　　　　 _,,.. -ｰ― -ｰ―- ､- ､
+    　　 　　　　 ,.: ::´::::::::::::::::::::::::::::::::::::::｀ﾞ':::｀ヽ、
+    　　　　　, ':::::::::::::::::::::::::::::::ヽ:::::::::::::::::::::::::::::::ヽ､
+    　　　　 /:::::::::::::::::::::,::::::::::::i:::lヽ:::::::､::::::::::::::::::::::::ﾞ i、
+    　　　 /:::::::::::::::::::l:::!:::::::::::l::::l　ﾞ､:::::i:::::::::::::::::::::::::::ﾞ,
+    　　　,':::::::::::::::::::::l:::i:::::::::::il:::i　　ﾞ､::::i:::::::l:::::::::::::::::::i
+    　 　 !:::::::::::::::!:::::li:,'i::::::::::,':l::,￣｀｀ﾞ､::i::::::!::::::::::::::::::ﾞ、
+    　　 ｲ:::::!:::::::::l_;;;l lj l:::::::,'　l:'　　　 ﾞ､:i,::::i:::::::::::::::::::::ヽ　　　・・・・とまぁ色々語ったが、これは別に
+    　　,'/l:.:.i:.::.::.::l:.:.l i,' l:::::,'　 l! ,,ｨttｰｧ､-:.:l_,,.._:::.:.:.:.i:.:i:.ﾞ、　　彼に限った話ではない。
+    　 /　.l:.:.l:.:l:ヽli.:;ｨftt-､'　　' 　弋'o;;ﾉ l:.l:.l -､ﾞ,..:..:.l:.:.ﾄ:.ﾞ、　他にもクジラ保護を叫びながら海にゴミを
+    　'　　 l:.､!:.l:.:.:l.iヾ;or';ﾅ　　　　　~´　.i::.:il _iﾉ.,':i:::l::li:::l ｀ヾ､落していく自称保護団体（笑）とかがいるしね。
+    　　　　l､,'､:li::::l, 　｀¨´　 '　　　　　　,'::::l, - '::ｲ::.lﾞ:l.l:.l
+    　　　　　l:.､:!ﾞ､:l　　　　　 ＿,　 　 ./.:.:l::l::,i::/ l:,' j! ',i　　　　本当に自然が好きならいまやっている行動が
+    　　　　　l:.:l､:､:.:l｀ ､,'^､.　　　　 ／l::::::l:.i/l,'　 i'　　　　　　　　本当に自然にとってプラスなのかよく考えて
+    .　　 　 　l::l ﾞ､ヽ:.,-'-t, lｰ,- - 'ﾞl´　,':::::!l:_,,..-ｰ-、　　　　　　　活動して欲しい物だよ。
+    　　　　　 l:!. 　, ',_ｰt ﾄ'ﾞ./,,-tｰ-'　 jl::::,'､l:.:.:.:.:.:.:.:i
+    　　　　　 .i'　.l ._/l ,l.ﾉ. ,'::::::/､,,､_,,,_ l::,'::::｀.:.:.:.:.:.:.i
+    　　　　　　　iﾄ､ﾞ-'´_,,-'ﾞｨ:./,XXXXXl'l::,'-:.:.:.:.:.:.:.i
+    　　　　　　　｀､ヽ‐-‐´:.:|:':｀ﾞｰ--ー''ﾞ:::i:.:.:.:.:.:.:.:.:.i
+    　　　　　　　　 i:.:.:.:.:.:.:.:.:.|:.:.:.:.:.:.:.:.:.:.:.:.:.:,':.:.:.:.:.:.:.:.i
+    　　　　　　　　.i:.:.:.:.:.:.:.:.:ヾ:.::.:.:.:.:.:.:.:.:.::,:.:.:.:.:.:.:.:.:i
+    　　　　　　　　 i:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.,':.:.:.:.:.:.:.:.:i
+    　　　　　　　　　ー､:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:,'::.:.:.:.:.:.:.:.i
+
+
+    【おわり】 
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000BMY2NS&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4476/clap" id="fc2button-clap-4476" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4476").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/12.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4476/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達の村に羆嵐が吹くようです　【埋めネタ───グリズリーマン───】 " data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4476.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li_nolink">
+				やる夫達の村に羆嵐が吹くようです　【埋めネタ───グリズリーマン───】  (2012/05/11)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4469.html">
+					やる夫達の村に羆嵐が吹くようです　番外編その３　【福岡大ワンゲル部・ヒグマ襲撃事件】  (2012/05/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4464.html">
+					やる夫達の村に羆嵐が吹くようです　番外編その２　【札幌丘珠事件】  (2012/05/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4456.html">
+					やる夫達の村に羆嵐が吹くようです　番外編その１　【石狩沼田幌新事件】  (2012/05/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4452.html">
+					やる夫達の村に羆嵐が吹くようです　終章　───慟哭の谷─── (2012/05/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4442.html">
+					やる夫達の村に羆嵐が吹くようです　第３話　───羆風─── (2012/05/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4437.html">
+					やる夫達の村に羆嵐が吹くようです　第２話　───最大の惨劇─── (2012/05/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4435.html">
+					やる夫達の村に羆嵐が吹くようです　第１話　───羆─── (2012/05/01)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達の村に羆嵐が吹くようです　【埋めネタ───グリズリーマン───】 " href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/05/11 03:02 ]
+<a href="/blog-category-400.html" title="カテゴリを参照">歴史系（日本史）　やる夫達の村に羆嵐が吹くようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html#comment_list" title="この記事のコメントを参照">CM(36)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4476"
+    dc:title="やる夫達の村に羆嵐が吹くようです　【埋めネタ───グリズリーマン───】 "
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html"
+    dc:subject="歴史系（日本史）　やる夫達の村に羆嵐が吹くようです"
+    dc:description="┌─────────────────────────────────┐│2005年──────アメリカでとあるドキュメンタリー映画が公開された。　　......││タイトルは【グリズリーマン】。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　......││これはある一人のグリズリー保護活動家を追いかけた作品である。　　　　　　 ...│└─────────────────────────────────┘　　　　,,,,,,,_　.r''~~ﾞ|　　￣ﾞﾞﾞ"''''─ｰ&#45;&#45;､､､､,,,,,,,,,,__　　　　|　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-05-11T03:02:50+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4479.html" title="やる夫で学ぶ恐竜　第８話　うーみーは広いなーおーきいなー">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4484.html" title="やるやらでゲームの感想を書くスレ　第四回　「L.A.ノワール」">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment36344">[ 36344 ] <strong></strong></p>
+</div>
+<div class="comb">
+カバーする範囲広いなおい！<div class="comment_navi">
+[ 2012/05/11 06:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36345">[ 36345 ] <strong></strong></p>
+</div>
+<div class="comb">
+酷い話だが
+結果を除けば、よくある話でもあるんだな<div class="comment_navi">
+[ 2012/05/11 07:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36357">[ 36357 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+グリズリーマンに限らず、本来の目的が自己の目的・欲望に摩り替わるなんてことは意図的、無意識的にもざらだわな<div class="comment_navi">
+[ 2012/05/11 10:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36364">[ 36364 ] <strong></strong></p>
+</div>
+<div class="comb">
+大人しくクマグッズで家中を埋め尽くして
+そのなかにリラックマのぬいぐるみでもあれば
+『アンビリバボー』あたりが取材に来てくれて
+「日本のクマは最高にラブリーだぜ」とか
+言ってれば日本人を苦笑いさせるぐらいで
+すんだのにな・・・。<div class="comment_navi">
+[ 2012/05/11 11:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36374">[ 36374 ] <strong></strong></p>
+</div>
+<div class="comb">
+「自己投影による保護運動」
+ 
+これ、なんでもそうだよな。クジラもそうだし、北朝鮮や差別反対とか言ってる連中は大抵自己を投影している。まあ、保守も自国に自己を投影してるっちゃしてるけどな。<div class="comment_navi">
+[ 2012/05/11 15:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36380">[ 36380 ] <strong></strong></p>
+</div>
+<div class="comb">
+この人の例は極端だけど、それでも保護団体の欺瞞が如実に表れてるな
+ 
+程度の差はあれ、どこの動物保護団体もこういう馬鹿げたものを抱えてる気がする<div class="comment_navi">
+[ 2012/05/11 17:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36381">[ 36381 ] <strong></strong></p>
+</div>
+<div class="comb">
+この人を食った熊はどうなったんだ？
+場所が場所だし探して処分するのは骨が折れたと思うんだが<div class="comment_navi">
+[ 2012/05/11 17:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36382">[ 36382 ] <strong></strong></p>
+</div>
+<div class="comb">
+まさしく「声の大きい者が発言権を得る（byマーフィーの法則）」だな。
+大企業にヤジ飛ばしてる連中の影で、一本一本植林してる人間こそ本当の自然保護家だったり。<div class="comment_navi">
+[ 2012/05/11 18:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36386">[ 36386 ] <strong></strong></p>
+</div>
+<div class="comb">
+こんなのにも恋人いるのかー<div class="comment_navi">
+[ 2012/05/11 19:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36395">[ 36395 ] <strong></strong></p>
+</div>
+<div class="comb">
+まあグリズリーにフライパンで立ち向かうあたり、同類なんだろうとは思うけど<div class="comment_navi">
+[ 2012/05/11 20:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=36395" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36401">[ 36401 ] <strong></strong></p>
+</div>
+<div class="comb">
+「クロコダイル・ハンター」で有名な動物愛護活動家（勿論、反捕鯨運動家）のスティーヴ・アーウィンは、
+ワニではなくてエイに刺されて死んだな。
+そのアーウィンの名をつけて捕鯨船に妨害行動を続けているシーシェパード……<div class="comment_navi">
+[ 2012/05/11 21:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36404">[ 36404 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>36381
+ 
+ティモシーとその恋人が帰って来ないことに気づいた
+現地ガイドがヘリで逃走＆ハンターに通報して、射殺しました。結局グリズリーマンはグリズリーの血肉にすら成れなかったのである。享年46歳、写真でのティモシーは中年なのに結構男前なのが残念なことだ。<div class="comment_navi">
+[ 2012/05/11 22:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36406">[ 36406 ] <strong></strong></p>
+</div>
+<div class="comb">
+※36404
+本気でクマにとっても他の人間にとっても糞迷惑な奴だな・・・
+このグリズリーに関しては被害者以外の何物でもない
+海犬や緑豆の連中も、誤って海に落ちたりしてサメやシャチに食われないで欲しいね
+食っちまったそいつらがあらゆる意味で可哀想だからな<div class="comment_navi">
+[ 2012/05/11 22:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36407">[ 36407 ] <strong></strong></p>
+</div>
+<div class="comb">
+※36395
+それはスコップで熊に立ち向かった村田氏もｄｉｓってんのか
+まあ馬鹿はほっといてさっさと逃げてればいいのにとは思うけど善悪で考えれば善よりの行動だよね<div class="comment_navi">
+[ 2012/05/11 22:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36422">[ 36422 ] <strong></strong></p>
+</div>
+<div class="comb">
+えっと……ギャグ？<div class="comment_navi">
+[ 2012/05/12 10:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36423">[ 36423 ] <strong>詳細な顛末(ネタバレ)</strong></p>
+</div>
+<div class="comb">
+36381さん >>
+36404さんの説明補足。
+映画グリズリーマンを見ると、冒頭で分かるよ。
+ 
+10月6日、パイロットがいつものように霧が立ち込めた湖に水上飛行機で着陸してティモシーらを迎えに行き、大声で呼んだが返事がないので、キャンプに向かって登って行った。8合目ほど登った所で、嫌な予感がして、全速力で水上機に戻った。
+ 
+振り返ると、グリズリーがいた。
+急いで、水上機でキャンプを周回すると、喰われた人間の胸郭が見え、そのうち熊が覆いかぶさり、さらに食い始めた。
+ 
+フルトン自身が喰われる寸前だったことが分かり、国立公園局(ここは国立公園)に連絡して、ティモシーらを食い殺したグリズリーを射殺した。
+ 
+その場で、解剖すると中に彼らがいた。
+ 
+射殺したグリズリー２体はそのまま放置され、他のグリズリーに食われた。<div class="comment_navi">
+[ 2012/05/12 10:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ネタバレ御免</a>') } else {
+document.write("ネタバレ御免"); }
+</script>
+<noscript>
+<a href="" target="_blank">ネタバレ御免</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36433">[ 36433 ] <strong></strong></p>
+</div>
+<div class="comb">
+※36423
+勿論解剖した中身は持って帰ったんだよな・・・？
+（彼女はともかく）こんなクズがグリズリーの血肉になって欲しかない<div class="comment_navi">
+[ 2012/05/12 14:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">36408</a>') } else {
+document.write("36408"); }
+</script>
+<noscript>
+<a href="" target="_blank">36408</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36436">[ 36436 ] <strong></strong></p>
+</div>
+<div class="comb">
+36404だけど36423さん、サンクス。
+他の若いグリズリーはティモシーの言動に驚いて逃げたけど、その中で冬眠前の老いたグリズリーは人間に馴れており、餌として襲いかかったって書いてあったのを俺は見たなあ。2頭射殺されたことは知らなんだ。
+ 
+グリズリーは射殺されど放置されたっていうのは、日米の違いを感じるな。まあ死体がでかいうえに彼らの住みかゆえ長居すると二次災害が起こるから、放置して引き揚げたんだろう。しかしこのグリズリーマンは、人間にもクマにも有害だったなあ。<div class="comment_navi">
+[ 2012/05/12 15:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36437">[ 36437 ] <strong></strong></p>
+</div>
+<div class="comb">
+中国の漢方薬業者は、人食い熊の肝を幾らで買い取ってくれるのだろう？
+<div class="comment_navi">
+[ 2012/05/12 16:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36459">[ 36459 ] <strong>詳細な顛末(ネタバレ)2</strong></p>
+</div>
+<div class="comb">
+36433さん>>勿論解剖した中身は持って帰ったんだよな・・・？>>
+もちろん、持って帰って、検死されたよ。
+ 
+検死とテープの解析の結果、
+ティモシーに対してはまず、
+頭皮を引き裂かれたが、グリズリーは頭にはそれ以上何もせず、腰に近い部分の足から食らいついたとか。
+ 
+一応、ティモシーも食われている間に、恋人エイミーに逃げろと叫んでいるが、エイミーは逃げずにティモシーを救おうとし・・・合掌。
+ 
+と分析されている。<div class="comment_navi">
+[ 2012/05/12 20:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">ネタバレ注意</a>') } else {
+document.write("ネタバレ注意"); }
+</script>
+<noscript>
+<a href="" target="_blank">ネタバレ注意</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36461">[ 36461 ] <strong></strong></p>
+</div>
+<div class="comb">
+酷いもんだね
+自己満足の勘違いで恋人までも巻き込んじまうってんだから<div class="comment_navi">
+[ 2012/05/12 20:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment36498">[ 36498 ] <strong></strong></p>
+</div>
+<div class="comb">
+※36401
+そのおっさん好きだった
+無茶苦茶やってるように見えるけど
+引く線はちゃんと引いてる感じがして<div class="comment_navi">
+[ 2012/05/13 04:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51907">[ 51907 ] <strong></strong></p>
+</div>
+<div class="comb">
+対熊スーツのおっさんの話かと思ったら全然違った<div class="comment_navi">
+[ 2013/02/02 19:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment57652">[ 57652 ] <strong></strong></p>
+</div>
+<div class="comb">
+まあ散々な生き方してた様だが、既にくたばった人間を悪し様に論うのは好かないな
+こういう事は止めときましょうと教訓にするのみだ<div class="comment_navi">
+[ 2013/06/17 13:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=57652" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment60807">[ 60807 ] <strong></strong></p>
+</div>
+<div class="comb">
+クマ問題が気になったら
+ 
+「日本熊森協会」をググってみてくれ。
+ 
+どう考えるかは皆にまかせる。<div class="comment_navi">
+[ 2013/08/06 16:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment65840">[ 65840 ] <strong></strong></p>
+</div>
+<div class="comb">
+熊スーツの人もグリズリーを勝手に敵視してスーツ作って倒そうとか考えてたはた迷惑な人だったな。
+まあ、勘違い野郎で自業自得の末路迎えたトレッドウェルより全然マシだけど。
+ちなみに熊スーツの人は、スーツの開発費用で借金重ねて、最後に作ったスーツも抵当に取られて今じゃ自己破産したとか。<div class="comment_navi">
+[ 2013/10/31 21:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無し</a>') } else {
+document.write("名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment65857">[ 65857 ] <strong></strong></p>
+</div>
+<div class="comb">
+友達だと思ってたのに！ていう断末魔は、ティモシーのテープに残ってた音声だってやつだな。
+まあ偽の可能性も高いから何とも言えないが。実際は食われながら恋人に「逃げろ！」て言ってたというのもあるし。<div class="comment_navi">
+[ 2013/11/01 10:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment67472">[ 67472 ] <strong></strong></p>
+</div>
+<div class="comb">
+くまをキックで追い払った女子中学生がいた気がしたが<div class="comment_navi">
+[ 2013/12/01 01:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment77471">[ 77471 ] <strong></strong></p>
+</div>
+<div class="comb">
+「やる夫で学ぶ巨大生物」から来て一気読みしました。
+現実にもフィクションにもいる、
+猟銃一丁で単独で熊を狩るハンターってのが、
+いかに超人なのかよくわかった……。
+ 
+「人は銃を持ってようやく猛獣と対等」なんてセリフもあるけど、
+凶暴化した熊が相手の場合は「熟練のプロが銃を持って」
+というのが正しいですな。
+銃を持った素人では全然対等じゃない……<div class="comment_navi">
+[ 2015/01/13 09:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment77649">[ 77649 ] <strong></strong></p>
+</div>
+<div class="comb">
+典型的で分かりやすい勘違い環境保護馬鹿野郎だったんだな
+そして実にシンプルで素敵なオチがｗ
+終わり良ければ全て良しってやつだな<div class="comment_navi">
+[ 2015/01/23 16:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">電子の海から名無し様</a>') } else {
+document.write("電子の海から名無し様"); }
+</script>
+<noscript>
+<a href="" target="_blank">電子の海から名無し様</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment78269">[ 78269 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>57652
+ティモシーがグリズリーに自信を重ねて愛したように
+みんなティモシーにこいつの同類かつ今も生き残ってるクソエセ環境保護運動家を重ねて罵ってるってこってすわ
+ 
+57652のいうように教訓としてほしいような馬鹿がいかんせんまだ地球上から根絶されとらんからなぁ・・・<div class="comment_navi">
+[ 2015/03/18 22:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">電子の海から名無し様</a>') } else {
+document.write("電子の海から名無し様"); }
+</script>
+<noscript>
+<a href="" target="_blank">電子の海から名無し様</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment81291">[ 81291 ] <strong></strong></p>
+</div>
+<div class="comb">
+レオナルド・ディカプリオがこの人の生前の頃から熱心な支援者で交流もあったみたい。その分、死後の扱いに納得いかなくて自分が主演＆プロデュースで彼の伝記映画をつくろうとした･･････が、スコセッシの映画出演が決まり、企画は流れた<div class="comment_navi">
+[ 2015/06/16 21:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment85746">[ 85746 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>「自己投影」
+極端な話「知性」を理由に動物の保護を叫んでる連中は洩れなくそうでしょ
+「自己」というより「人間」と言う方が正確だろうけど根源は全く同じ<div class="comment_navi">
+[ 2016/01/07 09:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">電子の海から名無し様</a>') } else {
+document.write("電子の海から名無し様"); }
+</script>
+<noscript>
+<a href="" target="_blank">電子の海から名無し様</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment86377">[ 86377 ] <strong></strong></p>
+</div>
+<div class="comb">
+※60807
+あの団体か・・・、クマをベジタリアン扱いしたり、山からクマが降りてくる地点に餌としてドングリとか野菜を集積してる
+ 
+正直、他にもクマの危険性を否定したり、人とクマとの接触事故を誘発してるようにしか見えない
+支持者のコメントもクマをテディベア扱いしてるのとか、山間地に住んでる人間に非があるようなのばっかだし
+そりゃ時系列的には人が後から住み始めた土地かもしれんが、余程の新興住宅地で無い限りそこには批判してる奴等が生きてきた人生より長い歴史がつまってて、今住んでる人達にとってはそこが故郷だってことを自覚してないんだよな<div class="comment_navi">
+[ 2016/02/25 09:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無し</a>') } else {
+document.write("名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=86377" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment87077">[ 87077 ] <strong></strong></p>
+</div>
+<div class="comb">
+シーシェパードの連中もクジラに体当たりされて死ねばいいのに<div class="comment_navi">
+[ 2016/04/15 18:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4476" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment90774">[ 90774 ] <strong>承認待ちコメント</strong></p>
+</div>
+<div class="comb">
+このコメントは管理者の承認待ちです<div class="comment_navi">
+[ 2017/07/06 16:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">-</a>') } else {
+document.write("-"); }
+</script>
+<noscript>
+<a href="" target="_blank">-</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4476.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4476"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4476-43fd9719">http://oyoguyaruo.blog72.fc2.com/tb.php/4476-43fd9719</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4479.html" title="やる夫で学ぶ恐竜　第８話　うーみーは広いなーおーきいなー">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4484.html" title="やるやらでゲームの感想を書くスレ　第四回　「L.A.ノワール」">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

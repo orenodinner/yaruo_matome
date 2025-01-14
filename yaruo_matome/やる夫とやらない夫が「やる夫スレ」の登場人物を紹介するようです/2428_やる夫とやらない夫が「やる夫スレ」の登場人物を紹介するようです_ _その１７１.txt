@@ -1,0 +1,998 @@
+<div class="article">
+
+
+
+
+
+
+　　　　　　＿＿＿＿ 
+　　　　／　　⌒　　＾＼　　やる夫と！ 
+　　 ／　　（ ●） 　（●） 
+　／　　::::::⌒（＿人__）⌒ヽ 
+　|　　　　　　　|r┬-|　　　| 
+　＼ 　　 　 　　`ー'´　 ／ 
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_ノ　　ヽ、　　＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（ ●）（ ●）　　　| 
+　　　　　　　やらない夫の！　　　　　　　　　　　　　　　　　　　　　（__人__） 　　　　 | ..／} 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _　 　　　 　ヽ｀⌒ ´　　　　　| /　/ 　　　__ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (＾ヽ{　ヽ　　　　　 {　　　　　　　　./　/　 .　／ .ﾉ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　(￣ ヽ ヽ　i　　　　　　ヽ　　　　　　/　厶-　´ ／ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　.(二 ヽ　i　i　|,r‐i　　　　ﾉ.　　　ヽ /　　　　 ／ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ　　 ／　 ノ　　／　　 　r一'´　ー ､　　￣￣￣） 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 i 　 {　　 ｲ―イ　/　 　.`ー―.　､＿_　.〈￣￣ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ.　`ｰ '/　　　/　　　　　　　　　 　/＼ ＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 `ー ' ￣￣!　 　　　　　　　　　|　　ヽノ 
+
+
+
+
+
+
+
+　　　　　　　「第171回やるやら登場人物紹介！」 
+　　　 　／￣￣＼ 
+　　　／　　 ⌒　⌒＼ 
+　　　|　　　 （ ●）（●）　　　　　　　 　　 　 　 ＿＿＿_ 
+.　　　|　　　⌒（__人__）　　　　　　　　 　　　／⌒　　⌒＼ 
+　　　 |　　　　　|r┬-|　　　　　　　 　　　／（●）　（●）　＼ 
+.　　　 |　　　　　`ー'´}　　＼　　　 　　／:::⌒（__人__）⌒:::::: ＼　 
+.　　　 ヽ　　　　　 　 } 　　　 ＼　 　 　|　　　　|r┬ | 　　　　　| 
+　　　　 ヽ　　　　　ノ　　　 　 　＼　　 ＼　　　｀ー ´ 　　　_／ 
+　　　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　 ＼ 
+　　　　　|　　　　 ＼ 　＼　　　　(⌒二　　　 　　　　　　　　 　| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+399 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:27:44 ID:fAQwWT2p
+
+
+
+
+
+　　　　　　　　　　 __ 
+　　　　　　　　〃´　 ｀ヽ 
+　　　　　　　,ｨiミ{ｲ_i!_i!_ﾘ/⌒ヽ 　　ようやく私の出番だな！！！わっはっは！！ 
+　　　　　　　l!ｊヾ(!(/)ﾜﾟﾉ/　　　|ﾟ::　ﾟ;ﾟ　ﾟ 
+　　　　　　　　⊂　 　　/　　.;ﾟ/;　:;; 
+　　　　　　　　　 ＼　 /　｡ﾟ /.;.;::: 
+　　　　　　　　　　（ /／⌒￣⌒`´￣`～ヽ'ー--､ 
+　　　　　　　　　_／　　　　　　ιυっ￣~つｙへつ 
+　　　　　　　 ／　　　/つつ。ｏ/　/　/　/　　^つっへυっつ.ノ　､　、 
+　　　　　　_/　　　　 〉o°o。 　 。 /　/　　／°>　 ,　 ｡ﾟ゜｡○ ○）｡l゜ﾟ。っ　ちょっ！出るの早いおーーっ！ 
+　　　　 ／　　　　　　＼γ､。　o　。 /ｏ。/　／つ ○ll○）l （人__）　|っつ　　　溺れるだろJK～～～～～～～～！ 
+＿＿／　　　　　　　　　　　`⌒ヽっ/　。/　　／　（人__）l|llノヽ‘ｰ′ノっつっつ　どばばばばざっぷ～ん 
+
+
+
+
+
+
+
+
+
+
+　,r'ﾆﾆﾆヾヽ、　　 　 　 　 　 　 　 　 //ﾆﾆﾆヽ、 
+（"´￣￣ヾ））　　 　 ＿＿＿__　　　（（/￣￣｀ﾞ`） 
+| 　 、ィ_ﾉと)'　 　／ "＼, ､／"＼　 (つ（_,,ｱ　　 |! 
+i| 　 ｀ ｲ_／　 ／ （‐-､）､ ,（,-‐ ） ＼. ＼_Y　　　|!　　ぶはっ！今日ご紹介する方はこちらの方だお！ 
+.ヽ、　 ' （　 ／　　 ｀ﾞ（__人__）'" 　　＼　/ `　　/ 
+　　＼　　＼l　　　　 i|　　 　|!　　　 　l／　　／ 
+　l|l 　＼　　 ＼　　､i|,/⌒ヾ､|!;,　　 ／　　／　|l 
+　　　　　＼　　ヾ　　 `ー一'´ 　ｨ　 　 ／ 　　i 
+　　　 　 　 ヾ、　　　　｀`"´　 　 　 ／ 
+　　　ﾟ　 　|!　 Ｙ　　　　　　　　 　 ｨ　|!　　｡ 
+　　　,.　 '　 ､/　　 　 　 　 　 　 　 ヾ　´　’　　｀ 
+　ﾟ,　i! `|　゜､l!　　　　　　　　　　　　i|!;　ﾟ ゜ ｡ 
+　 ヾ从ｿヾ､, ;;ｿ'人ﾟ;,ｨ~;;へ､ｨﾍ;;´ﾝy∧从/∨ゞ〆´　 ,.， 
+_..〆　　..:::ｿ　　..:＿::ノ .::j　　 .:::ﾉ｀ｿ´::ゝ　.::::...ヽ _.:::｀ 
+
+
+
+
+
+
+
+400 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:28:09 ID:fAQwWT2p
+
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+　　　 　 　 　 　 |＼　　　　　　　　　　　　 　 　 　 　 ／| 
+　　　 　 　 　 　 |ﾄ､｀､　　　　　 　 　 　 　 　 　 　 ／,'..,' 
+　　　 　 　 　 　 |i　ヽ｀､　　　　　　　　　　　　　／:::/　i 
+　　　　　　　　　 !i　,.ゝ..ヽ､,．‐'''""~~""''''‐．／:::／ ,'/ 
+　　 　 　 　 　 　 ',',　　>''"::::::::::::::::::::::::::::::::::::::｀ヽ, '／ 
+　　　　　　　　　　ヽ', ':::::::::::::::::::::::::::::::::::::::::::::::::::::::ヽ､ 
+　　　 　 　 　 　 　 /:::::::,i:::::::､::::::::ヽ､::::::::ヽ､::｀ヽ::ヽ､｀' ．_ _ _ ,. 
+　　　　　　　　　　 i::::::,.'/i::::::i:::::::':,::::::＼::::::::ヽ::::::ヽ::::'.,｀ヽ'"~´ 
+　　　　　　　　　　 |:::::冫.|::::::|ヽ,::::｀／:::::::',ヽ､|ヽ､;;;;!､:',::ヽ::,ゝ　　　アニメ「ストライクウィッチーズ」からもっさんこと坂本美緒少佐だお！ 
+　　　　　　__,/ﾍ/´,ﾉ'"_,.ゝ‐‐-.､X.:::::!ヽ;;;;ゝ-‐‐‐‐ ﾄ､|｀ヽ|i｀､ 
+　　　,.-‐'"／／／i_/´,'￢　,.∠_ .ヽ|　　,ｨｬ‐┬ｬ i∧　 .',　 ヽ 
+　　　￣￣ししく　　Y´ /戈,Tiiii'厂`　　　 |;ii0|　 .|ﾊ.i　　ｊ 
+　　　　 i"~´/´￣"´　,ｲ!.i　.乂ｿ　　　　　 ｀‐"　,'!乂 
+　　　　ﾘ ._/　　　 ,．'~ Y.ﾍ.　"""　　　 ,　 """./´　 ｀ヽ 
+..　／||´　　　,,.／　　　.冫:｀､　　　、 　 _,　　.,.' 
+／ |　ii　 イ´　　　　 ／/iヽ､:＼　　　　 　 ／~""'''‐- ．..,,__ 
+　　',　ii　./　 　 　 .く:::〈..　　｀ヽi｀' ､.__,．'´|::::::::::::::::::::::::::｀ヽ､"'''‐ ､_ 
+　　 ',　ii/　　　　_＿_｀ヽ＿__,厂|　　　 　　|~|""'''‐- ． :::::::::::＼　　 "'‐． 
+.　　 i／　　 ,..-'"ﾍ.,､__,,.．-‐''i＼',　　　 ／´ |"' ．_ 　　`丶:::::::;;;ヽ　　　 .＼ 
+.　／ ,厂~￣｀､"´/　 　 　 　 ｀､ ＼ .／_,. -'´｀' ．, ｀' ．.,　　｀ '､:::｀､ 
+../|￣＼.＼　　＼|　　　　　　　 ｀ヽi.i／/　 　 　 　 ｀'-．」i　　　 ＼::', 
+ﾍ＼｀＼｀ヽ｀ヽ＼i/　　　　　 　 .厂０　　 　 　 　 　 　 /　|　　　　 ｀､i 
+　 　 　. ＼＼..／　　　　　　　 /　 　 　 　 　 　 　 　 /　 .|.　　 　 　 'i 
+　.i　　＼,___., '　　　　　　　　,.'　　　　　　　　　　　　/　　 |　　 　 　　j 
+　 |．-'''"　/　　　　　　　　, ' O　 　 　 　 　 　 　 i./／　...| 
+''´　　　　 i　　　　　　　　/　　　　　 　 　 　 　 　 |/i"'- ､ | 
+　　　　　　',　　 　 　 　 ,'　　　　　　　　　　　　 　i｀､　 　　', 
+　　　　　　.ﾍ.　 　 　 　 |　　　　　　 　 　 　 　 　 |', ｀､ 　　 | 
+.　　　　　 　 ｀､ 　 　 　 iо　　　　 　 　 　 　 　 /i ',　｀､　　| 
+　　　　　　　　 ｀i丶.　　 ',　　　　　 　 　 　 　 ／　', .'　 .｀､　', 
+　　　　 　 　 　　',　　 　 .i　　　　｀' ‐ -　 , '"/　　 .',　　 　 　| 
+　　 　 　 　 　 　 |　　　　|о　　　_,.．-'"　　 ',　　　i　　　　　', 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+
+
+
+
+
+
+
+401 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:28:58 ID:fAQwWT2p
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　／　⌒　ヽ 
+　　　　　　　　　　　　　　　　　　　　　γ　　　　　 ヾ 
+　　　　　　　　　　　　　　　　　　　　　ー―――､　_ﾉ　アニメ、ストライクウィッチーズは架空の1940年代、謎の生命体「ネウロイ」と 
+　　　　　　　　　　　　　　　　　　　　　｛●)(●｝]=ｌ　ｌ|　　　　　　　　　　　　　　　　　　　　　　　　 ｳｨｯﾁ 
+　　　　　　　　　　　　　　　　　　　　　（__人__）　 ヽ /　唯一それに対抗できる魔法力をもった「魔女」達が空で戦いを繰り広げるアニメだ 
+　　　　　　　　　　　　　　　　　　　　　 (,｀⌒ ´　　　| 
+　　　　　　　　　　　　　　　　　　　　　　 { 　 　　　　|　ネウロイのせいで人間同士の戦争が起こってないって設定はマブラヴに似ているな。 
+　　　　　　　　　　　　　　　　　　　　　　 > 　 　　 / 
+　　　　　　　　　　　　　　 　 　 ＼　 　　　　　　　　　　　／　　　　　　　　　　　　　ババババ 
+　　　　　　　　　　 　 ´￣｀丶　　　 ──v───── 
+　　　　　　　　　／　　　 　 　 ヽ　　　　　　　　　　　　　　　　　　　　　　　　 　 ,-､ 
+　　　　　　　　　　　　　　　　　　　　　,.､-/＝ヽ_　　　 |￣￣¨　　　ｰ----　　/::|::ﾞl 
+　　　　　　　　　　　　　,. ‐‐‐‐---- '"- lﾟωﾟ |ﾞﾞﾞ ー-l､ 　 　 　 　 　 　 　 　 /::├::| 
+　　　　　　　 |　 　 　 /_ `.i;;;;;;;;;;`::::::::::::::::::::~　ー-----‐- ....__　 　 　 　 　 /::::: |::::| 
+ー--　 ......___|　　 　(　　） :|;;;;;;;;;;;;|::::::::::::::::::::::::::::::::::::::::::::::::::::::: ｀　ー-　...__/:::::::├::| _......　-一・' "￣ 冫 
+　　¨　ｰ-= __￣　ｰ-｀､~　ﾉ;;;;;;;;;;;/::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: __　　 - ‐・ ' " ¨￣　　　　_..　 -‐ '"´ 
+　　　　　　　 ¨　ｰ- ..._ヽ _;;;;;;;;;;ノ::::::::::::::::ニニニニニニ二 " ´´　　　　　　　　 _...　-‐ '"´＝＝‐ 
+　　　　　　　　　　　　 ~　 ｰ-'" :::＿＿＿＿＿＿＿　　　　　 ＿＿＿ =-‐・ "´-‐'" 
+　　　　　　　　　　　　　　　　　　　　　||＿＿||...........ニニニ二 ,-┐　　　　　　 ﾞＯ 
+　　　　　　　 　 ＼　　　　　／l´ ￣￣　　　　　　　　　　　__....､__」 
+　　　　　　　　　　　　 - 　　　 `ー--―‐―一　 ''''' " ¨￣ 
+
+
+
+
+
+
+
+　　　　　　　　　　　　 ／） 
+　　　　　　　　　　　／／／）　　　　　　　　このアニメのウィッチたちはWW２時代のエースパイロットたちがモデルになっているお！ 
+　　　　　　　　　 ／,.=ﾞ''"／　　　　　　　　　ちなみに坂本少佐のモデルは「大空のサムライ」こと、坂井三郎氏(1916-2000)だお 
+　　　／　　　　 i f　,.r='"-‐'つ＿＿＿_　　　　 
+　　/　　　　　 /　　　_,.-‐'~／⌒　　⌒＼ 
+　　　　／　 　,i　　　,二ﾆ⊃（ ＞）.　（＜）＼　ちなみにアニメの内容についてはファンゆえに長くなるので各自ググって欲しいお 
+　　　/　 　　ﾉ　　　 ilﾞフ::::::⌒（__人__）⌒::::: ＼ 
+　　　　　　,ｲ｢ﾄ､　　,!,!|　　　　　|r┬-|　　　　　|　坂井氏についてもあんまり関係ない話なので了承くださいだお 
+　　　　　/　iﾄヾヽ_/ｨ"＼ 　　 　 `ー'´ 　 　 ／ 
+
+
+
+
+
+
+
+402 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:29:21 ID:fAQwWT2p
+
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+.　 ／　　r――f´　 　 　 　 　 　 ＼:::::::::::::::::／／://:::::::::::::/::/　|:::||:::::|::::::::::::::::: 
+／　　 　 ゝ―‐' 　 　 　 ＞――――――‐＜ :://:::::::::::::/::/　 .|:::||:::::|::::::::::::::::: 
+＿ﾉ　　 ／｀ ｰ----＜: : :.＞-―-､..; : : : : : : : : .｀ﾞ''＜:::::/::/　　 |:::||:::::|::::::::::::::::: 
+――＜　 　 　 ／.: : :.:／　　　／／: : : : : : : : : : : : : : :｀.:.＜.　　|:::||:::::|:::::::::::::ｉ:::　 
+　‐--==ﾆニ二{: : : :／　　　　{／: : : : : : : : : : : : : : : : : : : : : :０Y|:::||:::::|:::::::::::::|::: 
+　　　　　　 　 ∧:／　　　　　/: : : : : : : : : : : : : : : : : : : : : : :.:.／ |:::||:::::|:::::::::::::|::: 
+　　　　　　　＞'´　　 　 　 ／＿＿＿＿＿＿＿＿＿___.＞ '´ 　 |:::||:::::|:::::::::::::|::: 
+-――-＞'´　　　 　 　 ／＿＿＿＿＿　　 　 ｀ﾞ''＜　　　　　 　 |:::||:::::|:::::::::::::|::: 
+　　　´　　　　 　 　 　 /　＼. i======┬=≧ix､,,_　　＼. 　 　 　 |:/ ＼|;;;;;;;;;;;;;|;;; 
+　　　　 　 　 　 　 　 ∧　　 ﾍi!　　　　 || ヾ:|:.:i:.:}'≧i=-､＼__, 
+　　　　 　 　 　 　 ／Vﾊ 　　 ‘、　　 　||｀ヽ| :|| |'" :|　　ﾍ. 
+　 　 　 　 　 　 ／|:|　V∧　　 ‘､　　 ￢== | :|! |≦:;　 　 ‘､ 
+　　　　　　　／　 .|:| 　｀Y　　　 　 　 　 ∨八_;_ﾉヾ/ 
+　　　　　 ／ | 　 .:|:| 　 ｜　　　　　　　　 ＼＿_／ 
+　　 　 ／　　|　ﾍ.:|:| 　 人__| 
+　　 ／　　　 ‘､　 |:|　　　　ﾍ 
+'''"´　　　　　　 ＼|:|ヽ　　 　 ', 
+　 　 　 　 　 　 　 |:|、　　　　 ', 
+　 　 　 　 　 　 　 |:| ＼　　　　', 
+　 　 　 　 　 　 　 |:| 　 `ｰ―‐‐',　　　　　　　　　　　　　　　　 　 　 　 　 i 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+
+
+
+
+　　 ／￣￣＼ 
+　／　ノ　　ヽ /＼'ｰ､　　　　　　　,, ..,､ 
+　|　 （ ●）（ /　　.＼` ､　　 .　／／ /　ウィッチにはネウロイの攻撃を防ぐシールドとそれぞれ一つ特殊能力を持っている。 
+.　|　　（__人/　　 　　＼ヽ､,.／／　../ 
+　 | 　　 ｀ /　　　　　　　｀`７７　 　/　　　坂本少佐の能力は右眼に魔眼、遠距離のネウロイや、ネウロイ内部のコアを視認できる。 
+.　 ヽ　　 /　　　　　 　 　 / /　　 / 
+　　 ヽ.. /　　　　　　ｆヽ、/ / , -,./　　　　　　眼帯の理由はこれだな。イメージモデルの坂井三郎氏のエピソードが元ネタだ。 
+　　　/./　　　 　r-､ ヽ　∨,ノ　/ 
+　　　|. ＼　　　〈＼.＼,〉　｀,　 ｆ 
+　 　 |　.　＼　　(ヽ ヽ ｀..　　　| 
+　 　 |　　 　.＼　＼　　　　 　ﾉ 
+
+
+
+
+
+
+
+403 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:30:15 ID:fAQwWT2p
+
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+　　＿|￣|＿　　　　　　　|￣|　 |￣|_　　　　|￣|　 |￣|_ 
+　　|＿　　＿|__　　　　　 |　 |￣　 　 |　　　 |　 |￣　 　 | 
+　 　 ／　 ＿　 ヽ　　　　|　 |二ｺ ┌'　　　　|　 |二ｺ ┌' 
+　 ∠ /　/　　 〉 |「￣＼ |　 |　o　 ヽ「￣＼ |　 |　o　 ヽ「￣＼ 
+　　　|＿|　 　ﾉ_ノ ｀⊇.ノ|＿|､＿ハ/ ｀⊇.ノ |＿|､＿ハ/｀⊇.ノ 
+　　　　ヽ／　 　　　／:／:./:.:.i:.:ヽ:.:＼　　 ヽ/ 
+　　ヽ／ヽ 　　 　 /ﾆ/= /i:＝.!.＝i.=ｷ.i　　 / ＼/ 
+　　∧　　 　　　 ,':./i:.:.:.:{ L:.:」|:.:.:」:.」|:.|　　　　 /＼ / 
+　　　　　　　　　 i:.:| ¨ ﾆ≧ ／ -―　ｌ:.!　　　　　　∧ 
+　　　　　　　　　 |:.:iｒ'´//　ｊ　 ｚ＝=、!:|　　訓練中は鬼教官として恐れられているが 
+　　　　　　　　　 !ﾍﾊ//__ノ　 、　 　 A} 
+　　　　　　　　　 ﾄ ｊﾊ　 　 F＝┐ 　 ﾚﾘ　　新人思いなだけで本来は豪放磊落で気さくな人だ。 
+　　　　　　　　　 | :.:.:へ　 ゝ__ノ　／ 
+　　　　　　　　　 | :.:.:|((´i＞ - イ　　　　　　これプラスベテランという設定なので大人役はもちろん部活のOBとかって配役も考えられるな。 
+　　　　　　　　　 } :.:i:| 「 ヽ、　, ｋｌ 
+　　　　　　　 ｨ＝＝┴' ー　∨ーＶ＝＝=、 
+　　　　　　 ∧　　　　　　　　|Ｏ　　　　　 ∧ 
+　　　　　 ム ﾍ　 /　　　　　 l　　　　　i　/　} 
+　　　　　「＿　∨　　　　　　 !　　　　　Ｖ ーヽ_ 
+　 　　 ／　　　 !　　　 　　　 i Ｏ　　　　|　　　 ＼ 
+　　／　　　　／ﾄ、　　　　　人　　　　 八ヽ　　　 ＼ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+　　　　　　　 .／￣￣＼ 
+　　　　　　.／　　　　　　＼ 
+　　　　　　|　　 　　ー　　‐ i 
+　　　　　　|　　　（ ●） （ ●）　だが年齢による魔力の衰えで十分な防御力をもったシールドを展開できなくなってしまうだろ。 
+　　　　　　|　　　　　（__人__） 
+　　　　　　|　　　　　　`⌒´i　　　 
+　　　　　　ヽ.　　　　　　　ﾉ 
+　　　　　　　ヽ　　　　　ノ 
+　　　　／ 　 ＼　　　　 　 ＼ 
+　　 　 |　　　　 ＼, -‐- 、-‐- 、 
+　　 　 |＼　　　　 ＼.　　（"￣ .入 
+　　　　|　　＼　　　　" ￣￣￣　　） 
+　　　　|　　／ ＼,,＿＿＿＿＿__人 
+　　 　 |　　　　　　／＼　　　 ＼ 　＼ 
+　　　　ヽ,_＿＿_／;__＿＼　　　 ＼,,_ ＼,,__ 
+　　　　　　　　　　　　　　（＿＿＿＿__）＿__） 
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　 ＿＿＿_ 
+　　　　, ヘｰ‐- ､　　　 ／ヽ　 ／　＼ 
+　 -‐ノ .ヘー‐-ｨ　　／（●.） 　（● ）ヽ　　でも2期では(ネタバレにより規制)でその弱点を克服して前線に返り咲くお！ 
+　''"/／ヽｰ､ 　ﾉ .／:::⌒（__人__）⌒::::::ヽ 
+　 /／＾＼ 　ヾ-､.|　　　　|r┬-|　　　　 |　　タフで強い女性として作者のスレも含め最近登場するスレが急増中だお！ 
+,ノ 　 ヽ,_　ヽノヽ_)＼　　　`ー'´　　　 ／ 
+/　 　 <＾_,.ｲ `r‐'ﾞ ::::ヽー‐-..､　　,..-‐|、 
+＼＿＿_,／|　 !　　::::::l、:.:.:.:.:.ヽ /:.:.:.:.| ＼ 
+
+
+
+
+
+
+
+404 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:30:55 ID:fAQwWT2p
+
+
+
+
+
+　　　　　　　　　　　　 　　　　 ＿＿ ＿ 
+　　　_,rｰく´＼　 , --､　　　／⌒　　⌒ ＼ 
+　,-く ヽ.＼ ヽ Y´　／ 　 ／（●）　 （●）　＼　　詳しい経緯は作者は詳しく知らないので端折るけど職人に恵まれてAAもとても豊富だお！ 
+　{　-!　l _｣_ﾉ‐′/ 　 ／ 　 　（__人__）　　　 ＼ 
+　ヽ　ﾞｰ'´ ヽ　　/　 　|　 　 　. `Y⌒y'´　　　 　|　もう主役級貼れるぐらいの量があるのにまだまだ増える！まさにもっさんフィーバー！ 
+　　ゝ、　　ﾉ_ イ　　　 ＼ 　 　 ゛ー ′　　　,／ 
+　　　 ヽ　　 　 |　　　 　/　　　　ー‐ 　 　 ヽ 
+
+
+
+
+
+
+　　　　　　　 ∩⌒ヾ 
+　　　　　　　 い　　　） 
+　　　　　　　　 、 .　ﾉ　 
+　　　　　　　　　|　　|　／￣￣＼ 
+　　　　　　　　　|　　|./　　　_ノ 　＼　　　バトルからエロまでなんでもござれ！新時代の大物女優！ 
+　　　　　　　　　|　　|　　　（ ＼）　　l 
+　　　　　　　　　|　　|　　　(⌒　（＼） 
+　　　　　　　　　|　　|　　　/￣(__丿　　　　それがもっさんの魅力だろ！ 
+　　　　　　　　　ト　　　　/ｰ､／ 
+　　　　　　　　　|　　　　 ＼ノ 
+　　　　　　　　　|　　　　　　) 
+　　　　　　　　　|　　　　　 /ヽ 
+　　　　　　　　　|　　　 　 /三) 
+　　　　　　　　 ﾉ　　　　 〈 ￣ 
+　　　　　 　 ／　　　＿ 　⌒ヽ 
+　 　　 　 ／　　　／　　|　　　| 
+　　 　 ／　　　／　　　 |　　　|　 
+
+
+
+
+
+
+
+405 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:31:52 ID:fAQwWT2p
+
+
+
+
+
+　　　　　　　　　　 　 　 ＿＿＿_ 
+　　　　　　　　　　 　 ／　　 　 　＼ 
+　　　　　　　　　　 ／　─　 　 ─　＼　　　短くてごめんだけど最後に言っておきたいことがあるお 
+　　　　　　　 　 ／ 　 （●） 　（●） 　＼ 
+　 　 　 　 　 　 |　 　 　 （__人__）　　 　 |　　このAAを見て欲しいお 
+　　　　　　　 　 ＼　 　　 ｀⌒´ 　　　,／ 
+　　　　　　　 　 ／　　　 　ー‐　　　　＼ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ,．＜::::::::,．' 
+　　　　　　　　　　　　　　　|　　　　　　　 　 　 　 　 　 　 　 　 |iﾍ. ,,.....∠:::::::＞''" 
+　　　　　　　　　　　　　 　 l!　　　　　　　　　　　　　　　　　 　 ||ﾊ∨::::::::::::｀ヽ-―ｯ 
+　　　　　　　　　　　　　 　 |!　　　　　　　　　　　　　　 　 　 ／//;ｲ:ｉ::ｉ:V:ﾊ＼ﾞ´／　 |i､ 
+　　　　　　　　　　　　　 　 |!　　　　　　　　　　　 　 　 _,,,_ /:::///i:l::|::|､:Vﾊ:ヾ＼:ゞ /||i 
+　　　　　　　　　　　　　 　 ||　　　　　　 　 　 　 　 　 ｛┼｝｀＞〈/l:l::|､:∧Ｖ:!ﾍ;／／彡' 
+　　　　　　　　　　　　　 　 ||ヨ　　　　　　　　　　 　　__Τ＜/´ﾊ/;ﾊ 　ィｹﾂ/）ﾊ｀'く.__ 
+　　　　　　　　　　　　　 　 ||　　　　　　　　 　 　 ,.．┴三三|//,ﾍ. 　_'_ 　 ｲ//　 ｀YV＼　/| 
+　　　　　　　　　　　　　 　 l:!　　 　 　 　 　 ｒ＜二二＞r､__ !////＞-＜＞'/ 　 　 ﾍ|ﾍ. ＼|ﾐヽ 
+　　　　　　　　　　 　 　 　 l:| 　 　 　 　 _,．＜三)＿＿ ﾍ___＼''＜＞ '´．＜　　 　 ／V＿__） !i.｝ 
+　　　　　　　　　　 　 　 　 |:|　　_,.．＜三三㌻ﾞ//;三＞―┬x.,_,.．＜￣｀ヽ　　 ／　ノ ＼: ＼''' 
+　 　 　 　 　 　 _____,,.．＜三ﾞ≦､三三三ィ´　 {{::i:i:◎:i:i::}}‐{: : :|　 ｰ=ニ　　 　/__,／　　　｀'＜) 
+　 　 ,. ＜二二｀＞．三三三三ミＹ三ｬ'´ 　 　 ﾍVﾞﾆﾆノﾉ;ｲ'＼/_,.＞‐＜＿__,/ 
+.　／／: : : .:.:.:.::,ｨili:､＼三三三三｝'´ 　 　 　 　 ｀'‐==‐'´ 
+../ /: : : .:.:.:::::::::i圭圭i:, ∨三三／ 
+/Ｖ : : .:.:.:::::::::::::ﾏ圭圭i　V三, ´ 
+|: | : : .:.:.::::::::::::::::`气圭ｉ　ｌ,ﾞ/ 
+|: | : : : : : .:.:.:.:::::::::::::::::::}　l/ 
+.Vﾍ: : : : : : : : .:.:.::::::::::/ ,/ 
+　＼＼:.: : : : : : : :.;／／ 
+　　 ｀'＜二二二＞'´ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+
+
+
+
+　　　　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　 rヽ　　／　ノ　　＼ ＼ 
+　　　　　　　　 i　!　　|　 （●）（●）　|　坂本少佐がバトルモノで刀を持つシーンが印象的だがこうやって 
+　　　　　 r;r‐r/　|. 　|　　（__人__）　 |　　本編でも銃火器をもって活躍するシーンもあるんだ。 
+　 　 　 〈_L (｀ヽ .}　　|　　 ｀ ⌒´　　ﾉ　　これは多くの魔女達が機関銃と各個人の固有能力を基本の主兵装としているからだ。 
+　　　　　l｀ （ ｀`/　.　 |　　　　　　　 }　　　もっさんみたいに刀を主兵装にする魔女は割と少ないだろ。 
+　　　　　ヽ 　　l　　.　 ヽ　　　　　 　}　　　　外伝小説には爆撃隊として護身用の大型拳銃と爆弾を携行するウィッチも登場している。 
+　　　　　　|,. 　 l　　 /⌒　 　ー‐　　ｨ ヽ 
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　 　 ∩＿ 
+　　　　　　　　　　　　　　〈〈〈　ヽ 
+　　　　　　＿＿＿_　　　〈⊃　　}　　もっさん＝刀は全然間違いじゃないお。 
+　　　　 ／⌒　　⌒＼　　 |　　 | 
+　　　／（ ●） 　（●）＼　 !　　 !　　ただこういう側面もあるんだなということを知って欲しかったので補足しておくお！ 
+　 ／ :::::⌒（__人__）⌒:::::＼|　　 l 
+　 |　　　　　|r┬-| 　 　 　 | 　／ 
+　 ＼ 　 　　｀ ー'´ 　 　 ／／ 
+　　/　＿＿　 　　　　　　/ 
+　　(＿＿＿）　　　　　　/ 
+
+
+
+
+
+
+
+406 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：10/08/04 15:32:07 ID:fAQwWT2p
+
+
+
+
+
+拙い出来だがこれでおしまいにするだろ。 
+　　　　＿＿ 
+　　 ／　　　＼ 
+　／　　 _ノ　　＼　　　　　（（　(ヽ三/) 
+　|　　　 （ ●）（●）　　　　　　　(((i )＿＿＿ 
+.　|　　*　 （__人__） l l 　　　　 ／ ／⌒　　⌒ ＼ 
+　 |　　　　　｀ー 'ﾉ j l_　　　　( ／（●） 　（● ） ＼　　　次の方よろしくお願いしますお！ 
+.　 |　　　　　　 　 } ―i　　　　/::::⌒（__人__）⌒:::::　ヽ 
+.　 ヽ　　　　　 　 }|::―|　　　 |　　　　|r┬-|　　　 　 | 
+　　 ヽ　　　　　ノ　ー '　　　　＼　　　`ー'´ 　 　 ／ 
+　　　/　　　 く　　＼|＿|　　　　 ＼　　　　　　　< 
+　　　|　　　　 ＼ 　 ＼ 　 　　　　　　　|＿|と＿ノ 
+　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼ 
+
+
+
+
+
+
+
+
+
+<hr size="２"/>
+
+
+
+
+
+
+
+　　　　　　　　　　　　＿＿＿_
+.　　　　　　　 　　　／ ノ　'' ⌒＼　　　　　　　　　　おいおいなんだよこのアニメ
+　　　　　　　 　　／　（ ● ) (● )＼　　　　　　　　おパンツ見せれば喜ぶってか
+　　　　　　　　／　:::::⌒,　　　ゝ⌒:::::＼
+　　　　　　　　|　　　　　 `ｰ=-'　　　　 |　　　　　　　小学生じゃないんだからさあ
+　　 　　　 　　＼　　⊂､ヽ､_∩　　　／
+.　　　　 , -‐　 ´ 　＼ 　'､　　 ヽ　　! ｀ ｰ-､ 
+　　　　/　　__　　　　ヽ 　　ー、　 ＼ |　　　∧
+.　 　 〃 ,. --ミヽ　　　　ヽ　　　＼　　ヽ　|/ハ
+　　　ji／ 　 ￣｀　｀　　　　ヽ 
+.　　 {{　　　　　 ' 　　　　泳ぐ管理人
+
+
+
+
+
+　　　　　　　　　　　 ＿＿＿
+　　　　　　 　　　 ／　ヽ '' ノ＼　　　　　　　　　「リーネちゃんﾊｱﾊｱ」とか
+　　　　　　 　　／　（ ● ) (● )＼　　　　　　　 「エイラーニャ最高！」とか
+　　　　　　　／　:::::⌒,　　　ゝ⌒:::::＼　　　　　 「おねえちゃぁぁぁあああん！！」とか
+　　　　　　　|　　　　　 ﾄ==ｨ'　　　　　|　　　　　何言ってんだよって感じだよな
+　_,rｰく´＼　＼,--､　　`ー'　　　　／
+-く ヽ.＼ ヽ Y´　／ 　 　 ー　　´ ! ｀ ｰ-､　　　 もっと他に言うべき事があるんじゃねえの
+{　-!　l _｣_ﾉ‐′/ ヽ 　　　　　　　|　　　 ∧
+　 ﾞｰ'´ ヽ　　:/　 　ヽ　　　　 　　i　　　|/ハ
+｀ゝ、　　ﾉ　ノ　　　　 ヽ　　　　　|
+　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+　　　　　　　　　　　　 ＿＿＿
+　　　　　　　 　　　 ／　ヽ '' ノ＼
+　　　　　　　 　　／　（ ● ) (● )＼
+　　　　　　　　／ :::::⌒　､＿ ゝ⌒:::::＼ 　　 (⌒)
+　　　　　　　　|　　　　　　 -　　　　　　|　　 ﾉ ~.ﾚ-r┐､　　　　だろっ
+　　　　　　　　＼　　　　　　　　　 　 ／　 ノ__　 |　.|　|
+.　　　　 ,　⌒ ´　＼ 　 　 ￣ 　´ ! 〈￣　　｀-Lλ_ﾚﾚ
+　　　　/　　__　　　 ヽ 　　　　　　|　 ￣｀ー‐---‐‐´
+.　 　 〃 ,. --ミ　　　　ヽ　　　　　i　　　|/ハ　／
+　　　ji／ 　 ￣｀　　　　　ヽ　　　 | 
+　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+
+　　 ／￣￣＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）
+.　|　　　　 （__人__）
+　 |　　　　　｀ ⌒´ﾉ
+.　 |　　　　　　 　 }　　ミ　　　　　　　　ﾋﾟｺｯ
+.　 ヽ　　　　　 　 }　ミ　 ／＼　　,☆＿＿__
+　　 ヽ　　　　　ノ　　　　＼　 ＼ ／　　 　　＼
+　　　/　　　 く　　＼.　　／＼／　─　 　 ─　＼　　　　　　ミーナ隊長の出番もっと増やせよ
+　　　|　　　　　`ー一⌒)　 ／ 　 （●） 　（●）　 ＼　　　　 いや増やしてくださいお願いします
+　 　 |　　　　i´￣￣￣ ＼ |　 　 　 （__人__）　　 　 |
+　　　　　　　　　　　　　　　＼＿　　 ｀ ⌒´　 　　／
+　　　　　　　　　　　　　　　　／　　　 　　　　　　＼
+　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+
+　　　　　　　　　　　　中の人の交代ネタとかでもお話作れそうだね
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/2428/clap" id="fc2button-clap-2428" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-2428").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/3.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/2428/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７１" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-2428.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-2466.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７７ (2010/08/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1561.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　まとめ (2010/08/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2457.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７６ (2010/08/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2443.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７５ (2010/08/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2438.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７４ (2010/08/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2430.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７３ (2010/08/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2429.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７２ (2010/08/08)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７１ (2010/08/08)			</li>
+<li class="relate_li">
+<a href="/blog-entry-2427.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７０ (2010/08/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2426.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６９ (2010/08/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2358.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６８ (2010/07/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2357.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６７ (2010/07/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2348.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６６ (2010/07/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2325.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６５ (2010/07/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2324.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６４ (2010/07/14)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７１" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/08/08 07:28 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html#comment_list" title="この記事のコメントを参照">CM(14)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/2428"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７１"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　　　＿＿＿＿ 　　　　／　　⌒　　＾＼　　やる夫と！ 　　 ／　　（ ●） 　（●） 　／　　::::::⌒（＿人__）⌒ヽ 　|　　　　　　　|r┬&#45;|　　　| 　＼ 　　 　 　　`ー'´　 ／ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_ノ　　ヽ、　　＼ 　　　　　　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-08-08T07:28:58+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2429.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７２">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2427.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７０">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment6753">[ 6753 ] <strong></strong></p>
+</div>
+<div class="comb">
+で、登場してるスレは何処なのだ？<div class="comment_navi">
+[ 2010/08/08 11:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6754">[ 6754 ] <strong></strong></p>
+</div>
+<div class="comb">
+↑『戦艦魔女鍋』と『やる夫婚活』で見かけましたが、どちらもメインヒロインでは有りませんでした。
+短編だとチョコチョコ見るんですが。<div class="comment_navi">
+[ 2010/08/08 11:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6756">[ 6756 ] <strong></strong></p>
+</div>
+<div class="comb">
+「やる夫達はとんでもない事に巻き込まれるようです」でも登場してるな
+やる夫の姉役で<div class="comment_navi">
+[ 2010/08/08 12:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6757">[ 6757 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+ルーンファクトリーでナレーション役やってたのと
+シティーハンターでかすみ役やってたのは覚えてる<div class="comment_navi">
+[ 2010/08/08 12:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=6757" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6759">[ 6759 ] <strong></strong></p>
+</div>
+<div class="comb">
+「やる夫は半額弁当を奪い合うようです」でも出てるな
+部の先輩役で<div class="comment_navi">
+[ 2010/08/08 12:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6761">[ 6761 ] <strong></strong></p>
+</div>
+<div class="comb">
+しかし坂井氏はじめパイロット達も自分らがこんなパンツアニメの名前のモチーフになってるとは思わないだろうなぁ
+子孫がゴンゾに神風アタックしてきても文句は言えないｗ
+まぁ「はわわ、敵がきちゃいました！」をやる国だからしゃーないのかｗ<div class="comment_navi">
+[ 2010/08/08 13:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6762">[ 6762 ] <strong></strong></p>
+</div>
+<div class="comb">
+アメコミ系作品ではワンダーウーマン役で出ている。<div class="comment_navi">
+[ 2010/08/08 13:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=6762" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6764">[ 6764 ] <strong></strong></p>
+</div>
+<div class="comb">
+フューラーでファーザーと狂宴してたな
+一生ついていくんだそうなｗ<div class="comment_navi">
+[ 2010/08/08 13:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=6764" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6784">[ 6784 ] <strong></strong></p>
+</div>
+<div class="comb">
+このスレで記事作る人は最低「やる夫 人物名」でググるくらいしようぜ
+大雑把な探し方だけど登場スレ見つかるし<div class="comment_navi">
+[ 2010/08/08 22:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しのお兄ちゃん</a>') } else {
+document.write("名無しのお兄ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しのお兄ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=6784" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6787">[ 6787 ] <strong></strong></p>
+</div>
+<div class="comb">
+※６７６１
+歴史上の偉人が単騎でとんでも無双してたり女性化してたり
+実在宗教の神様倒しちゃうゲームがあるお国柄だからなあｗ<div class="comment_navi">
+[ 2010/08/08 22:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment6855">[ 6855 ] <strong></strong></p>
+</div>
+<div class="comb">
+フューラーの人が女帝入場のネタで使ってた。
+ＡＡで全身が出ると違和感が生じる　着衣的な意味で。<div class="comment_navi">
+[ 2010/08/13 14:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment7539">[ 7539 ] <strong></strong></p>
+</div>
+<div class="comb">
+ちょくちょく見るよ、もっさん<div class="comment_navi">
+[ 2010/08/31 16:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=7539" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment27918">[ 27918 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞＞６７６１　噂話レベルだが唯一モデルで存命していたチャック・イェーガー氏に挨拶しにいったという話があるな。　後やる夫達は大空のサムライで坂井さんの母で出てた。<div class="comment_navi">
+[ 2011/12/13 03:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2428" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment33583">[ 33583 ] <strong></strong></p>
+</div>
+<div class="comb">
+もっさんより、トルーテの方がよく見かける。<div class="comment_navi">
+[ 2012/03/27 21:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=33583" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-2428.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="2428"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/2428-237f8ddf">http://oyoguyaruo.blog72.fc2.com/tb.php/2428-237f8ddf</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2429.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７２">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2427.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１７０">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

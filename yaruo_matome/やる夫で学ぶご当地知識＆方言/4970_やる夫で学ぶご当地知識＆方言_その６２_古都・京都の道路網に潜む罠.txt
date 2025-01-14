@@ -1,0 +1,745 @@
+<div class="article">
+
+
+
+
+
+━━━━━━━━━━━━━━
+　古都・京都の道路網に潜む罠
+━━━━━━━━━━━━━━
+
+　　　 　 　 　 |
+　　　　　　　 .ll
+　　　　　　　 .!l
+....._　,,..._　 　 ﾄ{　　　　　　　　　　　　　 .,,___　､..,__,,.
+..´::ヾ::ﾞﾞ;｀>''´￣｀ゝ､__　　　　　　　　　　｀:;､;;｀::ゞ:;ﾞ
+.:´;;::=::;;::ヾ芥芥芥l壬{　 　 　 　 　 　 ,;''´;'::;; =､::;;ﾞ　 _,,....._
+.'´;;ヽ:::;ﾞ=<ﾞ二二二＼_,｢「ﾞﾆﾆﾆﾆﾆﾆ7´::;''::ﾞ!::､:_'^:ヾ';"::ﾞ;;ヽ::
+..ゞ;;::''ﾞ::;;､::｀ﾞ;芥芥lｱ''´j | 　 　 　 　 ﾞ:;｀ヾ;;｀ﾞ:=::丶::;''::,;''ﾞ:::;:ﾞ
+.:｀':;;::''´::｀ﾞ''=;,テテﾃﾆ´＿＿＿＿＿__ﾞゞ､::ゞ:;;_｀丶::ﾞ':;;::='::;'
+.ﾞ´::i::｀;;'"::ﾞ:_::ﾞ;,┴┴弌竺竺竺竺竺竺竺;''::;::;;:::'':;;::ゞ:;;'ﾞ::_::'
+.:｀j':!::ﾞ;;._::::;;::"ﾞヾ‐;;.. -'┴┴┴┴┴┴┴ゞ;;::"!ﾞ!;;::ヾ､l !'´::ﾞ;
+.';;:: i⌒;;::`ﾞi:;ｰ:''´ﾞ;;===ｎ==ｎ===ｒn===ｎ=ﾞ;;::ヾ!:l::`:=::'ﾞ:i::''´;;
+　;l;;'ﾞ::''ﾞ;;..:ﾞi::;;.:ﾞ::;;' i i ｉ l丁丁!￣丁l￣丁｢ i:´:;''ﾞ:iヾ::ヾj;ilﾞ;;::;'::
+.:';;!:..;''::ヾ;;''";;)'´｢｢入｢j_辷j_辷ヒ|_辷ゴ_辷ゞ;;ゞ,:========､
+. ﾞj''i"i´´ |ｌ|´ﾆニl:l幵;;￣￣/ﾌ三三三「ｌ￣;ﾞj::ﾞ}＿＿＿＿__{
+..ﾞ::''"":⌒ﾞ''=::"ﾞﾞヾﾞ''"ｱ７"二二二二二二l:|i{:｢ﾞl`TTﾆﾆTT´
+.....厂厂厂厂厂厂「ｌ/ ｒ―――――――|jｌ{jｰ{';;|_L二」_|::　　　　　　　　　 　 　 　 　 ／￣￣＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 _ノ　　ヽ、　　＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（ ⌒）（ ⌒）　　　|
+　　　 　 　 　 .俺たちは今、できない夫の地元・京都に来ているだろ　　　 　 （__人__） 　　　　 | ..／}
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _　 　　　 　ヽ｀⌒ ´　　　　　| /　/ 　　　__
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (＾ヽ{　ヽ　　　　　 {　　　　　　　　./　/　 .　／ .ﾉ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(￣ ヽ ヽ　i　　　　　　ヽ　　　　　　/　厶-　´ ／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 (二 ヽ　i　i　|,r‐i　　　　ﾉ.　　　ヽ /　　　　 ／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ　　 ／　 ノ　　／　　 　r一'´　ー ､　　￣￣￣）
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 i 　 {　　 ｲ―イ　/　 　.`ー―.　､＿_　.〈￣￣
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ.　`ｰ '/　　　/　　　　　　　　　 　/＼ ＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 `ー ' ￣￣!　 　　　　　　　　　|　　ヽノ
+. 
+
+
+
+
+
+
+
+
+
+
+313 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:36:32 ID:3u3a15Xk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　＿,,,　------------------- ,_
+    　　　　　　　　　　　　　　　　　　　　　 ,　'"￣￣￣￣￣￣￣￣ヽ, ,"￣ヽ￣`ヾ､、
+    　　　　　　　　　　　　　　　 　 　 　 ／　　　　　　　　　　　　　　/ /　　　 'i,　　 　ヾ､==､､
+    　　　　　　　　　　　　　　　　　(ﾞ／　　　　　　　　　　　　　　　 / /　,＿　　'ｉ,　＿_,,） ﾞｰﾞﾞヽ
+    　　　　　　　　　　　　　_,　-‐,‐'=======────-- ,,,＿＿/ ん<＿_ﾉ-‐'､￣　　ヽ　 　 |,
+    　　　　　　　　_, -‐ ' ´　　　｀ﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞ´　 ,　　　　　　　　　｀ヽ　　　　　 ,_、|　　`" |　　 |}
+    　　　　　　,､'´,　´　　　　　　　　　　,　　' ´　　　　　　　　　　　　|　　　　　`'　| 　　　/,''､ｿ'i
+    　　　　　/　|',----　,,,,＿＿ 　　 , --───,　　　　　　　 　 　 |　　　　　　_,|　-=./:Kﾙ||ﾉ
+    　　　　, 'ﾞ｀‐''ﾆ二‐ {ﾌ----二}／　 　　　　　/　　　　／二ヽ, 　 |,_,　-‐　ﾞ´　|　　_/:;|={).llﾞ
+    　　　　i`ー　,,,,＿￣￣￣￣　`ー────'　　　　/ ,､"|ﾞ,ゞ,;|ﾞ´|　　　_, 　-‐' "_, ）:;:くll,ｿ
+    　　　　 {ー--,　「￣ﾞﾞﾞﾞﾞﾞｌ二二二=＝＝＝＝　　 　/;:;ｉ　) "/ ||　|_, ‐"_,　-‐'"　　` ー‐'"
+    　　　　 ヽ、;:;::;::_!＿_＿_|:;:;:;:;:;:;:;'i,　 ,‐､　　　　　　/;;:;|ﾆ､・） =ｌ|,_,- ''"
+    　　　　　　￣　｀ー　二二二ー─‐`ｰ'二}　　　　」;:;:;､ソ ハﾉ,i
+    　　　　　　　　　　　　　　　　　￣￣''''ー──'''''ﾞｌ;:;:;:;::ヽﾑノノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀ﾞﾞﾞー‐ '´
+    　　　　 ＿＿＿_
+    　　　／　　　　　＼
+    　 ／　　─　 　 ─＼　 　 東京から京都まで、車の運転させられる者の身になってみろお
+    ／ 　　‐=・=‐　‐=・= ＼　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _ _ _　ｺﾝ☆
+    |　 　　 　 （__人__）　 　 |　 　 　 　 前ﾊ島根ﾏﾃﾞ行ｶｻﾚﾀｼ　　　　　　　　　　　　　 　 　 (ヽl_l_ll_l,l
+    ＼　　　　　｀ ⌒´ 　 ,／　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ／　ノ　　＼ ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 |　 （＞）（●）　|
+    　　　　　　　　　　　　　　　　　　　　すまんな、俺が免許持ってないばかりに・・・　　 .| //（__人__）//|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 |　　 ｀ U ´　　ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 |　　　　　　 　 }
+    　　　　　　　　　やる ： それ、どう見ても謝る態度じゃねーお　　　　　　　　　　　　　　ヽ　　　　　 　 }
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ヽ　　　　　ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 l/　　　く
+    .
+
+
+
+314 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:37:18 ID:3u3a15Xk
+
+
+
+
+
+    　 　 　 　 　 西　 　 　 　 　 　 大　 　 　 　 　 　 堀　 　 　 　 　 　 烏　 　 　 　 　 　 河
+    　 　 　 　 　 大　 　 　 　 　 　 宮　 　 　 　 　 　 川　 　 　 　 　 　 丸　 　 　 　 　 　 原
+    　 　 　 　 　 路　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 町
+    　 　 　 　 　 通　 　 　 　 　 　 通　 　 　 　 　 　 通　 　 　 　 　 　 通　 　 　 　 　 　 通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    ─────┼──────┼──────┼──────┼──────┼──　三条通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    ─────┼──────┼──────┼──────┼──────┼──　四条通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    ─────┼──────┼──────┼──────┼──────┼──　五条通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    ─────┼──────┼──────┼──────┼──────┼──　七条通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    ─────┼──────┼──────┼──────┼──────┼──　八条通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    ─────┼──────┼──────┼──────┼──────┼──　九条通
+    　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │　 　 　 　 　 　 │
+    　 　 　 　 　 　 ──────┼──────┼──────┼──────┼──　十条通
+
+    　　　　　　　　　　　　 　 ∩＿
+    　　　　　　　　　　　　　　〈〈〈　ヽ
+    　　　　　　＿＿＿_　　　〈⊃　　}
+    　　　　 ／⌒　　⌒＼　　 |　　 |
+    　　　／（ ●） 　（●）＼　 !　　 !　 　 まあでも、京都の道路網は碁盤の目状態になってるから、
+    　 ／ :::::⌒（__人__）⌒:::::＼|　　 l　 　 　 　 　 　 　 　 　 　 　 道がとても分かりやすくて良いんだお！
+    　 |　　　　　|r┬-| 　 　 　 | 　／
+    　 ＼ 　 　　｀ ー'´ 　 　 ／／
+    　　/　＿＿　 　　　　　　/　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ／ ￣￣＼
+    　　(＿＿＿）　　　　　　/　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／　　　 　 ノ ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |:::::: 　 　　（● ）
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 |:::::::::::　　　（__人）
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ・・・そうか、とても分かりやすいか　　　|::::::::::::::　　　⌒ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|::::::::::::::　　　　}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ:::::::::::::: 　　 }
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ヽ::::::::::　　ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 /:::::::::::: く
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |:::::::::::::: 　|
+    .
+
+
+
+315 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:37:35 ID:3u3a15Xk
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＊
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ／￣|　　+　　 ／￣￣＼　　　　　+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ｜　::｜　　　／ 　 ⌒　　 ＼
+    　　　　　　　　　 　 　 　 じゃあ、西大路通を南に向かってくれ　　　 　 .｜　::｜x　 （ へ）（ へ）　　｜　　　　 .人
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ,―　　　　＼ 　.（__人__）　 　 　 |　　　　 .｀Ｙ´
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 | ＿＿_） 　::｜　. ｌ｀ ⌒´　　　　.｜
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 | ＿＿_） 　::｜＋{　 　 　 　 　 .｜　　　　　十
+    　　　　　　　　　　　　 (ヽ三/)　））　　　　　　　　　　　　 　 　 　 　 　 | ＿＿_） 　::｜ 　{　　　　　 　＿ |
+    　　　　　　　　　＿＿　 ( i)))　　　　　　　　　　　　　　　　　　　　　 　 ヽ＿＿）＿／　　 ヽ、ヽ　　　/ 　）|
+    　　　　 　　　／⌒　　⌒＼　＼　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ｀`ー―‐'|　..ヽ|
+    　　　　　　／（ ●） 　（●）＼ ）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ　ノ
+    　　　　.／:::::: ⌒（__人__）⌒::::＼　 　 　 分かったお！
+    　　　　| 　 　(⌒)|r┬-|　　　　　|
+    　　　 ,┌､-､!.~〈`ー´/　　　 ＿/
+    　　　 | |　|　|　 __ヽ、　　 　/
+    　　　 ﾚレ'､ﾉ‐´　　￣〉　　|
+    　　　　｀ｰ---‐一'￣
+    .
+
+
+
+316 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:37:50 ID:3u3a15Xk
+
+
+
+
+
+
+
+
+
+
+
+    　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 ～　運転開始から数十分後　～
+
+
+
+
+
+
+
+
+
+
+
+    .
+
+317 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:38:07 ID:3u3a15Xk
+
+
+
+
+
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三
+    三三三三三三三三三三三三三三三三三三三三三三三三三三三
+    　　　　　　　￣￣二ニ≡＝－-＝≡ニ/三三三三ﾆ／三三三三三三
+    　　　　　/　　　 　 　 　 　 　 　 　 　 ∨三三三三／＝≡ニ二三三＿
+    　 　 　 / /　　　　　　　　　　　　 　 　 ¨/:/￣￣
+    　　　 :/ /　　　　　　　　　　　　　　　　/:/
+    　　　/ /::.　　　　　　 ＿＿＿＿＿＿/:/＿＿＿＿＿＿
+    　　:/ /:　　　　　　 〃￣￣￣/:￣￣　　￣￣￣￣￣￣ 丶
+    　　: /　　　　 　 　 {{　　　　 //:　　　　　　　 　 　 　 　 /　}
+    　　/:　　　 　 　 　 ||　　　　 /:　　　 　 　 　 　 　 　 .://::　|　　 　 :／
+    　　　　　　　　　 　 ＼＿＿/＿＿＿＿＿＿＿＿＿//＿/ 　 　／
+    　　　　　 　 　 　 　 　 ￣￣￣￣￣￣￣￣￣￣￣￣￣　　 ／／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ／／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ＿＿＿_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ／⌒　　⌒＼
+    　　　　　　　　 　 　 　 　 　 ところでやる夫、今どの道路を走ってるだろ？　　 　 .／（ ●） 　（●）＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ｜:::::⌒（__人__）⌒::|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| 　 ｢匸匸匚|　'"|ィ'
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 , ヘｰ‐- ､ l 　｜ /＾''⌒|　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 -‐ノ .ヘー‐-ｨ ヽ 　!‐}_＿,..ﾉ　 ｜|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ''"/／ヽｰ､ 　ﾉヽ∧　`ｰ一'´　／　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 /／＾＼ 　ヾ-､ :| ﾊ 　￣　／　ﾉ　|
+    　　　　　　　　 ＿＿＿_　　　　　　　　　　　　　　　　　　　　 　 　 　 ,ノ 　 ヽ,_　ヽノヽ_)ﾉ:l　'ｰｰ＜.　　/ 　|.
+    　　　　　　　／⌒　　⌒＼　　　　　　　　　　　　　　　　　 　 　 　 　 /　 　 <＾_,.ｲ `r‐'ﾞ :::ヽ 　＼　｀丶､ 　|
+    　　　　　 ／（ ●） 　（●）＼　　　　　　　　　　　　　　　　　　　　　　＼＿＿_,／|　 !　　::::::l、　　＼　　＼|
+    　　　　／::::::⌒（__人__）⌒:::::＼
+    　　　　|　　　　　|r┬-|　　　　 |　 　 何言ってるのかお、やらない夫
+    　　　　＼ 　　 　 `ー'´ 　 　 ／
+    　　　　／　　　　　　　　　　　＼　 　 　 　 　 　 　 　　西大路通を南に・・・
+    　　　 （　 丶- 、_=≡≡=_ ,.-,' 　）
+    　　　　`ー､＿ﾉ　＼　／ (＿,-ｰ´
+    .
+
+
+
+
+
+318 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:38:35 ID:3u3a15Xk
+
+
+
+
+
+    　　　　　　 　 　 　 　 　 ┏━━━━━━━━━━━━━━━━━━━━━━┓
+    　　　　　　 　 　 　 　 　 ┃　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┃　　　　　　 　 　 　 .十条通　滋賀　　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┃　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┃　　　　　　　　　　　　　　 ↑　　　　 　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┃　　　　　　　　　　　　　　 │　　　　 　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┃　　　　　 　 .京阪国道　 │　　　　 　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┃　　 .西　　　　 　 　 　 　 │　　　　　　　　　　　　上...　...┃
+    　　　　　　 　 　 　 　 　 ┃　　 .九.　.←─────┼──────→..　.鳥...　...┃
+    　　　　　　 　 　 　 　 　 ┃　　 .条　　　　　　　　　　　　　　　　 　 　 　 　 　 羽...　...┃
+    　　　　　　 　 　 　 　 　 ┃　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 ┃
+    　　　　　　 　 　 　 　 　 ┗━━━━━━━━━━━━━━━━━━━━━━┛
+
+    　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　／　 　　　 　＼
+    　　　　　　　 ／　ヽ　　 ノ　 u 　＼　 　 北から南に向かって走っていたら、
+    　　 　 　 ／´|　fト､_{ﾙ{,ィ'ｅﾗ,　　　|　 　 　 　 いつの間にか西から東に向かって走っていた
+    　　　　 /' 　 ＼ .（__人__）⌒`　　／
+    　　　　,ﾞ　 ／ )ヽ(,｀⌒ ´ 　　 ／ ヾ、　　　　　　　　何を（ｒｙ
+    　　 　 |／_／　 / ￣￣￣　　 　　　ヽ
+    　　　 /／ 二二二7　　　　 　__ 　　　｀ヽ
+    　　　/'´r　-―一ｧ‐ﾞＴ´　'"´ 　　　　-‐ 　＼　　　　　　　　　　　　　　　　 　 　 ／￣￣＼
+    　　 / // 　 广¨´ 　/'　　 　　　　´￣｀ヽ ⌒ヽ　　　　　　　　　　　　　　　　 ：／　　 ⌒　　＼：
+    　　ﾉ ' /　 ノ　`ー-　､___　　　　　 　 　 　 ヽ　　}　　　　　　 　 　 　 　 　 　 ：|　　ﾐｨ赱､i .i_r赱：
+    _／｀丶　/　　　　　　　　￣`ー-- {.　　　 　　　ｲ　　　　　　　　　　　　　　　 ：|　::::::⌒ （__人__）：
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ：|　　 　　ﾄｴｴｴｲ：
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ：ヽ　　 　　｀""´}：
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ：ヽ　　　　　ノ：
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ：/　　　 く
+    .
+
+
+
+
+
+319 ：<strong><span style="color:#009900">京都 ◆Vm3SxxXBSU</span></strong>：2012/09/16(日) 22:39:11 ID:3u3a15Xk
+
+
+
+
+
+    　　　　　　　　　　　　 　 　 　 　 　 ━━━━━━━━━━━━
+    　　　　　　　　　　　　 　 　 　 　 　 　 古都・京都に潜む罠・・・
+    　　　　　　　　　　　　 　 　 　 　 　 ━━━━━━━━━━━━
+
+    　 　 　 　 やる ： 何だお？　一体、どういうことかお！？
+    　　　　　　　　　　　　 　 　 　 ::　　　. .. .　.. . .. .. 　　.　 ...　...　　　　　　..　..::　　　. .. .　..
+    　　　　　　　　　　　　　　　　　 　 　 　 ::　　　. ..　...　　　　　::　　◯　　　　:　　　. .. .
+    　　　 　 .::　:　:..　.　...　:::　:::..　　　§. .. .　.. .. .. .. 　　 　...　...　...　　　....　..::　　　.
+    　　　　　　　 　 　 　 　 　 　 　 　 §　　. ...　...　　　　　　. .. .
+    　　　 　 　 　 　 ::::　::　　　　　-‐'" ﾞ''‐-　　. ...　...　　　　　. ...　...　　　　..::　　　.
+    　　　　 　 .::　　　. .. .　.. 　　　｀`侖侖''"　　　　　　　　　　　　　　　. .. .
+    　　　 　 　 　 　 　 　 　 　 　 -‐'"韭 ﾞ''‐-　. ...　...　　　　..::　　　.
+    　　......ﾞ''､,,_,,,,-‐'゛｀`''､,　　　 ｀`侖侖侖''"
+    　　......;'' ;~'',;'''',;'';'' ;~'',;''ﾟ ;~'',;;-‐'"韭韭 ﾞ''‐-
+    　　......,;'',;''ﾟ ;~,;":;;;:　: ;: ;: ;::::::｀｀ﾞ''ｰ-侖侖''"::;.-‐'゛~ﾞ｀ﾞ''-、.,,,::　　　　. ...　...
+    　　......::;.:".:;.:'"ﾞ:.:ﾞ,:;、,"'.:.:;,`:;,':,:;.,:;.:::;.:"ﾞ''､,;.:'"ﾞ:.:ﾞ,:;、,"'.:.:`;'' ;｀`'‐.､;;;;;;;.,.,.,.,..,.,.,.,.
+    　　......:;,':,:;.,:;'' ;~'',;''ﾟ ;~'',;;~'',;';~.:.:;,`:;,':,:;.ﾞ:.:ﾞ,:;、,"'.:.:;,`:;,':,:;.ﾞ:.:ﾞ :: :;":;; ~ﾞ"'ｰ-;;;;;;;;;;;;;;;;;;;;;;;;...
+    　　......":;;;:　: ;: ;: ;:　　; ::;　: ;:; :; :　 :: :; '' ;~'',;''ﾟ ;~'',;'',;'　ｖ'ﾟ ;~,;''ﾟ ;~ﾟ''ﾟ ;~'',;'',;'~,;ﾞ''､,,_ｭiｭ... .. .. 　　. ...
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    　　　　　　　　　　 　 　 　 西
+    　　　　　　　　　　 　 　 　 大.　││
+    　　　　　　　　　　 　 　 　 路.　│↓
+    　　　　　　　　　　 　 　 　 通.　│　 　 ─→
+    　　　　 　 　 　 　 　 　 　 　 　 人＿＿＿＿＿＿＿＿＿＿＿＿　十条通
+
+    　 やら ： （実はこういう道になってるんだけど やる夫には黙っておくだろ、常識的に考えて）
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    　　　　　　　　　 　 　 　 　 　 ━━━━━━━━━━━━━━━━
+    　　　　　　　　　 　 　 　 　 　 　 次に嵌るのはあなたかもしれない
+    　　　　　　　　　 　 　 　 　 　 ━━━━━━━━━━━━━━━━
+    　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　　　　　　　　　　　　　　　　 　 -|-ヽ -|―、ﾚ　|
+    　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　　　　　　　　　　　　　　　　　　ｄ⌒) /| _ﾉ 　_ノ
+
+
+
+
+
+
+
+
+    京都市内の道路網は規則正しい碁盤の目状態になっているとよく言われますが、
+    上記のように妙な繋がり方をしていたり、大通から外れると一通地獄だったりと
+    実際には結構初見殺しだったりします（特に一通）
+    後、寺社仏閣などが多い観光地でもあるので、車で来られる方は渋滞にもご注意を
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4970/clap" id="fc2button-clap-4970" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4970").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/4.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4970/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶご当地知識＆方言　その６２　古都・京都の道路網に潜む罠" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4970.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4987.html">
+					やる夫で学ぶご当地知識＆方言　その６３　古都・京都の住所に潜む罠 (2012/09/23)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶご当地知識＆方言　その６２　古都・京都の道路網に潜む罠 (2012/09/17)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4903.html">
+					やる夫で学ぶご当地知識＆方言　その６１　九州の母とラーメンの常識 (2012/08/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4891.html">
+					やる夫で学ぶご当地知識＆方言　その６０　だんじり祭りとふとん太鼓 (2012/08/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4877.html">
+					やる夫で学ぶご当地知識＆方言　その５９　山形県出身者が他県の芋煮会に参加するようです (2012/08/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4862.html">
+					やる夫で学ぶご当地知識＆方言　その５８　会津の父と長州の母 (2012/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4823.html">
+					やる夫で学ぶご当地知識＆方言　その５７　やる夫が喫茶マウンテンに行くようです (2012/08/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4819.html">
+					やる夫で学ぶご当地知識＆方言　その５６　大阪とタイガースの関係 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4818.html">
+					やる夫で学ぶご当地知識＆方言　その５５　島根は横に広いと言う話 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4817.html">
+					やる夫で学ぶご当地知識＆方言　その５４　佐賀の居酒屋メニュー (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4816.html">
+					やる夫で学ぶご当地知識＆方言　その５３　佐賀の方言 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4815.html">
+					やる夫で学ぶご当地知識＆方言　その５２　福井県　源平落人伝承 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4814.html">
+					やる夫で学ぶご当地知識＆方言　その５１　サガケンインパクト！ビックリ大作戦～！ (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4813.html">
+					やる夫で学ぶご当地知識＆方言　その５０　結構簡単！広島弁講座　「ほーね」編 (2012/07/31)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4812.html">
+					やる夫で学ぶご当地知識＆方言　その４９　ＪＲ四国ワンマン列車の乗り方　無人駅からの乗車編 (2012/07/31)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶご当地知識＆方言　その６２　古都・京都の道路網に潜む罠" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/09/17 05:43 ]
+<a href="/blog-category-372.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶご当地知識＆方言</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html#comment_list" title="この記事のコメントを参照">CM(12)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4970"
+    dc:title="やる夫で学ぶご当地知識＆方言　その６２　古都・京都の道路網に潜む罠"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html"
+    dc:subject="学ぶ系　やる夫で学ぶご当地知識＆方言"
+    dc:description="━━━━━━━━━━━━━━　古都・京都の道路網に潜む罠━━━━━━━━━━━━━━　　　 　 　 　 |　　　　　　　 .ll　　　　　　　 .!l....._　,,..._　 　 ﾄ{　　　　　　　　　　　　　 .,,___　､..,__,,...´::ヾ::ﾞﾞ;｀>''´￣｀ゝ､__　　　　　　　　　　｀:;､;;｀::ゞ:;ﾞ.:´;;::=::;;::ヾ芥芥芥l壬{　 　 　 　 　 　 ,;''´;'::;; =､::;;ﾞ　 _,,....._.'´;;ヽ:::;ﾞ=..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-09-17T05:43:51+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4969.html" title="できない子がフレーバー豆乳に挑むようです　第６回">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4967.html" title="やる夫「ACTA通っちゃったお」">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment43345">[ 43345 ] <strong></strong></p>
+</div>
+<div class="comb">
+バス専用レーン、学生の原付、路上駐車が多いので、車はキープライトを心がけると良い。<div class="comment_navi">
+[ 2012/09/17 20:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43357">[ 43357 ] <strong></strong></p>
+</div>
+<div class="comb">
+堀川を下がっていたらいつの間にか新油小路だったりな
+なお油小路の塩小路以南八条以北は歩道で
+八条で堀川と合流して新油小路になる
+よって堀川通りと油小路通りは八条までしかないから注意な<div class="comment_navi">
+[ 2012/09/17 21:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43377">[ 43377 ] <strong></strong></p>
+</div>
+<div class="comb">
+道以外では、バスの運転が攻撃的なので注意、かな。<div class="comment_navi">
+[ 2012/09/18 11:40 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43382">[ 43382 ] <strong></strong></p>
+</div>
+<div class="comb">
+千本通を下ってくと三条から斜めに後院通になって大宮通に接続してるのもあるな。
+そっからも細々と千本通もあるけど梅小路車庫に分断されたり新千本になったりと大混乱。
+ 
+逆に一通は車ならまず大丈夫。あんな細い道に入ろうとは思わん。<div class="comment_navi">
+[ 2012/09/18 15:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43383">[ 43383 ] <strong></strong></p>
+</div>
+<div class="comb">
+バス以外でも、バイクとタクシーが天敵同士なので
+バトルに巻き込まれないよう注意かな？<div class="comment_navi">
+[ 2012/09/18 16:09 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43385">[ 43385 ] <strong></strong></p>
+</div>
+<div class="comb">
+観光客が周りに気を取られながら歩くから、
+バスもタクシーも冷や冷やさせられながら運転してるんだよ。
+クラクションも鳴らしまくるし、いつでも急停車できる体勢で運転してる。
+まあ、攻撃的だというのは同意する。
+ 
+<div class="comment_navi">
+[ 2012/09/18 17:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43388">[ 43388 ] <strong></strong></p>
+</div>
+<div class="comb">
+十字路ばっかだから夜に歩くと方向感覚がなくなってくるのにも気をつけろ！<div class="comment_navi">
+[ 2012/09/18 18:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43389">[ 43389 ] <strong></strong></p>
+</div>
+<div class="comb">
+太秦・嵐山は異界。<div class="comment_navi">
+[ 2012/09/18 22:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43395">[ 43395 ] <strong></strong></p>
+</div>
+<div class="comb">
+映画村の界隈か
+どうなってるの？
+<div class="comment_navi">
+[ 2012/09/18 23:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43413">[ 43413 ] <strong></strong></p>
+</div>
+<div class="comb">
+そもそも、西大路南下っていったら、
+九条でＲ１７１に変えて久世橋方面…って解らんわな。<div class="comment_navi">
+[ 2012/09/19 13:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43441">[ 43441 ] <strong></strong></p>
+</div>
+<div class="comb">
+方向音痴の友人が「京都は碁盤の目だから大丈夫（ｷﾘｯ」って言って出かけて、出先で「店から出たらどっちから来たのかわからなくなった！タスケテ！」と電話かけてきたことがあったな・・・<div class="comment_navi">
+[ 2012/09/20 20:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment43758">[ 43758 ] <strong></strong></p>
+</div>
+<div class="comb">
+運転の荒さは日本一だと思うのねん、特にタクシー。
+ 
+そもそも車が通ることを考えて街がつくられてないから、致命的に今の交通社会とソリが合わないよね京都って。。。
+その割に駐輪場はあまし設けないし目指してることがよくわからん街って印象。<div class="comment_navi">
+[ 2012/09/25 15:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">僕自身コメントする喜びはあった</a>') } else {
+document.write("僕自身コメントする喜びはあった"); }
+</script>
+<noscript>
+<a href="" target="_blank">僕自身コメントする喜びはあった</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4970" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4970.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4970"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4970-9d84011a">http://oyoguyaruo.blog72.fc2.com/tb.php/4970-9d84011a</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4969.html" title="できない子がフレーバー豆乳に挑むようです　第６回">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4967.html" title="やる夫「ACTA通っちゃったお」">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

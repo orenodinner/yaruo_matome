@@ -1,0 +1,811 @@
+<div class="article">
+
+
+
+
+原作・塩野七生 著 ローマ人の物語1
+「ローマは１日にして成らず」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+
+紀元前508年ごろ、イタリア
+
+　　　　　　　　　　　　　　　　　　　　　,-、
+　　　　　　　　　　　　　　　　　　,-～´
+　　　　　　　　　　　　　　　　　　＼
+　　　　　　　＿　　　　　　　　　　|~
+　　　　　 /´　 ｀ヽ,　　　　　　　　|,
+　 ,-～´~　　　　　~´)　　　　　　　｀＼,
+／　　　　　　　　　　 )　　　　　　　　　｀~|
+　　　　　　　　　　　　｀)　　　　　　　　　 ｀|
+　　　　　　 　　　　　　~＼　。ﾀﾙｸｨｰﾆｱ　|,
+　　　　　　　　　　　　　　く,,_　　。ｳｴｲ　　 ＼
+　　　　　　　　　　　　　　　　｀＼ 　◎ﾛｰﾏ　　 ｀"-,_,,-ｰっ
+　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　／
+　　　　　　　　　　　　　　　　　　　 ｀ヽ,-,_　　　　　 　 ｀ヽ,,
+　　　　　　　　　　　　　　　　　　　　　　　ヽ,_,　　　　　　　 ￣｀ヽ,,_
+　　　　　　　　　　　　　　　　　　　　　　　　　｀っ　　　　　　 ,,-,,＿ ~ヽ,
+　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀ヽ,　_ 　　/　　　 `ヽ　)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ~　|,　 （_,　　　　 し´
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ）　　 ｀ヽ,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀),,　 ＿|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,-´　(
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 _)　 ノ´
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (_＿ﾉ
+
+やる夫達はローマ共和国を作るようです
+第１５話　「傲慢王の逆襲」 
+
+
+
+
+
+
+
+
+401 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:09:09 ID:Oq7sv9BY
+
+
+
+
+    ローマ共和国は、開始直後から、
+    てんやわんやの大混乱状態だった。
+
+
+
+    　　　　l
+    　　ト､.|　　l　　　　 　 /:''　　　　　　　　　　　　フ
+    　　|　ﾙ　　l 　　|: 　 /:　　　　　　ノ 　　　 　／
+    　　l　 |　　 i:　 .:!　　{:: 　 　 　 ／'　　 　　＜
+    　　!　∧ 　 |::　 {、　|::　i　　／　ー≦ニ　｀ ヽ
+    　 _V　　∨　ﾄ::　 ヽ |::　{ ／　ﾂ ／⌒ヽ 　 　ヽ
+    　ヽ≧ 三＞ー‐一ミ＼从_／イー=ﾄ-.　　-== ∨
+    .　　∨　__}}　 　 　 　　 `'"　　　　　}_;〈三=-＼_ﾆ
+    　　　∨ ｼ_　　　　　　　　　　　　 __ ゞ-＝= ノ
+    　　 　 ∨__≧x_　 　　　　　　_／＿_≧ _テ´
+    　　　 /ﾆ'l　ヽt:i:j＞、 　 　 ｲt:i:} ノ´{-=
+    　　　 { ｿ !　　￣　　　 　　　 ￣　　 斥/
+    　　 　 ﾟｰﾄ,　　　　　 　 |:　　　 　 　/-'ﾟ
+    　 　 〔__」　,　　　　　　 i::.　　 　 　/〔___〕　　　俺がローマ王だ！！
+    　　　　　　 ＼　　　 ＿ ＿　 　.／
+    　　　　＿___ｲ ＼ 　 　 　 　 ／ ﾄ､＿__
+    ＼　 /(　,.,.,.,|　　 ＼　 　 ／ 　 |.,.,.,.,.,∧　／
+    　　V　ﾍ :;:;:;:l 　 　 　 ￣ 　 　 .l:;:;:;:;:/　∨
+    　 　 V　ﾍ :;:;l.,.,.,.,.,.,. _＿__ .,.,.,..,l:;:;:;:/　./
+    　 　　V　ﾍ:;:;:;:;:;:;:／ _⌒_ ＼:;:;:;:_イ　./
+    　　 　 V　ﾍ￣￣i　　|　| 　 i￣ / 　./
+    　　　　 ｝ 　ﾍ　　|　　|　| 　 |　./ 　 ｛
+
+    　　　　　　＊先王・タルクイニウス
+
+
+
+    最大の原因は、先王が元気一杯だったことである。
+
+
+
+
+
+402 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:09:31 ID:Oq7sv9BY
+
+
+
+
+    この時点ではまだ、ローマ共和国は成立すら疑わしい。
+    王がローマに帰還できれば、ローマ王国の復活は明らかである。
+
+
+
+    　　　　　 　　　_
+    　　　 　 /|／∠ -─≦＿
+    　　 l､ /　/　_　- ´　　　 　￣二＝
+    　　 !Y　/／　_　- ─　　 ､　　￣=z_
+    . 　 | i　/　≠ー─-ｩ　　　　　　　　＼
+    . 　 | ｨ／　　 　 　 ≧､‐- ､　　　　　　＼
+    　　f 　　_,.r-─-､　　ﾐ-､_＼__　　 　　 ＞
+    　 ├　　 ≠Tﾍk 　　 　　ﾍ､ ＼　ー― 彡
+    　　fｧ 　 └┴ ' 　 　　　　y,ﾆヽ ､＿＜_
+    　 ／　　　　　　　　　　　　 i.:;;} !　　 ＜´
+    　ヽ　　　　　　　 　 　 　 　,ヒノ　＿､ノ
+    　　t＝＝-－'　　　　 r--' ､{　　　／,-､
+    　　 ｀!　 　 　 　 　 　 l　　　 ｀l ／　/　ﾍヽ
+    .　 　 l　　　　 　　 ／ 7ー-､__f＿_/　＿ ﾍ ヽ
+    　　　 ｀ー┬─ ´　　/　　　 _⊥-‐ ´二ヾﾐー,-─>
+    ￣￣｀ ー _j　 　 　 ,' _　-　　_ - ´, '　　　　T,ﾆﾆ7
+    －－-／::　!　 　 ／ 　　　／　 ／
+    }:: -／::::::::,r-! .／　　　 ／　　 /
+    ' ／:::::, -‐ ､ｸ 　 　 　 /　　 ∠
+    /＼／4ﾆｙ'　　　　　 / 　／
+
+
+
+    で、言うまでも無いことだが、王はやる気満々だった。
+
+
+
+
+
+403 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:09:54 ID:Oq7sv9BY
+
+
+
+
+    しかも彼は、エトルリア人であり、エトルリア都市と同盟を結んだ王だった。
+    そして彼は、エトルリアの都市にいた。
+
+
+
+    　　　　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+    　 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧ 　 　 ∧∧ ∧
+    　　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨　　　(ﾟーﾟ*)∨
+    　　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃　　　(|　 　 ┃
+
+
+
+    彼は各都市で歓迎された。
+    ローマに近い、ウエイ、タルクィーニアで、十分な兵力を確保した。
+
+
+
+
+
+404 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:10:15 ID:Oq7sv9BY
+
+
+
+
+    ローマの若者達の反乱が失敗すると、彼は物理的にローマを奪い返すことにする。
+
+
+
+    　　　　　　　　　　　　　　　　　＼ 丶
+    　　　　　ヾー ―＼　 　　　 　 　 ＼ ＼ 　ｉ}
+    　　、──一　　　　 　 　 　 　 ＼　 　 ∨ |
+    　　 ＼　　　　＿　　　　　　　　　　ヽ　　 　|
+    　　　　＼　 　 　 　 　 　 ＼ 　　 　.i|　′　Ⅳ
+    　　＼￣　　　　　　＿｀ヽ､　＼ 　　ｉ|　　/　/
+    　　　_ミ 　　 ＼＿___　二ﾆへミ＼　i| ,ｨ1ﾙ{i　　　　　 　 　 　 　 ＿＿＿
+    　　　丶 　　 　　　　Ξ〈　　　　￣`'"　　　|l　 ＿＿＿＿,x＜_´　　 　 　 ｀ヽ　　　　　 　 　 　 厂￣
+    ＿＿＿_＼ 　￣二二≦　　　丶、 　,′　 ﾚ ´￣￣ 二二｀ミ 　＼　　　　　　＼　　　　　　　 /ζ
+    　　 　 　 　 ｀ヽ 厂￣ 二≧ｪ､ 　 〉　i ∠ﾆ ! ＼＞ ´::::::::::::::::∧　　＼　　 　 　 　 　 　 　 　 /γ
+    　　　　　　＿＿＼　〃 　 ① `ｰ'' 　 ｲl),′!　　＼::::::::::::::::::::::∧　　　＼　　　　 　＼　　　 /ζ　　出撃だ！！
+    ￣￣￣￣ 　 　 　 ＼ 　ｰ―　´　 　、｀¨ 　ｌ､　　　＼::::::::::::::::::∧　　　　＼　　　　　　、　/γ　　　反乱軍を殲滅するぞ！！
+    　　　　　　 　 　 　 　 ＼　　　　 　　 ヽ　　′＼　　　＼::::::::::::::::ｌ　　　　　 !　　　　　　ｉ　|lζ
+    　　　　　　　　　　　　 　 ＼　 　 　 　 ′/ヽ　　 i　　　　ヽ::::::::::::;／　´￣厂￣￣√￣￣|lγ
+    　　　　　　　　　　 　 　 　 ∧ﾆﾆﾆ＝7 ./　∧　　|　　　 　}:::::::／　 　 　/　 　.／ 　 　 　 |lζ
+    　　　　　　　　　　　　　　　 ∧￣ ｀V ./＼　∧　 |　　　　 !／　 　 　　/ 　 ／　　　　　　 |lγ
+    　　　　 　 　 　 　 　 　 　 　 ∧二´.ノ:::::::::＼∧　|　 ,へ../　　　　 　 /　／　 　 　 　 　 　{iζ
+    　　　　　　　　　　　　　　　　　 }::::::::::::::／`ー, ´⌒X:::::::/ 厂￣￣￣￣　　 　 　 　 　 ＿≦＼γ
+    　　＝＝＝＝＝＝＝＝＝― ´＞==./ 　 　 i　　{!::::::::/＝＝＝＝＝＝＝＝＝＝＝一＜::::｛ ＼ζ
+
+
+
+
+
+405 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:10:35 ID:Oq7sv9BY
+
+
+
+
+    迫る先王を迎え撃つのは、ブルータスと・・・
+
+
+
+    　　　　　　　　　＿＿＿
+    　　　　　　　／　　　　　＼
+    　　　　　 ／　　 ＼ ,　, ／＼
+    　　　　／　 　 （●）　 （●） ＼　　　　　　　nn
+    　　 　 |　　 　 　 （__人__）　　　|　　　 　　　 i i.i
+    　 　 　 ＼　 　 　 |r┬-|　　,／､-─,‐─‐/ ヽ-､
+    .　　　 　 /⌒, 　 　`ー'´　　　　　＿__; ＿､r ｲﾌ'
+    　　　 　/　 ,)、＿, -､_ 　　　,/￣　　　　　　￣
+    　　　　(_＿＿＿_´ｒ' 　〉　　 l
+    .　　　 　 |　　　　｀￣~ 　　　|
+
+    ＊執政官ルキウス・ユニウス・ブルータス
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）
+    .　|　　　　 （__人__）　　おれがボコボコにするとおかしいだろ
+    　 |　　　　　｀ ⌒´ﾉ　　常識的に考えて・・・
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　 　 　 ＼
+    　　　/ 　 　 く≡つ＝つ 　 　 　 ＼
+    　　　|　　　　 ＼ ﾊﾞﾊﾞﾊﾞﾊﾞ　　　　　＼
+    　　　|　　　　|ヽ、＝つ≡つ 　　　　　 ＼
+    　　　　　　　　　　　ﾊﾞﾊﾞﾊﾞﾊﾞ
+
+    ＊執政官ヴァレリウス（AA/やらない夫）
+
+
+
+    コラティヌスの代わりに、執政官に当選したヴァレリウス。
+    彼は、王家とは関わり無い人物だった。
+
+
+
+
+
+406 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:10:57 ID:Oq7sv9BY
+
+
+
+
+    騎兵隊を率いていたブルータスは、
+    同じくエトルリア騎兵隊を率いていた王の長男、アルンテスと激突。
+
+
+
+    　　　　　　　　　　　　　　＼／　i7i7　　　　　　　　　　　 　 　 /l
+    　　　　　　　　　　　　　　／＼／　 　　　　　　＼　　　 　 　 //
+    　　　　　　　　　　　　　　　 ／＼ 　 ヤ　 イ 　 　 　 / 　　 //
+    　　　　　　　　　　　　　　　　　.　:　　:　　.　　　＿／　　　 O
+    　　　　∧ __o__∧　　　　　　　　|　 /　,　　　　　 く￣＼ー――――＿＿＿
+    　　　　ヽ/ __二lﾉ　　 　　 ＼__ノし/／ ､　　　　　 [≡≡,lゝ――――――＿＿＿＿
+    　　　　 ﾉ,,,|；ﾟД)　　　＿＿)/⌒ヽ(＿ ',　 　 　 /^(дﾟ#[_lつ[二二二＞―――＿＿＿＿＿___
+    ――┼とii＿ii_ヾ⌒ヽ　　￣)ヽ__ノ（￣￣￣　　| {とii[二]〈――――￣￣￣￣￣￣￣
+    　＼ヾ＼ ヽ,,,,,ヽヽ)il |　　 ／⌒|「⌒＼　　　　　ヽ_/ヽllllつl―――――￣￣￣￣￣
+    　　　　　 /.........ゝ__ノ　　　　　　　　　　　　　　　　　　　 ヽ,)――￣￣￣￣
+    　　＼从〈_/ 　ヽ)
+
+
+
+    従兄弟どうし、１対１の決闘が始まった。
+    二人の実力は互角。激闘となった。
+
+
+
+
+
+407 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:11:25 ID:Oq7sv9BY
+
+
+
+
+    この戦いは、相討ちに終わった。
+
+
+<span style="color:#FF0000">    　　　　　　　　　　　　:,:　　　　　　　　　　 :(::)
+    　　　　　　　　　　　　/⌒''⌒) :,,゜　　　　　 '　　　　　　　　 ,,,,,,,
+    　　　　　　　　　　　(:::::::::::::::!'　　　　　　　　　　　　　　　　 (::::::)
+    　　　　　　　　　　　ヽ::::::::';'''　　　　　　　　　　　　　　　　　''``　　 。
+    　　　　　　　　　　 τ'::/ .;:
+    　　　　　　　　　　　 )/
+    　　　　　　　　　。　　　　　　　　　　　　'　　、　　　　　　　;:　。
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`'''`~''・　　　　' `
+    　　　　　f''`⌒(　　　　　,,,,　　　　　　　　　　　　　　　!:(',,,,、　　　　　　　　　　　　　　::,,,,,、...
+    　　　　　,!,,,、(　　　　　/::τ　　　　　　　　　　　　　ノ:::::::::::::::::)　　　　　　　　 　。 　!::::::::::`!　、
+    　:.、　　　　　　　　　　!:::(　　　　　ﾉ::`!　 　o　　　(::::::::::::::::::τ　　　　　　　　　　　　(:::,,;,;,、; 。
+    　　　　　　 ゜　　　　　(/　　　　　　⌒・　.　　 ・、;::::::::::::;;.;`` ''
+    　　　　　,,、..　　　／/　　　ノ'　　　　　　　　 　/／'''`'`'` `　　　　　　 ..,,.. _,,,.、 ・　　　　　　　　　,, ...:・..
+    　　π /;::::::::(,.,.(;;;::::(　　 ,,.,　　・っ　　　　　　　　　　　　　　　　　　　　;,;;( ):::::;.　　　　c::── '`'''::::::::::;''
+    　　　):::::::::::::::::::::::::::/　　'''''`　　　`　　　　　　　　'`　　　　　　　　　　　　　　　　　　　　　⌒　` !.:::τ''　``
+    　τ　!::::::::::::::::::::::::::::)／,,,,,　γ　　　　　　　　　　　　　　 :'`'``:!
+    　　　(::::::::::::::::::::::::::::冫 `'`'　　　　、,:'::::::`:::,,,,　　　　　　　 !:::::ノ　　　　　　　　　・
+    　::：':'::::::::::::::::::::::::::::;(,,,,,,,、:::::::-ｰ''''`'`''''''''"
+</span>
+
+
+
+    互いに大槍を胸に突き刺し、絶命。
+
+
+
+
+
+408 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:11:44 ID:Oq7sv9BY
+
+
+
+
+    これを合図としてか、戦いは更に激しくなった。
+
+
+
+    　　　　　　　　 ∧∧　　　　　　　　　　　　　　 　 　 　 　 　 　 | ヽ
+    　　　　　　　　(；ﾟ -ﾟ)　　　　　　　　　　　　　　　　　　　;:　　　 |　 |
+    　　　　　　━( つ━Ｏ━━(((＜＞　　　　　　　　　　　;:,.　 　 |＿|　━━(((＜＞
+    　　　　　 ～（,,　つ　　　　　　　　　　　　　　　　 ∧∧;::　　　　 ||
+    　　　　　　　 (,/´　　　　　　　　　　　　　　　　　(ﾟp;ﾟ;;:)彡　∧∧つ
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ━(;:つ((;:;:., (ﾟへﾟﾒ)ヽ
+    　　　　　　　　　 ∧∧　　　　　　　　　　　　　～（;:;　 ミ;:　 ヽ,) ､_ ,,）～
+    　　　　　　　　　(；>_<)　　　　　　　　　　　　　　　ヽ;:)　;:;:;;:;:　＼ ヽ,)
+    　　　　　　　━( つ━Ｏ━━(((＜＞　　　　　　　　　　　 "'';:;;:,..＼l　　　　　　　　　　　 ∧∧とヽ
+    　　　　　　 ～（,,　つ　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ／´/　　　　　(ﾟ∀ﾟ*) ノ
+    　　　　　　　　 (,/´　　　　　 ∧∧　　　　　　　　　　　　　　　　　　　 　 /　 /　　　　　 (　つ＝[ニニフ
+    　　　　　　　　　　　　　　　　(#ﾟ皿ﾟ)　　　　　　　　　　　　　　　　　　　 /＿/　　　　　　/　 ,,/～
+    　　　　　　　　　　　　　　━( つ━Ｏ━━(((＜＞　　　　　　　　　　　　//　　　　　 　 (,/´Ｊ
+    　　　　　　　　　　　　　 ～（,,　つ　　　　　　　　　　　　　　　　　∧∧ Ｏ∧∧
+    　　　　　　 ∧∧　　　　　 (,/´　　　　　　　　　　　　　　　　　　(ili>0<)　(iliTＯ･;:｡;:ﾟ;:
+    　　　　　　(；ﾟへﾟ)　　　　　　　　　　　　　　　　　　　　　　　　 ( つ━Ｏ━l:;:と:)(((＜＞
+    　　　　━( つ━Ｏ━━(((＜＞　　　　　　　　　　　　　　 ～（,,　　/ 　 /;::;:: ,,）～
+    　　　 ～（,,　つ　　　　　　　　　　　　　　　　　　　　　　　　　(,/'(,/　　 (;/'(;/
+    　　　　　 (,/´
+
+
+
+    ローマ軍はヴァレリウス。エトルリア軍はタルクィニウスが指揮。
+    戦闘は完全に互角。勢力は伯仲していた。
+
+
+
+
+
+409 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:12:06 ID:Oq7sv9BY
+
+
+
+
+    日が落ちても、戦闘は終わらなかったが、
+    奇妙な噂が広がった。
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　　・・・何か、エトルリア軍のほうが死体が一つ多いんだって。
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　　じゃあこの戦いはローマ軍の勝ちなのか・・？
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+    この噂で、エトルリア軍の士気は低下。
+
+
+
+
+
+410 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:12:28 ID:Oq7sv9BY
+
+
+
+
+    凄まじい損害に苛立っていたタルクィニウスは、撤退を決意。
+
+
+
+    　　　　　　　　　　　　　　　 ﾏ＝-｀　　　｀ヽ　　　　∧|ﾍ
+    　　　　　　　　　　　　　　　　V　　　　｀ヽ　ﾍ　　　∧ ﾞ.} } ／
+    　　　　　　　 　 　 　 　 　 　 乂ゝ､　　 　 ＼ﾍ|ヽ,､ .} / ﾚ
+    　　　　　　　　　　　　　　　　 ﾏ　　ゝr^ヽ＞´ ヽ　 ヽ/ /
+    　　　　　　　　　　　　　　　　　 V　 {　r　　　　 ヽ 　 y
+    　　　　　　　　　　　　　　　 / :ヽY´ ゝ.　　　　＼_｀ノ
+    　　　　　　　　　　　　　＿ / :::::::/ L _ 」　　　　　 f´
+    　　　　　　　　　r ≦¨　　 ≧｀`'' ､｀丶＼. 　｀ヽ-‐｀,,,,_　　　　・・・これ以上は得るものが無い、か。
+    　　　 　 　 　 _ 」_,,.．-一=-､.,　 　 ｀ヽ｀ヽ＜;;;/､;;;r ´ ﾍ,,,_　　
+    　　　　　　　/　　　　　　　　　　 　 　 ﾍ ､　ﾍ;;Vﾍ{　　　　 ヽ
+    　　　　　　/　　　　　　　　　　　　　 　 ﾊ　｀ヽVVﾍ　　　　　 }
+    .　　　　　 {　　　　　　　　　　　　　　 　 ﾊ　　 ＼Vﾍ 　 　 　 l
+    .　　　　　.{　　　　　　　　　　　　　　　　　}＝=- ､ヽ/V　　　 l
+    　　　　 　 V　　　　　　　　　　　　　　　　}　　　_,,.;;;;;=ﾍ　　 ﾉ
+
+
+
+    戦いは一応、ローマ軍の勝利となった。
+
+
+
+
+
+411 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:12:50 ID:Oq7sv9BY
+
+
+
+
+    ブルータスは国葬され、ローマの女達は、一年間、喪に服したという。
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ＿＿＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |＼＿＿＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　|　　　　|　,,,, ,,...... ,,
+    　　　　 　 　 　 　 　 　 　 ,、、、,,,　、、,,.　　　　 　　　 　|　|　　　　|
+    　　　　　　　　　 　 　 　 　 ,,,.ｒ───────‐──‐|　|　　　　|─、
+    　　ﾞ"ﾞ"ﾞ 　 　 　 ,,　 　 　 　 .＼＼　　　　　　 　 /ｌ_/ｌ　　|　|　　　　|　　＼
+    　　　　　　　　　　　　　,、,　　..,,＼＼.　　　　 　 (;;::　,) 　|　|　　　　|　　　 ＼　　""　　　゛""
+    　　　　　　　　　　　　　　　　　　　ヽ ＼　 　 　 /;;::　ｌ 　 |　|　　　 ｜ 　 　　 ＼
+    　　　　　　　　　　　　　　　　　　　　;:＼＼ 　 .と　　J 　 |　|　　　　|　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　＼＼　　￣　　　＼|＿＿__」 　　 　　 　　 ＼
+    　　　　　　　　　""""　　　　　 　 :::...,,,,　　＼＼　　　　　　　;;;;;;;;;;;;;;;;;;;　 　　 　　　 　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　＼＼　　　　　　:::;;;;;;;;;;;;;;;;;;;::　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　,,　　　＼＼　　　　　　::::;;;;;;;;;;;;::::　　　　　　　　　＼
+    　"ﾞ"ﾞ　　 ."ﾞ"　　　　　　　　 　　　　 　　　　　 　　＼＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　ヽiニニニニニニニニニニニニニニニニi
+
+
+
+
+
+412 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:13:12 ID:Oq7sv9BY
+
+
+
+
+    そして、ヴァレリウスはローマに凱旋した。
+
+
+
+    ﾟ　|　・　＋o 　　　　　　　　　　 o。　|　　*｡ |
+    　＊o　ﾟ |+　| ・ﾟ 　 ／￣￣＼＋・　 o　 |*
+    　ｏ○+　|　　|ｉ 　／ ._ノ　　ヽ､＼ 　ﾟ|　o　○。
+    ・＋ 　 　　･　l 　|　 （≡）（≡）　|・|＊ﾟ ＋ |
+    ﾟ　|i　 　 |　+　 　|::::: （__人__） ::::|　|!　.　　　|
+    o｡!　 　|!　ﾟo　 　|　　 |r┬-|　　.}　|.　* ﾟ |
+    　 ｡*ﾟ　 l・　　　　|　　 `ーlj´　　}　|o　 ﾟ。・ ﾟ
+    　＊oﾟ　|! 　　　　ヽ　　　　　　 /　|＊|○・ |oﾟ
+    ｡ | ・ 　　o,. ‐- ..＿ヽ､.,＿＿. /　 !| ・　＋ﾟ ||＊|
+    ＊ ﾟ　　ｌ|　/　　　 、　　i　　}　　＼　　　o.＋ | ・
+    　|l　+ ﾟo　i　　　　 ` -､{!　/＿　　 ＼ 　○・ |oﾟ
+    　o○　| 　| ヽ.　　　　　ヾ´ 　　￣　　｀ヽ　　*。
+    ・|　＋ ﾟ o } 　}　　　　　　　　　　　　 　　 ヽ　Ｏ。
+    　Ｏ。　| 　|　ﾘ、　　..:::　　　　　　　　..　　　l　。
+    　o＋　|!*｡| /　`ー::::　　　　　　　, ﾍ:::::..　 |　＊
+    　|・ 　 | ﾟ・ |/　　 /　 :::... ..　 　／:::/ | ::..... {　|
+    　　　　＿|＼∧∧∧ＭＭＭＭ∧∧∧／|＿
+    　　　　＞　　　　　　　　　　　　　　　　　　＜
+    　　/＼　　──┐| | ＼ 　 　 ヽ|　 |ヽ　 ム ヒ　|　|
+    　 /　　＼　　　 /　　　　　 ／　 |￣|￣　月 ヒ　|　|
+    　　　　　 ＼ _ノ　　　 ＿／ 　 / | ノ ＼ ﾉ Ｌ_い o o
+
+
+
+    彼は四頭の白馬を駆って派手に凱旋。
+
+
+
+
+
+413 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:13:31 ID:Oq7sv9BY
+
+
+
+
+    しかし、これはあまり良くなかった。
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　　おい見たか？ヴァレリウスの凱旋式を・・・
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　　あいつ王になる気なんじゃね？
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+    　　　＊ローマ市民達
+
+
+
+
+
+    　　　　　　　／￣￣＼
+    　　　　 　／　 ＼　 　 ＼
+    　　　　.（●）（● ） 　u.　|
+    　　　　 （__人__） 　u　 　|　　え？
+    　 　　　.(｀⌒ ´　　　　　|
+    　　　　　{ 　 　　　　　　|
+    　　　　　 { 　 　　　u.　/
+    　　　　　　＼　　　　 /
+    　　　　　　ノ　　　　　＼
+    　 　　 ／´　　　　　　　　ヽ
+
+
+
+
+
+414 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:14:01 ID:Oq7sv9BY
+
+
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　　そういや、あいつ丘の上にでかい屋敷持ってるな・・・
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　　あいつ王になる気なんじゃね？
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+
+    　　　　　　／￣￣＼
+    　　　　 ／　　u　　ノ ＼
+    　　　　 |　　　 .u （ ●） |
+    .　　　　 |　　　　 　（__人_）　　　え？え？
+    　　　　　|　　　　　 ｀ ⌒ﾉ
+    　　　　　 |　　　　　　 　}
+    　　　　　 ヽ　u 　　　　 }
+    　 　　　　 ヽ　　　　　ノ
+    　　　　　　ノ　　　　　＼
+    　 　　 ／´　　　　　　　　ヽ
+
+
+
+
+
+415 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/08/27(土) 17:14:27 ID:Oq7sv9BY
+
+
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　　そういや、新しい執政官を埋めようとしないよな・・・
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　　やっぱあいつ王になる気なんじゃね？
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+
+    　　 　 ＿＿
+    ..:...::.／:..:..:..::＼.::..:..:..::::..:..::.:..:...::..::..:..:..::::...:.....
+    .::.／.:..:.._ ノ::::..:..＼.:..:...::.:..:..::::....:::..:..::::..:.:..:....
+    :..|:::.... 　（ ○）（○）.::..:..:..:..::::..:..::.:..:...::...::::..:.:..:....
+    .: |:::....　u　（__人__）.::..:..:..:………。..:.::..:.:..:....
+    ::. |::u:.　　　 (.::..:..:..::::..:...:..::::::::..:..::.:...:..::::..:..::.::..:....
+    .::. |:::.....u　　｀ ⌒´ﾉ.::..:...:..::::..:..::.:...:..::::..:...:....
+    ::..:.ヽ:::.....　　　　 }.::..:..:..:..::::..:..::..::::..:..::.:..:...::..:....
+    .::..:...ヽ::.....　　　ノ　　　　　　 　 ＼
+    ::..:..:..:/::.. 　 く　　＼　　　　　　　　＼
+    .::..:..: |::...　　　＼　　＼　　　　　　　　＼
+    ::..:..:..:|:::.....　　|ヽ、二⌒)､　　 　 　 　 　 ＼
+
+
+
+    果たして、ヴァレリウスはこの先生きのこることができるのか！？
+
+
+
+
+
+    第１５話「傲慢王の逆襲」終わり
+
+    つづく・・？
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3649/clap" id="fc2button-clap-3649" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3649").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/7.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3649/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第十五話　傲慢王の逆襲" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3649.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3684.html">
+					やる夫達はローマ共和国を作るようです　第二十一話　ウエイ攻略 (2011/09/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3682.html">
+					やる夫達はローマ共和国を作るようです　第一九・五話　ファビウス家玉砕 (2011/09/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3669.html">
+					やる夫達はローマ共和国を作るようです　第二十話　十二表法 (2011/09/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3664.html">
+					やる夫達はローマ共和国を作るようです　第十九話　護民官 (2011/09/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3662.html">
+					やる夫達はローマ共和国を作るようです　第十八話　ポルセンナ王の強襲 (2011/09/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3658.html">
+					やる夫達はローマ共和国を作るようです　第十七話　クラウディウス家とクリエンテス (2011/09/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3653.html">
+					やる夫達はローマ共和国を作るようです　第十六話　ヴァレリウス・プブリコラ (2011/08/31)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第十五話　傲慢王の逆襲 (2011/08/29)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3639.html">
+					やる夫達はローマ共和国を作るようです　第十四話　ルキウス・ユニウス・ブルータス (2011/08/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3637.html">
+					やる夫達はローマ王国を作るようです　第十三話　革命 (2011/08/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3628.html">
+					やる夫達はローマ王国を作るようです　第十二話　ルクレツィア事件 (2011/08/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3623.html">
+					やる夫達はローマ王国を作るようです　第十一話　"傲慢王"タルクィニウス (2011/08/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3620.html">
+					やる夫達はローマ王国を作るようです　第十話　セルヴィウス王の死 (2011/08/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3615.html">
+					やる夫達はローマ王国を作るようです　第九話　セルヴィウスの統治 (2011/08/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3613.html">
+					やる夫達はローマ王国を作るようです　第八話　タルクィニウスの最期 (2011/08/18)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第十五話　傲慢王の逆襲" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/08/29 02:54 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3649"
+    dc:title="やる夫達はローマ共和国を作るようです　第十五話　傲慢王の逆襲"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="原作・塩野七生 著 ローマ人の物語1「ローマは１日にして成らず」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。紀元前508年ごろ、イタリア　　　　　　　　　　　　　　　　　　　　　,&#45;、　　　　　　　　　　　　　　　　　　,&#45;～´　　　　　　　　　　　　　　　　　　＼　　　　　　　＿　　　　　　　　　　|~　　　　　 /´　 ｀ヽ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-08-29T02:54:57+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3648.html" title="やる夫で学ぶ柔道整復師　その２">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3644.html" title="やる夫で学ぶＪリーグの旅　番外編　サッカーと八百長問題">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3649.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3649"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3649-9eafa1b5">http://oyoguyaruo.blog72.fc2.com/tb.php/3649-9eafa1b5</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3648.html" title="やる夫で学ぶ柔道整復師　その２">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3644.html" title="やる夫で学ぶＪリーグの旅　番外編　サッカーと八百長問題">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

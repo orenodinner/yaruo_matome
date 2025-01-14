@@ -1,0 +1,821 @@
+<div class="article">
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　 　 　 　 ＿_ ＿ 
+　　　　　　　　　 　 　 　 　　　__厂´厂 }　/ 　 ｀〉--､ 
+　　　　　 　 　 　 　 　 　　　　>ー.´￣￣:⌒ヽ厶、　〉､ 
+　　　　　　　　　　　　　　　 （/ ´　　　　　　　 ｀∨　 〉 
+　　　　　　　　　　　　　　　 /　　　　　　　　　　　ヽ ⌒i 
+　　　　　　　　　　　　　. 　 |　 　 ,　　　 　 　 　 　 ｌ´ 〉 
+　　　　　　　　　　　　　　　|_＿ノ　,　ヽ､＿　 　 　 |ソ 
+　　　　　　　　　　　　　　　l（　● ）　 （ ● ）　　　| 
+　　　　　　　　　　　　　. 　 |　　　　　　 　 　 　 　 l　　　　　　　　　　　　　　　やらない夫と！ 
+　　　　　　　　　　　　　　　 l （_＿人 ＿__ ） 　 　 ｝ 
+　　　　　　　　　　　　　　　 |　i;;;;;;;;;;;;;;;;;;;;;;;i　　　　| 
+　　　　　　　　　　　　　　　 |　l'⌒ ^⌒｀ヽj　　　　|　　　　　　,.-､_ 
+　　　　　　　　　　　　　. 　 丶 ヾ-======'.　　　./　　;.ｨ,rく⌒ヽ　! ｀} 
+　　　　　　　　　　　　　　 　　ヽ ｀　⌒　´　　　 ﾉ ,.ｲ厶-{ ､　　 　 }　ﾊ 
+　　　　　　　 　 　 　 　 　 ,r‐ 、ヽ──－´　i !ﾏ７´　 　 ヽ|　　　 　 V 
+　　　　 　 　 　 　 　 __..∠　ﾉ┴;.ﾉ　＿＿　　',/７　　 　 　 ヽ.　 　 　 ! 
+　　　　　　　　　 ／´　　　　　￣}　　　　,.　-┴{　　　　 　 　 |７　　　| 
+.　　 　 　 　 　 /　　　　　　__,.r ｀)　　／.:.:.:.:.:.:.:.!　ヽ　　　　　/ 　 　 ,' 
+　　　　　 　 　 |　 　 丁丁´:.:.:しﾍ..／.:.:.:.:.:.:.:.:.:.:.ﾊ　　'. 　 　 /　　　 / 
+　　　　　 　 　 |　　　 |　|:.:.／´￣￣｀`丶､:.:.:.:.:.:.:ﾊ.　 i　　 /　　＿厶__ 
+　　　　　 　 　 |　　　 |　|;ハ.　　 ＼　　 　 ｀丶､:.:..:ヽム-‐'　¨´　 ./ 　 '. 
+　　　　　　　　 l　　　 ∨　　ヽ.　　　＼　　　 ,＞　 ´　　＿　　 　 ｆ　　　! 
+　 　 　 　 　 　 '.　　　 j　　　　＼　　　＞　´　-一　¨´　 　 　 　 !　　　| 
+　　　　　　 　 　 '.　 ／　 ＿＿　.　　´ 　 　 　 __,.　 -‐　´　　 　 | 　 　 ! 
+　　　　　 　 　 　 ∨´￣　-‐ ¨´ --＿＿＿￣ __,､__ノ廴.ィﾍ 　 ∨　 |　 l 
+　　　 　 　 　 　 _厶-　__　　 ,r～／　　　　 ＼　/　 ＼　　　 ￣{　　 |:　 ! 
+　　　　　　　　 /～～´ 　 ￣ ／ノ 　 ＼　　 　＼ヽ　　 ｀　ー-　ｆ　　 |　| l 
+　　　　　　､nnn 　　　　　 ／ （○）}liil{（○）　 　 ＼　　　　　　 nnn､ !　! l 
+　　　　　　| l l l 　　 　 　　|　　　（__人__） _　　　　 |　　　　　　l l l | |　|: l　　　　　やる夫の！ 
+　　　　 　と 　ノ‐─‐─-､＼ ヽ　|!!il|!|!l|　 　　　 ／､-─‐─‐!､　 つ　 !　'. 
+　 　 　 　 i　　ヽ＿＿＿　　　　 　|ｪｪｪｪ|　　　　　　　＿＿＿,r' {_　　./ 　 '､ 
+　 　 　 　 |　　 　 　 　 │　　・　　　　　　　　・　　│　 ｀､　,′　｜　/　　　 ヽ 
+　 　 　 　 |　 　 　 　 　 │　　　　　　　　　　　　　│ 　 ｀､ 　 ｜し　　　　 　 } 
+　 　 　 　 |　　　　　　　 │　自　主　規　制　　 │ 　 　 ｀､　 |　　｀廴ﾉししハ 
+　　　　　　!　　　　　　　 │　　　 　 　 　 　 　 　 │ 　 　 　 '.　!　　　　　　　_丿 
+
+
+
+
+
+
+
+　　　´＿＿_ 
+　　:／　　　u＼;　　　　　　＿＿＿＿ 
+　;/　　　ノﾙ(＜)＼;　　 ／　;u　 ノ し ヾ 
+　;| 　（＞） 　＿)　 ＼;./　　　　　 ⌒　　＼　　　　　やる夫スレ登場人物紹介っ！……だろ 
+　;|:::　⌒（__ノｪｿ　　　/ 　　　 　 　 　　 　　ヽ　　　　　　　　　ｾｯｶｸ ﾉ ｻｰﾋﾞｽｼｮｯﾄ ｦ ｼﾞｬﾏ ｽﾙﾅ ﾀﾞﾛ 
+　.;＼　u　´　　 ソ　/　　　　　 　　＾　　　　 │ 
+　　｀ ;＼　　 　　, 　|　　　　 　　　　　　　 　│　　　パート７２だお！ 
+　　　,ヾ ＼_　ｎ^^- ＼　　　　 　 　 　 , ＿／　　　　　　　　　ﾏｼﾞﾃﾞ ﾀﾞﾚﾄｸ ﾀﾞｵ ! 
+　　;/　∠＿;i　￣丶／￣　　　　　　　 ＼ 
+　　;（　　　　⌒）　 ´　　 ノ　 　　　　　　　＼ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+366 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:19:48 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+
+　　　　　 ,／￣￣￣ ＼ 
+　　　　　 |　（Ｌ）　　　　 ＼ 
+　　　(￣二二二二ヽ、　　ト、 
+　　　. ＼|　─　　─ `＼_ｿ 
+　　　　　| （●）（●）　　|　　　　　　　　　　　　　　　　気を取り直して、今回は特定の人物の紹介ではなく、 
+　　　　.　|.（__人__）　.　　|　　　　　　　　　　　　　　　　とあるゲームの登場キャラクター全体の解説をやってみるだろ 
+　　　　　 |　｀ ⌒´ 　　　ﾉ 
+　　　　.　 |.　　　　　　　.}_ｿ ￣￣￣￣￣ ＼ 
+　　　　.　 ヽ　 　　　　 　}|　　　（Ｍ）　　　　　＼_ 
+　　　　/ 　 ヽ　　　　　ノヽ二二二二二二ヽ、　l 
+　　　./　/　　 ∩ノ ⊃|　 |.　 ─ 　 ─　　　 ＼/ 
+　　　(　 ＼　／ ＿ノ　|　 |. （●） 　（●）　　 ＼　　　初めての試みなんで不備があってもご了承くださいだお 
+　　　.＼　“　　／＿＿|　 |　 . （__人__）　　　 　 | 
+　　　　. ＼ ／＿＿＿ ／/　　　　 ∩ノ ⊃　　／　　　今回の紹介のテーマとなる作品はコチラだお 
+　　　　　|　　　　　　　　 |(　 ＼　／ ＿ノ　|　 | 
+　　　　　|　　　　　　　　 |＼　“　　／＿＿|　 | 
+　　　　　|　　 　∧　 　　|　 |＼ ／＿＿＿ ／| 
+　　　.　 ｜　 　|　｜ 　 .|　 |　　　　　　　　　 | 
+　　　.　 ｜　 　|　｜. 　 |　 |　　　　∧　　　　| 
+　　　.　 　| 　｜　　| 　｜　｜　　　|　｜　 　| 
+　　　.　　 | 　｜　　|　 ｜　　|　　｜　　|　　｜ 
+　　　. 　（＿＿_）　（＿＿）（＿＿_）　 （_＿＿） 
+
+
+
+
+
+
+
+
+
+
+　　　　　　l'''''ア‐-,、,......, 　 　 　 　,........,　　,..............., , -.､　　 , ,................,l'''''''''''''''''''! 
+　　　　,......l.　{. ○ .}.ｌ 　!-----ャ　l 　　l　　l__　　__ﾊ､__.ﾉ,.'レ/l＿　　,.'.l. 　t:ｭ.　 l ,---,- 
+　　　 .l　　　　`ｰr''ノ 　 　　　.＞　l 　　''''''!rｰ'　 'ｰ┐__.,.'　　,.' ,.'　　'、.!、 ,...,!　 l l　　 ＞ 
+　　　 ,ﾌヾ! 　 lアヽヽ／]　 ｢,.ﾆ、､ l　　,......l.L..,　 .,....l.l.　　　,.' ,.'　 ,､ 　t- ,ﾝ'´ 　,.! ￣￣｀ 
+　　／　 ｲ　　lヽ　 ヽく　 ／'J丿./.! 　 l　　　.l　　`ｰ､`-､,.'　`-､,/　ヽ!ン　　.／ 
+　　　ヽ'"l.,、,､l　ヽ'´　`.'´　 ヽ_/　lﾍ ﾍ!　,.、 　`-､ i.k、　　　　　　　　'ｱ,ｨ ／ 
+　　　　　'"V `　　.｢~ｐ__).,r.;=:-､｢ﾞレｧ.,r.三.､r‐;:;.‐;:`‐i.,r.;=:-､r‐;:;‐､　´　'" 
+　　　　　　　　　　.'ｰ'.　　ﾞ ‐-‐' 'ｰ'ヽ`.ﾞ --' .'ｰ' 'ｰ' 'ｰ' ﾞ ‐-‐'.'ｰ' 'ｰ' 
+
+
+
+
+
+
+
+
+367 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:20:21 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+
+　　　　　　　　　　　　 　 ∩＿ 
+　　　　　　　　　　　　　　〈〈〈　ヽ 
+　　　　　　＿＿＿_　　　〈⊃　　} 
+　　　　 ／⌒　　⌒＼　　 |　　 |　　　1996年の初代（赤・緑）発売以来、世界中で楽しまれているRPGだお！ 
+　　　／（ ●） 　（●）＼　 !　　 ! 
+　 ／ :::::⌒（__人__）⌒:::::＼|　　 l　　　主人公の少年（少女）が不思議な生き物"ポケットモンスター"を捕まえて仲間にし、 
+　 |　　　　　|r┬-| 　 　 　 | 　／　　　各地を旅しながら絆を深め、ポケモンバトルのチャンピオンになる事、 
+　 ＼ 　 　　｀ ー'´ 　 　 ／／　　　　　そして全てのポケモンを捕まえて図鑑を完成させる事が目的だお！ 
+　　/　＿＿　 　　　　　　/ 
+　　(＿＿＿）　　　　　　/ 
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　 　／￣￣＼ 
+　　　　　　　　　　 　 　_ノ　　ヽ、　　＼　　　　　　　　　　一般層を含めたゲームの認知度は恐らくトップクラスだろうな 
+　　　　　　　　　　　　（ ●）（ ●）　　　|　　　　　　　　　　特に、今の二十代中盤（≒初代発売時小学生）より若い世代なら 
+　　　　　　　　　　　　（__人__） 　　　　 | ..／}　　　　　　　 かなりの確率でプレイした経験があるはずだろ 
+　　　　　 _　 　　　 　ヽ｀⌒ ´　　　　　| /　/ 　　　__ 
+　　 (＾ヽ{　ヽ　　　　　 {　　　　　　　　./　/　 .　／ .ﾉ　　　子供向けゲームの印象が強いが、年齢に関係なく楽しめる 
+　(￣ ヽ ヽ　i　　　　　　ヽ　　　　　　/　厶-　´ ／　　　　 （実際プレイされている）非常によくできたゲームだ 
+.(二 ヽ　i　i　|,r‐i　　　　ﾉ.　　　ヽ /　　　　 ／ 
+　　ヽ　　 ／　 ノ　　／　　 　r一'´　ー ､　　￣￣￣）　　　最近発売された金銀の10年ぶりのリメイクである 
+　　 i 　 {　　 ｲ―イ　/　 　.`ー―.　､＿_　.〈￣￣　　　　　 ハートゴールド・ソウルシルバーでは、金銀以来久しぶりに 
+　　　ヽ.　`ｰ '/　　　/　　　　　　　　　 　/＼ ＼　　　　　　 ポケモンをやり始めた、所謂復帰層がかなりいるらしいな 
+　　　　　 `ー ' ￣￣!　 　　　　　　　　　|　　ヽノ 
+
+
+
+
+
+
+
+
+
+368 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:20:55 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼ 
+　 ／　　─　 　 ─＼　　　　　　 というわけで、今回はポケットモンスターに出てくるキャラの紹介をするお 
+／ 　　 （●） 　（●） ＼ 
+|　 　　 　 （__人__）　 　 |　　　　　勿論ゲームの中ではポケモンだけではなく人間のキャラも出てくるけど、 
+./　　　　 ∩ノ ⊃　　／　　　　　 今回の紹介ではメインであるポケモンに絞って紹介をしていくお 
+(　 ＼　／ ＿ノ　|　 | 
+.＼　“　　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+
+
+
+　　　　　　　.／￣￣＼ 
+　　　　　　 /　ヽ､_ 　　.＼ 
+　　　　　. （　（● ） .　　　|　　　本来ならゲームのシステムや設定なんかの解説も入れるべきなんだろうが、 
+　　　　　. （人__）　　　　　|　　　それをやろうとするとレス数が異常に膨れ上がるんで省略させてもらうだろ 
+　　　　　r‐-､　　 　.　　　|　　　 同様に、紹介中に出てきたポケモン各個体についての説明も省かせて頂く 
+　　　　 （三））　　　.　　　| 
+　　　　　>　ﾉ　　　　　　 /　　　 興味が出てきたらWikipediaや各種まとめサイトに豊富な情報が載ってるんで、 
+　　　　/ 　/ ヽ、　.　　 /　　　　 それらを各自で調べてもらえると助かるだろ 
+　　 　/ 　/ ⌒ヾ　　　.〈 
+　 　 （＿__ゝ､ 　＼／.　） 
+　　　　　　.　|＼　　 　,.1 
+　　　　　　.　|　 ＼_／...| 
+
+
+
+
+
+
+
+
+
+369 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:21:29 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+
+　　　　　　 ∧ 
+　　　　　　 {_入　 　 　 　 ,ィ ￣ ７ 
+　　　　　　 | 　 !＿＿__／　＼／ 
+　　　　　　 ＞'´　　　　　 __／　　,-‐┐　　　それじゃあ早速説明に入るお 
+　 　 　 　 / ● _ 　 ●　 ヽ　　／　　 |　　　 やる夫スレでポケモンが登場する時は 
+　　　　　人　　┬‐r　 ◯r┴＜　 　__」 
+　 　 　 〈　 ヽ　 `‐'　　 ノ　　_ﾉ　／　　　　　 ゲーム系スレ（特にRPG）の敵キャラの代役 
+　　　　　＼/　　　　　　　　/ ＼ ＼ 
+　 　 　 　 /　　　　　 　 　 i‐'￣ ／　　　　　　という使われ方が最も多いお 
+　　　　 i⌒ヽ　　　　　　　 |>､　 ＼ 
+　　　 　 ＼__）　　　　　　/-‐'´￣ 
+　　　　　　　 ￣｀ヽ---r' 
+　　　　　　　　　　ヽ__ノ 
+
+
+
+
+
+
+
+
+　　　　　　　　 ＿＿ 
+　　　　　　 ,　´ : :::::::::｀丶、 
+　　　　　 , "　 : ::::::::::::::::::::::ヽ, 
+　　　　　f:: .　　,ｒ''⌒ﾞヽ､＿/弋　　　　　　　元々モンスターだからな、敵キャラとして出しても違和感は無い 
+　　　　　{:::::.　 i'　　rt､　ﾞ､　,...｝　　　　　　　しかも全部で約500種類という数がいるのが大きいだろ 
+　　　　　ﾞ､:::::::::!　　ﾔjj　　V 　 ） 
+　　　 ,_　　ﾞ ､:::ﾞ､　 ｀´　　,,f ﾌ´　　　　　　　見た目も各種の動植物、人型、幽霊、怪獣、ドラゴンetcとより取り見取り 
+　　　 ヾ机,.冖､::;;｀;;ー;;;;´ヽ´　　　　　　　　 属性も火水風土木金雷毒光闇等の基本的なタイプが揃っている 
+　　　　 >;;;／´ヽ;:::::::::::;ﾄ､;;;ﾉ 
+　　　　(;;;/　l　　 TT¨｢ （｢ !　　　　　　　　　敵キャラを出したいけどいい配役が思いつかないって時は 
+　　　　 ´`、|　　 ﾉ└'　/_,ﾉ　　　　　　　　　ポケモンの中から探してみれば、似たようなキャラが1体はいるぞ 
+　　　　　　ヽﾞー'　　 _ノｰ-、 
+　　　　　　　( ー<￣`ヽヽヽ) 
+　　　　　　　 ヽ)か 
+
+
+
+
+
+
+
+
+
+370 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:22:00 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+　　　　　　　　 ＿＿＿_ 
+　　　　　　　／　　 　 　＼ 
+　　　　 　／　─　 　 ─　＼ 
+　　　　／ 　 （●） 　（●）　 ＼　　　　　ちなみにこの手の使われ方で登場した場合、個性なんかは付けられずに 
+　　　　|　 　 　 （__人__）　 　　 |　　　　　出てきてその場限りの1回で退場、というパターンが多いお 
+　　　　 ＼　 　　｀ ⌒´ 　　 ,／ 
+　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ　　　　　　 ﾏｧ ﾃｷｷｬﾗ ﾀﾞｼ 
+　 　　/ 　　　 　,⊆ニ_ヽ、　 | 
+　　　/　 　 ／　r─--⊃、 　| 
+　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　| 
+
+
+
+
+
+
+
+
+　　　　　　 （⊃￣￣＼ 
+　　　　　（⊃　　 _ノ　　＼ 
+　　　　（⊃　　 （ ●）（●） 
+　　　　　|　　　　 （__人__） 
+　　　　　|　　　　　｀ ⌒´ﾉ　　　　　　　　使われるポケモンも、人気とかはあまり関係なく多種多様だろ 
+　　 　 　 |　　　　　　 　 } ＼　　 　 　 　 再現性やインパクトを重視する傾向が多いな 
+　　　　 ／ヽ　　　　　　 }　　＼ 
+　　　／ 　　ヽ､＿＿__ノ　　 　 ）　　　　　ﾏｧ ﾓﾌﾞｷｬﾗ ﾀﾞｼ 
+　 ／　　　　　　　　.　 　|　＿／ 
+　|　 　　　　　　　／￣￣（＿) 
+　 ＼　　　＼　／|　ＪＪＪ　（ 
+　　　＼　　／　　 ／⊂＿） 
+
+
+
+
+
+
+
+
+
+371 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:22:33 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+
+　　　　　　　　 ,.　　'"´￣　`ヽ 
+.　　　　　　　 / ,　　　　　,.、 ,ィ7 
+　　　　　　　 ｌ/　　　 /／‐-_／! 
+　　　　　r‐‐〈　/　ｉ /' 〈ri,.〉ニ＝=‐　　　　　　　　　 これに対して、 
+　　　　　{　 { ＼ヽ !l　__, ノニ＝=-　　　　　　　　　　作品数としては少ないんだけど、特定のポケモンに 
+　　　　 ,.ゝ　｀ヽ ,ﾉN＞ノ__,.イ　　　　　　　　　　　　　個性を持たせてメインキャラとして使った作品もあるお 
+　　　 〈　,.-　　 ヽヽヽ　/ ./ 
+.　　　　Y　、　　　く´7/　A　 ,.--- 、 
+　　　　　`ｰ'~`ｰ- .,_____ノ -‐'　　 ‐､ ヽ 
+　　　　　　　　　　 / Yｧ‐‐--- ヘ ヽ > ヽ　　　　　　　有名な作品では、『やる夫がスモチ荘で暮らすようです』で 
+　　　　　　　　　／／ 　 　　　＜j　 .l-‐┘　　　　　　 サーナイト、レジスチル、ドラピオンが登場してたお 
+　　　　　 __,.　 '　/　　　　　　　l└‐┘~￣.|┐ 
+　　　 「　 ／　　 l　　　　　　　　 `　､　　 / ﾉ 
+　　 r '‐ ' 　 　　 i　　　　　　　　 　　 `＜'´ 
+　　 l 　　／　　.人　　　　　　　　　　　　 〉 
+　　 `ｰく　　 ／ 　 ＼　　　　 ,. ‐- ､___,ノ 
+　　　　　`ｰ'　`ー '"´｀ゝ.,__ノ´`ー '´ 
+
+
+
+
+
+
+　　　　　　　 　, ─ ,＿,- 、 
+　　　　　　 ／　　　 l::::::＼＼　　　　　　　　　　　　　　　『スモチ荘』では技やタイプについても若干触れられていたが 
+　　　　, -┴、 _--─| ｡ ｡:::l-ヽ　　　　　　　　　　　　　　それ以外はほぼオリジナルの設定が使われていただろ 
+　　　/ /　　 l　　　　 |。。。|　.ﾄ 、 
+　　　l　|　　　|.　　　　| 。。:|　 |　| 
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　,仆､　　　　　　　　　　あと自分はまとめサイトで読んで本スレは見てなかったんだが、 
+　　　　　　　　,,へ ,ｲ　 ＿∠>'1 /,j';;;;;;ﾞ,、 ,ｧ、　　　　　　作者さんはどうしてこの3体を選んだのか 
+　　　　　　　〃;;;ｽ y､´ ト　厶''ｶﾞ j;;;;;;;;;;;y'/　ﾞ;　　 ,､　　　もし知ってる人がいたら是非教えてほしいだろ 
+　　　 尢ー〆;;;;〈･ﾘ　＿　 !・_ﾉi'　!;;;;;;;;;//　　 | ／/| 
+　 _　 j |　 j |;;;;;;(w''´;;;;;;;;Ⅴ｀T ー-ｯ;;;〈 ′ 　 !´;;/;;;|　　_ 
+　iﾍ￣! ､　l !;／　/;;vv‐､'⌒ ゝ、爪;;;;;;ヽ!　 ノ;;;/;;;_」.ｨ''´ 
+　 !;;ﾞ､;ゝ､ﾞkヾ￣|△_″｀ ｀二,,,.=ヾ-‐大´￣ ﾞ､;i;;;;／,' 
+
+
+
+
+
+
+※野郎2匹は容量の都合で一部省略させて頂きました 
+
+
+
+
+
+
+
+
+373 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:23:06 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼ （ ;;;;( 
+　 ／　　＿ノ　 ヽ__＼) ;;;;)　　　　 こっちのパターンの使われ方が少ないのは、 
+／ 　　 （─） 　（─ /;;／　　　　　公式で各ポケモンに明確な性格付けがされていないからだと思うお 
+|　 　　 　 （__人__） l;;,´| 
+./　　　 　 ∩ ノ)━・'／　　　　　　アニメや派生作品（不思議のダンジョン等）では個性が付けられているけど、 
+(　 ＼　／ ＿ノ´.|　 |　　　　　　　 それは数多くいる個体の1匹の性格で種族全体の傾向ではない、ってスタンスらしいお 
+.＼　 " 　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+
+
+
+　　　　 ／￣￣＼ 
+　　　／　　 _ノ　　＼　　（ ;;;;( 
+　　　|　　　 （ ─）（─　　) ;;;;)　　　逆に言えば、どんな性格付けや配役でも大丈夫って事だろ 
+　　　|　　　 　 （__人__）　/;;／　　　 実際、『スモチ荘』では3体ともキャラ立ちしまくっているからな 
+.　　　|　　　　　　　　ﾉ　l;;,´ 
+　　　 |　　　　　∩ ノ)━・'　　　　　 別作品の話になるが『やる夫がかがみの奇妙な卒業旅行に同行するようです』では 
+　　／　　　　／ ＿ノ´ 　 　 　 　 　 これを逆手にとって、スタンドのヴィジョンでポケモンが幾つか使われているな 
+　 (.　 ＼ ／　.／ 　 │　　　　 　 　 性格を設定しなくても何となく能力が分かる、よく考えられたチョイスだと思う 
+　　＼　 “　／_＿_|　 | 
+.　　　 ＼／ ＿＿＿ / 
+
+
+
+
+374 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:23:39 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+　　　　　　　　　＿＿＿ 
+　　 　　　／）／ノ '　ヽ､＼　　　　　　 メインとしてポケモンを使うときに気をつけるべき点がもう1つあるお 
+　　 　 ／ .ｲ '（●） 　.（●）＼　　　　　キャラによってAAの量に物凄く差があるんだお 
+　 . 　/,'才.ﾐ).　 （__人__）　　　＼ 
+　 . 　|　≧ｼ'　　 ´ ⌒｀　　　　　|　　　 ピカチュウやサーナイト、アニメレギュラーなんかの人気ポケはAAが豊富だけど、 
+　　.　＼　ヽ 　　　　　　　　　 ／　　　　マイナーなポケモンだと1個しかAAが無い、なんて事も珍しくないお 
+
+
+
+
+
+
+
+
+　 　 　 　 　 　 　 ／￣￣＼ 
+　 　 　 　 　 　 ／　ノ　 ヽ、.＼　　　　　　　　 　それと冒頭でも少し触れたんだが、ポケモンは膨大な情報を扱うゲームだ 
+　 　 　 　 　 　 |　 （●）（●）　| 
+　　 　 　 /￣￣￣ 丶人__）.　 |　　 　 　 　 　 　 だからと言ってあまりに細かい設定を持ち込むと知ってる奴ならまだしも 
+　　　　 /　　　　　　　　＼ .＿|＿＿＿__　　　　　あまり詳しく知らない読者を置いてけぼりにしてしまう可能性があるだろ 
+　　, --'､ 　 　 　 　 　 　 /　　　　　　 　 ｀〉 
+　 /　⌒ ）　　　　　　　　/　　　　　　　　 /　　　　特に重要でもない限り、そういった部分は極力無視して、 
+　,′　　ﾉ　　　 　 　 　 /　　 　 　 　 　 /　　　　　アクセント程度に留めておいた方がいいだろうな 
+　l　　T´ ..＿　　　　　./　　　　　　　r'´￣ヽ 
+　ヽ ノ　　 .／丶､　　/　　　　　　　（ ￣　　l 
+　 　 ｀'ー'´　　 | .｀'ｰ'――┬― --､/ 　 _.ﾉ 
+
+
+
+
+
+
+
+
+
+375 名前：<strong><span style="color:#990000">名無しのやる夫さん</span></strong> ：10/02/11 18:24:02 <strong><span style="color:#FF00FF">ID:+RyrBD2Z</span></strong>
+
+
+
+
+
+
+　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　　／　　ー　　‐＼ 
+　　　　　　　　　|　　 （ ●） （ ●） 
+　　　　　　　　　|　　　　 （__人__）　　　　　では、以上で今回の解説を終了させて頂くだろ 
+　　　　　　　　　|　　　)　 ｀ ⌒´ﾉ 
+　　　　　　　　　|　　　　　　　　} 
+　　　　　　　r⌒ヽｒヽ，　　　　} 
+　　　　　　/　　i／　|　__　　ノヽ 　　　　　 　＿＿___ 
+　　　　　./　 ／　　/　　　　　　) __　　.　 ／ ー 　ー＼ 
+　　　　 ./ ／　　／　　　　 /／　　＼. ／　（ ●）　（ ●） 
+　　　　/　　　.／　　　　　/￣､⌒)　／　　　　　（__人__） ＼　　　ご清聴、ありがとうございましただお 
+　　　 .ヽ､__.／　　　　 ／ ⌒ヽ￣　 |　　　　　　　｀ ⌒´ 　　| 
+　　 　　　　 r　　　 ／　 　　　| /　　＼ 　　　　i⌒＼　　　/ 
+　　　　　　/　　 　　　　　　　ﾉ 　　 ／ ⌒ヽ, ＿.ヽ　 .＼／ 
+　　　　　/　　　　　 /　　　 / 　 .／　 　　　|.／ｰ､＼ 　 ＼ 
+　　　　./　　　　／/　　 ／i,　　　　　　 　ﾉ　　　　＼＾　　 .i 
+　　　 /.　　　.／ ./　 ／､/ ヽ､_../　　　/　 　　　 .　 ヽ､__ノ 
+　　　i　　　／　 / ／ | ./　　／/　　／ 
+　　　i　　./　 ノ.＾/　 .ヽ､_.／ ./　／ 
+　　　i　 ./　　|_／　　　　　　/ ／ 
+　　　i　/　　 　 　 　 　 　 ノ.＾/　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ┼ヽ　 -|r‐､.　ﾚ　| 
+　　／ /　　 　 　 　 　 　 |_／　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ｄ⌒)　./|　_ﾉ　 __ﾉ 
+　 (_／ 
+
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/1589/clap" id="fc2button-clap-1589" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-1589").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/1589/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７２" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-1589.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-1615.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７９ (2010/02/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1602.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７８ (2010/02/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1601.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７７ (2010/02/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1599.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７５ (2010/02/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1600.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７６ (2010/02/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1598.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７４ (2010/02/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1590.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７３ (2010/02/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７２ (2010/02/20)			</li>
+<li class="relate_li">
+<a href="/blog-entry-1588.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７１ (2010/02/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1587.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７０ (2010/02/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1586.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その６９ (2010/02/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1585.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その６８ (2010/02/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1576.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その６７ (2010/02/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1575.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その６６ (2010/02/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1574.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その６５ (2010/02/18)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７２" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/02/20 21:05 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html#comment_list" title="この記事のコメントを参照">CM(7)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/1589"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７２"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　　　　　　　　　　　　　　　 　 　 　 ＿_ ＿ 　　　　　　　　　 　 　 　 　　　__厂´厂 }　/ 　 ｀〉&#45;&#45;､ 　　　　　 　 　 　 　 　 　　　　>ー.´￣￣:⌒ヽ厶、　〉､ 　　　　　　　　　　　　　　　 （/ ´　　　　　　　 ｀∨　 〉 　　　　　　　　　　　　　　　 /　　　　　　　　　　　ヽ ⌒i 　　　　　　　　　　　　　. 　 |　 　 ,　　　 　 　 　 　 ｌ´ 〉 　　　　　　　　　　　　　　　|_＿ノ　,　ヽ､＿..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-02-20T21:05:03+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1590.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７３">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1588.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７１">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment2872">[ 2872 ] <strong></strong></p>
+</div>
+<div class="comb">
+ポケモンはどっちかと言うとスレの題材として使われる方が多いな。
+HGSS発売前後はマジでスレが乱立してた……今でも続いてるのは一部だけど。<div class="comment_navi">
+[ 2010/02/21 12:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment2875">[ 2875 ] <strong></strong></p>
+</div>
+<div class="comb">
+ポケモンのモンスターは、ゲームにおける戦術研究の対象って感じで、あんまりAAストーリーキャラって扱いされないんだな・・・。
+惜しい気がするなぁ～。<div class="comment_navi">
+[ 2010/02/21 12:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment2889">[ 2889 ] <strong></strong></p>
+</div>
+<div class="comb">
+なかなか斬新で面白い紹介だな。
+ 
+ポケモンが重役としてなかなかやる夫スレで使われないのは意味が薄いから、という気がするなあ。
+スモチ荘はカオスな世界観が重要だったけどわざわざ性格創作してまで使うなら人間キャラにいいのが多いだろうしキャラ崩壊もネタになりやすい。<div class="comment_navi">
+[ 2010/02/21 18:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment3233">[ 3233 ] <strong></strong></p>
+</div>
+<div class="comb">
+これってポケモンに限った話じゃないよな。
+モンスター系のＡＡは使いどころが難しいんじゃないかな。<div class="comment_navi">
+[ 2010/03/02 00:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment3625">[ 3625 ] <strong></strong></p>
+</div>
+<div class="comb">
+>属性も火水風土木金雷毒光闇等の基本的なタイプが揃っている 
+風＝飛行、闇＝悪まではわかるが
+光って何ぞ<div class="comment_navi">
+[ 2010/03/17 12:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment8679">[ 8679 ] <strong></strong></p>
+</div>
+<div class="comb">
+※3625
+サーナイトみたいなぱっと見清楚系な奴らやノーマル組じゃない？<div class="comment_navi">
+[ 2010/09/30 11:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment31631">[ 31631 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>3625
+多分エスパーじゃね？＞光<div class="comment_navi">
+[ 2012/02/20 20:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=1589" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-1589.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="1589"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/1589-063560a8">http://oyoguyaruo.blog72.fc2.com/tb.php/1589-063560a8</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1590.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７３">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-1588.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その７１">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

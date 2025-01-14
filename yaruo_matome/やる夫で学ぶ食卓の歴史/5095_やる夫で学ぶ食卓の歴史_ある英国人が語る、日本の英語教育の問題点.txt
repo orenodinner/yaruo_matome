@@ -1,0 +1,1823 @@
+<div class="article">
+
+
+
+    　　　　　　　　　　　. 　 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　　　　　　　　　　　|┏━━━━━━━━━━━━━━━━━━━━━━━━┓|
+    　　　　　　　　　　　　　|┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 ┃|
+    　　　　　　　　　　　　　|┃ 　　　ある英国人が語る、日本の英語教育の問題点　　　.┃|
+    　　　　　　　　　　　　　|┃　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　　　　　　┃|
+    　　　　　　　　　　　　　|┗━━━━━━━━━━━━━━━━━━━━━━━━┛|
+    　　　　　　　　　　　. 　 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+
+
+
+    .
+
+
+
+    　　　　　　　　　　　　　　 　 　 　 　 　 　 ＿
+    　　　　　　　 　 　 　 　 　 　 　 　 ＿__／　　　　　　＿_　＼
+    　　　　　　　　　 　 　 　 　 　 　 /＼、　　　x一⌒´　　｀ヽ　＼
+    　　　　　　　　　　　　　　　　　 /　　|ヽY⌒　　　　　＊　　 ⌒ヽ ､
+    　　　　　　　　　　　 　 　 　 ／⌒ ノY´　＊ ＿_人＿＿_人　 * ⌒ ヽ
+    　　 　 　 　 　 　 　 　 　 　 ゝ=ミ }::::{　　 ノ. : : : : : : : : : : : :ゝ-t　 　 }
+    　　　　　　　　　　　 　 　 　 　 （(::::::(＊ ﾉ.: : ／: : :／}ゝ- : :ﾉ. :/`ｰ､ﾉ
+    .　　　　　　　　　　 　 　 　 ／　 |ヽ:::{　 ﾉ ／/: :／ .メ ≠イ. :Х}:. |: :|
+    .　　　　　　　 　 　 　 　 ／　 ／川Y 　 ): : 人 ( ､№”　 厶イ　ﾉ : i: :|
+    　　　　　　　 　 　 　 ／　 ／:／ :ﾘ(　 人: : : 介　　　　　{№”ハ.:.,'.:.:l　　　　　あー、こりゃダメですね
+    　　　　　　　　　 　 /　 ／:／. : :/ J　 )ﾊ＼: : し　　　 　' 　 从ﾘ/.ﾉﾘ
+    　　　 　 　 　 　 　 l　/ ／. : : : : (( ＊ﾉ 八: ＼(　 ⌒ゝ　　ノ : -=彡'　　 　　　全っ然なってないです
+    　　　 　 　 　 　 　 | ／. : :／r‐Y　　 ) 《 く{＼_爻ぇr-‐＜彡イ: :ｌ
+    　　　　　　　 　 　 ,. : : :／ 「｀ヽ{　 　ﾉ / {　ｰ┐r‐彡}、（　　ﾉ.: .:ﾄ､
+    　　 　 　 　 　 　 /. :／ :／ 　 ( ／⌒ー―‐ｧ_| ﾄﾍ　ﾄ､Ｙ　　）.: : |:.:.ヽ
+    　　 　 　 　 　 　 {:.(( :〃__V⌒/　　､＼>￣〃ｰ|＼ヽヽ ｰﾍ ヽ:.:.:|:.: : :.＼
+    　　　 　 　 　 ／人 :＼〉 / {て　_ノフ¨に(∥に)|　 ｀ｰ～へＹ´三三三二ニニ=-､
+    　　　　　　　l,. :/　 ＞/ /　{て⌒て 　に(∥に）|　　　　　　 |////　　　　　 　 　.|
+    　　　 　 　 / :/ ／: : :Y 　 八てし{　 に(∥に)｜　　　　　　|///　　　　　　　 　 |
+    　 　 　 　 ,'. :／. : : ／|　　!|ｰ―''},　に(∥に) ｜　　　　　　|// E N G L I S H .|
+    　　　　　 ,／. : : ／　｜ 　 | //// .に(∥に) 　 ＼　 　 　 ｨ|/ 　　　　　　　　　　|
+    　　　　 〃. : : : ((＿)､|　　/、￣(こに(八 に)こ)こ)＼ 　 ノ |　　　　　 　 　 　 　 |
+    　　　　 {{: : : : : : : : : 人._/　) 「///}＞＜{///////《}:.＼ｒ､「l_ﾉ77　　　　.　 　 　 |
+    　　　　 ：: : : ( ￣￣　 (　　 )∧//／||///////////{: :｛:.ヽ、　〈＿＿＿＿＿＿_|
+    　　　　人: : : : 彡'「￣Y　　.ヽ　￣　 ||/////////// ＼:`辷辷彡
+
+
+
+
+
+
+
+798 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 22:58:05 ID:qFJHbIBA0
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ／￣￣ ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ⌒´ ヽ､,＿　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（●).（● )　　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ブツブツ言いながら　　　.　　　 　 （__人___）　　u 　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 '､｀ ⌒´ 　 　 　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　何読んでるんだ？　　　　　　　-ｰー|　　　 　　　　ﾄ､______
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 / .::::::、::|　　　　　　 /:::ﾉ:::::::::.｀' ｰ-
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l :::::::::::::::::ヽ__､____,.　"／::::::::::::::::::::::::..　ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　・・・中学の教科書？　　　」 ::::::::l:::: ::::::「､:::::::::::::／ ::::::::::::::::::::::::::::::::..
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l ::::::::::ヽ:::::::::::::::::::::::::::::::::::::::::::::::::::/:::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 / .::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::l:::::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 / .::::::ｰ-ミﾊ::::::::::::::::::::::::::::::::::::::::::::::::| :::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 / .::::::::::::::::::::/ヽ::::::::::::::::::::::::::::::::::::::::::::| :::::::::::／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/ .::::::::::::::::::::/　　＼:::::::::::::::::::::::::::::::::::::::| ::::::::::::::
+
+
+    　　　　　　 　 　 ｒ':／.:.: -.:.:.:.:.:.::｀:ヽ 　 ＼　　　　＼
+    　　　　　　　　 /:/ .::イ.:.:.:.: .:.:.:.:.::::/.:＼.＊ヽ　　　　 ｀ヽ.
+    　　　　　　 　 ｲ/;／／.:／.:.:イ:／:::::.:.:ヽ.　 ヽ
+    　　　　　　　 !l {/.ｨ_.:／.::／.:,./.:.:.::::::::.:.:ﾍ 　 ﾍ
+    　　　　　　　{ i､l:l'y戈.,ィ'.;. イ.:.:.:.:.:.:.:.:l.:.: .i ※}
+    　　　　　　　{ | ::|弋ソレ'ヽ､_i＿;;.:.:.:人.:.:.:|　 i　　　　　　　　　ですぅ
+    　　　　　　／,i .::|."", 　 　 i（('ｰ,､ﾚ.:.:.:.:.:.:j　./_, .-┬''"´
+    　　　　 ／x ﾘ .:::ﾍ.　　 　 　 ゞイ .V.:.:.:.:./*ｒ".:::::::.:.i　　　　　　　　　　　　　　A　　　E　　　T
+    　　　／ 　 ./ ;ィ" ヽ'ヽ　　 ""　,.ｲ' /.:.:/　 !.:.::::::::l.:.!　　　　　知り合いの外国人英語指導助手に
+    　 ／ ※　,ｲ;/　_,ｒ''_.|｀ "フ'':::´:::.:.ｲ.:.:./　 {.:.:ﾍ:::::::ﾘ
+    ,イ　 .,..イ,／(ミヽ.'./^７,ｲ.:／::.:.:/.:.:..:/＊ j.:ヽ.:ヽ.:/ 　　　　　 借りて読んでみたですが、
+    ※ ／:::,r;ニ三＝,ｲ,「"/.:/::::::,:.'.:.: ／　　 }ヽ.::＼/
+    　/.:::::ｒ"(　｀フ"´ /　,/.:/::: ｲ:.:.:.:ｒ'　※ ./｀Z,,:::,i
+    ｲ:i::::「(´ ／ｨ! ヽｲ' ／::;i:::/.:.:.:,イ.　　　/`ヽ、i,/　　　　 　　　 ひどいもんです
+    ::::::i:（(　　ｒヽ` /./'7:::.: !:.:.::イ／.　 　 /::::::::::iY:ﾐ
+    ::::::::〈(、 ,∧ヽ ,/ /::::.:'::::/.イ　※　,ノ::::::::::::::l:ヽヽ
+
+
+
+
+
+799 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 22:58:39 ID:lRm8DZKI0
+
+
+
+<strong>    自分の記憶が間違っていなければ、この人は教育を語っちゃダメな人だ</strong>
+
+
+800 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 22:59:15 ID:qFJHbIBA0
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　ヽ /＼'ｰ､　　　　　　　,, ..,､
+    　|　 （ ●）（ /　　.＼` ､　　 .　／／ /
+    .　|　　（__人/　　 　　＼ヽ､,.／／　../　　　そんなにか　どれどれ・・・
+    　 | 　　 ｀ /　　　　　　　｀`７７　 　/
+    .　 ヽ　　 /　　　　　 　 　 / /　　 /　　　　 うーん、別に気になる点はないなぁ
+    　　 ヽ.. /　　　　　　ｆヽ、/ / , -,./
+    　　　/./　　　 　r-､ ヽ　∨,ノ　/
+    　　　|. ＼　　　〈＼.＼,〉　｀,　 ｆ　　　　　　 ごく普通の教科書じゃないか？
+    　 　 |　.　＼　　(ヽ ヽ ｀..　　　|
+    　 　 |　　 　.＼　＼　　　　 　ﾉ
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,x-‐ ' ´￣ヽ￣｀　ｰ- ､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,...:':´: : : : :｀ヽ、 ※　ヽ　　　　 ｀
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　. ,.ｲ／: : : : : :l: : : :.ヽ、　　}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/ｲ:, : : i: :/: /'ｘ: :.i: : ﾍ ※ }　　　 ＿
+    　　　　　　　　　　　　　　　　　　　　　　　　いーえっ！　全然ダメですぅ！　　　　　　{' !:{: : :.l'/≦=;ｧヾ:}: : :.} 　 l:‐: ':´:.∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヾﾄ､_:}'´ {ﾘ_′ /: : /!※/: : : : : :.∧
+    　　　　　　　　　　　　　　　　　　　　　　　　足りないもんばっかじゃねーですか！ 　　　´ r'　　 _　 ,ｲ:.／ {　/: : : : : : : : :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　ヽ <´　) ' ´　　 !/: : : : : : : : : :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　 　 　 ＼¨´　...::_::: 〃-､r‐‐､: _: : :
+    　　　　　　　　　　　　　　　　　　　　　　　　発音・単語・文法・イディオム！　　　　　.　　　 　 　｀ ¨i;xｪｭヽノ／::::: ヽ´ ）: :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　 r‐‐､ 　 _《 {{ ,ﾀ{ /:::::::::::::::::::ゝ-､
+    　　　　　　　　　　　　　　　　　　　　　　　　そして何よりもー──！　　　　　　　　　　　 r' ヾ, ('７´､ ヾxﾀr'{::::::::::::::::::::::::ヽ ）
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 {､ヽ　/´ヽ　　 }{j 7}::::::::::::::::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　 〉二´ヽ　　　 iﾘ{{ゝ{:::/:::::::::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ゝ'´ノ　ヽｰ､ノ ゞ' r'{::::::::::::::::::::::::::
+
+
+
+
+
+801 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 23:00:56 ID:qFJHbIBA0
+
+
+
+
+
+    　　　　　　　　　　　　　/／　 ,､-―‐- ､_　　　　　＼.　　 ヽ
+    　　　　　　　　　　　 ／'.※／: : : : : : : : :.lヽ､　※　　＼.　　ﾍ
+    　　　　　　　　　　 / / .／/: : : : : : : : l: : l: : :＼　　　　ヽ　　 ﾍ
+    　　 　 　 　 　 　 /　l/: : /: :./: : : : : /l: :/ヽ: : : :ヽ　　　 丶　　 ＼
+    　　　　　　　　　/　/: : :.:l: :./: ､: : : /./:./.　ヽ:／: :ﾍ　※　 l　　　　,ゝ
+    　　　　　　　　 'ｰ-l:/l: : :l: :/从＼ノ /:/ __,.ｨ'´ヽ､_:.:l　　 　 l 　 ,ｨ'´　_
+    　　　　　　　　　　 l!l.ﾍ: /:/ｲ´ﾑ示 //　　 ,ｨﾑ示`' l:l　　 　.lｰ'|　 ／ .｀ヽ,　　　　　　　_人__人__人__人__人__人__人_
+    　　　　　　　　　 　 ﾉ　`/ヽﾄ 弋ソ/´ 　　　は::::::i//:l　.※　l: :! /　　 　 ∧　　　　 __,ﾉ
+    .　 ri .,､　　　　　　/ .※ l:.l`'ｰ ｀´　　,　　　 ゞ‐''／_:.l　　　　l:.l/ 　 　 　　 ',　　　　 ）.　　ユ ー モ ア が っ ！
+    ..i`!l l l l`!　　　　./　　　ﾍ:ヽ　　　　 　,､ ‐-､　 ￣l: :.l　　　　l:,′　　　　　 .l　　　　ｿ.
+    ..ﾍ`' `' ,ｨ'`ｰ､-／　　　　/ヽヽ　　,ｨ'´　　　 .i 　 .ｨ: :.:l　.※.　l!　 　 　　　　 l　　　　,）　　 足 り な い っ！！
+    　　l　 {j　　／　　※.　 /:::::ヽ!_｀_.ヽ　 　 　.ﾉ ｨ'´/:／!　　　 l!　　　　　　　.ﾘ　　　 ⌒ヽ
+    　,ｲ,.-{jｨ'／　　　　　／::::::::::（ i ゝ　.iｰ-‐'´ ´　／　 /　　　.,'　　　　　　　/　　　　　　⌒Ｙ⌒Ｙ⌒Ｙ⌒Ｙ⌒Ｙ⌒Ｙ⌒Ｙ
+    . `´／／　 .※.　 ／::::::::::::::く ﾉ〈　　l／　　　　　　./　※　/　　　 　 　 ./
+    ＜´／ 　 　 　 ／　｀'ｰ--j￣/ ﾉ ,ｨｽﾊ　　　　　　/　　　 / 　 　 　 　 ./
+    ..／　 ※　　／　　　　 /:ゝ / .ﾌ〃 ij!}ヾ,､　　　 /　　 ／/　　　　　.／ﾍ
+    　　 　 　 ／　　 　 　 /:.ﾉ / j´ .ij　iji ij､ 》　　 / 　 ./　､　　 　.,.ｨ.'´-､: :ﾍ
+    　※.　／　　　　　　/:.〈 ./ 〈　 .ゞ''"ij ij"　　 / ﾊ'`.ﾉ　　`ｰ　 ./　　　 l､: :ﾍ
+    　　／　　　　　　　/: ノ.　　 `'´` ,､‐ ' ￣｀'ｰ- ､ｨ'´　ヽ＿_　 /　　　　'.ヽ､: ﾍ
+    .／　　　　　　　　/: : ￣`'´`ｰ､.（　　　　　　　　 ヽ　　 　.／/　　 　 /　.l`ﾌ､:l!
+    　　　　　　　　　/: : : : : : : : :ﾍ三`ｰ--―‐ .' ‐､　　　　 /　,'　　　　/　 ﾉ､ゝ:l:.l
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／￣￣ ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 _,ノ　ヽ､,_　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 （○）（○ ） 　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 （__人___）　　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　・・・はい？　　 　　　'､｀⌒ ´　　u　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　　　　　　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ　、 　 　　ｲ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｨヽ-ー　≦ノ7
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_, ､ -― ''"....:::::::::::::::::::::::::::ﾄ、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/.::::::::::::::::::::::::::::::::::::::::::::::::::::::::........
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　丿.:::::::::::::::i::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+802 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:01:25 ID:V97smeVw0
+
+
+
+<strong>    ････う、うむ、確かにｗ</strong>
+
+
+803 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:01:36 ID:sUwLPztk0
+
+
+
+<strong><strong>    味噌が足りない、かと思ったｗ</strong></strong>
+
+
+804 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:02:00 ID:pB4WzoKA0
+
+
+
+<strong>    そりゃ、外国語会話が上手くなりたけりゃ、その国の恋人を作れとよく言われるがw、</strong>
+
+
+805 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 23:02:08 ID:qFJHbIBA0
+
+
+
+
+    　　　　 __
+    　　　_/ヽ ヽ　　　　　　　　　　　　　　　　　　　　ｨｰ､_
+    .　　/ ヽ(二`ﾘ 　 　 　 　　　　　 　　　　　　　　 /ﾉ`ﾆ)ｰ､
+    .　 〈 ヽ､ソ´ .ﾉ　　　　　 　 　 　　 　　　　　　　 l　 `ｰ´ノ!
+    　　 `i`´'r‐､lrﾍ　 　 　 ┏┓┏┓　　 　 　 　r十､_ﾉ`´ﾉ
+    　　 r'`ｰ'ｨ=`´ ゝ, 　 ┏┛┃┃┗┓　　　　.ノゝ＝`'´`j
+    　　 `ﾊ_,-､ rﾍノ､ 　 ┗━┛┗━┛ 　 　 ｨ'`ｰ､　,-､〈
+    .　　　 l　　´　　 l. 　 ┏━┓┏━┓ヽ 　 /　　 `´　 l`
+    　 　　 l　　 　　 l-‐.'.┗┓┃┃┏┛＊ヽ/ 　 　 　　/
+    　　　　l　　 　　 l　.,ｨ-‐┗┛┗┛:￣:｀ｰ､ヽ　　　　/　 　　ぬぁーんですか、
+    .　　　　l 　 　 　 l/: : :./__::／: /:./: :l:l: : : l:´',　 　 /
+    　　　　 ',　　　　 l: : :./:／Ｘ／／/://ヽ;.-l: :.:l 　 /　　　 　 この面白さのカケラもない文章は！？
+    　　　　　∨　　　l: : :.l'ｬ'ｨｫｭ＼ // /,イ､ヽl: : l　/
+    　　 　　/::ゝ,_,ｨ':´!: : :l `辷ソ ／　 弋:リ' l:: :/ /
+    　 　　 ,':l:::::::::::::::::ﾄ､: :ゝ､_ 　, -.､_　　｀´./／ノ　　　　　　　こんな砂を噛むよなお話読んでも、
+    　 　　,':::l:::::::::::::::::l　`´i＼. /.　　 l　　 ｨ'/￣ヽ
+    　　　,':::::l::::::::::::::::l ＊ l 　 ＼　　ﾉ ＜/ l:::::::::::ﾍ　　　　　　 アタマに定着するワケがねーでしょうが！
+    　　/ゝｲ´::::::::::::::,'　　 l　　 ヽ｀´　　 /　.l::::::::::::::ヽ
+    .　/: : ＼:::::::::::::/　　　l　 ,ｨ=仝=ｭ､. l ＊ヽ:::::::::::::::〉
+    ../: : : : : ＼:::::::l　.＊　l 〃 〃ﾐﾄ､ヾ l　　　ヽ:::::／
+    /: : : : : : : : `ｰ'l.　　　 l《__〃j .ij ヾ.`l　 ＊.　l'´:.:ヽ
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　　　　　 　　　　　 _______
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／　　　 ＼,-、__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　そうかなぁ？　　　　　　　　 　　　　　　　　　／_,ノ 　｀⌒　ヽ.,__　ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　(● ) （● ） ,.! ┴-'、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　 (___人___）　〉-‐‐´　l
+    　　　　　　　　　　　　　　　　　　　　　　　　　この、「願い事が３つ叶う魔法の箱」　 　　　.|　　　　　　 u 〉--‐´　l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.|　　　　 　　　iヽｿ　 　l
+    　　　　　　　　　　　　　　　　　　　　　　　　　の話なんか、結構面白いと思うんだが　　　Λ　　　　　　∧｀;"　　 '、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 __,. ｨ仏 ___、___ ｨ_ノﾍヽ、 _,.‐ｰ、_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_,. -= '''　.:::::::}:::::::::::::::::::::::／::::::::>´..:::::::.. ヽ｀.､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ノ´ ...::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::〈 :::::::::::::::...＼::ヽ
+
+
+
+
+
+806 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 23:03:07 ID:qFJHbIBA0
+
+
+
+
+
+    . 　 　 　 /　　　　イ: : : : : : : : : : : : : ヽ.｀ヽ　　　 ＼
+    　 　 　 /　 ／: : : : :/: : : : :/!、: : : :.､: : ヽ. ヽ.　　　ﾊ
+    . 　 　 /　,ｲ: : : :.:/:/: :.／:./:.i ヽ: :|ヽ:ﾊ/:/∧ハ　　　ﾊ
+    　 　 /　/: : /: :./:/:／/:.:///／∨　∨:/: :.∧.ﾊ.　 　 ﾊ
+    　　　ヽ,' /: i: : ,'｀＞､/／/イ　,===zxⅤ!: : :.:ﾊ/.　　　 ﾊ
+    . 　 　 ,':/:.:.:i: :.i ,==zx｀　　　〃ん:ﾊ　》 }: : : i: |　　 ､---
+    　　　 i/}: :.:.',:.〃 iﾉ:!:Y 　 　 　 ヒ:::ｿ〃/: : :,': :!_ﾆ=イ
+    　　　　 i:.:./ :.:ﾍ　ゞ=ｲ　,　　　 :::::: : , ': : :.:/ﾊ |　　　　　　　そのテの話を載せるなら、
+    　　　　ﾊ:/ヾ:.ヽ ::::::　　　　　 　 　 ムイ／,'_ｿ:!
+    .　 　 　 ﾘ∨.从　　 　 　 , ‐-､　　　　 ,'　 i<:. |　　　　　　　もっといいのがあるでしょ！？
+    　　　　　　∨　丶　　　 　 　 　 　 　 <　 i: :i:.:|
+    　　　　　　 iⅤ 　 ＞　　　　　　　イ:.:,'　 i: :.|ヾヽ
+    　　　　　　 i:.∨　 ∧ィ i ￣　爪　,'_: , 　 !: :.!　｀ヽ　　　　　『猿の手』とか！
+    　　 ,=く｀ヽﾆﾆ∨ 　 ﾍ　＼　　　　i, ヽ! 　i: :.:i
+    　　 i:::::ゞ廴_ﾊ　ヽ.　　ﾍ　 ｀ヽ、__/=----､==≠ｧ
+    　　 l:::::::::::::廴ﾊ　 ヽ/´二ニﾆ= O´¨¨¨ {　i!　廴ｿ
+    　　 i:::::::::::::::廴ﾊ　　!　{　　 ／,ｲ|ヾ＼__ｿ /　 廴{
+    　　 i::::::::::::::::::ゞ iヽ　＼ゝイ／ i .! ',｀ー- ' ',　廴ﾂ、
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣ ＼　　ノ（
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ､_, 　 _,.ノ　＼ ⌒
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 _ 　　　　　　　　　| （＝ ) （＝ ）　.|
+    　　　　　　　　　 ・・・オイコラ、そこのイギリス人　　　 　 　 　 　 　 　 　 　 　 |　! 　　　　　　 .　 |　（__人___）　 　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 |　!　　　　　　　　 |　 　　　　　U　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 　　　　　　　　　　　　　　　|　!　　　,.-,　　　　|　　　　　　　　|
+    　　　　　　　　　 「２００ポンドを願ったら、一人息子が仕事場の　　　.　 　 ._,ﾉ ┴ 、./ ,/　　　　 |　　 　 　 　　r
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 r　`-ｰヽ ） i　　　　　 .ヽ, _ ､___ ,.　'ﾄ
+    　　　　　　　　　　 機械で【ﾋﾟｰ】されてお悔やみ金が出ました♪」　　　　　　|　 ー、〉 /　　　　 _,,ﾉrj　 `　　　／ ト、,,,,_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.|　　r_,j　j__,,.. r''''"::::::::ミ二二::::::／::::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | 　 ）　ﾉ :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    　　　　　　　　　 なんてお話、教科書に載せたら苦情が殺到するわ！　　 ﾉﾆ-､　,/::;;|:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　√..:::;;; ヽ､〉;;;;|::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;;;;;
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /..:::::;;;;;;;;;;;;;;;〉;;;;;|::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;;;;;;;:
+
+
+
+
+
+807 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:03:48 ID:aw03nmDI0
+
+
+
+<strong>    イギリス人のユーモアセンスは黒すぎる……</strong>
+
+
+810 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:04:37 ID:pB4WzoKA0
+
+
+
+<strong>    まあ、モンティパイソンとマックスヘッドルームの国だしなw</strong>
+
+
+809 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 23:04:19 ID:qFJHbIBA0
+
+
+
+
+
+    　　　　　　　　　　　　　　-──-z=‐-
+    　　　　　　　　　　 , ィ´:::::::::::::::::::::::￣｀ヽ　＼
+    　　　　　　 　　 ／::::::::::∧:::::/￣｀ヽ:::::::::ヾ､ .＼
+    .　　 　 　　 　 /:::::::::::／ /:::/ 　 ﾉ　 ＼::::::::ヾ　.:＼　　　　 それに、英米の習慣についての
+    　　　　　　　 /::::::::::/　 /／ ￣´　　　 }:::i::::::}| 　　 〉
+    　 　 　 　　イ!::::::: /=='" 　 　｀ｰ=='''　|:/::: /.|　 ／　　　　紹介も気に入らんですぅ
+    　　　　　　　 |::::::::l///　r-､　/////　 !j ::/　}イ
+    　　　　　　　 ヽ:::∧.　　 |　 ',　　 　 　/:: /　 {i∧
+    　　　」⌒ｰ-z　ゞ､::ゝ､　廴　!　　＿,ノ;／　　.}:::::〉　　　　　クリスマスとかハロウィンとか、
+    　 　 廴＿ﾉ´　　ﾉV::} 　 rZ==ｰYz-､::::［　　 ﾉ::::廴
+    　　　 　　　　　人:::::ｿ　//介Yろ}　 }:::::{　　.{::::::::::::〉　　　　　　　　　　・ ・ ・ ・ ・
+    　　　　　　 　 　 ﾉ::::ゞ'/ <二ｸｰ’　/::::::廴＿}::::::::/　　　　 メジャーなつまらない行事ばっかり！
+    　　　　　 ヾ^ヽ__,〉:::::::｀ー=ﾂゝ一'"＼::::::::::::::::::::::｀７
+    　　　　　　 ＼:::::::::::／＼＿＞'": : :／ヽ:::::::::::::::::::::レ'ｿ
+    　　　 　 　　　｀ｰy"＼: : : : : : :.:.／: : : :}::::::::::::::::_y-'"
+    　　　 　 　　　　〈: : : : ヽ､＿_,／: : : : :./｀ー一'"
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／）￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／∠___ ヽ､,_　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ./ ／ ,-イ）（＝ ）!!! |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　・・・一応、聞いておこうか　　　　　　　 　.l /　/（__人___）　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .　l　　　', ｀⌒ ´　 u　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　他にどんな行事を紹介しろと？　　　.　　',　　　 ',　　　　　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 j　 　 ﾉ　　　　 　/|_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _∠⌒ヽ j,　_、___　ｨ／::＼__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　___／ ...:::::::::::ヽV￣￣￣:::::::::::::::::...´´''
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／::::／ ...:::::::::::::::::::: 〉::::::::::::::::::::::::::::::::::::::::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| ::／ ...:::::::::::::::::::::::: /;;;:::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+
+811 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:04:40 ID:aw03nmDI0
+
+
+
+<strong>    バカ歩き？</strong>
+
+
+812 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:05:15 ID:AKVIq6tA0
+
+
+
+<strong>    イギリスを代表する文化って女王陛下のあらゆるスキャンダル？かな？</strong>
+
+
+813 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 23:05:27 ID:qFJHbIBA0
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　,.ィ ´,ィ爪双尤'ｘ､_ヽ､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　, ィ ´ ,ィ爪爻爻爻爻爻x心､ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＜ _　ィ爻爻彡'´￣￣`弋爻爻x.ﾍ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 爪爻ﾉ´: : ／: ／: : /: l:ヾ爻ﾐ} ﾍ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヾ:.. 仄X}:／;イ: :／:／:./: /: :.:{爻ﾐ　∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`ﾐ辷三彡＜´／彡',/:, ' _; : :{爻ﾐ　 ∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　仄爻厂f'人ﾊ ´　／´二,__':.: {爻ﾐ}:ｒ―'
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 爪爻ﾀ' 弋Yノ　 　 　ィ:人ﾐ;ヾ:{爻X}:!
+    　　　　　　　　　　　　　　　　　　　　 「ウィッカーマン」なんか、どうです？　　　　爪爻从　/// 　＿__ 弋:Y:ﾂ　〉{X爻}:.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 爪爻ﾐ}:八　　　 ｌ 　　ｌ　///　/:.{爻爻!:
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　 从爻爻!: : :.ヽ　　|　　 | 　 　. ': :.{爻爻}:.i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　{爻爻爻!::l: : :; ｨ≧‐r-､‐ ＜´: : : {爻爻}:.:!
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　从爻爻ﾘ:.:l: :/:::}{ゞ介､ノ }i{':ヽ: : :从爻X}: :!
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.从爻爻ﾘ: : ／::_:}{,､,､}ji{､,､}{:::::::ヽ:.{爻爻X!: :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　从爻爻/: :..〉:（　｀;ﾐ＞＜Y⌒Y::::::`{爻X爻}: :i
+
+
+
+    　　　　　　　　　　 　　　　 ／￣￣＼　　　　　 ヽ＿,
+    　　　　　　　　　 　　　　／　ノ　　＼ ＼　　　　　ヽ(_／
+    　　　　　　　　 　　　　　|　 （◎）（◎）　|　　　　　 ) (
+    　　　　　　　 　　　　　　|　　（__人__）　 |　　　　 ノ (｀　　　　､__人__人__人__人__人__人__人__人__人__人_
+    　　　　　　　 　　　　 　 .| .u　|!i!i!i!i|　　.}　　　　´⌒＼　　　_）　　　　　　　　　　　　　　　　　　　　　　　 （_
+    　　　　　　 　 　 　 　 　 |　　 |i!i!i!i:|　　}　　　　　　　　　　　_）　　真っ黒いユーモアだなオイ！？　　 （_
+    　　　　　　　　　　　　　 ヽ 　｀ ⌒´ 　 }　　 　　　　　　　　　_）　　　 　　　　　　　　　　　　　　　　　　 　 （_
+    　　　　　　 ＿__._,r､　　　iヽ　　　　　ノ　　　　　　　　　　　　⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y
+    　　　　 ／｀ヽ_j'､_ノ￣l!'´ヾ-｀ ¨¨＿　{　..
+    　　　　∧　,ﾉ　 Yヽ: : : : : : : : : : : : : : : : : ヽ.､
+    　　　/-'´｢　ヽ　ヽｊ: : : : : : : : : : : : : : : : : : : : : : ヾ ､_
+    　　r'´, イ ヽ､ ｀,__,ｨ､__: : : : : : : : : : : : : : : : : : : : :: : : ｀ヽ
+    　 / ': : ; ﾄ､　 Yrイ: : : : : : : : : : : : : : : : : : ; : : : : : :: : : ',
+    　 ,:: : : ;;}､二ィ　}: : : : : : : : : : : : : : : : : : : | ＼　: :: : : : ﾍ
+    　 i: : : : : : : : : ｲ: : : : : : : : : : : : : : : : : : : | 　 |: : :: : : : :l　　【おしまい】
+
+
+
+    ※ウィッカーマン：でっかい人形に人間を入れて焼き殺すケルトのステキなお祭り。
+
+
+
+
+
+814 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:05:57 ID:atM3HD1.0
+
+
+
+<strong>    ああ、昔映画になってたアレかｗ
+
+
+<span style="color:#009900">    この会話の後、古い版のDVDを満面の笑みで貸してくれましたw</span> </strong>
+
+
+816 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:06:51 ID:aw03nmDI0
+
+
+
+<strong>    ガイ・フォークスとはまた違うんだけど、
+    イギリス人って燃やすの好きよね</strong>
+
+
+818 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:08:46 ID:AKVIq6tA0
+
+
+
+<strong>    ウィッカーマンはメガテンにでも出る残酷な悪霊
+    あんなもん祭っているのかｗｗｗ</strong>
+
+
+819 ：<span style="color:#990000"><strong><span style="color:#990000"><strong>名無しのやる夫だお</strong></span></strong></span>：2012/10/27(土) 23:10:35 ID:2u4Ygo1M0
+
+
+
+<strong>    真っ黒やんけｗ
+    流石イギリス人ｗ</strong>
+
+
+820 ： <span style="color:#009900"><strong><span style="color:#009900"><strong>◆ePj4HRjxK</strong></span></strong></span>.：2012/10/27(土) 23:11:29 ID:qFJHbIBA0
+
+
+
+<span style="color:#009900"><strong>    以上です。　
+
+    マジメな指摘もたくさん聞いた気がしますが、この話のインパクトが
+    大きすぎて覚えていないのですorz
+
+    植民地をあちこちに持っていた関係で、英語教育に関しては
+    世界最高クラスのノウハウを誇るイギリスですが、
+    ユーモアのセンスは、少し毒が強すぎるようで・・・w</strong></span>
+
+
+880 ： <span style="color:#009900"><strong>◆ePj4HRjxK</strong></span>.：2012/10/28(日) 21:26:03 ID:c2O3uIHY0
+
+
+
+
+    【即興蛇足：　アメリカ人よ、お前もか】
+
+
+
+    　　　／´　　　　　　　　　　　　　..,,:::::::::::::::::::...,ィ＜三ﾆ＼
+    　／　 　,　　　　　　　　....,..:::::　"´ヾ,,,::＜三三三三三三ﾆ＼
+    　　　　　　　　　......-‐'::::::::::ィ≦＼　　＼三三三三三三三三ﾆゝ
+    　　　　　　　／::::::::　ィ≦三三三ﾆ＼　　　＼三三三ﾆ-=´¨
+    　　　　　　　,　‐＜三三三三三三三＼　　　　＼ﾆﾆィ´
+    　　　　／:::::::::::::ﾐ 　`＜三三三三三三∧ 　 __,,　､''/　　　　　　 なるほど　ユーモアか
+    　　／:::::::::::::::::i｀ 、　,,,､ｪｷ"／''‐--_,, -i''´　}　　　 ' ,
+    　､:::::::::::::::::::/ 　　イ´´　ィ- ''"´　　 ･'　　　　 　 　 　＼
+    　　＼::::::::::/　　　　　　　　`‐--='''" 　 ／　 　 　 　 　 　 }　　　　確かに、勉強のモチベーション
+    ＼　　ﾊ::::/　　　　　　　　　　　　　　￣　　　　　　　　　　/
+    　　|　　',::　　　　　　　　　　　　　　　　　　　　　　 _...::／　　　 　　維持には必要だな
+    〟　　　　　　　　　　　　　　　　　　　　 　 　 　 ∠≦{
+    　"ヽ〃､_　　　　　　　　　　　 　 　 　 　 　 　 　 　 ノ　´ゝ
+    　　　　　　ゞ|､　　　　　　　　　　　　　　 　 　 　 ／}　　　ミ　　 　 しかし、ただ与えるだけでは能がない
+    　　　　ヽ',　ゝ,ｒ'|!,､　　 　 　 　 　 　 　 　 ,　 　i´　i´　〃　､,χ
+    ミ　　　　　　　ヽ　 x､π　　　 　 　 　 ‐" 　／ 　　{　　　　　て　　子どもに考えさせる内容のものがいいな
+    　　　　　　　　　　　-　　〈､　　　-=´ -‐''" 　 　　 |〉　　　 斗
+    ＞､　‐-　　　　　　　　　　ミ､　　　　　　　　　__,／/　　　　≦
+    　¨ミχ￣--　､　　　　　　　仆-≦i¨|,　　　　},　i./:　　　　､´
+    　　　￣'ヽ,　　　　"　　　　　　　"ゞ　 ゝ‐-＜/ ノ:.:.　　　x´
+
+
+
+
+881 ： <span style="color:#009900"><strong>◆ePj4HRjxK</strong></span>.：2012/10/28(日) 21:28:29 ID:c2O3uIHY0
+
+
+
+
+    　　　　　　　　　　　　　　　 そうだな、なぞなぞはどうだ？　　結構面白いものがそろっている
+
+    　　　　　　　　　　　　　　　 例えば・・・
+
+
+    　　　　　　　　　　　　　　　 “おじいさんとレーズンの違いは？”
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　 　 　 _,,..-‐'';;;;;;;;;;;;;;;;;;;;;;;;;;;;｀'-､,_
+    　　　　 ,　---　'"　　~　　　　　　　　　　　　　 ∨ヽ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヽ
+    　 , -'~　　,　___　＿＿＿,　,,,,　　 　 　 　 　 　 /,,,,　＼;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;＼
+    　(　 ,-ー'　　　　　　 　 　 　 　 　 　 　 　 　 /;;;;;;;;;,,,, 　 ﾍ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:＼
+    　 ~'　　　　　 ＿　　　　　　　　　　　　 _,,..-‐'':::::ヽ;;;;;;;;;,,, 　 ヽ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;＼
+    　　 //ヽ　　/　 i, -､　　　　　　　 , -'", -'"　;;/~ヽ:::;;､;;;;;;;;,,　　ﾍ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヽ
+    　　 ∨//ヽ i　／ 　,i　 　 　 　 ／／ ,,,-'""~( 7　;;;;'""｀ﾞ''-,,;;;;;,,,　 ヽ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|
+    　　　.∨///-"　 ／　　　　 ／／〃　　　　 .ヽi,　"　　　　,--､;;;;;;,,　 ヽ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;/
+    　　　　∨/　　,-'／ヽ,　　 /　i　〈　　　　　　　/　 　 　 　〈　　 ・､;;;;;;,,,,.☆--,;;;;;;;;;;;::;;;:::-'"
+    　　　　／_,,..-‐<　　/　 　.|　 .i　ﾊ　　　　　　ﾊ　　 　 　 　 "'-- ┘＼;;;;;;;;;;;;,,,,,,,,,,:/
+    　　　/,-'　　　　.ヽ/　　　/　　i　〃　　　　　　ﾍ　　　　　　　　　 -'　,/'~丶．;;;;;;;;;|
+    　 　 l_,,..-‐''" ヾ,　 ヽ--'"　/　.i　ヾ　　　　　　　i　　　　　　　　　 　 iヽ｀ - '"/ i
+    　　/　　＿__　　 ∨　　　　 ヽ　∨ヾ　　 　 　 　 i,　　ll　　　　 -､　　j　　　／　）｀'-､
+    　　ﾔ　　　 ﾉヽ 　 ）　　　　　　ヽヽ　冫　　　　　 ∧　 ＼　　　　 ￣　　 ／　 /　 　 |
+    　　 ﾔ　　〃　 ￣ ﾉ　ヽ　　　　　　ヾ　∨　　　　　.∧　　 ｀'-､,_, -　, -'"　　/　　　　ヽ
+    　　　ﾔ 　 　 　 ,-'　　 i　　 　 　 　 　 　 ＼　　　　　 ｀''-､,_ _,,..-‐''　　　　/　　　　　　＼
+    　/￣,ﾔ　"--'"　　　/　　　　＼ 　 　 　 　 ｀'-､　　　　　　　　　　　　　,-'　　　　　　　　 ヽ
+    ./　　　ヽ　　　　　 / ヽ　　　　　＼　　　　　　　　｀ﾞ''ｰ-､,_　　　　　, -'"　　　　　　　　　　　ヽ
+
+
+
+
+
+882 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:29:12 ID:68OvA.Tw0
+
+
+
+<strong>    食べて不味いか美味しいか？</strong>
+
+
+884 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:29:39 ID:WRdhfdjs0
+
+
+
+<strong> <span style="color:#0000FF">>>882</span>
+    おじいさん食べちゃだめー</strong>
+
+
+883 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:29:28 ID:hq2wvLMM0
+
+
+
+<strong><strong>    立つか立たないか？</strong></strong>
+
+
+885 ： <span style="color:#009900"><strong>◆ePj4HRjxK</strong></span>.：2012/10/28(日) 21:29:47 ID:c2O3uIHY0
+
+
+
+
+    ニ三三三三三三三三三≧ョｭ､
+    三三三三三三三三三三三三ﾖ≧､
+    三三三三三三三三三三三三三三ﾍ
+    三三三三三三三三三三三三三三ヨi
+    三三三三三三＞ﾆﾆﾆﾆﾆﾆﾆﾆ､三ヨ/
+    三三＞- ' "　　　　　 ,-'ﾍ,_____　.ヽ'"
+    -'"　　　　,　 - ' "　¨ ヽ--'　　　.｀ﾞ'i,
+    　　, - '"　　　　 ,,.ｭｮョ三三三三三::ﾍ
+    -'"　　　 ,...ｮﾖヨ三三三三三三三三ヨ＼
+    　,,..＜三三三三三三三三三三三三三::ﾍ
+    三三三三三三三三三三＞--::;;-､:::|-'"　　　　　　答えは───
+    ;;;;;;;＞-､三三三＞- ' "--ヽ　 ',　・i ',i
+    ;;;;;;;;;i　 ,='" 　 , ‐'"¨',　　　　　　ヽ,ﾉ　i
+    ;;;;;≠　ヽ　 r'´　 　 ’j　　　　　ヾ;-' ', .',　　　　　　　 “どちらもしわくちゃで前立腺がないが、
+    ;;;;;≠　　　 `----‐'"　　　　　　　　 i　i
+    :ヾ;;'　　　　　　　　　　　　　　　　イ７　i　　　　　　　　 レーズンには最初からない”、だ
+    　 ヽ　　　　　　　　　　　　　／,,　 /　 j
+    　　　　　　　　　 　 　 　 　 　 `ー' ,　,'
+    　,,　　　　　　冫　　　　＿,,　　-‐'"　iﾞヾｪ､,
+    ´　 ^'---,;ﾍ,　 ￣￣￣　　, -､　 　 ,,|｀ﾞ''､, ヾ
+    　　,,,　　 　 〃,,　, ,,..-‐'", ﾍﾍﾍ　, ; ﾉ〃y7
+    　''　 ;;　.,　,,　 ヾ,,ﾍﾍﾍﾍ ﾍ　', ',.',,イ::／／
+
+
+
+    【おしまい】
+
+
+
+
+
+
+    とある小説からの借用だそうです
+
+    こういうキワモノはともかく、英語のなぞなぞは非常に面白く勉強になるものが
+    たくさんありますので、実際に教育現場で活用されることもあるんだそうです
+
+
+
+
+
+
+887 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:30:34 ID:2ebTL0E20
+
+
+
+<strong>    前立腺ｗ
+</strong>
+
+888 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:30:40 ID:uh1Hba520
+
+
+
+<strong>    何故に前立腺ｗ</strong>
+
+
+893 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:35:23 ID:ze8YAhFQ0
+
+
+
+<strong>    乙
+    アメリカンジョークは分かりにくいのう…とりあえずシモネタなのは分かった。</strong>
+
+
+897 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:46:04 ID:UPigie9.0
+
+
+
+<strong>    最低の発想だ…！ｗ</strong>
+
+
+898 ： <span style="color:#009900"><strong>◆ePj4HRjxK</strong></span>.：2012/10/28(日) 21:47:30 ID:c2O3uIHY0
+
+
+
+<strong> <span style="color:#009900">ちなみに、>>1の感心した英語のなぞなぞをいくつかご紹介
+
+    ・What starts with `T`, ends with `T` and has `T` in it?
+
+    ・Which is slower, hot or cold?
+
+    ・Why does time fly?
+
+    ・What is the longest sentence in the world?</span></strong>
+
+
+903 ： <span style="color:#009900"><strong>◆ePj4HRjxK</strong></span>.：2012/10/28(日) 21:55:22 ID:c2O3uIHY0
+
+
+
+<span style="color:#009900"><strong><strong>    回答
+
+    ・Teapot　（tで始まりtで終わり、中にtea(=t)が入ってるものは何？）
+
+    ・Cold. Because you can catch it. (catch a coldで『風邪を引く』)
+    　　　　　　　　　　　 　　　　 ~~~~~~
+    ・Because so many people try to kill it. （kill timeで『時間をつぶす』）
+
+    ・Life sentence（終身刑。sentenceには『文章』と『服役』という意味がある）</strong></strong></span>
+
+
+905 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 21:56:39 ID:HDAihLh.0
+
+
+
+<strong>    やはり二重の意がある単語、音を捩って謎々にするんですね。
+
+
+<span style="color:#009900">    そうですね、同音（綴）異義語や成句を使ったものが非常に多いです
+
+
+
+    ・・・と、ここまでの小ネタが食卓の歴史とこれっぽっちも関係ない件orz
+    埋めネタと思って見逃していただければ、幸いです</span></strong>
+
+
+906 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 22:01:21 ID:hq2wvLMM0
+
+
+
+<strong><strong>    中のTってそー来たかｗｗｗｗ</strong></strong>
+
+
+907 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 22:02:25 ID:3j.f0g4o0
+
+
+
+<strong>    アングロサクソンは、スピーチの中に気の利いたユーモアの一つも入れられない人間は、
+    知性がないと思ってるから、そこらへん凄いんだよなあ。
+    まあいきなりスピーチしながらバカ歩きしたり「私はお金が好き！」とかミュージカルにしたりする連中は、
+    パイソンズ以外にはあまりおらんらしいが</strong>
+
+
+917 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 22:21:44 ID:sef2cbpA0
+
+
+
+<strong>    なるほど、俺の文法知識がいい加減なのがわかったｗｗ
+
+
+<span style="color:#009900">    気を使っていただいて申し訳ありませんorz
+    ネットで調べてみたら、答えのほうを“Hot is fater. Because～”とするバージョンもあるようです
+
+    お詫びに、とびきりくだらないものを一つ追加しておきます
+    ・What was the highest mountain in the world before Everest was discovered?</span></strong>
+
+
+919 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/28(日) 22:29:59 ID:WRdhfdjs0
+
+
+
+<strong><strong>    発見と客観的な事実は無関係だからEverestでいいのかな？
+
+<span style="color:#009900">
+    正解です。　こういうパターンの問題も結構あります
+
+    「ケネディをアーリントン墓地に埋めたのはなぜ？」　「死んだから」
+    「青い石を赤い海に投げるとどうなる？」　　　　　　「ぬれる」
+
+    ・・・どこがなぞなぞなのか、イマイチわかりませんが</span></strong></strong>
+
+
+
+
+
+
+
+
+<hr size="1"/>
+
+
+
+
+
+　　　　　　　　　イギリスのユーモアは毒が強すぎて
+　　　　　　　　　教育にはいかがなものでしょう
+
+　　　　　　 ／￣￣＼
+　　　　　／　　ヽ_　　.＼
+　　　　 （●）（● ）　　 ｜　　　 　　　　　＿＿＿_
+　　　　 （__人__）　 　 　 | 　 　 　 　 　 ／　　　 　 ＼
+　　　　　ｌ｀ ⌒´　　　　｜　　　　　　／─　 　 ─　　＼　　　　　　モンティパイソンこそ”教育”だろ
+.　　　　　{　　 　 　 　 ｜ 　 　 　 ／　（●） 　（●） 　　＼
+　　　　 　{　　　　　　 /　　　　　 | 　 　 （__人__）　　　　　|
+　　　　　 ヽ＿＿＿ ノ、 　　　　　＼ 　　 ｀ ⌒´ 　　　 ,／
+　　　 　／ 　　　　　　　ヽ　　　　　／ 　 　 　 　　 　 　 ＼
+　　　 　|　|　　　　 　|　　|　　　 　｜l　　　　　　　 　 ｜　｜
+　　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+　　　　　　　　　　　　　サッカーコラムとかでもイギリス人記者の文章は毒がある気がする
+
+
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=4061596055&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=4327451754&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=4569627749&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000J94SA0&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=4377405810&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B009A53JPY&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002MTS450&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5095/clap" id="fc2button-clap-5095" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5095").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/5.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5095/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶ食卓の歴史　ある英国人が語る、日本の英語教育の問題点" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5095.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5372.html">
+					やる夫で学ぶ食卓の歴史　こぼれ話　Fatal Manner (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5343.html">
+					やる夫で学ぶ食卓の歴史　こぼれ話　イスラム世界のテーブルマナー (2013/02/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5304.html">
+					やる夫で学ぶ食卓の歴史　こぼれ話　切れるナイフの食事テクニック (2013/01/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5288.html">
+					やる夫で学ぶ食卓の歴史　こぼれ話　おもしろ食器ピックアップ (2013/01/15)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶ食卓の歴史　ある英国人が語る、日本の英語教育の問題点 (2012/10/29)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5083.html">
+					やる夫で学ぶ食卓の歴史　やる夫と真紅の実用シルバーアンティーク (2012/10/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5081.html">
+					やる夫で学ぶ食卓の歴史　番外編２ (2012/10/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5075.html">
+					やる夫で学ぶ食卓の歴史　最終回　後編 (2012/10/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5061.html">
+					やる夫で学ぶ食卓の歴史　最終回　前編 (2012/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5050.html">
+					やる夫で学ぶ食卓の歴史　番外編 (2012/10/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5004.html">
+					やる夫で学ぶ食卓の歴史　その５ (2012/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4991.html">
+					やる夫で学ぶ食卓の歴史　その４ (2012/09/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4975.html">
+					やる夫で学ぶ食卓の歴史　突発ネタ　やる夫で学ぶクトゥルフソング (2012/09/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4968.html">
+					やる夫で学ぶ食卓の歴史　その３ (2012/09/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4949.html">
+					やる夫で学ぶ食卓の歴史　その２ (2012/09/10)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶ食卓の歴史　ある英国人が語る、日本の英語教育の問題点" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/10/29 03:58 ]
+<a href="/blog-category-403.html" title="カテゴリを参照">グルメ系　やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html#comment_list" title="この記事のコメントを参照">CM(46)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5095"
+    dc:title="やる夫で学ぶ食卓の歴史　ある英国人が語る、日本の英語教育の問題点"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html"
+    dc:subject="グルメ系　やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋"
+    dc:description="　　　　　　　　　　　. 　 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿    　　　　　　　　　　　　　|┏━━━━━━━━━━━━━━━━━━━━━━━━┓|    　　　　　　　　　　　　　|┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 ┃|    　　　　　　　　　　　　　|┃ 　　　ある英国人が語る、日本の英語教育の問題点　　　.┃|    　　　　　　　　　　　　　|┃　　　　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-10-29T03:58:12+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5100.html" title="ＳａＧａ ＦｒｏｎｔｉｅｒⅡ　やる夫で学ぶサンダイル史　四時間目　">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5094.html" title="やる夫がタロット占いを覚えるようです">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment46383">[ 46383 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本の英語教育にまず足りないのは質ではなく量
+>>800でBさんもさりげなく指摘されてますな<div class="comment_navi">
+[ 2012/10/29 05:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46385">[ 46385 ] <strong></strong></p>
+</div>
+<div class="comb">
+そもそも英語しゃべれる先生が足りてない気がするな<div class="comment_navi">
+[ 2012/10/29 06:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46387">[ 46387 ] <strong></strong></p>
+</div>
+<div class="comb">
+シドニー・シェルダンの小説のカセットテープが、昔、英語教材でで売られていたっけ
+<div class="comment_navi">
+[ 2012/10/29 07:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46388">[ 46388 ] <strong></strong></p>
+</div>
+<div class="comb">
+「やる夫たちで学ぶ英語の(sex)スラング」の人ー！！
+ 
+はやくきてくれー！！！！<div class="comment_navi">
+[ 2012/10/29 07:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46390">[ 46390 ] <strong></strong></p>
+</div>
+<div class="comb">
+高校の時の副読本がウッドストックだった件<div class="comment_navi">
+[ 2012/10/29 08:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46391">[ 46391 ] <strong></strong></p>
+</div>
+<div class="comb">
+なぞなぞや歌で覚える、ってのは他言語にもあるね。
+<div class="comment_navi">
+[ 2012/10/29 08:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46392">[ 46392 ] <strong></strong></p>
+</div>
+<div class="comb">
+England＝"イギリス"　って言ってる時点でダメだと思うね
+日本人が「アナタイギリス人でしょ？」のつもりで「You re English」って言って、
+何人のスコティッシュ、アイリッシュ、ウェルシュが傷ついていることか（マジで
+日本が外国人から中国の一部だと思われてるのと同じレベルだぞ<div class="comment_navi">
+[ 2012/10/29 09:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46396">[ 46396 ] <strong></strong></p>
+</div>
+<div class="comb">
+単語をたくさん覚えさせられるのはいい。
+でもヒアリングが貧弱だから、せっかく習った言葉も
+実際には聞き取れない所が悲しい。<div class="comment_navi">
+[ 2012/10/29 10:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=46396" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46398">[ 46398 ] <strong></strong></p>
+</div>
+<div class="comb">
+イギリス人やアメリカ人のブラックユーモアセンスには日本人はどうあがいても追いつけんな
+どんだけ真っ黒なんだよｗｗｗｗｗ<div class="comment_navi">
+[ 2012/10/29 10:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=46398" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46410">[ 46410 ] <strong></strong></p>
+</div>
+<div class="comb">
+さあ、サウスパークで本場のアメリカ英語を学ぼうか＾＾
+ジョークがいっぱいだよ＾＾
+ 
+とりあえず罵詈雑言は上手くなるぜ。<div class="comment_navi">
+[ 2012/10/29 14:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46413">[ 46413 ] <strong></strong></p>
+</div>
+<div class="comb">
+うちの英語教師(日本人)がアメリカで聞いてきたジョーク
+ 
+Q「目のないシカを何という？」　A「わかんない」
+ 
+(NO　IDEA　と　NO　EYE　DEER)<div class="comment_navi">
+[ 2012/10/29 15:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46415">[ 46415 ] <strong></strong></p>
+</div>
+<div class="comb">
+どんどん英語教育は酷くなっている気がする。
+会話重視のテキストになっているけど、もちろん最初は幼稚園児レベルの会話文。
+なのにテストでは前置詞や複数形のS等を厳密に採点する。
+何で初等レベルの英語で厳密な文法を要求するんだ？だったらきちんと文法から入ればいい。<div class="comment_navi">
+[ 2012/10/29 15:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">(´・ω・｀)</a>') } else {
+document.write("(´・ω・｀)"); }
+</script>
+<noscript>
+<a href="" target="_blank">(´・ω・｀)</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46424">[ 46424 ] <strong></strong></p>
+</div>
+<div class="comb">
+猿の手は高校で読ませられたな
+教科書さっさと終わらせて文学教科書に勉強してたなぁ<div class="comment_navi">
+[ 2012/10/29 17:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=46424" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46427">[ 46427 ] <strong></strong></p>
+</div>
+<div class="comb">
+紙芝居が一番いいと思うけどね。地の文、会話文があってストーリー主体にしやすい。
+ＮＨＫのリトル・チャロとかよかったと思う。
+でも紙芝居って日本の独自文化なんだよね。量が足りない。<div class="comment_navi">
+[ 2012/10/29 18:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46431">[ 46431 ] <strong></strong></p>
+</div>
+<div class="comb">
+戦争、人種差別、階級社会……、ギャグと見せかけて扱うネタが割とガチ。
+それがモンティ・パイソン。<div class="comment_navi">
+[ 2012/10/29 19:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=46431" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46432">[ 46432 ] <strong></strong></p>
+</div>
+<div class="comb">
+ヴィットマンに教育されたい･･･
+<div class="comment_navi">
+[ 2012/10/29 20:34 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46435">[ 46435 ] <strong></strong></p>
+</div>
+<div class="comb">
+
+>会話重視のテキストになっているけど、もちろん最初は幼稚園児レベルの会話文。 
+>なのにテストでは前置詞や複数形のS等を厳密に採点する。 
+>何で初等レベルの英語で厳密な文法を要求するんだ？だったらきちんと文法から入ればいい。
+ 
+韓国とかどうやってるんだろ？
+北米留学が日本より盛んで、刑務所でも英語教育をしているという国 <div class="comment_navi">
+[ 2012/10/29 20:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46438">[ 46438 ] <strong></strong></p>
+</div>
+<div class="comb">
+新任駐仏武官が難しい交渉を任されることになり、仏語が下手だったものだからこれが近道と思って美女を恋人にした。
+ 
+ラブラブで仏語も上達し交渉も成功したが、お堅い会議場で話していたのはオネエ言葉だったという笑い話があったな。<div class="comment_navi">
+[ 2012/10/29 21:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46444">[ 46444 ] <strong></strong></p>
+</div>
+<div class="comb">
+確かに興味のない単語なんぞ覚えんわな
+厨房が必要に駆られて英語なんぞやるとは思えんし
+マジで覚えさせたいなら興味をそそらせないとダメなんだろうな<div class="comment_navi">
+[ 2012/10/29 22:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46447">[ 46447 ] <strong></strong></p>
+</div>
+<div class="comb">
+猿の手といえば「オーソンウェルズ劇場」で、そのネタの話をやっていたなあ・・・
+ 
+リアルタイムで観てましたw<div class="comment_navi">
+[ 2012/10/29 22:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46456">[ 46456 ] <strong></strong></p>
+</div>
+<div class="comb">
+　モンティ・パイソンは○人ジョークが好きだったなぁ。
+ミュンヘン会談直後のチェンバレンがヒトラーのサイン入り紙切れを取り出している映像に、「戦前の英国のジョーク」ってキャプションつけてたので吹いた。<div class="comment_navi">
+[ 2012/10/30 04:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46459">[ 46459 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46435
+一応、カリキュラム組んで教育の時間はとっているんだけど・・・。
+肝心の教本がハングルという表音文字に訳されてしまうので、通り一遍の授業ではどうにも覚えにくい
+という構造上の問題がある。
+日本人の感覚で例えると、英語の教科書や英和辞書の解説文が平仮名オンリーという状態に近いので、
+よほどやる気と根気のある学生でないと理解できない。
+だから学校以外、塾とか英会話スクールなんかで優秀な講師がみっちりコーチングして、かろうじて
+ネイティブと意思疎通できる程度の英語力が身につくレベルになれる。
+ 
+こうやって他のクラスメイトより小マシな英語力をつけた子はアメリカ留学し、習うより慣れろで
+英語力をガンガン伸ばしていくんだけど、カタコト英語を話して他人に笑われるのを嫌がるという、
+よく言えばシャイでナイーブ、悪く言えば自意識過剰な国民性もあって、ドロップアウトする子も多い。
+こういう子たちは留学先の学校でも、英語ができない移民子弟とかが入る特別クラスに集められ、
+同じ韓国出身者どうしでグループ作って、学校内外で母国語をしゃべって暮らしているのが実情。
+ 
+日本もあの中高英語授業の指導内容では、あまりエラソーなことは言えないんだけど、
+ともあれ外国語教育は本場の人と話しまくって経験値を増やすのが一番いいよ。<div class="comment_navi">
+[ 2012/10/30 07:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46467">[ 46467 ] <strong></strong></p>
+</div>
+<div class="comb">
+イギリスの呼び方はアメリカ人もよくわかってなかったな。<div class="comment_navi">
+[ 2012/10/30 10:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46468">[ 46468 ] <strong></strong></p>
+</div>
+<div class="comb">
+England, Britain and the United Kingdom are used interchangeably and confusingly in the U.S.
+ってばっちゃが言ってた。<div class="comment_navi">
+[ 2012/10/30 10:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46531">[ 46531 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本の英語の教科書会話は死語が多いって漫画あったけどどうなん？<div class="comment_navi">
+[ 2012/10/30 20:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46556">[ 46556 ] <strong></strong></p>
+</div>
+<div class="comb">
+まあ、そうかもね。
+「This is a pen.という英語はありません」
+って記述を読んで、なるほど！って思ったよ。
+ 
+確かに
+「これはペンです」
+「わあっとるわ！」
+ってなるのがオチだわなｗ
+ 
+文法の勉強にはまるっきり間違ってないけれどもｗ<div class="comment_navi">
+[ 2012/10/30 21:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46575">[ 46575 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46531
+とにかく固いアホみたいに固い
+日常会話系は特に
+下手すりゃ単語１つでキャッチボールできるのをテンプレ文に当てはめてるから、あっちの人が聞く分にはまどろっこしいと思うところあるんじゃないかな<div class="comment_navi">
+[ 2012/10/30 23:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46604">[ 46604 ] <strong></strong></p>
+</div>
+<div class="comb">
+This is a pen. なんてあくまで初歩の「例文」だからなあ。
+日本語だって「ススメ ススメ ヘイタイ ススメ」なんて言わんわｗ<div class="comment_navi">
+[ 2012/10/31 11:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46664">[ 46664 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本の英語は論文を読み書きするための英語だからね
+大学入試の英文問題は向こうの高校生が読んでても違和感が無いレベルらしい
+ 
+言語は書＞読＞喋の順で難しいから、ちゃんと高等教育レベルの英語をマスターしてればあとはヤル気さえあれば喋れるようになるよ<div class="comment_navi">
+[ 2012/11/01 11:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46694">[ 46694 ] <strong></strong></p>
+</div>
+<div class="comb">
+会話もいいけどさ、やっぱ日本人としては敬語の使い方をマスターしたいよね。
+ 
+Would you～で始めればいいとか、なんでもSirをつければいいとかそういうことじゃないんだろうね。たぶんｗ
+ 
+いくらプリーズをつけても命令は命令だから、使い方には気をつけてねっていうのを見たなあ。
+ 
+<div class="comment_navi">
+[ 2012/11/01 23:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46695">[ 46695 ] <strong></strong></p>
+</div>
+<div class="comb">
+ｒとｌを発音できないっていっつも言われるけどさ、
+それってそんなに大事なのかね。
+ 
+中国語じゃあるまいし、ライスとしらみの違いぐらい
+文脈で把握できんか？一つの文章に出てきても区別できると思うんだがなあ。
+ 
+アメリカ人ってのはその程度の類推もでけんくらいのアホなのか？ｗ
+ 
+日本人は外人が橋と箸の発音間違えようが眉ひとつ動かさずに受け答えできるのが当たり前じゃないのか？ｗ
+いちいち外人の発音の揚げ足取るようなことはしないべさｗ<div class="comment_navi">
+[ 2012/11/01 23:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46698">[ 46698 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46695
+そういうこという奴って、学校教科書レベルの勉強すらしてない奴だからほっとけ
+勉強しないですむ言い訳が欲しいだけなんだよ<div class="comment_navi">
+[ 2012/11/02 00:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46700">[ 46700 ] <strong></strong></p>
+</div>
+<div class="comb">
+そもそも一番足りてないのは単語と熟語だよな
+文法をどうこうするのは幼児に日本語教えるのに最初から「てにをは」覚えさせるのと同じだと思う。
+文法なんて後回しにしたってそのうち理解できるわ<div class="comment_navi">
+[ 2012/11/02 01:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46708">[ 46708 ] <strong></strong></p>
+</div>
+<div class="comb">
+留学して今は英会話教室を経営してる人いわく、会話はそれこそ単語ひとつやスラングで済ますのが普通だからそれを意識して練習しないと無意味らしいな。その辺が全然わかってない人が多いと。
+俺も受験英語の延長で読み書き文法しかやらなくて会話はさっぱりだから耳が痛かったわ。<div class="comment_navi">
+[ 2012/11/02 10:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46715">[ 46715 ] <strong></strong></p>
+</div>
+<div class="comb">
+ああそうか。
+植民地が多いってことは、他言語圏に自国言語を教える機会も多かったってことだもんな<div class="comment_navi">
+[ 2012/11/02 17:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46756">[ 46756 ] <strong></strong></p>
+</div>
+<div class="comb">
+This is a pen.の一発ギャグで大人気だったコメディアンが大昔いたんだよ・<div class="comment_navi">
+[ 2012/11/03 14:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=46756" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46757">[ 46757 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46695
+フランス語だと「資本論を読む」が「資本論を笑う」になってしまう<div class="comment_navi">
+[ 2012/11/03 14:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=46757" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50490">[ 50490 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46695
+大丈夫。類推して受け答えしてもらえるよ。
+その代わり「アタマが足りないヤツ」「学習能力の無いヤツ」という評価が下されてハブられるかカモられるだけ。
+ 
+一期一会の相手ばっかりだったらいいんじゃないの？ｒとｌの区別が付けられなくてもさ。
+ 
+ま、がんばれ。それもアンタの人生だ。<div class="comment_navi">
+[ 2013/01/15 16:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50500">[ 50500 ] <strong></strong></p>
+</div>
+<div class="comb">
+ウィッカーマンがダメなら、落語の『一眼国』を英訳して載せればいいんじゃないかな？（棒）<div class="comment_navi">
+[ 2013/01/15 19:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50572">[ 50572 ] <strong></strong></p>
+</div>
+<div class="comb">
+ウィッカーマンは劇場で見たぞｗ
+よくあんなもんリメイクしようと思ったもんだｗ<div class="comment_navi">
+[ 2013/01/17 01:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50690">[ 50690 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46695
+大抵普通に受け答えしてくれるっつの
+ネットで嫌な目にあったって話だけご丁寧に切り抜いて壮絶な被差別気分に浸ってる奴多すぎ
+バカにする奴らもいるのは当然
+日本でだってニコとかで外人のカタコト日本語を草生やして囃し立ててる阿呆がいるだろ
+どこの国にも普通の人とＤＱＮがいるってだけだ<div class="comment_navi">
+[ 2013/01/18 20:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50696">[ 50696 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46700
+ 
+インドやアフリカの多言語社会だと、幼少時から言葉の違う近隣と、
+身振り手振りや相手の反応見ながらのコミュニケーションを踏まえて、複数の言葉を習得するという。
+ 
+日本の英語教育は、文章の翻訳中心。
+<div class="comment_navi">
+[ 2013/01/18 21:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52106">[ 52106 ] <strong></strong></p>
+</div>
+<div class="comb">
+まあ、Wikipediaでアングロサクソンを
+調べれば分かるけど、ヨーロッパでは
+野蛮と言われたゲルマン人の血が入って
+いるんだから、下ネタは好きなんだろｗ<div class="comment_navi">
+[ 2013/02/05 05:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69334">[ 69334 ] <strong></strong></p>
+</div>
+<div class="comb">
+主力戦闘機の名前を癇癪女とかつけるセンスだからなあイギリス
+日本なんて隼とか疾風とかかっこつけまくりなのに<div class="comment_navi">
+[ 2014/01/17 15:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment73753">[ 73753 ] <strong></strong></p>
+</div>
+<div class="comb">
+世界の罵詈雑言は結構興味深いよね
+ファックサインみたいなジェスチャーは日本にはないんだよな
+クビや地獄へ落ちろは何か違う気が
+ 
+<div class="comment_navi">
+[ 2014/08/08 15:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しのグルメ</a>') } else {
+document.write("名無しのグルメ"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しのグルメ</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5095" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment77802">[ 77802 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46438
+ジョークどころか、ドイツの名宰相ビスマルクなんかも複数ヶ国語を喋れたけど、家庭教師が女性だったから女性言葉になってたという話だし。
+某書籍で紹介されてた話だと、日本語学会の教師やってる人の友達（外国人）は、見た目はいかつい兄貴って感じの男なのに、恋人の女性から日本語覚えた影響で「このお紅茶美味しい～♪」とかオネエ言葉で話すってのも載ってた。<div class="comment_navi">
+[ 2015/02/12 16:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無し++</a>') } else {
+document.write("名無し++"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無し++</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=77802" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5095.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5095"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5095-b134b929">http://oyoguyaruo.blog72.fc2.com/tb.php/5095-b134b929</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5100.html" title="ＳａＧａ ＦｒｏｎｔｉｅｒⅡ　やる夫で学ぶサンダイル史　四時間目　">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5094.html" title="やる夫がタロット占いを覚えるようです">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

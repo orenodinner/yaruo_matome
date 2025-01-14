@@ -55,7 +55,7 @@ def main(input_path):
 
 # 使用例
 print("リネーム開始")
-directory = "C:\\Users\\oreno\\Documents\\yaruo_matome\\test"
+directory = "C:\\Users\\oreno\\Documents\\yaruo_matome\\yaruo_matome"
 
 all_paths = get_alldir_paths(directory)
 print("取得したパス一覧:")

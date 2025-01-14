@@ -1,0 +1,897 @@
+<div class="article">
+
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; /.　　　　 　 　 　 　....:::.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;:;:;::;;;;;;;;;;;;;:;:;:;:;:;:;:;;;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;:;::;::;;:;:;: |. 　　　　　 　 　　 　　|;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;
+;;:;:::::;::;::;::::;::::;:::;::;::;:::;:::;::;:::;:::;::;::;:;::;::;::;:::;::;::;::;::;:::;:::;::;:;::::::.............. 　 　 　　　...;::;::;:::;::;:;::;::;::;:::;::
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ　　　　　　 　　 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼　　　　　　　 ／
+:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;` 　 ー ─ ':;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+　　 ／ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／
+　／＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿__／.／
+　|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿.|／／
+　|　　　　　パー速町駅前支店　　　　　Ｍａｒｔ　『ｱｲｱﾝ ﾒｲﾃﾞﾝ』 　 　 |／／!
+　|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣.|／..:::|
+　￣|￣|￣￣￣￣￣￣￣￣￣|￣|￣￣￣￣￣￣￣￣￣￣￣|￣|￣ 　..::::|
+　　 |　 ||　 ／　 ／　　　　　 　 |　 |.　　　　　　　　 　 　 　 　 　 |　 | 　 　..::::|
+　　 |　 ||／　 ／　　　　　 　 　 |　 ||￣￣|￣￣￣|￣￣￣|￣￣|　 | 　 　..::::|
+　　 |　 ||　 ／　　　　　 　 　 　 |　 ||／ 　|／／　 | 　 　　 | 　　 |　 | 　 　..::::|
+　　 |　 ||／　　　　　 　 　 　 　 |　 ||＿＿|／ 　　 |　 　 　 |＿＿|　 | 　 　..::::|
+　　 |　 ||　　　　 ┌┬─┐　 　|　 ||＿＿|￣￣￣|￣￣￣|＿＿|　 | 　 　..::::|
+　　 |　 |||￣￣￣￣￣￣￣|＿＿_.||／／|￣￣￣|￣￣￣|／／|　 | 　 　..::::|
+　　 |　 ||| ┌─┐┌─┐./οο/|||／　 |　 　 　 |　 ／／|／　 |　 | 　 　 ／　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+　　 |　 |||.. |.. 　｜..|　　..|...|￣￣| .|||　 　 |　 　 　 |／／　 |　 　 |　 | 　 ／:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+　　 |　 |||=============|..ｺﾞﾐ..|. |||　 　 |､____ ／|／_____､|　 　 |　 | ／　　　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+￣￣￣￣￣￣￣￣￣￣.l----l,ｲ￣￣￣￣￣￣￣￣￣￣￣￣￣:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:
+:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;　　　　　　　　　　　　　　　　　　　　　　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
+:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;　　　　　　　　　　　　　　　　　　　　　　　　　　:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:; 
+
+
+
+
+
+
+
+
+
+35 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:40:04 ID:yw6DOT7g
+
+
+
+
+    ┌──────────────┐
+    │　　　　　　　　　　　　　　　　　 　 　 │
+    │　　　 　 　 　 　 　 　 　 　 ＝＝＝ 　|
+    │　　　　　　　　　　　　　　　　　　　 　 |
+    │　　　　 　 ＝＝＝＝＝＝ 　 　 　 　 |
+    │　　　　　　　　　　　　　　　　　　　 　 |
+    │ 　 ＝＝＝＝＝＝＝＝．　　　 　 　 |　　　　　　　店内清掃のため
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|　　　　　　　AM　00：00　～　AM　06：00　まで
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|　　　　　　　閉店させていただきます
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|
+    │ 　 ＝＝＝＝＝．　 　 　 　 　 　 　 │
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|
+    │　　　　　　　　　　　　　　　　　　　 　 |
+    │　　＝＝＝＝＝＝＝＝＝＝＝＝ 　|
+    │　　＝＝＝＝＝＝＝＝＝． 　 　 　 |
+    │　　　　　　　　　　　　　　　　　 　 　 │
+    └──────────────┘
+
+
+
+
+
+
+
+
+
+    　　　　　　　　　 ＿＿＿＿＿＿
+    　　　　　　　　／　　　　　　　　　＼
+    　　　　　　 ／　──　　　　──.　＼
+    　　　　　／　,r'"￣"'､　　　,r'"￣"'､　＼
+    　　　 ／　　 !　 ○ 　l 　　 !　 ○　 l　 　＼
+    　　／　　　　ゝ､＿,.ノ　 　 .ゝ､＿,.ノ　　 　 ＼
+    　　|　　　　　　 　　 ＿_´＿_　　　　　　　　　 |
+    　　|　　　　　　 　　|　　　　　|　 　 　 　 　 　 |
+    　　＼　　　　　　　 l　　　　　l.　　　　 　 　 ／
+    　　　 ＼　　　　　　￣￣￣￣ 　　　　　 ／
+    　　　 ／　　　　　　　　　　　　　　　　　 ＼
+
+
+
+
+
+36 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:40:38 ID:yw6DOT7g
+
+
+
+
+    　　　┌──────────────────────────────── ──　─
+    　　　└────────────────────────── ──　─
+    　　　┌──────────────────── ──　─
+    　　　└──────────── ──　─
+    　　　┌──────── ──　─
+    　　　└── ──　─
+
+
+
+
+
+
+    | 只　只　只..ﾞ| |ﾞ..只　只 //　|| 只　只　只..ﾞ| |ﾞ..只　只 //　|..:::|　|　 | / / /　..| 　|
+    |.|| || || || || ||ﾞ[| |].|| || || || || ||ﾞ||.}::::{ }::::{. }::::{ﾞ[| |].}::::{. }::::{ }::::{ﾞ|..:::|　|　 ￣￣￣￣　 |
+    |.|| || || || || ||...| |. || || || || || ||ﾞ||.}::::{ }::::{. }::::{...| |. }::::{. }::::{ }::::{ﾞ|..:::|:::|| ＿＿＿＿...　 |
+    |二二二//二 | | 二二二二二||二二二//二 | | 二二二二二|..:::|　| |. 関係者 .|.◎|
+    | 貝　 .// 貝 .| | 貝　貝　貝..ﾞ|| 貝　 .// 貝 .| | 貝　貝　貝..ﾞ|..:::|　| |　 以 外　|. 　|
+    |.|| || || || .|| ||..| |.|| || || || || ||...||.|| || || || .|| ||..| |.|| || || || || ||...|..:::|:::||.|立入禁止|. 　|
+    |.|| || || || .|| ||..| |.|| || || || || ||...||.|| || || || .|| ||..| |.|| || || || || ||...|..:::|　|　￣￣￣￣ 　 |
+    |.二二二二二二二二二二二二二二二二二二二二二二二.|／　 ￣￣￣￣￣￣
+
+
+
+
+
+
+    　　　　　　　　　　　　　　　　／／:.:.:.:.:.:.:ﾍﾐ /:.:.:.:.:.:.:.:.:.:ヽ:.:＼
+    　　　　　　　 　 　 　 　 ｰ=彡:./.:.:/.:/:./:..,ﾍ/､.:ヽ:.ヽ:.:ヽ.:.ヽミ|
+    　　　　　　　 　 　 　 　 　 　 |:|.:.:.|:.:|.:.:|i:.|ミ彡|:::|:::::|::::.:|:.:.:|彡|
+    　　　　 　 　 　 　 　 　 　 　 |:|:.:.:|.:|.:.:.|:.:|　　 .|:::|:::::|.:.:.:|:.:.:|ノ:|
+    　　　　　　　　　　　　　　 　 |:|.:.:.{=|＝|=|､　　|=|＝ﾄミ:.ト､|:.:.:|
+    　　　　　　　　　　　　　　 　 |:ヽVx≠=ﾐ ｀'^　ﾘｘ＝=ﾐ/::::/:.:.:.:|
+    　　　　　　　　　　　 　 　 　 |:.:.:.:Ｙ .ヒり　　　　 ヒり ﾉ／}:.:.:.:.:!　　 　 たはーッ！
+    　　　　　　　　r"　　　　　　 |:.:.:.|人　　　　;　　　u　/:./ｲ.:.:.:.:.|　　　　やっとワックスがけ終わったわ
+    　　　　　 　 （　　　=‐' 　 　 |.:.:.:|.:.:.ヽ　　r_-っ　　 /:.:.|.:.:.:.:.:.:.:|
+    .　　　　 　 　 ゝ-'　 　 　 　 |:.:.:.:|:.:.:.:|ヘ､ 　　　 .イ:.:.::.!:.:.:.:.:.:.:.:|　　　　こういうのって普通、業者に頼むもんじゃないの？
+    　　 　 　 　 　 　 　 　 　 　 |:.:.:.:|:.:.:,:| 爪　￣　|ト!:.:.:.::}.:.:.:.:.:.:.:.:|
+    　　 　 　 　 　 　 　 　 　 　 |:,／ヽ､:!/ー-＿　ー_}｀ソ　＜:.:.:.:.:|
+    　　　　　　　　　　　　　　　「.}}　　　 |二　--　二_!　　　　 ｱ!7:|
+    　　　　　　　　　　　　　　 /! }}　　　 ト　´￣｀丶_ﾘ　　　　///!:|
+    　　　　　　　　　 　 　 　 /. ヾﾍ　　　|　　 　　　　}　　　 ///:::ヽ
+    　　　　　　　 　 　 　 r―}　 ヾﾍ　 　 l　　　　 　 l　　　.///::::::::}
+
+
+
+
+
+37 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:41:12 ID:yw6DOT7g
+
+
+
+
+    　　　　　┏━━━┓
+    　　　　　┃\ 　 　 .┃
+    　　　　　┗┯┯━┛
+    　　　　　.|￣￣￣|＼
+    　　　　　.|　 　 　 |／￣￣￣￣￣￣￣／|
+    　　　　　.|￣￣￣￣￣￣￣￣￣￣￣|　 |
+    　　　　　.|　　　　　　　　　　　　　　　　|　 |
+    　　　　　.|＿＿＿＿＿＿＿＿＿＿＿|／ 　 　 　 　 　 　 　 ／＼
+    　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ／ 　／
+    　 　 　 　＿＿　 rz､　_ - ―- ― - ．f:izｨ―‐z　　　　　　＼／ ／>
+    　 　 　 　`ヽメ＼|ﾏィ ´　　　_ 　ｰ -　彡≦三←､　　　　　　　 <／
+    　 　 　 　 ≫三イ ミ=　　 ￣　　　　　 、ヾ. ＼　　　　　　　　 ┌─┐
+    　 　 　 ／／¨7 　 　 /　 ,　　 l| 　 l}　　',　',＼＼　　　　　　　└─┘
+    　 　 ／／　　}　　　 ,'　 /　l|　l|`ﾄ､l|　l　l}　'.　＼＼
+    　 ／／　　　 |　 　.: |　卞二士{　l `ﾒ士ｾl　l|　　＼＼
+    ／／　　　　 ,′　.:　|　 代 { ﾘヾ､j/{:fﾖz:ﾊ/l′　 　 ＼＼　　　　ハッハッハ　そりゃぁ無理ってもんです
+    ＼{ヽ　 　 　/　　.: 　j　 lﾍ ￣ 　 "　ゞ=ﾁ　|　　　　　　ﾑｲ
+    　 ＼＼ 　./　　.:　　Ⅵ.::ゝ ""　　 ′""j　 !　　　　　／ノ　　　　この店は超ドレッドノート級のケチですからね
+    　 　 ＼＼'　　.:　 　 ,rzⅦ、　 　 ワ .ィ　　 !　　　 ／／
+    　 　 　 ＼＼.::　　 （ iゝ‐ｚ ＞ｘ 　イ　|:. 　 ﾍ　 ／／ ＿_
+    　　 　 ./__＼＼　　 〉￣ﾄ　辷ﾗ七彡 :!::.. 　 ﾊ　￣￣７ /
+    　　　 ハ￣￣￣`ｰ"-: :ヽﾆユ辷ﾗｿ､．-―ｚ､ﾊ　 　 / /
+    　　 ,'{／￣`Ｙ: : : : : : : : : : : : ゝ:Yr=x: : : : : ﾑ '. 　./ /
+    .　 /く＿ : : └──z: : : : : : : : :《ｨ泌>: : : : ヾ､ﾊ / /
+    .／　 .〉: ＼: : : : : : :∧: : : : : : : :.ゞXｲ: : : /￣: ｽ　〈
+    　　 .: ＼: : `ｰ─: : :.ノ＞─～ｰ､＿: 〉ｰく: : ／:ノ＼＼
+    　 ..::　 ム: : : : : : :イ／: : : : : : : : : :￣）: :ヽ: : く 　:. ＼＼
+
+
+
+
+    　　　　　　　　　　　　　 　ヘ 　 　ヘ
+    　　　　　　　　　　　　／:.:.:.:.:∨/:.:.:.:.:＼:.:｀ヽ
+    .　　　　 　 　 　 　 /´:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:｀ヽ:.:＼
+    .　　　　 　 　 　 ／:.:.:.:/:.:./:/ミ彡:ヽ.:ヽ:.:.:.:.:＼:.ﾍ
+    　　　　　　　 　 {:.:.{.:.:.:|:.:.:l:.:!　　　!:.l:.:.:.!:.:.:!:.:.:.}彡i}
+    　　　　　　　 　 i:.:.:!＝l＝l=|　　　|=l＝l＝|:.:.:.:!／i
+    .　　　　 　 　 　 Ⅵ:{ 行示ﾐ 　 　/行示ﾗ:}从ﾉ:.:.:.:
+    .　　　　　 　 　 　 i:.:.:!弋乂　 　 　 弋乂ﾑ:.:l:.:.:.:.:.:.　　　　　　反論の余地が一ミリたりとも無いわー…
+    .　　　　　 　 　 　 i:.:.:｝　　　　,　　　　　/:.:.丿.:.:.:.:.:.
+    .　　　　　 　 　 　 |:.:.:ﾍ　　 　 _　　 u. /:.:.:/.:.:.:.:.:.:.:.:.　　　　　とりあえず、開店少し前まで寝ておきましょ？
+    .　　　　　 　 　 　 |:.:.:.:i:ヽ　　 　 　 　/.:.:.:.{:.:.:.:.:.:.:.:.:.:.
+    .　　　　　 　 　 　 |:.:.:.:i;;;;;;;＞-　 ＜´{:.:.:.:..!:i:.:.:.:.:.:.:.:.::.
+    　　　　　　　　　　乂从;;;;l::::::::::}　　　ヾ:.:从:!.:.:.:.:.:.:.:.:.::.
+    　　　　　　　　　　　　　乂:.:.:／＿　　/:.:.:.:.:ト--　　、.:.:＼
+    　　　　　　　　 　 　 ／:.:.:.／´=＝=｀/:.:.:.:.:/......／／｀ヽ:.:.:ヽ
+    .　　　　　　　 　 　 /:.:.:.:.:/ {.............../:.:.:..:,ｲ...／／　　　}:.:.:.:.:.＼
+    　　　　　　　　　 　{:.:.:.:.:.{.　i............/{:.:.:.:.:{／／.　　 　 /:.:.:.:.:.:.:.:.＼
+
+
+
+
+
+38 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:42:07 ID:yw6DOT7g
+
+
+
+
+    | //　| //　| |￣￣￣|＼--l　　　　　　　　　　＿＿＿
+    |￣￣|￣￣| |＿＿＿|　 ／￣￣￣￣￣￣／／／／|
+    | //　| //　| |＿＿＿|／＿＿＿＿＿＿_.|￣￣￣|／|
+    |￣￣￣￣　　　　 　 　 　 　 　 　 　 　 　 ￣￣￣|　 |
+    |　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 |　 |
+    |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|／::
+
+
+    　　　　　　　ｒｔｧｘ＜　　　 　 　 　 　 ＞ｘｔ}-‐= ミ
+    　　 ／「三彡'　　　　　　　 　 　 　 　 　 ＼＜〉__ ＞
+    　∠ =ｧ'　 /　　　　　　　　　　　　　　 　 　 ヽ　 ＼_
+    　 　 /　 ,/　　　/ ,　　　 　 　 　 　 　 　 　 　 不「￣
+    . 　 厶ィ7.:　　 / /　　　　　　　 　 　 ｌ　i　　　　ト ` .
+    　　　// {　　　| i　'　　　/ 　　　 ｨ　/l　l }　l 　 |　＼＼
+    .　　//　ﾊ　!　i|-┼- ､ｉ {　　 //厶ｲ/ //　;　, .:|　　 '.　'
+    . ／.′/ ∧ﾄｘ！ｬ芯ミ灯 　ｨ/{「r7/}/ｒ},イ　//!{　　 / /　　　　　ときに涼子さん
+    彡'　 / /　从{ヾ{代zrｿ`ヾⅣ　込ヾｖｿ/ / 厶' /　／／
+    　　 / /　/ ∧ ドヽ￣　　 　 　 ` ==彡ｨｸ/ 　 j／／　 　 　 　 　 私、オナラが出そうなのですが　──…
+    .　 / /　,　/　/{圦　　　　　'　　　　　 /ｊ/　　 '／
+    ／　'　〃,　 / /、_＼　　　￣　　　／ 　 ,　／ｨ′
+    ／　／ /　/ /　jハ＜`ト　 _　 ＜ｨ７′/ // /
+    . ／　 /　/　'　/ rtﾍ　｀￣ヽr ⌒ 厶ｘｲ　{ {/　　　 _
+    ⌒＾＞ｘ,/　'　/　 〉: : ＼　　 ＼ 斗彡/　: 〈　 ｘ≦: :
+    ﾊ: : : : : : :＞ｰ=彡: ＼ : : 丶／: : : ｘ个ｰ气 く: : : : :
+
+
+
+
+
+
+
+
+    　　　　　　　　　 　 　 　 　 　 　 _　 -=／: : :ヽ ／ ＼
+    　　　　　　　　 　 　 　 　 　 ,ｘく: :___／: : : : :', ﾄ､:,､: : :＼__
+    　　　　　　　　　　　 　 　 , ': :.／: : : : : : : |: : l:|:'´::ﾊ: : : : :.ﾍ
+    .　　　　　　　 　 　 　 　 /: : :.i: : '..|:l: :|: : |:|: : l:|｀￢ Y: :',: :',:ﾑ
+    　　　　　 　 　 　 　 　 /ヽ_:./: :.i: :|:l: :|: :_r===:|　　　|:i.. |: :.',:ﾑ
+    　　　　　　　　　　　　/',::::::7: :...|: :|:l: :|: :./L;ノﾘ　 　 j..}_:!: : :i: ﾑ
+    　　　　　　　　　　　　∨: : |ﾊ: :.|: :|:Ｌﾘxfﾃ示'′ 　 _⌒ヾ: :ﾊ}: |:l
+    　　　　　　　　　　　　 {＼: !,-L:{_:.|::|　`夊:ﾘ　　 　 f芯/-:'i: :.ｌ:|ﾘ
+    　　　　　　　　　　　　 |: : ｀i (|:::::::::: |　　　　　　　 ､ゞ' ':::::::}:./ﾘ　　 　 　 うん
+    　　　 　 　 　 　 　 　 j: : : :乂l::: : :: |　　　　 　 　 ′｜: :.}'´
+    　　　　　　　　　　 　 ':|:.i :.|: : :',: : : :l　　　　 ー_,- 　 从::::! 　 　 　 　 　 屁でもクソでも　勝手にひり出せばいいと思うの
+    　　　　　　　　　　　 i: |:'.::::l: : : ',. : :l:|、　　 　 　 　 ｲ::::|: /
+    　　　　　 　 　 　 　 |: }: .::::l: ',::::＼:.lﾘ...＞ 　 　_／:::::: ,':/
+    　　 　 　 　 　 　 　 |./.::::::::l: :.',:::::ﾑj',............./´:::::::::::::/ｲ　　　　　　　　　 可能な限りエレガントに
+    .　　　　　　 　 　 　 }'..::::::::::∨: ',::::ﾑ..',......../＜:::::::::::::::::{
+    　　　　　　　 　 　 /x-､ ≦ヽ',: :ヾ:::ﾑ.ヽ....l.........＼:::::::::::!､
+    .　　　　　　 　 　 /'′,　　　￢､: : ＼ﾑ＿............__,.V:::::ﾑ ＼_
+    　　　　　　　 　 /:{　 i　　 :i　　 丶: : : ﾑ.......｀..´........',:::::::ﾑ､,ハ
+
+
+
+
+
+39 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:42:43 ID:yw6DOT7g
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ＿
+    　 ＿ .．-‐- ､f::!y ．-‐ ― ､ - ―‐ ､f:Y7-‐・ ≪
+    　 ¨ 二ニ＝=≫ｲミ=＝　　　 　 ＝=彡ﾏニ二彳
+    　　￣￣￣￣ﾌ,　　　　　 /　　 　 　 　 ﾊ＼＼
+    　　　　　 ／/ /　　 ./　 ,′ 　 ﾊ　　　　 ﾍ. ＼＼
+    　　　　／, ｲ　{　 ﾊ/{ 　 | ＿　:l| |　 !　ﾊ　 ',　 ＼＼
+    　　 ／／　.!　lｌ　| l| ＼ l| ⌒i!　! !　l|　　}　 |.　　 ＼＼
+    　／／　　 |　.|l :l|≧トx`ﾄ､　l}　|斗也l　lj　 l|　　　　＼＼
+    .｛X_ ＿_　 j　 NⅦ≠ﾐxヾ }メ≦≠zxl从ﾘ 　l|　　　　　ﾑｲ
+    . ｀￣7〃 .ﾊ　　 ﾊヾ弋ｿ 　　 ∨f卮}〃:::.　 ﾊ　　 　 /〃　　　　オナラに火を点けるって
+    .　　/ /　/　　 .::ﾄﾍ　　　　:i　　ゞ=ﾒ/ｦi:::::.　 ﾊ.　　 /〃
+    　 / /　/　　 .:::::::ﾃﾍ　　　　　　　 /‐ｭi::::::.　　 ,　 /〃　　　　　 一度、やってみたいと思いませんか？
+    . / /　/ 　　.::.:::rt～z＞　´ ｀　＜_r‐ｲ7:::::.　　 ∨ /
+    / /　/　　 .::.::::::Vテ7~￣｀ヽr─‐ｲr'"/::::::::..　　/ /
+    {.ﾑ 宀‐- ､_::::::::::＼:`ー―z `Y´￣: ｲ､::::::::::... / /ーｚ､
+    ＼＼: : : : : ￣｀´￣: : : : : :.し': : : :／: ｀ｰ―‐{ ｨ: : : :ハ
+
+
+
+
+
+
+
+
+    　　　　　　　　　 　 　 　 　 　 　 _　 -=／: : :ヽ ／ ＼
+    　　　　　　　　 　 　 　 　 　 ,ｘく: :___／: : : : :', ﾄ､:,､: : :＼__
+    　　　　　　　　　　　 　 　 , ': :.／: : : : : : : |: : l:|:'´::ﾊ: : : : :.ﾍ
+    .　　　　　　　 　 　 　 　 /: : :.i: : '..|:l: :|: : |:|: : l:|｀￢ Y: :',: :',:ﾑ
+    　　　　　 　 　 　 　 　 /ヽ_:./: :.i: :|:l: :|: :_r===:|　　　|:i.. |: :.',:ﾑ
+    　　　　　　　　　　　　/',::::::7: :...|: :|:l: :|: :./L;ノﾘ　 　 j..}_:!: : :i: ﾑ
+    　　　　　　　　　　　　∨: : |ﾊ: :.|: :|:Ｌﾘxfﾃ示'′ 　 _⌒ヾ: :ﾊ}: |:l　　　　 　 　 ,'´￣￣｀',
+    　　　　　　　　　　　　 {＼: !,-L:{_:.|::|　`夊:ﾘ　　 　 f芯/-:'i: :.ｌ:|ﾘ　　　　　　　ｌ 　 ：　　 ｌ
+    　　　　　　　　　　　　 |: : ｀i (|:::::::::: |　　　　　　　 ､ゞ' ':::::::}:./ﾘ　　　 　 　 ∠.　　：　　 ｌ
+    　　　 　 　 　 　 　 　 j: : : :乂l::: : :: |　　　　 　 　 ′｜: :.}'´　　　　　　　　　 ヽ 　 ﾟ　ノ
+    　　　　　　　　　　 　 ':|:.i :.|: : :',: : : :l　　　　 ー_,- 　 从::::!
+    　　　　　　　　　　　 i: |:'.::::l: : : ',. : :l:|、　　 　 　 　 ｲ::::|: /
+    　　　　　 　 　 　 　 |: }: .::::l: ',::::＼:.lﾘ...＞ 　 　_／:::::: ,':/
+    　　 　 　 　 　 　 　 |./.::::::::l: :.',:::::ﾑj',............./´:::::::::::::/ｲ
+    .　　　　　　 　 　 　 }'..::::::::::∨: ',::::ﾑ..',......../＜:::::::::::::::::{
+    　　　　　　　 　 　 /x-､ ≦ヽ',: :ヾ:::ﾑ.ヽ....l.........＼:::::::::::!､
+    .　　　　　　 　 　 /'′,　　　￢､: : ＼ﾑ＿............__,.V:::::ﾑ ＼_
+    　　　　　　　 　 /:{　 i　　 :i　　 丶: : : ﾑ.......｀..´........',:::::::ﾑ､,ハ
+
+
+
+
+
+40 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:43:27 ID:yw6DOT7g
+
+
+
+
+    | 只　只　只..ﾞ| |ﾞ..只　只 //　|| 只　只　只..ﾞ| |ﾞ..只　只 //　|..:::|　|　 | / / /　..| 　|
+    |.|| || || || || ||ﾞ[| |].|| || || || || ||ﾞ||.}::::{ }::::{. }::::{ﾞ[| |].}::::{. }::::{ }::::{ﾞ|..:::|　|　 ￣￣￣￣　 |
+    |.|| || || || || ||...| |. || || || || || ||ﾞ||.}::::{ }::::{. }::::{...| |. }::::{. }::::{ }::::{ﾞ|..:::|:::|| ＿＿＿＿...　 |
+    |二二二//二 | | 二二二二二||二二二//二 | | 二二二二二|..:::|　| |. 関係者 .|.◎|
+    | 貝　 .// 貝 .| | 貝　貝　貝..ﾞ|| 貝　 .// 貝 .| | 貝　貝　貝..ﾞ|..:::|　| |　 以 外　|. 　|
+    |.|| || || || .|| ||..| |.|| || || || || ||...||.|| || || || .|| ||..| |.|| || || || || ||...|..:::|:::||.|立入禁止|. 　|
+    |.|| || || || .|| ||..| |.|| || || || || ||...||.|| || || || .|| ||..| |.|| || || || || ||...|..:::|　|　￣￣￣￣ 　 |
+    |.二二二二二二二二二二二二二二二二二二二二二二二.|／　 ￣￣￣￣￣￣
+
+    　　　　　　　　　　　　　　　　　　　_　　 　 , 、　　　 　 　 ＿//
+    　　　　　　　　　　　　　　 　 　 ／: :＼─/: :＼ __　　　 　 // ＼／
+    　　　　　　　　　　 　 　 　 ,. : ´/: : : ∧V∧ : : : : ヽ_.、　　 　 ／＼
+    　　　　 　 　 　 　 　 　 ／ / ./: :i: :/ヽ∨/ｉ |: : :|.: :i: :ヽ.
+    　　　　　　　　　　　　 /,: : i: ::|: : |! i ｀￣´ | |i : :|:: :|: : |_:.
+    　　　　　　 　 　 　 　 | |: : l: ::|＞ﾋﾕ 　 　 '|ｦﾃ ﾒ､/: :i |＿i
+    　　　　　　 　 　 　 　 | |: : |: :匕斗ﾐ 　 　 行丐ミ､l_/: |二}
+    　　　　　　 　 　 　 　 Ll､__ﾄ､_fんﾊ}　 　 　 hひﾘﾉｉ : : |彡〕　　　　　───　　やるかッ！！
+    　　　　　　　　　　 　 　 　 |: ::i ゞ-ﾟ'　 ´　　´￣｀　| : : |∨:|.
+    　　　　　　　　　　 　 　 　 | | :.　　　 r─ ｧ　　　　| : : |.ﾉ: |:i
+    　　　　　　　　　　 　 　 　 | | 人　　　 ｰ 　 　 　 ,:| : : |: : :l |
+    　　　　　　　　　　 　 　 　 | |′:|i::...、　　 　 . ィi :ﾘ : ｉ:j.: :|: :|
+    　　　　　　　　　　 　 　 　 l∧ : ||:: :ｉ|｀ ｰ　´　 |:!/: ;ｲ/: : |ｉ :|i
+    　　　　　　　　　　　　　　　'|/＼!! : |l　　 　 　 |7／:/: : : ||:.:||:i
+    　　　　　　　　　　　　　　　/:/ : ヽ:/j　　 　 __/´}／: : : : j:!: ||:|:i
+    　　　　　　　　 　 　 　 　 /:/ : /://＞─＜ /.／: : : : : :/'￣V|:|
+    　 　 　 　 　 　 　 　 　 _.: / : /://／ ￣＼//.: : : :／: / ／　∨
+    　　　　　　　　　　 　 / |i .: : :∨.i ／￣＼//.: : : :/: : / / 　 　 〉
+
+
+
+
+
+
+    　　　　　　　　　　　　　　- ―　､―‐ -
+    　　　　　 　 　 rt=z ／´　　　　　　　　　 ヽ＿
+    　r=＝＝=ミ　_ゞYｿ　　　　 ,　　　　　　　　 ゞミ=＝＝＝＝=z
+    　ヾ;､　　　　＞≫7|ミニ ／ 　 　 　 ､　　　　　ヽ＼　 　 　 /7
+    .　　｀＼　／メ∠/::! 　 / 　 　 ＼ 　:l}　 ヽ　　　‘，ﾞ 　 　 /7
+    　 　 }7／ 才/／!:/ 　/　　　ﾊ　:}＼ﾊr=;､ｌ|:!　 　 }ト　　 / ′
+    　　// ￣　 イ　 ﾚ　.八_rt､.l:| -/イ/ヽr≠从　　 八 　 〃
+    .　//　　 　 /　　　.: : :///｢从=＝ﾐ ′ {泌7从イく　　〃　 　 ＿　　　　よっしゃ！！
+    　{:(　　　 ノ　　　.: : :〈〈〈 { |　 xwx　　, ヾﾒﾊ: : :l| :ﾊ　 {{ 　／　⌒ヽ
+    　ヾ＼／　　　／: : .:人＿　＼ ､―‐ ,　 ｨ　 トﾐ:l|: : }　 し　　　　　}ﾉ
+    -‐イX} 　 .:＜:r=＝＝くヽ. ＼ ヽ ￣ ／ ′/:}: :V:ノ　　　　　　 ／
+    . ／／　.: : : :/~⌒~¨｀ヽ∧ﾐ　＼}｢不八_,ノイ : :ﾊ　　　　　　／
+    /／　.: : : : :∧: : : : : : : : : : :》-く_;))ｽ∧: : : |: : : :l　 　 　 ／
+    !′ .: : : : : : :∧: : : : : : : : :7/: : : : :}薔∧ : :V:. : :| r 一 ´
+    ゞ;､ : : : : : : : :∧: : : .:x≦Z/: : : : .:ﾑ>く_∧: .:V: : K
+    : :ヽ＼: : : : : : : .:ゞ=く: :〃:{: : : : : :{-く<ノﾉﾊ: :.V: :トミ＝＝=ﾐ､
+    : : : ＼＼: : : : : : : /:|∧: :.:!: : : : : :|: : ｀¨ヾ＼::ﾉ: :': : :}　＼　　ヾ＼
+
+
+
+
+
+41 ：<strong><span style="color:#990000">普通の名無しさん</span></strong>：2012/08/11(土) 02:43:49 ID:FEC.QmQ2
+
+
+
+<strong>    やるのかよw</strong>
+
+
+42 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:43:53 ID:yw6DOT7g
+
+
+
+
+
+    　　　　　　　　　　　f´￣￣￣￣￣￣￣￣￣￣￣￣￣ ｀ヽ
+    　　　　　　　　　　　|　　さぁ、ばらしー
+    　　　　　　　　　　　|　　お尻をこっちに向けて　──
+    　　　　　　　　　　 _乂＿＿＿＿＿＿＿＿＿＿＿＿＿_ ノ
+    　　　　　　　　　　　　　　　　 　 f´￣￣￣￣￣￣￣￣￣￣￣￣￣￣ ｀ヽ
+    　　　　　　　　　　　　　　　　　　|　　あぁん、そんな　恥ずかしい…
+    　　　　　　　　　　　　　　 　 　 _乂＿＿＿＿＿＿＿＿＿＿＿＿＿＿_ ノ
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 /~） /~）
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 　 　 　 ＿＿　　　　　 　 　 　 /／ /／
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　　　　 ／　　 　 ＼:::...　　　　　o 　 o
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 　 ／ ＼　　／　 ＼::...
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃| 　 　 ／ （●）　 （●）　　＼...
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|.　　　|　 　　　´　 　　　　u　|::.
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃| 　　　＼　u.　⌒ 　　　　　／::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 .／　　　　　　　　　ヽ::::...
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 |　　　　　　　　　　　|::...
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 | 　 i　　　　　　　　l .|::...
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 |　　|　　　　　　　　| |:......
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　 |　　|　　　　　　　　| |..
+    　　　　　　　　　　　　　　　　　　　　　　　　　:::::::┃|　　　（__ソ　　　　　　　丿_ｿ..
+
+
+
+
+
+43 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:44:40 ID:yw6DOT7g
+
+
+
+
+
+    　　　 　 f´￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣ ｀ヽ
+    　　　　　|　　涼子さん、私…　もう我慢できません
+    　　　　　|　　出ちゃいそうです　──…
+    　　　　 _乂＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿_ ノ
+    　　　　　　　　　　　　　　　　f´￣￣￣￣￣￣￣￣￣￣￣￣￣ ｀ヽ
+    　　　　　　　　　　　　　　　　|　　フフッ、いいわ
+    　　　　　　　　　　　　　　　　|　　すぐに火をつけてあげる…
+    　　　　　　　　　　　　　　　 _乂＿＿＿＿＿＿＿＿＿＿＿＿＿_ ノ
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |　　＿＿＿＿__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| | ／　　　::::::::::::::＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |＿　 (● ）::::（● ）＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |＿）///　 __´___　// |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |（⌒ヽ 　　`ー'´..:::::ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |:::ヽ　　､::::　　 　::::<
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |:::　 ヽ ＿＿　　　 ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |
+
+
+
+
+
+44 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:45:06 ID:yw6DOT7g
+
+
+
+
+
+    　　　　　　　 　 ＿ 　　/:::::〉
+    　 　 　 　 　 　 |::::|.　 /:::::/
+    . 　 　 　 ｌ⌒l　 |::::|　/::::∠_
+    　　　　　|:::::|　 |::::| ..ﾌ:::::／
+    　　　 　 |:::::|　 L丿:::::／
+    ...　　　　|:::::|　／::::／　　 　 _
+    .　　　　 |::::::ｨ''::::／　 　 　 /::|
+    .　 　 　 |:::::::::／.　　　　　 |::::|
+    ..　　　　|::::::/　　　　,､　　ﾉ::::L..___　 　 ､__人__人__人__人__人__人__人__人__人__,
+    　　　 　|:::::|　　　　/::::ｰ::':::::r‐''"　　　_）　　　　　　　　 　 　 　 　 　 　 　 　 　 （_
+    　 　 　 |:::::|　　　　|:::::ﾉ:::ﾊ:::|　　　　　_）　　熱ぢぃぇぁぁぁぁぁぁぁッ！！　 　 （_
+    .　　　　|:::::|　 　 　 ７::::.//:::|　 　 　 　 ）　　　　　　　　 　 　 　 　 　 　 　 　 　 （
+    .　　 　 |:::::|　　　　/:::::/ |:::::|　　　　　 ＿⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒
+    ....　　　|:::::{　　　 /::／　 ゝ'　　　　＜:::::::::::..＼
+    　　　　|:::ノ　　　j／　　　　　　　　　　￣＼:::::::〉　　　　　　　　　　　　　　　　　 | |　　＿＿＿＿__
+    　　　　　　　　　　　　　　　　　　　　　　　　￣　　　　　 　 　 　 　 　 　 　 　 　 | | ／　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　　.,___　　　 　 　 　 　 　 　 　 | |＿　 (○ ）　（○ ）＼
+    　　　　　　　　　　　　　　　　　　　／:ー――――'::::::::}　　　　　　　 　 　 　 　 | |＿）　 　　__´___　　　|
+    　　　　　　　　　　　　　　　　　 ／:::::::::::::::::::::::::::::::::::::／ 　 　 　 　 　 　 　 　 　 | |（⌒ヽ 　　`ー'´　　ノ
+    　　　　　　　　　 　 　 　 　 　 /::::／￣￣￣￣￣￣　　　　　　　　　 　 　 　 　 | |:::ヽ　　､::::　　 　::::<
+    　　　　　　　　　　　　　　　　　￣　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 | |:::　 ヽ ＿＿　　　 ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |
+
+
+
+
+
+45 ：<strong><span style="color:#990000">普通の名無しさん</span></strong>：2012/08/11(土) 02:45:12 ID:Q0VeXuU.
+
+
+
+<strong>    こらぁｗｗｗ</strong>
+
+
+46 ：<strong><span style="color:#990000">普通の名無しさん</span></strong>：2012/08/11(土) 02:45:26 ID:BesSpPbo
+
+
+
+<strong>    まじかよｗｗ</strong>
+
+
+47 ： <strong><span style="color:#009900">◆08T8EOtaSs</span></strong>：2012/08/11(土) 02:45:56 ID:yw6DOT7g
+
+
+
+
+    :.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+    . . . . . . .＿ . . . . . . . . . . . . . . . .＿＿＿＿＿＿＿_
+    :.＼ 　 ｲ:.:.:ﾄ.. .＿＿.. ...　.　.／.::|:─└　─└　─:.
+    ::.:. ＼/::::::::ヽ..|:.:.:.:.:.l . 　 ／::／:|:└　─└　─└::
+    ::.::.::.　｀l‐...‐..┴..‐.┴‐.r'::.:. ..:..:.:|:─└　─└　─:.
+    :.:.:.::.:: . |:::.::.:.:..:.:.:...:.:.:.:..:|:..:.:..:. .:. |:└　-＿＿_‐ └.:
+    ::..:.:.:　 ,!￣￣￣￣￣~.t、ヽ:..:.:.:|.:.:l.:.:i:.|[l[l[l[l|:.:.─:.
+    :.:..:.／ 　 　 　 　 　 　 　 ＼.､ . |:.:.:..:.i::|[l[l[l[l|:.:..:l.:
+    :／　　　　　　　　　　　　 　 ＼_|.:.:..::.i::|. 　 {}|:..:..‐.:.:.
+    　　　　　　　　　　　 　 　 　 　 ￣￣ヽ!lニコ|￣￣~
+
+    　　　　　　　　　　　　　　　　 　 ,.　-─-　 、
+    　　　　　　　 　 　 　 　 　 　 ／　　　　　　 ＼
+    　　　　　　　　　 　 　 　 　 /　　　　　　　　　 ｀、
+    　　　 　 　 　 　 　 　 　 　 l 　　　　　　　　　　 l
+    　　　 　 　 　 　 　 　 　 　 l 　　　　　　　　　　 l　　　　　　　　　 　 ┌─────────────┐
+    　　　　　　　　　　　　 　 　 ､　　　　　　　　　 /　　　　　 　 　 　 　 │　まるで意味がわからない　　　│
+    　　　　　　　 　 　 　 　 　 　 ＼　＿＿＿　／　　　　　　　　　　　　└─────────────┘
+    　　　　　 　 　 　 　 　　　 　 　 /:::::::::::::::::::ﾄ,
+    　　　　　 　 　 　 　 　 　　　 ／ ￣￣￣￣ ヽ;,､_
+    　　　　　　　 　 　 　 　 __,,.／""　:::::::::::::: ' ,:::::::::::::ヽ,、
+    　　　　　　　　　　　／　..::＼　..:::::::::::::::::::::::::i:::::::::::::: !:::ヽ
+    　　　　　　　　　　/　.:::::::::::::::　:::::::::::::::::::::::::::::|::::::::::::: i::::::.`　　　 　 　 　 　 ┌────────────────┐
+    　　　　　　　　　 l ;ノ:::::::::::::::: l:::::::::::::::::::::::::::::::|::::::::::::: !::::::::::i　 　 　 　 　 　 │　そう思いつつ、大人しく帰路につく　....│
+    　　　　　　　　　く　 :::::::::::::::::::: !:::::::::::::::::::::::::::::!:::::::::::: ｲ::::::: {　　　　　 　 　 │　僕であった　──…　　　　　　　　　　.│
+    　　　　　 　 　 　 l　::::::::::::::::ヽ;;|:::::::::::::::::::::::::::::l::::::::::::: |:::::::::　　　　　　　　　└────────────────┘
+    　　　　　　　　　　l　 ::::::::::::::::::: 〉::::::::::::::::::::::::::!::::::::::::: |:::::::: i
+    　　　　　 　 　 　 l|　::::::::::::::::::: |::::::::::::::::::::::::::::i::::::::::::: |::::::::: |
+    　　　　　　　　　　ｌ　::::::::::::::::::: |::::::::::::::::::::::::::::i.:::::::::::: |:::::::::: i
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　【　おしまい　】 
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4869/clap" id="fc2button-clap-4869" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4869").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/4.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4869/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="コンビニアイアンメイデン　オナラ小話" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4869.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5378.html">
+					コンビニアイアンメイデン　オレンジさんの超簡単サーモン（まぐろ）丼のつくり方の巻 (2013/02/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5371.html">
+					コンビニアイアンメイデン　アメ横の買い物話の巻 (2013/02/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5307.html">
+					コンビニアイアンメイデン　はなまるうどんの巻 (2013/01/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5297.html">
+					コンビニアイアンメイデン　アサシンのしりアスな話の巻 (2013/01/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5177.html">
+					コンビニアイアンメイデン　たいやきの巻 (2012/11/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5171.html">
+					コンビニアイアンメイデン　富士そばのとり天そばの巻 (2012/11/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4893.html">
+					コンビニアイアンメイデン　ローソンストア100のパスタ＆ソースの巻 (2012/08/22)				</a>
+</li>
+<li class="relate_li_nolink">
+				コンビニアイアンメイデン　オナラ小話 (2012/08/12)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4861.html">
+					コンビニアイアンメイデン　カレーショップC＆Cの三元豚ロースかつカレーとコーラの巻 (2012/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4701.html">
+					コンビニアイアンメイデン　かつやのかつ丼の巻 (2012/07/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4622.html">
+					コンビニアイアンメイデン　Sガストの若鶏竜田揚げ定食の巻 (2012/06/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4465.html">
+					やらないキッチン：コンビニアイアンメイデン　すた丼の巻 (2012/05/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4404.html">
+					やらないキッチン　できる夫と松屋の牛飯編 (2012/04/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1686.html">
+					やらないキッチン 　　最終食 (2010/03/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1578.html">
+					やらないキッチン 　　１７食目 (2010/02/18)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="コンビニアイアンメイデン　オナラ小話" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/08/12 09:00 ]
+<a href="/blog-category-119.html" title="カテゴリを参照">オリジナル系　やらないキッチン</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html#comment_list" title="この記事のコメントを参照">CM(10)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4869"
+    dc:title="コンビニアイアンメイデン　オナラ小話"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html"
+    dc:subject="オリジナル系　やらないキッチン"
+    dc:description=";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; /.　　　　 　 　 　 　....:::.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;:;::;;;;;;;;;;;;;:;:;:;:;:;:;:;;;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;:;::;::;;:;:;: |. 　　　　　 　 　　 　　|;;;;;;;;;;;;;;;:;:;;;;;:;;;;:;;;;:;:;;;:;::;;;:;:::::;::;::;::::;::::;:::;::;::;:::;:::;::;:::;:::;::..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-08-12T09:00:27+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4868.html" title="やる夫は『平清盛』を見たようです　その１８">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4861.html" title="コンビニアイアンメイデン　カレーショップC＆Cの三元豚ロースかつカレーとコーラの巻">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment41455">[ 41455 ] <strong></strong></p>
+</div>
+<div class="comb">
+できる夫のテンションの移り変わりにｸｿﾜﾛ…
+いや、ｵﾅﾗﾜﾛﾀｗｗｗｗｗ<div class="comment_navi">
+[ 2012/08/12 14:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41470">[ 41470 ] <strong></strong></p>
+</div>
+<div class="comb">
+百合百合してるかと思ったら突然の熱ぢぃぇぁぁぁぁぁぁぁッ！！と爆発音だもんなｗ
+そりゃそうなるわｗ<div class="comment_navi">
+[ 2012/08/12 18:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41472">[ 41472 ] <strong></strong></p>
+</div>
+<div class="comb">
+こればらしーだからまだ許されてるよね
+男の店員だったらすぐさまバレットM82A1で首から上を消し飛ばすレベル<div class="comment_navi">
+[ 2012/08/12 18:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=41472" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41479">[ 41479 ] <strong></strong></p>
+</div>
+<div class="comb">
+ふぅ・・・・・・<div class="comment_navi">
+[ 2012/08/12 21:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41481">[ 41481 ] <strong></strong></p>
+</div>
+<div class="comb">
+できる夫！帰るなあああ！
+眉毛がばらしーのおしりに薬を塗るイベントを見逃したかもしれないだろ！<div class="comment_navi">
+[ 2012/08/12 23:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41482">[ 41482 ] <strong></strong></p>
+</div>
+<div class="comb">
+アッー？<div class="comment_navi">
+[ 2012/08/12 23:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="http://salixdays.exblog.jp/";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="http://salixdays.exblog.jp/" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41495">[ 41495 ] <strong></strong></p>
+</div>
+<div class="comb">
+サウスパークのケニーはそれで爆死したからなｗ<div class="comment_navi">
+[ 2012/08/13 10:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41505">[ 41505 ] <strong></strong></p>
+</div>
+<div class="comb">
+屁はマジで燃える<div class="comment_navi">
+[ 2012/08/13 16:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment41543">[ 41543 ] <strong></strong></p>
+</div>
+<div class="comb">
+昔クソ兄貴と同じことをやったが
+「ぽふんっ」って破裂音だったな<div class="comment_navi">
+[ 2012/08/14 13:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment91169">[ 91169 ] <strong>承認待ちコメント</strong></p>
+</div>
+<div class="comb">
+このコメントは管理者の承認待ちです<div class="comment_navi">
+[ 2019/07/13 14:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">-</a>') } else {
+document.write("-"); }
+</script>
+<noscript>
+<a href="" target="_blank">-</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4869.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4869"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4869-21139a3b">http://oyoguyaruo.blog72.fc2.com/tb.php/4869-21139a3b</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4868.html" title="やる夫は『平清盛』を見たようです　その１８">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4861.html" title="コンビニアイアンメイデン　カレーショップC＆Cの三元豚ロースかつカレーとコーラの巻">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,808 @@
+<div class="article">
+
+
+
+
+
+　　　　　　　　 ,/i//i/ 　 　 　 　 　　　　　　//i,|　,＿　 ,＿　 :,＿　;,＿　 ,＿　 ,＿
+ＴＴＴTTTTTTTi,/{ＴＴTTTTTTTTTTTTTTTi''i/ |　|｜|　|｜|　|｜|　|｜|　|｜|　|｜|
+￣￣￣￣￣￣| |￣￣￣￣￣￣￣￣￣￣~|　|　.￣　 ;￣　 :￣　 ;￣　 ,￣　 '￣
+,-､　 ,-､　 ,-,、.| |;,＿　 ,＿　 ,＿　 ,＿　 ,＿ |,/|　,＿　 ;＿　 :,＿　;,＿　 '＿　 ;＿
+十|　|十!　|十!..| |:|｜|　|｜|　|｜|　|｜|　|｜||i/|　|｜|　|｜|　|｜|　|｜|　|｜|　|｜|
+￣　 .￣　.:￣::;'| |'.￣::::;:￣　,;'￣　 ,￣　 :￣ |　|　.￣　 ;￣　 :￣　 ;￣　 ,￣　 '￣
+,-､　 ,-,、::.,,-,、| |.,＿ 　,＿ 　,＿ 　,＿　 ＿, |,/|　,＿　 ,_＿＿＿＿＿＿＿＿＿＿
+十|　|十!　|十|.;| |;|｜|　|｜|　|｜|　|｜|　|｜||i/|　|｜|　||＼
+￣　 .￣　 .￣.;ﾞ| |',￣　 ;￣　 '￣　 ,￣ 　'￣ |　|　'￣　.;'|　 .＼
+. ,､────────────────────'}| 　　　＼: . .
+/　 ,＿＿＿＿＿＿＿＿＿＿:_:_::_::_＿＿＿＿＿＿＿_,|: 　 　　　＼::: : . .
+　 /|:::::::::::::::::::::::::: : :. .　　　　　　::::::::: 　 　 　 　　　　　　|　　　　　 　 ＼::::: : : . .
+. /. |:::::::::::::::::::::::::::: : :. . 　　　　　　:::::　　 　 　　　　　　　|:　　　　 　 　　 ＼＿＿＿
+/ . :|:::::::::::::::::::::::::::::::::::: : : . . 　 　 　 　 　 　 　 　 　　　　|　　　　　　　　 　 | : . .
+. .::/￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|　 |＼　 　 　　　 .|:: : . .
+.::/::::::::::::::::::::::::::::::::::::::: : . .　　　　　　　　　　　　　　　　　|　 |　 .＼ 　 　　　|:::: : . .
+/:::::::::::::::::::::::::::::: : . . 　 　 　 　 　　　　　　　　　　　　　　|　 |　　　|　 　　　:|:::::: : . .
+:::::::::::::::::::::::::::: : . .　 　 　 　 　 　 　 　 　 　　　　　　　　 |　 |o　　:|　　　　 :|:::::::: : . .
+:::::::::::::::::::: : . . 　 　 　 　 　 　　　　　　　　　　　　　　　　|　 |　　　|　　　　 :|:::::::::: : ..
+::::::::::: : . . 　 　 　 　　　　　　　　　　　　　　 　　　　　　　:＼|　　　|　　　　 :|::::::::::: : .
+:: : . .　　　　　　　　　　　　　 　　　 　 　　　 　　　　　　　　.::＼, 　|　　　　 :|:::::::::::: : . 
+
+
+
+
+
+
+
+
+
+
+105 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:32:11 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　 ／￣￣＼
+　　／　ノ　　＼ ＼
+　　|　 （●）（●）　|　　　　　こんにちわ、やらない夫・サンデルです。
+　.　|　　（__人__）　 |
+　　 |　　 ｀ ⌒´　　ﾉ　　　　前回の講義では船で遭難した男たちを例に
+　.　 |　　　　　　 　 }　　　　討論し3つの疑問が生じた。
+　.　 ヽ　　　　　 　 }　　.　　今回はこのうちの第1の疑問を深めていこうと思う。
+　　　 ヽ　　　　　ノ　　　　　　
+　　　　 / lヽ介/lヽ、　,rE)
+.　 　 　| | ~ヾ/~ |.　ｿ◇'
+　　　　| |　　ﾟ| 　|＼／＿＿＿＿Ｅ[]ヨ＿＿＿＿＿＿＿_＿＿＿
+　　＿ | |　　ﾟ| 　|＿_
+　 |＼ ￣ヽ⌒ヽ⌒ヽ　＼
+　 |＼＼　　⌒　 ⌒　甘 ＼ 　　
+　 | 　＼|￣￣￣￣￣￣￣|
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　 ／￣＼ 
+　　　　　　　　　　 |　　　　| 
+　　　　　　　　　　 ＼＿／ 
+　　　　　　　　　　　　 | 
+　　　　　　　　　／ ￣ ￣　＼ 
+　　　　　　　 ／　 ::＼:::／:: 　＼　　　　　　　　殺人が正当化されないのは 
+　　　　　　／ 　.<●>::::::<●>　 ＼　　　　　　 少年さえも基本的権利を持っているからなのか。
+　　　　　　|　　　　（__人__）　　 　　| 
+　　　　　　＼　　　 ｀ ⌒´　　　　／　　　　　　　だとしたら、その権利はどこから生じたのか 
+　　　　　　 /,,―　-ー　　､　,　-‐ ､　　　　　　　というやつですね。
+　　　　　 （　　　,　-‐　'"　　　　　 ） 
+　　　　　　 `;ー"　`　ー-ー　-ー' 
+　　　　　　　l　　　　　　　　　　　l 
+
+
+
+
+
+
+106 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:33:10 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+
+　　　　　　　　　　　 ／￣￣＼
+　　　　　　　　　　／　_ノ　 ヽ､_＼　　　　
+　　　　　　　　　 .| 　（●）（●）　 |　　　　　そうだ。
+　　　　　　　　　　|　　（__人__）　 |　
+　　　　　 　　　　っ　　 ｀⌒´　　 |　　　　　　そこで今日はジョン・ロックを取り上げようと思う。
+　　　　　　　　 /　ミ）　　 　　　 /　　　　　　　まず彼の考えに触れてみよう。
+　　　　　　　　/　ノヽ　 　　　　/　
+　　　　　　　　|　|／　　　　　　ヽ
+　　　　　　　　|　 | ／|　　　　 |　| 
+
+
+
+
+
+
+107 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:34:22 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　彼は、ある種の基本的な権利が存在する、という考えを信じていた。
+　　それは私たち、一人一人が人間として本来持っている権利であって
+　　政府や法が登場する前から存在したものである。
+
+
+
+　　　　　　　 ∩＿＿＿∩
+　　　　　　　 | ノ　　　　　 ヽ
+　　　　　　　/　　●　　　● |
+　　　　　　 |　　　　( _●_)　 ミ　　　　　生命、自由、財産には「自然権」というのがあり
+　　　　　　彡､　　　|∪|　　､｀＼　　　　みんな自然権を持ってるクマ
+　　　　　/　＿＿　 ヽノ　/´>　 )　　
+　　　　　(＿＿＿）　　　/　(_／　
+　　　　　　|　　　　　　 /
+　　　　　　|　　／＼　＼
+　　　　　　|　/　　　 )　 )
+　　　　　　∪　　　 （　 ＼
+　　　　　　　　　　　 ＼＿) 
+
+　　　　　　ジョン・ロック 
+
+
+
+
+
+
+108 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:35:42 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　 　／￣￣＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）
+.　|　　　　 （__人__）　　　　　　　ロックは自然権を持つことを理解するには
+　 |　　　　　｀ ⌒´ﾉ　　　 　　　　政府ができる前の状態を想像する必要があると言った。
+.　 |　　　　　　 　 }　　　　　　　 ちなみにこの状態を自然状態という。
+.　 ヽ　　　　　 　 }
+　　 ヽ　　　　　ノ　　ｍm
+　　　/　　　￣￣￣　つﾉ
+　　　|　　　　|￣￣￣
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　 ∩＿＿＿∩　　　/)
+　　　　　　　　　　　 | ノ　　　　　 ヽ　 ( i )))
+　　　　　　　　　　　/　　●　　　● | /　/
+　　　　　　　　　　 |　　　　( _●_)　 |ﾉ　/
+　　　　　　　　　　彡､　　　|∪|　　　　，/　　　　自然状態こそ自由な状態クマ。
+　　　　　　　　　 ／　　　　ヽノ　　　/´ 　　　　　人間は自由で平等な存在クマ。 
+
+
+
+
+
+
+109 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:36:44 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　　 　／￣￣＼　　　　　　　　　　それでも彼は自由である事と
+　　　　　　／　　 _ノ　　＼　　　　　　　　　好き勝手に行動するのは違うと主張した。
+　　　　　　|　　　 （ ●）（●）
+　　　　　.　|　　　　 （__人__）
+　　　　　　 |　　　　　｀ ⌒´ﾉ　　　　　　　　なぜなら自然状態であっても自然法という
+　　　　　.ｌ^l^lｎ　　　　　 　 }　　　　　　　　ある種の法が存在して、私たちの行動は
+　　　　　.ヽ 　 L　　　　 　 }　　　　　　　　 制約されるからだ。
+　　　　　　 ゝ 　ﾉ　　　　ノ
+　　　　　／ 　 /　　　　　＼
+　　　 ／　　 /　　　　　　 　＼
+　　. /　　 　/　　　　　　　　-一'''''''ー-､.
+　　人＿＿ﾉ　　　　　　　(⌒＿(⌒)⌒)⌒)) 
+
+
+
+
+
+
+110 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:37:54 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+　　　　　　　　　　　＿＿＿_ 
+　　　　　　　　　 ／　　　　　＼ 
+　　　.　　　　　／　＿,ﾉ　　⌒　＼ 
+　　　　　　 ｌ^l^lｎ　 （●） 　（●）　＼ 
+　　　　　 　ヽ 　 L　　 ､　｀　　 　 　　|　　　　みんなが自然権を持っているとすれば 
+　　　　　　　 ゝ 　ﾉ　　 ￣￣　　 　／ 　　　　それを手放したり、奪ったりすることは
+　　　　　　／ 　 /　　　　　　　 　　＼　　　　　出来ないという法なわけですね。 
+　　　　 ／　　 /　　　　　　　　　 　 　＼ 
+　　　. /　　 　/　　　　　　　　　-一'''''''ー-､. 
+　　　人＿＿ﾉ　　　　　　　　(⌒＿(⌒)⌒)⌒)) 
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　 　 　　　＿＿＿_
+　　　　　　　　　　　 　　　／　　 　 　＼
+　　　　　　　　　　　　　／　─　 　 ─　＼
+　　　　　　　　　　　 ／ 　 （●） 　（●） 　 ＼　　自由であっても自然法を侵害する
+　　　　　　　　　　　 |　 　 　 （__人__）　　　　|　　　自由はないって考えはわかるお。
+　　　　　　　　　　　 ＼　　 　 ｀ ⌒´ 　 　 ／　　　　でも、道徳的になんでそんな制約があるんだお。 
+
+
+
+
+
+
+111 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:38:46 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　 　　 ／￣￣＼
+　 　／　　 _ノ　　＼
+　 　|　　　 （ ー）（ー）　　　　ロックはその疑問に2つの答えを出している。
+.　 　|　　　　 （__人__）
+　 　 |　　　　　｀ ⌒´ﾉ　　　　第1に人間は神の創造物であって、神のために存在している。
+　 　.ｌ^l^lｎ　　　 　　}　　　　　つまり生命、自由、財産の自然権を手放せないのは、それは
+.　　 ヽ 　 L　　　 　}　　　　　厳密にいえば神の物で自ら取捨の選択はできないからだ。
+　 　　ゝ 　ﾉ　　　ノ
+　 　／ 　/　　　 ＼　　
+　 ／　 /　　 　 　　＼
+. /　　/　　　　　　|ヽ、二⌒)､
+　ヽ＿＿ﾉ 
+
+
+
+
+
+
+112 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:39:41 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　　　　　　　　 ／￣￣＼
+　　　　　　　　　　　 /　ヽ､_　　　＼
+　　　　　　　　　　. （　（● ）　　　　|　　　　　　また神を信じない者には理性に訴えた。
+　　　　　　　　　　. （人__）　　　　　 |　　　　　　すべての人が平等なら他人の生命、自由、財産を
+　　　　　　　　　　r-ヽ　　　　　 　　 |　　　　　　奪うべきではないと説いている。
+　　　　　　　　　 （三） |　　　 　　　 |　
+　　　　　　　　　　>　ノ　　　　　　 /
+　　　　　　　　　/ 　/ ヽ　　　　 /
+　　　　　　　　/ 　/　へ>　　　 <　　　　　　　　これはロックの権利についての説明の不可解で
+　　　　　　　　|＿__ヽ　　＼／　 )　　　　　　　　矛盾する部分にもつながっていく。
+　　　　　　　　　　　　|＼　　　／|
+　　　　　　　　　　　　|　 ＼_／　| 
+
+
+
+
+
+
+113 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:41:02 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　ＮVVVVVVV＼ 
+　　　＼　　　　　　　　＼ 
+　　　＜　　　　　　　　　｀ヽ､ 
+　　　＜／　／"" ＼ .ノヽ.　＼　　　　　　　　 
+　　　　//, '〆　　　　 ）　　＼ ヽ　　　　　　　　
+　　　〃 {_{　　　　ノ　 　 ─ │i|　　　　　　　　う～ん、生命と自由を手放したり奪ったり
+　　　ﾚ!小§ 　（●） 　（●） | ｲ━　　　　　　　してはいけないって考えは分かりますけど 
+　　　　ﾚ §　　　（__人__）　 |ﾉ ┃┃ 　　　　　　財産っていうのはどうですかね。
+　　　/　　　゜。　　`ー'´ 。゜　∩ノ ⊃　　　　　 
+　　　(愛＼　　∞　　　∞　 ／＿ノ　　 
+　　　.＼　“　　＿∞∞＿ノ∞／
+　　　　　＼。＿＿＿＿　　／
+
+
+
+
+
+
+
+　　 ／￣￣＼
+　／　ノ　　＼ ＼
+　|　 （●）（●）　|
+.　|　　（__人__）　 |　　　　　うむ。ロックの理論では私たちは政府が存在する前から
+　 |　　 ｀ ⌒´　　ﾉ　　　　　私有財産を保有する権利を持っているとにしている。
+.　 |　　　　　　 　 }
+.　 ヽ　　　　　 　 }
+　　 ヽ　　　　　ノ　　　　　　　　＼
+　　　/　　　 く　　＼　　　　　　　 ＼
+　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼ 
+
+
+
+
+
+
+114 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:42:03 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　ロックの理論はこうだ。人は誰でも、自らの一身に対する所有権を持っている。
+　　　　これについては彼以外の何者も権利を所有しない。
+　　　　彼の身体による労働、手による仕事はまさしく彼のものであるといってよい。
+
+
+
+　　::: ::: :: :: : : :: : : : :: : :: : :: : : : :: : : . . . .: . . .: : . .. . . . .. . . .
+　　.:... .. : .. : :: . .: : : . . .. .: : : . :. : :. :: . : . :: . : :. : : :: . : :: .: . .: : : . :.:. . :: . . :: .. . . .. . :. . . ....
+　　　　　 ,_,,.,.,_.,,.. 　 　　　　　　　　(､､:.,;;;:.:._~ﾞ'=-　　　 _,,,. .. -=ｰ- ､､_
+　　　　　(､、;:.:.:.,_~''=-　　　　　　　　　　　　　　,i ''"＾´　　　　　　　　　　¨゛'' ‐- :....,_
+　　　　　　　　　　　　　　　　　　　　　..:::..::.:::::.::　　　::::.;.:.;;....　　..:..:::..;;::;;:..:;.....:;....,.,.,,,:....: .. .
+　　　　　　　　　　　_,-－'''｀'''ｰ=-- ､､.....,,,,_　　　..:,,;;,,;:::.. ＿＿＿＿＿＿______ ...::..:...:;..,..,
+　　...,,,_　 　 　　,,-"　　.:.:.::.'.:'.:':.:...:.:.,.,...,.　　 " －- -:....,_.||￣￣￣￣￣￣￣.i|..,.
+　　　　^`"'' ,,-"　　..:.:.:..::..:.:.:.:..:.:..... 　　　　　　..:.:..::;; ..: :. ||　.;: 　　牧場　 :;.　!|　　...:':':.,....
+　...:... .;:;::;; ,r'::::::::::::::::::.:.:.:..:....::..::...:...,.....　　　　　　　 ..:.:.;.:. ||　　(_> ｡　｡ <_) 　 !|'-:..
+　;:;:;:;;:.:,,r'"..:.;,:..:....:.:...::.:.:;:;.:;:;:.:.:..:.:;:;.:;.:..::;;......,,,..,.　　　　 　 ||　－==(￣)==－ . !|　...::.:.;;..:.....
+　　　'"...,,,＿＿＿＿＿＿　.,:..:..:..:............　　　　　.....,,.,: ... ||＿＿＿＿＿＿,,,...!|
+　三三三三三三三三三Ｉ○　　...,,;::.::;..;.;.;;;..;;::;:;;:;:::::::::. .,.（壬三三三三三三三三三三三
+　ii== ||!| ====ii===== = ||!| 　::====ii==========ii=== |ｉ|| ==ii======= = |i|| ===ii===
+　三三三三三三三三三Ｉ○　:::::::................''ﾞ'''　　　'゛　　（壬三三三三三三三三三三三
+　 '' .. ||!| 　..,.,　　'"''　､ . ||!|　　...,,.,　''"''' 　 ..,,,　　''"ﾞ　　|ｉ|| .., ''"' . ､,"''､,.''ﾞ |i||　...:......::;;;:
+　三三三三三三三三三Ｉ○　　　　　　　､.,　 　 　.,,,:.:　（壬三三三三三三三三三三三
+　 .. ,, ||!| ''"'　.,..　､,.　 　 ||!|　　　､.,　　　 　　"'''ﾞ　､.,.　　|i|| "''　.,_,　"''　､.,. |i|| :::::::::;;;;;;;; 
+
+
+
+
+
+
+115 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:43:25 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　　　　　　 　 -‐ '´￣￣｀ヽ､
+　　 　 　 　 　 　 ／　／" ｀ヽ ヽ　　＼
+　　　　　　　　　//, '/　　　　 ヽﾊ 　､　ヽ
+　　　　　　　　 〃 {_{ノ　　　 ｀ヽﾘ| ｌ │ i|
+　　　　　　　　 ﾚ!小ｌ●　　　 ● 从　|、i|
+　　　　　　　 　 ヽ|l⊃　､_,､_,　⊂⊃　|ﾉ│ 　　　　自分自身を所有しているという事は
+　 　 　 　 /⌒ヽ__|ﾍ　　 ゝ._）　 　j /⌒i !　　　　　自分自身の労働も所有しているってことにょろね。
+　　　　　　＼ /:::::|　l＞,､ __,　イァ/　 /│
+.　　　　　 　 /:::::/|　|　ヾ:::|三/::{ﾍ､__∧ |
+　　　　　　　｀ヽ< |　|　　ヾ∨:::/ヾ:::彡'　| 
+
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　　　／　　 _ノ　　＼ 
+　　　　|　　　 （ ●）（●）　　
+　　　.　|　　　　 （__人__）　　　　　ああ。彼はさらにこうも主張した。 
+　　　　 |　　　　　｀ ⌒´ﾉ　　　　　所有されてないものに私たちの労働を加えると
+　　　.　 |　　　　　　 　 }　　　　　 それは私たち自身の所有物になる、と。
+　　　.　 ヽ　　　　　 　 } 
+　　　　　 ヽ　　　　　ノ　　　　　　　　＼ 　　　
+　　　　　　/　　　 く　　＼　　　　　　　 ＼　　 
+　　　　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼ 
+　　　　　　|　　　　|ヽ、二⌒)､　 　 　　　　　 ＼ 
+
+
+
+
+
+
+116 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:44:36 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　　　／　　 _ノ　　＼　　　　　　　　 　　　つまり土地を耕し周りを囲み野菜を育てるなら 
+　　　　|　　　 （ ●）（●） 　　　　　　　　　　採れた野菜だけでなく、その土地も所有することになるのだ。
+　　　.　|　　　　 （__人__）
+　 　 　 |　　　　　｀ ⌒´ﾉ 
+.　　　　 |　　　　　　 　 } 　　　　　　　　　知的財産など労働が加わったことで、誰のものでもない何かが
+　　　.　 ヽ　　　　　 　 } 　　　　　　　　　その人の所有物となるのは現代においても頻繁に見られる。
+　　 ＿/⌒ヽ　　 　　ィ 
+　i'⌒ﾞl |　　 l`ー-一´＼ 
+　|　　|. |　　 |　　 　 　 ﾄ ＼ 
+　|　　|　（　"￣⌒ヽ、　|＿"￣￣⌒ヽ、 
+　|. 　￣￣￣￣|ｿ,),)￣｀ヽ￣⌒ヽ|,),)ｿ 
+　|　　　　　　　 l 　.| y　　|＿ｨ 　 |　 .| 
+　|　　　　　　　 | 　.|.|　　 |　 |　　| 　 | 
+　|　　　　　　　 |　　 |＿__|　 |_＿|　　| 
+　|＿＿_＿＿__.|＿__（＿_ﾞ)__{_＿_ﾞ)＿| 
+
+
+
+
+
+
+117 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:46:04 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+　　　　　　　　 ＿＿＿
+　　　　　　　／　 　 　 ＼
+　　　　　 ／　　_ノ 　ヽ､_＼　　　　　　　　　　でも財産が本人の自由に所有できるなら
+　　　　／ 　 　（●）　（●） ＼　　　　　　　　 政府の中枢機能の一部が問題を起こすお。
+　　　 .|　 　　　　（__人__）　　 |　 　 ＿＿　
+　　　　＼　　 　　｀ ⌒/￣￣⌒/⌒ 　　/　　 
+　　　　（⌒　 　　　　/ 　　　　/　 　 　/
+　　　　i＼　　＼　,(つ　　 　 /　　　⊂)
+　　　　| 　＼　　 y(つ＿＿./,＿＿⊆)
+　　　　|　　　ヽ＿ノ　　　　|
+　　　　|　　　　　　　　　 　|_
+　　　　 ヽ、___　　　　￣ ヽ　ヽ
+　　　　 と_＿＿_＿＿＿ノ＿ノ
+
+
+
+
+
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　 　 ／ 　 ノ 　ヽ ＼　　 
+　　 　 |　 （ ー） （ー）| 
+　　 　 |　 　 （__人__） |　　　　　　そこがロックの哲学的実験の中心だった。 
+　　　　| 　 　 　　　 　| 　　　　　　同意なしに私有財産を持つことが可能なのか
+　　　　 |　　　　　　　| 　　　　　　というのが彼の疑問であり主張していたことだ。
+　　　 　 ヽ 　 　　　/ 
+　　　　 （⌒`::::　　⌒ヽ 
+　　　　　ヽ:::: ~~⌒γ⌒） 
+　　　　　　ヽー―'^ー-' 
+
+
+
+
+
+
+118 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:47:14 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　　　　　　　　　　 ／￣￣＼
+　　　　　　　　　　　　　／　　 _ノ　　＼
+　　　　　　　　　　　　　|　　 　（ ●）（●）　　　　　　そもそも彼の権利の主張には矛盾がある。
+.　　　　　　　　　　　　　|　　　　　（__人__）　　　　　　彼は我々の生命、自由、財産の自然権は
+　　　　　　　　　　　　　 |　　　　　｀ ⌒´ﾉ　　　　　　　尊重しなければならないと主張している。
+.　　　　　　　　　　　　　 |　　　 .　　　　}　　
+.　　　　　　　　　　　　　 ヽ　　　　　 　 }　　
+　　　　　　　　　　　 　 　_ヽ　　　　　ノ｀ヽ､_　　　　　　　　が、一方で何をもって尊重していると定めるのか、
+　 　 　 　 　 　 　 　 _/｜＼ `　､,__ ､小　L　￣ ヽ　　　　それを決めるのは政府であって、個人ではない。
+　　　　　 　 　 　 _, ハ　 ＼　｀ ァ､　/ﾍ,レ―‐‐､　i
+　 　 　 　 ,　-‐ ´　　 ,ゝ 　 ＼/ _ 又／　 　 ,ヽ＼ |
+　　　　　/　　 ヾ. 　 　＼ 　 　, ｲ{｀<　　 ＿ ,ィ 〉〉〉|
+　 　 　 /　　｀ﾞヾ＼　　　 ヽ／　ヽ＼｀く´　/ ｀ｰ(/ 
+
+
+
+
+
+
+119 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:48:20 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　　／￣￣￣ ＼
+　　　　 ／　ノ　　　　ヽ　＼　　　　　　　まず第一に自然権が社会に入ったら
+　　　／ 　 （ー） 　（ー）　　＼　　　　　　どうなるのかという問題はありますね。
+　　　|　　　 　　__´　_　　　 　 |　
+　　　＼　　 　 　 ￣　　　　／
+
+
+
+
+
+
+
+
+　　　　　　　　　　　/＼＿＿_／＼
+　　　　　　　　 　／''''''　　　　　''''''::＼
+　　　　　　　　 　|（●）, 　 　、（●）、.| 　　　　　社会に入るという事は、社会制度に、
+　　　　　　　　 　|　　 ,,ノ(、_, )ヽ、,,　.:|　　 　　　同意したわけだから妥協は仕方ないかと。
+　　　　　　　　 　|　　 ｀-=ニ=- '　 .:::::|　
+　　　　　　　　　 ＼　　｀ニニ´　 .＿／　　　　　大学に入学する時も学則に従うことに
+　　　　　　　　　　（｀ー‐--‐‐―/ 　）.|´　　　　　同意しなければなりません。
+　　　　　　　　　　 |　　　　　　　|　　ヽ|
+　　　　　　　　　　 ゝ　ノ　　　　 ヽ　 ノ
+　　　　　　　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣ 
+
+
+
+
+
+
+120 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:50:02 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　　　／　　 _ノ　　＼ 
+　　　　|　　　 （ ●）（●）　　
+　　　.　|　　　　 （__人__）　　　　　うむ。これはつまり同意とは 
+　　　　 |　　　　　｀ ⌒´ﾉ　　　　　なにかという問題だ。 
+　　　.　 |　　　　　　 　 }　　　　　 
+　　　.　 ヽ　　　　　 　 } 
+　　　　　 ヽ　　　　　ノ　　　　　　　　＼ 
+　　　　　　/　　　 く　　＼　　　　　　　 ＼ 　　　　　冒頭の船の事故の例でも
+　　　　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼　　　　同意があれば正当化は可能だ
+　　　　　　|　　　　|ヽ、二⌒)､　 　 　　　　　 ＼ 　　という意見があった。 
+
+
+
+
+
+
+121 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/06/08(水) 00:51:05 <strong><span style="color:#009900">ID:iq6gtG96</span></strong>
+
+
+
+
+
+　　 ／￣￣＼
+　／　ノ　　＼ ＼
+　|　 （●）（●）　|
+.　|　　（__人__）　 |　　　　では同意の道徳的働きとは
+　 |　　 ｀ ⌒´　　ﾉ　　　　なんだろうか？
+.　 |　　　　　　 　 }　　　　これについては次回にしよう。
+.　 ヽ　　　　　 　 }　
+　　 ヽ　　　　　ノ　　　　　　　　＼　
+　　　/　　　 く　　＼　　　　　　　 ＼　　　
+　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼　読んでくれた人どうもありがとう。
+　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼ 
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3425/clap" id="fc2button-clap-3425" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3425").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/8.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3425/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶサンデル教授のこれからの正義　その３" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3425.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3437.html">
+					やる夫で学ぶサンデル教授のこれからの正義　その４ (2011/06/13)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶサンデル教授のこれからの正義　その３ (2011/06/10)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3418.html">
+					やる夫で学ぶサンデル教授のこれからの正義　その２ (2011/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3410.html">
+					やる夫で学ぶサンデル教授のこれからの正義　その１ (2011/06/05)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶサンデル教授のこれからの正義　その３" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/06/10 03:28 ]
+<a href="/blog-category-315.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶサンデル教授のこれからの正義</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html#comment_list" title="この記事のコメントを参照">CM(4)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3425"
+    dc:title="やる夫で学ぶサンデル教授のこれからの正義　その３"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html"
+    dc:subject="学ぶ系　やる夫で学ぶサンデル教授のこれからの正義"
+    dc:description="　　　　　　　　 ,/i//i/ 　 　 　 　 　　　　　　//i,|　,＿　 ,＿　 :,＿　;,＿　 ,＿　 ,＿ＴＴＴTTTTTTTi,/{ＴＴTTTTTTTTTTTTTTTi''i/ |　|｜|　|｜|　|｜|　|｜|　|｜|　|｜|￣￣￣￣￣￣| |￣￣￣￣￣￣￣￣￣￣~|　|　.￣　 ;￣　 :￣　 ;￣　 ,￣　 '￣,&#45;､　 ,&#45;､　 ,&#45;,、.| |;,＿　 ,＿　 ,＿　 ,＿　 ,＿ |,/|　,＿　 ;＿　 :,＿　;,＿　 '＿　 ;＿十|　|十!　|十!..| |:|｜|　|｜|　|｜|　|｜|　|｜||i/|　|｜|　|｜|..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-06-10T03:28:00+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3424.html" title="やる夫たちで紹介するゲーム音楽の世界　その９　レトロ・アーケードゲーム音楽特集－３">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3426.html" title="やる夫で学ぶリキュール色々　第一回　果実系リキュール編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment18794">[ 18794 ] <strong></strong></p>
+</div>
+<div class="comb">
+若いころに思考実験としての哲学を
+もうちょっとやりたかった俺が支援<div class="comment_navi">
+[ 2011/06/10 10:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3425" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment18801">[ 18801 ] <strong></strong></p>
+</div>
+<div class="comb">
+相変わらず全くわからん
+真面目に読んでるが<div class="comment_navi">
+[ 2011/06/10 18:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3425" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment18808">[ 18808 ] <strong></strong></p>
+</div>
+<div class="comb">
+この段階だとまだ、道徳の根源は宗教的なものに頼るのね
+これがどう発展していくのか期待<div class="comment_navi">
+[ 2011/06/10 21:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=18808" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment18834">[ 18834 ] <strong></strong></p>
+</div>
+<div class="comb">
+作者さん、管理人さん、乙です。
+大学でも哲学は難解で、避けてたなあ。
+もっとまじめに取り組めばよかった。
+<div class="comment_navi">
+[ 2011/06/11 21:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=18834" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3425.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3425"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3425-e86094f8">http://oyoguyaruo.blog72.fc2.com/tb.php/3425-e86094f8</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3424.html" title="やる夫たちで紹介するゲーム音楽の世界　その９　レトロ・アーケードゲーム音楽特集－３">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3426.html" title="やる夫で学ぶリキュール色々　第一回　果実系リキュール編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

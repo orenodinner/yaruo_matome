@@ -1,0 +1,1237 @@
+<div class="article">
+
+
+
+1990年。ファミコンが発売されてから7年がたち、
+主要ハードの世代交代がおきつつある状況で、
+果たして開発現場の環境はいったいどんなものだったのだろうか。
+
+この年は、後に「バイオハザード」などで名を上げる、
+三上真司がゲーム業界に足を踏み入れた年である。
+
+参考になるかどうかはわからないが、彼の、カプコン入社当初の様子を見てみよう。
+
+
+
+
+
+　　　　　　　　　　　 _, ､- ーiiiiヽ-,,､_
+　　　　　　　　 -=ﾆ゛|||||||||||i''-''ー､ヾ||!'
+　　　 　　 　 　 ''三|||||||||ζ　 ､ _　｀ i'´
+　　　　　　　　　 ｀ニ||iﾞ　ヾ｀　'~lll｀　(
+　　　　　　　　　 　 ｀'||､_ ; 　 　 　 _ _）
+　　　　　　　　　　　　'ﾚ' ﾞ､. 　 -―-|　　　　　　　　よし！やるぞ。
+　 　 　 　　 　　 　　 人.　｀　､ 　　/
+　 　 　　 　 　　 _,／(　 ｀'　､ _ﾞT
+　　　_, ､ -― ''"::l:::::::＼　　　,､.ﾞ,i ､
+　　/;;;;;;::ﾞ:':､::::::::::::|＿:::;､>､_　l|||||ﾞ!:ﾞ､-､_
+　丿;;;;;;;;;;;:::::i::::::::::::::／:::::::＼ﾞ'' ﾞ||i l＼>::::ﾞ'ｰ､
+. i;;;;;;;;;;;;;;;;;;;;;;|::::::::::::::＼::::::::::＼ .||||i|::::ヽ::::::|:::!
+/;;;;;;;;;;;;;;;;;;;;;;;;!:::::::::::::::::::＼:::::::::ヽ|||||:::::/::::::::i:::|
+;;;;;;;;;;;;;;;;;;;;;;;;;;|;;;;:::::::::::::::::::::::＼:::::ﾞ､|||:::/::::::::::|:::i
+;;;;;;;;;;;;;;;;;;;;;;;丿;;;;;;;;;;:::::::::::::::::::::::＼::V::/:-―-l::::!
+;;;;;;;;;;;;;;;;;;／;;;;;;;;;;;;;;;;:::::::::::::::::::::::::::ﾞ''ﾚ::::::::::::::::!:::|
+;;;;;;;;;;;／ ヽ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::::::::::::::|O::::::::::::::/::::!
+;;;;;;;;/　　　 i;;;;;;;;;;;;;;;;;;;;;;;;;;|;;;;;;;;;;;;;;;;;!;;;;;;;;;;;i;;;;;!::::::!
+┌‐────┐;;;;;;;;;;;;;;;;!;;;;;;;;;;;;;;;;;|;;;;;;;;;;;|;;;;|;;;;;;;|
+│　ミカミ　　　| ;;;;;;;;;;;;;;;;!;;;;;;;;;;;;;;;;;|O;;;;;;;|;;;;|;;;;;;;;!
+
+　↑　三上真司　（配役：成歩堂龍一「逆転裁判」）
+
+
+
+
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+
+　やるやらで学ぶ「ゲームの歴史」
+
+　　　　　第１１話外伝　「当時の現場？」
+
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 
+
+
+
+
+
+
+
+
+
+760 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:01:54 ID:vzGgu0Ac
+
+
+
+
+
+入社後、彼が最初に配属されたのは、
+ゲームボーイのクイズゲーム「ハテナ？の大冒険」の
+開発をしていたチーム（？）であった。
+
+
+
+
+　 　 　 　 　 　 　 __,..　---‐===､‐-､.._
+　　　　　　　 　 　 .._=‐'_,...-　ﾆﾐ_,..､_ミ-`ァ;
+　　　　　　　　　　　.._-'=‐,...、_{､ -､_ ｀ヽｲ'i
+　　　　　　　　　　　 `-､7⌒!'´　 t_ｧi'‐ ,:ﾉ´
+　　　　　　　　　　　　　'|ゝ_'!.　　　　′ |'
+　　　　　　 　 　 　 　 　'r'´|. 　　 ,..,_..´｣'　　　　　　　　　　なるほど。これは、どれぐらいの期間で作るんですか？
+　　　　　　　　　　　　　ﾉ、 ｀ ､.　ゝ.｀‐ｔ,)
+　　　　　　　　　　　,ｧｲ　｀-､_ ｀‐-.ｨ'‐--ヽ,
+　　　　　　 ___,... .:ィ'　 ヽ　　 .｀‐ｧｲ',二ﾆ　|
+　　 ,r=-´.､_　　　 '!.　　 ＼　　 /~Y ､,　　,!
+　　ｆ　 　 　 ヽ　　　'‐-ｙ‐'^'､-､｣'ｔ,.>!ﾉ　 ' |ヾ'‐ ､
+　ノ　　　　　 '!　　　 <´ 　 　ヽ　 |　Y!　　,}`!i,　 'i
+. j　　　　　 　 !　　　　 ヽ、 　 ＼.! l'y!'--' ノ ヽ　|
+ﾉ　　　　　　　;　　　　　　 ＼.　 .ヽ, 'i`‐-‐'　　 ', '')
+　　　　　　　 j　　　　　　　　 ヽ､　ヽ'}､　Ｏ　　 ヽ,!,　　　　　　　　　　　　　　　　_,　--- ､
+┌‐────┐ 　　　　　　　　 ＼,.)ｸ,　‐'　　　 ヽi,　　　　　　　　　　　　　r '､　　　　　｀ ､
+│ 　ミカミ　 　|　　　　　　　　　　　|'´{,　　　　　　`!i　　　　　　　　　　　　.i　｀,､　｀ ､　　　 ｀,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l　 l　｀､　　i､　i 　 i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l　 r -　.l ﾉ'___､l 　l ',
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l 　l'二ﾝl´.´　｀l　ﾉ .l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　'､. ｀､　 !, ,　　 レ'/ l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀､　'　-─‐'　// /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀､ ゝ､＿／ l　/
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,/￣ヽ_/￣l /ト､
+　　　　　　　　うん？　一ヶ月ぐらいかな。　　　　　　　　　　　　　　　　 _,／:::ﾄ､‐-h ‐' l/ l　＼､_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,　 -‐ '´/::::::::l　 //lヽ .l /l:::::::　>__｀ ‐- ､ _
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/´､　　　ヽ :::::::::::l ././.lヽヽl l/:::::::: o /　　/　　 i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l　　｀,　　　ヾ::::::::::::l､ l .l.ヽ l l::::::::::::::/　　 /　　..:::l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.l:::::...　｀, l ..:::::ヾ::::::::::i＼,l,／l.l::::::::::::/::::::::::l.......::::::::::l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.l:::::::::::::::',l::::::::::::ヾ:::::::｀､;;;;;;/ll:::::::／:::::::::::::l:::::::::____,:l､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(ヾ::::::::::::::l::::::::::::::::ヾ::::::::>':::::!::／:::::::::::::::::l／'__-‐'´l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l::::｀:::::::::::l::::::::::::::::::::ヾ/::::::／:::::::::::::::::::::/　 ´二三ｦ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l:::::::::::::::::::l:::::::::::::::::::/::::／:::::::::::::::::::::::/　　　r--＝l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.ﾚ',二´｀ ‐-!､_,--r-'--'　＿＿-_ﾆ二ゝ_,-‐'´:::::::::::::i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀ﾚ',´-'　　　　 i　 l:::::::::::::::::::::::::::::::::::::::::ヾ::ヾ:::::::::::::i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾚ´r‐,､＿＿__,,l　.l:::::::::::::::::::::::::::::::::::::::::::::ヾ:::::::::::::i
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　↑　先輩社員　(配役：牙琉霧人「逆転裁判」） 
+
+
+
+
+
+
+761 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:02:44 ID:vzGgu0Ac
+
+
+
+
+
+　　　　 `ヽ､llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll`ヽ､_,-,
+　　　　-―--`lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllﾉ
+　　　　　　`ヽ､lllllllllllllllllllllllllll, - ､ll､_ll､ヽlllllllllllllllノ-,
+　　　　　￣ヾllllllll/⌒ｌ､lllllll--　　　　　　`ヾシﾉ|彡
+　　　　　　　_ノll/ ⌒l `|ll/´　　＿　　　　　 　/　　　　　　　　　い、一ヶ月ですか？
+　　　　　　　 `)ll| (`Y´　　　　　 ＿ ､_　　　　|
+　　　　　　　／lll`l`-|　　u　　　（ 　U　 '´,イ　　　　　　　　　　 確か、入社研修では……
+　　　　　,-'´／|`ヽ-┐u　　　　 `￣'　 　　ﾉ
+＿_, -‐/;;;;;;/　|　　　|　　u　　　　　　　　　l　　　　　　　　　　　ファミコンのゲーム一本作るのに、
+;;;;;;;;;;;;;/;;;;;;;|　 `l　　 l､　　　　　　 　　 ` , -'
+;;;;;;;;;;/;;;;;;;;;;;|　　`l､　 `ヽ､　　　-――-/　　　　　　　　　　　　　6ヶ月から10ヶ月で作ってるって……
+┌‐┴───┐ ヽ､　　`ヽ､　　　　 人
+│　　ミカミ　　|　　 `ヽ､　　`＞┬イ　 `､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 __　 __
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 rﾉ rﾆゝ`‐-,_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _ 　 ,ﾉ　'´r＝ゝ　　`-,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＿＿_.-‐'´ `-i　　　／` `ゝ　,　 l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_,-‐'￣￣　　 ,,,,,　,,,,,,;;;;;;ll__／==,,　 |　 |　　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 _,-'´　　　　 ,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ll　|ゞ 　　ｦ.l　ノl　　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l,,　　　　,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ﾉl`iゝ-‐''´ ／ﾉ-l　　|
+　　へえ？　そんなウソを教えてるんだ。　　　　　l;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-──''''''''''´　l .!,_ 　-‐''フ　/／/
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼;;;;;;;;￣`'''''´ノ;;;;;;;;;l`-,　 `---'　l- ─く　/　 /
+　　これ、ゲームボーイだし、　　　　　　　　　　　　　　＼;;;;;;;;;;;;;'´;;;;;;;;;;;;;;l;;;;;;l　＼`-‐'´ヽ_____ゝ|／l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;l;;;;;:::＼::::::::::ヽフ i |　l::::＼
+　　まあ、こんなもんだから。　　　　　　　　　　　　　　　　　　`‐,_;;;;;;;;;;;;;;;;;;;;;l;;;;;;;::::::ヽ::::::::::ヽ/ |　lヽ:::::＼‐--,_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 `-,;;;;;;;;;;;;;l';;;;;;;;;;::::::＼::::::::ヽ |/l. ./::::: -=,　　`,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼;;;;ノl;;;;;;;;;;;;;;;:::::::＼:::::::::| l /::::::::　/ 　 l　l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 l;;;;;;l;;;;;;;;;;;;;;;;;;;::::::::ヽ:::::l .l:::::::::::::/　　　l　l,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l;;;;l;;;;;;;;;;;;;;;;;;;;:::::::::::ヽ:l l:::::::::／---- l,,;;;;;ﾄ,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 l;;l;;;;;;;;;;;;;;;;;;:::::::::::::::::>ll::::／:￣￣￣l;;;;;;;;　l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 l;;l;;;;;;;;;;;;;;;;;;;;;:::::::::／:::／::::::::::::::::::::/::::::::::　`i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ll;;;;;;;;;;;;;;;;;;;;;;;;;／ ／;;;;;;:::::::::::::::::::l:::::::::::::::::::::l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ll:::;;;;;;;;;;;;;;;;;l‐''´:::::::::::::::::::::::::::::::l::::::::::::::::::::::::l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l::::;;;;;;;;;;;;;;;| O::::::::::::::::::O::::::::::l-l::::::::::＿::::::::l 
+
+
+
+
+
+
+762 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:03:20 ID:vzGgu0Ac
+
+
+
+
+
+　 　　　`ヽ､llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll`ヽ､_,-,
+　　　　-―--`lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllﾉ
+　　　　　　`ヽ､lllllllllllllllllllllllllll, - ､ll､_ll､ヽlllllllllllllllノ-,
+　　　　　￣ヾllllllll/⌒ｌ､lllllll--　　　　　　`ヾシﾉ|彡
+　　　　　　　_ノll/ ⌒l `|ll/´　-､　　　U　　 　 /
+　　　　　　　 `)ll| (`Y´　　　　　二`ヽ､_　　　 |
+　　　　　　　／lll`l`-|　U　　　（ |;;lll|　　 '´,イ
+　　　　　,-'´／|`ヽ-┐　　　　　`￣'　　　　ﾉ
+＿_, -‐/;;;;;;/　|　　　|　　　　　　　　　　　　l
+;;;;;;;;;;;;;/;;;;;;;|　 `l　　 l､　　　　　　 　　 ` , -'
+;;;;;;;;;;/;;;;;;;;;;;|　　`l､　 `ヽ､　　　-――-/　　　　　　　　　　　　いいかげんだなあ……
+┌‐┴───┐ ヽ､　　`ヽ､　　　　 人
+│　ミカミ　　　|　　 `ヽ､　　`＞┬イ　 `､
+
+
+
+と、思った三上だが、すぐに、そんなことは序の口であることを思い知ることになる。 
+
+
+
+
+
+
+763 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:03:55 ID:vzGgu0Ac
+
+
+
+
+
+その「一週間後」。　　　　　　　　　　　　　　　　　　　　　　　　　　　 , --''' ''ﾞ￣,ヽ､_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　, --ー'' "　　 ,､-''｀ﾞヽ 　｀ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（,　/､/ヾ/ 　 ノ　　 　 |　　　｀.
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　"ー--,ー-''ﾞ　　　　/　　　　i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　, .,L _;.;;;;､　　ヽ ﾞヽ､./´｀!i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,､-';;､-''ﾞ!,.､ヽ-- 'ﾞ｀_,／'ﾞ!Ｇ.ﾉ!
+　　　　　　　　おめでとう、三上君。　　　　　　　　　　 ／,;-'ﾞ ,,-';ﾞ!--ﾞi-i'" ￣ '，　 Yi,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　　".／ヽ, 　 ! ﾞ;;＿,,ノ 　 　! ﾞヽ,
+　　　　　　　　今日からアナタがメインですぞ。　 /　　　 ./　　　￣;Ｔ!　 ,／　　 ﾉ.　 丿i ┬-─ '',ﾞﾆ'- ､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　　,,/　　　　　 ﾞ''ニﾞ- 　 ／　i／　/　i　　　/　　　 ｀i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　.,_,i　＿,;;'ﾞ　　　　　 ,､-''ﾞヽ､_／,､-''｀　 /　　i　　/　　　　　 i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　i　￣＿,.ﾌ　　　　 /i　　 /　! i´ ）､ 　,/　　 !　 i　　　　　　 i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　￣￣　 　 ! 　 　 / !　　/　,i　!'iﾞ　'.／!-､,／　/　　　　　 　 !
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　○ 　　i 　 　 ! !　　 ｀yﾞi .i　!.　　/　　ﾞ> ﾉ　 　 　 　 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　　 　　 !､-ヽ;ﾞ↓　　/　i !　 !　./　　 /./　 　 　 　 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　i　　○ 　　!｀'　　　ﾞi. 　i 　 !　　i. /　　 //　　　　　　　 /i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　　 　　 !　　　　i_,,_ !　 ! 　 .i/.　　//　　　　　　　 / i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　　　 　 ! 　　／／ﾞ￣ﾞ'' - 'ﾞ´￣￣　　　　　　　 /　i
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　↑　当時の上司（配役：アウチ検事「逆転裁判」）
+
+
+
+
+　） 　 |王|　　 ┴ ソ　 十/ 　|　 |　十/ 　|　 |　 十/ 　|　 |　十/ 　|　 |　 十/ 　|　 |　| |　（
+　ヽ　ﾆ|ﾆ|ﾆ 　二 王　 /ﾚ､ 　ﾚ　|　/ﾚ､ 　ﾚ　|　 /ﾚ､ 　ﾚ　|　/ﾚ､ 　ﾚ　|　 /ﾚ､ 　ﾚ　|　| |　（
+　　） ノ　ヽ 　 口 我　 Ｖン　　ノ　 Ｖン　　ノ 　 Ｖン 　　ノ　Ｖン 　　ノ　 Ｖン 　　ノ　 ･･　（
+　　 `V⌒Ｖ⌒ＷV⌒Y⌒ＶＶ⌒Ｗ⌒Y⌒`　　　.. ‐ｧ=r‐''⌒ﾞ二ﾆ二つ.. ‐ｧ=r‐''⌒ﾞ二ﾆ二つ
+　　　　　　　_.. -‐ ' "　　　　 ヽ￣ﾉ^7__　　'"´　　l　l　　　　r}　} }l´　　l　l　　　　r}　} }l
+　　　`ー ''"--―――-r⌒｀｀~｀ﾞﾞ`''ﾍ/　　　　　　l　ヽ　 ､　ヽ_ﾉﾉ''⌒ﾞ二l　ヽ　 ､　ヽ_ﾉﾉﾞ二ﾆ二つ
+　　　　`ー--――ｰ---＞u ～-､_,　',　　　　　　　ヽ､`ｰﾃヽJ　　　r}　}ヽ､`ｰﾃヽJ　　　r}　} }l
+　　　　　`ー-- ..＿ へ/　　　くてi`　〈　　　　　　__.. -'-'"l　ヽ　 ､　ヽ__.. -'-'"''⌒ﾞ二ﾆ二つﾉ
+　　　　　 `ｰ-_　　 | ^i　　u　　　　　, ﾉ　　　　　_.. ‐ｧ=r‐''⌒ﾞ二ﾆ二つヽJ二ﾆ二つ} }lヽJつ
+　　　　　　　　 ヽr''ﾍ､_u　　　 ,.-＝ｧ/　　　'"´　　l　l　　　　r}　} }l'-'"　r}　} }l､　ヽ_ﾉﾉ} }l
+　　　　　　　　　/　　　!､　　　{＿_//　　　 __　'"´　l　ヽ　 ､　ヽ_ﾉﾉヽ　 ､　ヽ_ﾉﾉヽJ､　ヽ_ﾉﾉ
+　　　　　　　　 ﾉ 　 　　　　､ 　￣ /-‐ ' "´／｀ﾞ ｰｧヽ､`ｰﾃヽJヽ_ヽ､`ｰﾃヽJ'-'"､`ｰﾃヽJ
+　　　　_.. -‐''ﾌ|フヽr-‐ ''''フ.￣｢´ 　 　 　/　　　__.. -'-'"､`ｰﾃ__.. -'-'"　　 __.. -'-'"
+　. ‐ '7 　 　く/|〉-rへ. ／　　　l　　　　　l　　　/　　__.. -'-'"　　　　 .　-‐ '"´ 
+
+
+
+
+
+
+764 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:04:37 ID:vzGgu0Ac
+
+
+
+
+
+　　　　　　　　　　　　　　　　　,; i, il;l! , ; il
+　　　　　　　　　 _,,,,,,,,,__　, ､,く〈 ll~i||||||||||､
+　　　　　　　 ,;;彡-::::::::;;;;/;;li'!!|‘　とﾆ)||||ﾆ ｌ　　　　　 何がどうなってるんですか！
+　　　　　　,;;ｌ;;;;;;;;;;;;::::`､;;;ｌ;;ｌ |_,,!､_　ﾉ||||||||):ﾉ
+　　　　　 /;;|;;;;;;;;;;;;;;;;;:::ｌ;ﾉ;;ｌ /;;;;`;::=<`"!/'_=ｌ　　　　　 配属一週間の人間がメインて！
+　　　　 /;;;;;;;ﾒ;;;;;;;;;;;;;;;;;:ヽ〉ｙ;;;;;;;::::8ｲﾝＴ;;;;;;::::ｌ
+　　 　 /;;;;;;;;;;;;;ヽ;;;;;;;;;;::_::ノ;;;;;;;::::::ﾝ;;;;;/ｌ;;;;;;;::::|　　　　　さっきの先輩はどうしたんですか！
+　　　 ﾉ;;;;;;;;;;;;;;;;;;;､;;;;;;;';;/;;;;;;;;;:::::/;;,イ;;;;|;;;;;;;::::l
+┌‐────┐/;;､;;;;;;;;;;;;;;:::::/／　l;;;;;!;;;;;;:::::|
+│　　ミカミ　　|_;;_;;`;､;;;;;;_:::ノ´　　　 、;;;;;;;:::ﾉ
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,...,_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(i l !｀'ｰ,‐-‐,.ﾆ＝,‐.､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ.,ヽゞ‐_´　　　　 ) ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ir'"r-__,,,,,,.:-'"　　ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　r_,,r''"´`i'''ヽ　r‐:､　l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／"r'.!__..-'　　`'";'ﾉ,! ,'
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ_,r'iﾞ　　　 、　 'r:< ,'
+　　やめました。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽr‐=''''`　'　丿, `i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`(　　_,,-‐'"　l _,.!>､__
+　　開発は2人のチームでしたからね。あなたがメインです。　　　　　　`'''".)､i ,.:-:'" ,.:'　 i. `'''ー--,-.､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,.:|.iﾞ''ヽ　 /　　 .|　　　 r'"　　`:､
+　　おめでとう。マスターアップまで１ヶ月です。　　　　　　　　　　　　　 ,:r'　|,!,ノ.ヽ/_　 　 |　 　 ,'　　　　　i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,-'"/ ,ィﾞi |　 ,'　`‐＜"　　 ,'　　　　　 .|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　i'|　.<,:' .|.,' |　,'　　　,:'　　　 i　　　　　　 |
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　l |.　/　 |.i　| ,'　　 ,:'　　　　 |　　　　　　 |
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| |　 ',　 |ﾞ　'/　　/　　　　　 |　　　　　　 |
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| .|　_.',　|　.i　　/　　　 　 　 |　　　　　　 !
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| .|i"　', .i .,'　 /　　　| 　 　　|　　　　　　.|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,!''|_　 ﾉ､.V　/　　　　i　　　　i 　 　 　 　 | 
+
+
+
+
+
+
+765 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:05:13 ID:vzGgu0Ac
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　___,,,,----- ､__
+　　　　　　　　　　　　　 _____,.. -‐''''´‐‐''´___Z ヽ＼｀Tｰ-1
+　　　　　　　　　　　　　 ｀ｰ-.ｭ____,　　　￣コ-､_i- ､丶 /└!
+　　　　　　　　　　　　　-＝´､ﾆ----ｧ　　(_　　　　 ｀''ｰ'ヒ｢
+　　　　　　　　　　　　　　-＝ｭﾆﾗ´,rﾆヽ ,｢ .u'''ｰ-､_　､　|'
+　　　　　　　　　　　　　　￣'ｰ､_ __｣⌒!.V' 　 　ｰ┬｢'´∠!
+　　　　　　　　　　　　　　　　　 ﾞiNﾞi ユ;.　ﾟ　　　￣　　 tf
+　　　　　　　　　　　　　　　　 ,r.ｧx-ー┐ 　。 . 　 　 ' rｸ　　　　　　　　そんなアホな……。
+　　　　　　　　　　　　　　 _／　!　ﾞt　i ヽ 　　r___ｰ─‐ｲ
+　　　　　　　　　　_,,.. -‐'´ /　　l　 ヽ| 　 ﾟ ､. 　　｀￣了
+　　　　　　_,,,. -''´　 　 　 /　　 .ﾞi, 　 ＼　　 ｀ｰｧ､....ノ
+　　._,r‐''''~｀ヽ､　　　　　 ,'　　　　',　　　.ゝ--ｧ'''!＾!
+　/　　　 　 　 .ヽ　　　　 ''''ｰ-=-　ﾄ､　 /￣｀ﾞi　|　t'､
+..l　　　　　　　　 ',　　　　,.-''´　　　い,/ヽ　 .∧ |.　ヽ＼
+.j　　　　　　　　　;.　　　 ヽ、　　 　 ',　　 〉‐ｲ　''|＼-'　 ＼
+|　　 　 　 　 　 　 ,　 　 　 ＼　　　 .ﾞ,　　!　 ﾞ!　.|　oヽ,　　 ＼、
+|　　 　 　 　 　 　 |　　　　　 ﾞヽ　　　',　.j　　.!　j　　./　　　 ! ヽ
+|　　　　　　　　　 j　　　　　 　 ＼　　.', ,'　　 | /　 ./　　　　,'　.!
+ﾞ!　 　 　 　 　 　 /　　 　 　 　 　 ＼　.Y　 　 y 　 /　　　　.,'　 |
+┌‐────┐　　　　　　　 　 　 ヽ ﾞ､　　/　 ,/ 　 　 　 ,'　 |
+│ 　ミカミ　 　||　　　　　　　　　　　 ヽ |　/ _ノ´　''''ｰ-､./　　|
+
+
+
+やむなく、会社に泊まりこみ、必死の思いで製作にあたる。
+
+だが、もちろんはじめてのゲーム開発である。
+
+なかなかうまくいくものではない。 
+
+
+
+
+
+
+766 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/05/08(日) 21:05:30 ID:AvOsl3To
+
+
+
+<strong>なにこれこわい </strong>
+
+
+767 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/05/08(日) 21:05:41 ID:8g1sbi6Y
+
+
+
+<strong>ひでえｗ </strong>
+
+
+768 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:05:49 ID:vzGgu0Ac
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　..,,,,,,,,,,...　　　,,.z
+　　　　　　　　　　　　　　 ／~'''''"　　　　　` ´　　l
+　　　　　　　　　　　　　／　　　　,.. -- - --z.,,__　'‐ｯ
+　　　　　　　　　　　　／　 ／, ''''' ﾞ　　　　　　　ヾ　./
+　　　　　　　　　　 .／　／'''／　　　,,.ｨ ''　　ヽ､_　> ヽ
+　　　　　　　　　 ／　／　 （　 ,_,-''"_　　　 , _,....ﾞ_''Y./
+　　　　　　　　 ／　／　／/　' ,. ﾋﾆﾞ.l,　　ヾ l.l''';. l .V
+　　　　　　　　 ﾞ''-,/　／　ﾞ>　　' ヾ''　　　　ヽ ﾞﾞ　　 l　　　　　　　 だめだ……終盤になってバグが山ほど……
+　　　　　　　　　　ﾞｰ, ,l;''';';;､l 　 　 　 　 　 .; .; !　 　 l
+　　　　　　　　　　　 ﾞ-､　i'ｯ'　　　　　　 _,.. -‐-､　 .l　　　　　　　　期日どおりになんてできるわけがない……。
+　　　　　　　　　　　　　ヾ;:-`　　　　　,ｨｪｪﾆﾆﾆ.l　 l
+　　　　　　　　　　　　　　 `'ｧヽ,　　　 ﾞ''ﾞ　 ‐'''　　 /
+　　　　　　　　　　　　　　　　 ﾞl ﾞ'‐ .,_　　　　　　／
+　　　　　　　　　　　　　.,, --‐┴‐‐‐‐`‐‐ー‐'''"└------､.
+　　　　　　　　　　　 ／　　　　　　　　　　　　　　　　　　 _ -`ー、
+　　　　　　　　　　 / '''ﾞﾞﾞﾞﾞﾞ""`'''' -　,,,...... 　　　..,,, - ''' ﾞﾞﾞ　　　　ヽ
+　　　　　　　,. -'''ﾞ ./　　　　　　　　　　　 　 ﾞﾞﾞﾞ　　　　　　　　　　　ヽ
+　　　　　　 /　　 ./　　　　　　　　　　　　　　　　　　　　　　,,... '''ﾞﾞﾞﾞヾ ヽ
+
+
+
+
+
+
+　　　　 `ヽ､llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll`ヽ､_,-,
+　　　　-―--`lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllﾉ
+　　　　　　`ヽ､lllllllllllllllllllllllllll, - ､ll､_ll､ヽlllllllllllllllノ-,
+　　　　　￣ヾllllllll/⌒ｌ､lllllll--　　　　　　`ヾシﾉ|彡
+　　　　　　　_ノll/ ⌒l `|ll/´　　＿　　　　　 　/
+　　　　　　　 `)ll| (`Y´　　　　　 ＿ ､_　　　　|
+　　　　　　　／lll`l`-|　　u　　　（ 　U　 '´,イ　　　　　　なんとか、三日ほどのばせませんか。
+　　　　　,-'´／|`ヽ-┐u　　　　 `￣'　 　　ﾉ
+＿_, -‐/;;;;;;/　|　　　|　　u　　　　　　　　　l　　　　　　 それで何とかしてみますから……。
+;;;;;;;;;;;;;/;;;;;;;|　 `l　　 l､　　　　　　 　　 ` , -'
+;;;;;;;;;;/;;;;;;;;;;;|　　`l､　 `ヽ､　　　-――-/
+┌‐┴───┐ ヽ､　　`ヽ､　　　　 人
+│　　ミカミ　　|　　 `ヽ､　　`＞┬イ　 `､ 
+
+
+
+
+
+
+769 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:06:30 ID:vzGgu0Ac
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,...,_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(i l !｀'ｰ,‐-‐,.ﾆ＝,‐.､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ.,ヽゞ‐_´　　　　 ) ヽ
+　　　三日ですか……。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,.へ　ー-､　　)ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 __l___!__,.r===ｧ'<ミﾐ
+　　　営業さんだってみんなまってるわけですからね。　　　　　　　　　　　　　|　　 jﾊ､＿__ﾉ　ヽミ}
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`┬ﾌﾟ ﾟｰ､　　　 ﾉ/)）
+　　　何もなしでは待てません。　　　　　　　　　　　　　　　　　　　　　　　　　　　　i ヾ===､　 }　 rノ　,._'ﾌﾌ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,. ‐--､_　ﾞ､} /γ} }　 ｨj,.-''"ノノ
+　　　なにか追加要素をつけるならいいですよ。　　　　　　　 ,.r-=ﾆ二二ニ=ｰ---L`==',.-‐''"　-'',-'
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,.-''"　　　　　　　　　　　　 ￣! |　　_-'_ノ--っｰ--､-､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 r'　　　　　　　　　　　　　　　　|　|_ノ　　,r‐''"~、　　 `i ｀!
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　　　　　　　　　　　　O　O　 {　し`ー´　 j　　ヽ　 　 |　ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼　　　　　　　　　　　　　　 ＿Y"　|:::::|　ﾉ-､∠ 　 　 |　　＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`ー‐---‐‐､───'''""ヾ　　|　 |:::::| j　　　/　　　|　　 　 ＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 し　　　r---ヽ 　 |　|:::::ﾚ　　 /　　　 j　　　　 　 ＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　　　　　　　 ヽ　| |:::::::j　　/ 　　　 /　　　　　　　 ＼
+
+
+　　　　　　　　　　　　　　　　　,; i, il;l! , ; il
+　　　　　　　　　 _,,,,,,,,,__　, ､,く〈 ll~i||||||||||､
+　　　　　　　 ,;;彡-::::::::;;;;/;;li'!!|‘　とﾆ)||||ﾆ ｌ
+　　　　　　,;;ｌ;;;;;;;;;;;;::::`､;;;ｌ;;ｌ |_,,!､_　ﾉ||||||||):ﾉ
+　　　　　 /;;|;;;;;;;;;;;;;;;;;:::ｌ;ﾉ;;ｌ /;;;;`;::=<`"!/'_=ｌ　　 　 　 　 　 つ、追加要素って……！
+　　　　 /;;;;;;;ﾒ;;;;;;;;;;;;;;;;;:ヽ〉ｙ;;;;;;;::::8ｲﾝＴ;;;;;;::::ｌ
+　　 　 /;;;;;;;;;;;;;ヽ;;;;;;;;;;::_::ノ;;;;;;;::::::ﾝ;;;;;/ｌ;;;;;;;::::|　　　　　　　　いや、正論なのかもですが、
+　　　 ﾉ;;;;;;;;;;;;;;;;;;;､;;;;;;;';;/;;;;;;;;;:::::/;;,イ;;;;|;;;;;;;::::l
+┌‐────┐/;;､;;;;;;;;;;;;;;:::::/／　l;;;;;!;;;;;;:::::|　　　　　　　　もとはといえば……！！
+│　　ミカミ　　|_;;_;;`;､;;;;;;_:::ノ´　　　 、;;;;;;;:::ﾉ
+
+
+
+しかし、この追加したオマケ要素にもバグがでてしまい、
+
+三上のスケジュールはとことんまで追い込まれる結果となる。 
+
+
+
+
+
+
+770 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/05/08(日) 21:06:43 ID:CwIFu/fM
+
+
+
+<strong>　知らないエピソードだとわくわくするな
+酷い話だってのもあるけどｗ </strong>
+
+
+771 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:07:11 ID:vzGgu0Ac
+
+
+
+
+
+どうにか仕上げた頃には、すでにヘロヘロとなっていた。
+
+
+　　　　　　　　　　　__. -‐- ､...__....._
+　　　　　　＿.. -‐''_..-- ､　 ｀､ヽ`､ ｢ｿ-┐
+　　　　　　二=‐'''　 _. -ﾉ´｀￣｀`''‐-‐ﾍ/L
+　　　　　　＞‐ _..ニ -‐(　^ｰ-､..._、 _,...}ノ　　　　　　　　　 ふう、やっと終わった……
+　　　　　　`ｰZ. へ　_r'´　il て)`　 L.,,_{ｿ
+　　　　　　　　ﾐ{ ^! !i　　　　￣　 __｣　 l　　　　　　　　　　　えーと、確か、これで休暇がもらえるんだったかな……。
+　　　　　　　　 `iｰ┐u　 　,. -―-、　l
+　　　　　　　　 ｜　!､ 　 　{ ´´￣7　/　　　　　　　　　　　　　　＜　一ヶ月休みなしだったしな……
+　　　　　　　　　|　　 ＼.　 ヒニ､/ /-ｧ''´￣_ユ
+　　　　　　　 __⊥ -‐…｀'ｰ-ｨ‐'''7´ /　 ／
+　　　　　　　/　ヽ,　　　　／ |　 l　 l 　 ′
+　　　_..　-‐ﾅｰ-rへ　 ∠..＿l　 l
+　/´　　　 /　　l　　〉'´`ｰc､　　 `､
+. l　　　　 l|　　/.／　_..=ﾆニ -┐　｀ ‐-　.....
+｜　　　 ∥　／ ..-'´└‐┬‐‐''´　...:::::::::ミ三三
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,...,_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(i l !｀'ｰ,‐-‐,.ﾆ＝,‐.､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ.,ヽゞ‐_´　　　　 ) ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ir'"r-__,,,,,,.:-'"　　ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 r_,,r''"´`i'''ヽ　r‐:､　l
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／"r'.!__..-'　　`'";'ﾉ,! ,'
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ_,r'iﾞ　　　 、　 'r:< ,'
+　　　　　　ああ、三上君三上君　　　　　　　　　　　　　　　　　　ヽr‐=''''`　'　丿, `i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 `(　　_,,-‐'"　l _,.!>､__
+　　　　　　アレ、無事に終わったんですって？　お疲れ様。　　　 `'''".)､i ,.:-:'" ,.:'　 i. `'''ー--,-.､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,.:|.iﾞ''ヽ　 /　　 .|　　　 r'"　　`:､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,:r'　|,!,ノ.ヽ/_　 　 |　 　 ,'　　　　　i 
+
+
+
+
+
+
+772 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:07:51 ID:vzGgu0Ac
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 , --''' ''ﾞ￣,ヽ､_
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　, --ー'' "　　 ,､-''｀ﾞヽ 　｀ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（,　/､/ヾ/ 　 ノ　　 　 |　　　｀.
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　"ー--,ー-''ﾞ　　　　/　　　　i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　, .,L _;.;;;;､　　ヽ ﾞヽ､./´｀!i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,､-';;､-''ﾞ!,.､ヽ-- 'ﾞ｀_,／'ﾞ!Ｇ.ﾉ!
+　　　じゃあ、金･土･日と休暇で。　　　　　　　　　　　　　　　／,;-'ﾞ ,,-';ﾞ!--ﾞi-i'" ￣ '，　 Yi,
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　　".／ヽ, 　 ! ﾞ;;＿,,ノ 　 　! ﾞヽ,
+　　　休み明けから、次のゲームの相談しますよ。　　　/　　　 ./　　　￣;Ｔ!　 ,／　　 ﾉ.　 丿i ┬-─ '',ﾞﾆ'- ､
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　　,,/　　　　　 ﾞ''ニﾞ- 　 ／　i／　/　i　　　/　　　 ｀i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .,_,i　＿,;;'ﾞ　　　　　 ,､-''ﾞヽ､_／,､-''｀　 /　　i　　/　　　　　 i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 i　￣＿,.ﾌ　　　　 /i　　 /　! i´ ）､ 　,/　　 !　 i　　　　　　 i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　!￣￣　 　 ! 　 　 / !　　/　,i　!'iﾞ　'.／!-､,／　/　　　　　 　 !
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　i　　○ 　　i 　 　 ! !　　 ｀yﾞi .i　!.　　/　　ﾞ> ﾉ　 　 　 　 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　　 　　 !､-ヽ;ﾞ↓　　/　i !　 !　./　　 /./　 　 　 　 　 /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 i　　○ 　　!｀'　　　ﾞi. 　i 　 !　　i. /　　 //　　　　　　　 /i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　　 　　 !　　　　i_,,_ !　 ! 　 .i/.　　//　　　　　　　 / i
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　　　 　 ! 　　／／ﾞ￣ﾞ'' - 'ﾞ´￣￣　　　　　　　 /　i
+
+
+
+　　　　　　　　　　　　 -,,_----------:､__
+　　　　　　　　　　　 -=;;-`----　　　ヽヽ `-‐i
+　　　　　　　　　　　　 -;=---　　 _r'-''‐`‐､,. .!、
+　　　　　　　　　　　　　 `-:､.r‐､､!. -､,,,_　　.|'"
+　　　　　　 　 　 　 　 　 　 i ! ri　 　 (.･)`' ir'
+　　　　　　　　　　　　　　　|-`'i　　　　　_ _!　 ヽ‐z
+　　　　　　　　　　　　　　ノ､　 ヽ　 (二ﾆ'r'　 　 ', Z　　　　　　　　休暇三日！？
+　　　　　,..--､------r''"i　`'-､_　-､,,_,,/　　　　i ＞
+　　　　 ,'　　　`:､　　 |　　':,　　　`‐r:,!､_　 　 　 ,'r`
+　　　　,'　　　　　',　　|　　 ヽ､_　　,'　`i',':,ー-､-､
+　　　 ,'　　　　　　i　　`''ﾆ-" `:､-:'`:i-,'ヽ,ヽ　 ヽ `､
+　　　i　　 　 　 　 l.　　 `:､　　　＼　|　', |`:､.　　',　',
+　　 ,'　　　　　　 ,'　　　　 `:.､　　 ヽ.|　 ',| ﾟ./　　 i　.i
+　　,'　　　　　　 ,'　　　　　　　`:.､　 `:､　i. ,'　　　.|　.|
+　 ,'　　　　　　 ,'　　　　　　　　　 `-､ ヽ,!.,' ―--.|　 |
+　,'　　　　　　 ,'　　　　　　　　　　　　`､,'/　　　　i　 |
+./　　　　　　 ,i　　　　　　　　　　　　　i"　　　　　i　 .|
+　　　　　　　/|　　　　　　　　　　　　　|O　　　　 i　　',
+┌‐―───┐　 　 　 　 　 　 　 　 |　　 　 　.|　　 .i
+│　ミカミ　 　 |　　 　 　 　 　 　 　 　|　　　　　l　　　| 
+
+
+
+
+
+
+773 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2011/05/08(日) 21:08:31 ID:n4.PgnV2
+
+
+
+<strong>三日ワロタｗｗｗｗｗ祝日挟めば意味ねぇジャンｗｗｗｗ </strong>
+
+
+774 ： <strong><span style="color:#009900">◆g7JmdBpfOE</span></strong>：2011/05/08(日) 21:08:35 ID:vzGgu0Ac
+
+
+
+
+
+ゲーム業界はじまってだいぶ時間がたったこの時期だが、
+この頃になっても、開発現場の様子は、こんなもんだったようである……。
+
+もちろん、これが標準なのか、カプコンだけの事情だったのかどうかはわからないが……
+
+
+
+　　　　　　　　　　　　　　　　　　　 ＿
+　　　　　　　　　　　　　　　　　　　 ＼ヽ,　,、
+　　　　　　　　　　　　　　　　　　　　　`''|/ﾉ
+　　　　　　　　　　　　　　　　　　　　　　.|
+　　　　　　　　　　　　　　　　　　＿　 　 |
+　　　　　　　　　　　　　　　　　　＼｀ヽ、|
+　　　　　　　　　　　　　　　　　　　 ＼, V
+　　　　　　　　　　　　　　　　　　　　　`L,,_
+　　　　　　　　　　　　　　　　　　　　　　|ヽ､)
+　　　　　　　　　　　　　　　　　　　　　　|
+　　　　　　　　　　　　　　　　　　　　　ノ
+　　　　　　　　　,､　　　　　　　　　　　/
+　　　　　　　　ヽYﾉ　　　　　　　　　　|
+　　　　　　r''ヽ、.|　　　　　　　　　　 |
+　　　　　　`ｰ-ヽ|ヮ　　　　　　　　　 |
+　　　　　　　　.`|　　　　　　　　,; i,＿|＿＿_
+　　　　　　　　　|　　,,,,__　, ､,く〈 ll~i||||||||||､
+　　　　　　　 ,;;彡-::::::::;;;;/;;li'!!|‘　とﾆ)||||ﾆ ｌ
+　　　　　　,;;ｌ;;;;;;;;;;;;::::`､;;;ｌ;;ｌ |_,,!､_　ﾉ||||||||):ﾉ
+　　　　　 /;;|;;;;;;;;;;;;;;;;;:::ｌ;ﾉ;;ｌ /;;;;`;::=<`"!/'_=ｌ
+　　　　 /;;;;;;;ﾒ;;;;;;;;;;;;;;;;;:ヽ〉ｙ;;;;;;;::::8ｲﾝＴ;;;;;;::::ｌ
+　　 　 /;;;;;;;;;;;;;ヽ;;;;;;;;;;::_::ノ;;;;;;;::::::ﾝ;;;;;/ｌ;;;;;;;::::|
+　　　 ﾉ;;;;;;;;;;;;;;;;;;;､;;;;;;;';;/;;;;;;;;;:::::/;;,イ;;;;|;;;;;;;::::l
+┌‐────┐/;;､;;;;;;;;;;;;;;:::::/／　l;;;;;!;;;;;;:::::|
+│　　ミカミ　　|_;;_;;`;､;;;;;;_:::ノ´　　　 、;;;;;;;:::ﾉ
+
+
+
+
+※参考資料：電撃文庫「ゲームの巨人語録」　三上真司さんと岡本吉起さんの対談記事より、本人の談話。
+
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+
+　やるやらで学ぶ「ゲームの歴史」
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┼ヽ　 -|r‐､.　ﾚ　|
+　　　　　第１１話外伝　「当時の現場？」　　　　　　　　　　　　　　　　　　ｄ⌒)　./|　_ﾉ　 __ﾉ
+
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ 
+
+
+
+
+
+
+
+
+<hr size="２"/>
+
+
+
+
+
+　　　　　　　　　　そしてどん判金ドブへ……
+
+　　　　　　 ／￣￣＼
+　　　　　／　　ヽ_　　.＼
+　　　　 （●）（● ）　　 ｜　　　 　　　　　＿＿＿_
+　　　　 （__人__）　 　 　 | 　 　 　 　 　 ／　　　 　 ＼
+　　　　　ｌ｀ ⌒´　　　　｜　　　　　　／─　 　 ─　　＼　　　　　つーかカプコンってまじで人がいなくなるよね
+.　　　　　{　　 　 　 　 ｜ 　 　 　 ／　（●） 　（●） 　　＼　　　 シリーズ物も自分でダメにしちゃうし
+　　　　 　{　　　　　　 /　　　　　 | 　 　 （__人__）　　　　　|　　　 マジでどーなるんだろ？
+　　　　　 ヽ　　　　　ノ、　　　　　＼ 　　 ｀ ⌒´ 　　　 ,／
+　　　 　／ 　　　　　:l 　ヽ　　　　　/ 　 　 　 　 　 　 　＼
+　　　 　|　|　　　　 　|　　|　　　　｜l　　　　　　 　 　 ｜　｜
+　　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+　　　　　　　とりあえず４はなかったことにしていいから、逆転裁判の続き出してくれないかな
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3343/clap" id="fc2button-clap-3343" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3343").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/9.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3343/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やるやらで学ぶゲームの歴史　第１１話外伝　当時の現場？" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3343.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3409.html">
+					やるやらで学ぶゲームの歴史　第１５話　グンペイ (2011/06/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3400.html">
+					やるやらで学ぶゲームの歴史　第１４話外伝　或るソフト会社の物語 (2011/05/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3395.html">
+					やるやらで学ぶゲームの歴史　第１４話　in your Pocket (2011/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3387.html">
+					やるやらで学ぶゲームの歴史　第１３話　おまけ (2011/05/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3377.html">
+					やるやらで学ぶゲームの歴史　第１３話　プレイステーション (2011/05/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3359.html">
+					やるやらで学ぶゲームの歴史　配役裏話　任天堂のひとたち (2011/05/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3355.html">
+					やるやらで学ぶゲームの歴史　第１２話　星の申し子 (2011/05/15)				</a>
+</li>
+<li class="relate_li_nolink">
+				やるやらで学ぶゲームの歴史　第１１話外伝　当時の現場？ (2011/05/09)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3337.html">
+					やるやらで学ぶゲームの歴史　第１１話　そして魔王は目覚めた (2011/05/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3325.html">
+					やるやらで学ぶゲームの歴史　第１０話　いつでも、あなたのそばにいる (2011/05/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3299.html">
+					やるやらで学ぶゲームの歴史　第９話　最終幻想 (2011/04/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3278.html">
+					やるやらで学ぶゲームの歴史　第八話　メディア戦争前奏曲（４/１７日追記） (2011/04/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3261.html">
+					やるやらで学ぶゲームの歴史　第七話外伝　ゼルダとドラクエの作者は同じ人。 (2011/04/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3259.html">
+					やるやらで学ぶゲームの歴史　第七話　そして、伝説ははじまった。 (2011/04/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3242.html">
+					やるやらで学ぶゲームの歴史　第六話外伝　コントローラーの歴史 (2011/04/05)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やるやらで学ぶゲームの歴史　第１１話外伝　当時の現場？" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/05/09 14:05 ]
+<a href="/blog-category-290.html" title="カテゴリを参照">ゲーム系　やるやらで学ぶゲームの歴史</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html#comment_list" title="この記事のコメントを参照">CM(22)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3343"
+    dc:title="やるやらで学ぶゲームの歴史　第１１話外伝　当時の現場？"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html"
+    dc:subject="ゲーム系　やるやらで学ぶゲームの歴史"
+    dc:description="1990年。ファミコンが発売されてから7年がたち、主要ハードの世代交代がおきつつある状況で、果たして開発現場の環境はいったいどんなものだったのだろうか。この年は、後に「バイオハザード」などで名を上げる、三上真司がゲーム業界に足を踏み入れた年である。参考になるかどうかはわからないが、彼の、カプコン入社当初の様子を見てみよう。　　　　　　　　　　　 _, ､&#45; ーiiiiヽ&#45;,,､_　　　　　　　　 &#45;=ﾆ゛|||||||||||i''&#45;''..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-05-09T14:05:55+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3348.html" title="やる夫で学ぶ生命保険 その７">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3346.html" title="やる夫が映画の話をするようです　第六回　プロデューサーズの巻">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment17237">[ 17237 ] <strong></strong></p>
+</div>
+<div class="comb">
+バンナムの終わりっぷりに比べれば全然マシなレベルだと思うが･･･ｗ＜カプコン<div class="comment_navi">
+[ 2011/05/09 15:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17242">[ 17242 ] <strong></strong></p>
+</div>
+<div class="comb">
+バイオ5はあまりよろしくなかったし
+アケ新作のストⅣも実質、旧SNKの製作だし
+名倉イは実写版ドラゴンボール並の地雷臭がするし･･･。
+ 
+大丈夫かしら･･･。<div class="comment_navi">
+[ 2011/05/09 16:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17243">[ 17243 ] <strong></strong></p>
+</div>
+<div class="comb">
+そういえばワープの飯野社長もカプコン入ってクイズの問題考えてたとかファミ通の鈴木みその漫画でやってたなあ。
+今どうしてるんだろ？<div class="comment_navi">
+[ 2011/05/09 17:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17244">[ 17244 ] <strong></strong></p>
+</div>
+<div class="comb">
+カプコンは辻本一族の私物だからな
+どんなに良いソフトを作っても
+上限は決まっていて手柄は横取りされる。
+ゲームの事を全く知らない連中が貸ビルやワイナリーなどゲーム以外の分野に手を出して大ヤケド
+経営危機になるが神風が吹いて持ち直す
+それの繰り返しだし。
+ 
+ある程度出世すると辞めたくなるのも理解できる。<div class="comment_navi">
+[ 2011/05/09 17:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17256">[ 17256 ] <strong></strong></p>
+</div>
+<div class="comb">
+カプコンといえばBOF
+シリーズ最後の作品となったドラクォは素晴らしいゲームだったが世間の評価は糞ゲーだったからな…
+ 
+なんとなくアンサガ臭がする…<div class="comment_navi">
+[ 2011/05/09 20:47 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17260">[ 17260 ] <strong></strong></p>
+</div>
+<div class="comb">
+この後バイオをつくる三上氏だが、
+ディレクターに選ばれた理由は「怖がり」だからだとか言う話をなんかのインタビューでしてたな。
+（怖がりじゃないと何が怖いかわからんかららしい）
+最初は勘弁してくれといやがってたそうで<div class="comment_navi">
+[ 2011/05/09 21:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17270">[ 17270 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>17243
+最近だと最前線セレクションズで色々と書いているみたいだね。
+現時点での最新作(きみとぼくと立体)の評価は悪く無いみたいだが<div class="comment_navi">
+[ 2011/05/10 00:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=17270" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17272">[ 17272 ] <strong></strong></p>
+</div>
+<div class="comb">
+でもまあどれかが駄目になってもまた別のシリーズがヒット飛ばすからなあ
+魔界村、ロックマン、ストリートファイター、ＢＯＦ、バイオハザード、逆転裁判、モンスターハンター、ガンダムＶＳ、戦国ＢＡＳＡＲＡ･･･
+特にストⅡとモンハンは社会現象になってるくらいだし<div class="comment_navi">
+[ 2011/05/10 01:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17274">[ 17274 ] <strong></strong></p>
+</div>
+<div class="comb">
+カプコンゲームでやりこんだのはスト３と虹色町の奇跡
+ジョジョ第三部
+ 
+アーケードでポリゴン使ったのはことごとくコケたよな<div class="comment_navi">
+[ 2011/05/10 02:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17276">[ 17276 ] <strong></strong></p>
+</div>
+<div class="comb">
+アトラスも入社早々貰ったのが寝袋で昼夜問わず床で寝てる人がいるとか
+2か月家に帰れなかったとか48時間仕事してたとかいろいろあるらしいな
+まぁどこも昔は似たようなもんなんじゃないかな<div class="comment_navi">
+[ 2011/05/10 05:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17288">[ 17288 ] <strong>泳ぐ名無しさん</strong></p>
+</div>
+<div class="comb">
+とにかく当時がいかに無茶苦茶な時期だったか
+わかりましたｗ　バブルですな～ｗ
+そのお蔭で超人的な人だけが選抜されて残った
+わけなので、ある意味人材を鍛えるにはよかっ
+たかも知れないけれどもｗ<div class="comment_navi">
+[ 2011/05/10 13:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17291">[ 17291 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞マジでどーなるんだろ？
+経営的にはモンハン３のおかげで、利益が前年度比で約３倍になって絶好調らしいけどね。
+その金をその他のシリーズ物にも注いでくれればいいんだが。
+<div class="comment_navi">
+[ 2011/05/10 17:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=17291" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17292">[ 17292 ] <strong></strong></p>
+</div>
+<div class="comb">
+モンハン3は凄いよな。460万本出荷だっけ
+中古も出回って無いし、PSP持ってる人の4人に1人以上は買ってる計算<div class="comment_navi">
+[ 2011/05/10 17:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=17292" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17299">[ 17299 ] <strong></strong></p>
+</div>
+<div class="comb">
+第五世代当たりまでの開発現場は何処もこんな感じだよ
+ねー。大きい処でようやく人並みになったのが第六世代
+で携帯機や携帯とか兎に角小さいところは余程スケジュ
+ーラが優秀か経験もって要領が良いリーダーが居ないと
+こうなるのがオチだよねー。
+ 
+>>17244
+昔良く聞いたけど今でもなのかー。<div class="comment_navi">
+[ 2011/05/10 22:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=17299" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17304">[ 17304 ] <strong></strong></p>
+</div>
+<div class="comb">
+こんな人材使い潰すことやってても、次々と新しい人材が出てくるとはどういう会社だカプコン<div class="comment_navi">
+[ 2011/05/11 01:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=17304" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17305">[ 17305 ] <strong></strong></p>
+</div>
+<div class="comb">
+今でもIT関連の酷いところはこんなもん<div class="comment_navi">
+[ 2011/05/11 02:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17355">[ 17355 ] <strong></strong></p>
+</div>
+<div class="comb">
+モンハン3って書くとwiiの方が浮かぶからP3って書いてほしす<div class="comment_navi">
+[ 2011/05/12 22:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17364">[ 17364 ] <strong></strong></p>
+</div>
+<div class="comb">
+バンナム、スクエニ…合併した会社がことごとくダメになっていってるのはなんでだろう…<div class="comment_navi">
+[ 2011/05/13 11:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment17451">[ 17451 ] <strong></strong></p>
+</div>
+<div class="comb">
+合併したからダメになるんじゃなくて、ダメになったから合併するんだろ。<div class="comment_navi">
+[ 2011/05/15 15:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment32498">[ 32498 ] <strong></strong></p>
+</div>
+<div class="comb">
+※17304
+上記の三上さんのお話にも繋がるんだが、CAPCOMはあんな感じで新人に大きな仕事をポンと任せる事を平気でやるんだ。
+あんな感じで仕事をしまくる→責任を任されてるから、人材の成長率が半端無く高まる→そして能力のある人がどんどん出てくるって感じになるわけだ。<div class="comment_navi">
+[ 2012/03/08 22:19 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37012">[ 37012 ] <strong></strong></p>
+</div>
+<div class="comb">
+当時から如何に労働基準法が空気なのかわかりますな。
+マリファナ吸いながら仕事してたアタリ社員が聞いたらどんな反応するんだろう・・<div class="comment_navi">
+[ 2012/05/21 19:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment89671">[ 89671 ] <strong></strong></p>
+</div>
+<div class="comb">
+まぁ当時はどの業界も労基ガバガバだったし
+その分昇給も良かったから黙認されてたけど<div class="comment_navi">
+[ 2017/01/17 15:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3343" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3343.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3343"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3343-bf7b6409">http://oyoguyaruo.blog72.fc2.com/tb.php/3343-bf7b6409</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3348.html" title="やる夫で学ぶ生命保険 その７">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3346.html" title="やる夫が映画の話をするようです　第六回　プロデューサーズの巻">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,127 @@
+<div class="article">
+
+管理人です。
+
+現在PCが不調のため、更新が遅れたり内容に不備が出たりすると思いますが
+ご容赦ください。
+
+
+後日修正するつもりです<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/192/clap" id="fc2button-clap-192" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-192").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/12.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/192/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="お知らせ" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-192.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-192.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-192.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5258.html">
+					新年のご挨拶　水銀燈が『やるおクエスト』をやるようです (2013/01/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4604.html">
+					おかげさまで泳ぐやる夫シアターは３周年を迎えました (2012/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3801.html">
+					ヒデが平塚のピッチに帰ってきたぞおおおおおおお！！！ (2011/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3704.html">
+					【宣伝】　「やる夫がドラゴンクエストの開発者になるようです」の動画ができました (2011/09/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3423.html">
+					おかげさまで泳ぐやる夫シアターは二周年を迎えました (2011/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2989.html">
+					なんかスマートフォンでもやる夫スレ見られるようになったらしいよ(追記：ご報告ありがとうございました） (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2535.html">
+					管理人よりの御礼 (2010/09/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2239.html">
+					管理人よりのお知らせ (2010/06/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1277.html">
+					一周年特別企画　　「やる夫で学べないやる夫まとめブログの作り方　改訂版」 (2010/06/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1262.html">
+					管理人よりの御礼＆年末年始のお知らせ (2010/01/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-535.html">
+					１０万HIT達成！！ (2009/08/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-470.html">
+					ありがとうございました！！ (2009/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-361.html">
+					管理人よりのお知らせ２ (2009/07/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-314.html">
+					ありがとうございます！！ (2009/07/15)				</a>
+</li>
+<li class="relate_li_nolink">
+				お知らせ (2009/06/25)			</li>
+</ul>
+
+</dl>
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="お知らせ" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-192.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2009/06/25 03:24 ]
+<a href="/blog-category-162.html" title="カテゴリを参照">雑記</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-192.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-192.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div>

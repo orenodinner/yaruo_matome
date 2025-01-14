@@ -1,0 +1,1055 @@
+<div class="article">
+
+
+
+
+　原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+
+　紀元前211年、スペイン
+
+　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|
+　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|
+　　　　 （　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (
+　　　　　｀）　　　　　　　　　　　　　　　　　　エブロ河→―――－ヽ　　　　　　　　　 ゝ
+　　　　　 く　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　○ｴﾝﾎﾟﾘｱ
+　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀ヽ　　　　　　／
+　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｜　　　◎ﾀﾗｺﾞｰﾅ
+　　　　　　｀|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,～～´~
+　　　　　　|´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+　　　　　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+　　　　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　　 /´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　/´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　◎ｻｸﾞﾝﾄ
+　　 /＿っ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ,
+　　　　|_，　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_,ゝ
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/´
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　 ,＿●ｶﾙﾀﾍｰﾅ
+　　　　 /＿＿　　＿＿　　　　　　　　　　　　　　　　　　/
+　　　　 ｀　　　｀´~　　 ｀ヽ,　　　　　　　　　　　　　＿　/
+　　　　　　　　　　　　　　｀）　　　＿_/´~~~｀～～´　｀´
+　　　　　　　　　　　　　　 ＼　 /´
+　　　　　　　　　　　　　　　　｀´
+
+　やる夫達はローマ共和国を作るようです
+
+　第８８話　「イベリア戦線崩壊」
+
+
+
+
+
+
+
+
+
+134 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:23:30 ID:Q3eUTUP6
+
+
+
+
+
+    　紀元前２１１年になると、カプア、シラクサの陥落により、ローマは明らかに状況を好転させた。
+
+
+
+    　　　　　　　　　　　　　　　　　　　　,. -:―- ､　　　　　　　　*
+    　　　　　　　　　　　　　　　　　　／: : : : : : : : :＼
+    　　　　* 　　　　　　　　　　　　/: : : : : : : !:.|^^ヾﾐヽ,
+    　　　　　　　_!_ 　 　 　 　　　 /: : : :/:./|:.ハ!､__ }:!ヽ
+    　　　　　　　 !　　　　　　　　/: :元仆七"　　,　 ﾘ　　　_人_
+    　 　 　 　 　　　　　　　　 ＜: /f穴!　'⌒　　 ⌒ﾑ　　　｀Y´
+    　　　　　　　　　　　　　　 厶: : `ｰ:.､　 r-　ｧ　八!　ただいまー
+    　　　　　_人_　　　　　　　　厶ィZ:_: ＞ ､ｰ, ィ{:ゝ　　　　　　　　　＊
+    　　　　　｀Y´ 　 　 　 　　　　 ,xr＜:|　＼_ノ^TTヽ
+    　　　　　　　　　　　　　　　／ ヽヽ: ! ／|ﾟ|＼八!　',　　　　*
+    　　　　　　　　　　　 r‐―く.　　 |: |: :＼ | ! /: : :!　 ＼＿_ 　 　 　 　 n__
+    　　　　　　　　　　　 |　　　　　　|/ : : : :ヽｿ: r:ｫ|　　　　/　　　　　／んれ
+    　　,. ‐‐､　　　　　　 ヽ.　　　 ／: : : : : : : : : :ヾ:|　　 ／＼　　 _,ノ　 ’ ﾉ¨
+    　 ﾑｨ　　＼＿＿__／　＼,／ |: : : : : : : : : : : : :|＼厶　　　￣　　,.　‐'
+    　　｀ ｰ - ､ _　　　　　 ／　　 ',: : : : : : : /: : : :ﾘ　　　＼__,　- '´
+    　　　　　　　　 ￣￣｀´　　　　} : : : : : :./: : : : {
+    　 　 　 　 　　　　　　　　　　 / : : : : : : : : : : :∧
+    　　　　　　　　　　　　　　　 /＿＿＿: : : : : : :.ノ
+    　　　　　　　　　　　　　　／ー――- ミ ｰ―┤
+    　　　　　　　　　　　　 ／::::::::::::::::::::::::::::::｢￣ ¨!
+    　 　 　 　 　　　　　 <:::::::::/:::::::::::::::::::::::::|::::::::::∧
+    　　　　　　　　　　　　＼:/:::::::::::::::|:::::::::::|::::::::::ｉ::::〉
+    　　　　　　　　　　　　　　＼:::::::::::|:::::::::::::::::::::::|/
+    　　　　　　　　　　　　　　　　{￣⌒ ｰ ┬―r┘
+    　　　　　　　　　　　　f7＞､　',　　　　　!　 ,'
+    　　　　　　　　　　　　||:{　　＼', 　 　 　|　/
+
+    　　　　　　　　　　＊マルケルス（AA/御坂美琴）
+
+
+
+
+
+135 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:24:02 ID:Q3eUTUP6
+
+
+
+
+
+    　　　　　　　　　　　　　　　／｀:.:.:.:..　、
+    　　　　　　　　　　　　　 ／:.:.:.:.:.:.:.:.:.:.:.:.丶
+    　　　　　　　　　　　　／:.:.:.:.:.:.:.:,:.-――‐｀-　 ．_
+    　　　　　　　　　　　,:':.:.:.:.:.;.:.:.´:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:｀:.:...、
+    　　　　　　　　　　,:':.:.:.:,:.:':.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ
+    　　　　 　 　 　 .,:':.:.:.:/:./:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:..＼
+    　　　　　　　　 /:.:.:.:∧/:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:＼
+    　　　 　 　 　 /:.:.:./:.V:.:.:.:.:.:.:.:.:.:.:.:/:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽ
+    　　　　　　　/:.:.:./|:.:.:|:.:.i:.:.:.:.:.:.:.:./:.:.:.:.:,:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽ
+    　　　 　 　 /:.:.:/:.:.!:.:.:|:.:|:.:.:.:.:.:.:.,':.:.__:..ﾊ:.:.:.:.:.:},:.:.:.:.:.:.:.:.:i:.:.:.:.:.:.:.:.:.:.:.:',:.}
+    　 　 　 　 ,':.:.:/:.:.:.:l:.:.:|:.:|:.:.:.:.:.:. |:「:.|!/二!ヽ:..,'.}:i:.:.:.:.:.:.:.|:.:.:.i:.:.:.:.:.:.:.:.:N
+    .　　　 　 ,':.:.:/:.:.:.:.:.〉-.､:|:.:.:.:.:.:. |:|:.:.| 　　l:.:.:/ j,ﾊ:.:.:.:.:.7Tヽ|:.:.:.:.:.:.i:.:|. ヽ
+    　　　　　,:.:./:.:.:.:.:.:.|　　ヽ:.:.:.:.:.:.|ﾊ/xz=zx|／ 　　}:.:.:./⌒|: |:.:.:.:.:./ /
+    　　　 　,':.:,':.:.:.:.:.:.:∧　　 ',:.:.:.:.:.|:.K>'⌒ヾX、　　 |／, zﾐ､/|:.:.:.:/|:/
+    　　 　 ,:.:.:.l:.:.:.:.:.:./:.:.ヽ　　Ｖ⌒ヽ:|　　　　　　　　 　 ｀⌒ｿ:,':.:イ /
+    .　　 　l:.:.:.l:.:.:.:.:./:.:.:/　〉 ´　　　 ヽ　　　　　　　　　　　/:.:|/:/
+    .　　　 |:.:.:l:.:.:.:./:.:.:/　/ 　 ＿ , - ⌒ヽ　　 「￣i7　 　 /|:.:.: /
+    　　 　 !:.:.l:.:.:.,':.:.:/　 ゝ、　　　 　 　 ノ　　 |　 /　 . イ:.:|:.:./　　　全戦線が順調！
+    　　　　|:.:.l:.:.:|:.:.:,'　　　_}　　､_,　´￣｀ヽ丶　_,.　 ´　 |:.:.|:/　　　　少し前の状況を考えれば、夢のようだな！
+    　　　　|:.:.|:.:.:|:.:,'　fﾆ＞ ､　　　　　,. -くヽ　 {　｀ヽ　｜:/
+    　　　　|:.:.:.:.: |:.l　/:/:::::::∧　　ｰ ´　 , .j::::〉　!ヽ　__｀.|/、
+    　　　　|:.:.:.:.: |:.|./:/:::::::::{::::ヽ　　　／｀７::{-　,／　 _ヽ　 ｀iTｰ┐
+    .　　 　 !:.:.:.:.:.|:/:::,'::::::::::::',::::::ゝ､__　　　i:/|｀'<　 ／　　ヽ　|:|　 ﾄ､
+    .　　 　 |:.:.:.:. /:::::|:::::::::::::::::::::::::::丶--イ:::::!　 ｀<　　／｀ヽ. !:!　.|:::ヽ、
+    .　　　　',:.:.:.:.ヽ::::|:::::::::::::::::::::ゝ､__:::::｀´: ,〈.　 　 ｀ <.　　　 ',|:|　.|:::::|:ヽ
+    .　 　 　 ヽ:.:.:.:.ヽ:|::::::::::::::::::::::::::::::::::::::イヽ:ヽ　　　　＼　　 }|:|　.|:::::|:::::',
+
+
+    　マルケルスの凱旋式が行なわれるなど、ローマでは楽観的な見方が広がってきた。
+
+
+
+
+
+136 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:24:33 ID:Q3eUTUP6
+
+
+
+
+
+    　しかし、それは壮大なフラグだった。
+
+
+
+
+    　　－＝≡　　 Λ,,Λ
+    　－＝≡　　 (；´・ω・）　た、大変です！
+    －＝≡　　　⊂　　　ｏ　ファビウス様！！！
+    　－＝≡　　 （　　⌒)
+    　　－＝≡　　 c し'
+
+
+
+    　　　　　　　　　 . ＜:.:.:.:.:.:.:.:.｀ヾ!
+    　　　　　　 　 ／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:｀
+    　　　　　　　./:.:.:.:.:._∧ィ:|ヽ|:.:,､:.:.
+    　　　　　 　 .}ｨ:.:.:.:./zzミ､|　ﾆ二:.:
+    　　　　　　　 .|:}!:.:.{“ iり　　 に!”}_
+    　　　　　　　 :|ｲ}:.:.!　　　'　　　　|:
+    .　　　　　　 　 ‘|:.八　　.r‐ ，u.ｲ:.　どうした？
+    　　　　　　　 　 |:.:.| ＞　.二 ィ:./|:　何かあったのか？
+    　　　　　　　　__|:.:.|イﾘ　　　 ト､:|:
+    　　　　　 rイ:| N!:.:|　ヒ --＜}　.}ｨ
+    　　　 __f´:::::::| Nヾ|　|-ー‐-/　 .〃
+    　.　＜::::::::::::::} N　　 |￣￣/　.〃
+    ´:::::::::::::::::::::::::l N　　 .|　　/　〃
+
+
+
+
+
+137 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:25:06 ID:Q3eUTUP6
+
+
+
+
+
+    　　　　　　　　 .∧__,,∧
+    　　　　　　　　（´・ω・`）　コルネリウス・スキピオ兄弟が戦死されました！
+    　　　　　　　　 (つ　と）　イベリア方面軍が壊滅し、大混乱しています！
+    　　　　　　　　 ｀ｕ―ｕ´
+
+
+
+    　　　　　　　　　　　.-‐.:'´:.:￣:.:｀ヽ､,..-..-､
+    　　　　　　　　　／:.:.,:.:.l:.:.:ヽ:.:.:.:.:.:.:.:.＼.:.:.:.',
+    　　　　　　　　 //,:.'/l:/ヽ:l/ヽﾊ,:.:.:.:､:.:.ヽ:.::.:|
+    　　　 　 　 　 〃:.{_{ '´　　　 ｀ヽﾘ|:.:.:.:.:.:.i|:.::.:|
+    　　 　 　 　 　 ﾚ!小ｌ○　　 　○ 从:.:.|、:i|:.:.:|
+    　　　　　　 　　 ヽ|l⊃　＿＿　⊂⊃　|ﾉ∧:.:.l
+    　 　 　 　 /⌒ヽ__|ﾍ　　 　　 　 　j /⌒ii　|:.:|
+    　　　　　　＼ /:::::＼＞,､ __,　イァ/　 / 　.l:.:l
+    .　　　　　 　 /:::::/ 　 Yヾ:::|三/::{ﾍ､__∧ 　ソ
+    　　　　　　　｀ヽ<　 　 　 ヾ∨:::/ヾ:::彡'
+
+
+
+
+
+138 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:25:49 ID:Q3eUTUP6
+
+
+
+
+
+    　時はさかのぼり、７年前の紀元前２１８年のマルセーユ。
+    　プブリウス・コルネリウス・スキピオは、弟のグネウスに軍を任せ、イタリアへと帰還した。
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　　　　＼
+    　　　　　 ／　　⌒　　⌒　＼
+    　　　　／ 　 　（⌒）　 （⌒） ＼
+    　　 　 |　　 　　　　__´___　　　 |
+    　 　 　 ＼ 　 　 　 `ー'´　　,／　スペイン戦線は、私にお任せを！
+    　　　 　 /⌒ヽ 　　　　　　　ｨヽ
+    　 　 　 / rｰ'ゝ　　　　　　　〆ヽ
+    　　　　/,ﾉヾ　,>　　　　　　ヾ_ノ,|
+    　　　　|　ヽ〆 　 　 　 　 　 |´　|
+
+    ＊グネウス・コルネリウス・スキピオ（AA/できる夫）
+
+
+
+
+
+139 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:26:34 ID:Q3eUTUP6
+
+
+
+
+
+    　その後ハンニバルとの戦いで重傷を負った兄も、何故かこの戦線に投入され、兄弟は活躍していた。
+
+
+
+    　　　　　(⌒)　 　 　 _＿＿＿　　　＿＿＿_ 　　 　(⌒)
+    　　　　 　 | ヽ 　　／ ⌒ 　⌒＼／⌒　 ⌒ ＼　 　/ |
+    　　　　　　|　ヽ／　（○ ）::（○ )|( ○）::（ ○） ＼/ 　|
+    　 　 　 　 | 　 'i 　:::::::（＿人_）::::|:::､__＿__,::::::::　 i 　 |
+    　 　 　 　 |　　 |　　　　|r┬-| 　| 　|r┬-| 　　　| 　 |
+    　　　　　　ゝ　　　 　　　`ー´　∧ 　`ー´　　　　 　ﾉ
+    　　　　　／ 　　　　　　　(⌒) / 　',(⌒) 　　　　　　＼
+    　　　　　　　　　 　　　　　＼ `ｰ-" ／
+
+
+
+    　毎年、エブロ河を越えて、スペイン内部へと攻撃をかけた。
+
+
+
+
+
+140 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:27:07 ID:Q3eUTUP6
+
+
+
+
+
+    　この二人が使えたのは、二個軍団のみ。
+    　これをさらに一人一個軍団に分け、激烈な戦闘を繰り返し、カルタゴ軍を次々と撃破していった。
+
+
+
+    　　　　　　　　　　　　　　　　　　 __,,.．-一=ｰ-､　　　　　　　　 ─　　　───
+    　　　　　　　　　　　　　　　　 ／　　　　　　　　＼　　　　　　　　　　　　　　　 ￣￣
+    　　　　　　　　　　　　　　　 /　　＼_,,　　　 　 　　ヽ`ｰ-､━━━━━┓￣￣　￣￣
+    　　　　　　　　 i_,r<yヾﾆヾ ''="" l="" ―‐="" ─="" ───<br="" ○="" （="" ）="" ＼━━━━="">    　___r '´￣ヽ';二::-ﾞ'=^(　　 |　 　 　 　 　（　○ ） 　　.l　 　 　 ヽ　　＿＿＿＿＿＿
+    !!ゝ:{　　 　 ヾ　　 ヽr'⌒`ヽ.＼　　　　´　　　　　　　 lノ 　 　 　 l　 ──────
+    　　∨　　　 ヽ　　 l　　　　ヽ ＼ {l!il!iii!li7´　　　　 ／|　 　 　 　 |　──────
+    　　　＼　　　　ｰ--ゝ──‐｀ｰ':≧ － '＿＿＿／　　　　　　 　 |　＿＿＿＿＿＿
+    　　　　{　　 　 　 ＼　 　 　 　 　 　 丶､　　　　 　　　　　　 　 　 l　 ＿＿＿＿＿
+    　　　　 ＼　　　　　 `　　　　　　　　　　　　　　　　　　　 　 　 　 |
+    　　　　　　＼　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 | ───────
+    　　　　　　　 ＼＿＿＿＿＿　　　　　　　　　　　　　　　　　　 　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 `丶､　　　　　　　　　────　　|
+
+
+
+    　ローマ軍がイタリアで悲惨なことになっている間も、
+    彼らは着実に勝利を重ね、スペインを大きく占領していった。
+    　ハンニバルが補給を受けられなかったのは、彼らの活躍によるところが大きい。
+
+
+
+
+
+141 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:27:36 ID:Q3eUTUP6
+
+
+
+
+
+    　ついには、サグントを奪還。
+    　ここまで来れば、もうカルタヘーナも目の前である。
+
+
+
+    　　　　　　＋　　　 　　　 　　＋　　　　　　　 ＿＿＿_ 　　　＋　　　　　　　　　　　＋　　　　　＋
+    　　　　　　　　　　　　　　 　　　　　＋　　　／⌒　　⌒＼ +　　　　　　＋
+    　 ┏┓　 ┏━━┓　　　　　　　　　　　／／･＼ .／･＼＼　　 　 　　 　 　　　 　 　 　┏━┓┏━┓
+    ┏┛┗┓┃┏┓┃　　　　　　+　　　／::::::⌒（__人__）⌒:::::＼　　 　 　 　　 　 　 　 　 ┃　 ┃┃　 ┃
+    ┗┓┏┛┃┗┛┃┏━━━━━ |.　┬ 　　 ﾄｪｪｪｲ　 　 　 |.━━━━━━━━┓┃　 ┃┃　 ┃
+    ┏┛┗┓┃┏┓┃┃　　　　　　 　 ＼│　　　`ー'´　　　 ／　　　　　　 　 　 　 　 ┃┃　 ┃┃　 ┃
+    ┗┓┏┛┗┛┃┃┗━━━_＿|＼∧∧∧ＭＭＭＭ∧∧∧／|＿__.━━━━━┛┗━┛┗━┛
+    　 ┃┃ 　　 　 ┃┃　　　　　　＞　　　　　　　　　　　　　　　　　　　＜　　　　　　　　　┏━┓┏━┓
+    　 ┗┛ 　　 　 ┗┛　　 　 　 /　　 ─　/　　/＿　──┐ヽ|　 |ヽ　ム ヒ　　 .|　|　　...┗━┛┗━┛
+    　　　　　　　　　　　　 　　　 Χ　　─　/　/￣　/　　　／　　|￣|￣　月 ヒ　 　|　|
+    　　　　　　　　　　　 　　　 ノ　　　＿_ノ　　　_ノ 　　 ＼　　/ | ノ ＼ ﾉ Ｌ_い　　o o
+
+
+
+
+
+142 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:28:09 ID:Q3eUTUP6
+
+
+
+
+
+    　これに危機感を持ったのが、カルタゴ本国だった。
+
+
+
+    　　　.....　　　"''''''""""""''''';:;:;,.,,..... ..　　　　　　　　　　　　　　.....,,,,__...,,;:;'''""''''::;;;;.......,,,,...;:;:;;''''"
+    　　　　　.,,.,;:;:;:;;:'""''''''''''''''""""　　　　:::::::::;;;;;;;;;;;''''''"""'''""""
+    ':.,　　　 '"　　　"''':;:,.,,.,..,.,.,.,.　　__.,.,.;:'"';:,.__,　　""''''''''':::::......"""''''''"""''''　 　 ⌒)_　 　 　 　 　 ...::::::'''
+    ::'　　　 .,;:'""""""""""'''''""""""　　　　　　""""''''''''''':::::::::;;;;,,,,,....._　　　　　　 　 ）　 　 　 """　　＾＾
+    　　　　;:,.,.,.,...._　　　　　　　　　　　　　　　　　　　　　　､､_....,,__,,,..::::;;;;;;;;;,,,,.....　　　　　　.......　　^^
+    ､､､､､.,;:'''"""　　　　　　　　⌒Ｙ⌒　　　　　　　　　　 　 　 　 　 　 　 ""'''''"''''':::::;;;,,..;;::...........................;;;;;;:::
+    ＿＿＿＿＿＿＿＿__ _ _　_　　_　　　_　　　　_　　　　　　　　_　　　　_　　　_　　_　_ _ _＿＿＿＿＿＿＿
+    　 ... .. .::: :..:.:.::.:: :: ...:..:::::.. . .:: .::: . ....:: ::...:::.. ..:::.......　 　 ⌒Ｙ⌒ 　 ... ..::.:::. ::::. : .:::. .::::::. .:::..: :. .. . .::: :: : .....:::. . .
+    　￣￣＼::..　.　.　.::　:　:..　.　...　:::　:::..　... .. .. .::::::::.......　.......:::::.. .　..　　　 .　..　.:::::　::　:.　_,. - ―――――
+    　￣￣￣|..　. .. ..　　　　　. .. ..　　　　.: .... 　... :. .:　.　:.:　　　 .　: .: ....　 .. .. . ...　　_,. -''"´. . . .: : : : ::::::::::::... .
+    　　 　 　 |.:.:.　. .:.　　:: .: ...　　 　 ... .. . .　. . .　　　　 .: ...　　　　　　..　. ＿＿_, ィ´　 　 　 　 .　. . .: : : : :::::::... .
+    　　 　 　 |:::::::.............　　.....::::::::::::.....　　　 ...::::::::::::::....... .　　 ＿＿＿＿_|＼　 　 　 　 　 　 　 　 .　. . .: : : : :::... .
+    　＿＿＿|　.::::::...... 　 ｌlY⌒Yl ..::::::::::.... .　　　ｌlY⌒Yl .:..:::. .| 　 _＿＿__|　 ＼　　　 　 　 　 　 　 　 .　. . .: : : : :
+    　＿＿_　 ＼:::::::...... __|| [囗 .!__　...::::::....　　__|| [囗 .!__ .::.. |　 .＼　　　|　　　＼　　　　　　 　 　 　 　 .　. . .:
+    　　　　:ｌ＼　 ＼＿_||　　 　 　 |＿＿＿＿_||　　　　　 |＿_|　 |＼＼─|　　　　 ＼
+    　　　　:|　 ＼　 ＼　　　　　　　　　　　 　 　 　 　 　 　 　 |　 | |: ＼＼!　　　　 　 ＼
+    　　　　:|　　　＼　 ＼ [囗　　 [囗　　 [囗　　 [囗　　 [囗.|　 | | 　 |:　l 　. . .: '　;　.　＼
+    　　　　:|.　 　 　 ＼　 ＼　　　　　　　　　　　　　　　　　　 |　 | | 　 |:　| 　 　 　 　 　 　 ＼
+    　______,:|　　　　　/　　 /l__＿＿＿＿＿＿＿＿＿＿＿___|　 | | 　 |:　|　　　　 __　 . .. : ;　.＼
+    　　　　 ＼　　　/　　 /. |　　　　　　　　　 　 　 　 　 　 　 |　 | | 　 |:　|　　　 l´!　ヽ　　　　　 ＼
+    　:::::::.. . .　.＼ /　　 /::. .|　　　　　　　　　 　 　 　 　 　 　 |　 | | 　 |:　|　 　 ｜| 　 |
+    　::::::::.. .　.　. /　　 /: : . |　　　　　　　　　　 　 　 　 ＿＿_|＿|_|＿_|___!. ;'　..｜| 　 |
+    ￣￣￣￣￣ 　 . /: : . . |　　　　　　　　　　　　　　 |＼　､ ────┤..　;'.｜| 　 |
+    ──────‐':　:　.　|　　　　　　　　　　　　　　 |　 ＼＼ . . . : ::::::::|　　,　 ＼　 |
+    :::::: : : : . .　.　.　 |　　 　 |　　　　　　　　　　　　　　 |　　　＼＼ . . : :::::|　; ,　.　　丶!
+    ::::::::: : : : . .　. 　 |　　 　 |　　　　 　 　 　 　 　 　 　 ＼　　　 ＼＼. . :::|
+    ::::::::::::::: : : : .　.　|　　 　 |　　　　　　　 　 　 　 　 　 　 ＼　　　 ＼＼. |
+    ::::::::::::::::::: : : : . . |　　 　 |　　　　　　　　　　 　 　 　 　 　 ＼　　　 ＼＼
+    :::::::::::::::::::::::::: : . .|　　 　 |　　　　　　　　　　　　　　　　 　 　 ＼　　　 ＼＼
+
+
+
+
+
+143 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:28:43 ID:Q3eUTUP6
+
+
+
+
+
+    ＊カルタゴ議会
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　おい聞いたか？スペインの戦線は思わしくないらしいぞ？
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　せっかくの銀鉱山の収入が・・・
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+    　当時のカルタゴにとって、スペインの鉱山が生み出す収益は驚異的なものだった。
+    　それが奪われてしまうのは嫌だったのである。
+
+
+
+
+
+144 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:29:20 ID:Q3eUTUP6
+
+
+
+
+
+    【審議継続中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´｀д´) (｀Д´ ) ∧∧
+    (　｀・Д)　Ｕ) ( つと ﾉ(ﾍ・´　)　大体、ハンニバルがイタリアになんか攻め込むからこんなことになるんだ！
+    ｜　Ｕ (　　｀・) (・´　　)　と ﾉ　ここはまずスペインを支援すべきだ！
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+    　カルタゴ本国は、ハンニバルの支援には消極的だった。
+    　だが、スペインが奪われてしまえば、収入が奪われてしまうので、
+    スペインへの支援には積極的だったのである。
+
+
+
+
+
+145 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:29:57 ID:Q3eUTUP6
+
+
+
+
+
+    　ハンニバルの末弟、マゴーネがスペインに送られたのを皮切りに、
+    カルタゴの支援はスペインにひたすら集中された。
+
+
+
+    【可決】
+
+    　　　　　 ∧,,∧ 　.∧,,∧
+    　 ∧∧(｀・ω・´)(｀・ω・´)∧∧
+    　(｀・ω・´).∧∧) (∧∧(｀・ω・´)
+    　｜　Ｕ (｀・ω・´)(｀・ω・´) と ﾉ
+    　　ｕ-ｕ　（l 　　 ) ( 　　　ﾉ u-ｕ
+    　　　　　　`ｕ-ｕ'　 `ｕ-u'
+
+
+
+    　狭いジブラルタル海峡を渡ればいいので、ローマ海軍も妨害しにくく、
+    そもそも支援がやりやすかったのもある。
+
+
+
+
+
+146 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:30:29 ID:Q3eUTUP6
+
+
+
+
+
+    　これにより、スペインのカルタゴ軍は凄まじく強化された。
+    　さらに、スペインの傭兵市場が高騰。
+
+
+    　　　　　　　　 ∧
+    　　　　　　　　 ∨
+    　　　　　　　　(≡）
+    　　　　 /´二｀ ┃
+    　　 　 [(ﾟＯﾟ*[=Ｏ　　　　　 =(＝== 　 =(＝== 　 =(＝== 　 =(＝== 　 =(＝== 　 =(＝==
+    　　　　i:i:i:iつﾊ_┃　　　　 　(*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)　　 (*ﾟＯﾟ)
+    　　 ～ﾉ,,,ﾉﾐ　ﾟ_┃　　　 ━i:i:iつ━Ｏ━━━(((＜＞━(((＜＞━(((＜＞━(((＜＞━(((＜＞
+    　彡（,｀Ｕ"" ノ ┃　　　～ﾉ,,,ﾉヽヽ ～ﾉ,,,ﾉヽヽ～ﾉ,,,ﾉヽヽ ～ﾉ,,,ﾉヽヽ ～ﾉ,,,ﾉヽヽ～ﾉ,,,ﾉヽヽ
+    　　　 >￣>^>　　　　 ε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊε= (,/ ｀Ｊ
+    "ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~"ﾞ""ﾞ"ﾞ"~""""~"ﾞ"ﾞ"ﾞ~
+
+
+
+
+
+147 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:31:07 ID:Q3eUTUP6
+
+
+
+
+
+    　一方、スキピオ兄弟の軍は、サグント攻略を果たした頃には、もう疲弊しきっていた。
+
+
+
+    　　 　 　 　 ＿＿__
+    　 　 　 　／　　 　 ＼
+    .　　 　／　　　　　　　＼
+    .　　／　／）　ノ ' 　ヽ､　＼
+    　　|　／ .ｲ '（ー）　（ー）　u|
+    .　　 /,'才.ﾐ).　（__人__）　 ／　うーん、兵力が足りないお……
+    .　　 |　≧ｼ'　　｀ ⌒´ 　 ＼
+    　／＼　ヽ 　　　　　　　　　ヽ
+
+
+
+    　この兄弟がやったことは、ハンニバルと同様、補給無しで戦い続けたことである。
+    　ハンニバルとは異なり、海軍は元気なローマだが、
+    そもそもイタリアで悲惨なことになっていたため、
+    イベリア方面軍への補給とかは無理だった。
+
+
+
+
+
+148 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:32:00 ID:Q3eUTUP6
+
+
+
+
+
+    　そこで兄弟は、現地の部族たちと同盟を締結。
+
+
+    　　　　　　　　 ＿＿＿_
+    　　　　　　　／　　　　　＼
+    　　　　　 ／　　⌒　　⌒　＼
+    　　　　／ 　 　（⌒）　 （⌒） ＼
+    　　 　 |　　 　　　　__´___　　　 |　よろしく！
+    　 　 　 ＼ 　 　 　 `ー'´　　,／
+    　　　 　 /⌒ヽ 　　　　　　　ｨヽ
+    　 　 　 / rｰ'ゝ　　　　　　　〆ヽ
+    　　　　/,ﾉヾ　,>　　　　　　ヾ_ノ,|
+    　　　　|　ヽ〆 　 　 　 　 　 |´　|
+
+
+
+    　イベリアの人たちの力を借りることで、ローマ軍を補充した。
+
+
+
+
+
+149 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:32:33 ID:Q3eUTUP6
+
+
+
+
+
+    　だが、当時のイベリアの人たちは野蛮であり、
+    あまり約束を守ってくれる人たちではなかった。
+
+
+
+    　　　　　　,,､,､､,,,';i;'i,}､,､
+    　　　　　　 ヾ､'i,';||i !｝ 'i, ﾞ〃
+    　　　　　　　　ﾞ､';|i,!　　'i i"i,　　　　　　 ､__人_从_人__/し､_人＿入
+    　　　　　　　　 `､||i　|i　i　l|,　　　　　　､_）
+    　　　　　　　　　 ',||i　}i |　;,〃,,　　　 　_）　汚物は消毒だ～っ！！
+    　　　　　　　　　 .}.||||　| ! l-'~､ミ　　　　｀)
+    　　　　　　　　 ,＜.}||| il／,‐'liヾ;;ミ　　　'´⌒V＾'^Y⌒V^V⌒W^Y⌒
+    　　　　　　　　.{/ﾞ'､}|||/／　 .i| };;;ミ
+    　　　　　　　　Y,;-　　 ｰ､　　.i|,];;彡
+    　　　　　　　　iil|||||liill||||||||li!=H;;;ﾐミ
+    　　　　　　　　{　 く；ｧｿ　 '';;,;'' ﾞ};;彡ﾐ
+    　　　　　　　　 ﾞi　[`'''~ヾ. ''~ ||^!,彡ミ　 　＿,,＿＿
+    　　　　　　　 　 ﾞi　}~~　｝ ';;:;li,　ﾞiミミミ=三＝-;;;;;;;;;''
+    ,,,,-‐‐''''''}￣~フハ,“二ﾞ´ ,;／;;'_,;,7''~~,-''::;;;;;;;;;;;;;'',,=''
+    　;;;;;;;;''''/_　 / | | `ー-‐'´_,,,-',,r'~`ヽ';;:;;;;;;;, '';;;-'''
+    '''''　　,r'~ `V　ヽニニニ二､-'{ 十　）＿＿;;;;/
+
+    　　　　＊一般的なスペインのみなさん
+
+
+
+    　カルタゴ軍が莫大な支援を、具体的には大量の金貨を、
+    ここにつぎ込むようになると、ローマ軍からは裏切りが続出。
+
+
+
+
+
+150 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:33:03 ID:Q3eUTUP6
+
+
+
+
+
+    　ローマ軍は止まらない出血のように兵が脱走しまくり、カルタゴ軍は強化され続けた。
+
+
+
+    　　　　　　　　　＿＿＿
+    　　　　　　　 ／　.u　　　＼
+    　　　　　　／(（○）) (（○）)＼
+    /⌒)⌒)⌒).::::　 （__人__）　l_j :::＼　　 　 /⌒)⌒)⌒)　やべえええええ！
+    |　/　/　/　　　　 |r┬-|　　　　　|　(⌒)/　/ / /／
+    |　:::::::::::(⌒)　U　.|　|　 |　　　 ／ 　 ゝ　　:::::::::::/
+    |　　　　　ノ　　 　|　|　 |　　 　＼　　/　　）　　/
+    ヽ　　　　/　　　 └ー.┘　　　　ヽ /　　　　／
+
+
+
+    　脱走を止めようにも、ローマには金が無いし、傭兵を雇う習慣も無い。
+
+
+
+
+
+151 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:33:39 ID:Q3eUTUP6
+
+
+
+
+
+    　そしてこの前２１１年には、プブリウス軍から、７５００人もの兵が脱走。
+
+
+
+    　　　　　 　 　　　＿＿＿_
+    　　　　　 　　　／ノ 　 ヽ､_＼
+    　 (⌒ヽ　　　（○）}liil{（○）　 ＼
+    　　＼　＼／ 　（__人__）　　　 　＼
+    　　　 ＼　|　ヽ　|!!il|!|!l|　/　 　　　|　　おおおおおおおおい！！！
+    　　　　　　＼　　|ｪｪｪｪ|　　　 　 ／
+    　　　　 　(⌒￣￣￣￣￣　 　 く
+    　　　　 　　￣￣￣￣￣￣ 　　　ヽ
+    　　　　　　　　　 　＼　　　　　　 　 ヽ　　 　 γ´　7
+    　　　　　　　　　　 　 ＼ 　 　 　 　 　 ｀､　　（　 ／
+    　　　　　　 　　　,.-――――　　 　 　 ﾘ､／　 /
+    　　　　　　 　　 弋　　　､＿＿＿＿＿ノ　` 　/
+    　　　　　　　 　　　＼　　＼　　　　　　＼＿ノ
+    　　　　　　　　 　　 　＼　　＼
+    　　　　　 　　　　 　 　　 ＼　 ヽ
+    　　　　　　　　　　　 　　　　＼__）
+
+
+
+    　プブリウスは彼らをただちに追跡した。
+
+
+
+
+
+152 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:34:13 ID:Q3eUTUP6
+
+
+
+
+
+    　だが、そこにはカルタゴの同盟国、ヌミディア王国の王子、マシニッサ率いる
+    精鋭ヌミディア騎兵団が待ち構えていた。
+
+
+    　　　　　__ ___　　　　　　/　／―-　､＿_
+    　　　＿!:::´::::/｀ヽ''´ ￣　　-‐ ､　―-＜
+    　,ィ´＿j:i:;ｲ´ ,　　　　　　　　 　 ヽ　　､ ｀ヽ
+    / <´::::::::/　 /　,　,　/　ハ　i　　ヽ.!　　､＼ハ
+    　　〉／:i　:i '.: _:!:｣!-|ﾄN　 !}ｲ:-､! ハ:.､　ヽ ヽl
+    　∠､:::::|　ｌ:i:!: f,ィ:Tﾊ 　 　 fT:ﾄﾙ':i l:､:ヽ　}､!
+    / 　 :｢｀i　:ﾊ:ﾄ.､! 辷リ　　,　辷ﾘi} ﾉﾉ: ,! ﾊ: !
+    　 　 '　:! :i:{｣:.ヽ.　　　　　　　　彳 ﾄ､ !ｲ ﾚ'　　　　……見つけました！
+    　 　 　｜:!　ﾊ:. ヽ　　　´｀　　,.ｲ　l　i｀ !　|　　　　ローマ軍、ここで撃破します！
+    　　,　　:! .:　__ﾊ:.　',　 ＿_..イ: i:. 　l　|　ｌ　l
+    　:/ 　 ,　.;　ヽ::::l:.　', 　 ├―‐!:　 l　l:　!　!
+    .:/　.::/　/,.ィ'´::::l::.　! ｀U´ヾ::ハ:.　V:!:　l　!
+    '　 .:/　,ｲ:ヽ::::::::::|::　l￣｀　'´ }::ﾊ:　 l:|:　 ! |
+    　.:/　.:ｌ::::::::::＼:::l:.　{≧､_＿_｣/::!: .:lﾊ:.　l: !
+    ..:/ 　 :l::::::::::::::::｀ﾍ :ﾊ::_ハ ￣ ｉ:;ｲ :ﾉ::::';.　N
+    /　　/:l::::::::::::::::::､::トゝ:::::::l　　 !:::´::::i:::::i:.　|!
+    　　/　l:::::::::::::::::::::ヾ:::::::::::_!　　 !o:::::::!:::::!:　l!
+
+    ＊ヌミディア王子、マシニッサ（AA/フェイト）
+
+
+
+
+
+154 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:34:44 ID:Q3eUTUP6
+
+
+
+
+
+    　マシニッサの騎兵団は非常に強力で、プブリウスは苦戦することになる。
+
+
+    　　　　　 ／￣￣＼
+    　　　　／　「　　へ ＼
+    　　　　|　 （●）（●）　|
+    　　　　.|　　　 ｜　　　|　これは久々の登場だろ。
+    　　　　 |　　 __´___　　ﾉ　ここで活躍しないと目立てないだろ。
+    　　　　 |　　 　　　　　}
+    　　　　 ヽ　　　　　　 }
+    　　　　　 ヽ　　　 　ノ
+    　　　 　 i⌒＼ ,__(‐- ､
+    　　　 　 l ＼　巛ー─;＼
+    　　　　 　|　｀ヽ-‐ーく＿）
+    　　.　　　 |　　　　　　l
+
+    　＊ハンニバルの末弟・マゴーネさん（AA/できない夫）
+
+
+
+    　さらに、近くにいたマゴーネさんが強襲。
+
+
+
+
+
+155 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:35:33 ID:Q3eUTUP6
+
+
+
+
+
+    　さらに、スペイン軍指揮官、ハシュドゥルバルまでが近くにおり、彼もまた、戦いに加わった。
+
+
+    　　　　 ／￣￣＼
+    　　　／　　　 ＼　 /
+    　　 /　　　　（●）（●）
+    　　.|　　　　　 （__人__）
+    　　.|　　 　　　　|r┬| |　　　チャンスだ！
+    　　ヽ　　　　　　`ー'./　　　ローマ軍を包囲してしまえ！
+    　　/ ヽ　　　 　　　ノ
+    　 /　　　　　　　　く
+
+    ＊ハンニバルの弟、ハシュドゥルバル（AA/やらないのか夫）
+
+
+
+
+
+156 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:36:07 ID:Q3eUTUP6
+
+
+
+
+
+    　こうして、プブリウス軍は包囲され、壊滅。
+    　第二次ポエニ戦争初期から健闘し続けた彼も、ここで命を落とした。
+
+
+
+<span style="color:#FF0000">    　　　　　　　　　, -─‐──‐-､
+    　　　　　　　 ／､ﾊ,　　　　　　　 ＼
+    　　　　　　／^ <　 て　　　　　　　 ＼
+    　　　　　 l　　./'Y''~ヾ　　　　　　　; l⌒ '"⌒ ヽ、
+    　　　　　 |　　`　　::::::::::::::::::　　　　　　|ｰ　　 　 　 ＼
+    .　　　　　 !　　　::::::::::::::::::::::　　　　　 　 　 　 　 ,; 　　＼　,rｰ､
+    　　　　　　 ゝ　:::::::::::::::::::::::::::::::::　　i'′⌒￣￣`￣￣￣ヾ｀ヽ　ヽ
+    　　　　　 （ 　ヽ'"（__人___）"'__ ,ノ ヽ､_＿＿＿"_＿＿,､___ｿﾉ__ﾉ
+    　　　　　ﾟ~゜´＾i!i!i!i!i!⌒ ´"´´ﾟ＾ﾟ＾ ~゜ﾟ`´＾ﾞ＾ ＾´'゜´＾ﾟ´ 'ﾟ＾´ﾞ ＾ ﾟ゜
+    　　　　　 （　i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i! と_
+    　　　（￣i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!　,
+    　　　　`ー､i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i! j
+    　　　　　　-　_i!i!i!i!i!i!　｀ ー'￣　　　 ￣
+    　　　　　　　　廴_i!i!ノ</span>
+
+
+
+
+
+157 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:36:39 ID:Q3eUTUP6
+
+
+
+
+
+    　更に、カルタゴ軍は近くに居た、グネウス軍にも襲い掛かった。
+
+
+
+    　　　　　　　　　, -─‐──‐-､
+    　 　 　 　 　 ／　 　 　 　 ﾟ　 　 ＼
+    　　　　 　 ／ ;　　゜　　　　　 °　 ＼
+    　　　　　 l　　U　　　 　 ;　;;;;;;;;;;;;;;;;;;;; l⌒ '"⌒ ヽ、
+    　 　 　 　|;;;;;;;;;;;;;;;;;;　 　 u. 　 　;　　　|ｰ　　 　 　 ＼
+    .　　　　　 !　u.　_ノ′ヽ､__　　 ∪ 　 　 　 　 　 ,; 　　＼　,rｰ､
+    　　　 　 　 ゝ｡(（-‐）　 ;;;;;;;;;;;)::｡　i'′⌒￣￣`￣￣￣ヾ｀ヽ　ヽ
+    　 　 　 　（ 　ヽ'"　　'　　　"'__ ,ノ ヽ､_＿＿＿"_＿＿,､___ｿﾉ__ﾉ
+    　　´ ´ `ﾟ~゜´＾" ´~`ﾟ゜｀⌒ ´"´´ﾟ＾ﾟ＾ ~゜ﾟ`´＾ﾞ＾ ＾´'゜´＾ﾟ´ 'ﾟ＾´ﾞ ＾ ﾟ゜
+
+
+
+    　３倍以上の敵に包囲され、彼の軍も壊滅。
+    　グネウスも、命を落とした。
+
+
+
+
+
+158 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/17(水) 22:37:20 ID:Q3eUTUP6
+
+
+
+
+
+    　指揮官を喪失したローマ軍は、エブロ河の北部、タラゴーナにまで撤退。
+    　兵力は３分の一となり、更に、これまで兄弟が獲得した広大な土地も全て喪失した。
+
+
+
+    　　　 　　　∧＿∧
+    　　　　　 （´・ω・｀ ）
+    　　　　　Ｏ^ソ⌒とヽ
+    　　　　　（_（＿ノ、_ソ
+
+
+
+
+    第８８話「イベリア戦線崩壊」終わり
+
+    つづく・・？ 
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5072/clap" id="fc2button-clap-5072" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5072").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5072/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第八十八話　イベリア戦線崩壊" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5072.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5109.html">
+					やる夫達はローマ共和国を作るようです　第九十五話　スキピオの戦略 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5108.html">
+					やる夫達はローマ共和国を作るようです　第九十四話　スキピオの演説 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5107.html">
+					やる夫達はローマ共和国を作るようです　第九十三話　紀元前２０９年序章 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5092.html">
+					やる夫達はローマ共和国を作るようです　第九十二話　ハンニバルVSマルケルス (2012/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5090.html">
+					やる夫達はローマ共和国を作るようです　第九十一話　紀元前２１０年の戦略 (2012/10/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5084.html">
+					やる夫達はローマ共和国を作るようです　第九十話　スキピオ登場 (2012/10/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5077.html">
+					やる夫達はローマ共和国を作るようです　第八十九話　クラウディウス・ネロ (2012/10/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第八十八話　イベリア戦線崩壊 (2012/10/19)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5060.html">
+					やる夫達はローマ共和国を作るようです　第八十七話　カプア陥落 (2012/10/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5046.html">
+					やる夫達はローマ共和国を作るようです　第八十六話　ハンニバル、ローマに立つ！ (2012/10/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5032.html">
+					やる夫達はローマ共和国を作るようです　第八十五話　シラクサ陥落 (2012/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4865.html">
+					やる夫達はローマ共和国を作るようです　第八十四話　グラックスの死 (2012/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4851.html">
+					やる夫達はローマ共和国を作るようです　第八十三話　シラクサ攻略戦 (2012/08/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4796.html">
+					やる夫達はローマ共和国を作るようです　第八十二話　カプア包囲開始 (2012/07/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4778.html">
+					やる夫達はローマ共和国を作るようです　第八十一話　紀元前２１３年の戦局 (2012/07/22)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第八十八話　イベリア戦線崩壊" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/10/19 17:00 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html#comment_list" title="この記事のコメントを参照">CM(3)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5072"
+    dc:title="やる夫達はローマ共和国を作るようです　第八十八話　イベリア戦線崩壊"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="　原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。　紀元前211年、スペイン　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|　　　　 （　　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-10-19T17:00:00+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5069.html" title="やる夫はなでしこジャパンの監督になったようです　特別編　～Episode0・澤穂希物語～　第５話 前編">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5068.html" title="やらない夫が平成ライダーシリーズを振り返るようです　その７　カブト編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment45795">[ 45795 ] <strong></strong></p>
+</div>
+<div class="comb">
+マシニッサがフェイトということは<div class="comment_navi">
+[ 2012/10/19 20:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5072" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45827">[ 45827 ] <strong></strong></p>
+</div>
+<div class="comb">
+イベリアの先住民もなかなか強力だったんだな<div class="comment_navi">
+[ 2012/10/20 07:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5072" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45833">[ 45833 ] <strong></strong></p>
+</div>
+<div class="comb">
+蛮族ほど勇猛なのは後のケルトゲルマンでも明らか
+会戦ならともかく遭遇戦だのゲリラ戦だと馬鹿にできない<div class="comment_navi">
+[ 2012/10/20 09:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5072" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5072.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5072"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5072-12e14a33">http://oyoguyaruo.blog72.fc2.com/tb.php/5072-12e14a33</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5069.html" title="やる夫はなでしこジャパンの監督になったようです　特別編　～Episode0・澤穂希物語～　第５話 前編">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5068.html" title="やらない夫が平成ライダーシリーズを振り返るようです　その７　カブト編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></yヾﾆヾ></div>

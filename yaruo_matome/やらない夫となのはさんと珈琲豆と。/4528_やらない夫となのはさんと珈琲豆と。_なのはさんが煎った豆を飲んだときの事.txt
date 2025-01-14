@@ -1,0 +1,581 @@
+<div class="article">
+
+
+
+
+
+
+　　　　　　　　　　　　　　　 ..._,,.. --ｰ―ｰｲ.,
+　　 　 　 　 　 　 ,. -''⌒∨ :/　 . . . . . . . ..　^ヽ､
+　　　　　　 ,,.-／　　　　 ヤ: : : : : : : : : : : : : ... ｀ヽ.
+　　　　　 /　　　 _ノｲヽ､./: : : : : : : : : : : : : : : : :.　ヽ.
+　　　　　/⌒｀￣￣|　|~７: : ' ' ' ' ' ' ' ' : : : : : : : : :.　|
+　　　／7,.- ､　　　.ゝヽ｛'　　　　　　　　　' : : : : : : /
+　 ／　/　　　￣~^''''ゝこ|　　　　　　　　　　 ' : : : /
+　/　 i^ ~^''ヽ､　　　　　|＼ノ=ﾆﾆﾆ=-､　　　　' :./
+./　　 !　　　　　^'''-　　|　/-ー-　　　 ＼　　　ノ
+
+
+
+
+
+
+　 l:.:.:.:.:/:.:.:.:.:.:.:/-/―/-ﾄ- /､/_,/:./ 　 l:.! l:.l,:.:.:,:.:.:.:.:.:.:.:.:..:',:.:.:
+　 |:., -,{:.:/:.:.:.:/イl:.／／ ／イ　/／　　/､ }:.| ,:.:l:.:.:.:.:.:.:.:.:.:.:l:.:.
+　 /r-､|:.{:.:.:.:ｲ／示::::::心ヽ 　 /　　　　　 ヽ/ l:.:!,:.:.:.l:.:.:.:,:.:.|:.:.
+　 {　У!:.!:.:.:.:|'　トﾍ､__,.ﾊ}　　　　　　　　＿　｀ヾ' !:.:/:.:./!:.:l:.:.:
+　 ∨{　リ,:.:.:.:!　弋ｚ__（ソ　 　 　 　 　 云:::::心､ ｀|:/:.:/:.l:./:.:.:
+　　 ､ヽ|:.:ﾄ､:.:|　　￣￣ ｀　　　　　　 ∧､ 　 ﾊ! ヽ,!':.:/:.:./!:.:.:.:.:　　　う、苦い・・・
+　 　 ヽ.!:.:', ヾ!　　　　　　 　 　 ,　　 弋z ｰ ソ　 /:／:.::.:.l:.:',:.:.:.:
+.　　 　 |:.:.:.､　　　 　 　 　 　 　 　 　 　 ｀¨´ 　 /':.:ｨ:.:.:.:.:|:.:.:,:.:.
+　 　 　 !:.:.:l､　　　　　　　r_-_､_　　　　　　 　 /:／:.!:.:.:.:/:.:.:.}:.:
+　　　　 {:l:.:l,〉､　　　　　　　｀ ｰ'　　　　　　　/:´:.:.:.j:.:.:./:.:.:.:.|:.:.
+　　　　 从:.!　 ､　　　　　　　　　　　　　　 ,ｲ:.:.:.:.:./:.／:.:.:.:.:.j:.:.
+　　 　 　 ヾj　　ヽ　　　　　　　　　　　　イ:.:.:.:.:.:./:´:.:.:.:.:.:.:.:/／ 
+
+
+
+
+
+
+
+
+
+54 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:17:06 ID:jkJN9xPQ
+
+
+
+
+    　　　　 ＿_　　　　　＼　､＼　 i |/　　/ / 　 ,' ／　 / ／　／ | ',
+    　　　　`　､"`'ｰ‐-- ､　',　＼＼l l　　/'./　　.ﾚ　 　 ﾑ', ＜"　　l ;i.:.
+    　　　　　　 ＼.:.:.: r- ､.` ＜　',＼ i　.,' ﾚ　　/　　　ム''　チ　 　.i i.l.:.:.:.
+    　　　　　 , -ｰ'''""iﾄ,　"＞ ､ヾ､　ヽ,i 　 　 　 　 ／　　　 テ 　 ,' ,'.i.:.:.:.:.:.
+    　　　　 "''ー-ｧ ,,,,,ll ',　 　 　`ヽ,　　',　 　,. -ｰ/　　　　　　　 / //.:.:.:.:.:.:.:.:
+    　　　　　, -=ﾆ二__|i. ',　　　　　　ｿ''ｰ-､/　　　　　　　　 　 / .//.:.:.:.:.:.:.:.:.:.:.:..
+    　　　　　　　　　／:',', ヽ　　　　 /　　　/　　　　　　　 　 壬　/'.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+    　　　　　　　 ／ .:.: ヾ,　＼　　　　　　　　　　　　　　　　　彡".:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+    　　　　　　 / .:.: , -ｰｧ',　　`>　　　　　ri　　　　 l　　　　　＜　.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.: . ＼
+    　　　　 　 /＞"　／/.: ヽ　追　ｉ 　 　 ｉj　 /　,ノ,　　　　　　 ＼.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:＼
+    　　　　　/"　　 ﾑｧ'.:.:.:.:.,入_ラ　`'rｭ, ､　 ノ ﾑﾌ/　 r　　＼　ヾヾ､.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+    　　　　　　　　　/ .:.: ／.: ／/　　 `卞､　／''""　　j　　' ,　ヾ､',.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+    　　　　　 　 　 /.:.:.:./:. :. ﾑﾔ　　 i　　 i　,　　　　,イ ,　 　 ',､ ',ヾ.:.:.:.:.:.:.:.:.:.:.:.:＼.:.:.:.:.:.:
+    　　　 　 　 　 ,'.:.:.:.,ｲ .:.:. : ,'　,ｲ　 ヽ　 j　i　　　,ﾍ, i l　ﾄ,　, ',ヾ,.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽ,.:.:.:
+    　　　　　　　,ｲ .: / |.:.:.:.:.:.i　/ i/i　 ﾊ　r-ｧ　　 Miｿ ﾄ, i ', .iヾ.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:',
+    　　　　　　 /.i　/　| .:.:.:.:.: ﾚ.:.:.:.:.:l　 仆,ン-､_ノW/　i ', l ', l.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:　',` ､
+    　　　　 　 ,'　l /　 |.:.:.:.:.:.:.:/.:.:.:.:　|　i､ V`"`'ﾉXｲ,　 l リ　ﾘ.:.:.:.:.:.:＼.:.:.:.:.:.:.:.:.:.:＼.:.:.: ',　ヽ
+    　　　　 　 i　 ﾚ 　.|.:.:.:.:.:.:/ .:.:.:.:.:.: レ' ﾚ ﾄﾞｪｪｫｿ i i　i.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:ヽ.:.:.:.:.:.:.:.:.:.: ', ､. ',
+    　 　 　 　 l　　　　| .:.:. ,ｲ.:.:.:.:.:.:.:.:.:.:.:i.:.:.:.:`ー‐"リ .リ　.:.:.:.:.:.:.:.:.:.:.:＼.:.:',.:.:.:.:.:.:.:.:.:.:.:',＼',
+
+    　　　　　　　　　　　　　　【おおまかな味のイメージ】
+
+
+
+
+
+    　　　　　　　　　　　　 　 　 ――　､
+    　　 　 　 　 　 　 　 　 ／　　　　　　＼
+    　 　 　 　 　 　 　 　 '　 　__ ノ 　 ゝ.__ヽ
+    　　　　 　 　 　 　 　 l　　　( ⌒)　(⌒ ) ｌ　　　　　　　んー・・・
+    　　　　　　　　　　　　ｌ　　　 (___人___)　ｌ　　　　　　　少しの酸味が苦味を強く感じさせるな
+    .　　　　　　　　　　 　 ｌ　 　 　 ｀--´　　ｌ
+    .　 　 　 　 　 　 　 　 !.!　　　　　　　 　 !(　（(　　　　甘みがあまりないのが惜しいが
+    .　　　　　 　 　 　 　 ' ヽ　　　 　 　 　 (　( ヽ)
+    　　　　　　　　　　 ノ￣´"''‐ 、 　 ｀¨´ヽノζ　　　なかなか好みの味だな
+    　　　　　　　 ＿rく　　　　/癶V⌒!=|￣￣￣￣￣|
+    　　 ＿_,､=Ｔ下､｀`ヽ　　/‐''"_, -ヘ｜　　　　　　｜
+    　 /「￣´　 ヽヽ ＼　ヽ/ 　 ´　 _,,厶ﾍ　　　　 　 ∧=､､
+    　 |八 ＼　　 　 　＿_/　　　　　 ＿,）ヽ＿＿＿/ 　ヽ ``=､､
+    　∥　＼ !　Ｖ´￣:::::/　　　　　　_,ノk>､｀Ｔ!::::::":::＼＿　　 ∥
+
+
+
+
+
+55 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:17:29 ID:jkJN9xPQ
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　 /／:.:.:.:／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ≦＝‐ 、
+    　　　　　 　 　 　 　 　 　 　 　 　 //:.:.:/:/:.:.:／:./:./:l:.,:.:.:.:.:.:.:.:.:.:.:.:.:.｀ヽ!　｀＼
+    　　　　　　　　　　　　　　　　　　 i//:/r－メzｭ、/:./:./|:/:.l:.:.:.:.:.:.:.:.:.:.:.､:ヽ
+    　　　　　　　　　　　　　　　　 　 ,ﾍ|:.|:|,≠ｵz、个/〃 //|:.:|:l:.:.|:.:.:.:.:.:.ヽヽ:ｉ
+    　　　　　　　　　　　　　　　　　 ヽ/|:.|lヽら c7｀´ /　/≠､//:.:.i:.:|:.:.l:.|:.:ｉ:|:.|
+    　　　　　　　　　　　 　 　 　 　 　>:.|:.|. ゞ-ｼ′　　　7メ､/ﾒ､/:./:/:|:.|:.:| |:.|
+    　　　　　　　　 　 　 　 　 　 　 　 |l:.:|＼　　 　 　 ､ら::::ハ//｀/:/:/l:||:.:|.ﾚ′
+    　　　　　　　　　　　 　 　 　 　 　 ||:.ﾒ 　 　 　　′ ヽ´.,´´:ｲ|:/l:./:.|///
+    　　　　　　　　　　　　　　　 　 ,_z/| ﾐ.ヽ　　｀ ‐.　 　 ,ｲ´:/:.／//:.://　　　うん
+    　　　　　　　　　　　　 ＿,,-r´|　i!ヽ､ 　 ＼__　-‐ ＜´:/:.:./／/:.:./
+    　　　　　　 .,≠､＜::´:::::::::::::::::|　i!　 ヽ､ /y　　　　///|:.:./:.:.:/:.:/　　　　　私にはやっぱりちょっと苦いかな
+    　　　　　　/:::::::::::｀ヽ:::::::::＞´ |　 i!、 ./∨､|z　　 /／.|:.:.:.:.:./:./
+    　　　　　 ,ﾉ::::::::::::::::ヽ,イ´　　 | 　 ﾍv′只ヽヽヽ/　　|:.:.:.:.:.|:./　　　　　　 でも、香りはとっても良いね
+    　　　 　 ∧xz、::::::::::|∨　　　.!　 　.ﾍ　|_|ｌヽ | ヽ:｀ヽ .|:.:.:.:|:.|:.|
+    　　　　　≠ .ヽ}:::::::::| .∨ |　　 ｀ヽ、 .ﾍ　｀}－ | ヽ:::::｀ヽ、|:.|:.|　　　　　　　いい香りが部屋中に広がってる
+    　　　　　ヽ　 ,'/::::::::| 　 v|:.　 　 　 ヽ、/k´:＾ヽ|　ヽ、://|:.:.:|:.|
+    　　　　　,':ヽ::´:::ゝ┘　 .y: :.　　　　<´ 　 ヽ:::::::|k‐´ k:::/:|:.:.|:.|
+    　　　　 ,'::::::::::::::/ヽ　: ;/: : :. ´　　 　｀ヽ、 .ヽ:::|　ヽ|/::/}:|:.:.:|:.|
+    　　　　 7､＿r ´　 : : /: : : : : : : : :　　 　｀ヽ、ﾒ／__ }:/,':.|:.:.:.:.|
+    　　　　/　　　　: : : :/: : : : : : : : : : : : : . .. 　｀ヽ　￣∨:.:|:.:.:.:.:|
+
+
+
+
+
+56 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:17:44 ID:jkJN9xPQ
+
+
+
+
+    　　　　　　　 _
+    　　　　　　 （v）　,-,
+    　　　　　／~~~ｒ/'´　　　　　　　 ＿＿
+    　　 　／￣￣￣＼　　　　　　　/　　（
+    　　 <＿＿＿＿＿_>　　　　　〈＿＿_〉
+    　　　｀￣￣￣￣´
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .、　-''''^ﾞ''''ｰ-.._
+    　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 , ‐./,iﾞ.、　 .．　　　　 ｀ﾞ'ｰ　,,,
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ,／　// .|______l,,..-'゛　　　　　　 .｀'''ｰ　..,,,,、
+    　　　　　　　　　　　　　　　　　　　　　　　　 /　 , ‐‐'~´
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 !　 （　 !
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 ｌ　./丶､＿._.ﾉ┬―-､.. ;;ﾝ'
+    　　　　　　　　　　　　　　　　　　　　　　　　 .ﾞ// 　ヽ .,,ﾞ_''く　　　|''ｰ .._
+    　　　　　　　　　　　　　　　　　　　　　　　　 //ゝ⊥_,l‐､.(　八.　 |　　　.￣^ﾞ''''''"゛
+    　　　　　　　　　　　　　 _.. ; -―――――//―- :_
+    　　　　　　　　　　　　,'´　,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,　`､
+    　　　　　　　　　　　　|、;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,!γ二`､
+    　　　　　　　　　　　　| ` ､;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..,;' k'"　　ヾ.ｉ
+    　　　　　　　　　　　　ｌ　　　`　―-------―　'::"　　|　　　　ｌ |
+    　　　　　　　　　　　　'ｌ.　　　　　　　　　　　　　　　　 ｌ　　　 //
+    　　　　　　　　　　　　　!.　　　　　　　　　　　　　　　 ,'　　 //
+    　　　　　　　　　　　　　'ｌ.　　　　　　　　　　　　　 ..::人__ノ/
+    　　　　　　　　　　　　　　'!.　　　　　　　　　　　...::::,'＾ｰ-‐"
+    　　　　　　　　　　　　　　 ヽ　　　　　　　　 ,,,,;;;;;;;"
+    　　　　　　　　　　　　　　　　゛'''－-------－''´
+
+
+
+
+
+57 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:18:03 ID:jkJN9xPQ
+
+
+
+
+    　　　　　　　　　　　　　　　 ..._,,.. --ｰ―ｰｲ.,
+    　　 　 　 　 　 　 ,. -''⌒∨ :/　 . . . . . . . ..　^ヽ､
+    　　　　　　 ,,.-／　　　　 ヤ: : : : : : : : : : : : : ... ｀ヽ.
+    　　　　　 /　　　 _ノｲヽ､./: : : : : : : : : : : : : : : : :.　ヽ.
+    　　　　　/⌒｀￣￣|　|~７: : ' ' ' ' ' ' ' ' : : : : : : : : :.　|
+    　　　／7,.- ､　　　.ゝヽ｛'　　　　　　　　　' : : : : : : /
+    　 ／　/　　　￣~^''''ゝこ|　　　　　　　　　　 ' : : : /
+    　/　 i^ ~^''ヽ､　　　　　|＼ノ=ﾆﾆﾆ=-､　　　　' :./
+    ./　　 !　　　　　^'''-　　|　/-ー-　　　 ＼　　　ノ
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　 　　　＿_
+    　　　　　　　　　　　　　　＿＿　　 　 /:.:.:.:.:.:.:ヽ
+    　　　　　　　　＿＿ x≦:.:.:.:.:.:.:.:.:≧ｭ,':.:.:.:.:.:.:.:.:.‘，
+    　　　　　　 ／:.:.:.:.:.:.:.:.:.:.:/l:.:.:.:.:.:.:.:.:.:{{:.:.:.:.:.:.:.:.:.:.: ｉ
+    　　　　　ｲ:./:.:.:.:./:.:.:.:.:.:/,':.:.:.:.:.‘，:.:.:ヽ:.:.:.:.:.:.:.:. : |
+    　　　　///:.:.,':.:.:{:.:.:.:.:./ i:.l:.:.:.:.:.:.:i:.:.}:.‘，:.:.:.:.:.:.:.:.:|
+    　　　 〃 i:.:.:i:.:.:.i:.,:.二i　 ﾘ丁:.ヽ/:./:.:.:.}ｉ:.:.:.:.:.:.:.:. |
+    　　　/ 　 !:.:.ヽ:. {ヽ心｀　　,孑㍉//:.／:|:.:.:.:.:.:.:.:.:|　　うん、ミルクとお砂糖入れて
+    　　　　　 ﾍ:.:{ ヽ{l:.!ゞ'　　　弋:ソ/／ i}/|:.:.:.:.:.:.:.: |
+    　　　　　 　ヾ､　|:人　｀　　　　 イ:.:}ノ　l:.:.:.:.:.:.:.:.:ｌ　　ちょうどいい位かな
+    　　　　　　　　 　ゝ:{　 .｀ ´　／/:.:/イ⌒ヽ:.:.:.:.:.: |
+    　　　　　 /7r// /l- ,-　７l==/／:::/::::::::::::ヽ:.:.:.:.:!
+    　　　　　 ｀/li_ﾉ´/ /／//_/l／ /__i::::::::::〃ヽ:.:.:.,'
+    　　　　　, {　7　　/ r´/::７´ヽ／ヽｌ ',:::::::{{ 　 }:./
+    　　　　〃 i __ ≠7| /／　, -‐ ´ ヽl　',:.:.:ゝ-'//
+    　　　　i ￣　　／ ｌｲ／　　　　 ,　 ｌ　 ヽ:::::: ｀l
+    　　　　|　 r ´　　/　　　　　　 /／ ‘，　ヽ: : l
+    　　 　 7´{　　　 i　　　　　　 /　　 /　.　　￣ l
+    　　　 /　‘，　　‘，　　　　ノ　　　 {　.∨　　　ｉ
+    .　　　i　 　 ゝ--- ゝ -- ´　　　　 ヽ／∨　　　.
+    　　　 l　　　 / ∧　 l　　　　　　　／、　∨　　‘，
+    .　　 　l　　 /／　l　o}＿＿　-‐ |_|/　｀ヽi　　 　 .
+
+
+
+
+
+58 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:18:19 ID:jkJN9xPQ
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .、　-''''^ﾞ''''ｰ-.._
+    　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 , ‐./,iﾞ.、　 .．　　　　 ｀ﾞ'ｰ　,,,
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ,／　// .|______l,,..-'゛　　　　　　 .｀'''ｰ　..,,,,、
+    　　　　　　　　　　　　　　　　　　　　　　　　 /　 , ‐‐'~´
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 !　 （　 !
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 ｌ　./丶､＿._.ﾉ┬―-､.. ;;ﾝ'
+    　　　　　　　　　　　　　　　　　　　　　　　　 .ﾞ// 　ヽ .,,ﾞ_''く　　　|''ｰ .._
+    　　　　　　　　　　　　　　　　　　　　　　　　 //ゝ⊥_,l‐､.(　八.　 |　　　.￣^ﾞ''''''"゛
+    　　　　　　　　　　　　　 _.. ; -―――――//―- :_
+    　　　　　　　　　　　　,'´　,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,,,,　`､
+    　　　　　　　　　　　　|、;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,!γ二`､
+    　　　　　　　　　　　　| ` ､;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;..,;' k'"　　ヾ.ｉ
+    　　　　　　　　　　　　ｌ　　　`　―-------―　'::"　　|　　　　ｌ |
+    　　　　　　　　　　　　'ｌ.　　　　　　　　　　　　　　　　 ｌ　　　 //
+    　　　　　　　　　　　　　!.　　　　　　　　　　　　　　　 ,'　　 //
+    　　　　　　　　　　　　　'ｌ.　　　　　　　　　　　　　 ..::人__ノ/
+    　　　　　　　　　　　　　　'!.　　　　　　　　　　　...::::,'＾ｰ-‐"
+    　　　　　　　　　　　　　　 ヽ　　　　　　　　 ,,,,;;;;;;;"
+    　　　　　　　　　　　　　　　　゛'''－-------－''´
+
+
+
+
+
+    　　　　　／￣￣＼
+    .　　　.／　　　⌒　 ⌒
+    　　　 | 　　　（ ●) (●)
+    　　　 | 　 　 　（__人__） 　∫　　うん、たまには
+    　　　 |　　　　　｀⌒´ﾉ　∬
+    .　　　ヽ　　 　 　 　　} |￣|　　　ミルク入れて飲んでみるのも
+    　　　　　ヽ　　　　 ノ　|＿|）
+    ＿＿__／　　　　　 ｲー┘ |　　オツなもんだな
+    | |　　/　　/　　　 　_＿＿/
+    | |　 /　　/　 　 　　|
+    | |　（　　　￣￣￣⌒ヽ
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+
+
+
+
+
+59 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:18:34 ID:jkJN9xPQ
+
+
+
+
+    f´￣￣￣￣￣￣￣￣￣￣￣￣￣￣ ｀ヽ
+    |　スキムミルクとかも一応、あるぞー　｜
+    ヽ＿＿＿＿＿＿＿＿＿＿＿＿＿＿_ メ
+
+
+    　　　　　　　　　 　 , 　 -―――――- 　 ､
+    　 　 　 　 　 　 　 i(　　　　　　　　　　 　 　 )i
+    　 　 　 　 　 　 　 | ｀ー―――――――'´ |
+    　 　 　 　 　 　 　 |　　　　　 　 　 　 　 　 　 |
+    　　　　 　 　 　 　 iﾞｰ＝============＝‐''!
+    　　　　　　　 　 　 |　　　　　　　　　 　 　 　 |
+    　　　　　　　 　 　 |　　　　　　　　　 　 　 　 |
+    　　　　　　　 　 　 |　　　　　　　　　 　 　 　 |
+    　　　　　　　 　 　 |　　　　　　　　　 　 　 　 |
+    　　　　　　　 　 　 |　　　　　　　　　 　 　 　 |
+    　　　　　　　 　 　 |　　　　　　　　　 　 　 　 |
+    .　　　　　 　 　 　 ,|　　　　　　　　　 　 　 　 |、
+    　　　　　　　　　　ヾ､　　　　　　　　　　 　 ,〃
+    　　　　　　　　　　　　ﾞｰ＝=========＝‐'′
+
+
+
+
+
+
+    　　　　／:.:.:.:.:.:.:.:.:.:.:.｀:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ:.:.:.:.:/＼:.:.:.:.:.:.:.:.:.:.:. |
+    .　 　,ｲ:.:.:.:.-.:.:￣￣:／:.:.:.:.:.:.:.:.:.:.l:.:.:.:.:.:.:.:.:.:.:.:.:.:.:＼/:.:./ﾍ:.:.:.:.:.:.:.:.:.:. |
+    　　/:.／／:.:.:.:.:.:.／:.|:.:.:.|:.:|:.:.:.:.: ｉ:.:.ヽ:.:.:.ヽ、:.:.:.:.:.:.ﾍ:/ : |:',:.:.:.:.:.:.:.:.:.:|
+    　 //　/:.:.:.:.:.:.:./:.:. : |:.:.: !:.{!ヽ:.:.:ヽゝ‐廾:.-- ､:.:.:.:.:‘，/ |:.ｉ:.:.:.:.:.:.:.:.: |
+    　/　 /:.:.:.:.:.／ｉ:.:/:.:.:|:.:.A-|ヽ:ヽ:.:.:ﾍ＞斥≠、ヽ:.:.:.:.:.ｉ:.:.:.: |:.:.:.:.:.:.:.:.: |
+    　　　ｉ:.:.:.:.://:.|:.:!:.:.:.:.y´|｡≠､ヽ＼:.ﾍ んてﾒ.＼:.:.:.:.:. |:.:. : |:.:.:.:.:.:.:.:.: |　　　へえ、スキムミルクも
+    　　　∨:.:/ ｉ:.:.ｉ:.{!:.:.:.:.|〃んう　　　＼.う__/} ,ｲ|:ｌ:.:.: : ｌ＼:/|:.:.:.:.:.:.:. : |
+    .　　　人,′!:.:.:ﾘ!:.:.!:.:.ｉ ｀.うﾂ},　　　　 ゝ-┴　 }:l.:./:/　/:. |:.:.:.:.:.:.:. : |　　　コーヒーに合うの？
+    　　　　　　 ',:.:.:. ﾄ:.:ヽ:.ﾍ. ゝ¨, 　 　 　 　 　 　 / /:. |／!:.:.:|::.:.:.:.:.:.: : |
+    .　　　 　 　 丶:.:.ｉ ＼:>､ﾍ　　　　　 　 　 　 　/}:.: : !　 |: : |:.:.:.:.:.:.:. : |
+    　　　 　 　 　 ＼|　 /l:人＼　 ﾏ￣ﾉ　 　 　 　 !:.:./ 　 |: : |:.:.:.:.:.:.:. : |
+    　　　　　　　　　　　|:.|{:. : r .　　　　　　　　イ　|:.,'　　 |: : |:.:.:.:.:.:.:. : |
+    .　　　　　　 　 　 　 リヽ:.: |　 　. 　　　＜　　　/ｲ . 　 |: : |:.:.:.:.:.:.:. : |
+    　　　　　　　　　　　　　＼{ 　 　 ￣|　　　　 ／ ∧ﾍ　|: : |:.:.:.:.:.:.:. : |
+    　　　　　　　　　　 　 　 　＼ 　 r/{　　 , ＜ 　　　/ ヽL;; |:.:.:.:.:.:.:. : |
+    　　　　　　　　　　　　 　 　 ,､／/－＜、　　　 .／　./:::::::::｀ヽ:、:.:.: |
+    　　　 　 　 　 　 　 　 ,､r ´／　/>= /´ ＼　 ／　　/::::::::::::::::::::::::｀ヽ、
+    　　　　　 　 _,x ≦:::::::::::／　　/>≠<　 　 >　　 　/ヽ::::::::::::::::::::::::::::::::｀ヽ、
+    .　 　 　 　/::|::::::::::::／ /　 　 ／/　＼＼ |:　　　 / 　 ＼::::::::::::::::::::::::::::::::/＼
+    　　　　　 |::::|::::::／　　＞　´ヽ ´　　　｀´ヽ　－＜　　　 ヽ::::::::::::::::::::::::::/::::::::|
+
+
+
+
+
+60 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:19:32 ID:jkJN9xPQ
+
+
+
+
+    　　　　　　　　 　 　 　／￣￣＼
+    　　　　　　　　　　　／　　　⌒ ´ ⌒
+    .　　　　　　　　　　｜　 　　( ●) (●）　　ああ、スキニーっつって
+    　　　　　　　　　　 ｜ 　　　 （___人__）
+    　　　　　　　　　　　.|　　　　　　　　ﾉ　　　特に好む人もいるくらいだ
+    　　　　　　　　　　　 j　　　　　 　　|
+    　　　　　　　　　_..ノヽ、　　　　 , ノ　　　　ミルクと違って匂いが少ない
+    　　 ,r￢;;――''ﾞ::::::::::::::≧ーｰ"7
+    　/ ::::::::::::::::::::::::::::::::::::::::::::::::::::::∧　　　　　とかが理由らしいな
+    /:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::＞-､
+    ::::::::::::::::::::,!::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ヽ　　 　 　 　 　 ,.＝＝＝、
+    ::::::::::::::::::::l::::::::::::::::::::::::::::::::::::::::::::::::::::::::v:: l　　　　　　 　 ,|　　　　　|
+    :::::::::::::::::: l::::::::::::::::::::::::::::::::::::::::::::::::::::::::::l::: l　　　　　　／_|　　　　　|
+    　ﾞ)::::::::::./:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::|:::: |　　　 _／＞"￣）　 　 |
+    :::　ﾞヽ＜`'､::::::::::::::::::::::::::::::::::::::::::::::::::::::::l::::::ヽ_,／lﾞl　 　イ|￣　　　 |
+    ::::::::　 ＼　',:::::::::::::::::::::::::::::::::::::::::::::::::::::l::::::'''″::::::'v 　丿 |.,_＿＿_,.|
+    ::::::::::::　 ｀'､l::::::::::::::::::::::::::::::::::::::::::::::::::::〔::::::::::::::::::::::ゝ､ー＜
+
+
+    ┌────────────────────────────────────┐
+    │※低脂肪乳や脱脂粉乳を入れた珈琲やエスプレッソのことをスキニーと言います　　......│
+    └────────────────────────────────────┘
+
+
+
+
+
+61 ： <strong><span style="color:#009900">◆Sh3B8ZL0K6</span></strong>：2012/05/19(土) 17:23:12 ID:jkJN9xPQ
+
+
+
+
+    よし、ここは珈琲スレでした！
+
+    珈琲に入れるミルクに関しては、まず
+
+    牛乳、ポーション、クリーム（植物性、純乳）、脱脂粉乳や粉ミルク系の製品のどれを使うか
+
+    温めたものを入れるか、量はどうするか、泡立てたものを使うのか、泡立てたなら、泡と液の比率は
+
+
+    そもそも珈琲との量の割合は、などなどいーっぱい、それこそ飲む人の数だけやり方があるんじゃないでしょうか
+
+
+
+
+
+
+
+
+
+
+    　　　　　　　 _
+    　　　　　　 （v）　,-,
+    　　　　　／~~~ｒ/'´　　　　　　　 ＿＿
+    　　 　／￣￣￣＼　　　　　　　/　　（　　← なのはさんのために常備化
+    　　 <＿＿＿＿＿_>　　　　　〈＿＿_〉
+    　　　｀￣￣￣￣´
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4528/clap" id="fc2button-clap-4528" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4528").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/1.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4528/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やらない夫となのはさんと珈琲豆と。　なのはさんが煎った豆を飲んだときの事" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4528.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4664.html">
+					やらない夫となのはさんと珈琲豆と。　焙煎フォロー小ネタ (2012/06/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4621.html">
+					やらない夫となのはさんと珈琲豆と。　第七話 (2012/06/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4591.html">
+					やらない夫となのはさんと珈琲豆と。　八神さん家でお誕生会 (2012/06/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4579.html">
+					やらない夫となのはさんと珈琲豆と。　実体験に基づかないサイフォンの使い方 (2012/06/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4572.html">
+					やらない夫となのはさんと珈琲豆と。　チコリコーヒー小話 (2012/06/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4571.html">
+					やらない夫となのはさんと珈琲豆と。　番外編４ (2012/06/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4554.html">
+					やらない夫となのはさんと珈琲豆と。　フェイトさんとヴィヴィオちゃんと とろふわプリンと  (2012/05/25)				</a>
+</li>
+<li class="relate_li_nolink">
+				やらない夫となのはさんと珈琲豆と。　なのはさんが煎った豆を飲んだときの事 (2012/05/20)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4520.html">
+					やらない夫となのはさんと珈琲豆と。　埋めネタ　抹茶の入れ方 (2012/05/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4518.html">
+					やらない夫となのはさんと珈琲豆と。　ロースト（焙煎度）についてもう少し (2012/05/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4519.html">
+					やらない夫となのはさんと珈琲豆と。　マテ娘さんたちと、ドリップのおさらい (2012/05/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4491.html">
+					やらない夫となのはさんと珈琲豆と。　番外編３ (2012/05/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4485.html">
+					やらない夫となのはさんと珈琲豆と。　第六話 (2012/05/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4426.html">
+					やらない夫となのはさんと珈琲豆と。　第五話 (2012/04/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4410.html">
+					やらない夫となのはさんと珈琲豆と。　番外編２ (2012/04/25)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やらない夫となのはさんと珈琲豆と。　なのはさんが煎った豆を飲んだときの事" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/05/20 11:06 ]
+<a href="/blog-category-392.html" title="カテゴリを参照">グルメ系　やらない夫となのはさんと珈琲豆と。</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4528"
+    dc:title="やらない夫となのはさんと珈琲豆と。　なのはさんが煎った豆を飲んだときの事"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html"
+    dc:subject="グルメ系　やらない夫となのはさんと珈琲豆と。"
+    dc:description="　　　　　　　　　　　　　　　 ..._,,.. &#45;&#45;ｰ―ｰｲ.,　　 　 　 　 　 　 ,. &#45;''⌒∨ :/　 . . . . . . . ..　^ヽ､　　　　　　 ,,.&#45;／　　　　 ヤ: : : : : : : : : : : : : ... ｀ヽ.　　　　　 /　　　 _ノｲヽ､./: : : : : : : : : : : : : : : : :.　ヽ.　　　　　/⌒｀￣￣|　|~７: : ' ' ' ' ' ' ' ' : : : : : : : : :.　|　　　／7,.&#45; ､　　　.ゝヽ｛'　　　　　　　　　' : : : : : : /　 ／　/　　　￣~^''''ゝこ|　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-05-20T11:06:40+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a dolls"の泥臭くいき苦しい百年後の未来の話="" href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4524.html" title="できる夫と" 『machina』="" 前編"="" 最終章="">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4529.html" title="やる夫で学ぶ初めてのぷよぷよ　さいしゅうかい">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4528.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4528"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4528-8f2c7846">http://oyoguyaruo.blog72.fc2.com/tb.php/4528-8f2c7846</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a dolls"の泥臭くいき苦しい百年後の未来の話="" href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4524.html" title="できる夫と" 『machina』="" 前編"="" 最終章="">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4529.html" title="やる夫で学ぶ初めてのぷよぷよ　さいしゅうかい">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,1438 @@
+<div class="article">
+
+
+
+
+<blockquote><p>
+<span style="color:#990000"><strong>84 ：名無しのやる夫だお：2012/10/09(火) 18:11:12 ID:fXJ7FYB20
+ 
+ 初期の戦車の動力って蒸気機関？それとも始めから内燃機関だったのかな？
+    戦車誕生の20世紀初頭は蒸気機関全盛期で、蒸気式自動車やトラクターもあったけど、どうだったんだろ？
+
+
+85 ：名無しのやる夫だお：2012/10/09(火) 18:14:55 ID:SHlsgAYY0
+ 
+ >1じゃないが
+    基本内燃機。極初期に蒸気エンジンの試作車があったが１，２例だったはず。
+    初期の戦車開発にあたって参考にされたホルト牽引車もガソリン。
+
+
+87 ：名無しのやる夫だお：2012/10/09(火) 22:33:04 ID:LgFObNpg0
+ 
+   18世紀に生まれ、19世紀前半にはバスを走らせてた蒸気機関は、シンプルで信頼性が高く、船・列車・自動車・トラクターと何でもござれだったね
+    内燃機関は19世紀末から20世紀初頭に実用化されたけど、約1世紀の実績があった蒸気機関は、20世紀半ば過ぎまで残ってたそうな
+    第2次大戦中も戦艦なんかは大体がレシプロ式蒸気機関だよね、大和も蒸気タービン式だし
+    それが戦車では、初めからすぐに内燃機関を採用していたとは
+    何でだろう？
+    やっぱ蒸気式はボイラーを炊き出してから動き出すまで時間がかかったからかな？
+
+
+88 ：名無しのやる夫だお：2012/10/09(火) 22:54:00 ID:SHlsgAYY0
+
+ <span style="color:#0000FF">>87</span>
+    サイズと重量と始動性と動力源。
+    同じ出力を得るためには内燃機より蒸気機関の方が大きく複雑になるし、燃料以外にも水を補給する必要がある。
+    大きくなればフレーム・装甲で重量がかさむから燃費も製造費用も上がるし複雑なら整備性も悪くなる。
+    何よりおまいさんも言ったように即応性が必要な軍用車両に蒸気機関は全く向いていないのよ。
+
+
+90 ：名無しのやる夫だお：2012/10/09(火) 23:03:11 ID:ngxLcOcI0
+
+ <span style="color:#0000FF">>>87</span>
+    すんません、蒸気機関でもレシプロとタービンは別物です
+
+    レシプロは車のエンジンと同じようにシリンダでピストンを上下させてそれを円運動に変えます
+    タービンは最初から蒸気で羽根車回して円運動にしてます
+
+    戦艦も日露の三笠とかは石炭レシプロでした
+    その後重油タービンに変わっていきます
+
+    蒸気機関は蒸気で動かすので復水器（蒸気を水に変える装置）など、水回りの装置がかさばります
+    燃料の他に蒸気を発生させるための大量の水、それを循環させる装置が必要で、
+    小型化にはとことん向いてない機関なのですよ
+
+    故に船舶や機関車では蒸気機関が残りましたが、より小型の自動車、二輪車その他はガソリン、
+    ディーゼルなどの機関に取って代わられました
+
+
+91 ：名無しのやる夫だお：2012/10/09(火) 23:44:19 ID:LgFObNpg0
+
+
+    なるほど戦車なんか大きさの割りに重量が重いし、よりコンパクトでパワーの大きく、スピードの出る内燃機関の方が良いということかな
+    エネルギー効率も蒸気機関より内燃機関の方が良いし
+    蒸気機関は、機構はシンプルで長持ちするけど、調整が難しく修理に熟練を要する、とあるからやっぱり戦場には向かないのかな
+    しかも運転手に加えてボイラーマンが必要というのも短所だね
+
+    大戦中は石油が足らんので国内では薪バスが走ってたから、蒸気自動車使えるじゃん！と思ったが、違うらしい
+
+
+92 ：名無しのやる夫だお：2012/10/09(火) 23:49:40 ID:YiLFR1oY0
+
+ <span style="color:#0000FF">>>91</span>
+    木炭バスと同じ木炭ガス発生装置積んだ装甲車両なら、
+    日本にも九一式広軌牽引車っていう鉄道上も走れる装輪装甲車があるよ。
+
+    ドイツ軍はもっと大々的にやってたらしい。
+ <a href="http://blogs.yahoo.co.jp/ardennu1944/25084437.html" target="_blank" title="http://blogs.yahoo.co.jp/ardennu1944/25084437.html">http://blogs.yahoo.co.jp/ardennu1944/25084437.html</a>
+</strong></span>
+
+</p></blockquote>
+
+
+
+    　　　　　　　　　　　　／￣￣＼
+    　　　　　　　　　　 ／　　 _,.ノ　 ヽ､_
+    　　　　　　　　 　 ｜　 　 ( ●) (●）
+    　　　　　　　　　　｜ 　　　（___人__）
+    　　　　　　　　　　 .|　　　　 ｀ ⌒´ﾉ　　　　　　　　　　　　　　　　おっ、面白そうな話題が出てるな
+    　　　　　　　　　　　|　　　　　 　　|
+    　　　　　　　 　 　　.|､ 　　　　　　|　　　　　　　　　　　　　　　　　俺もちょっと混ぜてくれよ
+    　　　　 　　 　　 　 [::.ヽ､　 __ ,_ ノ
+    　　　　　_, ､-一 :::"＼　::::::::::::::::7、___　　　　　　　　　　　　　　　…と言ってもこんな時間だし
+    　　　／ .:.:.:.:::::::::::::::::::::::::::::::::::::::::::::::::::::.. ヽ__
+    　　/ ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::/:::::..＼ __　　　　　　　　　　誰も居ないかな？
+    　 .i :::::::::::::::::、:::::::::::::::::::::::::::::::::::::::::::::::::::::i::::::::::::::::::.. ＼_
+    　 i ::::::::::::::::::: i::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.. ｀::...､
+    　 l ::::::::::::j:::::: i:::::::::::::::::::::::::::::::::::::::::::::::::::::i:::::/::／::::::::::::::::::::::.. ｀ヽ
+    　 l ::::::::/::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: i::´::::::::::::::::::::::::::／::::::::: l
+    　 l :::::/::::::::::::ｿ:::::::::::::::::::::::::::::::::::::::::::::::::: l＞ｰーｰ-、r-‐:'::::´::::::: l
+    　 i :::::::::::::::::::〈:::::::::::::::::::::::::::::::::::::::::::::::::: l　　　　　 l´:／::::::::::::::: ﾉ
+    　 V .:::::::::::::::: lヽ::::::::::::::::::::::::::::::::::::::::::::: l　　　　　ﾉ .:::::::::::::::::: ／
+    　　l ::::::::ｰ::::::: |:::::::::::::::::::::::::::::::::::::::::::::::. ､　　　／..::::::::::::::::::: /
+
+
+
+
+
+
+
+
+
+96 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:04:18 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　／　　 _,ノ　｀⌒
+    　　　　　　 　　 　 ｜　 　.（ ⌒）（⌒）
+    .　　　 　　 　 　 　 ｜ 　　　（___人__）　　　　　　ふむ、何で戦車には最初から内燃機関を使っていたか、か
+    　　　　　　　 　　 　 |　　　　　　　　ﾉ
+    　　　　　 　 　 　 　 .|　　　　　 　　|　　　　　　　面白い質問だ
+    　　　 　 　 　　 　　 人､ 　　　　　 |
+    　　　　　　　　　　,ｲ:. ﾄ､ヽ、 __ ,_ ノ　　　　　　　まあ皆で色々話してるみたいだから
+    　　　 ,. -ｰｰ -‐ ´:::::::::::::::::::::::::::::7
+    　　／..::::::::::::::::::::::::::::::::::::::::::::::::: ﾒ、　　　　　　　俺の出番はないかもしれんがな
+    　 ｛ :::::::::::::::::::::.ヽ::::::::::::::::::::::::::::::::::::.. ､_
+    　　| ::::::::::::::::::::::..｀、:::::::::::::::::::::::::::::::::::::..｀ヽ
+    　　'| ::::::::::::::::::::::::::::i_::::::::::::::::::::::::::::::::::::.ヽ::ゝ
+    　　 ﾄ､:::/ ／￣｀` ﾊ::::::::::::::::::::::::::::::::::::::!:::::::.ヽ
+    　　 `,ﾍ ´:::::::::::::::::. ﾊ::::::::::::::::::::::::::::::::::::::|:::_,rｰ'､
+    　　　 }:,∨ :::::::::::::::::: ﾄ､:::::::::::::::::::::::::＞＜￣＼::..＼
+    .　　　 }:::∨::::::::::::::::､-''ﾞ~￣￣￣￣:::::::::...＼　ム:::::ヽ
+    　　 　 l::::∨ :::: ／::::::::::::::::::::::::::::::::::::::::::::,.､／...:::::::::ヽ}
+    　　　　{::::::＼,::::::::::::::::::::::::::::::::::::::／"￣:::::::::::::::::::::::::ﾉ
+
+
+
+
+
+97 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:04:50 ID:Gc4juF/I0
+
+
+
+
+    　　　 ／￣￣＼
+    　　／　　 _ノ　　＼
+    　　|　　　 （ 一）（●）　　　　　　　　ふーむ……旧日本軍の戦車とは関係ない
+    　　|　　　　 （__人__）
+    　　 |　　　　　｀⌒´ﾉ　　　　　　　　それも中級者向けの話があるんだが……
+    　　 |　　　,.<))／´二⊃
+    　 　ヽ　/ ／　 '‐､ﾆ⊃　　　　　　　話しても大丈夫かな？
+    　　　ヽ､ｌ　　　　´ヽ〉
+    　　 　,-/　　　 __人〉　　　　　　　　あ、申し訳ないが、参考写真もAA総数も今回は少ないぞ
+    　 　/ ./. 　 /　 　 ＼
+    　 　| / 　 /　 　 　i　＼
+    　 　|"　 / 　 　 　 | >　 )
+    　　 ヽ／　　　　　 とヽ /
+    　　 　|　　　　　 　そ ﾉ
+
+
+
+
+
+98 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:10:22 ID:Gc4juF/I0
+
+
+
+
+    　 　／￣￣＼
+    　／　　 _ノ　　＼　　　　　　ま、大した話でもないし
+    　|　　　 （ ●）（●）
+    .　|　　　　 （__人__）　　　　　この際だからちょっと話してみるか
+    　 |　　　　　｀ ⌒´ﾉ
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　ｍm
+    　　　/　　　￣￣￣　つﾉ
+    　　　|　　　　|￣
+
+
+
+
+
+99 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:10:40 ID:Gc4juF/I0
+
+
+
+
+    　　 ／￣￣＼
+    　／　ノ　　＼ ＼／｀i　　　　　　　　　　実は戦車ではないが
+    　|　 （●）（●）./　　ﾘ
+    .　|　　（__人__）..|　　/　　　　　　　　　　蒸気機関を使った車両の軍用化については
+    　 |　　 ｀ ⌒´　ﾘ　 ﾋ
+    .　 ヽ　　　　 ／/　　,｀弋ヽ　　　　　　　 昔から考えられていたんだ
+    　　 ヽ　　- ′.Ｙ´　 ,　｀ヽ｀.ｌ
+    　　　/〈　　`ｰ〈::....ノ　　　Ｖ
+    　　　|　ヽ_ｰ ､ ｀ヾ＿/　//
+    　 　 |　 　　ﾌ-､｀ｰ┴‐-〃
+    　　　　　　　　　`ー‐一′
+
+
+
+
+
+100 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:11:18 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　　.／￣￣＼
+    　　　　　　 /　ヽ､_ 　　.＼　　　　　　　　例えば1769年に発明された
+    　　　　　. （　（● ） .　　　|
+    　　　　　. （人__）　　　　　|　　　　　　　　世界最初の自動車と言われる
+    　　　　　r‐-､　　 　.　　　|
+    　　　　 （三））　　　.　　　|　　　　　　　　　『キュニョーの砲車』を知ってるだろうか？
+    　　　　　>　ﾉ　　　　　　 /
+    　　　　/ 　/ ヽ、　.　　 /　　　
+    　　 　/ 　/ ⌒ヾ　　　.〈　　　
+    　 　 （＿__ゝ､ 　＼／.　）
+    　　　　　　.　|＼　　 　,.1
+    　　　　　　.　|　 ＼_／...|
+
+
+　　　　　　　　　　　　『キュニョーの砲車』
+
+　　　　　　　　　　　　<a href="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/83L838583j8387815B82CC96C8ED4.jpg" target="_blank"><img alt="83L838583j8387815B82CC96C8ED4.jpg" border="0" height="299" src="http://blog-imgs-51.fc2.com/o/y/o/oyoguyaruo/83L838583j8387815B82CC96C8ED4s.jpg" width="400"/></a>
+
+
+
+    　　　　　　　　　 　 　 　 ／￣￣ ＼
+    　　　　　　 　 　 　 　　⌒ 　｀⌒　　＼　　　 　v-,
+    　　　　　　　　　　　　( ●) ( ●)　　　|　　　　 |　r　　　　　　これは元々、フランス軍が蒸気機関を使った
+    　　　　　　　　　　 　 （__人___）　　 　 | 　 　　 |　|
+    　　　　　　　　 　　　　'､　　　　　　　 |　　　　 |　|,.-、.　　　　大砲を運ぶ運搬車両の開発を
+    　　　　　　　　　 ,,.　-ｰ|　　　 　　 　 |ヽ__／￣ヽ｀ r´
+    　　　　　　　　 / .::::::、::|　　　　　　 /ｨ::::〔￣￣ ｀' ト-、　　　　ニコラス・キューニョに依頼して制作したものなんだ
+    　　　　　　　　l :::::::::::::::::ヽ__､____,.　":::/::::〔￣　　　l:::. ヽ
+    　　　　　　　 」 ::::::::l:::: ::::::「二二::::／ :::::::ヽ y　　　l::::::. ',
+    　　　　　　　 l :::::::::::ヽ:::::::::::::::::::::::::::::::::::::::::::l　　　　l:::::::: i
+    　　　　　　 / ::::::ｰ-ミ､:::::::::::::::::::::::::::::::::::::::::::ヽ＿／:: L::::|
+    　　　　　 / :::::::::::::::::ヽ::::::::::::::::::::::::::::::::::::::::::::く::::::::::::::::::|::|
+    　　　　　/ ::::::::::::::::::::/ヽ::::::::::::::::::::::::::::::::::::::::「 ::::::::::::::::::||
+    　　　　/ :::::::::::::::::::/　　＼:::::::::::::::::::::::::::::::::::::V ::::::::::::::: |
+
+
+
+
+105 ：<span style="color:#990000"><strong>名無しのやる夫だお</strong></span>：2012/10/10(水) 01:14:10 ID:THZHKQm20
+
+
+
+<strong>    キョニューって読んだ人は僕と一緒にごめんなさいしないとね</strong>
+
+
+<span style="color:#009900"><strong>    私もこれを書いてる間に何度かキョニューって書いてたから無問題だ</strong></span>
+
+
+101 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:11:55 ID:Gc4juF/I0
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）　　　　　　　　ま、ワットの蒸気機関の20年近く前の話だから
+    .　|　u.　　 （__人__）
+    　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　性能は決して高くないがな
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }　　　　　　　　　　こいつの速度は大体
+    　　 ヽ　　　　　ノ
+    　 　 i⌒＼ ,__(‐- ､　　　　　　　　　時速3マイル（＝約5km/h）程度だったらしいし
+    　 　 l ＼　巛ー─;＼
+    　　 　|　｀ヽ-‐ーく＿）
+    .　　　 |　　　　　　l
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼　　　　　　　こいつは1770年11月に『世界最初の自動車事故』を起こし
+    　|　　　 （ ー）（ー）
+    .　|　　　　 （__人__）　　　　　　それが原因でプロジェクトは実質中止になったんだが
+    　 |　　　　　｀ ⌒´ﾉ
+    .　 |　　　　　　　ｎｌ^l^l　　　　　それでも後に与えた影響は小さくない
+    .　 ヽ　　　　　 |　　 ﾉ
+    　　 ヽ　　　　ヽ　く
+    　　　/　　　　　ヽ　＼
+
+
+
+
+
+102 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:12:15 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　　　 ／￣￣＼
+    　　　　　　　／ 　 ⌒　　 ＼　　　　　　なんせあのナポレオン・ボナパルトが
+    　　　　　　（ へ）（ へ）　 　 |
+    　　　　　　.（__人__）　 　 　 .|　　　　　　1798年にこの蒸気機関車を見て
+    　　　　　　　ｌ｀ ⌒´　　　 　 |
+    　　　　　　　{　　　　　 　 　 |　　　　　　軍用自動車の有用性を強調し
+    　　　　　　　{　　　　　 　＿ |
+    　　　　　　（ヽ、ヽ　　　/ 　）|　　　　　　そのうえ『戦争における自動車』なんて諸説を発表したほどだ
+    　　　　　　 |　｀`ー―‐'|　..ヽ|
+    　　　　　　 ゝ　ノ　　 　ヽ　 ノ　　　　　　この話は俺も仰天させられただろ
+    　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+
+    　　　 ／￣￣＼
+    　　／　　 _ノ　　＼　　　　　　　　　話を戻そう
+    　　|　　　 （ ●）（●）
+    　　|　　　　 （__人__）　　　　　　　　　その後、1820年ごろに数名が
+    　　|　　　　　　　　　ﾉ
+    　　|　　 　 ∩ノ ⊃ }　　　　　　　　　蒸気自動車の改良をしていたりする
+    　 /ヽ　　 ／ ＿ノ }
+    　(　ヽ　 /　　/　ノ　　　　　　　　　　だが、軍はそれに見向きもしなかったんだ
+    　　ヽ　“　　/＿|　 |
+    　　　＼＿_/＿＿ /
+
+
+
+
+
+103 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:13:10 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　 　／￣￣＼
+    　　　　　　／　　 _ノ　　＼　　　　　　　この頃の戦争は騎兵の全盛期
+    　　　　　　|　　　 （ ●）（●）
+    　　　　　.　|　　　　 （__人__）　　　　　　不安定な蒸気機関よりも
+    　　　　　　 |　　　　　｀ ⌒´ﾉ
+    　　　　　.ｌ^l^lｎ　　　　　 　 }　　　　　　軍馬の方が優秀かつ安上がりなのは確かだ
+    　　　　　.ヽ 　 L　　　　 　 }
+    　　　　　　 ゝ 　ﾉ　　　　ノ　　　　　　　だから軍は蒸気機関を使った自動車の開発に
+    　　　　　／ 　 /　　　　　＼
+    　　　 ／　　 /　　　　　　 　＼　　　　　そこまで熱心になれなかった
+    　　. /　　 　/　　　　　　　　-一'''''''ー-､.
+    　　人＿＿ﾉ　　　　　　　(⌒＿(⌒)⌒)⌒))
+
+
+
+    　　　　　　　　 ／￣￣＼
+    　　　　　　　／ ヽ､.　_ノ　＼　　　　　　　だがそんな装甲車両の歴史に
+    　　　　　　　|　 （●）（●）　|
+    　　　　　　　|　　（__人__）　｜　　　　　　　とある転換期が訪れる
+    　 　 　 　 　 |　　 ｀ ⌒´　　|
+    　　　　　　　 |　　　　　　 　}　　　　　　　　1854年のクリミア戦争の勃発だ
+    　　　　　　　 ヽ　　　　　 　}
+    　　　　　　　　人＿__＿_ノ"⌒ヽ
+    　　　　　　／　　　　　　　　　　　＼
+    　　　　　/ 　　　　　　　　　　 へ　　＼
+    　　　　 （　　ヽγ⌒)　　　　　| 　＼ 　 ＼
+    　￣￣￣＼＿＿／￣￣￣￣￣￣￣￣￣￣￣
+    　　　　　　　　　　　｛;;;;;;;｝
+    　　　　　　　　　　　 L;;;;」
+
+
+
+
+
+104 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:13:36 ID:Gc4juF/I0
+
+
+
+
+    　 　　 ／￣￣＼
+    　 　／　　 _ノ　　＼　　　　　　　　　火砲、装甲、小銃……
+    　 　|　　　 （ ー）（ー）
+    .　 　|　　　　 （__人__）　　　　　　　　色々な兵器がこの頃に凄まじい発展を見せ
+    　 　 |　　　　　｀ ⌒´ﾉ
+    　 　.ｌ^l^lｎ　　　 　　}　　　　　　　　　だんだん騎兵が猛威を振るえる時代から変わりつつあったんだ
+    .　　 ヽ 　 L　　　 　}
+    　 　　ゝ 　ﾉ　　　ノ　　　　　　　　　　また、海戦も装甲艦の大幅発展により
+    　 　／ 　/　　　 ＼
+    　 ／　 /　　 　 　　＼　　　　　　　　　軍艦競争がだんだん熾烈さを増してきた
+    . /　　/　　　　　　|ヽ、二⌒)､
+    　ヽ＿＿ﾉ
+
+
+
+    　　　　　／￣￣＼
+    .　　　.／　　　_ノ　 ヽ　　　　　　　　　　こうなると、戦争における
+    　　　 | 　　　（ ●) (●)
+    　　　 | 　 　 　（__人__） 　∫　　　　　　　火力と防御力の向上が今までの比ではなく
+    　　　 |　　　　　｀⌒´ﾉ　∬
+    .　　　ヽ　　 　 　 　　} |￣|　　　　　　　　これによって、何らかの形で戦場に影響が現れてくるのは
+    　　　　　ヽ　　　　 ノ　|＿|）
+    ＿＿__／　　　　　 ｲー┘ |　　　　　　　　必至の状況となってきたわけだ
+    | |　　/　　/　　　 　_＿＿/
+    | |　 /　　/　 　 　　|
+    | |　（　　　￣￣￣⌒ヽ
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+
+
+
+
+
+106 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:14:13 ID:Gc4juF/I0
+
+
+
+
+    　　　　　／￣￣＼
+    　　　 ／　　 _,.ノ　 ヽ､_　　　　　　　　　という事で、イギリスのジェームズ・コーウェンは
+    　 　 ｜　 　 ( ○) (○）
+    　　　｜ U　　（___人__）　　　　　　　　　1855年に蒸気機関を使った戦車を作っている
+    　　　 .|　　　　　　　__ﾉ__
+    　　　　|　　　 　_／ ___＼ヽ_　　　　　　　こいつは亀甲型の装甲で
+    　　　　 ､　　　 '-／____ヽ　 |
+    　　　　 ﾉ ､　.＿'-〈 　、ヽ　 |　　　　　　 面には鎌をつけた戦車らしい……
+    　　　 ,´ 　 　 　 　 ヽﾉ}　　　|
+    　　 /　　　　　　 　 　{　 　/　　　　　　　……俺には到底姿が想像つかないが、皆はどうだ？
+    　 ./　　/　　　　　 　/　　 {
+
+
+    　　　　　　　.／￣￣＼
+    　　　　　　 /　ヽ､_ 　　.＼　　　　　　　　他にもドイツのレーリッツ大佐が
+    　　　　　. （　（● ） .　　　|
+    　　　　　. （人__）　　　　　|　　　　　　　　装甲列車に機関砲を網の目のように設置した
+    　　　　　r‐-､　　 　.　　　|
+    　　　　 （三））　　　.　　　|　　　　　　　　移動砲としての戦車を提案した
+    　　　　　>　ﾉ　　　　　　 /
+    　　　　/ 　/ ヽ、　.　　 /　　　　　　　　　が、これらは軍に採用されること無く終わった
+    　　 　/ 　/ ⌒ヾ　　　.〈
+    　 　 （＿__ゝ､ 　＼／.　）
+    　　　　　　.　|＼　　 　,.1
+    　　　　　　.　|　 ＼_／...|
+
+
+
+
+
+108 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:15:52 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　 （⊃￣￣＼
+    　　　　　（⊃　　 _ノ　　＼　　　　　　　　確かに兵器の発展は目覚しいとはいえ
+    　　　　（⊃　　 （ ●）（●）
+    　　　　　|　　　　 （__人__）　　　　　　　　それでもまだ機動戦の中心は騎兵だった
+    　　　　　|　　　　　｀ ⌒´ﾉ
+    　　 　 　 |　　　　　　 　 } ＼　　　　　　　これらの装甲車両は、馬よりも実用に値しないと
+    　　　　 ／ヽ　　　　　　 }　　＼
+    　　　／ 　　ヽ､＿＿__ノ　　 　 ）　　　　　軍は考えていたんだよ
+    　 ／　　　　　　　　.　 　|　＿／
+    　|　 　　　　　　　／￣￣（＿)
+    　 ＼　　　＼　／|　ＪＪＪ　（
+    　　　＼　　／　　 ／⊂＿）
+
+
+    　　　　　　　＿＿
+    　　　　　 ／　.／}＼
+    　　　　／　,r'"／　 .＼
+    　　　ハ　/　/ ヽ、　／"i　　　　　　　だがここで現れた一つの兵器で
+    　　.ｿ ﾉ /　/ （●／ ..,ｨ´
+    　　|　 ﾚ' 　 '- '~　 ／..|_　　　　　　　そうも言ってられない自体が起こった
+    　　l　　　　 　　 ｔ".,.-┘.)
+    .　　',　　　　　　 　､-ｰｒ'､
+    　 　.＼　　　　　　　゛''´.ﾉ
+    　　　　）　　　　　　／｀´
+    　　　 /　　　　　／ヽ
+    　 .　/　　　　／　　│
+
+
+
+
+
+109 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:16:19 ID:Gc4juF/I0
+
+
+
+
+    　　　 　 ／￣￣＼
+    　　　 ／　　 _ノ　　＼
+    　　　 |　　　 （ ●）（●）　　　　　1883年にハイラム・マキシムが発明した機関銃の登場だ
+    　　　 .|　　　　 （__人__}
+    　　　 .|　　　　　｀ ⌒´ﾉ
+    　　　　|　　　　　　 　 }　　　　　　　　　　　 　jl　　　　　　　／/
+    　　　　ヽ　　　　　 　 }［］｀ミｰ､,,,,　　　　　　.l ||　　ヽ　＼／ ﾄﾞﾊﾟﾊﾟﾊﾟﾊﾟﾊﾟﾊﾟﾊﾟ
+    　　　　　ヽ　　　　　ノ|| | 　　　　""'''ヽ　　　| ||　　　ゝ　　　/
+    　　　　,,,-彡＿,r''"￣ 「/￣/￣/;二"二"二((二(（三三Ｃ≡＝─
+    　　_,-|　 r'"　二　=＝i　ﾆﾆ二/＼/ccccccc//＿ヽ　）　　　ヽ
+    　<､、ﾞl　　-￣￣C＝]　ﾉ;ヾ / ⊂ﾆﾆﾆ二二ソﾆﾆﾆｿﾉ／⌒ヽ＼
+    　　 ,lﾞﾞ'l、　　」ﾆﾆ二二〈ｰ;;　＼/二L＿」　j
+    　 ／　 l　　/;:: /{￣`)ﾉ　ーーｰ ＼　　　/
+
+
+
+    　　　　　　 　.　＿＿
+    　　　　　　　.／::::::.　＼
+    　　　　　　 /::::::ヽ;;:　　 ＼　　　　　　多分、今までの流れを理解出来る人達なら
+    　　　　　. （:::::（::::冫 　　　|
+    　　　　　. （:人;;;） .　　　　|　　　　　　WW1で凄まじい威力を発揮した
+    　　　　　r‐-;::::::. .　 　　　|
+    　　　　 （三））:::::..　.　　　|　　　　　　機関銃の存在感については知っていると思う
+    　　　　　>::::ﾉ:::::::::.　　　 /
+    　　　　/::: / ヽ;::::::::: 　 /　　　　　　　この存在によって
+    　　 　/::::/ ⌒ヾ:::::::::::.〈
+    　 　 （;;;;__ゝ:;;:::::＼／:::::）　　　　　　　騎兵は戦場の主役の座を奪われることとなった
+    　　　　　　.　|＼::::::::::::;;:1
+    　　　　　　.　|:::::＼;;／:::|
+
+
+
+
+
+110 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:16:41 ID:Gc4juF/I0
+
+
+
+
+    　　　　　／￣￣＼
+    .　　　.／　　　_ノ　 ヽ　　　　　　　　だがコレによって、軍は必然的に
+    　　　 | 　　　（ ●) (●)
+    　　　 | 　 　 　（__人__） 　∫　　　　 機械化の大きな影響を受けることとなる
+    　　　 |　　　　　｀⌒´ﾉ　∬
+    .　　　ヽ　　 　 　 　　} |￣|　　　　　　それは機関銃が軍用自動車の必要性を喚起したことだ
+    　　　　　ヽ　　　　 ノ　|＿|）
+    ＿＿__／　　　　　 ｲー┘ |
+    | |　　/　　/　　　 　_＿＿/
+    | |　 /　　/　 　 　　|
+    | |　（　　　￣￣￣⌒ヽ
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+
+
+
+
+
+111 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:17:03 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　　／ _ノ　 .ヽ、＼　　　　　　折しも機関銃が発明された同年は
+    　　　　　　　　　　　　　　　　|　 （●）（●）　|
+    .　　　　　　　　　　　　　　　　|　　（__人__）　.|　　　　　　ドイツのゴットリーブ・ダイムラーが
+    　　　　　　　　　　　　　　　　 |　　 ｀ ⌒´ 　ﾉ
+    .　 　 　　 　 　 r─一'´￣`＜ヽ　　　　　　}　　　　　　　ガソリン高速内燃機関を発明した年でもあった
+    .　　　　 　　 　 `ー‐ｧ　　 ,　 　 )　　　 　, -'~⌒ヽ、
+    　　　　　　　　　　 ノ　　　{. 　 ,ﾍ　　　　,l.　ゝ、_ .'ヽ).
+    . 　 　 　 　 　　 ／, ､　_　　　/. |　　 　.　',　　.　..　 .ヽ、
+    　 　 　 　 　　 （／ / // / /　...|　 　 　 ...|＼..＼＼ ＼_)
+    　　　 　 　 　　 　 / // / /　　　　　　 　 . .　＼_＼_)､_）
+    　　　　　　 　　 　 ｰ' {_/ノ　　　　　　　　　 　 　　."´
+
+
+
+    　　　　　　　　　 　 ,. 'ニ二ニ､ニﾆ =､　　　　　　　　　ダイムラーの発明によって
+    　　　 　 　 　 　 　 l|_＿ｊ|_＿_|;|___|[__)|
+    　　　　　　 　 　 , '-- 、 - ‐ '';;',:.:ｌ.:ｌ:;::l　　　　　　　　　蒸気機関やガス機関よりも性能の優秀な……
+    　 　 　 　 　 ,〇;|li{{{iＩｌ|:○ｒ::,.=､､::l,´,:‐､ｌ
+    　　　　　　　i..:.::;i====i:___;.:,jii´i:l_,ｊ_;ｊｉ´!｣　　　　　　　　要は容量が少なくて軽い
+    　　　　　 　 .==========＝l ,ｊ.,.,., lil ,ｊ
+    　　　　 　 　 ｀~´::::::::::::::::::::::｀~´:::::::｀~´　　　　　　　　　そして速力が出て、取り扱いが便利な原動機関が登場したわけだ
+
+
+
+
+
+112 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:17:36 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　＿＿＿＿＿＿＿__　 ∧_∧＿∧_∧
+    　　　　　/　 ∧＿∧　// . ||.||　（＾＾（´・ω・`）＾＾∧＿∧　　　　　　　これは自動車そのものにとって追い風となった
+    　　　　　|＿（´・ω・`）//＿||.||　∧＿∧∧＿∧（´・ω・`）
+    　　　　/＿　￣￣＿　|　 　 |.||（´・ω・`）´・ω・`）と::::::::::）　　　　　　　1888年には幾つかの会社でガソリン自動車が開発され
+    　 　 ◎=＝＝=◎　　 |　 　 |.||∪￣|∪￣|∪∪|￣∪|￣￣|
+    　 　 ｜＿＿＿　　 　 |　 　 |.||　 　 |　 　 | 　 　|　 　 |　 　 |　　　　　　　　　　　　1893年にはヘンリー・フォードによって
+    　　　 ヽ -―ヽ＼ 　 　|　 　 |.||＿＿|＿＿|＿＿|＿＿|＿＿| 　　三;;::('⌒;;:⌒
+    　 　 / /　// ヽ_＼＿_|＿＿/―――|　|/ /　　 ヽ　　　　　　　　　　　　　　　　　　自動車の大量生産が始まった
+    　　｜｜　し　｜ 　 　 　 　 |w|│（＿|w| ｜　Ｏ　| 　　三　　　　　;;::('⌒　;;:⌒
+    　　　ヽヽ＿__ノ 　　 　 　 　 ヽヽ＿__ノ　ヽヽ＿__ノ 三≡　(´⌒(´⌒;:
+
+
+
+    　　　　　　　　 　　　　　　　　
+    　　　　　　　　　　　　/□□ｭ 　　　　　　　　　　　　　　　そして1896年には
+    　　　　　　　　　　　　U；ﾟДﾟ) 　 　　　　　Ｍ；
+    　　　　　　　　　　　((:(つI[二二i＝━━━ 　　＝　　　　　アメリカ軍機械化の先覚者であるダヴィットソン大佐が
+    　　　　　　　　　　　　ijｺﾆlﾆ└||‐┘ 　　　Ｗ；
+    　　　　 ,.ｨﾆﾆﾆﾆﾆﾆﾆﾆｨ============ヽ__　　　　　　　　　機関銃を搭載した自動車を開発し
+    　　　／ | i‐―il|iー‐‐[]||（；´д）||(；=ﾟω) ||;[j
+    　 ／＿_| |＿__|||＿＿|||ﾞ-r----''------ﾞー-,､..　　　　　　 初の自動車の軍用化が図られたんだ
+    　 |jー‐､| |:　　|||:　 　:||ﾞ^i､ｨー-ﾍjﾆlOlijijijijijijlOlﾆj
+    　　ｨ'"｀ヽi|＿__|||＿＿||　/ ｨ'"｀ヾヽﾍ;;ﾆﾆﾆﾆ;;/､ヽ
+    　　i　〇 lﾍﾆﾆﾆ二二二/__i 　〇 ;lll,ｨ'ﾝ===ヽﾍ) ;lll
+    　　ヽ＿.//　　　　　　　　　ヽ＿_//　　　　ヽ＿.//
+
+
+
+
+
+113 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:18:04 ID:Gc4juF/I0
+
+
+
+
+    　　　　　 ／￣￣＼
+    　　　　／　　 _ノ　　＼　　　　　　　　　　　ここから先の流れは
+    　　　　|　　　 （ ●）（●）
+    　　　.　|　　　　 （__人__）　　　　　　　　　　 もう凄まじいほど早かった
+    　 　 　 |　　　　　｀ ⌒´ﾉ
+    .　　　　 |　　　　　　 　 }　　　　　　　　　　　これ以降、様々な装甲自動車が開発され
+    　　　.　 ヽ　　　　　 　 }
+    　　 ＿/⌒ヽ　　 　　ィ　　　　　　　　　　　　中には対空砲や旧式の海軍砲を搭載した車両も
+    　i'⌒ﾞl |　　 l　　 　 　 　 ＼＿＿ｨ～っ
+    　|　　|. |　　 |　　 　 　 ﾄ､_"＿＿冫く;'三｝　　　登場するほどとなったわけだ
+    　|　　|　（　"￣⌒ヽ、　|＿＿＿＿`ー‐"
+    　|. 　￣￣￣￣|ｿﾉﾉ￣｀ヽ￣⌒ヽ.'⌒lｿ
+    　|　　　　　　　 l 　.| y　　|＿ｨ 　 |　 .||
+    　|　　　　　　　 | 　.|.|　　 |　 |　　| 　 ||
+    　|　　　　　　　 |　　 |＿__|　 |_＿|　　||
+    　|＿＿_＿＿__.|＿__（＿_ﾞ)__{_＿_ﾞ)＿||
+
+
+
+
+
+114 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:18:43 ID:Gc4juF/I0
+
+
+
+
+    　　　 　　　　　 ／￣￣＼
+    　　　　 　　　／　_ノ　 ヽ､.＼　　　　　　　　俺の話はとりあえずここまでだが
+    　 　 　 　 　 | 　（●）（●）　.|
+    　　　　　　 　!　　（__人__）　 |　　　　　　　　ちょっと言わんとしてることが
+    　 　 　 　 　 , っ　 ｀⌒´　　 |
+    　　　　　　 /　ミ）　　 　　　/　　　　　　　　 トンチンカンすぎるかもしれないから
+    　　　　 　./　ノゝ　　　　　/
+    　　　　 　i　ﾚ'´　　　 　　ヽ　　　　　　　　　　最後に俺の言いたいことをまとめよう
+    　　　 　　|　|／|　　　　 |　|
+
+
+
+
+
+115 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:19:02 ID:Gc4juF/I0
+
+
+
+
+    　　　　　　　　　　 　 　 /7
+    　　 　 　 　 　 　 　 　 //
+    　　　　　　　　　　 　 //　　　　・かなり昔から自動車という機械を軍用化しようという考えはあった
+    　　 　 　 ＿＿　 　 //
+    .　　　 ／ノ　ヽ＼ .//　　　　　　・だが蒸気機関が全盛期の時代には
+    . 　 ／　（●）（●〉/　　　　　　　　　　　　　　　　　　騎兵が中心の時代で、軍は自動車に関心が薄かった
+    　　l　 　 （__人_,//l
+    .　　|　　 　｀⌒// ﾉ　　　　　　　・火力の増強、機関銃の存在で騎兵が戦場の主役から
+    　　 l 　 　 　 // ./　　　　　　　　　　　　　　　　　　　　　　駆逐されると、軍用自動車の関心が上がった
+    .　　 ヽ r-‐''7/）/
+    　 　　/　と'_{'´ヽ
+    　 　 /　 _.､__〉　ﾄ,
+    　 　 {　 ､＿_}　 |.i
+    　 　 ヽ　_,.ﾌ　　.|.|
+
+
+
+    　　　　 ／￣￣＼
+    　　　／　　 _ノ　　＼　　　　　　・丁度その頃に蒸気機関よりも優れた
+    　　　|　　　 （ ●）（●　　　　　　　　　　ガソリン内燃機関が発明され、自動車の機関に採用された
+    　　　|　　　 　 （__人__）
+    .　　　|　　　　　　　　ﾉ
+    　　　 |　 　 　 ∩ ノ ⊃　　　　　・なので軍用自動車、装甲自動車共に当時画期的だった
+    　　／ 　 　 .／　＿ノ　　　　　　　　　　　　　　　　　　　ガソリン内燃機関製の自動車が採用された
+    　 (.　 ＼ ／　.／_ノ │
+    　　＼　 “　／_＿_|　 |
+    .　　　 ＼／ ＿＿＿ /
+
+
+
+
+
+116 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:19:35 ID:Gc4juF/I0
+
+
+
+
+    　　　 ／￣￣＼
+    　　／　　 _ノ　　＼　　　　　　　　……とまあ、こんな経緯があったから
+    　　|　　　 （ 一）（●）
+    　　|　　　　 （__人__）　　　　　　　　　　高い性能が求められる戦車に内燃機関が採用されるのは
+    　　 |　　　　　｀⌒´ﾉ
+    　　 |　　　,.<))／´二⊃　　　　　　　　　もう当然の結果だったんじゃないかなぁ
+    　 　ヽ　/ ／　 '‐､ﾆ⊃
+    　　　ヽ､ｌ　　　　´ヽ〉　　　　　　　　 　　なんて、俺は考えてたりする
+    　　 　,-/　　　 __人〉
+    　 　/ ./. 　 /　 　 ＼　　　　　　　 　　　蒸気機関も悪くはないんだろうが……
+    　 　| / 　 /　 　 　i　＼
+    　 　|"　 / 　 　 　 | >　 )　　　　　　　　 いかんせん時期が悪かったな
+    　　 ヽ／　　　　　 とヽ /
+    　　 　|　　　　　 　そ ﾉ
+
+
+
+    　　　　　　　　 ／￣￣＼
+    　　　　　　　／　　 _ノ　　＼　　　　　　まあ、俺もここらへんは詳しくないから
+    　　　　　　　|　　 　（ ⌒）（⌒）
+    　 　 　 　 　 |　　 　　（__人__）　　　　　結構適当な事言ってるだけだ
+    　　　　　　　 |　　 　　 ｀ ⌒´ﾉ
+    　 　 　 　 　 ,|　　 　　　　　 }　　　　　　あんまり参考にしないで欲しいだろ
+    　　　　 　 ／ ヽ　　　　　　 }
+    　　　　　く 　く ヽ　　　　 ノ　　　　　　　誰か知ってる人がいたら
+    　　　　 　 ＼　`' 　　　 く
+    　　　　　　　 ヽ、　 　 　 |　　　　　　　　逆に教えて欲しいぐらいだな！
+    　 　 　 　 　 　 | 　 　 　 |
+
+
+
+
+
+117 ： <span style="color:#009900"><strong>◆IWIzhjv9FQ</strong></span>：2012/10/10(水) 01:20:04 ID:Gc4juF/I0
+
+
+
+
+    　　 　／￣￣￣＼
+    　　／　　　　 　 　 ＼
+    　 /ﾉ　 ヽ､_　　　　　 ヽ　　　　　　　　　まあ散々言いたい放題言ったし
+    　（ ●）（ ●）　　 　 　|
+    　 | {　.!　　)　 　 　 　 |.　　　　　　　　　俺は水銀燈に戦車と装甲車の補足をしに戻るとするよ
+    　 |. ¨´ ｀¨´　　　　　 l.
+    .　 |　　　　　　　　　 /.　　　　　　　　　　それが終われば2人に戦車の簡単な歴史の
+    　　|　　　　　 　 　 /
+    　 　＼__　　　 　 （　　　　　　　　　　　　後半部分を話さにゃいかんしな
+    　　　　 _）_ =＝＝＼
+    　　 　／　 　 　 　 　 ＼　　　　　　　　　いきなり押しかけてすまなかった。それじゃあな
+    　 　/　　　　　　　 　 　 ヽ
+    　　 |　　　　,　　　　　　　 i
+    　　 |　　 　 |　　　　　 　 l.|
+    　 　|　　 　 l　　 　 　 　 | |
+    　 　|　　 　 |.　　　 　 　 |. l
+    　　 l　　　　|　　　　　　 |.│
+    　　/　　　 ﾉ　　　 　 　 |　|
+    　 / 　 　 /　　　　　 　 l /
+    　（ヽ､__,/＿＿__ 　_＿,У
+    　 ヽ_ｨ　 __ __￣￣_￣_,|
+    　 ￤　 ￤　￤　j l　 　|
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5053/clap" id="fc2button-clap-5053" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5053").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/10.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5053/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶ旧日本軍の戦車　突発ネタ　なぜ戦車には最初から内燃機関を使っていたか" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5053.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5885.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第五話　戦車紹介 (2013/08/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5791.html">
+					やる夫で学ぶ旧日本軍の戦車　補足２　『そもそも砲とか装甲とかってどういう原理なの？』 (2013/07/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5660.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第四話その２ (2013/06/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5524.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第四話 (2013/04/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5499.html">
+					やる夫で学ぶ旧日本軍の戦車　番外編　米軍の戦車ってどんなのがあるの？　その１ (2013/04/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5425.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第三話その４ (2013/03/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5236.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第三話その３ (2012/12/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5229.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第三話その２ (2012/12/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5221.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第三話 (2012/12/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5120.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第二話 (2012/11/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5103.html">
+					やる夫で学ぶ旧日本軍の戦車　第二章　日本の戦車ってどんなのがあるの？　第一話 (2012/10/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5073.html">
+					やる夫で学ぶ旧日本軍の戦車　補足話『車両の名前の違いってそもそも何？』 (2012/10/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5066.html">
+					やる夫で学ぶ旧日本軍の戦車　第一章　日本の戦車って何？　後半 (2012/10/17)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶ旧日本軍の戦車　突発ネタ　なぜ戦車には最初から内燃機関を使っていたか (2012/10/10)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5048.html">
+					やる夫で学ぶ旧日本軍の戦車　第一章　日本の戦車って何？　前半 (2012/10/09)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶ旧日本軍の戦車　突発ネタ　なぜ戦車には最初から内燃機関を使っていたか" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/10/10 05:30 ]
+<a href="/blog-category-439.html" title="カテゴリを参照">学ぶ系　やる夫で学ぶ旧日本軍の戦車</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html#comment_list" title="この記事のコメントを参照">CM(27)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5053"
+    dc:title="やる夫で学ぶ旧日本軍の戦車　突発ネタ　なぜ戦車には最初から内燃機関を使っていたか"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html"
+    dc:subject="学ぶ系　やる夫で学ぶ旧日本軍の戦車"
+    dc:description="84 ：名無しのやる夫だお：2012/10/09(火) 18:11:12 ID:fXJ7FYB20    初期の戦車の動力って蒸気機関？それとも始めから内燃機関だったのかな？    戦車誕生の20世紀初頭は蒸気機関全盛期で、蒸気式自動車やトラクターもあったけど、どうだったんだろ？85 ：名無しのやる夫だお：2012/10/09(火) 18:14:55 ID:SHlsgAYY0    >1じゃないが    基本内燃機。極初期に蒸気エンジンの試作車があったが１，２例だったはず。    初期の戦車開..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-10-10T05:30:23+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5052.html" title="ＡＡで学ぶ南北戦争への道　第１９回　テキサスの嵐">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5050.html" title="やる夫で学ぶ食卓の歴史　番外編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment45172">[ 45172 ] <strong></strong></p>
+</div>
+<div class="comb">
+木炭車って蒸気機関ではなく
+木炭の不完全燃焼による一酸化炭素を燃やして
+走ってたんだと。
+ガソリンエンジンをさほどいじる事なく使えるので
+物資不足のところでは(戦時中の日本や北朝鮮)では使われた。
+私も最近知った<div class="comment_navi">
+[ 2012/10/10 07:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=45172" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45176">[ 45176 ] <strong></strong></p>
+</div>
+<div class="comb">
+ごめんなさい<div class="comment_navi">
+[ 2012/10/10 07:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45182">[ 45182 ] <strong></strong></p>
+</div>
+<div class="comb">
+あいむそーりー<div class="comment_navi">
+[ 2012/10/10 09:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45184">[ 45184 ] <strong></strong></p>
+</div>
+<div class="comb">
+非常時の使うものだから
+兵器に要求される条件は厳しいからな
+能力の差で死ぬし負ける
+運用も大事だが。。。<div class="comment_navi">
+[ 2012/10/10 09:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45185">[ 45185 ] <strong></strong></p>
+</div>
+<div class="comb">
+いや、蒸気機関だって内燃機関じゃないの？
+<div class="comment_navi">
+[ 2012/10/10 10:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45186">[ 45186 ] <strong></strong></p>
+</div>
+<div class="comb">
+蒸気機関は外燃機関よ。
+燃焼エネルギーをそのまま動力にするのが内燃機関。
+燃焼の熱を他の物体に伝えてその膨張とかを動力にするのが外燃機関。<div class="comment_navi">
+[ 2012/10/10 10:49 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45192">[ 45192 ] <strong></strong></p>
+</div>
+<div class="comb">
+すいませんキョニューって読みました
+でも俺は貧乳派だから謝らないぞ！<div class="comment_navi">
+[ 2012/10/10 12:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=45192" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45195">[ 45195 ] <strong></strong></p>
+</div>
+<div class="comb">
+自動車とか作れないけど鉄道は作れるよ！だから列車に大砲をつけるよ！レールを敷きながら攻め込むよ！そんな国もあったんだよね・・・。蒸気機関をつけた車両っていうと、どうしても列車砲の印象が強い。
+ 
+とりあえず、ごめんなさい。<div class="comment_navi">
+[ 2012/10/10 12:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45202">[ 45202 ] <strong></strong></p>
+</div>
+<div class="comb">
+キューニョなのにキュニョーになるのか？<div class="comment_navi">
+[ 2012/10/10 14:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45208">[ 45208 ] <strong></strong></p>
+</div>
+<div class="comb">
+ごめんなさい、仕方なかったんです<div class="comment_navi">
+[ 2012/10/10 15:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45210">[ 45210 ] <strong></strong></p>
+</div>
+<div class="comb">
+ごめんなさい
+つっても見る度に謝罪しなきゃならんが・・・<div class="comment_navi">
+[ 2012/10/10 15:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45212">[ 45212 ] <strong></strong></p>
+</div>
+<div class="comb">
+すいませんでした。
+ 
+もし、蒸気機関全盛期に軍の自走兵器への関心が高ければ、蒸気機関で動く装甲自走兵器が活躍していたかもなあ。
+必然的に巨大になるだろうから、馬鹿でかくて頑丈な鉄の塊が煙を吐きながら敵を押しつぶしていく。素晴らしいスチームパンクだ。<div class="comment_navi">
+[ 2012/10/10 16:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45218">[ 45218 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>45195
+装甲列車装備の津田沼鉄道連隊も忘れないであげてっ！
+そして申し訳ございません。<div class="comment_navi">
+[ 2012/10/10 18:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45219">[ 45219 ] <strong></strong></p>
+</div>
+<div class="comb">
+ない夫がただセリフ言うだけかぁ・・・
+wiki読んでるのと変わんない<div class="comment_navi">
+[ 2012/10/10 19:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45224">[ 45224 ] <strong></strong></p>
+</div>
+<div class="comb">
+ごめんなさい
+ 
+考えたこともなかったから楽しく読ませてもらったお
+問題提起されて初めて気が付いたよ
+戦車開発の機関選定評価資料ってないのかな？<div class="comment_navi">
+[ 2012/10/10 20:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45238">[ 45238 ] <strong></strong></p>
+</div>
+<div class="comb">
+まじですまんかった
+>>45212
+スチームパンクで戦車、麻宮騎亜の昔の漫画を思い出してしまった･･･<div class="comment_navi">
+[ 2012/10/11 00:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45241">[ 45241 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>45224
+そういう物ではないけどポルシェティーガーの開発時に起きたハイブリッドエンジンの問題はある意味笑える。<div class="comment_navi">
+[ 2012/10/11 00:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45257">[ 45257 ] <strong></strong></p>
+</div>
+<div class="comb">
+ごめんなさい
+ 
+でもキュニョーって書かれたらキョニューって読んじゃうのしょうがないじゃん！
+<div class="comment_navi">
+[ 2012/10/11 15:29 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45279">[ 45279 ] <strong></strong></p>
+</div>
+<div class="comb">
+セルモーターが出来るまでは蒸気自動車は内燃機関積んだ車やEVといい勝負してたっていうけどねえ<div class="comment_navi">
+[ 2012/10/12 01:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　</a>') } else {
+document.write("　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45280">[ 45280 ] <strong></strong></p>
+</div>
+<div class="comb">
+あれ、一番最初の戦車（と言っても原型だが）は蒸気機関じゃなかった？
+機関銃の雨に耐えられるように装甲板をくっつけた車が元で、内燃機関で武器も詰めるようになったと聞いたんだが……資料が間違ってたかな。<div class="comment_navi">
+[ 2012/10/12 01:42 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45318">[ 45318 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+それでキョニュー機関はどこにありますか？<div class="comment_navi">
+[ 2012/10/13 00:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45325">[ 45325 ] <strong></strong></p>
+</div>
+<div class="comb">
+蒸気機関の戦車？
+サイズが小さいと無理そうだな<div class="comment_navi">
+[ 2012/10/13 06:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45345">[ 45345 ] <strong></strong></p>
+</div>
+<div class="comb">
+後でスレの読者が見つけてきた、ジェームズ・コーウェンの蒸気機関戦車を貼っておきますね
+ 
+<a href="http://i11.photobucket.com/albums/a172/GrandLunar/AFVs/CowanProfile.jpg" target="_blank">http://i11.photobucket.com/albums/a172/GrandLunar/AFVs/CowanProfile.jpg</a> 
+ 
+うーんこのロマン兵器ｗ<div class="comment_navi">
+[ 2012/10/13 15:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45474">[ 45474 ] <strong></strong></p>
+</div>
+<div class="comb">
+※45345
+なにこのハウニブｗ<div class="comment_navi">
+[ 2012/10/14 21:33 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45495">[ 45495 ] <strong></strong></p>
+</div>
+<div class="comb">
+ごめんなさいごめんなさいごめんな(ry
+ 
+※45345
+おわんを伏せたように見えますな。
+かわいいっす。<div class="comment_navi">
+[ 2012/10/15 05:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment45580">[ 45580 ] <strong></strong></p>
+</div>
+<div class="comb">
+蒸気機関は、燃料のほかに水が必要になり、無駄に重量を食うというのがあるので、もともと難しいかもしらん。
+あと、既存の列車砲（長距離砲）とか、装甲列車（輸送機関の装甲化）って、後方で使うことが前提とされていて、前線でドンパチするようにできてない。
+前線で活動する戦車的なものを蒸気機関で作るのは難しいんじゃないかなあ。
+<div class="comment_navi">
+[ 2012/10/16 20:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5053" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment48306">[ 48306 ] <strong></strong></p>
+</div>
+<div class="comb">
+<a href="http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%BF%E3%83%B3%E3%82%AF" target="_blank">http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%BF%E3%83%B3%E3%82%AF</a> 
+ 
+過渡期には幾つか試作されたらしい＞蒸気機関戦車
+ 
+どれもモノにはなってないけど<div class="comment_navi">
+[ 2012/11/29 03:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">　　　</a>') } else {
+document.write("　　　"); }
+</script>
+<noscript>
+<a href="" target="_blank">　　　</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=48306" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5053.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5053"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5053-97150650">http://oyoguyaruo.blog72.fc2.com/tb.php/5053-97150650</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5052.html" title="ＡＡで学ぶ南北戦争への道　第１９回　テキサスの嵐">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5050.html" title="やる夫で学ぶ食卓の歴史　番外編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

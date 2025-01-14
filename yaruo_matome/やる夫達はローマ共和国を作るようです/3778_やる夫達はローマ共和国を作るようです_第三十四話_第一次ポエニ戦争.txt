@@ -1,0 +1,738 @@
+<div class="article">
+
+
+
+
+原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+紀元前265年、イタリア南部、シチリア
+
+
+
+　　 　 　 　 ｀ｰ､　ﾛｰﾏ　　　　　　 `ｰ--､
+　　　　　　　　　＼ ◎ 　 　 　 　 　 　 　 ﾞ~￣￣~｀!
+　　 　 　 　 　 　 　 ＼　　　　 　 　 　 　 　 　 ,_,,.-‐'
+　　　　　　 　 　 　 　 ~｀ｰ‐-‐､ 　 ﾅﾎﾟﾘ　　　ﾞ‐-､_
+　　　　　　　　　　　　　　　　　`､___○　　　　　　　`'ｰ-､_
+　　　　　　　　　　　　　　　　　　　　〉　　　　　 　 　 　 　 `'ｰ-､_
+　　　　　　　　　　　　　　　　　　　　￣~｀ｉ　　　　　　　　　　　◎ﾀｰﾗﾝﾄ､,_
+　　　　　　　　　　　　　　　　　　 　 　 　 {　　 　 　 　 　 　 /´~`ｧ　 　 　 ~ﾞ'､_
+　　　　　　　　　　　　　　　　　　　　　　　｀ﾞ''ｰ-､,_　　　　/´　 　 ~`ｰ-‐‐ｩ　　＼_
+　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ｀`i　　 `'ｰ‐-、 　 　 　 `ｉ　　./
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 {　　　　　 l′　　　 　 `ー'´
+　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ﾞ'､　　　　 }_
+　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 (　　　　,,__〉
+　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 __/´　　ｒ´~
+　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 /~　　　　.|
+　　　　　　　　　　　　　　　 　 　 　 　 　 　 __　 ~ﾌ　　.ｧ‐'′
+　　　　　 　 ｧ‐"＾!__ｉ●ﾊﾟﾚﾙﾓ--‐‐'￣＾''´ｨ′　ｉﾞ○ﾚｯｼﾞｮ
+　 　 　 　 /´　　　　　　　　　　　　　　　△ﾒｯｼｰﾅ　 〉
+　 　 　 　 {_　　　　　　　 　 　 　 　 　 　 ﾉ　　　｀~￣
+　　　　　　 ｀ｰ--､,_　 　 　 　 　 　 　 　 }
+　　　　　　　　　　　`'ｰ●ｱｸﾞﾘｼﾞｪﾝﾄ　 ●ｼﾗｸｻ
+　　　　　　　　　　　　　　　　`ｰ-､_　　　/
+　　　　　　　　　　　　　　　　　　　 ｀~~｀′
+
+やる夫達はローマ共和国を作るようです
+第３４話　「第一次ポエニ戦争」 
+
+
+
+
+
+
+
+
+
+
+872 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:34:56 ID:tDb/mPF.
+
+
+
+
+    ローマのイタリア統一から５年。
+    ５年って短いよね。
+
+
+
+    【審議中】
+
+    　　　　　　ｻﾞﾜｻﾞﾜ……
+    　　　　　　 ∧,,∧　 ∧,,∧　　　　　　　　 ∧,,∧ 　∧,,∧ｷﾓｷﾓ……
+    　　　　∧ (´・ω・) (・ω・｀) ∧∧　　∧ (´・ω・) (・ω・｀) ∧∧
+    　　　(　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )(　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )
+    　　　｜　Ｕ (　　´・) (・｀　　)　と ﾉ ｜　Ｕ (　　´・) (・｀　　)　と ﾉﾄｵﾅｵﾅ……
+    　　　　ｕ-ｕ （l 　　 　∧,,∧ 　∧,,∧　ｕ-ｕ （l 　　 ) (∧,,∧ 　∧,,∧
+    　　　　　　　 `ｕ-∧ (´・ω・) (・ω・｀) ∧∧`ｕ-∧ (´・ω・) (・ω・｀) ∧∧
+    　　　　　　　　　(　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )(　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )
+    　　　　　　　　　｜　Ｕ (　　´・) (・｀　　)　と ﾉ｜　Ｕ (　　´・) (・｀　　)　と ﾉ
+    ｶﾞﾔｶﾞﾔ……　　 ｕ-ｕ （l 　　 )　(　　　ﾉu-ｕ　　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ ﾄﾞﾖﾄﾞﾖ……
+    　　　　　　　　　　　　　 `ｕ-ｕ'.　`ｕ-u'　　　　　　　　 .`ｕ-ｕ'　`ｕ-u'
+
+
+
+    元老院は、難題に悩まされていた。
+
+
+
+
+
+873 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:35:32 ID:tDb/mPF.
+
+
+
+
+    シチリア北東部の都市、メッシーナが、救援を求めてきたのだ。
+
+
+
+    　　　　　　　　　　　　　　　 　 　 　 　 　 　 __　 ~ﾌ　　.ｧ‐
+    　　　　　 　 ｧ‐"＾!__ｉ●ﾊﾟﾚﾙﾓ--‐‐'￣＾''´ｨ′　ｉﾞ○ﾚｯｼﾞｮ
+    　 　 　 　 /´　　　　　　　　　　　　　　　△ﾒｯｼｰﾅ　 〉
+    　 　 　 　 {_　　　　　　　 　 　 　 　 　 　 ﾉ　　　｀~￣
+    　　　　　　 ｀ｰ--､,_　 　 　 　 　 　 　 　 }
+    　　　　　　　　　　　`'ｰ●ｱｸﾞﾘｼﾞｪﾝﾄ　 ●ｼﾗｸｻ
+    　　　　　　　　　　　　　　　　`ｰ-､_　　　/
+    　　　　　　　　　　　　　　　　　　　 ｀~~｀′
+
+
+
+    攻撃してきたのは同じギリシア人都市国家のシラクサ（シュラクサイ）。
+    しかもメッシーナは、シチリア西部を支配していた
+    カルタゴにも救援を求めていた。
+
+
+
+
+
+874 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:36:14 ID:tDb/mPF.
+
+
+
+
+    この時のローマとメッシーナとは、同盟関係ではない。
+    救援すべきか、否か、ローマ元老院は意見が割れていた。
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）
+    .　|　u.　　 （__人__）　　　・・・できるなら、救援してやりたいところだろ・・・
+    　 |　　　　　｀ ⌒´ﾉ　　　でももしそんなことしたら、カルタゴを敵に回す可能性があるだろ・・・
+    .　 |　　　　　　 　 }　　　　それにシチリア島に行くには、海を渡らないといけないだろ・・・
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ
+    　 　 i⌒＼ ,__(‐- ､
+    　 　 l ＼　巛ー─;＼
+    　　 　|　｀ヽ-‐ーく＿）
+    .　　　 |　　　　　　l
+
+
+
+    当時のカルタゴは、ハンパない大国であり、
+    とてもローマが勝てそうな相手ではなかった。
+    それに当時のローマは、海軍をほとんど持っていない。
+    一応、船は、同盟国のナポリやターラントが持っていたが・・・
+
+
+
+
+
+875 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:36:37 ID:tDb/mPF.
+
+
+
+
+    　 　 　　　＿＿＿_
+    　 　　　／_ノ　 ヽ、＼
+    　　　／（ ●） 　（●）.＼
+    　 ／　　　（__人__）　　u. ＼　　いや、でもここで救援しないと、
+    　 |ｎi 7　　 ｀ ⌒´　　　　.　|ｎ　　カルタゴにシチリア島を押さえられてしまうんじゃないかお・・・？
+    l^l | | ｌ ,/)　　　　　　U 　l^l.| | /）
+    ', U ! ﾚ' /　　　　　　.　.　| U ﾚ'/／)
+    {　　　 〈　　　　　　　　　ﾉ　　　 ／
+    ..i,　　 　."⊃　　　　ｒニ 　　　 /
+    　."'""⌒´　　　　　　　`''""''''
+
+
+
+    もしここでメッシーナを見捨てれば、メッシーナはカルタゴのものになる。
+    そうなれば、イタリアの都市は、カルタゴ海軍に脅かされることになる。
+
+
+
+
+
+876 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:36:59 ID:tDb/mPF.
+
+
+
+
+    【審議継続中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´｀д´) (｀Д´ ) ∧∧
+    (　｀・Д)　Ｕ) ( つと ﾉ(ﾍ・´　)　　いやだから救援を・・しかし・・いや・・・
+    ｜　Ｕ (　　｀・) (・´　　)　と ﾉ　　危険だろ・・放置も危険・・どうする・・・？
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+
+
+    【審議継続中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´｀д´) (｀Д´ ) ∧∧
+    (　｀・Д)　Ｕ) ( つと ﾉ(ﾍ・´　)　　え？いやだから・・・うがーーーもういやだーー！
+    ｜　Ｕ (　　｀・) (・´　　)　と ﾉ　　落ち着け！だから救援を・・いやしかし・・・
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+    元老院は紛糾。結論を出せなかった。
+
+
+
+
+
+877 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:37:22 ID:tDb/mPF.
+
+
+
+
+    　　　　　　　　　 ＿＿＿
+    　　　　　　　　／　　 　 　＼　　　ｳｶﾞｰ
+    　　　　　,---､　　＼　 　 ／＼―、
+    　　　　 .l　　　ｌ　 （●） 　（●） ＼ |
+    　　　　 |　　 　|　 　 （__人__）　 　 | |
+    　　　　 .|　　　|　　　|!!il|!|!l|　　 ／ /　　あーもうめんどくさい！！
+    　 　　　　ゝ　　　　　|ｪｪｪｪ|　　　ノ　　　こうなりゃ丸投げしてやるお！！
+    　　　　　　＼　　　　　　　　　／
+    　　　　　　 /　　　　　　　　　 |
+    　　　　　　/　　　　　　　　　　|
+
+
+
+    なんと、元老院は思考を放棄。
+    市民集会に任せてしまった。
+
+
+
+
+
+878 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:37:53 ID:tDb/mPF.
+
+
+
+
+    かつては重要な機関だった気がする市民集会だが、
+    共和制以後はぶっちゃけ元老院の追認機関と化していた。
+    しかしこの時は、決議を求められた。
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　　おい！何か任されちゃったぞ！？
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　　とりあえず投票で決めるか・・・
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+
+
+    【投票中】
+
+    　　　　／|￣￣￣∧,,∧
+    　　 ／|￣￣￣|..（ω・｀ ）
+    　／|￣￣￣|....|φ　∪ ）　　　　　　　 ∧,,∧
+    　|￣￣￣|....|／　｀u-ｕ´　　　　　　　（ 　　　）
+    　|＿＿＿|／ ∧,,∧　　　　　　　　　 （ ｏ　∪
+    　|| 　　　|| 　(´・ω・)　∧,,∧　　　 　 ｀ｕ-ｕ´
+    　　　　　　　（ つﾛと） (´・ω・)
+    　　　　　　　 ｀ｕ-ｕ´　（∪　　つﾛ＿＿＿__
+    　　　 　 　　　　　　　　｀ｕ-ｕ／　=　=　 ／|
+    　　　　　　　　　　　　　　　　|￣￣￣￣|　 |
+    　　　　　　　　　　　　　　　　| 投票箱　| 　|
+
+
+
+
+
+879 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:38:23 ID:tDb/mPF.
+
+
+
+
+    こうして、ローマはメッシーナの救援を決定。
+
+
+
+    　 　 　　　　　　＿＿＿_
+    　 　　　　　　／⌒　　⌒＼
+    　　　　　　／（ ●） 　（●）＼
+    　　　　 ／::::::⌒（__人__）⌒::::: ＼
+    　　　　 |　　　　　|r┬-|　　　　　|　　　ローマ軍、出撃だお！
+    　　　　 ＼ 　　 　 `ー'´ 　 　 (⌒)
+    　　　　　　＞　　　　　　　 　 ﾉ ~.ﾚ-r┐､
+    　　　　　/　　　　　　　　　 ノ__　 |　.|　|　|
+    　　　 　 |　 　 　 　 　 〈￣ 　　｀-Lλ_ﾚﾚ
+    　　　 　 |　　　　　　　　 ￣｀ー┬--‐‐´
+
+
+
+    執政官一人、２個軍団１７０００の戦力を、シチリア島へと出撃させた。
+
+
+
+
+
+880 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:38:47 ID:tDb/mPF.
+
+
+
+
+    ローマ共和国には、二人の執政官がいる。
+    それなのに、一人しか出さないということは、
+    ローマ共和国は、この時点でカルタゴと戦う気なんか無かったということである。
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　ヽ　　 .＿＿＿_
+    　|　　　（ ⌒）（⌒）／⌒　　⌒＼　　　ま、メッシーナの救援ができれば問題ないだろ。
+    .　|　　　　 （__人__） .（●） （ ●）＼　　
+    　 |　　　　　｀ ⌒ﾉ ⌒（__人__）⌒:::::＼　　カルタゴを刺激する必要はないお！
+    .　 ヽ　　　　　 　} . 　　|r┬-|　　　 .　|
+    　　 .ゝ＿,. 　　ノ＿＿__`ー'´＿＿_.／
+    　-(＿＿_.)-(＿＿)＿__.)─(＿＿＿)─
+
+
+
+
+
+881 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/15(土) 18:39:19 ID:tDb/mPF.
+
+
+
+
+    しかし、この時送り込んだ執政官が、とんでもない人だった。
+
+
+
+    　　　　　　　 　 /__/　 /　 /　 '　　l 　 　 , 　 ',＼ヽ　ヽ ヽ
+    　　　　　　　／´_/　 / .／!　 !　　 ! 　 　 ',.　 l .:.l`|　 .:ト､',
+    　　　　　　/ ／ ,'　 /.:./　 |　 !',　　',　　　 l　 :|..:.|.:|　 .:ﾄ、＼
+    　　　　　　∨／|　 :!.:/￣｀ト､:! ',　.:.:',　 , 斗‐┼┼|　 .:|､＼　〉
+    　　　　　　/＼_｣　.:ｌ:,'　 　 ! .:.|ヽ',　.:.l∨　.:| :l.:|.:.:|.:|　 .:| ＼У
+    　　　　　 ,'　 / ,| .:.:!{　　　 ヽ:{.　 ヽ、', ＼.:|:ﾉ/／l |　 .:|＿_〉|
+    　　　　　,　 / ,ハ .:.',　_,,.___,,二　 　 ｀｀二,,＿.,,_ノ.:|　 .:|　|､ヾ
+    　　　　　!: / // ,l＼ヽ ´¨¨´　　 ' 　 　 　 ｀¨¨｀ノ:,' .:.:.,'!　!:＼＼
+    　　　　　|:.ｌ　ｌ l { !.:.:.＼、　 　 l二二二'､　　　　 / .:.:./:|　|.:l.:|ｌ　}　　ついに私の時代が来たわね！
+    　　　　 ｜ﾄ､j｜`!.:.:.:Λ｀　　　',　　 　 /　　　　 ' .:.:./.: |　|.:l.:|| /　　私に全てを任せなさい！！！
+    　　　　　|:.|　Ｎ.:ｌ:|:.:.:.ｌ:|.:＼　 　 ヽ.__／ 　 　 ,. / .:.:/ .:. レ': l.:|｀
+    　　　　　',:!　|.:l.:l:|:.:.:.ｌ:|:.:.l:个 ､　　 　 　 ,.ィ'´:/ .:.:/.:.:.: /.:.　j.:|
+    　　　　　 ヾ　',.',.!:', .:.l:|.:.:{: ｌ／|｀ ー‐ '´　卜/, .:./.:.:.:, '.:.:　/}.:!
+    　　　　　 　＼ヽヽ.＼:{＞'´ /ﾉ　 　 　 　_／/／.:.／.:.:.　/ 〃
+    　　　　　, ｰ厂￣´＼｀ヽ.　,' 　 　 　　　__／´/／＼:. ／／
+    　　　　/ 　 |_,. -‐ ￣`ヽ rァｒ--`‐──'‐‐-r ,　 　｀￢ｰ ､
+    　 　 /___.,ィ´　　　　ヽ､._ ヽ　　 　　 　　　 ./ /′　　　 　 ｢ヽ
+    ァ‐／ /　　　　　　　　 ＼_ノ!　　　 　　 　 ｌ / 　　　 　 　 |　 ',
+    　/ 　 {　　　　　　　 `ヽ､ .}!ヽ!　　　　 　 /V 　 　 　 　 　 !　　',、
+    　!　　 ヽ　　　　　　 ＼　Y | 　` r====r'´　　　　　 　 　 /　 　 !＼
+
+    　　　＊執政官アッピウス・クラウディウス（AA/涼宮ハルヒ）
+
+
+
+    もちろん、今までの人達とは別人である。（一応）
+    果たして、ローマの運命やいかに・・・
+
+
+
+
+
+    第３４話「第一次ポエニ戦争」終わり
+
+    つづく・・・？ 
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3778/clap" id="fc2button-clap-3778" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3778").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/5.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3778/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第三十四話　第一次ポエニ戦争" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3778.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3870.html">
+					やる夫達はローマ共和国を作るようです　第四十一話　アフリカ上陸 (2011/11/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3850.html">
+					やる夫達はローマ共和国を作るようです　第四十話　カラス (2011/11/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3849.html">
+					やる夫達はローマ共和国を作るようです　第三十九話　リパリ島の戦い (2011/11/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3822.html">
+					やる夫達はローマ共和国を作るようです　第三十八話　ローマ海軍出撃！ (2011/11/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3821.html">
+					やる夫達はローマ共和国を作るようです　第三十七話　アグリジェント陥落 (2011/11/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3800.html">
+					やる夫達はローマ共和国を作るようです　第三十六話　シラクサ同盟 (2011/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3799.html">
+					やる夫達はローマ共和国を作るようです　第三十五話　アッピウスの活躍 (2011/10/27)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第三十四話　第一次ポエニ戦争 (2011/10/19)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3770.html">
+					やる夫達はローマ共和国を作るようです　第三十三話　ベネヴェントの戦い (2011/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3769.html">
+					やる夫達はローマ共和国を作るようです　第三十二話　ピュロスの勝利 (2011/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3764.html">
+					やる夫達はローマ共和国を作るようです　第三十一話　ピュロスの講和 (2011/10/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3746.html">
+					やる夫達はローマ共和国を作るようです　第三十話　ピュロス王 (2011/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3745.html">
+					やる夫達はローマ共和国を作るようです　第二十九話　ターラント (2011/10/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3728.html">
+					やる夫達はローマ共和国を作るようです　第二十八話　クィントゥス・ファビウスとデキウス (2011/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3726.html">
+					やる夫達はローマ共和国を作るようです　第二十七話　カプア再復 (2011/09/28)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第三十四話　第一次ポエニ戦争" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/10/19 06:49 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html#comment_list" title="この記事のコメントを参照">CM(9)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3778"
+    dc:title="やる夫達はローマ共和国を作るようです　第三十四話　第一次ポエニ戦争"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。紀元前265年、イタリア南部、シチリア　　 　 　 　 ｀ｰ､　ﾛｰﾏ　　　　　　 `ｰ&#45;&#45;､　　　　　　　　　＼ ◎ 　 　 　 　 　 　 　 ﾞ~￣￣~｀!　　 　 　 　 　 　 　 ＼　　　　 　 　 　 　 　 　 ,_,,.&#45;‐'　　　　　　 　 　 　 　 ~..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-10-19T06:49:48+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3779.html" title="大長編ゆっくりえもん～やる夫と東大寺再建～　Chapter１">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3775.html" title="みんなでプロ野球１２球団紹介スレ　その４１　１９８８.１０.１９物語～パリーグの一番長い日～　第４話">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment25031">[ 25031 ] <strong></strong></p>
+</div>
+<div class="comb">
+またクラウディウスｗ
+元老院も学習しろｗｗｗ<div class="comment_navi">
+[ 2011/10/19 11:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment25046">[ 25046 ] <strong></strong></p>
+</div>
+<div class="comb">
+クラウディウス氏族の中でも「好戦的」「短期決戦志向」が服来て歩いているクラウディウス・ネロ家の人ですから。
+やる夫ハンニバルのシャアの祖先といえばわかるか。<div class="comment_navi">
+[ 2011/10/19 20:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment25047">[ 25047 ] <strong></strong></p>
+</div>
+<div class="comb">
+すまん、こいつはクラウディウス・カウデクス家の人ですた。
+勘違いすみません。<div class="comment_navi">
+[ 2011/10/19 20:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=25047" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment25065">[ 25065 ] <strong></strong></p>
+</div>
+<div class="comb">
+そろそろ、やる夫ハンニバル時代が近付いてきたか<div class="comment_navi">
+[ 2011/10/20 09:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment25104">[ 25104 ] <strong></strong></p>
+</div>
+<div class="comb">
+ポエニ戦争の名前を聞くと片目が疼きますな<div class="comment_navi">
+[ 2011/10/21 05:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=25104" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment27543">[ 27543 ] <strong></strong></p>
+</div>
+<div class="comb">
+>なんと、元老院は思考を放棄。
+>市民集会に任せてしまった。
+ 
+ちゃんとした情報収集できなかったのかな。
+言い負かした方が勝ちの口げんかじゃなく、
+根拠になるものがないと、戦略、
+作戦をたてられないからどうしようもない。<div class="comment_navi">
+[ 2011/12/07 11:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment34002">[ 34002 ] <strong></strong></p>
+</div>
+<div class="comb">
+紀元前の時代に情報なんて伝わるのに何日かかるか考えもつかないな。
+情報収集しているうちにシチリアの情勢は動くだろうし<div class="comment_navi">
+[ 2012/04/06 13:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment34004">[ 34004 ] <strong></strong></p>
+</div>
+<div class="comb">
+快刀乱麻を断つ
+ 
+よくわからんときは、えいやで決断するしかない
+ 
+それで全面戦争仕掛けなかっただけマシでしょ<div class="comment_navi">
+[ 2012/04/06 14:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46364">[ 46364 ] <strong></strong></p>
+</div>
+<div class="comb">
+何人目のアッピウス・クラウディウスさん？<div class="comment_navi">
+[ 2012/10/28 18:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3778" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3778.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3778"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3778-3467aae5">http://oyoguyaruo.blog72.fc2.com/tb.php/3778-3467aae5</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3779.html" title="大長編ゆっくりえもん～やる夫と東大寺再建～　Chapter１">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3775.html" title="みんなでプロ野球１２球団紹介スレ　その４１　１９８８.１０.１９物語～パリーグの一番長い日～　第４話">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

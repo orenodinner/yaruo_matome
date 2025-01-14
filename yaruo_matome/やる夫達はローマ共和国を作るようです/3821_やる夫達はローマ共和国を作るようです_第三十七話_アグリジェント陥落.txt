@@ -1,0 +1,603 @@
+<div class="article">
+
+
+
+
+
+
+原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+紀元前262年、イタリア南部、シチリア
+
+
+　　 　 　 　 ｀ｰ､　ﾛｰﾏ　　　　　　 `ｰ--､
+　　　　　　　　　＼ ◎ 　 　 　 　 　 　 　 ﾞ~￣￣~｀!
+　　 　 　 　 　 　 　 ＼　　　　 　 　 　 　 　 　 ,_,,.-‐'
+　　　　　　 　 　 　 　 ~｀ｰ‐-‐､ 　 ﾅﾎﾟﾘ　　　ﾞ‐-､_
+　　　　　　　　　　　　　　　　　`､___○　　　　　　　`'ｰ-､_
+　　　　　　　　　　　　　　　　　　　　〉　　　　　 　 　 　 　 `'ｰ-､_
+　　　　　　　　　　　　　　　　　　　　￣~｀ｉ　　　　　　　　　　　◎ﾀｰﾗﾝﾄ､,_
+　　　　　　　　　　　　　　　　　　 　 　 　 {　　 　 　 　 　 　 /´~`ｧ　 　 　 ~ﾞ'､_
+　　　　　　　　　　　　　　　　　　　　　　　｀ﾞ''ｰ-､,_　　　　/´　 　 ~`ｰ-‐‐ｩ　　＼_
+　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ｀`i　　 `'ｰ‐-、 　 　 　 `ｉ　　./
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 {　　　　　 l′　　　 　 `ー'´
+　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 ﾞ'､　　　　 }_
+　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 (　　　　,,__〉
+　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 __/´　　ｒ´~
+　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 /~　　　　.|
+　　　　　　　　　　　　　　　 　 　 　 　 　 　 __　 ~ﾌ　　.ｧ‐'′
+　　　　　 　 ｧ‐"＾!__ｉ●ﾊﾟﾚﾙﾓ--‐‐'￣＾''´ｨ′　ｉﾞ○ﾚｯｼﾞｮ
+　 　 　 　 /´　　　　　　　　　　　　　　　○ﾒｯｼｰﾅ　 〉
+　 　 　 　 {_　　　　　　　 　 　 　 　 　 　 ﾉ　　　｀~￣
+　　　　　　 ｀ｰ--､,_　 　 　 　 　 　 　 　 }
+　　　　　　　　　　　`'ｰ●ｱｸﾞﾘｼﾞｪﾝﾄ　 ○ｼﾗｸｻ
+　　　　　　　　　　　　　　　　`ｰ-､_　　　/
+　　　　　　　　　　　　　　　　　　　 ｀~~｀′
+
+やる夫達はローマ共和国を作るようです
+第３７話　「アグリジェント陥落」
+
+
+
+
+
+
+
+
+
+46 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:26:46 ID:/Pl.d.z2
+
+
+
+
+    シチリア東部の制圧に成功したローマ軍は、
+    戦力の半数を帰還させた。
+
+
+
+    　　　　　　　　　　　　　　　 /´￣￣￣￣￣￣￣￣￣￣￣￣￣￣./
+    　　　　　　　　　　　　　　 ./　　 　　　　　　　　　　　　　　　　　　 /
+    　　　　　　　　　　　　　　/　　 /´￣￣￣￣￣￣￣￣￣＼　　　/　　.／￣￣＼
+    　　　　　　　　　　　　　./　　 /　　　　　　　　　　　　　　　／　　./　 ／　　 _ノ　　＼
+    　　　　　　　　　　　　 /　　 /　　　　　　　　　　　　　　.／　　 ／　 .|　　　 （ ＞）（＜）
+    　　　　　　　　　　　 ./　　 /　　　　　　　　　　　　　 ／　　 ／　　　 |　　///（__人__）
+    　　　　　　　　　　　/　　 /　　　　　　　　　　　　 .／　　 ／　　　　　.|　　　　　｀ ⌒´ﾉ
+    　　　　　　　　　　./　　 /　　　　　　　　　　　　／　　 ／　　　　　　　|　　　　　　 　 }
+    　　　　　　　　　 /　　 /　　　　　　　　　　　.／　　 ／　　　　　　　　 ヽ　　　　　 　 }
+    　　　　　　　　 ./　　 /　　　　　　　　　　　/　　　 /　　　　　　　　　　　ヽ　　　　　ノ
+    　　　　　　　　/　　 /　　　　　　　　　　　/　　　 /　　　　　　　　　　　　　 i　　 i
+    　　　　　　　./　　 /　　　　　　　　　　　 ,'　　　./　　　　　　　　　　　　　　i　　 i
+    　　　　　　 /　　 /　　　　　　　　　　　　i　　　.{　　　　　　　　　　　　　　 i　　 i
+    　　　　　 ./　　 /´(ヽ三/)　））　　　　　{　　　　丶＿＿＿＿＿＿＿__.ノ　　 .i
+    　　　　　/　　 /　 ( i)))　　　　　　　　　 '　　　　　　　　　　　　　　　　　　　　/
+    ⊂ヽ γ　　　 く　 ./ /　　　　　　　　　　　＼　　　　　　　　　　　　　　　　 イ
+    i !ｌ ノ　ﾉ　　　　 |./ /　　　　　　　　　　　　　.￣￣￣￣￣￣￣￣￣￣￣
+    ⊂ｃノ´| 　 　 　 |／
+
+
+
+
+
+47 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:27:10 ID:/Pl.d.z2
+
+
+
+
+    しかし、このローマ共和国の快進撃は、
+    カルタゴ本国の危機感を煽らずにはいられなかった。
+
+
+
+    　　　.....　　　"''''''""""""''''';:;:;,.,,..... ..　　　　　　　　　　　　　　.....,,,,__...,,;:;'''""''''::;;;;.......,,,,...;:;:;;''''"
+    　　　　　.,,.,;:;:;:;;:'""''''''''''''''""""　　　　:::::::::;;;;;;;;;;;''''''"""'''""""
+    ':.,　　　 '"　　　"''':;:,.,,.,..,.,.,.,.　　__.,.,.;:'"';:,.__,　　""''''''''':::::......"""''''''"""''''　 　 ⌒)_　 　 　 　 　 ...::::::'''
+    ::'　　　 .,;:'""""""""""'''''""""""　　　　　　""""''''''''''':::::::::;;;;,,,,,....._　　　　　　 　 ）　 　 　 """　　＾＾
+    　　　　;:,.,.,.,...._　　　　　　　　　　　　　　　　　　　　　　､､_....,,__,,,..::::;;;;;;;;;,,,,.....　　　　　　.......　　^^
+    ､､､､､.,;:'''"""　　　　　　　　⌒Ｙ⌒　　　　　　　　　　 　 　 　 　 　 　 ""'''''"''''':::::;;;,,..;;::...........................;;;;;;:::
+    ＿＿＿＿＿＿＿＿__ _ _　_　　_　　　_　　　　_　　　　　　　　_　　　　_　　　_　　_　_ _ _＿＿＿＿＿＿＿
+    　 ... .. .::: :..:.:.::.:: :: ...:..:::::.. . .:: .::: . ....:: ::...:::.. ..:::.......　 　 ⌒Ｙ⌒ 　 ... ..::.:::. ::::. : .:::. .::::::. .:::..: :. .. . .::: :: : .....:::. . .
+    　￣￣＼::..　.　.　.::　:　:..　.　...　:::　:::..　... .. .. .::::::::.......　.......:::::.. .　..　　　 .　..　.:::::　::　:.　_,. - ―――――
+    　￣￣￣|..　. .. ..　　　　　. .. ..　　　　.: .... 　... :. .:　.　:.:　　　 .　: .: ....　 .. .. . ...　　_,. -''"´. . . .: : : : ::::::::::::... .
+    　　 　 　 |.:.:.　. .:.　　:: .: ...　　 　 ... .. . .　. . .　　　　 .: ...　　　　　　..　. ＿＿_, ィ´　 　 　 　 .　. . .: : : : :::::::... .
+    　　 　 　 |:::::::.............　　.....::::::::::::.....　　　 ...::::::::::::::....... .　　 ＿＿＿＿_|＼　 　 　 　 　 　 　 　 .　. . .: : : : :::... .
+    　＿＿＿|　.::::::...... 　 ｌlY⌒Yl ..::::::::::.... .　　　ｌlY⌒Yl .:..:::. .| 　 _＿＿__|　 ＼　　　 　 　 　 　 　 　 .　. . .: : : : :
+    　＿＿_　 ＼:::::::...... __|| [囗 .!__　...::::::....　　__|| [囗 .!__ .::.. |　 .＼　　　|　　　＼　　　　　　 　 　 　 　 .　. . .:
+    　　　　:ｌ＼　 ＼＿_||　　 　 　 |＿＿＿＿_||　　　　　 |＿_|　 |＼＼─|　　　　 ＼
+    　　　　:|　 ＼　 ＼　　　　　　　　　　　 　 　 　 　 　 　 　 |　 | |: ＼＼!　　　　 　 ＼
+    　　　　:|　　　＼　 ＼ [囗　　 [囗　　 [囗　　 [囗　　 [囗.|　 | | 　 |:　l 　. . .: '　;　.　＼
+    　　　　:|.　 　 　 ＼　 ＼　　　　　　　　　　　　　　　　　　 |　 | | 　 |:　| 　 　 　 　 　 　 ＼
+    　______,:|　　　　　/　　 /l__＿＿＿＿＿＿＿＿＿＿＿___|　 | | 　 |:　|　　　　 __　 . .. : ;　.＼
+    　　　　 ＼　　　/　　 /. |　　　　　　　　　 　 　 　 　 　 　 |　 | | 　 |:　|　　　 l´!　ヽ　　　　　 ＼
+    　:::::::.. . .　.＼ /　　 /::. .|　　　　　　　　　 　 　 　 　 　 　 |　 | | 　 |:　|　 　 ｜| 　 |
+    　::::::::.. .　.　. /　　 /: : . |　　　　　　　　　　 　 　 　 ＿＿_|＿|_|＿_|___!. ;'　..｜| 　 |
+    ￣￣￣￣￣ 　 . /: : . . |　　　　　　　　　　　　　　 |＼　､ ────┤..　;'.｜| 　 |
+    ──────‐':　:　.　|　　　　　　　　　　　　　　 |　 ＼＼ . . . : ::::::::|　　,　 ＼　 |
+    :::::: : : : . .　.　.　 |　　 　 |　　　　　　　　　　　　　　 |　　　＼＼ . . : :::::|　; ,　.　　丶!
+    ::::::::: : : : . .　. 　 |　　 　 |　　　　 　 　 　 　 　 　 　 ＼　　　 ＼＼. . :::|
+    ::::::::::::::: : : : .　.　|　　 　 |　　　　　　　 　 　 　 　 　 　 ＼　　　 ＼＼. |
+    ::::::::::::::::::: : : : . . |　　 　 |　　　　　　　　　　 　 　 　 　 　 ＼　　　 ＼＼
+    :::::::::::::::::::::::::: : . .|　　 　 |　　　　　　　　　　　　　　　　 　 　 ＼　　　 ＼＼
+
+
+
+
+
+48 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:27:35 ID:/Pl.d.z2
+
+
+
+
+    ＊カルタゴ議会
+
+
+
+    【審議中】
+
+    　　　 ∧,,∧　 ∧,,∧
+    　∧ (´・ω・) (・ω・｀) ∧∧
+    (　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )　何かローマとかいう国が来たらしいよー
+    ｜　Ｕ (　　´・) (・｀　　)　と ﾉ　このままじゃシチリアの権益が・・・
+    　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+
+    【可決】
+
+    　　　　　 ∧,,∧ 　.∧,,∧
+    　 ∧∧(｀・ω・´)(｀・ω・´)∧∧
+    　(｀・ω・´).∧∧) (∧∧(｀・ω・´)　よし！大軍を上陸させよう！
+    　｜　Ｕ (｀・ω・´)(｀・ω・´) と ﾉ　　目に物見せてくれる！
+    　　ｕ-ｕ　（l 　　 ) ( 　　　ﾉ u-ｕ
+    　　　　　　`ｕ-ｕ'　 `ｕ-u'
+
+
+
+
+
+49 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:27:59 ID:/Pl.d.z2
+
+
+
+
+    こうして、カルタゴはアグリジェントに４００００の大軍を上陸。
+
+
+
+    　''';;';';;'';;;,.,　　　　　　　　　　　　　　　　　　ザッ
+    　　　''';;';'';';''';;'';;;,.,　　　ザッ
+    　　　;;''';;';'';';';;;'';;'';;;
+    　　　　;;'';';';;'';;';'';';';;;'';;'';;;
+    　　　　　 vymyvwymyvymyvy　　　　　ザッ
+    ザッ　　　　n_n,n_n、n_n,n_n、n_n,n_n、
+    　　　　　　∩＿∩＾－＾∩＿∩＾－＾∩＿∩＾－
+    　　ザッ　　　∩＿＿∩　∩＿＿∩　∩＿＿∩　∩＿＿∩
+    　　　　　　　　　∩＿　∩＿＿∩　∩＿＿∩　＿∩　∩＿　　　　ザッ
+    　　　　　∩＿＿＿∩　　　　∩＿＿＿∩　∩＿＿＿∩　∩＿＿＿∩
+    　　　　　| ノ　　　　　 ヽ　　 | ノ　　　　　 ヽ | ノ　　　　　 ヽノ　　　　　 ヽ
+    　　　　 /　　●　　　● |　/　　●　　　● |　　●　　　● |　●　　　● |
+    　　　　|　　　　( _●_)　 ミ |　　　　( _●_)　 ミ　　( _●_)　 ミ 　( _●_) ミ
+    　　　 彡､　　　　　　　､｀ 彡､　　　　　　　 ､｀＼　　　　　､｀＼　　　　　､｀＼
+    　　　/　＿＿　　　　　/ /　＿＿　 　　　/´>　 )　　　　/ ノ..//　　　 /´>　 )
+    　　　(＿＿＿）　　　/　(＿＿＿）　　　/　(_／＿）　　 / (_／ 　　　/　(_／
+
+
+
+
+
+50 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:28:25 ID:/Pl.d.z2
+
+
+
+
+    そこで、ローマ元老院も、再び執政官二人、４００００の軍を
+    送り込んだ。
+
+
+
+    　 　 　　　＿＿＿_
+    　 　　　／_ノ　 ヽ、＼
+    　　　／（ ●） 　（●）.＼
+    　 ／　　　（__人__）　　u. ＼　　　・・・結局直接対決は防げなかったお・・・
+    　 |ｎi 7　　 ｀ ⌒´　　　　.　|ｎ　　もうやるしかないお！
+    l^l | | ｌ ,/)　　　　　　U 　l^l.| | /）
+    ', U ! ﾚ' /　　　　　　.　.　| U ﾚ'/／)
+    {　　　 〈　　　　　　　　　ﾉ　　　 ／
+    ..i,　　 　."⊃　　　　ｒニ 　　　 /
+    　."'""⌒´　　　　　　　`''""''''
+
+
+
+
+
+51 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:28:53 ID:/Pl.d.z2
+
+
+
+
+    こうして、アグリジェントを舞台に、ローマ軍とカルタゴ軍は、
+    本格的な激突を開始した。
+
+
+
+    　　　　　　　　　　　　　／　　　　　　　　／　　　　　　　　 ／　　　　 　 　 ／
+    ..　　　　　　　　　　　／..　　 　 　　　 ／..　　　 　 　　　／　　 　　　　　／
+    　　／￣〈　　　　 ／／￣〈　　.　　／ ／￣〈　 　 　 ／／￣〈　　 　 ／
+    　　l/",ニヽ~'ヽ／　 l/",ニヽ~'ヽ／　　l/",ニヽ~'ヽ／　l/",ニヽ~'ヽ／
+    　 ﾉl_[,#ﾟ -) 0´|　　 ﾉl_[#ﾟ -) 0´|　 　ﾉl_[,#ﾟ -) 0´|　　ﾉl_[,#ﾟ -) 0´|
+    　　( _ii＿／_ノ　　　( _ii＿／_ノ　　　 ( _ii＿／_ノ　　　( _ii＿／_ノ
+    　 　|ヽ0´|　　　　　　|ヽ0´|　　　　　 　|ヽ0´|　　 　　　 |ヽ0´|
+    　　ﾉ／'i'i'iゝ　　　　 ﾉ／'i'i'iゝ　　　　 ﾉ／'i'i'iゝ　　　　 ﾉ／'i'i'iゝ
+    　／(/´"J　　　 　／(/´"J　　　　 ／(/´"J　　　　 ／(/´"J
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣Z＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　　　　　　　　　　　　　　　 く￣＼　　　　 く￣＼　　　　 く￣＼　　　　 く￣＼
+    　　　　　　　　　　　　　　　　 　/二､"ヽ　　 　/二､"ヽ　　 　/二､"ヽ　 　 　/二､"ヽ
+    　　　　　　　　　　　　　　　　 　(ﾟ#]_＿ﾉ　 　　(ﾟ#]_＿ﾉ　 　　(ﾟ#]＿ﾉ　　　 　(ﾟ#]_＿ﾉ
+    　　　　　　　　　　　　　　　　 　r'⌒ヽii　　　 　r'⌒ヽii　　　 　r'⌒ヽii　 　 　r'⌒ヽii
+    　　　　　　　　　　　　　　　　─|　　 | |　　　─|　　 | |　 　─|　　 | |　　　─|　　 | |
+    　　　　　　　　　　　　　　　　　 ヽ＿ﾉi'ゝ　　　 ヽ＿ﾉi'ゝ　　　 ヽ＿ﾉi'ゝ 　　 ヽ＿ﾉi'ゝ
+    　　　　　　　　　　　　　　　　　　U"｀ヽ)　 　　　U"｀ヽ)　　　　U"｀ヽ)　 　　　U"｀ヽ)
+
+
+
+
+
+52 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:29:22 ID:/Pl.d.z2
+
+
+
+
+    緒戦を優位に進めたローマ軍は、アグリジェントの包囲に成功。
+
+
+
+    　 　 　 　 　 ＼／　　　　 　 (；ﾟ -ﾟ|￣|　　　　　　　　　　　　　　(　 つ（:⌒:）l>:⌒:）　　 　 ＼／　 /;;;;;;;:::::/
+    　 　 　 　 　 ／＼　　　　 ━(,, .つ|　 |━━(((＜＞　　　　　　と__,,)（;:⌒:）:⌒:）:⌒:）　　　／＼　/;;;;;;;:::::/
+    　 　 　 　 ＼／　　　　　　　 と__,,)|＿|　　　　　　　　　　　∧∧　　　　 　 　 　 　 　 　 ＼／　 /;;;;;;;:::::/
+    　 　 　 　 ／＼　　　　　∧∧　　　　　　　　　　　　　　　(*ﾟへﾟ) ／ヽ　　　　　　　　　　／＼　/;;;;;;;:::::/
+    　 　 　 ＼／　　　　 　 (；ﾟ -ﾟ|￣|　　　　　　　　　　　　　(　 つ（:⌒:）l>:⌒:）　　　 　 ＼／ 　 /;;;;;;;:::::/
+    　 　 　 ／＼　　　　 ━(,, .つ|　 |━━(((＜＞　　　　　と__,,)（;:⌒:）:⌒:）:⌒:）　　　　／＼　/;;;;;;;:::::/
+    　 　 ＼／　　　　　　　 と__,,)|＿|　　　　　　　　　　　 ∧∧　　　　　　　　　　　　＼／　　/;;;;;;;:::::/
+    　 　 ／＼　　　　∧∧　　　　　　　　　　　　　　　　　(*ﾟへﾟ) ／ヽ　　 　 　 　 　 ／＼　 /;;;;;;;:::::/
+    　 ＼／　　　 　 (；ﾟ -ﾟ|￣|　　　　　　　　　　　　　 　 (　 つ（:⌒:）l>:⌒:）　　　＼／　 　/;;;;;;;:::::/
+    　 ／＼　　　 ━(,, .つ|　 |━━(((＜＞　　　　　　　と__,,)（;:⌒:）:⌒:）:⌒:）　　／＼　　/;;;;;;;:::::/
+    ＼／　　　　　　 と__,,)|＿|　　　　　　　　　　　　 ∧∧　　　　 　 　 　 　 　 ＼／　 　/;;;;;;;:::::/
+    ／＼　　　　　∧∧　　　　　　　　　　　　　　　　(*ﾟへﾟ) ／ヽ　　　　　　　　／＼　　/;;;;;;;:::::/
+    ／　　　 　 (；ﾟ -ﾟ|￣|　　　　　　　　　　　　　　　(　 つ（:⌒:）l>:⌒:）　 　 ＼／　　　/;;;;;;;:::::/
+    ＼　　　 ━(,, .つ|　 |━━(((＜＞　　　　　　　と__,,)（;:⌒:）:⌒:）:⌒:）　　／＼　 　/;;;;;;;:::::/
+
+
+
+
+
+53 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:29:48 ID:/Pl.d.z2
+
+
+
+
+    しかし、地形の情報不足から食料貯蔵地を襲われ、窮地に陥った。
+
+
+
+    　　　　　　　　＿＿＿
+    　　　　　　 ／　　　 　 ＼
+    　　　　　／　　 ⌒　　⌒ ＼
+    　　　 ／　　 （ ー） 　（ー）　ヽ
+    　　　 |　　u　　　___｀___　　 　 |　　何をやってるんですか・・・
+    　　　　ヽ、　　　 `ー '´　　 ／
+    　⊂⌒ヽ 〉　　　 　　　　　く　/⌒つ
+    　　 ＼　ヽ　 /　　 　　　＼　ヽ　/
+
+    　　　　＊シラクサ僭主ヒエロン
+
+
+
+    ヒエロンが助けてくれなかったら、逆に兵糧攻めを食らうところだった。
+
+
+
+
+
+54 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:30:11 ID:/Pl.d.z2
+
+
+
+
+    そして、この年の冬には、カルタゴの兵たちが逃亡。
+
+
+
+    　　　　　　　 　 　 　 ｡∧,,∧　　 　 　 　 　　　∧,,∧
+    　　 　 　 　 　 　 　 ﾟ ( ｀・ω)　　　　　　　　ｏ( ｀・ω)ｏ　やってらんねー
+    　　　‐　 ― =;;⌒｀) (　O┬O ‐　― =;;⌒｀)　(　 ┬)
+    　‐　― =;;⌒ﾞ)⌒｀)◎-Ｊ┴◎ ∧,,∧ﾞ)⌒｀)◎-Ｊ┴◎ﾟ.｡∧,,∧
+    　　　 　 　 　 　 　 　 　 　 ﾟ　ﾟ( ｀・ω)　　　　　　　　 　 ( ｀・ω)
+    　　　　　　　　‐　 ― =;;⌒｀) (　O┬O　 ‐ ― =.;;⌒｀) (　O┬O
+    　 . 　 　 ‐　 ― =;;⌒∧,,∧ ◎-Ｊ┴◎― =;;⌒∧,,∧◎-Ｊ┴◎
+    　　　　　　　　　　 　(u´ﾟ'ω)　　　　　　　　　　(u｀・ω)
+    　　　‐　 ― =;;⌒｀) (u.O┬O　 ‐ ― =.;;⌒｀) (　O┬O
+    　‐　― =;;⌒ﾞ)⌒｀)◎-Ｊ┴◎― =;;⌒ﾞ)⌒｀)◎-Ｊ┴◎
+
+
+
+
+
+55 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:30:35 ID:/Pl.d.z2
+
+
+
+
+    アグリジェントに入城した、ローマ軍は、
+    この都市を略奪。
+
+
+
+    　　　　　　,,､,､､,,,';i;'i,}､,､
+    　　　　　　 ヾ､'i,';||i !｝ 'i, ﾞ〃
+    　　　　　　　　ﾞ､';|i,!　　'i i"i,　　　　　　 ､__人_从_人__/し､_人＿入
+    　　　　　　　　 `､||i　|i　i　l|,　　　　　　､_）
+    　　　　　　　　　 ',||i　}i |　;,〃,,　　　 　_）　ヒャッハ～っ！！
+    　　　　　　　　　 .}.||||　| ! l-'~､ミ　　　　｀)
+    　　　　　　　　 ,＜.}||| il／,‐'liヾ;;ミ　　　'´⌒V＾'^Y⌒V^V⌒W^Y⌒
+    　　　　　　　　.{/ﾞ'､}|||/／　 .i| };;;ミ
+    　　　　　　　　Y,;-　　 ｰ､　　.i|,];;彡
+    　　　　　　　　iil|||||liill||||||||li!=H;;;ﾐミ
+    　　　　　　　　{　 く；ｧｿ　 '';;,;'' ﾞ};;彡ﾐ
+    　　　　　　　　 ﾞi　[`'''~ヾ. ''~ ||^!,彡ミ　 　＿,,＿＿
+    　　　　　　　 　 ﾞi　}~~　｝ ';;:;li,　ﾞiミミミ=三＝-;;;;;;;;;''
+    ,,,,-‐‐''''''}￣~フハ,“二ﾞ´ ,;／;;'_,;,7''~~,-''::;;;;;;;;;;;;;'',,=''
+    　;;;;;;;;''''/_　 / | | `ー-‐'´_,,,-',,r'~`ヽ';;:;;;;;;;, '';;;-'''
+    '''''　　,r'~ `V　ヽニニニ二､-'{ 十　）＿＿;;;;/
+
+    　　　　↑ローマ軍のみなさん
+
+
+
+    ２５０００人を奴隷とし、シラクサに売り払った。
+
+
+
+
+
+56 ： <strong><span style="color:#009900">◆yxZlGN83jM</span></strong>：2011/10/29(土) 18:31:00 ID:/Pl.d.z2
+
+
+
+
+    これにより、ローマ共和国は、多くのシチリア諸都市を
+    敵に回してしまった。
+
+
+
+    　　　　 ∧,,∧　 ∧,,∧
+    　　∧ (´｀д´) (｀Д´ ) ∧∧
+    　(　｀・Д)　Ｕ) ( つと ﾉ(ﾍ・´　)　　ひでえ！なんつー野蛮人だ！
+    　｜　Ｕ (　　｀・) (・´　　)　と ﾉ　　ここはカルタゴに味方しよう！
+    　　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
+    　　　　　 `ｕ-ｕ'.　`ｕ-u'
+
+
+
+
+
+    第３７話「アグリジェント陥落」終わり
+
+    つづく・・・？ 
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3821/clap" id="fc2button-clap-3821" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3821").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3821/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第三十七話　アグリジェント陥落" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3821.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3936.html">
+					やる夫達はローマ共和国を作るようです　第四十四話　レグルス (2011/12/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3917.html">
+					やる夫達はローマ共和国を作るようです　第四十三話　嵐 (2011/12/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3894.html">
+					やる夫達はローマ共和国を作るようです　第四十二話　クサンティッポス (2011/11/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3870.html">
+					やる夫達はローマ共和国を作るようです　第四十一話　アフリカ上陸 (2011/11/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3850.html">
+					やる夫達はローマ共和国を作るようです　第四十話　カラス (2011/11/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3849.html">
+					やる夫達はローマ共和国を作るようです　第三十九話　リパリ島の戦い (2011/11/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3822.html">
+					やる夫達はローマ共和国を作るようです　第三十八話　ローマ海軍出撃！ (2011/11/05)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第三十七話　アグリジェント陥落 (2011/11/05)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3800.html">
+					やる夫達はローマ共和国を作るようです　第三十六話　シラクサ同盟 (2011/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3799.html">
+					やる夫達はローマ共和国を作るようです　第三十五話　アッピウスの活躍 (2011/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3778.html">
+					やる夫達はローマ共和国を作るようです　第三十四話　第一次ポエニ戦争 (2011/10/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3770.html">
+					やる夫達はローマ共和国を作るようです　第三十三話　ベネヴェントの戦い (2011/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3769.html">
+					やる夫達はローマ共和国を作るようです　第三十二話　ピュロスの勝利 (2011/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3764.html">
+					やる夫達はローマ共和国を作るようです　第三十一話　ピュロスの講和 (2011/10/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3746.html">
+					やる夫達はローマ共和国を作るようです　第三十話　ピュロス王 (2011/10/06)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第三十七話　アグリジェント陥落" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/11/05 01:30 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3821"
+    dc:title="やる夫達はローマ共和国を作るようです　第三十七話　アグリジェント陥落"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。紀元前262年、イタリア南部、シチリア　　 　 　 　 ｀ｰ､　ﾛｰﾏ　　　　　　 `ｰ&#45;&#45;､　　　　　　　　　＼ ◎ 　 　 　 　 　 　 　 ﾞ~￣￣~｀!　　 　 　 　 　 　 　 ＼　　　　 　 　 　 　 　 　 ,_,,.&#45;‐'　　　　　　 　 　 　 　 ~..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-11-05T01:30:29+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3822.html" title="やる夫達はローマ共和国を作るようです　第三十八話　ローマ海軍出撃！">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3817.html" title="サバイバルヤルオ　第十一話　後編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3821.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3821"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3821-c8257993">http://oyoguyaruo.blog72.fc2.com/tb.php/3821-c8257993</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3822.html" title="やる夫達はローマ共和国を作るようです　第三十八話　ローマ海軍出撃！">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3817.html" title="サバイバルヤルオ　第十一話　後編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

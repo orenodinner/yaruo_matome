@@ -1,0 +1,867 @@
+<div class="article">
+
+
+
+┌─────────────────────────────┐
+│1999年10月。セガは、CSKの子会社として「株式会社イサオ」を設立。 │
+└─────────────────────────────┘
+
+　　　　 　 　 　 ,ｫｪ､＿__
+　　　　　　 　,.f込ｔﾝ:::::::::::｀ ヽ、
+　　　　　／::::;. -‐ 　´￣￣｀丶＼
+　　　　〃::／　　　　　　　　　　＼ヽ、
+.　　 　 ll::/　　　l　　　　　　　　、　ヽY ＿
+　　　　ll::l}　　　ｌ　　|　　　 l　|　l　　 lイﾆ}|
+　　　　ll;;l}　l､　|　　 | ｌ、 -l‐七/ｖ'　 lミ彳、　　　　 　 　 Interactive Service for Amusement Online
+.　　　_,'Vｉ 　l,x tT二ｔ,|ヽ,ノ,ｨT}｀'j　ｌ ||〃へ.､
+　　／く//l､ ヽヽｨf_lｊ`　 　 　¨ ∠ノlﾉ.||　l　ヽ>　　　　 　 略して ISAO、ね。
+　　ヽ／/{∧　 ＼＿.　　__'_,　,ｨ′l　 ﾚ.　l
+.　　/ //'l |　＼__＜. ､ __`_´.ｲ,ヽ　 ＼,__　l
+　 /　l_| |_!　　 ｌ　 ｌ l'ー--,＜└vヽ　 ＼＼!
+. / 　　　,ｨｰ-.‐|　 |'′　//lＹﾐヽ|l ハ 、 ヽ:.＼
+/ 　 　 /.::::::::::::{ 　 ＼ｰtfﾉｌi　斤　l:::::|j＼ l:::::::.＼
+　　　 /.:::::::::::::::ヽi＼ ヽ ￣l｣ |/　　|::.Ｙ :::`'::::::::::/
+.　　 /.::::::::::::::::::::::|:::l ヽl_,､_ｒ､,_,､r､l'|:::::', :::::::::::::/
+　　〈:::::::::::::::::::::::::l:::::＼ﾞ　' |　l　/ ' ,}::::/ :::::::::::ハ
+.　　 ＼:::::::::::::::::::i､:::::::::＼　　仍} ,/:::::ｌ｀ヽ:::::::::::::',
+　　　　 T :::::::::::/ ＼:::::::::::` - ､／::::::::l　 ヽ:::::::::..ヽ
+
+↑　株式会社セガ　（配役：水銀燈「Rozen Maiden」）
+
+
+┌────────────────────────────────────────┐
+│それまで、セガがドリームキャスト向けに提供していた　　　　　　　　　　　　　　　　　　　　　 　 　 　 │
+│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 │
+│インターネットのサービスプロバイダーを「isao.net」という名前で継承して運営する事業を開始。　 │
+└────────────────────────────────────────┘
+
+
+
+
+
+
+
+
+47 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 22:58:36 ID:12BfczDQ
+
+
+
+
+
+    ┌─────────────────────┐
+    │社長は、CSK（セガの親会社）の創業者、大川功。.│
+    └─────────────────────┘
+
+
+    '　 l | !_／ｲl |, 　 l ',　　| ﾍ. 　 l　 　　　/ |　 ;ｉ　 ,　　　 | l
+    　 ,l/,r‐'´!.| ',|ヽ　| ヽ　 ｌ　ヽ　｜ 　 　 l　l　/ｌ　 l, 　 　 ｌ｜
+    　/ /　 　',| 十' 寸 二ﾏＴ´　ヽ.|!　 　 / ┼/-l､_,|　 　 /! !
+    ,/ /ｌ　　　 |　丶　＼ ＿＼　 　'|l 　／ ‐ﾅ'´　|/lj 　／ /'ﾞ
+    . / |'、　 　 ', ‐､―r┬ｬ､` 　 　 i／　 ‐/_‐__/ /-‐'i　/　　　　　 　 　 　 社長の名前が大川功（イサオ）なのにも
+    /　 ! ヽ.　 　ﾍ　≧=一' ´　 　 　 　 　 ゝ'-彡ﾏ´　/　 　 　 /'ヽ
+    　 　! l　＼ 　 ヽ　 　 　 　 　 　 　　　　　　〃　 /!　　　　/　 |　　　　　  ちなんでいるわけ。
+    　 l　| l　 　＼　 ＼　 　 　　　　/　 　 　 ／　／i｜　 　 /　 /
+    　ｌ　 l｜ 　 |　ト￣´　　　、＿, ＿,　 - '´-‐イ 　 ｌ|.　 　/　 /　　　　　　　いい名前でしょう？
+    ー ､ l l　 　| /＼＼ 　 　　´ 二´　 　／　　｜ 　 ｌ　　/ 　/＿＿, --ー
+    :::::::::::| l　 　|::::::　＼ ﾞ　 、　　 _　ィ ´｜　 　 l　 　, -:/　, ｨ;::::::::::::::::::::::::
+    ::::::::::::l｜ 　 !::::　::::::::－＿天 　 　! 　 |　　　l／´::::::/　/´ﾄ-､------
+    :::::::::::::', l　 　|:　::::::::/´:|:::/「l＼ 　 ! 　 !　 　l＿＿::/／　/　　＼::::::::::
+    :::::::::::::::',　 　 l　::::::/::::::l:/　l|::､ 〉＿;-:::|　 　!::::::::::;'/ 　 ,:'　∨　/＼::::
+    :＼:::::::::∧　　l､:::::::!:::::::l;' 　 l!::∧>:::::::::l　 　l::::::::::ｉ/ 　 / ヽ/　/　/ヽ
+    ::::::ヽ:::/:::::ﾄ 　V＼:l＿_｣|　　lＹ､::l>|＼::l 　 /:::::::::/ 　 ,　　 !､_/__/　ﾉ|
+    ::::::::::V:::::::::ｌ＼ ヽ‐ﾄ､:::/|　 　ヽ＼!>ーｌ|　/ｌ::::::::::l 　　 ,　　 　ー',ｰｲｿ
+    :::::::::::ﾍ:::::::::l/ ＼ヽＬ.V∥　 　 ヽ　 　 / /!|:::::::::::l　　　　　　　　　 /
+
+
+    ┌──────────────────────────────────────────┐
+    │……もとより、ドリームキャストにモデムを標準搭載したのは、　　　　　　　　　　　　　　　　　　　　　　　　│
+    │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 │
+    │大川功氏の強烈なプッシュによるもので、　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+    │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 │
+    │ISAO自体も、本人の強い願望で始まったそうなので、この名前も自然なものだった、といえるだろう。 .│
+    └──────────────────────────────────────────┘
+
+
+
+
+
+48 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 22:59:09 ID:12BfczDQ
+
+
+
+
+
+    ┌──────────────────────┐
+    │ところが、この社長の名刺を見て笑った男が一人。　.│
+    └──────────────────────┘
+
+
+    　 　　　/　 /::::::::::::::::::::::,ミ:::/:::ﾄﾐ彡ﾍ:::::::::::::::::ヽ　 ヽ
+    . 　 　 /　 /::::::::::::::::::::／￣ﾞi:::::|`:":"^:ヾ:.::::::::::::::ヽ　 ヽ
+    　　　 |　 /:::::::::::::::::::/ 　 　 |:.:.:! : : :　 : ヾ:.:.:.:.:.:.:.:.'、 　',
+    　　　/　,':.:　　:.: :.:./　　　　|:. :|　: : :　 .: :ヾ:.:.　　　',　　',
+    .　　/ ,ノ!:　　　　 /__　　 　 Wi|　.: : : : : :_:_:',　　　　',　　',
+    　,ノイi! |:　　　 .:/:.:.:.｀`丶、Ⅵ! : : :, ‐ '´:.:.:.:',　 　 　',　ヽ'､
+    　　　l{! |:....::..　:/'´￣｀ヾ:.:　 V|　 .':.:.:, '´￣｀ヽ　.:....:.:',　 ', ',
+    　　 /'　|:::::::::::ft、（{f}） ,ｲ!　 jﾘ　/:.:.ｲ　（{f}） 刈::::::::::::|　 ﾄ､!.　　　　　 　 いい名前……それは確かに。
+    .　 /ｲ ,ﾊ:::::::::::lヾミ==彡'′ /'　 |:.:.:.:ﾐ≧==彡ﾍ::::::::::::|　 |　　 .
+    　/ ｜/ﾊ::::::::::!　　　 　　　　　　|:.:.: : : :　　　 :.|:::::::::::|　 l!　　　　　　　　 しかし……この名刺は……くく。
+    　　 ,! '/∧:::::::|　　　　　　　　　｜:.:.:.: :　　　. : !::::::::::ﾊ　l|
+    　　/ /|l　|',:::::|　　　　　　　　　　、:.:.: :　　　: : |::::::::,'　ﾄ､ﾄ､　　　　　　　　いまひとつですな。
+    　 /イ j|　|,',::::',　rt、　　　　　　丿:.:.:　　 ,ｨぅ: /::::::/　 |　ヽ　.
+    　　　 ﾄ'､_| ﾊ::::'_、 ヾ:､＿＿＿＿＿__,..イ'´:.:./:::::/ﾄ､　|
+    　　　 レ' | l∧::V>、 ＼;;;;;;;;;;;;;;;;;;;;;;;;;;;／:.:.:／|::::/ ,! j /_
+    　　　　{! ▽ ﾘ!:::Wi}>､　｀､_―--―,.´:.:.:／Vﾉ::/| /ヽ. /
+    　　　　　 {!　lﾊ:::}」Ll||＞ ､ ｀¨""¨´,. ＜:.:|ﾊ{::/ ▽　 ﾞi|
+    　　　　　 　 ┌''ｧ▽_」　:.. ｀' ―‐ '´:.:._:_:_L,」:L,jﾘ＿
+    　　　　　　　 |_/'´／｀＞--へ、,. ‐ '´　　 ヽ. /　　 ｀ヽ-､
+
+    　　斉藤由多加　（配役：脳噛ネウロ「魔人探偵脳噛ネウロ」）
+
+
+
+
+
+
+
+
+    　　　　　　　　 ,.:::''::´::￣::`:::.、
+    　　　　　 　 ／:;: '´Ｔ 丁l `ヽ::}
+    　 　 　 　 /{:::/ ｌ |ｌ ﾄ､ ｌ Nﾄｌ iﾊ
+    　　　　　 lｄｂ|　ｌ k_ィヽﾚ仁ﾘｌ│
+    　　 　 　 | ∧l 　lK◯ 　 ○ｿｲ　　　　　 　 　 いきなり人の名刺みて笑わないでよう……。
+    　　　　　,ｌ 　（ｌ 　ぃ　 ,-┐,从|
+    　　　　　l　　　ヽ ﾄゝ､ニ イﾄ､ﾄ､　　　　　　　  で、なんだっていうの？
+    　　　 　 |/≪T ,バ､:文:｀Yラ､ゝ
+    　　　　　Ｎ≠{〈:::::::〉:;i:::}:::〉≧
+    　　　　　ヾ≦ﾊＺi::ﾍ;:::〈ｌ:::|j≧　　　　　　　　　＜　しかもそんな邪悪な顔つきで
+    　　　　　　／:::::::ﾊ:::KＸl:_:ﾄ､
+    　　　　 ∠::::::::::::{ﾐk::〉Xl,ｿ::::＞
+    　　　　　　|:::::::::::｀^^ＫＸヽノ
+
+    ┌──────────────────────────────────┐
+    │当時、「シーマン」で、DC随一のヒットを記録していた、「ビバリウム」の斉藤社長。..│
+    └──────────────────────────────────┘
+
+
+
+
+
+49 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 22:59:42 ID:12BfczDQ
+
+
+
+
+
+    ┌────────────┐
+    │名刺に書かれていたのは、...│
+    └────────────┘
+    ┌───────────────┐
+    │株式会社ISAO　　　　　　　　 　 　 　 │
+    │Chief Executive Officer/Chairman　│
+    │　　　　　　　　　　　　　　　　　 　 　 　 │
+    │　大川功　　　　　　　　　　　　　　　　 │
+    └───────────────┘
+
+    　　　　　　　　　　 　 ,...､、
+    　　　　　　　　　_,. -f;:;:ヾ丶、
+    　　　　 　 　 ／　　 |:;:;:f _ヾ;ヽ
+    　　　　　　 /　 i ',　 l:.:.:l´,rtiド`-;　　　　　　　　　 　 　 「イサオ」って会社なのに、あなた自身が、
+    　　　　　　 !i　r! ,!　,ヾ:;', ￣ﾘ　 ';、
+    　　　　　　 ll　l V ,　!ﾄ'､:':､　 - '´'、　　　　　　　　　　　CEOだの、チェアマンだのと、
+    　　　　　　 'l | l | ﾉi ﾘ`^',:;l､＿__,ノ
+    　　　　　　 'ｲﾉﾙl/lﾂ、　ヾ7 ,r'´　 　 　 　 　 　 　 　 　 わざわざこんな大層な肩書きを名乗るのは、
+    　　　　　　　 '´/｀ト､｀`ｰﾁｰ'､
+    　　　 　 　 　 /:｀丶:｀丶､j ､　ヽ　　　　　　　　　　　　　今更という感じがします。
+    　　　　 　 　 /:::::::::::｀ヽ:::::＼'、､ヽ
+    　　　　　 　 ,'::::::::::::::::::::ヽ:::::::＼ ':,ヽ
+    　　　　　　 ,':,.:―: ､:::::::::::ヽ-‐l7＼; ',　　　　　　　　　　 格好悪いでしょう。
+    　　　　　　 V:::::::::::::＼:::::::::｀￣｀ヽ:ヽ}
+    　　 　 　 　 !:::::::::::::::::::ヽ::::::::::::::::::::ヽ:'、
+    　　　　　　 ,!:::::::::::::::::::::::〉:::::::::::::::::::::ヽヽ
+
+
+
+
+
+
+
+    　　　　　　　　　　　　_　-─ ─- ,-　､
+    　　　　　　　　　rメ´── ､::::::::::::::｀ヽ ＼
+    　　　　　　 　 〆　　 　 ／　 ｀ヽ;:::::::::::＼ ヽ
+    　　　　　　　// /　/　/　　　　　 ＼::::::::::ｌ 　',
+    　　　　　 ,イｲ　| メ、 ｌ　　　,イ 　l 　}＿::_}　　!
+    　　_, -ｰ' /ﾙ|　ｌ ｧ=ﾐ､! 　 // |　/! //｀ｌ|ヾ》　 i　　　　　　　　　　格好悪いって……
+    　/／￣　{|　| l ﾄ､ﾋｿ |　/二Zナ | ヾﾆｿﾍヽ 　 !
+    　　　　　　､__}ﾊヽゝ , ｀´　 r'::ﾝヽ}／ }| |　ヾ＼ i　　　 　 　 　 　 じゃ、どうしろっていうの？
+    　　　　　　｀ヽ:::| ∧　､　 　｀´ ／ 　 /| | 　 ｀ヽﾆゝ
+    　　　　　＜￣:::| 　|＼ __　 ,ィ//　 ハ.| |　　 l 　',
+    　　　　-=ﾆ´::::::| 　ｌ^｀}ノ}ハﾞ7/　 /!_ﾉ}/l__ ,ィヽ ヽ
+    　　　　　／ｨ／:ｌ　 |::/､/ｌ|　∨　/￣｀ヽ::::::∠ __＼＼
+    　　　　　　/::::::::ｌ　 !{／ .ト=/　/::::::::::::::::l:::::::::::＜__ヽ ヽ
+    　　　　　　ヽ:::::::|　ハｰr'ﾞY/／:::::::::::::::::::}:::::::::::::::::＜ !　＼
+    　　　　　　ノ 〉:::| /::::￣｀／:::::／:::::::::::::/::::::::::::::::::::::::＼　 ヽ
+    　 　 　 〈ニニ.∨ﾊ:::::::::/:::::／::::::::/::::::::{::::::::::: ト､:::::､ｰ-ゝ　 ',
+    　 　 　 ∧　　 ',∨:::::::::::ヽ/_/:::／::::::::::::〉､::ﾄ､! | ＼::〉　　　　ｌ
+    　　　 /　r´二ヽ',∨}:::::::/´::::｀ヽ:_:_:_:_:イ､ﾚ'　　!　 ハ　!　 　 !
+    　　　,'　 ﾉ ニソ二ヽ:::::/:::::::::::/:::::::{　 ﾉ　 |　 /! /　 l　ﾊ　　/
+
+
+
+
+
+50 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 23:00:15 ID:12BfczDQ
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　く二二フ
+    　　　　　　　　　　　　　　　　　　　　 r''";;;;;;二二)
+    　　　　　　　　　　　　　　　　　　　　(￣;;｀`ー-- ､、
+    　　　　　　　　　　　　　　　　　　　 f:｀'ーｚｪr-;--‐ '
+    　　　　　　　　　　　　　　　　　　　 l::::r''"＜l__,l＿__
+    　　　　　　　　　　　　　　　　　　　 l::::丶､__;;;;;;;;;;;;;;;;;）
+    　　　　　　　　　　　　　　　　　　　,':::::::::/:: |｀`i´￣´
+    　　　　　　　　　　　　　　　　　　 ,':::::::::/:::: |　 |
+    　　　　　　　　　　　　　　　　　　,':::::::::/ :::: |　 |
+    　　　　　　　　　　　　　　　　　 /::::::::/:::::,:-|　 |
+    　　　　　　　　　 　 　 　 　 　 /::::::::,, -''"::::|　 |
+    　　　　　　　　　　　　　　　　/,, -''" :::::::::::::|　 |
+    　　　　　　　　　　_, 　_,ノ　 /,r―‐z--､-､,,|　 |
+    　　　　　, -‐,.ニＺ三ャ≦='ﾆ ´￣￣｀ﾞ｀ヽ｀|　 |　　　　 　 　 　 「本人」でどうです？
+    　　　,. '" ,. -‐:::''"´￣`ーミ--―rｧ､_ヾ::,_ｨ'|　 |
+    .　 ／,.ィ":::....　 ..:_,:-r '' "´￣ﾄ､ヾ､{＿,／ ,,|　 |
+    　 ir'"::::::::, -‐'T´（(::}!　　　　 lﾐ'i, ､ヽ:.ヾ'ﾞ´ |　 |
+    　 lヾ､:::ﾐ´　　 ヽ, ヾﾞ'　　　　　lミ! l!　}〈,　　|　 |
+    　く´::::::ﾆ、　　　　 , -―‐ くl　',ﾐl '　/'´￣}'|　 |
+    　 ,!｀`ー,二ニ＝;/-fr ,　　　　 ｿ　,ｲ　／'ﾞ |　 |
+    　 l::::::::::〈､、　　 l!　', (:}!　　　　,ィﾆ-'"‐ﾆﾆ|＿|_
+    　 '､:::::::::::'ミニ＝ｷ､ `'_'＿,,. ィ"　ヽ:::::（;;;;;;;;;;;;;;;ﾉ
+    　　 ヾ､::.　ヽ､_　 ｀丶ﾆ､く≦ミﾐ、　 ＼,,ニｺ￣|
+    　　　　｀ヾ､::ヾミﾆ＝ r―--く>､　　　 (二二二フ
+    　　　　　　 ＼:::ヾ＞ｰ｀-三ﾐ､　　　　　,ィ"t!､_|,_
+    　　　　　　 　 ＼:ヽ　　　　 ヽ>ﾍ　　　 ゝ､;;;;;__,ノ
+    　　　　　　　　　ゝﾔ　　　　　 ￣`　　 〈;;;;ｰ--i､
+    　　　　　　　　　 ｀`ヽ　　　　　　　　　　`ｰr--'′
+    　　　　　　　　　　　　　　　　　　　　　　　 |　 |
+    　　　　　　　　　　　　　　　　　　　　　　　 |　 |
+    　　　　　　　　　　　　　　　　　　　　　　　 |＿|＿,,.. -‐
+
+
+
+
+
+
+
+
+
+
+
+
+    　　　　　　　　　　　　 　 ＿　_
+    .　　　　　 　 　 　 　 , .:':{＠}:::..ヾ ヽ､　　て
+    　　 　 　 　 　 　 ／ ´ ~￣~ ｀ ヾ::.ヽ＼　て
+    .　　　　　　　　r.//, 'ハ　　ﾊiﾚ7〃ヾ::.､ヽ
+    .　　　　　　 　 Ｌl ! { ＼ ヽノ　／ l/|　!:厶l
+    .　　　　 　 　 /Vi 小●　　　 ●　ﾉ ｌ下､_〕　　　　　　　　　　　　「本人」！？
+    　　　 　 　 　 　 j||l⊃　､_,､_,　⊂⊃　i !__ﾄ
+    　 　 　 　 /⌒ヽ__|ﾍ　　 ヽ._）　 　j /⌒i !＿
+    　　　　　　＼ /:::::|　l＞,､ __,　イァ/　 /│;; ::＼
+    .　　　　　 　 /:::::/|　|:: :: ::{ 薔 }:{ﾍ､__∧ |⌒⌒
+    　　　　 　 　 ＼< ＼|:: :: :: ∨:::/ヾ::: :: > |
+
+
+
+
+
+51 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 23:00:48 ID:12BfczDQ
+
+
+
+
+
+    　　　　　　　　　　　　 　 ＿　_
+    .　　　　　 　 　 　 　 , .:':{＠}:::..ヾ ヽ､
+    　　 　 　 　 　 　 ／ ´ ~￣~ ｀ ヾ::.ヽ＼
+    .　　　　　　　　r.//, 'ハ　　ﾊiﾚ7〃ヾ::.､ヽ
+    .　　　　　　 　 Ｌl ! { ｀ヽヽノ　ノ　l/|　!:厶l　　　　　　　　　　……………。
+    .　　　　 　 　 /Vi 小●　　　 ●　ﾉ ｌ下､_〕
+    　　　 　 　 　 　 j||l⊃　､_,､_,　⊂⊃　i !__ﾄ
+    　 　 　 　 /⌒ヽ__|ﾍ　　 ヽ._）　 　j /⌒i !＿
+    　　　　　　＼ /:::::|　l＞,､ __,　イァ/　 /│;; ::＼
+    .　　　　　 　 /:::::/|　|:: :: ::{ 薔 }:{ﾍ､__∧ |⌒⌒
+    　　　　 　 　 ＼< ＼|:: :: :: ∨:::/ヾ::: :: > |
+
+
+
+
+
+52 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 23:01:23 ID:12BfczDQ
+
+
+
+
+
+    　　　　　　　　　　　　　　_　 -　――　、
+    　　　　　　　　　　　　 イ.:::::::　　-――-＼
+    　　　　　　　　　　／ /.::::／　　　　　　ヽ　 ＼
+    　　　　　　　　　/ __〈::::ノ　 { 　 { ヽ.　　 } |　:lハ
+    　　　　　　　　 /<_ 小、>　| ＼ｰヽ ＼ ﾉｌﾉィﾉ　|
+    　　　　　　 　 / <／|_｣　　 | ｆ＝ミヽ　　 ィ７|　/
+    　　　　　　　./ 　 　 　| ヽ　 、　 ||　　 　 ||　ﾚ'ィカ　　　　　　　　　　ありね！
+    　　　　　　 ./　 　 　 人　＼_＞　 r‐　￢ィ''〔　ﾉノ
+    　　　　 　 /　　 ≧==≧＼　 ＼　| 　／{　7　く__つ　　　　　　　　　　刷りなおし！
+    　　　　　/　 ∠三三三三＞ー一'´:.:.:.:..＼＞┤
+    　　　　./ 　 /　≧三三了.:.:.:.:.:.:.:.:.:._,,､＜＼|　|
+    　　　 / 　 /　/三三三∧:.:.:.:.:.:.:>ﾍ {仡}:ｌ:.:.:.〉ﾉ
+    　　　;　　/　厶ィ⌒ヾ三ﾆ＞=イ:.:.:.:.ヽ　|:|:.:.{
+    　　　|　/　　/　　　　}彡ﾍシ}:.:.:.:.:.:.:.:.∨.:ﾄ､:.:.＼
+    　　　| l |　 / ＿,,.∠斗―／-―:.:.:.:.:.:.:.:〈　＼:.:.:}ヽ、
+    　　　ヽ |／..:.:.:.:.:.:.:_　-‐'´.:.:／..:.:.:.:.:.:.:.∧ﾍ　ト-'_rく
+    　　　／..:.:.:.:.:.:.:.／..:.:.:.:.:.:.:.〈:.:.:.:.:.:.:.:.:.:/><ｌ:.l 　ヽく_r勹
+    　　　ー――／..:.:.:.:.:.:.:.:.:.:.∧:.:.:.:.:.:.:/＞く|:.:ｌ　　 ヽ丨
+    　 　 　 　 ／..:.:.:.:.:.:.:.:.:.:.:.:/　ヽ:.:.:.:./＼／|:.:.ｌ　　　| |
+
+
+    ┌─────────────────────┐
+    │………かくして、できあがったのが、　 　 　 　 　 　 │
+    │　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 │
+    │「株式会社ISAO　himself(本人)　大川功」の名刺。 │
+    └─────────────────────┘
+
+
+
+
+
+53 ： <span style="color:#009900"><strong>◆g7JmdBpfOE</strong></span>：2013/01/03(木) 23:01:56 ID:12BfczDQ
+
+
+
+
+
+    ┌──────────┐
+    │斉藤由多加氏いわく、　 │
+    └──────────┘
+
+
+    　　　　　　　　　 　 ,. - ､,ﾍ_,-,=-､､_,..、
+    　　　 　 　 　 　 ／:::::::::/::::V::::::::::＼三ﾆＺ＿_ 　 _
+    　 　　 　 　 　 /::::::::_,.ｨ!.:fｰ'-<ヾ:::.:.:.ヽ三三＜_,/;;l
+    　　　 　　　　/:.:.:;ｨ'ｼ´ |:/　＿'、ﾄﾐ､: . ヽ三ミ＞〉;;;〉r;;、
+    　　　　　　　,'....:/jf‐_､ |:! '´_,.__|i l|!iヾ:::::::ヾミ＞';;;/　〉;〉
+    　　　　　　__|:::://ﾘｴｼ |:! '´┴'i` l|ヾ､ヽ:::,.ィ´;;;;;;;(,.ノ;;/　　 　 　 　 　 　 創業時のアップルをバックアップした、
+    　_,.　-‐ '´/l|::,'ｲj,r '´　|l　　　 ,!,! ﾄ､彡'´;;;;;;;;;;;;;;;;,.ｨ;;<
+    '´:.:.:.:.:.:.:.:/;;;;!::!;l/|丶　 ヾ、　　l l ﾉ/;;;;;;;;;;;;;;;;;;;;;;;;;'´_;;;」　　　　　　　　　　 マーケティングの天才「レジス・マッケナー」社の
+    :.:.:.:.:.:.:.:.:.l;;;;;;l::l/;ﾉ! r―- ､_,、 ﾉ'´ ﾊ;;;;;;;;;;;;;;;;;;;;;;;;;;;´ﾉ
+    :.:.:.:.:.:.:.:.:.ト､;;',:!/´| ｀￣￣´　/　 ´/У｀ヽ;;;;;;;;;;;;‐く　　　　　　　　　　　　 レジス本人の肩書きがこの「himself」だ。
+    :.:.:.:.:.:.:.:.:.|::/｀l厂八　　　 　 '　_,..ｲ,/:.:.:.:.:.:ヾ‐-‐'"´
+    :.:.:.:.:.:.:.:.:.'､! ▽ノ /｀ ―､ニ¨´　／:.:.:.:.:.:.:.:.:.ヽ　　　　　　　　　　 　 　 　 ちゃんと由来のあるものだぞ？
+    _,,... --―┘　　　　　　 |:::::　　 |:.:.:.:.:.:.:.:▽:.:.:.ヽ
+    ＿　　＿　　　　　 ,､/｀^ーへ.__|:.:.:.:.:.:.:.:.:.:.:.:.:.:.:|
+    :.:.:.｀´|:.:.:.｀ ――f´/　 　 i　/―|:.:.:.:.:.:.:.▽:.:.:.:.:|―--‐_ﾆ二ヽ
+    :.:.:.:.:.:|――‐／「l l|　　　 |:..|　 _|:.:.:.:.:.:.:.:.:.:.:.:.:.:.|:.:.:.:,:'´,ｨ_:.:.:.:.:.ヽ
+    ､:.:.:.:.:|:.:.:.:／:.:.:.| liﾘ　　　 |:.:|, '´,!:.:.:.:.:.:.:.:.:.:.:.:.:.:|_／=ﾆ三:.:.:.:.:.:.:'、
+    ヾヽ、|:.:.:「'、:.:.:.|:ﾂ　　 　 |:.:|,.ｨ/:.:.:.:.:.:.:.:.:.:.:.:.:.:.|ト-＝ニ:.:.:.:.:.:.:.:.:.ヽ
+
+
+    ┌───────────┐
+    │とのことだが、はてさて。　 │
+    └───────────┘
+
+    ┌──────────────────────────────────┐
+    │この「himself」の名刺は、できあがって第一号を斉藤多加氏がもらったというから、.│
+    │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 │
+    │ちゃんと使われていたと思われるが……。　　　　　　　　　　　　　　　　　　　　　　　　│
+    │　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 │　　　　　　　┼ヽ　 -|r‐､.　ﾚ　|
+    │実物が残ってるなら、みてみたいものである。　　　　　　　　　　　　　　　　　　　　　　│　　　　　　　ｄ⌒)　./|　_ﾉ　 __ﾉ
+    └──────────────────────────────────┘
+
+    　※原文　斉藤由多加「社長業のオキテ」
+
+
+
+
+
+
+    と、いうことで、最近読んだ本から一本超小ネタでした。
+    こういう短いネタって、どう落とせばいいのかいつもなやみまする（・ω・）
+
+
+
+
+
+55 ：<span style="color:#990000"><strong>普通の名無しさん</strong></span>：2013/01/04(金) 01:32:38 ID:QRRZhcFE
+
+
+
+
+<strong>    乙です！
+    イサオネットとか懐かしいなぁ・・・
+
+
+<span style="color:#009900">
+    本編ではぜんぜんふれなかったところですね。
+
+    もうすこし先の時代にいくと、DC->MSへのソフト遺産委譲の話がでてくるから、
+    そこへのつながりとして紹介するのが妥当だったかな……。
+    DC側が委譲の条件としてネット機能の話を出すあたりで。</span></strong>
+
+
+
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=4344022661&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5256/clap" id="fc2button-clap-5256" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5256").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5256/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やるやらで学ぶゲームの歴史　小ネタ　大川功の名刺" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5256.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6259.html">
+					やるやらで学ぶゲームの歴史　外伝その１０　その時"歴史"が動いた (2014/03/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6207.html">
+					やるやらで学ぶゲームの歴史　小ネタ　テトリスと囲碁の関係 (2014/03/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6206.html">
+					やるやらで学ぶゲームの歴史　小ネタ「ゲームの審査にビデオを使うのってどうなの？」 (2014/03/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5973.html">
+					やるやらで学ぶゲームの歴史　小ネタ　「幻のハードNC-1」 (2013/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5731.html">
+					やるやらで学ぶゲームの歴史　外伝その９　「ファミマガ編集部奮闘記」 (2013/06/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5547.html">
+					やるやらで学ぶゲームの歴史　ゲームの歴史とは関係のないネタ２　「スクエニ本社で酒を飲んできたよ」 (2013/04/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5515.html">
+					やるやらで学ぶゲームの歴史　ゲームの歴史とは関係のないネタ「脱出ゲームに参加してきたよ」 (2013/04/09)				</a>
+</li>
+<li class="relate_li_nolink">
+				やるやらで学ぶゲームの歴史　小ネタ　大川功の名刺 (2013/01/07)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5196.html">
+					やるやらで学ぶゲームの歴史　埋めネタ　久夛良木健という男の実像 (2012/12/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5007.html">
+					やるやらで学ぶゲームの歴史　外伝その８　脳とゲームとその教授 (2012/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4565.html">
+					やるやらで学ぶゲームの歴史　小ネタ　検証「エニックスの例のコンテストは出来レースだったのか？」 (2012/05/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4453.html">
+					やるやらで学ぶゲームの歴史　小ネタ　ＰＣゲームの売上を（少しだけ）調べてみた (2012/05/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4368.html">
+					やるやらで学ぶゲームの歴史　小ネタ　デジキューブ顛末記 (2012/04/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4280.html">
+					やるやらで学ぶゲームの歴史　小ネタ　唐突に売上分析 (2012/03/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4274.html">
+					やるやらで学ぶゲームの歴史　外伝その７　「紅のプログラマ」 (2012/03/21)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やるやらで学ぶゲームの歴史　小ネタ　大川功の名刺" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/01/07 00:24 ]
+<a href="/blog-category-290.html" title="カテゴリを参照">ゲーム系　やるやらで学ぶゲームの歴史</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html#comment_list" title="この記事のコメントを参照">CM(14)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5256"
+    dc:title="やるやらで学ぶゲームの歴史　小ネタ　大川功の名刺"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html"
+    dc:subject="ゲーム系　やるやらで学ぶゲームの歴史"
+    dc:description="┌─────────────────────────────┐│1999年10月。セガは、CSKの子会社として「株式会社イサオ」を設立。 │└─────────────────────────────┘　　　　 　 　 　 ,ｫｪ､＿__　　　　　　 　,.f込ｔﾝ:::::::::::｀ ヽ、　　　　　／::::;. &#45;‐ 　´￣￣｀丶＼　　　　〃::／　　　　　　　　　　＼ヽ、.　　 　 ll::/　　　l　　　　　　　　、　ヽY ＿　　　　ll::l}　　　ｌ　　|　　　 l　|　l　　 lイﾆ}|　　　　ll;;l}　l､　|　　 | ｌ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-01-07T00:24:53+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5272.html" title="やる夫で学ぶ鉄道模型　第１１話　やる夫で学ぶ貨物列車　その２">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5274.html" title="みんなでプロ野球１２球団紹介スレ　その９１　小川健太郎物語">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment50134">[ 50134 ] <strong></strong></p>
+</div>
+<div class="comb">
+腕を競うハッキングコンペで突破できないサーバーがありそれがドリキャスだったという話を聞いたことがあるな<div class="comment_navi">
+[ 2013/01/07 02:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50149">[ 50149 ] <strong></strong></p>
+</div>
+<div class="comb">
+やっぱセガには変な人が集まってくる宿命なんだな<div class="comment_navi">
+[ 2013/01/07 09:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50188">[ 50188 ] <strong></strong></p>
+</div>
+<div class="comb">
+MJやってるから登録してたんだけど
+こないだ久々にログインしたらもうisao.netじゃなくてSEGA IDになっちゃったんだねー<div class="comment_navi">
+[ 2013/01/08 06:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50198">[ 50198 ] <strong></strong></p>
+</div>
+<div class="comb">
+変な人の創意がよい方向に向かって、人気呼べばプラスの業績になる
+ 
+クリエーターの世界はそういうもん<div class="comment_navi">
+[ 2013/01/08 19:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50224">[ 50224 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>50198
+コレがセガ（もう「日本」にしてもいいかもしれん）の失敗の原因だなｗ
+評価されるように技術を使う
+のが正しいのに
+やりたい事をやって評価されたらめっけもん
+ではそら負けるわ<div class="comment_navi">
+[ 2013/01/09 14:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50255">[ 50255 ] <strong></strong></p>
+</div>
+<div class="comb">
+技術者にやりたいことをやらせてやる土壌がなかったら
+セガなんてとっくに潰れてると思うな<div class="comment_navi">
+[ 2013/01/10 19:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50262">[ 50262 ] <strong></strong></p>
+</div>
+<div class="comb">
+でもそんな変なＳＥＧＡだったから俺は好きだったんだ<div class="comment_navi">
+[ 2013/01/11 01:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース２ちゃん</a>') } else {
+document.write("名無しさん＠ニュース２ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース２ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50264">[ 50264 ] <strong></strong></p>
+</div>
+<div class="comb">
+>技術者にやりたいことをやらせてやる土壌がなかったら 
+セガなんてとっくに潰れてると思うな
+ 
+今はセガってより実質サミーなんで…<div class="comment_navi">
+[ 2013/01/11 01:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment58215">[ 58215 ] <strong></strong></p>
+</div>
+<div class="comb">
+出たな大川興業会長の大川功！
+パワハラ野郎！　アキバでのデモと酒井さんをパソナルーム送りにしたのは忘れてねーぞコノヤロー！！！！！！！<div class="comment_navi">
+[ 2013/06/28 11:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment58908">[ 58908 ] <strong></strong></p>
+</div>
+<div class="comb">
+ふと思ったんだが
+セガサミーとアルゼ(SNK)裁判で
+ＡＡ創れそうな気がしてきた
+水銀灯と真紅だし<div class="comment_navi">
+[ 2013/07/10 16:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment63429">[ 63429 ] <strong></strong></p>
+</div>
+<div class="comb">
+変な人なのはレジス・マッケナー自身でしょ
+変な人のマネをしたって成功するとは限らんよ
+<div class="comment_navi">
+[ 2013/09/19 21:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72542">[ 72542 ] <strong></strong></p>
+</div>
+<div class="comb">
+PSOでisao.netに加入したけど長い付き合いだったわ
+アドレス乗っ取られたりしたのも今となってはいい思い出<div class="comment_navi">
+[ 2014/05/21 19:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment77779">[ 77779 ] <strong></strong></p>
+</div>
+<div class="comb">
+当人が思いつかんでも、この珍妙な肩書きを（由来も知らず）有りとして容れたのならば
+大川氏も充分変人だと思うぞ<div class="comment_navi">
+[ 2015/02/09 15:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment86667">[ 86667 ] <strong></strong></p>
+</div>
+<div class="comb">
+SEGAでhimselfと言えば、スペースチャンネル５のウララの声優がherselfで通してたのを思い出すが、
+そこらへんが元ネタなんだろうか？<div class="comment_navi">
+[ 2016/03/17 09:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5256" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5256.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5256"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5256-8c6d4da9">http://oyoguyaruo.blog72.fc2.com/tb.php/5256-8c6d4da9</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5272.html" title="やる夫で学ぶ鉄道模型　第１１話　やる夫で学ぶ貨物列車　その２">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5274.html" title="みんなでプロ野球１２球団紹介スレ　その９１　小川健太郎物語">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

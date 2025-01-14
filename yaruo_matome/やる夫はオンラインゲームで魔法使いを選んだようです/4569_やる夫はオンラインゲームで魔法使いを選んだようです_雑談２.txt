@@ -1,0 +1,739 @@
+<div class="article">
+
+
+
+
+
+
+    　　　　　　　　　　　　　　 ╋━━━━━━━━╋
+    　　　　　　　　　　　　　　 ┃　　　雑談　　2　　　┃
+    　　　　　　　　　　　　　　 ╋━━━━━━━━╋
+
+
+    .
+
+
+
+
+
+    　　　　　＿_＿__
+    　　　　　,＞　　 ≧r　￣　　　ヽ
+    　　　　,＞ ＿_／　　　／　　　　 ＼
+    　　 ∠_　　　/　/　　/ ./　./ ./ !　 ヽ,
+    　 　 　 ノ ≧|　.! 　 / ./__:/|./　| .| 　 |
+    .　　fヽ.　fヽ. l　|　　|　.l:／｀/ 　 !ﾊ|_| |
+    　　 {　|　|　} |ヽ! 　 : ---､　 　 ﾉ　|ｲ`!　　　　　できない子です。
+    　　 ,ゝ ¨′{ ∨|　　|弋り　　　 __｀`| |
+    　 r{　ｔ‐y　 }　`| 　 l 　 　 　 '　ﾋり ﾊ|　　　　　　2回目の雑談です。
+    　 ヾ=z⊂ィ′　|ﾊ　!　　　_ __　　 /ｲ|
+    　 　 |　　 !　　　　ﾍ|丶　.__, _,. イ |/
+    　　 /　　 |_／´￣｀＼　　 Ｌ._
+    .　　i　　　j　　　 　 　 }',　　 ヽﾏｰ ､
+    .　　| 　 　 　 　 　 　 ﾉ::ﾍ、　 j::ﾍ.　}
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,.．-‐　≦´/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ー-　．_　　 ／ ,　　 　 　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ.　　　 ヾ〈／　　　　　ノ:ヽ.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ゝ.＿ ＞>ー- - ､‐く　 　ﾍ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　,　;､　　｀　‐-=ﾆ=-‐､　 :.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 : ヘﾊ＜__/'⌒/二ﾆ=‐_ﾏ_ ヽ.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 i :i＞ト　　　,ｨ弌ﾐｧ}: 　|´ i!i!|: :_｀≧
+    　　　　　　　　　　　　　　　　　　　　　　　　鏡音リンです。どうぞよろしく。　　　 　 　 　 　 　 | :!　:i¨ヽ　　　{;;; } |::.　!ゝ--!: :＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 !∧ :込::} ､　　¨´ i/!::/ :i､ : : i｀ ｰ`
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ′∨∧　 ､ ノ　　.:;'/7ｰ!-､ヾ!
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 } : :ゞ≧__ .. イ:/ ,=＝＝ｭ､＞、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 !/ i/　7¨',斗-l /　　　　 ヾ:::::::＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ′′./　 ｉ!∮ｉ/{ ０２ i´　 ∧:::::ヾ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 / 　 ∧V//i　　 :l＼/　}::::::::≫::＞
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　　/　ゝｇ　}　　 !　　　 !=彳／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ./　　/i´／ﾉ＼| 　 :|　　　 ヽ￣
+
+
+
+
+
+
+
+
+
+473 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:24:05 ID:IVBvRIi60
+
+
+
+
+    　　　　　　　　　　　＼｀ヾ:.:.:.:.　.:.:　　.:レ'´／
+    　　　　　　　　　_,.　-=≒‐:.:.:. .:.:.:.:.:.:.:.:.:.:.:.:￣ﾞ≧
+    　　　　　　 ｘ≦_:.:.: ,．　 ´￣｀ .　´￣￣｀丶､:.そ
+    　　　　 　 ≪_:.:.:／: : :.:　　　　 :.　:.　　 　 　 ＼:.≧ｘ､
+    .　　　　　,ｘ≦:./:.: : : :.:　.: :　:　 :.　:.:.　 :.　　　　ヽ:て¨｀
+    .　　　　　￣｀7:.: : :　:.:　.: :　.:　　:　:.:.　 .:　:.: 　　ﾊ:.:.:.＼
+    　　　　　　　,':.: : :　.:.:　:.: :　.:　 .:.:　.:.: .: .:　.:.:. :. Ⅵ´￣´
+    　　 　 　 　 i:.: : :　 :.:　:.: : : :.:　:.:.:.　.:.: .: .: .:.:.: ＼:＼
+    　　 　 　 　 l :l|.:.: .:.:.:ﾄ､:.ﾄ､:.:.:j:.:.:.:.: /!:.:ﾊ:.: ﾊ.:　:.:.:トﾐ≧
+    　　 　 　 　 |.:j|:.:.:.:ﾄ､|弌!弌ノ!:.:.:.:/ T7''T'7 |.:　:.: |
+    　　 　 　 　 Ⅵk:.: :!.ｧ^笊ﾐ¨V:.:／ ｧ^笊ﾐ¨Ⅵ:. .ｲ:.j
+    　　　　　　 　 ﾘﾊ:.:圦 乂iｿ ﾉ´ 　 ヽ.乂iｿ ﾉ.j:./ Ⅳ
+    　　 　 　 　 　 八＼{　　　　　　　 　 　 　 /ｨ　ﾉ　　　　　　　　　　　今回は「パーティ募集」について。
+    .　　　　　　 　 　 ヽﾊ 　 　 　 ゝ 　 　 　 　 /ｨﾍ
+    　　　　　　　　　　 /:.＼ 　 　 ＿_ 　 　 　.ｲﾊ:.kﾍ　　　　　　　　　　　……なのですが。
+    .　　　　　　 　 　 厶ｨ:.:/ﾐiｘ.　 　 　 　 ィ:.:.:.Vﾊ!　`
+    　　　　　　　　　 　 ﾑﾊV:.:ﾏ=≧=≦=7:.:.:.:.:.Vﾊ
+    　　　　　 　 　 　 　 ﾊV:.:x仆ミ//彡仆x :.:.:/Vﾊ
+    .　　　　 　 　 　 　 /ｘ＜///＞介＜////＞xVﾊ
+    　　　　　　 　 ,ｘ＜//////〃./ﾊVﾊ.V///////＞ｘ,
+    　 　 　 　 　 //////////｛しﾞ//}.しﾞ.}//////////ﾊ
+
+
+
+    　　　　　　　　　／　ヽ 　　 . : : :＞ー＜ . : : ' 　 ／
+    　　　　　　　　　　　./: :ヽ,＿ ／　 :　｀ヽ`ｰ-<ﾊ´
+    　　　　　　　　　　 /　　　.:　 　{ 　 :..　 　 ＼ ヽ!
+    　　　　　　　　　　 i: . 　 ,'　 　∧ _ノ :､　　,'/＼:l
+    　　　　　　　　　　 |: : _/＿,/7￣´､{｀ヾヽ,'/ .,'/ }
+    　　　　　　　　　ﾆ7: : /￣7ゞ¨テミxｬ　 　｀,ｧｭ､ |　　　　　　　　　　ゲーム内のローカルルール的な話になるから、
+    　　　　　　　　　./: : /!　/ {　 {ﾟｉ:::::}　　　 〃::7｀}
+    　　　　　　　　　　／| | ﾊ :| :. 乂ソ　　.:.　{:::/ﾘ/　　　　　　　 　 　 未プレイの方は読んでもわからないかも。
+    　　　　　　　　　11ﾙ| |/ ﾞ,.|　 ｀¨　　..::::､ ¨´ﾊ〈
+    　　　　　　　　　＿ノ ﾉ.　 ﾘ　　 　 　 　 ｨ〈`ー　､　　　　　 　 　 　 ごめんね。
+    　　　　　　　　　＞ｰヾ.＞ .　　　～～　／￣ヽ　＼
+    　　　　　　　　　　　 ', '＝ﾆ≧ｭ｡.__,. イ＿, /i ￣ ヾ ヽ
+    　　　　　　　　　＜::::j　　　　　{!ヽ:≧､＞〈_　　　.ゝ　!
+    　　　　　　　　　::::::ｧ‐-≧ｭ､ 　 ヽ,＼::::ヽ Lァ　ノ　　i＝ｭ､
+    　　　　　　　　　:::/／ ￣ ミ ､≧＜／＼::＼ﾐ==＝＝≠彡}
+    　　　　　　　　　,'/　　. : : : .　:ヽ:::::＞ｭ､ ＼:::ヽ::::::::::::::::::::/
+    　　　　　　　　　:::li　　: : : : : : : . ＼:::::::::':.,　ヾ::}::::::::::::::::〈
+
+    .
+
+
+474 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:24:18 ID:IVBvRIi60
+
+
+
+
+    　　　　　 　 　 　 ＿　、　　　 ィ
+    .　　　　　　 　 　 ≧⌒ ｀‐イ⌒≧
+    .　　 　 　 ／´￣ ｀　　　　＿　　＼
+    　　　 　 //　　　　　 イ´　⌒ヾ―-　 ＿
+    .　　 　 / ／´　　 ／　　　　,　-‐-　　 _ ﾆ= 、
+    　　　 / / ィ　　 /　　　　／　　　　　　　　　　｀ヽ
+    .　　 /ｲ./　　　/　　　　´　 　 /　/　/　i　　　　　ヽ
+    　　　 }/　 　 /　　　 /　　　 /　/　/　 .|　　 i　　　｀
+    　　　 /　　 ,　　　　 , 　 　 ｲ　/　ｲ　　 l　　 ' |
+    　　　 ,　　 .|　　　　 |　 　 寸7Tヽ l　　 l　 ｲ　l　　　}　　　　　　パーティ募集をする（部屋を建てる）際、
+    　　　 | , 　 |　　　　 |　　 ｬzぇミ、 |　　 '７寸ﾊ}　/　'
+    　　　 }ﾊ　.∧ 　 i　 .l　　{　弋タ　ヽ、/ ｾﾃぇ､ ｲ　/.　　　 　 　 こちらの要望を明示したり、入室者を制限するために、
+    .　　　　 ∨　 ,　 ﾊ　 、　l　 ￣　　　 ′ゞ ノ /　/
+    　　　　　 }　.∧　　}　 {、{　　　　　　　　,　／{ /.　　　　　 　 　 入室条件を設定することができます。
+    . 　 　 　 {ﾊ/　 ヽ　ﾄ、ﾄヾゝ　　　　　　　　 イ/
+    　　 　 　 　 　 　 } ﾚﾊﾍ ヽ、　　　こ⊃　 ´
+    　　　　　　　　　　　　}＿　　≧ｭ　_　イ
+    　 　 　 　 　 　 　 　 ﾉ三≧ュ＿　 ィ/
+
+
+
+    　　　　　┏━━━━━━━┓　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ,．;　“”￣i只i￣”“　; 、
+    　　　　　┃テーマ設定 　 　 ┃　　　　　γ´￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣｀ヽ . ;　'　;　'　;　'　;　'　;　' ＼
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　 |　設定できる項目はこんなにあるよ。　　　...|...'　;　'　;　'　;　'　;　'　;　'　;ヽ
+    　　　　　┃参加条件　 　 　 ┃　　　　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　|'　;　'　;　'　;　'　;　'　;　'　;　' '.
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　 |　でもあんまり活用されてなくて　　　　 　 　 |＿＿＿＿＿＿＿＿＿＿＿_|
+    　　　　　┃ランク制限　 　 . ┃　　　　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　|　.＞‐Y´,、 ＜ヽ├＜
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　 | コメント欄で済ませちゃう人が多いみたい | .〈: : /ﾐ/__＼斗Ⅵ: : :〉
+    　　　　　┃レベル制限　 　 .┃　　　　　 ゝ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿__,メ 　 VⅣ━　━乍ﾉ: :/
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　今､ﾍ、▽ ,人: :/、
+    　　　　　┃パッチ制限 　 　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ￣Y三三人/￣
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/ 〈　|_〉　 '.
+    　　　　　┃匿名設定　 　 　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 〈､＿Y＿＿_〉
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ':_:_:_;､_:_/
+    　　　　　┃Language　　　　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 |-| |-|
+    　　　　　┃　 　 　 　 　 　 　 ┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿＿＿＿＿＿∨ ∨＿＿＿＿＿
+    　　　　　┃パスワード　　　 .┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　;　'　;　'　;　'　￣￣　'　;　'　;　'　|
+    　　　　　┗━━━━━━━┛　　　　　　　　　　　　　　　　　　　　　　　　　　　　　'.　;　'　;　'　;　'　;　'　;　'　;　'　;　' ,′
+
+
+
+
+
+475 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:24:33 ID:IVBvRIi60
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,.．-‐　≦´/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ー-　．_　　 ／ ,　　 　 　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ.　　　 ヾ〈／　　　　　ノ:ヽ.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ゝ.＿ ＞>ー- - ､‐く　 　ﾍ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　,　;､　　｀　‐-=ﾆ=-‐､　 :.
+    　　　　　　　　　　　　　　　それでもちょっと勘違いしやすい部分や、　　 　 　 　 .: ヘﾊ＜__/'⌒/二ﾆ=‐_ﾏ_ ヽ.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　 　i :i＞ト　　　,ｨ弌ﾐｧ}: 　|´ i!i!|: :_｀≧
+    　　　　　　　　　　　　　　　どんな感じで機能していないかについて、　 . .　　　 | :!　:i¨ヽ　　　{;;; } |::.　!ゝ--!: :＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 !∧ :込::} ､　　¨´ i/!::/ :i､ : : i｀ ｰ`
+    　　　　　　　　　　　　　　　少しだけお話させてもらうね。　　　　 　 　 　 　 　 　 ′∨∧　 ､ ノ　　.:;'/7ｰ!-､ヾ!
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 } : :ゞ≧__ .. イ:/ ,=＝＝ｭ､＞、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 !/ i/　7¨',斗-l /　　　　 ヾ:::::::＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ′′./　 ｉ!∮ｉ/{ ０２ i´　 ∧:::::ヾ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 / 　 ∧V//i　　 :l＼/　}::::::::≫::＞
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　　/　ゝｇ　}　　 !　　　 !=彳／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ./　　/i´／ﾉ＼| 　 :|　　　 ヽ￣
+
+    .
+
+
+476 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:24:46 ID:IVBvRIi60
+
+
+
+
+    　　　　　　　 　 、
+    　　　　　　≦｀ヾＹ´-＝＝＝- .
+    　　　　＜　ヾ〃,　　　　　　　 　 ＼
+    　　　　　_> ｿｨ'　 !　､　,　 　 ,!　　、ヽ　　　　　　　　まずテーマ設定で
+    　　　　＜戈Y 　 |　 ,寸寸T ﾊT7 } ,　!
+    　　　　　ﾉヾ!　　 ヽ! ゝ( ●)　(●)|ハ|.　　　　　　 　デフォルトで選択されている
+    　　　　´⌒八ｿ　　(lv!　　 　 ＾ 　 |
+    　　　　　　　|::ヽ. ｼ゛　　　　￣　 ,　　　　　　　　　　 「一人で遊んでいます」について。
+    　　　　　　　|::::|!ヾx　 ､　　 　 イ
+    　　　　　　　|::::|!::|　`/⌒ヽ_〔
+
+
+
+    　　　ヽー‐-　、　　　　　　　　　　．-‐　フ
+    　　　　＼　　　｀丶､-‐…‐-''"´　　　／
+    　　　　　 ＼　　ヾ:::_｀ヽ_/.:／ 　 　 /
+    　　　　　　　〉､_＿＿__{_,〉､_＿___ ｲ
+    　　　　　　〃　 ,ﾍ.　　/7丶、　ヽヾ.:.　　　　　　　　これだけだと、
+    　　　　　　!i＝=j　`ｰ//___　//≧ｭ} j
+    　　　　　　|l ==j￣二''　　''二￣jｌ ｌ! | 　 　 　 　 　 「一人で遊びたいので、他の人は入ってこないで」
+    　 　 　 　 ∧　iK丈ﾌﾞ　　" 丈_刈 ｌ:！
+    .　　　 　 /:ハ:圦'''　 　 '　 　 '''〃/ : :、. 　 　 　 　 って言ってるように見えるけど、実際には
+    　 　 　 /ｲ. ;ヽﾄ个: ..　 - 　 イ:/ｲ: .＼ﾐﾒ､
+    　　　　 ノイ ノ-z 乏;}.｀¨´.{从 {:从ｰ--ヽ.　　　　　 「入室はご自由にどうぞ」って解釈されちゃうの。
+    　 　 　 　 ″　,.才:::《　 　 》:::不､
+    　　　　　　 ,<ヾ:::_:::::∧⌒/::::::::::〃>、
+    　　　　　　{　 ｀7｀'＝=∨=＝''彳　　}
+    .　 　 　 　 | 　 Ｙ　／/只､｀ヽ=Ｙ　　|
+    .
+
+
+
+477 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:25:09 ID:IVBvRIi60
+
+
+
+
+    　　　　　 ､-ー'｀Ｙ ＜,__＿
+    　　_＿≦ー`__＿　_二ｚ<＿
+    　　 ＞ ７ ￣､-人 ￣｀'┴＜　　　　　　　　　　何故かというと、別のに設定するのが面倒で
+    　＜之′Ｙ´／{:;o）　　 　 　 ＼
+    　　 >{　 ,' 　| ､ ゛´ ,.　 ,.l　　, 　ﾞｉ　　 　 　 　 　何の気なしに「一人で～」と表示してる人がほとんどだから。
+    　　 |　!､{　　| 寸寸T　ハT７} ｨ,ｌ
+    　　 ′Ｊｉ, ﾞｉ ﾞｉ （ ≡）　 （≡）|ハ|
+    　　　　i⌒ヽ'(1. ''' 　＿'_　''' ﾉ川／⌒)　　　　 私も募集目的で、これ以外を選んだことは一度もないよ。
+    .　　 　 ヽ 　ヽx＞､.｀⌒´_,イ ｌ |::::ヽ／
+    　　　　 ∧　人lﾊ:::::l,三|:::/ｌ|　,:::::ﾊ
+
+
+
+    　　　　　　　　　　　　　　　　／{
+    　　ヽｰ-　.　　　　　 　 　 ／ 　 !
+    　　　‘，　　 ｀'　､-‐＝／ 　 　 j
+    　　 　 ∨　　 ＼:::〉-<::／ 　 ／ﾍ
+    　　　　 ヽ、__＿__ゞ='ー--＜ヽ. ハ
+    　　　　　 〃　 　 /7ｰ---ｚｭ ヽ＼ :.
+    　　　　　 {＝=i`ｰ　-=ニ77三彡也ｭ 、　 　 　 　なので、他の人に入って欲しくない時は
+    　　　　　 ｉ＝={''"´__　　　__,._,}　}11j　＼
+    　　　　　ハ　小,rｾﾗ｀　 ´'¨ﾞ｀!　j／ー＜｀　　　　部屋にパスワードを掛けるようにしてね。
+    　　　　　　_〉、:圦　　 '　　　厶ｲ:_:_:_≦¨｀
+    　　　 　 ´￣以{Ⅵ＞.､｀ ..イー-≧ｰ
+    .　　　　　 　 　 ,.x≦::《　 　 》:::...、
+    　　　　　 　 <ヾ:::_::::::∧⌒/:::::::::::>>、
+    　　　　　　 {　 ｀7｀ﾞ＝=∨==＝彳 　 ;
+    .　　　 　 　 ｌ　 Ｙ　/ｒｆYﾍヽ､＼=Ｙ　 /
+    　　 　 　 　 |　 {　ｉ {==＝≠}　}/02/
+    .
+
+
+
+478 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:25:22 ID:IVBvRIi60
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿　　_,
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿__,＞Ｙ´'ー-､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿>ｚ二_　＿__`ー≧＿_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＞┴'´￣｀ ‐-､￣ ７ ＜
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 , '"　　　　　　　 ヽ ｀Ｙ′之＞
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／ .／ ,.　　l　 　 ,へ　　 ヽ　}<い
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　 　 　 /　 /　 ハ　∧-‐ ﾅ ! .ﾄ　　,ﾊ V. ﾚ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　　! ‐/- |/　 r≠=ｧ!‐lヽ 　 }　!"i}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |　/.|/r≠.、　　| _ｒｿ'|　ﾄ、　,/ ,∧ﾊ
+    　　　　　　　　　　　次に「Language」。　　　　　　　　　　　　　　　　　　　　　　　　　　〔ゝ /　| jﾘ　　　´￣⊂⊃ﾉ ./i .八ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽヽ 〕｀ ､　　　　　　 l ハ ∧|/ﾙ′
+    　　　　　　　　　　　この部屋は日本語で会話してますよーとか、そんなの。　　　.⊂___）　 / }＼l7_ﾌ　 ノﾘ　V./ |ﾚ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ﾚ｀＜／.:.:.:.｀:ー´へ＜/'゛
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ,ｨ:＞,､､;.:.:.:.: .:.:.:.:ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 f:.:.:l:.ム-‐｀<:.::.:.:.:.:.ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ':.:.:.:|/ {>ｰ<} ヽ=.ｼ´
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ∧: .;ｨ　　　　　 ヾ{
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ./:.: .:.:仆　　 　 ‐--ゞ、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/:.: :.:/ /　　　 　 　 　 丶
+
+
+
+
+
+479 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:25:33 ID:IVBvRIi60
+
+
+
+
+    　　',　　　　　　 　 　 　 ＼＿__!　/　／　 　 . :. :/
+    　　 '.　　　　　　　　　　　　Yｰ" /／　　　. :. :／
+    　　　∨ 　 　 　 　 　 . : : : ;!､__}ー---≦-＜ﾍ
+    　 　 　ヽ.: : : : : : : : :＞　´　 ﾍ　　　　　　ヽ ヽ.',
+    　　　　　　｀ 77フ¨´:.　　　　　 l i　､　　　　 ゛,゛:i
+    　　　　　 　 ,'/"　　　:ﾐ: : : . 　 | ｌ　 　｀ :ｌ i ―':. .!
+    　　　　　 　 ″＿　　 ;＜:.:. : :..| |　　 　 | |　　 .' i!
+    　　　　　　　i＿　￣¨7-‐-≧ｭl.｣_: : :.＿ｌ_|＿彡 i≧ｭ､　　　　　 見知らぬ人、それも海外の人とも遊べるのは
+    　　　　　 　 |　　￣¨7　　　｀　　 　 ,x≠ｭ､. |　: :'.〃7
+    　　 　 　 　 |　　　　,' .xp弌ﾐ　 　 　 ｲﾟﾞ::ﾊ.》|　: : ｝7.　　　　 　　オンラインゲームの醍醐味だよね。
+    　　 　 　 　 レ!　　〈. 《 {::::::ﾊ　 　 　 乂:::ﾉ　! . : ;'/　＞
+    　　　　　 　 　 '.　　 '.　 ゝ-ｲ　 　 , 　 　 　 :|!. :;'　<　 　 　 　 　このゲームだと、中国、韓国、台湾のプレイヤーが多いかな。
+    　　　　　　　／.:＼　 ':, 　 　 　 　 　 　 　 /.! / :.　 ＼
+    　　 　 　 ∠　-― ＼　,ゝ　　　 ー　´　.ィ'ｰi/　 ',ｰ― `
+    　　　　　 　 　 /　／ ＼〉‐- ≧‐- ＜i　　　　 ＼〉
+    .　 　 　 　 　 /イ 　|/　／＼ー’ ．-‐＜≧x､
+    　　　　　 　 　 　 　 ／:::::::::::::＼´　∮ |:!:::::::::::≧x､
+    　　 　 　 　 　 　 ／≧ｭ､::::::::::::::＼　　:!|:::::::::::::::／.:/
+
+
+
+
+
+480 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:25:45 ID:IVBvRIi60
+
+
+
+
+    　 　 　 ゞ_{ー- ､∧ﾉ{
+    　　 　 r _ ゞ　≦　　 ￣ ヽ　　　　　　　　　　　　　微妙に怪しい日本語のプレイヤー名が結構あるんだよね。
+    　　 　 |／r ′ － ＞ -―　￣`ーー
+    　 　 / / .|／　 ／ 　　　ヽ　　　　 ヽ　 　　 　 　　「明日の夢ごろ」とか、「金子の翼」みたいな
+    　　　 ム./　　/　　／　　　i　ヽ　　i iヽ
+    　　 　 ./ /lムl　　 |⌒i八　＼jヽ　 ｉ i.　　 　　　　 金子って誰だよ。
+    　 　 ノ川｜l .| 　 /7:::::T ＼}r:::‐rV| |.　 　 　　＿＿＿＿＿＿＿＿＿_
+    　　　ノ リノ川 　 | .､::::ﾉ　　　､::ﾉ ﾘｉ |.　　　 /〉------------------ﾍ
+    　 　 　 .} 人Ｙ|　 .i　　　　　　　　 （ ｜　　 //　￣￣￣￣￣￣￣￣￣/
+    　　　　ノ 　 ｉﾄ|　 .|、　　　　 　 　 ﾉ　|.　　//　　　　　 　 　 　 　 　 　 /
+    　　　　 　 　 八　 V＞　,＿_..　イ　.jﾉ　 //　　　　　 　 　 　 　 　 　 /
+    　　　　　　　　/＼乙 ニE7::＼厶イ　　//　　 　 　 　 　 　 　 　 　 /
+    　 　 　 　 　 /:::::::｀⌒>‐く::::::::j＞r- ､//　　 　 　 　 　 　 　 　 　 /
+    　　　　　　../::::￣`7‐ﾍ._))）＞ヘ人ﾉ/〈_＿_＿_＿__＿__＿__＿__ノ
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-‐ｧ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／　 　 |　　 　 .　 -‐　　う
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／　　　　 |　　／　　　　　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 i　　 | ／　 　 　 　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 （　　　　ﾉ{　　/　_ノ　 　 　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ｰｧ-　_Y⌒Y´　　　　　 ,､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　 　　`￢廴＿＿__,ノ　 ヽ　 　 　 ぃ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 / 　 ∧　　　　　、 マ ﾍ　　　　　　　ﾉﾘ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　〃 ==|　､　ﾄ､/Ｚ _/７ ∨ﾊ　　 ゞ==彡
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　 　 / ;　＿｣⌒ ､{　＼_/ /＼ Vﾊ　、_乂_　　 ﾉ}
+    　　　　　　　　翻訳サイトとかで日本語に直してるのかな。　　　　　　 　 　 　 　 .′|　￣i|　-‐＼　 x=ミ刈 ≧=-　 ､ｰ-=彡
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 {　 | ﾄ､,仏=ミ　 　 ″ ""|ｉ 了f{｣|　　｀¨¨ア
+    　　　　　　　　しょーもない中二ネームとかあったりして、見てて面白いよ。　 　 　 { i {い""　 _'　_ノv）u.| 爪__ン、‐-‐ ´
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 .乂'ゝ込、　`ー　´　.イ 从､_＿ ＞
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　､__ノ厶仆ゞっ≧=r≦〔､厶仆ｿ≧_,
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_ ／￣＜√／⌒＞'´／⌒ヽア
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ハ　　 不ぅ ′／　 ／〃　　 }
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ∠-ハ7´ 八　{_/　 ／}　 {　i　　′
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　 　 　∠_／>ハ. 〃⌒(う≦‐-く 　 Ⅵ 　;
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .仁<∠ﾆﾆﾊ/　⌒){　（ヽ 　 ヽ 　 }__{、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｛ﾆﾆﾆﾆﾆﾆｱ/　 ／ ‘，　 ｝　　｝ 　{ニ{
+
+
+
+
+
+481 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:25:56 ID:IVBvRIi60
+
+
+
+
+    　　＼_＿_〈廴／-‐ '　　　　　 　 ／
+    　　　　　／｀¨/7≧x __　．-‐t=く　ヽ
+    　　＿／ ＼ //／⌒「|　 　 　 ﾏﾍ　ハ
+    　　/　＼/‐ｘ`ｰr-斧示卞､　　 ﾏﾊ 　i|　　　　　　　　日本語が通じなくても、英語だったら「だいたい通じる」から、
+    　　＼､ 厶=ミ　 〃∨じ j/　　　圧l|　ﾘ
+    　　　i.＼《{V心　　　　)斗　 　 八]ｉ|∨　　 　 　 　 　 ちょっとしたやり取りができたりすると、妙に嬉しかったりするね。
+    　　　l　| ﾊ　ソ ，　 ヘ 厶イ　/辷]」、＼
+    　　Ⅵ　! ハ　　 <{:::::::::! /　 / ／⌒≧ｘ,／ 〉
+    　　　 、{ N个ト　 ` ｰ '厶イ／:／x==〆　 /、
+    　　　　＼{ Eｺ┘/}¨７´y　{::::/ / 　 、 　 ∧ﾊ
+    　　　　　　 __彡' 厶┴/::::∧:{ {　　、｀T¨´　ヾ
+    　　　　 　 　 〃⌒＼/／::::∧:‘，　 ､_｣　,}　/ 〉
+    　　　　　　 {:/　　　　＼／ 　 ＼＼＿ｭ)厶ﾑｲ
+    　　-‐…‐-〈　　　 　 　 ヽコ　　 ＼:::::::::::::::::/
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＿_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＞ ｀ｰ∧―一 Ｚ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／ｒ＿＿　　　　　､ ｀ﾕ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　厶'⌒ー一 ⌒ヽ　ヽ」 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　　　　　　ヽ　＼＼　　　二ｱ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ./ 　 / 　 !　　､」　　ヽﾊ　､. ﾊ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　　 !ハ　!　!　　　 ､ ﾍ iゝ＞ﾊ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／i　.i!　l＿i　V ヽ＿　　＼≧､　ｒ‐＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ￣!　l!ﾄ.∧iﾍ　　 iヽﾄ､. }　l/　　 .ｆ
+    　　　　　　　　　それでもスムーズな意思疎通や、通信速度などの理由で　　　　 ..人ハi |:::::::ﾄ､ｒ､!|:::::::| j!/i｀　.∧{
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ゝ} ､ `ｰ '　 　 `ｰﾑﾚ　|/ﾚ′
+    　　　　　　　　　国内のプレイヤー同士で組みたくなる事があると思う。　　　　　　 　 .} ﾄ､＞ｘ. _―_ .ィj　ﾊ.|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾚ ゝ ヽ-ｒ1ﾊ¨¨i/ｒ‐ｒi ﾘ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｒfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 i¨ヽ　　　　　　　　　　　　 　 ,.!-､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 /､ヽ.）　あれして　　　　　 　 _〕'"l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 {.　Y´　 　 これして　　 　 　 ゝｧ‐}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ∧　|　　　 　 　 　 　 　 　 　 　 |´∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 /ｒ〈ヽ|　　　　 　 こーやって。　 .|∧ L
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 .//　ヽ.|＿＿＿＿＿＿＿＿＿＿_j_ノ　 i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 /ﾉ　 　 ７.ｨ′　　 ﾄ､:::::::/ｉ　　　 〈 　 　 　 ヽ
+
+
+
+
+
+482 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:26:10 ID:IVBvRIi60
+
+
+
+
+    　　　　　/:/: . :/: . : . : . : . : . : . : . : . : . : . : . : . :ヽ: . :}: .| ﾉ
+    　 　 　 /:/|: . /: . : . : . : . : . :/: . : . : . : . : . : . : . : .:',:.:|:∧
+    　 　 　 |/ :|: /: . : .:/: . : . : . :{: . : . : . : . : . : . : . : . : ', |'
+    　 　 　 　 j:/!: . : .,': . : .:／: .|: . : . : /: . ｨ: . }: . : . : . Ｎ　　　　そんなときには別枠のコメント欄に書いておくのが一番かな。
+    　　　　　　　|:|: .:.:|: . : /ｌ: .:.∧: . : .:,': ./ |: . ﾊ: }: . : . |
+    　　　　　　　|:|: .:.:|: . /‐|: ./-､',: . :.|: ﾑ-|: /‐}:.|: . ://　　 　　 「Language」の欄に「JPN」って表示させてても、
+    　　　　　　　 :ﾊ: . {:.:ム⊥/二　',:.::.|/.二L' .⊥ｊ: .:/
+    　　　 　 　 　 ∧: ∨ ゞ( ・ )ﾉ 　'ヽ:j ゞ( ・ )ﾉリノ/:.. 　 　 　 　海外の人は普通に入ってくるよ。
+    　　　　　　　 /: ∧:_＼　￣　　　　　 　￣ ∠:イ::.|
+    　　　　 　 　 !:/;;/|:∧ 　　　　　 ; 　　 　 　 /: |ヽｊ　　　　　 　もちろん日本語は話せない。
+    　　　　　　　　 };ｌ |' /;＼　　 　-　-　　　　ｲヽ:|　〉〉
+    　　 　 　 　 　 !;L./;ム};;＞ .. 　 　 　 .. イ;∧ﾆﾆノ
+
+
+
+    　　　　　　　　　　　　　　　　　　_,,.　-― ''/
+    　　'ー 、- ...,,_＿　　　　　　, -''　: : : : : :./
+    　　　　　ヽ: : : 　-｀..ヽ、_ , '　,..　-―: ／
+    　　　　　　.＼: :　　--.〈 〈r''_,...　-='' 、｀ '' .、
+    　　　　　　　　 ＞ー: '/li~:｀　'': ‐: .、　 ヽ:,　 ヽ,
+    　　　　　　　.／　　: :/; ';!:ヽ: .　　!: : ヽ,　 ヽ: .　',
+    　　　　　　 /　　 . : / '; : '; : ヽ,　 '; . : :,ヽ　　';_: ヽ、
+    　　　　　 ./ ./　 : :/　 ヽ: ヽ:　:ヽ :ヽ:　ヽ ',／,- i:.l ヽ
+    　　　　　/ :/;|　.: ;'　　　ヽ: : : ._,.　-i- 、:';.i　i l.|.|:.|
+    　　　　 ,' :/i;:l　‐,'‐ -　　　ヽ'; : : : : :',_:＼:i| .| |.l.l: l　　　　　　見ても気にしないんだろうね。
+    　　　　.i / .|:;|　:.i:| ,,..,_　　　　 ,,,.r==- 、-ir .';.!|.|: :!
+    　　　　 |'　 ';:;!　:|:'i! !llヽ.　　 'ﾞ .i|::i|||にjゝ:|'丶ニ'i: ',　　 　 　 会話しなくてもゲームは進行できるから
+    　　　　　　　';:!　lヽヽ'i!|ii　　　　 !::!lll!:/:ﾞ : : : i: .　|ヽ'、
+    　　　　　　　ヾ!',.|:;:ヾ,'!;;;!　　　　ヾ-'ﾞ..! ./,ﾍヽ,!'; . l 　 　 　 　 普通なら問題ないんだけど。
+    　　　　　　　 ﾞ,ﾉ';l;: r':x'' ' 　,、　 '..''r;'|/:'i:,| ｀ﾞ　ヾﾉ
+    　　　　　　　　￣! ヾ/ji':｀":i' !"´,. : :'‐-_!、
+    　　　　　　　　　　 ／ ヽ : :|"'／: :　／ ヾ'、
+    　　　　　　　　 ,. '´... - '-=-',..　- 'i´　 　 ';i,
+    　　　　　　　r''　　 ,.>、_;:r'-i:ヽ｀ヽ ! ,　 　 !:',
+
+
+
+
+
+483 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:26:25 ID:IVBvRIi60
+
+
+
+
+    　　　　　　＿＿≧ー＼ソ＜＿
+    　　　　　　 ＞　　　 ｘ=ｭ-──´─ -　_
+    　　　 ＿≦　　 ,ｭ彡"´　　　　　　　　 　 ｀丶
+    　　　　｀フ　　 ／／　　　　　　　　　　　　 　 ＼
+    　　　 ／　　　　　　　　　　　　　　　　　 　 　 　 ヽ
+    　　　⌒ク八:′ ,/　 ,/　　　　　　|　　 　 　 ｀　 　 '.
+    　　　　　/　:i 　 ′　′:｜ |　|!:i| |　| 　 ！ 　!　　　:
+    　 　 　 / 　 |　 |　 　| 　 |:.｜:||八|　|! |i: |! :| :|!　 　 |
+    　　　　 }　　　　|　 　ﾚﾊ土士八　ｊノﾙj!i土士ﾙ　　 !|
+    　　　　 jﾘ 　 　 ||! i| |r‐rテi〒　　　　‐rテi〒r|: 　 八　　　　　せっかく来てくれた人をお断りするのは心苦しいけど、
+    　　　　　|!　 　 从八|　弋.(ソ　　　 　 弋(ソ．.:　,/
+    　　　　　八:i| 　ｆ 　 ｉ|　､､､　　　　　 .　 　 ､､ |i|/.　　　　 　 　 理由を話して納得してもらうか、
+    　　　　　　　}:　|!　 八　　 　 　 　 　 　 　 　 八
+    　　　　　　　レ个ｰf }|丶　　　　　　_　　　 . ′　 　 　 　 　 　 こちらの意思が伝わらないようなら
+    　　　　　 　 　 八从ﾉﾙ 个ﾄ　　　´　 　 イ
+    　　　　　　　　　 |:::|::|　　fﾞﾊ　　　｀ 瓜ｨ7ｉ.　　　　　 　 　 　 　 強制退室コマンドで出て行ってもらうしかないね。
+    　　　　　　　　　 j:八j　.斗 ハ　　／ 　 ﾚﾍ
+    　　　 　 　 　 　 _　-‐'´::.::.::. r}yく::.::..::.::.:.::.:.｀ーｭ｡.
+    　　　　 　 　 /⌒::.::.::.::.::.ｨⅥY薔VIく:.::.::.::.::.::.／⌒＼
+    .　　　 　 　 /::.:}::.::.:::.:／　　　　　 　 ＼::.::.::.:.::.::.::/::.ハ
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|: : .　　 　 ＼　 　 　 ／　　　　　　　　　}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|: : : : .　　 　 ヽ　　./　. : : :　　 　 　 　 ,'
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　'.: : : : . . . 　 　 >ｰ,' . : : :　　　　　　　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　ヽ: : : : : : : :...｛　 { ／　　　　　　　 ／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀＞:-‐=￢ゝ-"` ー-=、 -‐、 ´　ﾍ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　 ::　　　　｀>､　　　　 ヽ.　 ':.　　ハ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,'＼ ﾐ;. 　　　//　　 ､　　　ﾊ　　',　 　 '
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,＼ ヾ/＼　 //　　　//ﾐ ｰ‐‐', 　 .　　 i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ! ヾ =ﾊ ⌒ヽ〈　　　// 　 　 　 }　 i　　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　i/i　 :ﾑ〃ミ､　`　ー＿　-―彡i＞ ＾ヽ !
+    　　　　　　 　　ま、コメント欄にきっちり書いてあっても 　 　 　 　 　 　 　 　 {　 :: :'.ﾏ::::｝　　　"{.::::::ヾ!　　 l〃¨ ´|∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 '.　i : :i ｀´　　　　乂:::ィ'|　　,'､_l 11 !　 '　,
+    　　　　　　　　 入ってくるんだけどね。　　　　　　　　　　　　　　　 　 　 　 　 　 ヽ! : :'､　 〈 　 　 　 .u ′./ー ＜´i!: .　＿ ≧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ! ./.へヽ　 フ　　　,'　/: :　;､:: .　{￣
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ﾚ　ゞつヽ、_ ．＜/イ| ',　/　＼　',
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｧ‐-＜:::|,...:＜:::::::::::∨　　　＼〉
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | 　 ...:":::::::::ｨ=≠=ｭ､{
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／...:"::::=≠::::　-― - ､ヽ
+
+
+
+
+
+484 ： <strong><span style="color:#009900">◆rQE4QefOYg</span></strong>：2012/05/28(月) 12:26:42 ID:IVBvRIi60
+
+
+
+
+    　　　　　 ､-ー'｀Ｙ ＜,__＿
+    　　_＿≦ー`__＿　_二ｚ<＿
+    　　 ＞ ７ ￣､-‐ ´￣｀'┴＜　　　　　　　　　短めだけど2回目の雑談はお終い。
+    　＜之′Ｙ´／ 　　　　　　　＼
+    　　 >{　 ,' 　| ､　,　,.　 ,.l　　, 　ﾞｉ　　　　　 　 第3話はあした投下するので
+    　　 |　!､{　　| 寸寸T　ハT７} ｨ,ｌ
+    　　 ′Ｊｉ, ﾞｉ ﾞｉ （ ●）　 （●）|ハ|.　　　　　　 良かったら後で見にきてください。
+    　　　　i⌒ヽ'(1. ''' 　＿'　 ''' ﾉ川／⌒)
+    .　　 　 ヽ 　ヽx＞､（_.ノ__,イ ｌ |::::ヽ／　　　　お相手はできない子と──
+    　　　　 ∧　人lﾊ:::::l,三|:::/ｌ|　,:::::ﾊ
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .|｀ ｰ ､　　　　 ／ ´￣￣ﾌ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　!　　＼ヽ　／／　　　／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ..＿＿乂＿＿,,／´
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ／　　ヽ、　 ＼＼＼.
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　 ,ﾍ、　｀ﾒ ､___ヽ ヽ ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　───鏡音リンでした。　　　 　 　 　 .〃. { ⌒｀ ｰ ..＿,..　ｊ　|　i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｒ|　ｌ. ●　　　 ● 　 |　| |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　それではまた～　　　　　　　 　 　 　 　 ヽ,l⊃　､_,､_,　⊂⊃([ii] {
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /⌒ヽﾉﾊ=コ ゝ._）　 ﾉﾘ⌒i.|ﾘ｀＞
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヾ;;;;;/ヽZ_`ｰ, 　 -イﾚ;;;;;;/ﾄﾝ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　 ヾ、　 ﾌヾ;::|⌒/:::;ﾊ__,∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ヽ〈　　ヾ∨::;/　'ｰｲ i|
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4569/clap" id="fc2button-clap-4569" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4569").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4569/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫はオンラインゲームで魔法使いを選んだようです　雑談２" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4569.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4829.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　後日談５ (2012/08/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4779.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　後日談４ (2012/07/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4715.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　後日談３ (2012/07/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4714.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　後日談２ (2012/07/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4653.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　追加解説 (2012/06/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4652.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　後日談 (2012/06/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4597.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　雑談４ (2012/06/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4581.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　最終話 (2012/06/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4580.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　雑談３ (2012/06/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4568.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　第三話 (2012/06/01)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫はオンラインゲームで魔法使いを選んだようです　雑談２ (2012/06/01)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4561.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　第二話 (2012/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4560.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　雑談 (2012/05/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4546.html">
+					やる夫はオンラインゲームで魔法使いを選んだようです　第一話 (2012/05/23)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫はオンラインゲームで魔法使いを選んだようです　雑談２" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/06/01 05:52 ]
+<a href="/blog-category-407.html" title="カテゴリを参照">ゲーム系　やる夫はオンラインゲームで魔法使いを選んだようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4569"
+    dc:title="やる夫はオンラインゲームで魔法使いを選んだようです　雑談２"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html"
+    dc:subject="ゲーム系　やる夫はオンラインゲームで魔法使いを選んだようです"
+    dc:description="　　　　　　　　　　　　　　 ╋━━━━━━━━╋    　　　　　　　　　　　　　　 ┃　　　雑談　　2　　　┃    　　　　　　　　　　　　　　 ╋━━━━━━━━╋    .    　　　　　＿_＿__    　　　　　,＞　　 ≧r　￣　　　ヽ    　　　　,＞ ＿_／　　　／　　　　 ＼    　　 ∠_　　　/　/　　/ ./　./ ./ !　 ヽ,    　 　 　 ノ ≧|　.! 　 / ./__:/|./　| .| 　 |    .　　fヽ.　fヽ. l　|　　|　.l:／｀/ 　 !ﾊ|_| |    　　 {　|　|　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-06-01T05:52:29+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4573.html" title="輸送戦艦スペース・デブリ　ＦＩＬＥ　０－１１　 回る回る　錆びついた歯車">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4570.html" title="できる夫のMETRO2033　第四章　戦乱５－３　『若き生存者』">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4569.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4569"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4569-c68562fe">http://oyoguyaruo.blog72.fc2.com/tb.php/4569-c68562fe</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4573.html" title="輸送戦艦スペース・デブリ　ＦＩＬＥ　０－１１　 回る回る　錆びついた歯車">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4570.html" title="できる夫のMETRO2033　第四章　戦乱５－３　『若き生存者』">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

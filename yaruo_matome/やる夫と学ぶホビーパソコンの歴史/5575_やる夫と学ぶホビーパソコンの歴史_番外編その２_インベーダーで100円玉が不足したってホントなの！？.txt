@@ -1,0 +1,1037 @@
+<div class="article">
+
+
+
+
+────────────────────────────────────────
+
+
+
+　　　　　　　　　　　　　　　 ／￣￣＼
+　　　　　　　　　　　　　　／　─　　─＼　　　　　やる夫と学ぶホビーパソコンの歴史
+　　　　　　　　　　　　　　| 　　（●）（●）|
+　　　　　　　　 ＿＿＿_. .|　　 （__人__）　|　　　　　　　　　　　　番外編
+　　　　　　　／　　 　 　＼　　　｀ ⌒´ 　ﾉ
+　　　　　 ／　　─　 　 ─＼　　　　　 　.}　　　　　「インベーダーで100円玉が不足した
+　　　　／ 　　 （●） 　（●） ＼　　　　　}
+　　　　|　 　　 　 （__人__）　 　 |　　　 ノ.ヽ　　　　　　　　　ってホントなの！？」
+　　　　/　　　　 ∩ノ ⊃　　／∩ノ ⊃|　 |
+　　　　(　 ＼　／ ＿ノ　|　 |／ ＿ノ　|　 |
+　　　　.＼　“　　／＿＿|　 |　／＿＿|　 |
+　　　　　　＼ ／＿＿＿ ／／＿＿＿ ／
+
+
+
+────────────────────────────────────────
+
+
+
+　　　　　　　　　　　　　　　／￣￣＼
+　　　　　　　　　　　　　 ／ ⌒　　⌒ ＼
+　　ﾃﾞｰﾃﾞ　　 　　 　 　 |　（ ●）（● ）　|
+.　　 ﾃﾞｰﾃﾞﾃﾞｯﾃﾞ♪　　 l　　（__人__） 　│
+　　　　　　　　　　　　　 | 　　｀⌒ ´　 　|　＿＿＿_
+　　　　　　 　 　 　 　 　 | 　 　 　 　 　 |／　　 　 　＼
+　　　　　　 　 　 　 　 　 ヽ　　　　 　 ／　─　 　 ─　＼　　））
+　　　　　　　　　　（（　 　 ヽ　　　 .／ 　 （●） 　（●）　 ＼
+　　　 　 　 　 　 　 　 　 ／　　　　|　 　 　 （__人__）　　 　 |　　　ﾃﾞｰﾃﾞ
+.　　　　　　　 　 　 　 ／　 　 　 　 ＼　 　　 ｀⌒´　 　 ,／　　　　 ﾃﾞｰﾃﾞﾃﾞｯﾃﾞ♪
+.　　　　　　　　　 __／　　／　　　 .／　　　　　　　 　 （
+　　　　 　　（（　〈＿＿／ﾉ　　　／　　　　　　　　　 　＼
+　 　 　 　 　 　 　 　 　 /　 __／　　／　 　 　 　 　 ＼　 ＼＿
+　　　　　　 　 　 　 　 （（　〈＿＿／ﾉ　　　　　　 　 ノ.＼＿＿ ノ　））
+　　　　　 　 　 　 　 　 ＼＿＿_ﾉ /　　　/⌒＼　／
+　 　 　 　 　 　 　 　 　 ノ　　ﾉ　）|　 　 　 　 　 ＼
+　　　　　　　　　　　 　 ﾚ´ ^　　ﾚ.＼＿＿_ﾉ＼　　l
+　　　　　　　　　　　　　　　　　　　 ノ　　ﾉ　　 ） ﾉ
+　　　　　　　　　　　　　　　　 　 　 ﾚ´ ^　　　 ﾚ´
+
+
+
+　　　　 　 　　_＿＿＿_
+　　　　 　 ／　⌒　　ヽ_＼
+　　　　 ／　｡（ ―）　（ ―）　ﾌｧｰ　　　　　　　次回の話はもう少し先だって聞いてた気がするけど、
+　 　 ／　　　 ⌒（__人__）⌒ ＼　 ＿ノ⌒
+.　　 l 　 　 　　　 |　 　ｌ^l^lｎ　 |　――、＿　　どうしたんだお。
+　 　 ＼　　　　　 |r⊂ 　 　ﾉ／　⌒丶、
+　 　 ／　　　　 　｀ーゝ 　ﾉ ＼
+
+
+
+
+
+
+
+
+371 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:06:50 ID:QwamG2Ek0
+
+
+
+
+    .　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　/ﾉ　 ヽ､_　 ＼　　　　　前回、インベーダーゲームを大きく取り上げただろ。
+    .　　　　　　　　　　　　 　 （●）（● ）　 　|
+    .　　　　　　　　　　　　　　（人__）　 　　　 |　　　　　インベーダーゲームに関する噂の類については、
+    　　　　　　　　　　　　　 　 |⌒´　　　　　 |
+    .　　　　　　　　　　 　 　 　 |　 　 　　　　/　　　　　前回挙げた他にも中の人が調べた事柄があったんだが、
+    .　　　　　　　　　　　　　 　 ヽ　　　　 　/
+    .　　　　　　　　　　　　　　　　ヽ. 　 　 /　　　　　　 長くなるわりに、ホビーパソコンの歴史というシリーズの本題に
+    　　　　　　　　　　　 　 　 　 ,-‐)__, ／⌒l
+    .　　　　　　　　　　　　 　 ／;─ー〉》　／l　　　　　 あまり合わないということで、一部カットされている。
+    .　　　　　　　　　　 　 　 （＿ﾝー‐-,r'´ . |
+    　　　　　　　　　　　　　　　　|　　　　　　|
+
+
+
+    　　　 　 　 　 ＿＿__
+    　　 　　 　 ／_ノ 　ヽ＼
+    　　 　 　／ （ ●）　（●）、　　　　　ははーん、今回は没ネタの再利用ってやつかお。
+    　　　 ／::::::::⌒（__人__）⌒＼
+    　　　 |　　 　　　|r┬-|　　　 |　　　　どんな噂だお？
+    　　　 ＼ 　 　 　 `ー'´　　／
+    ⊂⌒ヽ　〉　　　 　　　 ＜´/⌒つ
+    　 ＼　ヽ　 /　　 　 　 　 ヽ　/
+    　　　＼_,,ノ　　　　　　|､＿ノ
+
+
+
+    　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　 rヽ　　／　ノ　　＼ ＼　　　　　「インベーダーのために100円玉が不足して、
+    　　　　　　　　　　　 i　!　　|　 （●）（●）　|
+    　　　　　　　　 r;r‐r/　| 　 |　　（__人__）　 |　　　　　造幣局が緊急に増産した」というやつだろ。
+    　　　　 　 　 〈_L (｀ヽ .}　　|　　 ｀ ⌒´　　ﾉ
+    　　　　　　　　l｀ （ ｀`/　.　 |　　　　　　　 }
+    　　　　　　　　ヽ 　　l　　.　 ヽ　　　　　 　}
+    　　　　　　　　　|,. 　 l　　 /⌒　 　ー‐　　ｨ ヽ
+
+
+
+    　（（　(ヽ三/)　　　 (ヽ三/)　））
+    　　　　　(((i ) ＿＿＿( i)))
+    　　　　／　／⌒　　⌒＼ ＼
+    　　　 (　／（ ●） 　（●）＼ ）　　　　　お、それなら知ってるお。
+    　　　 ／::::::⌒（__人__）⌒::::: ＼
+    　　　 |　　　　　　　　　　 　　　|　　　　結構有名だと思うお。
+    　　　 ＼ 　　 　 　　　　　 　／
+
+
+
+
+
+372 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:07:33 ID:QwamG2Ek0
+
+
+
+
+    　　　　　　　　　　　　　　 　／￣￣＼
+    　　　　　　　　　　　 　 　_ノ　　ヽ、　　＼　　　　　結論から言うと、これは事実ではないと考えるべきだろ。
+    　　　　　　　　　　　　　（ ●）（ ●）　　　|
+    　　　　　　　　　　　　　（__人__） 　　　　 | ..／}
+    　　　　　　 _　 　　　 　ヽ｀⌒ ´　　　　　| /　/ 　　　__
+    　　　 (＾ヽ{　ヽ　　　　　 {　　　　　　　　./　/　 .　／ .ﾉ
+    　　(￣ ヽ ヽ　i　　　　　　ヽ　　　　　　/　厶-　´ ／
+    .　(二 ヽ　i　i　|,r‐i　　　　ﾉ.　　　ヽ /　　　　 ／
+    　　　ヽ　　 ／　 ノ　　／　　 　r一'´　ー ､　　￣￣￣）
+    　　　 i 　 {　　 ｲ―イ　/　 　.`ー―.　､＿_　.〈￣￣
+    　　　　ヽ.　`ｰ '/　　　/　　　　　　　　　 　/＼ ＼
+    　　　　　　 `ー ' ￣￣!　 　　　　　　　　　|　　ヽノ
+
+
+
+    　　　　　　 　＿＿＿_
+    　　　　　　／　 ノ　 ヽ＼
+    　　　　 ／ 　（○）}liil{（○）　　　　　えー？　そうなんかお。
+    　　　／　　　　　（__人__） ヽ
+    　　　|　　　　　　　|!!il|l| 　　|
+    　　　＼　 　 　 　 lｪｪｪl　／
+    　　　　/　　　　　　　　　ヽ
+    　　 　しヽ　　　　　　　 ﾄ､ﾉ
+    　　　　　 |　　　 __　 　 |
+    　　　　　 !___ノ´　 ヽ__丿
+
+
+
+    　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　⌒´ ヽ､,＿　 ＼　　　　　　　この噂の出どころはわりとはっきりしている。
+    　　　　　　 　 　 　 　 　 （●)（●.)　　　 |
+    　　　　　　　　　　　　　　（_人___）　　　　|　　　　　　　日本経済新聞の1979年5月13日付朝刊社会面に載った、
+    　　　　　　　　　　 　 　 　 '､　　　　　　 │
+    　　　　　　 　 　 　 　 　 　 }　　　　　　　{　　　　　　　「インベーダーゲーム　日銀が迎撃作戦
+    　　　　　　　　　　　　　　　!､______　.ィ-ｰﾄ、
+    　　　　　　　　　　　　　　　　　V／:::::::::::::::::ヽ　　　　　　“百円玉なくなる”　全国で三千万枚吸い込む？」
+    　　　　　　　　 　 　 　 　 　 　 {::::::::::::::::::::::::::::::.、
+    　　　　　　　　　　　　　　　　／ｰ-:::::::::::::::::::::::::::::::,　　という見出しの記事だろ。
+    　　　　　　 　「r'、　　　　 ／::::::::::::::::::::::::::::::::::::::::::::,
+    　　　　　　　　} r'、　ﾍ､ /.::::::::::::::::::::::::::::::::::::::::::::::: i
+    　　　　　　　　i/ ム､} .{ i:::::::::::::::::::::::::V:::::::::::::::::::::: |
+    　　　　　　　　{　い､{　 Ｙ::::::::::::::::＼::::V:::::::::::::::::::: |
+    　　　　　　　　＼　　ヽ　{|V.::::::::::::::: ＼V:::::::::::::::::: |
+    　　　　　　　　　 ＼　　ノ|:.V.::::::::::::::::::::::〉.:::::::::::::::::|
+
+
+
+    　 　 　 　 　　　＿＿＿_
+    　 　 　 　　　／⌒　　⌒＼
+    　 　 　　　／（ ―） 　（―）＼　　　　　なかなか刺激的な見出しだお。
+    　 　 　 ／::::::⌒（__人__）⌒::::: ＼
+    　 　 　 |　　　　　　　　　　　　　 |
+    ＿＿（　⌒-ｨ⌒ヽ、 　 /⌒` '⌒　）＿＿
+    　　　　 `ー-ゝィｿﾉー‐ヾy＿ﾉー"
+
+
+
+
+
+373 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:08:10 ID:QwamG2Ek0
+
+
+
+
+    　　　　　　　　　　　　　　　.／￣￣＼
+    　　　　　　　　　　　　　　 /　ヽ､_ 　　.＼　　　　　本文では事情をいろいろ説明してるんだが、
+    　　　　　　　　　　　　　. （　（● ） .　　　|
+    　　　　　　　　　　　　　. （人__）　　　　　|　　　　　図で示したほうがわかりやすいので、
+    　　　　　　　　　　　　　r‐-､　　 　.　　　|
+    　　　　　　　　　　　　 （三））　　　.　　　|　　　　　次のグラフを見てほしいだろ。
+    　　　　　　　　　　　　　>　ﾉ　　　　　　 /
+    　　　　　　　　　　　　/ 　/ ヽ、　.　　 /
+    　　　　　　　　　　 　/ 　/ ⌒ヾ　　　.〈
+    　　　　　　　　　 　 （＿__ゝ､ 　＼／.　）
+    　　　　　　　　　　　　　　.　|＼　　 　,.1
+    　　　　　　　　　　　　　　.　|　 ＼_／...|
+
+
+
+ <a href="http://blog-imgs-50.fc2.com/o/y/o/oyoguyaruo/100yen_a.png" target="_blank"><img alt="100yen_a.png" border="0" height="300" src="http://blog-imgs-50.fc2.com/o/y/o/oyoguyaruo/100yen_as.png" width="328"/></a>
+
+
+
+    　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　／　ノ　　＼ ＼／｀i　　　　　これは、日本銀行の
+    　　　　　　　　　　　　　　|　 （●）（●）./　　ﾘ
+    .　　　　　　　　　　　　　　|　　（__人__）..|　　/　　　　　 「日本銀行時系列統計データ検索サイト」で利用できる統計データから
+    　　　　　　　　　　　　　　 |　　 ｀ ⌒´　ﾘ　 ﾋ
+    .　　　　　　　　　　　　　　 ヽ　　　　 ／/　　,｀弋ヽ　　 生成されたグラフだ。ウェブページ上で簡単な操作から
+    　　　　　　　　　　　　　　　 ヽ　　- ′.Ｙ´　 ,　｀ヽ｀.ｌ
+    　　　　　　　　　　　　　　　　/〈　　`ｰ〈::....ノ　　　Ｖ　　自動的にグラフを作ってくれるんだから、ITさまさまだろ。
+    　　　　　　　　　　　　　　　　|　ヽ_ｰ ､ ｀ヾ＿/　//
+    　　　　　　　　　　　　　　 　 |　 　　ﾌ-､｀ｰ┴‐-〃
+    　　　　　　　　　　　　　　　　　　　　　　`ー‐一′
+
+
+
+    　　　　　　 　＿＿＿_　　　　━┓
+    　　　　　　／　　 　 　＼　　 ┏┛
+    　　　　 ／　　＼　　 ,＿＼.　 ・　　　　　んーと、「貨幣流通高」が元データかお。
+    　　　／ 　　 （●）゛ （●） ＼
+    　　　|　 ∪　　 （__人__）　 　 |　　　　　 貨幣流通高ってなんだお？
+    　　　/　　　　 ∩ノ ⊃　　／
+    　　　(　 ＼　／ ＿ノ　|　 |
+    　　　.＼　“　　／＿＿|　 |
+    　　　　　＼ ／＿＿＿ ／
+
+
+
+
+374 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:08:59 ID:QwamG2Ek0
+
+
+
+
+    　　　　　　　　　　　 　 　 　 ／￣￣＼
+    　　　　　　　　　　　 　 　 ／　　ヽ､__　.＼　　　　　　　簡単に言うと、日本中に出回っている硬貨の量だろ。
+    　　　　　　　　　　　　 　 （⌒）（⌒ ）　　 ｜
+    　　　　　　　　　　　　　　（__人___）　 　 　|　　　　　　 月ごとに、日銀が出した硬貨の量から、戻ってきた硬貨の量を差し引く。
+    　 　 　 　 　 　 　 　 　 　 ｌ｀⌒ ´　　　　｜
+    　　　　　　　　　　　　　　　|　　 　 　 　 ｜
+    　　　　　　　　　 　 　 　 　 |　、　　 _,.ーへ
+    　　　　　　　　　　　　_. -: ::::ヽ_＿「　　　　　v、＿
+    　　　　　　 __,.　＜::::::::::::::∧:::二〈 、　 　　　 ∨:::::＼
+    　　　　　／:::::::ヽ :::::::::::::::::::::::::::::::ヽ_〉、　 　 -ｰ､:::::∧
+    　　　　 /::::::::::::::ﾄ､::::::::::::::::::::::::::::::::::::::::`ｰ／ ::::::::＞:､::ﾊ
+    　　　 〈::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::く::::::::::::::::::::::::v::、
+    　　　 /::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Λ::::::::::::::::::::::::ヽ|
+
+
+
+    　　　　　 　　　　 |
+    　　　　　 　＼　　__　　／
+    　　　　　 　＿　（ｍ）　＿
+    　　　　　 　　　　|ミ|
+    　　　　　 　 ／ 　｀´　 ＼
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／⌒　　⌒＼
+    　　　　　／（ ●） 　（●）＼　　　　　その数字を毎月繰り越していけば、
+    　　　 ／::::::⌒（__人__）⌒::::: ＼
+    　　　 |　　　　　|r┬-|　　　　　|　　　出回っている量を把握できるってわけかお。
+    　　　 ＼ 　　 　 `ー'´ 　 　 ／
+
+
+
+    　　　　　　　　　　　　 　 　 ／￣￣＼
+    　　　　　　　　　　　　　　／　 ヽ､_　　＼　　　　　下の表では単位は「億円」と書いてあるが、
+    　　　　　　　　　　 　 　 （⌒）（⌒ ）　　　|
+    　　　　　　　　　　 　 　 （__人__）　　　　 |　　　　 「対前期比伸び率」をグラフ化するよう設定しているので、
+    　　　　　　　　　　 　 　 （｀⌒ ´　　　　　|
+    　　　　　　　　　　　　　　{　　　 　 　 　 |　　　　　グラフの縦軸は「億円単位で計算した前月からの増減（％）」になっているだろ。
+    　　　　　　　　　　　　　　{　　 　 　 　 ﾉ
+    　　　　　　　　　　 __∩　 ヽ 　 　 　ノ
+    　　　　　　　　　　（ﾐんゝ､ ／　　 　 ヽ
+    　　　　　　　　　　　 　＼ '' ／|　　　　|
+
+
+
+
+
+375 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:09:47 ID:QwamG2Ek0
+
+
+
+
+    　　　　　　　　　　　　　　 　 ∩＿
+    　　　　　　　　　　　　　　　　〈〈〈　ヽ
+    　　　　　　　　＿＿＿_　　　〈⊃　　}
+    　　　　　　 ／⌒　　⌒＼　　 |　　 |
+    　　　　　／（ ●） 　（●）＼　 !　　 !　　　　　へー、お金の量って毎月けっこう増えたり減ったりしてるんかお。
+    　　　 ／ :::::⌒（__人__）⌒:::::＼|　　 l
+    　　　 |　　　　　|r┬-| 　 　 　 | 　／
+    　　　 ＼ 　 　　｀ ー'´ 　 　 ／／
+    　　　　/　＿＿　 　　　　　　/
+    　　　　(＿＿＿）　　　　　　/
+
+
+
+    　　　　　　　　　　　 　　　 ／￣￣＼
+    　　　　　　　　　　　　 　／　 ヽ､_　　＼　　　　　参考のために50円と10円のグラフも入れてみたが、
+    　　　　　　　　　　　　 （●）（● ）　　　|
+    　　　　　　　　　　　　 （__人__）　　　　 |　　　　　どれもだいたい12月＞7、8月＞4月＞6、9、10月＞1、2月という感じの
+    　　　　　　　　　　 　　（　　　　　 　 　 |
+    .　　　　　　　　　　　　　{　　　 　 　 　 |　　　　　変化になっているだろ。
+    　　　　　　　　　　　　 ⊂ ヽ∩　　 　 く
+    　　　　　　　　　　　 　 | '､＿ ＼　／　 )
+    　　　　　　　　　　 　 　|　 |_＼　 “　.／
+    　　　　　　　　　　　 　 ヽ､ ＿_＼_／
+
+
+
+    　　　　　　　　＿＿＿_
+    　　　　　　 ／⌒　　⌒＼
+    　　　　　／　（⌒）　（⌒）＼　　　　　なんか、経済は生きている！　って感じがするお。
+    　　　 ／　 ::⌒（__人__）⌒::: ＼
+    　　 　|　 　 　　　|::::::|　　　,---、
+    　　　 ＼ 　 　 　 `ｰ'　　　しＥ　|
+    　　 　／　　　　　　 　　　 l､Ｅ ﾉ
+    　　／　　　　　　　　　　　 ｜　|
+    　 （　　 丶- 、　　　　　　 ヽ_／
+    　　　`ー､＿ﾉ
+
+
+
+
+
+376 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:10:41 ID:QwamG2Ek0
+
+
+
+
+    　　　　　 　 　 　 　 　 　 　 ／￣￣ ＼
+    　　　　　 　 　 　 　 　 　 ／_,ノ 　｀⌒　＼　　　　　で、この記事で問題にされたのがこの部分だ。
+    　　　-、　　　　　　　　　 |　(● ). (● )　 |
+    　　ﾔ　 ',　　　　　　 　 　 |　.(___人___） 　 |
+    　　　i. 　l　　　　 ,.-､　　　| 　 ｀ ⌒ ´　　 |
+    　　　 ',　 j　　　/　/ 　 　 .|　　　　 　　　 |
+    　 　 ノ＿..ヽ-､′,' 　 　 　 ',　　　　　　,/'|、
+    　　 .l .＿＿_　ヽﾉ　　　 __ .j '.、__ , ___ ｨ／::L＿
+    　　 Ｙ　　　　　）ﾊ.‐ ' ´ ..::ヽ::::::::::::::::::::::::::／:::::::...｀' ｰ- ､ _
+    　　　ﾄ. ￣￣ 〕y::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::..＼
+    　　 ハヽ 一ﾆｲ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: r;;;;;:::::::: ',
+    　　/...::::::;;;;;;;;;;; /::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ﾉ;;;;;::::::::::::::〉
+
+
+
+ <a href="http://blog-imgs-50.fc2.com/o/y/o/oyoguyaruo/100yen_b.png" target="_blank"><img alt="100yen_b.png" border="0" height="300" src="http://blog-imgs-50.fc2.com/o/y/o/oyoguyaruo/100yen_bs.png" width="328"/></a>
+
+
+
+    　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　／ ヽ､.　_ノ　＼　　　　　さっきのグラフに、赤い矢印だけこっちで描き足したものだが、
+    　　　　　　　　　　　　　　　|　 （●）（●）　|
+    　　　　　　　　　　　　　　　|　　（__人__）　｜　　　　そこが1979年4月のデータだろ。他の年に比べてちょっと上に来ているのがわかる。
+    　　　　　　　　　 　 　 　 　 |　　 ｀ ⌒´　　|
+    　　　　　　　　　　　　　　　 |　　　　　　 　}
+    　　　　　　　　　　　　　　　 ヽ　　　　　 　}
+    　　　　　　　　　　　　　　　　人＿__＿_ノ"⌒ヽ
+    　　　　　　　　　　　　　　／　　　　　　　　　　　＼
+    　　　　　　　　　　　　　/ 　　　　　　　　　　 へ　　＼
+    　　　　　　　　　　　　 （　　ヽγ⌒)　　　　　| 　＼ 　 ＼
+    　　　　　　　　　￣￣￣＼＿＿／￣￣￣￣￣￣￣￣￣￣￣
+    　　　　　　　　　　　　　　　　　　　｛;;;;;;;｝
+    　　　　　　　　　　　　　　　　　　　 L;;;;」
+
+
+
+    　　　 　 　　　＿＿＿_
+    　　　 　　　／⌒　　⌒＼
+    　　　　　／（ ―） 　（―）＼　　　　　確かに、他の年は0.5％くらいなのに、1979年は1％以上になってるお。
+    　　　 ／::::::⌒（__人__）⌒:::::＼
+    　　　 |　　　　　　　　　　　　　|
+    　　　 ＼ 　　 　 　　 　 　 　／
+
+
+
+
+
+377 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:11:24 ID:QwamG2Ek0
+
+
+
+
+    　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　／ 　 ⌒　　 ＼　　　　　その前の3月も、
+    　　　　　　　　　　　　　（ ●）（ ●）　 　 |
+    　　　　　　　　　　　　　.（__人__）　 　 　 .|　　　　　他の年はほんのちょっとマイナスなのに、この年だけプラスになってるだろ。
+    　　　　　　　　　　　　　　ｌ｀ ⌒´　　　 　 |
+    　　　　　　　　　　　　　　{　　　　　 　 　 |　　　　　しかもこのとき、50円や10円はそこまで上に来ていない。
+    　　　　　　　　　　　　　　{　　　　　 　＿ |
+    　　　　　　　　　　　　　（ヽ、ヽ　　　/ 　）|
+    　　　　　　　　　　　　　 |　｀`ー―‐'|　..ヽ|
+    　　　　　　　　　　　　　 ゝ　ノ　　 　ヽ　 ノ
+    　　　　　　　　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
+
+    　　　　　　　　　　　 (ヽ三/)　））
+    　　　　　　　　＿＿　 ( i)))
+    　　　 　　　／⌒　　⌒＼　＼
+    　　　　　／（ ●） 　（●）＼ ）　　　　　ようするに、100円玉だけが、
+    　　　.／:::::: ⌒（__人__）⌒::::＼
+    　　　| 　 　(⌒)|r┬-|　　　　　|　　　　 出した量に比べて戻って来た量が妙に少なかったってことかお。
+    　　 ,┌､-､!.~〈`ー´/　　　 ＿/
+    　　 | |　|　|　 __ヽ、　　 　/　　　　　　　で、その原因がインベーダーゲームかお。
+    　　 ﾚレ'､ﾉ‐´　　￣〉　　|
+    　　　｀ｰ---‐一'￣
+
+
+
+    　　　　　　　　　　　　　　　　／￣￣ ＼
+    　　　　　　　　　　　　 　 　 _,ノ　ヽ､,_　　＼　　　　　　まあ、日銀内部での推測がそうだという記事なんだがな。
+    　　　　　　　　　　　　　　 （●）（● ） 　　 |
+    　　　　　　　　　　　　　　 （__人___）　　 　 |　　　　　　しかしリード部分には、「たっぷり供給できる体制は整えてあるので
+    　　　　　　　　　　　　　　　'､｀⌒ ´　　u　 |
+    　　　　　　　　　　　　　　　 |　　　　　　　 |　　　　　　百円玉がまるっきり不足することはない」という日銀発券局の話があるし、
+    　　　　　　　　　　　　　　　 ヽ　、 　 　　ｲ
+    　　　　　　　　　　　　　　　　ｨヽ-ー　≦ノ7　　　　　　記事にある日銀の対応は、念のためにゲーム場での100円玉の回収率や
+    　　　　　　　　　_, ､ -― ''"....:::::::::::::::::::::::::::ﾄ、
+    　　　　　　　　/.::::::::::::::::::::::::::::::::::::::::::::::::::::::::........--、　回転率などの実態調査を始めることになった、というものに過ぎないだろ。
+    　　　　　　　丿.:::::::::::::::i::::::::::::::::::::::::::::::::::::::::::::::::r::::: {
+    　　　　　　 r :::::::::::::::::::::|::::::::::::::::::::::::::::::::::::::::::::::::｀,::::i
+    　　　　　　/.:::::::::::::::::::::::!:::::::::::::::::::::::::::::::::::::::::::::::::::::',::i
+    　　　　　/.:::::::::::::::::::::::/:::::::::::::::::::::::::::::::::::::::::::::::::::::::::V
+
+
+
+    　　　　　　　＿＿＿__
+    　　　　 　 ／　　　 　 ＼
+    　　　　 ／　⌒　 　 ⌒　＼　　　　　それだけなんかお？
+    　　　／　 （ ●）　 （● ）　＼
+    　　　|　 　 　 （__人__）　　 　 |　　　 実態調査から100円玉の増産までは、ずいぶん距離がある感じだお。
+    　　　＼ 　 　 　 凵　　　　／
+    　 　 ／　　　　　　　　　　 ＼
+
+
+
+
+
+378 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:12:04 ID:QwamG2Ek0
+
+
+
+
+    .　　　　　　　　　　　 　　　　　 ＿＿
+    　　　　　　　　　　　　　　　 ／　　　 ＼,-、__
+    　　　　　　　　　　　　　　／_,ノ 　｀⌒　ヽ.,__　ヽ　　　　　　　　　この記事が載った1979年5月13日は、日曜日だった。
+    　　　　　　　　　　　　　　|　(● ) （● ） ,.! ┴-'、
+    　　　　　　　　　　　　　　|　 (___人___）　〉-‐‐´　l　　　　　　　　正直、ゴシップ色が強いと考えたほうがよさげだろ。
+    　　　　　　　　　　　　　　.|　　　　　　 u 〉--‐´　l
+    　　　　　　　　　　　　　　 |　　　　 　　　iヽｿ　 　l　　　　　　　　もっとも、インベーダーブームがまだ続いている時期で、
+    　　　　　　　　　　　　　　Λ　　　　　　∧｀;"　　 '、
+    　　　　　　　　　 　　 __,. ｨ仏 ___、___ ｨ_ノﾍヽ、 _,.‐ｰ、_　　　　　「このままブームが続けばあるいは……」という気になったのも、
+    　　　　　　　_,. -= '''　.:::::::}:::::::::::::::::::::::／::::::::>´..:::::::.. ヽ｀.､
+    　　　　　ノ´ ...::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::〈 :::::::::::::::...＼::ヽ　　仕方のない部分はあるがな。
+    　　　／ ...:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::', ::::::::::::::::::.. ヽ:}
+
+
+
+    　　　　　　　　　＿＿＿
+    　　 　　　／）／ノ '　ヽ､＼
+    　　 　 ／ .ｲ '（●） 　.（●）＼　　　　　7月からのグラフは、他の年と同じような感じに戻ってるお。
+    　 . 　/,'才.ﾐ).　 （__人__）　　　＼
+    　 . 　|　≧ｼ'　　 ´ ⌒｀　　　　　|
+    　　.　＼　ヽ 　　　　　　　　　 ／
+
+
+
+    　　　　　　　　　　　　 　 　 　 ／￣￣ ＼
+    　　　　　　　　 　 　 　 　 　 ⌒´ ヽ､,＿　 ＼　　　　　うむ。インベーダーブームが鎮静化したのと同期しているわけで、
+    　　　　　　　　　　　　　　　（●).（● )　　　 |
+    　　　　　　　　　　　　　 　 （__人___）　　 　 .|　　　　　4月前後の異常は、日銀の推測どおりインベーダーが原因だったと見ていいだろ。
+    　　　　　　　　　　　　　　　 '､｀ ⌒´ 　 　 　|
+    　　　　　　　　　　　　　-ｰー|　　　 　　　　ﾄ､______　　逆に言えば、増産する理由もあっさりなくなったわけだ。
+    　　　　　　　　　　　 / .::::::、::|　　　　　　 /:::ﾉ:::::::::.｀' ｰ-
+    　　　　　　　　　　　l :::::::::::::::::ヽ__､____,.　"／::::::::::::::::::::::::..　ヽ
+    　　　　　　　　　　 」 ::::::::l:::: ::::::「､:::::::::::::／ ::::::::::::::::::::::::::::::::.. '､
+    　　　　　　　　　　l ::::::::::ヽ:::::::::::::::::::::::::::::::::::::::::::::::::::/:::::::::::::::::. '､
+    　　　　　　　　　 / .::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::l::::::::::::::::::::::::|
+    　 　 　 　 　 　 / .::::::ｰ-ミﾊ::::::::::::::::::::::::::::::::::::::::::::::::| :::::::::::::::::::::|
+    　　　　　　 　 / .::::::::::::::::::::/ヽ::::::::::::::::::::::::::::::::::::::::::::| :::::::::::／ ||
+    　　　　　　　/ .::::::::::::::::::::/　　＼:::::::::::::::::::::::::::::::::::::::| :::::::::::::::: |:|
+    　　　　　　 / .:::::::::::::::::::/'　　　　 `‐-､::::::::::::::::::::::::::::| :::::::::::::::: |:|
+    　　　　　　/::::::-‐…‐､/　　　　　　　i　`ｰ-,:::::::::::::::::| :::::::::::::::: |::|
+    　　　　 　 l::::::::::::::::::::.. ＼　　　　　　 ヽ::::::::::::::::::::::::::| :::::::::::::::: |:::|
+
+
+
+
+
+379 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:12:35 ID:QwamG2Ek0
+
+
+
+
+    　　　　　　　　＿＿＿_
+    　　　　　　 ／　　　　　＼
+    　　　　　／　＼:::::::::::／　＼　　　　　「全国で三千万枚吸い込む？」ってのはどういう話なんだお。
+    　　　 ／　　（●）:::::（●）　　＼
+    　　　 |　 　　　（__人__）　u　　　|
+    　　　　＼　　.　|┬-r|　　　　／
+    　　　　 ／　　　｀ー´９ｍー　）
+    　　　　　　　　　　　　`ーー‐'ﾞ
+
+
+
+    　　　　　　　　　　　　　　　　／￣￣＼
+    　　　　　　　　　 　 　　　　_ノ　ヽ､_　　 ＼　　　　　　これは、日経側での試算のようだろ。
+    　　　　　　　　　　 　 　　（＝ ）（＝ ）　　｜
+    　　　　　　　　　　　　　　（__人__）　　U　 |　　　　　　どういう仮定かも一応書いてはあるが、妥当性にはちょっと疑問符がつく。
+    　　　　　　　　　　 　 　　 ｌ｀ ⌒´　　　　｜
+    .　　　　　　　　 　 　 　 　 {　　 　 U 　 ｜　　　　　　 記事でも言及がある、4月末に前月末から増えた100円硬貨の流通量66億円と、
+    　　　　　　　　　　 　 　 　 {　　　　　　 /
+    　　　　　　　　　　　_. -: ´∧ _,＿_　 _.へ｀　、　　　　前年同月の増加量29億円の差額をインベーダーの影響とみなして、
+    　　　　　　　 　 r＜....::::::::::ゞ::::::::::::r'　 　 ＼ :＼_
+    　　　　　　　　/.::::::ｌ:::::::::::::::::::::::::::::L>、　 　 >ﾍ::ヽ　 それとつじつまが合うような試算方法を出した感じだな。
+    　　　　　　　　| :::::::ﾄ､::::::::::「|:::::::::::::::::::`ｰ／:::::::::V::|
+    　　　　　 　　〈:::::::::::::::::::／へ、:::::::::::::::::∧::::::::::::::V ｝
+    　　　　　　　 /::::::_ン´「 ヽ｀ヽノ:::::::::::::::::::Λ::::::::::::::ヘ}
+
+
+
+    　　　　 　 　 ＿＿＿_
+    　　　　 　 ／　　　 　 ＼
+    　　　　 ／　　 _ノ　 ヽへ＼　　　　　じゃあ、100円玉の実際の製造数はどうだったんだお。
+    　 　 ／　　　（ ―）　（―） ヽ
+    　　 .l　 .u 　 ⌒（__人__）⌒　|
+    　 　 ＼　　　　　｀ ⌒r'.二ヽ<
+    　 　 ／　　　　 　 　ｉ＾Yﾞ r─ ゝ、
+    　　/　　　,　　　　　ヽ._Ｈﾞ ｆﾞﾆ、|
+    　　{　　　{　　 　 　 　 ＼｀7ｰ┘!
+
+
+
+    　　 　　　　　　　　　　　　／￣￣＼
+    　　　　　　　　　　　　　／　ノ　 ヽ、.＼　　　　　　　造幣局のホームページに、「年銘別貨幣製造枚数」というデータがあるだろ。
+    　　　　　　　　　　　　　|　（●）（●） 　|
+    　　　　　　　 　 　 　 　 |　 (__人__） 　 |　　　　　　　貨幣流通高に比べるとばらつきが大きすぎて傾向をつかむのが難しいが、
+    　　　　　　　　　＿＿＿|＿_｀⌒ ´　 　|
+    　　　　　　 , --'､　　 　 　 　 /　　　 丿　　　　　　　ひとつ言えることは、100円硬貨が1979年に作られた数よりも、
+    　 　 　 　 /　⌒ ）.　　　　　 /　　　 <
+    　　 　 　 ,′　　ﾉ　　　　　 /　 　/三三三三丑　　 翌年に作られた数のほうがよほど多いということだな。
+    　　 　 　 l　　T´ ..＿＿＿/　　 //　　　　　 r'´￣ヽ
+    　　　　 　ヽ ノ　　 .／丶　　 　// 　　　　　（ ￣　　l　　<a href="http://www.mint.go.jp/coin/data/nenmeibetsu.html" target="_blank" title="ttp://www.mint.go.jp/coin/data/nenmeibetsu.html">ttp://www.mint.go.jp/coin/data/nenmeibetsu.html</a>
+    　　　 　　 　 ｀'ー'´　　 |　　　//＿＿＿＿＿/　 _.ﾉ
+
+
+
+
+
+380 ： <span style="color:#009900"><strong>◆TinY.P4ZIM</strong></span>：2013/04/27(土) 20:14:26 ID:QwamG2Ek0
+
+
+
+
+    　　　　 　　　＿＿＿_
+    　　　　　　／　　 　 　＼
+    　　　　 ／　　　　 　 　　＼　　　　　うーん。1979年が3億8,200万枚で、1980年が5億8,800万枚かお。
+    　　　／ 　　　　　　　　　　＼
+    　　　|　 　　　＼　　 ,＿　　 |　　　　これだと、インベーダーゲームの影響があったと言うのは難しそうだお。
+    　　　/　　ｕ　 ∩ノ ⊃―）／
+    　　　(　 ＼　／ ＿ノ　|　 |
+    　　　.＼　“　　／＿＿|　 |
+    　　　　　＼ ／＿＿＿ ／
+
+
+
+    　　　　　　　　　　　　　　　　　＿＿
+    　　　　　　　　　　　　　　　 ／　 　_ﾉ＼
+    　　　　　　　　　　　　　　 /　　　　 （一）　　　　　日経の記事データベースで、1979年から1980年末までの間を
+    　　　　　　　　　　　 　 　 |　　　　　（__人）
+    　　　　　　　　　　　　　　 |　　　 　 　 　 ｌ　　　　 「百円玉」「百円硬貨」などで検索しても、この話の続報は見当たらなかっただろ。
+    　　　　　　　　.　　　 　 　 |　　　　　　 　|
+    　　　　　　　　.　　　　　　 ヽ　　　　　　ﾉ　　　　　もっとも、この時期のデータは見出しと一部記事の抄録しかないがな。
+    　　　　　　　　　　　　　　　 ヽ　　　 　/
+    　　　　　　　　　　　　　　　　/　　　　ヽ
+    　　　　　　　　　　　　　　　　|　　　　　|
+    　　　　　　　　　　　　　　 　 |. 　 　 　 |
+
+
+
+    　　　　 　　　＿＿＿_
+    　　　　　　／　　 　 　＼
+    　　　 　／　ヽ、　 　_ノ　＼　　　　　それでも、不足や臨時の増産があったとしたら、
+    　　　／ 　 （●） 　（●） 　 ＼
+    　　　|　 　 　 （__人__） 　　　　|　　　それなりの記事になってないのはおかしいお。
+    　　　＼　　 　 ｀ ⌒´　　 　 ／ヽ
+    　　　　/ 　　　　　　　　　　　　　＼
+    　　　 （　　ヽγ⌒) 　 　 　 　ヘ 　 ＼
+    ￣￣￣＼＿＿／￣￣￣￣￣￣￣￣￣￣￣
+    　　　　　　　　　　｛;;;;;;;｝
+    　　　　　　　　　　 L;;;;」
+
+
+
+    　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　／ _ノ　 .ヽ、＼　　　　　　そうだな。それで、「インベーダーゲームが原因で100円玉の流通量が
+    　　　　　　　　　　　　　　|　 （●）（●）　|
+    .　　　　　　　　　　　　　　|　　（__人__）　.|　　　　　 一時的に増えたことはあるが、100円玉が不足したことはなかったし、
+    　　　　　　　　　　　　　　 |　　 ｀ ⌒´ 　ﾉ
+    . 　 　 　 　 r─一'´￣`＜ヽ　　　　　　}　　　　　　 増産されたこともなかった」とみるのが妥当という結論になるわけだ。
+    .　　 　　 　 `ー‐ｧ　　 ,　 　 )　　　 　, -'~⌒ヽ、
+    　　　　　　　　 ノ　　　{. 　 ,ﾍ　　　　,l.　ゝ、_ .'ヽ).　今回は、これで終わりにするだろ。
+    .　　　　　 　 ／, ､　_　　　/. |　　 　.　',　　.　..　 .ヽ、
+    　　　　　　 （／ / // / /　...|　 　 　 ...|＼..＼＼ ＼_)
+    　 　 　 　　 　 / // / /　　　　　　 　 . .　＼_＼_)､_）
+    　　　　 　　 　 ｰ' {_/ノ　　　　　　　　　 　 　　."´
+
+
+
+    　　　　　 ／￣￣＼
+    　　　　／　　 _ノ　　ヽ　　 .＿＿＿_
+    　　　　|　　　（ ⌒）（⌒）／⌒　　⌒＼　　　　　　それじゃ、次回まで
+    .　　　　|　　　　 （__人__） .（●） （ ●）＼
+    　　　　 |　　　　　｀ ⌒ﾉ ⌒（__人__）⌒:::::＼　　　 もうしばらく待っててほしいお！
+    .　　　　 ヽ　　　　　 　} . 　　|r┬-|　　　 .　|
+    　　　　　 .ゝ＿,. 　　ノ＿＿__`ー'´＿＿_.／
+    　　　　-(＿＿_.)-(＿＿)＿__.)─(＿＿＿)─
+
+
+    　　　　　やる夫と学ぶホビーパソコンの歴史
+
+    　　　　　　　　　　　　　番外編
+
+    　　　　　「インベーダーで100円玉が不足した
+
+    　　　　　　　　　ってホントなの！？」　　　　　おわり
+
+
+
+
+    ※本稿の作成にあたっては、
+    「Unofficial 1978」（2008年、流線堂 <a href="http://ryusendo.rdy.jp/" target="_blank" title="http://ryusendo.rdy.jp/">http://ryusendo.rdy.jp/</a> ）を参考にさせていただきました。
+
+    .
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5575/clap" id="fc2button-clap-5575" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5575").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5575/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫と学ぶホビーパソコンの歴史　番外編その２　インベーダーで100円玉が不足したってホントなの！？" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5575.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6000.html">
+					やる夫と学ぶホビーパソコンの歴史　第十三話　闇の中の宝玉 (2013/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5968.html">
+					やる夫と学ぶホビーパソコンの歴史　第十二話　おもちゃ屋夏の陣 (2013/09/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5941.html">
+					やる夫と学ぶホビーパソコンの歴史　第十一話　迫り来る大破壊 (2013/09/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5910.html">
+					やる夫と学ぶホビーパソコンの歴史　第十話　世界で一番強いヤツ (2013/09/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5897.html">
+					やる夫と学ぶホビーパソコンの歴史　第九話　おもちゃ屋秋の陣 (2013/08/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5831.html">
+					やる夫と学ぶホビーパソコンの歴史　第八話　冒険へのいざない (2013/08/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5773.html">
+					やる夫と学ぶホビーパソコンの歴史　第七話　ライジング・ソン (2013/07/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5730.html">
+					やる夫と学ぶホビーパソコンの歴史　第六話　バウンドレス・エイト (2013/06/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5678.html">
+					やる夫と学ぶホビーパソコンの歴史　第五話　パソコン村にハルが来た (2013/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5619.html">
+					やる夫と学ぶホビーパソコンの歴史　第四話　西から昇ったお日さま (2013/05/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫と学ぶホビーパソコンの歴史　番外編その２　インベーダーで100円玉が不足したってホントなの！？ (2013/05/02)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5554.html">
+					やる夫と学ぶホビーパソコンの歴史　第三話　虹色の侵略者 (2013/04/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5507.html">
+					やる夫と学ぶホビーパソコンの歴史　第二話　ヤマトの国のパソコン (2013/04/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5480.html">
+					やる夫と学ぶホビーパソコンの歴史　番外編その1 (2013/03/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5460.html">
+					やる夫と学ぶホビーパソコンの歴史　第一話　すべてははじめのbitから (2013/03/23)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫と学ぶホビーパソコンの歴史　番外編その２　インベーダーで100円玉が不足したってホントなの！？" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/05/02 21:14 ]
+<a href="/blog-category-457.html" title="カテゴリを参照">ネット・PC系　やる夫と学ぶホビーパソコンの歴史</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html#comment_list" title="この記事のコメントを参照">CM(11)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5575"
+    dc:title="やる夫と学ぶホビーパソコンの歴史　番外編その２　インベーダーで100円玉が不足したってホントなの！？"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html"
+    dc:subject="ネット・PC系　やる夫と学ぶホビーパソコンの歴史"
+    dc:description="────────────────────────────────────────　　　　　　　　　　　　　　　 ／￣￣＼　　　　　　　　　　　　　　／　─　　─＼　　　　　やる夫と学ぶホビーパソコンの歴史　　　　　　　　　　　　　　| 　　（●）（●）|　　　　　　　　 ＿＿＿_. .|　　 （__人__）　|　　　　　　　　　　　　番外編　　　　　　　／　　 　 　＼　　　｀ ⌒´ 　ﾉ　　　　　 ／　　─　 　 ─＼　　　　　 　.}　　　　　「インベーダーで100円玉..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-05-02T21:14:54+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5574.html" title="やる夫はベイスターズファンだそうです　ベイスターズ試合感想　セリーグ球団分析　④　阪神回">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5576.html" title="やる夫達は第四次中東戦争を戦うようです　第二十八話　涙の谷・前編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment55633">[ 55633 ] <strong></strong></p>
+</div>
+<div class="comb">
+ゲーセンの１００円玉ってゲーム機から回収して
+また両替機に戻すから、あんまり増えもしないし
+減りもしないけど、人気量がダンチだからなぁ
+ 
+タイトーが売り上げの１００円玉を倉庫にしまったという
+話が本当なら減っていく一方だと思うが<div class="comment_navi">
+[ 2013/05/02 23:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55648">[ 55648 ] <strong></strong></p>
+</div>
+<div class="comb">
+えっ？
+100円玉が足りない店が続出したって話じゃなかったんだ…<div class="comment_navi">
+[ 2013/05/03 02:24 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55659">[ 55659 ] <strong></strong></p>
+</div>
+<div class="comb">
+うちの周辺では、テレビゲームは１プレイ５０円が相場だった気がする<div class="comment_navi">
+[ 2013/05/03 08:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55686">[ 55686 ] <strong></strong></p>
+</div>
+<div class="comb">
+うちは町の中心部や駄菓子屋にいけば
+古いゲームなら１０円２０円（極まれに回数制限付でただ）
+でできたぜ！<div class="comment_navi">
+[ 2013/05/03 23:51 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55705">[ 55705 ] <strong></strong></p>
+</div>
+<div class="comb">
+むしろ、回収した大量の１００円硬貨を運ぶ時に、あまりにも重いのでトラックの荷台に積めない。そこで、エレベーターを取り付けるようになった。それが荷台のエレベーターの始まり、っていう話のが有名？<div class="comment_navi">
+[ 2013/05/04 18:03 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しの鬼神</a>') } else {
+document.write("名無しの鬼神"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しの鬼神</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55706">[ 55706 ] <strong></strong></p>
+</div>
+<div class="comb">
+*55705
+それも都市伝説なんだけどね<div class="comment_navi">
+[ 2013/05/04 19:20 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん＠ニュース2ch</a>') } else {
+document.write("名無しさん＠ニュース2ch"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん＠ニュース2ch</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55732">[ 55732 ] <strong></strong></p>
+</div>
+<div class="comb">
+※55705
+俺が聞いた噂は硬貨を積み込むためにユニック車（小型クレーン付きトラック）が普及した、という内容だったな<div class="comment_navi">
+[ 2013/05/06 10:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55735">[ 55735 ] <strong></strong></p>
+</div>
+<div class="comb">
+大量の現金を荷台オープンなトラックで運ぶわきゃねーだろ<div class="comment_navi">
+[ 2013/05/06 20:52 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55834">[ 55834 ] <strong></strong></p>
+</div>
+<div class="comb">
+>55735
+硬貨積んだトラックの尻追っかけて、カーブで落っことした硬貨拾う小学生がイメージされたわｗ<div class="comment_navi">
+[ 2013/05/08 14:13 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment55836">[ 55836 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞翌年に作られた数のほうがよほど多い
+だがちょっと待ってほしい
+インベーダーブームで硬貨が不足したことから、大蔵省で増産をかけたが、実際にはブームが数ヶ月で終わった、しかしお役所のことで増産計画にストップは掛けられなかったということはないであろうか？<div class="comment_navi">
+[ 2013/05/08 14:15 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment61092">[ 61092 ] <strong></strong></p>
+</div>
+<div class="comb">
+増産に１年掛かる物なのかな？
+詳しくないから聞きたいんだが、必要になって作り始めて１年かかるのが平均なん？<div class="comment_navi">
+[ 2013/08/14 07:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5575" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5575.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5575"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5575-feaf68f2">http://oyoguyaruo.blog72.fc2.com/tb.php/5575-feaf68f2</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5574.html" title="やる夫はベイスターズファンだそうです　ベイスターズ試合感想　セリーグ球団分析　④　阪神回">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5576.html" title="やる夫達は第四次中東戦争を戦うようです　第二十八話　涙の谷・前編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

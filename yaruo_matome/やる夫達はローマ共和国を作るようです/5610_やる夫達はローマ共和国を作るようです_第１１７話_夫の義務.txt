@@ -1,0 +1,815 @@
+<div class="article">
+
+
+
+
+
+原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+紀元前203年、カルタゴ
+
+　　　　　　　　　　　　　　　　＿＿＿
+　　　　　　　　　　　　　　／　　　　　＼＿＿
+　　　　　　　　　　　　／　　　　　　　　　　　 ⊃　　　　　　　　　　　　　　／●ｸﾙﾍﾟｱ岬
+　　　　　 _＿＿＿／　　　　　　　　　　　　●ｳﾃｨｶ　　　　　　　　　　／　　　＼
+―^＼_／　　　　　　　　　　　　　　　　　　　　＼＿●ｶﾙﾀｺﾞ　　　／　　　　　　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　●ﾁｭﾆｽ＼＿／　　　　　　　／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
+←ヌミディア 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
+　　　　　　　　　　　　　　　　　●ｻﾞﾏ 　　　　　　　　　　　　　　　　　　　＼
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　●ﾊﾄﾞｩﾙﾒﾄｩﾑ
+
+
+
+
+やる夫達はローマ共和国を作るようです
+第１１７話　「夫の義務」 
+
+
+
+
+
+
+
+
+797 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:40:02 ID:sEqUIW1E
+
+
+
+
+
+    　シファチェを捕虜にした後も、マシニッサ、レリウスの二人は、
+    前進を続けた。
+
+
+
+    　　　　　　　, r- ､　 , r- 、　　＿_
+    　　　　　∠＿＿　ヽﾋ'＞”´￣　　￣｀" ::､
+    　　　　　_.r"´￣／　　　　　　　　　 -::､　 ヽ　　　 ＿
+    _,　r　"´　／　 |／/　.,　　　､ ､　へ,　.:i　　 ゝ／´　　｀
+    　￣｀"　７　,　:/　:i　 |i　A　 i　i .　ﾊ 　 | 三iト｀ヾ､
+    　　　　, イ /　 :| 　|＿| i |　|:　|　| l:i .|　　|彡|i:;:;:;:;:;｀:; ､
+    　　 ∠ﾑ|,ri　 , |　丁|_!|｀!|　ｒ十十!ト､|　 :|彡|:|:;:;:;:;:;:;:;:;:
+    　　　　　!　| ,i| ヽ :|"鬥i'　　 'T于ミr､|　 :|彡|:;:;＼:;:;:;:;:;
+    　　　　　　 ;ﾘ | i|.＼,込l　　　 ｂ::心 >|　 |´｀ik:;:;:;:;:;｀i ､:;
+    　　 　 　 /;ﾑ-|ﾘ|　 |｀ 　、 　 ┴--! |　 :|　/　｀i､:;:;:{　 ｀
+    　　　　　´/　//|　 :i､　　_　　 　 彡| 　 K´　　 | ＼|　　私は、もう迷わない……！
+    　　　　　/　// :| 　 |,ゝ　 ￣　 ,／:i　　:|う｀i　　:|　:i　　失った過去を、取り戻してみせる！
+    　　　 :／　:/　 |　　|,／｀ -. イ:＜:| 　 :|　　:i,　　|　:i
+    　　／　　/, r ┤　 |i　　＞´,|｀""|　　 |　　　}　　|　.i
+    　/　　　/:i'　　!　　i | ／::::/::辺i i|　　 |i　　 /｀ヽ､|　.i
+    　　　　/ :{ ／　,r'" |/:::::/::.//／:|　　 |:i　 /　　　 ｀ヽi
+    　　　/　/´　r ' "´/ﾟ!こつ。ｲ__ 　|　　 :!ﾍ/
+    　　/　 {　 ,ｲ　　／メ|／´;:::ｷ　￣ゝ　　 ＼
+    　/　 :i´ゝ!/　／i´::::::|'"´::＼|　　　|＼ 　　:}
+    　　　:|　/ ／｀ヽ;i::::::::|:::::::; r::|　　 |　 :）　:ﾉ
+    　　　| ://::::::::::::::::';::::::|r'"-ー:|　　|　i',r"´
+    　　　| i/ゝ,::::::::::::::::::＼|::::::::::::::::|　 |　 ﾘ
+
+    　　　　　　＊マシニッサ（ＡＡ/フェイト）
+
+
+
+
+
+798 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:40:35 ID:sEqUIW1E
+
+
+
+
+
+    　シファチェを捕獲した効果は非常に大きかった。
+    　捕虜となった彼を見て、首都も戦わずして開かれた。
+
+
+
+    　　　　　 ＿＿＿__
+    　　　　／ ノ 　 ヽ､_＼
+    　　 ／（ ○）}liil{（○ ）＼
+    　／　　　 （__人__） 　　　＼
+    　|　　　ヽ　|!!il|!|!l|　/ 　　　|　　いやーん……
+    　＼　　　　|ｪｪｪｪ|　　　　／
+    　　{三三三三三三三三}
+    　　{三三三三三三三三}
+    　　{三三三三三三三三}
+    　　ｌ⌒ヾ三三三三三三,″
+    　　|　 r　` (;;;U;;)　 　）__）
+    　（＿ノ　￣　 ／　／
+    　　　　　　　　（ ＿）
+
+    ＊元ヌミディア王、シファチェ
+
+
+
+
+
+799 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:41:06 ID:sEqUIW1E
+
+
+
+
+
+    　そこに、ソフォニズバがいた。
+
+
+
+    　　　　　　　　　　　　　　　 ＿
+    　　　　　　　　　　　　 　 '⌒＼｀丶、　-―――-　_
+    　　　　　　　　　　　　　　　／｀＼.:.:〉､/＼/＼ ヘ: : ｀丶､
+    　　　　　　　　　＿＿＿／.:.-‐.:/7'.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:`'＾＼　ヽ
+    　　　　　 　 　 ＼.:.:.:.:.:.:.:／.:.:.:./.:.:./:/.:.:.ﾑ厶.:.}.:.:.:}.:.:.:.:. l├'─‐- 、
+    　　　　 　 　 　 　 ￣　/.:/.:.:.:,'.:.:.: |.:|.:.! | 0　|:ハ.:.l .:|.:.:.:j.:|.:.:.:.:.:.:.:.ﾐﾞヽ
+    　　　　　　　　　　　　/.:/ .:.:.:.| ｌ .:_| j斗ｲ　　|ﾄｰ| ﾊ_j_.: ﾘ |.:.:.:.:.:.:彡ア
+    　　　　　　　　　　　く|.:.l .: /|.:| ｌ.:.:.jｨf乞ﾄ　　ﾘ'仡外,|.:./ .:l＿_／／
+    　　　　　　　　　　　　Ⅵ.: ﾑ|.:ﾚﾍ:.i{ V沙　　　 V沙' |/.:.:.んWイ
+    　　　　　　　　　　　　　 ＼{从.:.:{.:.ﾄ:::::　　,　　　:::::　}}.:.:/イ~.:.:|
+    　　　　　　　　　　　　 　 　 　 ヽ.:.:ゝ　　　tっ　　　〃.:/ : | .:.:.:l　　……マシニッサ……
+    　　　　　　　　　 　 　 　 　 　 /.:＼ V＞ ､ __, 　イV.:/:.:.:.:.:.:.:.:.:.
+    　　　　　　　　　　　　　　　　/.:./:.:.ヾＶ.:./_|　　　/xく.:.:.:.:.:.ヽ.:.:.:.丶
+    　　　　　　　　　 　 　 　 　 /.:.:.:／.:_斗イ　　　 〃　 ｀ﾄ-､.:xヘ .:.:.:＼
+    　　　　　　　　　　　　　　 /:,'／.:／　 `┴―---- ―┴‐'´　　 ＼.:.:.:＼
+    　　　　　　 　 　 　 　 　 /:/.:.:../　　　　　　　　　　　　　　　　　　 ヽ.:.:.:.:＼
+    　　　　　　　　　　　　　/:/:.:..:/　　　}　 ＿＿＿＿　　　　∨'　　 　人.:＼.:.＼
+    　　　　　　 　 　 　 　 /:/.:.:.:/　 　 Ｖ　 |＼＼／／|　　　　|　 　　ｲ　/.:.:. ＼.:.＼
+    .　　　　　 　 　 　 　 /:/.:.:.:.: ＼　　{　　|／／＼＼|　　　　}　 ／　∨.:.:.:.:.:.:.:.＼.:.ヽ
+    　　　　　　　　　 　 /:/.:.:.:.／:/ ＼ﾑ　　￣￣￣￣　　　　 ﾚﾍ　　　 V.:.:.:.:.:.:.:.:.:.:.:.:.ﾊ
+    　 　 　 　 　 　 　 /:/.:.:.:./.:.:/　　 ハ　　　　　　　　　 　 　 /ハ　 　 {＼.::.:.:.:.:.:.:.:.:.:.:}
+
+    　　　　　　　　　　　　　　　　　　＊ソフォニズバ（AA/アルフ）
+
+
+
+    　マシニッサにとっては、かつての許婚である。
+
+
+
+
+
+800 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:41:38 ID:sEqUIW1E
+
+
+
+
+
+    　　　　　 ／　　 　 |　　 ｀`　　　,. -‐　　　　　 ´　　　│,ヾｰ-..､＼　　＼ヽ
+    　　　　／　　　　　|　／　　　 　ヽ　 　 　 ､ 　､　　　　 |彡,!ヽ ::::::::::ヽ 　 ヾ
+    　　 ／　 ／　,　　 |/,　/　 /　/ ヽ　 i　 　 l　　}　　i　　| 〃|:::＼:::::::::::＼ |
+    -=ﾆ-‐''/ 　 /　 ,. //　i　　i　│ ハ　| 　　|l　　|　i　|　　|/ /ﾄ､:::::＼::::::::::ヽ
+    　　　 /　　/　 /　i {　 l　　|　 |│　! |l　 　|l 　 |l││　│/ }:::ヽ:::::::l::::::::::::ヽ
+    　 　 /　　/　　|　{ i　　l　 ll　/'{i　　| | i　_l,.|-‐ｻﾅ　| 　 |/ .ハ::::::::::::|::::::::::::::ヽ
+    　　 i 　 ,ｲ　　 ! │|l 　 ヽ l,二=.､　 | i 才ィ ￣｡oヽ. | 　 k.､ﾊ ::::::::::::::ﾄ､::::::::::::ヽ
+    　　 |　/::{　　 ﾊ　l | ',　 ',ヾic._ﾟ |　│l　 　tﾍ._,.ｸﾉｲ | 　 ﾄ l　ヽ:::::::::::::|　＼:::::::::l
+    　　 | ,'l::/| 　 |:|'､ ヽl i、 ヽ､込ｸ 　 ﾚ'　　`ー‐一' | | 　 ﾚﾉ　　ﾄ､::::::::::l │ ＼::::l　　私は、あなたに会いたかった。
+    　　 l l.l/　i　 |::l ヽ |　|＼ ヽ　　　　　　　　　　　 /| | 　 l'ﾞ　　　|',ヽ:::::::|　|　 | ＼|　あなたをずっと、愛していたんだ。
+    　 　 l　　 lヽ l::l ハ.|│　 ｀ｰ-　 　 `＿＿ 　 　 /'ﾞi | 　 |　　 　 | l l ＼:| │　|　　　私と結婚してほしい。
+    　　　　　 |:::ﾊl l/ /| |　　 l、 ＼　　 `ー‐′　　 ,.ｲ.| 　 F＝==ｰ ､l l 　ヽ　|　 |
+    　　　　　 ﾚ'　i｀ ./ | l　　,i l　 |i,l丶､　 　 　 ,..:'ﾞ::::| | 　 |===､、 　 l |　　 　 |　|
+    　 　 　 　 　 l/ / ,i l　　 ﾄ､l ,i │　r-ﾆ=ﾆ´-‐ '"| |　│　　 |:|　 　| |　　 　 l　!
+    　　 　 　 　 / ./ /|l　　 |l::| '| 　 　 |"''i.|.i''""~~´| |　 l:|　　　|:|　　 | |　　 　 l│
+    　　　　　　/　/ / |　　 | l::l　 　 ／l--山-┐　 | |　 |:::|　 　 |:|　　 | |　　　　l,|
+
+
+
+    　マシニッサは、迷わなかった。
+
+
+
+
+
+801 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:42:23 ID:sEqUIW1E
+
+
+
+
+
+    　こうして、二人は結婚式を挙げた。
+
+
+
+    　　　　　　　　　　,.r'´ィ王ミヽ,　　　　　　　　　　　　　ﾚ　|
+    　　　　　　Iiヽ､ ,r'"X´>┼<｀Xﾞヽ,　 ,.:'ﾞiI　　　　　　　　　ﾉ　　ヽ
+    　　　　　　||k､ヽ'､_土r`⌒"､土_,.ﾞ,.:' ,:'i||　　　　　　　　　　　　＿ﾉ
+    　　*　ﾟo.　||iﾞ.jk､|￣￣￣￣￣￣| ,:'li !||　+　oﾟ
+    　ﾟ.o　゜　　||L.li_j|　　　　　　　　　|!_,ji..l||　　　　　　　　　　　　ｰ―t77
+    　　*　｡゜　||i´il^il　　　　　　　　　|i＾li｀i||　ﾟ　o　*　｡　　　　　　＿_」
+    　+　｡　o　||l_,jl..!i　　　　　　　　　|!..jl_,l||　。*ﾟ　｡　　　　　　　　　　　　￣Z＿
+    　　゜　ﾟ　　||i"ll´i|　　　　　　　　　|i｀llﾞ'i||　　　　　゜　ﾟ　*　ﾟo.
+    　( *ﾟﾏ)つ　　　　　　　　　_____　　　　と(▽ﾟ　)　+　｡　o　　　　　　　　　　　ゝ
+    (　´∀)　oﾟ゜　　　（(ﾟÅﾟ)）((((ｰ※;　　　　〉Y　>>　*　｡゜　　　　　　　　　　　＿ノ
+    /　つつﾟ　.ﾆﾆiﾆﾆ<_;ｧY j(ﾟｰﾟ*jjj｀ヽ,ﾆﾆi_<ｨﾍヽ(∇ﾟ*)
+    　( *^ｰ)v ￣l|￣￣L　ﾉ〈っ%c 〉,ﾊ,）￣￣|l￣∩∩ﾉ
+    　,〉`ﾆｧﾉ.￣l|￣￣　! '～/ ﾞ;　ん～'　￣￣|l￣7　(ｰﾟ *)
+    （　´A) ￣l|￣￣￣'ｰ(ﾆ〈ﾟ ｡ ｡ ﾟ〉￣￣￣￣|l￣とと_ﾊ
+    〈　つつ｀l|￣￣￣￣￣　`ｰ-‐'´￣￣￣￣￣|l￣j　　ヾ,
+    　〉 〉〉~l|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|lヾｰ-'´
+
+
+
+    　マシニッサは、もはや王国を持たない王子ではなくなった。
+    　彼こそは、ヌミディア王なのだ！
+
+
+
+
+
+802 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:42:50 ID:sEqUIW1E
+
+
+
+
+
+    　　　　　　　　　　　　　　　.　-‐'^￣￣￣¨ 　_
+    　　　　　　　　　　　　　／::::::::...　　　:::::::::::::::::::｀丶、
+    　　　　　　　　　　 r―'::::::::::::::::::::..... .　　 :::::::::::::　 ..＼
+    　　　　　　　　　　/:::::::::::::::::::::::::::::::::::::::::.....　 　 　....::::::ヽ
+    　　　　 　 　 　 ./::::/::::::::/:::::／:::::::::::ﾉ:::::::::::::::::::::::::::::::::::',
+    　　 　 　 　 　 /:::::/:::::::厶∠..,_／／/:::::::::::ﾉ }::::::::::::::::::::::,
+    　　　　　　 　 l::::::i::::i:::::／　 ／`　 /:::::::／ |八:::::::::::::::::::::|
+    　 　 　 　 　 　!::/::::::::/　　　　 　 /::::／ ｀メ、|:::::::::::::::::::│
+    　 　 　 　 　 　l::|::::::i {　≠=ﾐ　　/／　 ／　　'|〓/:::::::::::::!
+    　　　　　　　　 ｌ:|::::::iﾊ　:::::: 　 　 　 　 .._　 　 |::;/V ∠:/;'
+    　　　　　 　 　 l从::::::{:　 　 　 .　　 　 ⌒ヾ　／> , -／;.'
+    　　　　　　　〈´こ）V人　　　、　　　　:::::: ／ｒ-＜::::::; '　　おめでとう！
+    　　　 　 　 　 ヽ　￣￣＼ 　　￣　　　＿厶-　〉〉从　　うらやましいわー
+    　　　　　　　, '　`ー -____}＼＿　 .. ／　　　 //
+    　　　　　　 /　　　f ! ! !人 i i i i i i:{＿＿_,. ´ ｀ﾐ､
+    　　　　　　 {　}}　 ｆ￣￣￣} ￣ ￣ } ! ! ! ! } 　 　 i
+    　 　 　　　∧{{　　} 　　　　} ))　 ))f￣￣￣ヽ　 i i
+    　　　 　 ::ﾊ　ii　 ﾘ　　　　 ﾘ((　 (( {,　　 　 　ﾊ　! i
+    　　　　　 ',　{{ 　ﾉ〉　　　　ﾉ)) 　 ))「　 　 　 　 } l l
+
+    　　　　　　　　＊レリウス（AA/八神はやて）
+
+
+
+
+
+803 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:43:18 ID:sEqUIW1E
+
+
+
+
+
+    　　　　 /　　/　　　|　|　|　| |_|＿_|_　　l　　 ,仆.!　!　!_j_｣　|　| |｀' 　　 i　　|
+    　　　　/　　/　　|　|　|　j,ｨ「.i | ___j_｀ハl　　 ヽ| 　,ｨf手芋ミiヽ| | 　　　 i　　|
+    　　　　i 　 ,ｲ　　! │ヽj'´|　ｨf手芋ミヽ 　　　　　 ゝﾍ!:f::::::寸,ム!　　　 i　　|
+    　　　　|　/ {　　ﾊ　l　 ,ﾊ /∧　f:...:｀Y＾　　　　　　　　|弋:::::ﾉ:::!ﾚ| 　　　i　　|
+    　　　　| ,l ./| 　 | |､　〈　,仏、V弋::ﾉ ! 　　　　　　　　.i::(ﾉ“.:::/　|　　　　i 　 |
+    　　　　l l.l/　i　 | l　ヽ ヽ ハ　 V(ﾉ“ .!　　 　 　　　　 に二¨つ |　　　　i　　 |
+    　　　　l　　　lヽ l l ハ　 　刈　と二つ｀ 　　　 , 　 　　 /l/ﾊij /　　　　 i　　 |
+    .　　　　　　　|　ﾊl l/　　　　圦ﾟo/l/ﾊ　　　　　 ＿,　　　　　|| ,ｲ´|　 　　i　　 |　ありがとう！
+    　　　　　　　 ﾚ'　｀ 　　　　 | 丶 　　　　　　ﾏ´ 　 |　 　　　.i! ﾉ　|　　　　i　　 |　私は今、最高に幸せだよ！
+    　　　　　　　 | |　.|　　　 　 |　　ゝ、　　　　　ヽ__ノ 　 　　　／|i / 　 　　.i　　 |
+    　　　　　　　 | |　.|　　 　　 |　　 i　｀ ，_　　　　 　 　 　 ／　 |i/　　　 　 | 　　i
+    　　　　　　　 | |　.|　　 　 　| 　　i　　|　|｀ヽ.　　　　　／　 ｡　|/,ィ　　　　| 　　 i
+    　　　　　　　 | ﾄ　| 　 　　　| 　　i　　|　|　.|　｀ ー "　 　 　　ｲi　|　　　　,'　　　i
+
+
+
+
+
+804 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:43:52 ID:sEqUIW1E
+
+
+
+
+
+    　そしてマシニッサは、スキピオのもとへと帰ってきた。
+
+
+
+    　　　　　　　　/／　／::／: : : : : : : : : : : : : : : :､: : : : ＼/―-､: : : : ヽ
+    　　　　　　　 //　 /:,／::／ ,: : : : : : : : : : : : : : ::ヽ:--==ｌ: : : : :ヽ: : : :
+    　　 　 　 　 /ｲ　,///: ://:://::i: |: :i: : i::ヽ: :､:＼: : ヽ; ／|: : : : : : :ヽ: :
+    　　　　　　　　　///: :// / :l: :|: h: ｌ､::ﾄ､: :ヽヽ :|:: : ::|::／l: : :i: : : : : ヽ:
+    　　　　　 　 　 // ,': /:{: i:|: :ﾊ_l;;ハヽヽヾ＼::ヽ::j:: : ::|: ／l:: ::|: : : : : : :',
+    　　　　　 　 　 V　|: li ::Vi:l: lィヘ　 V /i￣｀iヽlj:j: : //::/::j: :::|. : : : : : : ',
+    　　　　 　 　 　 　 l: |l ::iヽヽ{ {:::::l 　 　 l､_:::j /jリノへヽ:/l: : :l:. : : : : : : :
+    　　　　　　　　　　 ',:|ヽ::|::lヽl弋ﾝ　　　 `ー'　/ｲ: ::|ノ//　|: :::l:.: : : : : : :　……おかえりなさい。
+    　　　　　　　　　　　ｌ| ヽ|ヽゝl　　､　　　　　　　ｊ: :::jノ/　 .l: : :l::: : : : : : :　王国再建、おめでとう。
+    　　　　　　　　 　 　 　 　 ヽl:ヽ　　- ‐　 　 　 /j::/／　　 !: : :l::: : : : : : :　……ちょっと、おはなしがあるんだけど、
+    　　　　　　　　　　　　　　　 |: :liヽ、 　　　　 イ//‐l､ 　 　|::::::::l::::. : : : :　いいかな？
+    　　　　　　　　　　　　　　　 l: :ﾘ　 ｀ ー‐r '´-//　/ Ｔ ､　|::::::: |:::::..: : : :
+    　＿＿＿＿＿＿＿＿＿＿Ｖ　　 　 ,ｲ「冂　'"　/　 |:::::｀ー-､:l:::::::::: : :
+    　Ｖ三三三三三三三三三ＶＡ＿／/.| ,ハ　　,/　　 ﾄ､:::::::::::::::｀ー--
+    　 V　　　　　　　　　　　　　 VA::::::/　|/∧ヽ /　　　j　ヽ:::::::::::::::::／
+    　　V　　　　　　　　　　　　　 VA::/ 　|Ｖ　Ｖ/　　 ／　 　 ＼::::／
+    　　 V　　　　　　　　　　　　　 VAl　　l⌒ヽ/　 ／　 　 i　　/Y　　 ＿_
+    　　　V　　　　　　　　　　　　　 VA,　 l 　 / ／　　　　 |　,/ /　 ／ｒ⌒
+
+    　　　　　　　　　　＊スキピオ（AA/高町なのは）
+
+
+
+
+
+805 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:44:30 ID:sEqUIW1E
+
+
+
+
+
+    　　　　　　 _, -￣ ヽ=.､, ￣'´￣｀ ヽ
+    　　　　　｀ ｰｰ-ｧ‐ ／ 　　　.　　　　 ヽ
+    　　　　　　　　/　/ |　// |∧ / ﾘ/ﾘ.　 ヽ
+    　　　　　　　/　l !{ ﾚ┼l‐l 　 l┼|　|、|　 |
+    　　　　　　　＼!ヽ| | ●　　　● |　|ﾉ.|　 |
+    　　　　　　　 　 ヽ| l⊃ ､_,､_,　⊂⊃　|　│　……何？
+    　　　　　　　　　　| ﾍ　　　　　 　|　| .|　 |　大事なことなの？
+    　　　　　　　　　　|　/⌒l,､ __,　.イァト|/ |
+    .　　　　　　　　　 | /ミﾐ/ヾ∧"::::／　 ヽ |
+    　　　　　　　　　 | |::::::::l::::〈∧〉/ ヒ::::彡, |
+
+
+
+    　　　　　　　　 ＿__
+    　　　　 　　　´二ゝ､＼　 ...-‐:::--..,　　 ,. -‐-､
+    　　　　　　 ／::::::::＿｀ヽ´::::::::::::::::::::｀:>/:::::::::::::::ヽ
+    　　　　　　/:::::／::::::::::::::::!::::/:::::::::::::::::{l{::::::::::::::::::::l
+    　　　　　　V/::/::::／:::__/|::∧:::/ﾍ::::::::ヾ:::::::::::::::::::|
+    　　　　　　　{::{::::{{:::::/ノ ｉ/　∨ヽ |:!:!::::}ﾍ::::::::::::::::|
+    　　　　　　　ﾚ'Vｌｌ:V　●　　　● 从ﾉｲ　 ＼::::::::::|
+    　　　　　　　　　　|: ﾍ⊃､_,､_,⊂⊃ﾘl::i　　　|:::::::::|　……うん。
+    　　　　　　　　　　/⌒ゝ.. _ _ ...,.ィi/ l:/　　　|::::::::|
+    　　　　　　　　　 /　 ./ ヽ只/∠イ　ヽ　　　|:::::::l
+    　　　　　　　　　 |　　l::| ﾍ /|├::j:::彡,|　　　|:::::::|
+
+
+
+
+
+806 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:45:13 ID:sEqUIW1E
+
+
+
+
+
+    　　　 　 　 　 　 　　　　＿＿＿＿＿　　　　　　　　 ,-------､
+    　　　 ＿　　　　　　, イ:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:≧ｭ､　　　　〃:.:.:.:.:.:.:.:.:.:.i
+    ﾆﾆ＿:.:.:.:.:.＼　 ／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ　/:.:.:.:.:.:.:.:.:.:.:.:.:.|
+    　　　　 ニ= ､:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:r.i:.:.:.:.:.:.:.:.:.:.:.:.: : |
+    　　 ／:.:.:.＿:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:∧__| |:.:.:.:.:.:.:.:.:.:.:.:.:.: |
+    　／:.:／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.∧', l:.:.:.:.:.:.:.:.:.:.:.:.:.:.:|
+    /:.／/:.:.::/:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:./:.:.:.:.:|:.:|:.:.:.:.:.:､:.:.:.:.∧:|:.:.:.:.:.:.:.:.:.:.:.:.:.: |
+    /　/:.:.:.:/:.:.:.:l:.:.:.:.:.:.:.:.l:.:. l:.:i:.:.:.:.:.:l:.:l:.:.:.:.',:.:.',:.:.:.:.:.',|:.:.:.:.:.:.:.:.:.:.:.:.:.: |
+    　 ′:.:/:.:./:.:l:.:.:.:.:l:.:. |:.:.:|:.:ll:.:l:.:.:.:l:. l:.:.:.:.i:.:.:i:.:.:.:.:.ｉ|:.:.:.:.:.:.:.:.:.:.:.:.:.: |
+    　.:.:.:.:.i:.:.:.i:.:.:.l:.:.:.:.:l:.:.:l:.:.:l:.:.lヽ廴__＼ヽ:.:.ヽ__l:.:.:.:.:l|__:.:.:.:.:.:.:.:.:.:.:.: |
+    　!:.:.:./l:.:.:!:.:.:.!:.⊥┼┼ 丁|　ヽヽ 二二二} |:.:.:.:.ｲ　}:.:.:.:.:.:.:.:.:.:.:.:.|　シファチェは、一旦私に与えた約束を反故にして、
+    　l:.:./ l:.:.:l:.:.:.:ヽ:.:.,イ芋示ヾ､　 　/ 仍　示 》:.:.:/| 　!:.:.:.:.:.:.:.:.:.: : |　カルタゴ側についた罪で、
+    　l:./　l:.:.:l:.:.:.:l:.:.ヽ と辷シ　　　　　 ゞ==つ/:.〃 |／:.:.:.:.:.:.:.:.:.:. : |　ローマに護送しなければならない。
+    　l/　　l:.:ﾄ:.:.:.lヽl∧＼　　　　　　　　　　　/／:.:.! |:.:.:.:.:.:.:.:.:.:.:.:.:.:.|　王がローマのものになったということは、
+    　′ 　 !:.iヽ:.:l ヽ:∧　　 　 ヽ　　　　　　　 ,ｲ:.:./ .!:.:.:.:.:.:.:.:.:.:.:.:.:. |　王の持ち物全てがローマのものになったということ。
+    　　　　 ヽ{ ヽ:l　l:.:.:.:ト　　　　―‐　 　 　 ,ｲ/:.:/　|:.:.:.:.:.:.:.:.:.:.:.:.:.:.|
+    　　　　　　 　 ＼ﾏ:.ヽ　ヽ　　　　　　　 　 ｌ/:.:/ 　|:.:.:.:.:.:.:.:.:.:.:.:.:.:.|　……私には、ソフォニズバだけを例外にすることは
+    　　　　　　　　　　ﾏ:.:',　 /{≧　　≦　　//:.:/≧ｭ 、:.:.:.:.:.:.:.:.:.:. : |　できない。
+    　　　　　　　　　x≦ﾏ＼/　＼　　　 ／　〃 |:::::::::::::::::::≧ｭ:::、:. |　彼女も、ローマに護送しなければならない。
+    　　 ,､r..:::::´:::::::::::::::::::ヾ、　　 /､/､　　　/　/:::::::::::::::::::::::::::::::::::::::＼
+    　 /::|::::::::::::::::::::::::::::::::::::| 　 /r≠_ ＼　　 /::::::::::::::::::::::::::::::::::::::::::::/::}
+    . /:::::|::::::::::::::::::::::::::::::::::::|　/　|　/　　ヽ /::::::::::::::::::::::::::::::::::::::::::::/::::::i
+
+
+
+
+
+807 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:45:45 ID:sEqUIW1E
+
+
+
+
+
+    　　　　　　　　　　　　　丶、　 ――　＿_
+    　　　　　　￣二ﾆ=.､,　　　´　　　　　　　｀丶、
+    　　　　　　／　　　　　　　　　　　　　　　　　 ー-､
+    　 　 　 ／　　／　　　　　　　　　　　　　　　　　　ヽ
+    　 　 ／　 ／　,　　　　　　　　　　　　　　＼　　　　|
+    -=ﾆ-‐''/ 　　//　/　　　ヘ 　　 　}　　　　　＼　　 l
+    　　　 /　　 / .i .│　l ./　　|　　　|　i　ｌ　ヽ　　ヾ　 |
+    　　　 i 　 ,ｲ　.|　.|　│l　　 l .ｌ 　 |l│ｌ |　j　j　　Y　|
+    　　　 |　/　{　|..!-l/‐ﾚ、　　l/ ﾘ_l,.|-‐ｻﾅ| 　 l　ﾘ　 |
+    　　　 | ,'　 |　 |ゝ┬┴､　　　-=T ⌒￢ |　　|　|　　|
+    　　　 l l　 .i　 | ﾍ !　　|　　　　　ｌ　　　j |　　|　ｌ　　|
+    　　　　l　 .l　 lｌ 　ゝ .ノ 　　　　　ゝ _,ノ .|　　|　|　　|
+    　　　　　　|　ﾊﾄ､　　　　　　　　　　　　/|　　|　!　　|　……
+    　　　　　　ﾚ'　|　`ト . _ 　⊂⊃　　 _ '　:|　　|　|　　|
+    　　　　　　　　|　│ 　i ｀ ┬ ‐　＜　 |　!　　|　| 　 |
+    　　　　　　　　|　│ 　|　 ｉr∧∧:::::::ゝ!　! 　 |　|　　|
+    　　　　　　　　|　│　／::::::〈∧〉ﾞ:::::::::::ヘ　　|　|　　|
+
+
+
+
+
+808 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:46:29 ID:sEqUIW1E
+
+
+
+
+
+    | /:./:.:.:.:/:.:.:/:.|:.|:.:.|　　ヽヽ::＼.:.:.::＼:.::.:.:.ヽ.::.:.:.:.ヽ.:.:..|::.:.:.:.:.:.:.:.:.:|
+    | |:.:|:.:.:.:.|:.:.:.|ｉ:.ﾊﾊ:.:|　　　ヽ ャ 廾 十:ト ､.:..ヽ.:.::.:.:.|:.:..|:.:.:.:.:.:.:.:.:.:.:|
+    | ｉ:.:|:.:.:.:.|:.:.:.||,|ィ爪｢　　　　＼＼　　 　＼:｀:.|:.:.:.:.:.|:./|::.:.:.:.:.:.:.:.:.:.:|
+    ｉ. |:.|:.:.:.:.|:.:.:.|ﾘ　　　　　　　　 　＿__ 　 　 ヽ:|::.:.::.:.|/ |:.:..:.:ｉ:.:.:.:.:.:.:|
+    　|:.|:.:.:.:.|:.:.:ﾊ　,ｨ=＝､　　 　 　"￣｀`　　 　 |:..|:.:.ﾊ　|.:.:.:.:.ｉ:..:.:.:.:.:|
+    　|:.|:.:.:.:.|:.:.:.ﾊ "　　　　　 　　　　　　　 　 　 |:.:|/　| .ｉ::.:.:.:.ｉ::.:.:.:.:.:|
+    　ヽ!Ｎ:.:.|:.:.:.:.ﾊ　　　　　　　　　　 　 ::::::::::　/|:.:|　/　|:.:.:.:.:ｉ::.:.:.:.:.:|　……でも、マシニッサは私の心の友だから。
+    　　ヽ.ヽ:Ｎヽ:.:ﾊ :::::::::　　ヽ　　　　　 　 　 　/.:.|./　 ｉ.:.:.:.:.:ｉ::.:.:.:.:.:|　あなたの妻に、そんなことはできないね。
+    　　　　 ＼　 |:.人　　　　 ｰ -‐'　　　　　,／:.:.:.|.　　|:..:.:.:.:ｉ::..:.:.:.:.|
+    　　　　　　ヽﾊ:.:.:| ＼　　　　　　　　　 ／ |:.:.:./ 　　|.:.:.:.:.:ｉ::..:::.:.:.|
+    　　　　　　　ｉ |:.:.|　　　ヽ､_ 　　 _,.　'　　,. |:.:/　　　.|:.:.:.:.::ｉ::.:.:.:.:..|
+    　　　　　　　　ヽ:|　　　　 | ｀　´　 ,.　'´　/:.ﾑ　　　 |.:.:.:.:.:ｉ:.:.:.:.:./
+    　　　　　　　　　ヽ　　　　|` ｰｒ‐'´　　　/:./　＼　　|:.:.:.:.:.ｉ:..:..:./
+
+
+
+
+
+809 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:47:05 ID:sEqUIW1E
+
+
+
+
+
+    　これを聞くと、マシニッサは、無言で立ち去った。
+
+
+
+    　　　　　　　　__ 　　 ＿_
+    　　　　　　 イｧ‐,｀´__/⌒㍉r'⌒ヽ、
+    .　　　　 　 ／/ｲ／:::{ 　 ハ.ﾄ､　ヽ ℡
+    　　　 　　'　¨i /:::;ｨ:::|　 /　爪ヽ 　ﾊ ｀
+    　　　　　　 　 '爪/:::ｲ　,　 |八', ｀､
+    　　　　　　　 　 ﾑｲ_｣　 　 ｢ヽ V　＼ ’
+    　　　　　　　　　{ ﾉ__l　.　 .l=人　,　　ヾ､
+    　　　 　 　 　 ／ 　 .| ,　 i |'　　ヽヽ　　 ﾍ
+    　　　　 　 　 {｀ヽ 　 |　　 ,.| 　 　 }　 , ､　ﾍ
+    　　 　 　 　 λ　　　 ,　 　 i 　 　 |　 寸 ,
+    　 　 　 　 　 ㍉､　　 Ⅶ　 ﾊ　 　 |　　 V　　 ’
+    　　　　　　　 λ＼　 　 , 　 ﾍ 　 .ﾄ､　　 ,　　　',
+    　　　　　 　 ,ｲ:{　　＼　寸 　 ヽ　|　ヽ　　. i　| .i
+    　　　　　　/ .|､V　　　＼ 寸　､㌧ 　 ﾊ　 ｉ　｜.|
+    　　　　　∧　ヾ∧　　 　 ヽ＼　＼＼　 ,　l　/| i|
+    　　　 　 ,　ﾍ__/::.ﾍ　　　 　 ､ ＼ヽ＼｀ｰ, .i/　リ|
+    .　 　 　 {　　 /::.::.::ﾍ　　 　 　 ､　＼｀㍉､/　 / .j
+    　　　　 /ヾィ::.::.::.::.::㍉､　　　　　　 ｀ー　 ℡､
+    .　　　 〈ｪｭ_ﾑ::.::.::.::.::.:ﾍ ヽ　　　　　＼　　　　 ＼
+    　　　　 ｀ｰイ::.::.::.::.|::.::.ﾍ　＼　　　　　＼
+    .　　　 　 　 |::.::.::.::.:|::.::.::.ヽ　 ＼　　　　　 ,　　　　 ’
+    .　　　 　 　 |::.::.::.::.:|::.::.::.::.:＼　 ＼　　　　 i　　　　 ﾊ
+    .　　　 　 　 |::.::.::.::.:|::.::.::.::.::.::.＼　 ＼　 　 .|　　　　　 ,
+    .　　　 　 　 |::.::.::.::.:|::.::.::.::.::.::.::.::ヽ　　ヽ　　　　　　　　}
+    .　　　 　 　 |::.::.::.::.:|::.::.::.::.::.::.::.::..ﾍ　　　ﾍ ,x=x=＝¨¨"
+    .　　　 　 　 {＝＝≠＝＝＝ﾊ＝=寸　　 ＼
+    .　　　 　 　 |::.::.::.::.:|::.::.::.::.::.::{ }::.::.:|｀㍉　　　＼
+    　　　　　　　￣￣￣|￣｢￣:|　￣　　　｀ー―一
+    　　　　　　 　 　 　 r'ｰ-}:::::::|
+    　　　　　　 　 　 　 l＿_l.-‐┴t
+    　　　　　　　　　　 <＿,ｨ}＿＿}
+    　　　　　　　　　 ,ｨチくィ<＿_,.ｨ’
+    　　　　　　 　 　 ｀＜ |_ム＿_.ﾉ
+    　　　　　　　　　　　　　　 ー'
+
+
+
+
+
+810 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:47:49 ID:sEqUIW1E
+
+
+
+
+
+    　彼は、妻へと手紙を書いた。
+    　そこには、彼が肌身離さず持っていた、毒薬が付けられていた。
+
+
+
+    　,'　,'　　 ' ,':::::::::::::',　 　 ド､:::::::::::::/ 　 ／ 　 :/∨
+    :/　,7　　,' !::::::::::::::::ヽ 　 {. iｿi;:::::::/ ／　　　/
+    　 ,','　　 ! | :::::::::::::::::::＼ ゝ:'ノ:::::/7/　／ j/
+    　,','　 　, 　 ::::::::::::::::::::::::::::::::::::::〈 ﾚ／
+    　!i.　　 i　!　　　　 　 　 　 　 　 ヽ
+    . |.|　 　| .i　　　　　　　　　　　　 　>
+    . |.|　 　| |!　 　 　 　 　 　 　 　 ／　　　　「妻の身を守るのが、夫の義務の第一だが、
+    . !.|　 　| |　　　　　　 ヾヽ 　 , '　　　　　　　私にはそれさえもできなくなった。
+    ..i│　　! !　 　 　 　 　 　 , ｨi　　　　　　　　ならば、第二の義務を果たすだけだ。
+    ..| !.　　ｌ i_　　　　 　　 ／ i ||　　┼〃　　　妻が不幸な境遇に落ちないように努めることだ。
+    .'. i　　 !.| . i:ｭ ､_　　／ 　 i || 　 ´「　　　　それには、手紙に持たせた物に頼るしかない。」
+    .| ,　　 | | . ｌ:!i　　￣1i　　 i ||　 //
+    .| i　　 | | . l !| 　 　 |:|　　 ! |　 /
+    .|.i　 　.! i　.| !!　　　.|:| 　　! |!
+
+
+
+
+
+811 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2013/05/11(土) 22:48:19 ID:sEqUIW1E
+
+
+
+
+
+    　　　　　　　　　　 Λ＿Λ
+    　　　　　　　　　　(´･ω･`)　　……王妃さま、それは。
+    　　　　　　　　　　（　＿　）
+    　　　　　　　　　　　U　U
+
+
+
+    .　　　　　　　 /: : : /｀ー': : ｀´: : : : ∨: : : : : : : : ヽﾍ: : : : : : : : : ＼: : : : /
+    　　　　　　　/: :/:./: : : : : : : : : : : : ｨ: ,､: : : : : : : : ヽﾍ: : : : : : : : : : ＼／
+    　 　 　 　 _厶ｭ|: :|: : : : : : :/: : :./:.ハ:ハ: :.l: :|: : |: : : :ﾊ､: : :＼: : : : : : ヽ
+    　　, . .-.‐. : : : |: :|: : : :.:.|: :|: : : |: :|｀ｰ‐ﾍ: :l: :|: : |: i: : ﾍ'; ＼: : ＼、: : : :ﾊ
+    ／く: : : : : : : : :|: :|:.:l: :.:.:|: :|: : : |: :|　0　 |: l: :|: : l: :|: : :i|ﾊ: : ヽ: : ヽヽ:: : : '｀ー‐ォ
+    　　 ミ: : : : : : :.|: :|: |: : :.|: :ﾊ: : :|:_:L 　 　L|__|＿|_:ﾊ: : }l: |: : : ﾍ: : ﾊ:ﾍ: : : | ／/
+    　　ム: : : : : : :.|: :l: |: :,斗七コ二､{ 　 　 |: Lｨ＿L} |｀ﾒ:l: ﾄ､: : :ﾊ: : :i: :ﾍ: : |':::/
+    ､　ﾁ: : : : : : : :.:|: :'; 也ﾑニ示;;;;;;ﾐﾍ　　　ﾚｸ'勹;;;;;;ミｭ':.j: |: ﾍ: : : '; :.|／::ヽ:ﾚ'
+    :::＞...､: : : : :.:.:.:|: : ﾍﾚ／ｨ､ﾉ;;;;;;}　　　 　 　 {ｰ;;;;;;;} ,ﾂ/: :|: : i: : : :l|: |::::::／j
+    :::::::::::::::＼__: : : |: : : :ヾx {;;;;J､...,　 　 　 　 _|;;J::ッ /ｲ: : |: : :|: : : ||: レ'
+    ｀ ＜:::::::::::::::＼ |: : : : :＼jゝ=-‐"　　　　　　￣￣/　|: : :|: : ﾊ: : ｲ|:/
+    　 　 ｀　i＜::::::｀|: : : : : : |｀　　　　　　　i,　　　 　 　 j: : :j: : jｵ: / .ﾘ
+    .　 　 　 |:/ ﾝ＜ﾍ: : : : : :|　　 　 　 ＿　　 　 　 　 ィ: : ,ｲ: :/:|:/|
+    .　 　 　 |': /: : |: ﾊ: : : : :.ﾄ､　 　 　 ｀ 　 ´　　　／/: : :j l:ハ/': :|　夫からの、結婚の贈り物を受けましょう。
+    　　　　 j:./: : :.|:.j: ﾍ: : : :ﾊ:|＞　 　 　 　 　 ／i: :/: : : i /: : : : : |
+    　　 　 //: : : :j:/: :.λ:.:.:.:ﾍ|　 　 ＞　　 ／　 ﾊ:.j: : : /:ﾍ: : : : : ﾊ
+    　　　 j/: : : ://: : : j∧: : : ﾍ　　　　　｀ 　 　 {:.|/: : λ: :l: : : : : :.ﾍ
+    　　　/: : : ://: : : : /:∧: : : :}　　　　 　 　 　 i｀ｿ: :/: :|: :|: : : : : : :ﾍ
+    . 　 /: : : ://:r､_ -＜　 ﾍ: : :ﾄ､　　　　 　 　 　 {: :/＞ト､|: : : : : : : :ﾍ
+
+
+
+    　こうして、彼女は毒杯をあおって死んだ。
+
+
+
+
+
+    第１１７話「夫の義務」終わり
+
+    つづく 
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5610/clap" id="fc2button-clap-5610" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5610").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/2.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5610/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第１１７話　夫の義務" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5610.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5808.html">
+					やる夫達はローマ共和国を作るようです　第１２４話　西へ…… (2013/07/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5796.html">
+					やる夫達はローマ共和国を作るようです　第１２３話　講和破棄 (2013/07/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5686.html">
+					やる夫達はローマ共和国を作るようです　第１２２話　ファビウスの死 (2013/06/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5673.html">
+					やる夫達はローマ共和国を作るようです　第１２１話　ハンニバルの帰還 (2013/06/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5658.html">
+					やる夫達はローマ共和国を作るようです　第１２０話　スキピオ講和打診 (2013/06/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5624.html">
+					やる夫達はローマ共和国を作るようです　第１１９話　カルタゴパニック狂想曲 (2013/05/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5623.html">
+					やる夫達はローマ共和国を作るようです　第１１８話　ローマ・ヌミディア同盟 (2013/05/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第１１７話　夫の義務 (2013/05/14)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5586.html">
+					やる夫達はローマ共和国を作るようです　第１１６話　包囲戦術 (2013/05/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5559.html">
+					やる夫達はローマ共和国を作るようです　第１１５話　夜襲 (2013/04/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5533.html">
+					やる夫達はローマ共和国を作るようです　第１１４話　篭絡 (2013/04/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5511.html">
+					やる夫達はローマ共和国を作るようです　第１１３話　マゴーネ強襲！ (2013/04/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5495.html">
+					やる夫達はローマ共和国を作るようです　第１１２話　邂逅 (2013/04/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5478.html">
+					やる夫達はローマ共和国を作るようです　第１１１話　ロクリ奪還 (2013/03/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5448.html">
+					やる夫達はローマ共和国を作るようです　第１１０話　スキピオの政略 (2013/03/17)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第１１７話　夫の義務" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/05/14 19:00 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html#comment_list" title="この記事のコメントを参照">CM(3)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5610"
+    dc:title="やる夫達はローマ共和国を作るようです　第１１７話　夫の義務"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。紀元前203年、カルタゴ　　　　　　　　　　　　　　　　＿＿＿　　　　　　　　　　　　　　／　　　　　＼＿＿　　　　　　　　　　　　／　　　　　　　　　　　 ⊃　　　　　　　　　　　　　　／●ｸﾙﾍﾟｱ岬　　　　　 _＿＿＿／　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-05-14T19:00:00+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5609.html" title="できる夫のMETRO2033　終章　旅の終わり　2-А 『Просветление』">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5591.html" title="やる夫と学ぶ野村克也　第１５話　「意地と誇りの栄冠」　後編">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment56031">[ 56031 ] <strong></strong></p>
+</div>
+<div class="comb">
+貞淑な妻というわけだが
+ローマも捕虜に毒薬の郵送を許したんだね<div class="comment_navi">
+[ 2013/05/14 21:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5610" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment56035">[ 56035 ] <strong></strong></p>
+</div>
+<div class="comb">
+ローマが許したんじゃなくてスキピオが許した。
+本国に着く前ならスキピオが誤魔化せる。<div class="comment_navi">
+[ 2013/05/14 23:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5610" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment56043">[ 56043 ] <strong></strong></p>
+</div>
+<div class="comb">
+これ一切合財だったら
+王国もローマに持ってかれるんでは？<div class="comment_navi">
+[ 2013/05/15 05:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5610" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5610.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5610"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5610-7e6ba14a">http://oyoguyaruo.blog72.fc2.com/tb.php/5610-7e6ba14a</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5609.html" title="できる夫のMETRO2033　終章　旅の終わり　2-А 『Просветление』">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5591.html" title="やる夫と学ぶ野村克也　第１５話　「意地と誇りの栄冠」　後編">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

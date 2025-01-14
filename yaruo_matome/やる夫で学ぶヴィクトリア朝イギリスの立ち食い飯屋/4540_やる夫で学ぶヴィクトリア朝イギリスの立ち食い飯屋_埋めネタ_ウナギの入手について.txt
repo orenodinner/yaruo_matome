@@ -1,0 +1,941 @@
+<div class="article">
+
+
+
+
+【おまけ】
+
+.//// : : :://////, '. : : : :イ￣´　　　　　　　　　　　::.　　　｀　＜::: ::: ::: :: :: : : : : : : : : : :
+｀＞{: : : :///////. : : : : : :ﾄ､　　　　　　　　　　　,: '´ ヽ´　　　　　｀ヽ.::: ::: :: :: :: : : : : : : :
+///,＞ /////, '. : : : ,-ﾐ: : : :ヽ　 ,　'　　　　　　　　　　　　　　　　　　 ＼::: ::: :: :: : : : : : :
+/／ . ://////. : : : ::{=ﾐ._:_:_.ノ ／　　　　 ,　　　　　　　　　　　　　　　　　｀ヽ::: ::: :: :: ::,イ
+´{: : ://////. : : : : 八　　　 , '　　,　　 ／　　'　 　,　　　､　　　　　｀:.　　　　 ':,::: :: :: :: ｀ヽ
+　L::{/////. : : :, -､_:ノ　　, '　　,:　　, '　　　　　 ,:'　　　　:.　　　　　　　　　 　 ∨::: :: : : : :
+　_j |////{: : : :{　　　　 . '　　,　 　.:　　　　　　 /　　　　　:ヽ　 :.　　　 :.　　　　 ∨::: :: : : ;
+...|: :|////|: : : :ﾊ　　　, '　　　　　'　　／　　　〃　　　　　　　　　　　　　:.　　　　:. ::: :: ／
+八: |///,/ : : : : ｀ヽ.:/　　, '　　 , '　　　,ｲ / /　　　 j　　　　 |!　 i　 　 　 　 　 　 !::: ::ﾊ
+　 !:{///, .: : :ハ: :.ﾉ/　　　　　 /　　　　　, ./　　　 ' 　　　i　 　　　　　　　i　　 　 |::: :: :: ＼
+　ﾉ:|///|: : : {ー≦ "'''-､ 　　/　　 , イ. /彡'　　　 /　 　 |　 i !　　 |　 _,.．-'''　　.!::: ::: :: :
+/: : !///!: : : !　 ,'　 /,　　｀＞＜／　,' /　/.!　　 , '　,/　 ,:　 , |　j＞＜　 ;　　　　;::: ::|＼　　　　 /＼　　　　　/ |　　　／/　 /
+ゝ: :ﾊ//,|: : : :ヽ.　 /　　　/＿＿_ﾐz.､/　/　l　　/ﾉ .: /　,'.　/ ／;　｜ 　 '　　　 /::＿|　 ＼/＼/　　 ＼／＼/　|∧／　/／/
+　｀ヽﾍソ{:_:_: : :ﾉ /　　 z≦三二ニミ≧＜. |　 ,' ,　; ;　/ , /,ｲ彡≡ミz,　'　 　 ,ｲ::: ＼　　　　　　　　　　　　　　　　　　　 　/
+　 ノ: ﾉヒミ｀Y´ ,:　,'　彡'´と つ::::::::Y::.｀ヽ心. 　 , / ,　,:彡少;ﾞ::::::Y　}ﾐ｀,:　|　〃｀:. ∠　　我が国のウナギ料理の　　　　 ＞
+　八 {仁ァ}｀Y}ー ､　　ｲﾊ　':,::':,;;;;;;;;j:::!　　ヾ!｀ｰ./　ﾚ　z彳ノ;;;r､:;! jﾘﾞ/　.; //　　 '＜　　　　　　　　　　　　　　　　　　　　＼
+　　 ｀ゝー彡'. : : : ＞ｰ-､ヾ:､ゝ:.ーO.ﾉ　　 ﾉ　 ｿ 　 　 　 乂=::ゝ' 〃/　　ﾚ/ .i　 　∠　　名誉回復は成ったッッ！！　　＞
+　　　ノ. : .ヽｿ- ‐'　 　 　 ＼ ｀ ﾞー 'ﾞ- 'ﾞ´　　　　　　　　　　｀ﾞ ´ /ノ　　 ,ｲ ,'ハ　　／＿　　　　　　　　　　　　　　　　　＿ ＼
+　　　｀ー／　　　::,　　 　 　 ＼〃〃　　　　　　　　　:.　　　〃〃 〃　 /j z=ﾐ､:.　 ￣　/　／∨|　/Ｗ＼　　/＼|＼　 .|　￣
+.　 ／￣　 ｀::.,　　｀　 　 ,:　　　 ヽ　　　　　　　　　　 j　　　　　　 /　,ｲ ' ,': : : :ﾍ.　　　/／　　　|/　　 　 ＼/　　 　 ＼|
+　/　　 ::.　　｀　　　　ヽ '　　　　 ∧　　　　　, . 　 - ‐､　　　　 　,'　/　j '. : : : : :ﾊ
+'´　　　　　　　 .::　　　　　　　　　 ∧　　 ／.::::::::::::::::Yj　 　 　／ ,ｲ 〃'. : : : : : : : :.
+　丶　　　　　　:::::::.　　　':,　　　　.:::∧　 {:::::::::::::::::::,　' 　. ::＜ ／/ /´: : : : : : : : : : :＼
+　　　　　　　　ヽ.::::::.　　　':,　　.:::::::::::::}.､　｀　ー ' ﾞ . ＜/ 彡'_,.．-＝=ﾐ､: : : : : : : : : : : ヽ
+　　 ,　　　　　　 ':,::::::.　　　':,::::::::::::::::: j　ヽ＞ー＜≦三////////////}: : : : : : : : : : : : : :}
+　 　 ':,　　　　　　 ':,::::.　　,　':,:::::::::::／　　 ＼仁⌒Y///////////////. : : : : : : : : : : : : ﾉ
+.　　 　':,　　　　　　 ':,:::::::...＞=＝彡　　　 　 jヒァ=ﾐ/////////////ノ. : : : : : : : : : : :／
+　　　 　':,　　　.::::::::::::',:::／'´ヽ　　　:.　　　 ノゝ=彡'イj//////////´: : : : : : : : : :＞'´　彡'
+.　　　　.:::':,.....:::::::::::::::::Y､_＿__j＿＿:__,. ＜＼｀ー＜///////////ミ｀ ､: : : ＞ 彡 '　.: ´,ｲ
+
+
+
+
+
+
+
+
+
+747 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:09:29 ID:iaC1TTKk0
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／￣￣＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／　 ＼　 　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .（●）（● ） 　u.　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（__人__） 　u　 　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.(｀⌒ ´　　　　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　・・・・・・は？ 　 　 　　 　　　　　 { 　 　　　　　　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　{ 　 　　　u.　/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　 　 　 　 　 　　＿＿＼　　　　 /ﾘ 厂`'‐- .._
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／ :　: : : : : : : : : : : : : : : : : : : : :ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 | : : : :: : : : : : : : : : : : : : : : : : : : : |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| : : : :: : : : : : : : : : : : : : : : : : : : :│
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　 　 　 　 | : : :　: : : : : : : : : : : : : : : : : : : : : |
+
+
+    　　　　　　　　　　　　　　　　「￣:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.〈
+    　　　　　　　　　　　　　＿_r:.:.．-──- ､:.:.:.:.:.:.:.:.:〉
+    　　　　　　　　　　　　 |:.:.ｨ:j'/　　 　 　 　 ＼:.:.:.:.:.」
+    .　　　　　 　 　 　 　 ｆ´￣∨//　 /　 ､　　　ヽ:.:./
+    　　　　　　　　　　　人_⊂ﾉ从ﾅﾒ　　　!! i　/ｆ´￣ヽ
+    　　　　 　 　 　 　 /:.:.:.:/　iT==ミゝ　ノﾅﾅﾒ｛ つ__丿
+    　　　　　　　　　..ｲ:.:.:.:〈._| | i'""＿_　==ミｲ∧:.:.:.:〈　　　　　　　これまでさんっっっっっざんコケにされてきたけれど、
+    　　　　　　　_／_厶:.:./:.:.| | ﾄ （　　 ﾉ""/ 厶ｨ:.:.:.:.:ヽ
+    　　　　　 ./　i‐一" `i:_:_:ゝゞ∧マ777iヽ .i:.:.l:.:.:.:.:.:.:ﾉ　　　　　　やっと美味しいウナギ料理が紹介されたのよ！？
+    　x─ミ　 {　 {　　　　ﾚﾍ:.:.:㍉ｫ介.///:.弋!≦‐一 '　／￣〉
+    . ｉ　i￣｀ヾﾐ　 ､　　 　ﾞヾﾄ:.:././ﾊ:.>､/ラ'{:.∨/￣〉／ｨ⌒./
+    . |　|　　 　｀V∧ 　 　 　 У厶== 7:.:.:.:.:ゞ._´./ ﾑイ　｛ ｛　ｨ　 　これが喜ばずにいられますか！
+    . |　ﾄ､　　 　 V∧、　　　〈_.ｲ:.:.:.:/:.:.:.:.:.:.:.:.:ハ、一'　　ゝ _ノ
+    . |　|　〉　　　 .V∧〉　　 　｝:.:.:.:.:{:.:.:.:.:.:.:／:.:.:.:.:｀ヽ
+    . ゝ シ 　 　 　 ゝｼ　　 　 /ヽ:.:.:.ゝ′:.:.:.:.:.:.:.:.:.:.:.:.:.:.＼
+    　　　　　　　　　　 　 　 ∧:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.
+
+
+
+
+
+748 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:10:32 ID:iaC1TTKk0
+
+
+
+
+
+    　　　　　　 　　　　υ-ヘvr，ﾟ
+    　　　　　　　　　／　廴　c 　!
+    　　　　　　　 ,r'　　.ﾝ─ｰ_ _ 　 ﾞｉ
+    　　　　　　　ハ 　　!､ （( 　)） 从
+    　　　　　　{　　{　V 　 　 　　○V
+    　　　　　　八 　(,从 ○　 　　　ｿ　
+    　　　　　( 　) 　 ）　）)r'⌒)──ゝ　　　　　　ウナギシチューと燻製サンドのことかお？
+    　　　　( 　　). 　（⊃　 ノ　　　 ヽ　＼
+    　　　　〉　( 　 （⊃ 　（ ＝）　 （ ＝）　＼　　 そりゃ確かにイケるけど、なにも「天上の美味」とか言って
+    　　　(, 　　(,／|　　　　 （__人__）　u　 　|　　
+    　　　　　／　　＼＿＿__｀ ⌒´　　　 .／　　 めちゃくちゃ持ち上げたわけでもないと思うんだけど・・・
+    　　　　（　 　　　　　　　　　　　　　＼
+    　　　　　＼＿　|　　　　　　　　　　　 ＼
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 _ヽ:.:.:.:.:.:.＿.:.:.:.:.:.:.:.＼:.:.::.::.::.:ｰﾍ:..ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 {_:.:.:.＿:.:.:.:.:.:.:.:.:.:＞ ―､― -　{｀::.:.:.:.＼-..､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_ }.:.:.:.:.:.:.:.:.:.:／　　　　　 　 　 ＼ｰ ､:.:.:.:l:ヽ:くr..､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 {:.｀:.:.:.:.:.:.:／　　/　 　 　 |　 　 　 Y｀:.:.:.:.|:..:l/.:.:.:}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　⌒}:.:.:.:/ 　/　,′　　　　| 　　.|　 ト､:.:.:.:.l..:.l.:.:.ｲ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 {_:rｭ/l!　 l 　i　　　　　 |l!　　 |　 .l _}:..ヽ|..:.|:._:小
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Vl| 　 　|　ﾊ　　　　　 ;'|　　 　 ハ_:.:.:.ﾘ:...l´.:ィﾄ
+    　　　　　　　　　　グロ画像扱いからは格段の進歩じゃない！　　　　　　　{|H 　 |　| l__, 　 　 / |　　/ 　|r‐'::./:../:.:_レj:
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　ﾊｌ!ヽ 代「 ヽ.　 , / `ト､/!　,ｲ不::.{__/:.:‐ｧv'
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ﾄﾄ 三三三 ヽ/　／三三三くVrj､}:.:.:{ｨ
+    　　　　　　　　　　ああ、ぜひ試して認識を新たにしてもらいたいのに、　 　 |　|j .|　 |／／／／／ |　 |ｲi :ﾄ{にｿ{^´
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |　|{ .|　 |／／／＿,､　|　 | |ﾘ::/⌒
+    　　　　　　　　　　日本では入手困難なのが残念なのだわ！　 　 　 　 　 　 |　|丶､.！ ーく}＿_,ノ　| .イ..|　.|　
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |　|　　 　＞＝､-- r ＜　 　|　.|　
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |　| 　 ィイ　 　ｒz=.､　　＞ ､|　.| 　
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 |　|／　 　　　{{ｒ勿}}　　　　 |　.|ヽ
+
+
+
+
+
+750 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:11:23 ID:w2Y9pj2o0
+
+
+
+<strong>    ウナギの燻製はマジで食べてみたい</strong>
+
+
+751 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:11:33 ID:iaC1TTKk0
+
+
+
+
+    　　 　 　 　 ＿＿__
+    　 　 　 　／　　 　 ＼　　　　　　　　あー、そりゃ確かに
+    .　　 　／　　　　　　　＼
+    .　　／　／）　ノ ' 　ヽ､　＼
+    　　|　／ .ｲ '（ー）　（ー）　u|　　　　ウナギシチューは白焼きを買ってきて
+    .　　 /,'才.ﾐ).　（__人__）　 ／
+    .　　 |　≧ｼ'　　｀ ⌒´ 　 ＼　　　　 埋めネタでご紹介したリカーをかければ
+    　／＼　ヽ 　　　　　　　　　ヽ
+    　　　　　　　　　　　　　　　　　　　　それっぽいものにはなるけど・・・
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　　　　　 　　　　　 _______
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／　　　 ＼,-、__
+    　　　　　　　　　　　　　　　　　　　　　　問題は燻製だな　　　　　　　　　　　　　　　　　　／_,ノ 　｀⌒　ヽ.,__　ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　(● ) （● ） ,.! ┴-'、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|　 (___人___）　〉-‐‐´　l
+    　　　　　　　　　　　　　　　　　　　　　　首都圏では、ちょっと凝ったバーなどで　　　 　.|　　　　　　 u 〉--‐´　l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 .|　　　　 　　　iヽｿ　 　l
+    　　　　　　　　　　　　　　　　　　　　　　スモーク盛り合わせの中に入ってることも　　　Λ　　　　　　∧｀;"　　 '、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 __,. ｨ仏 ___、___ ｨ_ノﾍヽ、 _,.‐ｰ、_
+    　　　　　　　　　　　　　　　　　　　　　　あるらしいんだが・・・　　　　　　　 　_,. -= '''　.:::::::}:::::::::::::::::::::::／::::::::>´..:::::::.. ヽ｀.､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ノ´ ...::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::〈 :::::::::::::::...＼:
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／ ...:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::', ::::::::::::::::::..
+
+
+
+
+
+752 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:12:35 ID:iaC1TTKk0
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ,.ィヽ､　 ／　:::::::::::　￣´　 ::::::::／´ト､_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 /　 .::::.Y.´　　　 ::::::::::::::::::.....:::::::::ヽ, l´, -ﾐi､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 / 　 ::::::::::::::::::,　‐ '　´￣￣ ｀`ヽ､:.　`´　.ハ_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　`ーワ　::::／　,ｨ 　.,　,.　l i　 i　　 ｀ヽ、.:::::　lﾊ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　r-､-,/　., '´　／ 　 i!　l . ｌ .l　 li　.l 　 ､ ヽ--ﾉ　{
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 l　 `~　./　　/　./　l　 l　 l　l　 l i　l　　.l　l　.ｲi r
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 l　 :::::::,!　　,! 　 l　 l　 l.　 l　ｌ　ﾊ _, l　　 l .しrL!`i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ヽ-‐､l　　.l　　.l `‐l､_l 　 l､_ｌイ´l ヽl　　 l .Y::: l　ｌ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾘ--r'-ｉ―'三三. ￣　.三三三‐ｌ―ｲ├‐'./!
+    　　　　　　　　　　　　　　　　　　　　　　　　ネットショップは？　　　 　 く　　/　.l ｌ i .|:::::::|　　 　 |:::::::::::| .l　 .l `l ll　〕
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ/　　Y l. l::::::::l　　 　 l:::::::::::l　l　 ﾊ､ `トｲ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 _,/　 .ノ ./　`‐'　　　　　`ー‐'　.l　 l　(｀ヽ,l
+    　　　　　　　　　　　　　　　　　　　　　　　　　_＿＿＿＿＿＿＿_,.--―'´　 ／,ｲ´テ‐‐.、　△　　 　, -―ﾉ.　 l―`ﾉ lヽ、＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 （　 .rイ' ニ _」　 /＿___,)‐-------(＿＿冫´ヽ、　ヽ、 `ー
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ--ﾐー---―'´　　　　　　　　　　　　　　 `ー--`＝＝ラ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀￣´　　　　　　　　　　　　　　　　　　　 -=＝彡´
+
+
+    　　　　　　　　 ／￣￣＼
+    　　　　　　　／　 　 _,.ノ　⌒　　　　　　　　　　ちょっと検索をかけてみた限りでは、
+    　　　　　　　|　　 　（ ー）（ー）
+    　　　　　　　.|　　　　（___人__）　　　　　　　　　少ないが売ってるところはある
+    　　　　　　　 |　　　　 　　　 ﾉ
+    　　　　　　　 |　　　　　　　　|_,-‐、_ -、
+    　　　　　　　.人､　　 　　 厂丶,丶　v　〉　　　 ただ、脂を落とした淡白さをアピールしてたり
+    　　　　 _,／::::ヽ､.,ヽ., ___,く_ソ　　　 __ノ
+    -― ''"...:::::::::＼::::::::::::::::::::(　　　　〔"ﾆ‐-、.　　すでにタレの味がついたものだったりして、
+    ':､:::::::::::::::::::::::::::::::::::::::::::::::::r　 ／⌒ヽ:::::: )
+    :::::::::::::::::::::::::::::::::::::::::::::::::::::::V／.....￣　',::::|　 　イギリスで売ってるような燻製は見つけられなかったよ
+    :::|::::::::::::::::::::::::::::::::::::::::::::::::::〈　:::::::::::::::... ',::i
+    :::!::::::::::::::::＼:::::::::::::::::::::::::::::::ﾊ　::::::::::::::::::. ',
+
+
+
+
+
+753 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:13:36 ID:iaC1TTKk0
+
+
+
+
+
+    　　　　　　　　　　　　　　　　 　／:: :: :: :: :: :: i::::::::::::::::::::::::::::::::::::::::/
+    　　　　　　　　　　　　　　　_／´:: :: :: :: :: :: ／:::::::::::::::::::::::::::::::::::::::::i
+    　　　　　　　　　　　　　 イ:: :: :: :: :: :: ｲ''´￣｀''ｰ- ､;;;;;;;;;;;;;;;;;;;::::::::::::＼
+    　　　　　　　　　　　／: : :i:: :: :: :: :: ::/　　　　　　　　ヽ､:::::::::::::::::::::::::::|
+    　　　　　　　　　 ／: : : : :|:: :: :: :: ::/　　　　　　　　　　　＼:::::::::::::::::::ﾉ
+    　　　　　　　　　i: : : : : : :l:: :: :: :: <　　　　　　　　　　　　　 ＼::::::::::/
+    　　　　　　　／::|: : : : : : |:: :: :: :: ゝ　　 i　　　 ',　　　i　　　　 ヽ:::::ﾉ
+    　　　　　 ／:: :: :|: : : : : ::|:: :: :: :ノ　i　　|　　　 .|　　　|　　　　　 Ｖ
+    　　　　{´:: :: :: :: :|: : : : : :|:: ::::il´ ＼| 　 |　　　 .|　　　|　　　　　　',
+    　　　　廴:: :: ／:: i: : : : : i:: :::ﾉ　　ﾅ＼ |､ 　 ﾊ.i　 ,' ./　　 　 |　　 i
+    　　　　 ＞┐:: :: :∧: : : : |:::::丁下ヌヽ/Ｘ´/ソ | /_厶　i　 　.|　ｨ .|
+    　　┌＝ィ∧:: :: :: ∧:_:_:_:|ノ八.弋:.:ﾉｿ　 　 　 ≦　　'､　　 ./ /　 |
+    　 　 >彡/ハ｀ー､::::Xrtjﾍ},　　　ー '　 　　　　丁下ﾇｙ 　./ .}　ﾊ/　　　　よろしい、ならば自作よ！
+    　　　ゞ//　 ', i　 廴_t及ﾝ::|　',　 　 　 　 　 　 弋ﾂﾉｲﾊ┌､/ﾝ
+    　　 /ｲ/　　 i i　i　　iヽ:＼::ヽ ヽ 　　　 　　　' 　 ¨　 } .i　i ＼´
+    　 //i l　　　l l　l　l .l　 ＼ゞハ　ヽ 　 　　_　　　 　 人 l　lﾍ　＼
+    　 ﾚ　i l 　 　l l　l　l .l 　　 ｺ＞ﾍ　ﾄ､　　 ´’　　　イ V弌　i　＼ ＼
+    　　　 ｀　　　| |　| .l　}v´￣: : : : ) ヽ: ｀ -　'　´｀ｰ ､_」　V ヽ､　ヾ　＼
+    　　　　　　　|　　| .|　ili: : : : : : :/: i　｀,Vﾊｶ: : : : : : : : :入 ヽ　＼　＼ ＼
+    　　　　　　　|　　　| ムl: : : ::／: : }　　iﾝｨｿ: : : : : : :／　 ヽ　｀ｖ､ヽ　 /ソ
+    　　　　　　　|　,-'''´:::::::>=: : : : :ノ　 ノ∧: : : : : : :ｲ ヘ､　 .V　　)　).//
+    　　　　　　 ／:::::::::::::::/／／￣ -'''´::/:::::ヽ: : : : : :l: : : : : ＞　ノ／ ノ
+    　　　_, - ''´:::::::::::::／　／: : : : : : : :/::::::::::::::＼: : : ﾄ: : : : ｲ､ﾝ　<
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .ノ　､　、
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　・・・もしチャレンジされる方がいらっしゃるなら、　 　　 ≡ ≡） l
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 （人__）u.|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　『それにつけても金のほしさよ』さんで読める　 　 　 　 /^)　　.ノ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　 　 　 　 　 　 ヽ　　　ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　『<a href="http://snudge.blog38.fc2.com/blog-entry-827.html" target="_blank" title="やる夫で学ぶ燻製">やる夫で学ぶ燻製</a>』が参考になると思う・・・　　　　　　 |　　 |　|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　 .ゝl　 lし'
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀(＿ﾉ
+
+
+
+
+
+754 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:14:38 ID:iaC1TTKk0
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾟ，rvヘ--ミ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　イ　 c　廴　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 //　 _ _ｰ─く.　　ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.从 （(　 )）　ノ　　 ハ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　【■■■■■、■■？】　　　　　　 　 　ｿ'○　　 　 　 V　}　　}
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 八"　　　○　从ﾉ　 八
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 、　　　／￣￣ 芥(⌒ヽ(（　　 　)
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　-　　.／ （●）　（●） ＼　 　　　〈
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　′／　　 （__人__） 　 　 ＼　(　　 )
+    　　　　　　　　　　　　　　　　　　　【あのふしぎなにおいは、どうつけるの？】かお？　　|　　　　　　　 　　　　 　|　　)　〈
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　⊂ ヽ∩　　　 　 　 　＿／　　　　ﾉ
+    　　　　　　　　　　　　　　　　　　　　　 　　ﾋﾟｰﾄ　　　　　　　　　　　　　　　　　　　　　　　 '､＿ ＼　　　　　　 ）　　　　　ｲ
+    　　　　　　　　　　　　 　　　　　　　ああ、泥炭の香りのことかお　　　　　　　　　　　　　 　＼　＼　 ／　／|　
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |＼　ヽ　／　 |
+
+
+
+    　　 　 　 ／￣￣＼
+    　　　　／　　　⌒ ´ ⌒
+    　　.　｜　 　　( ●) (●）　　　　　　　　　　　　　 それは簡単だ　燻煙を出すのに使うスモークウッドに
+    　　　 ｜ 　　　 （___人__）
+    　　　　.|　　　　　　　　ﾉ　　　　　　　　　　　　　　少し泥炭を混ぜればいい
+    　　　　 j　　　　　 　　|
+    　　　..ノヽ、　　　　, ノ　　　　.　 　　_
+    一一´:::::::::::::≧ーｰ"7　　　 　　 　 i' Y　　　　　　粉状、または細かいチップで売られていて、
+    ::::::::::::::::::::::::::::::::::::::::.｀-、　　　　 　 i　l　_
+    :::::::::::::::::::::::::::::::::::::::::::::::.. ＞-､　　　|　lﾌ　ト､　　　ネットショップで購入が可能だ
+    :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.ヽ　　i／ ,.ｲ 丿
+    ::::::::::::::::::::::::::::::::::::::::::::::::::::::. v:: l　/　　i'r ´,.ｨ
+    :::::::::::::::::::::::::::::::::::::::::::::::::::::::: l::: l　j　 丿r´,.ｨ　　　「ピートスモークチップ（orパウダー）」で検索してくれ
+    ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: |::: 八　　　｀ﾁ
+
+
+
+
+
+755 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:15:44 ID:iaC1TTKk0
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ,ィ:.､ﾉ: :_:ﾉ: : :_: ．-― -ミ: : :彡し:､　 /∧:
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ｒ―_ｧ′: : :三:．' ´　　　 　 　 　 ｀ヾﾐ:〈: `ｰ'-、》
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヾハｿ: : :ｨ: ／　　　 　 　 　 　 　 　 　 ヾぅ: : :r=､ｨ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 〈:_:_: : : : ,:′　　　　　　　　　　　　　　 /:ﾊヾ: :｀ヾ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 <∧Y): : ://　/　　/　　　　　　 i　　　　i }_:圦ｧｘ: く
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヾ'廴:.//　/　　/ 　,ｨ 　 i ! 　 |l　　 　ﾊ　 ¨ヾ: : : :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 /ｒ=):/ｲ　ｲ　　ｨ/　从　 从从　 从　 il　N　　,ｲ:}:
+    　　　　 これで情報は十分ね！　　　　　　　　 　　 　 　 　 　 　 　 　 /.入: j/:!　ﾊ　 /ｲ　,ﾊﾊ　Nﾊ　 jﾊ!　ｲ　!}i　/:.|:1: : :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 -、　　　　　　 　 .′　 ヾ: |　N　 ト:L_ｲ ゞ　| ! l 斗匕_/! / 　 〉:Ⅵ:ｙ: :
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 i　＼　　　　　 　 !.〃　 辷ﾊ l {　k乍≧ｘ 　 　 ｨﾁ乏ｶｱ|ハ　 ヾ:.ﾘ彡ｲ
+    　　　　 さあ、モニタの前のあなた！　　　　　　　　 ヽ　丶　_　　　　j/}　　/ ｊ厂}:ト　!弋:::ﾉ　　 　 弋:::ノ　 |!　　厶ｲYﾂ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_ .．'　　ヾﾐ`ｰｧｖ:ｲ:辷ｙく、′ Y　八⊂⊃　　　　 ⊂⊃ ｨ 　 〃:トイ!　
+    　　　　 今すぐ道具１式をポチるのだわ！　　　　{　( ￣¨　､ヾ〈: :ヾ: `ｰ=≦:ｘくr| 　 i1ヽ、　 (::ヽ　 　 ／=!　 /:.:.ﾉjﾊ!|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｒヽノ￣ヽ 　 ｀)辷:_:＼: : : : ﾉ: : | 　/く彡ﾐ≧ｔ _ .．＜:::::::::|　 !ィ'　′}!
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ﾄ! ト､ 　 _,.ﾆ ｲ: : :/: : :): : :.{: : : |　八::}:::::::::::ヾxﾍ:::/:::::::::::|　√:ヽ、ｨ:|
+    　　 次の休日は近所の河川敷で燻製作りよ！　　し`yミ三≧: 》r彡:／: : : : ミ､:ﾉ.∧: :入:::::::::::Y:「ヾ::::::::::::′/: : : :.ヾ.|
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヾ-ｒ＜: :.Y}: ノ: : : ;．-‐:./ /: /:/:::::ヽ::::::/!:ﾊ::::::＼:/　∧: : : :_:.X..
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　廴:斗ﾍ人:ィｧ彡:＞ｲ /／: :＼::::::1`´:|: : ヾ:::yｒ{ ./孑≦ ￣/
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 | iく: :_:_:/ ./′: : : : <У::::::::|: : : :j/: :入く　 ｘ＜/√
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 | 辷彡'　∧: : : : : : : :¨ｱ￣´: : : : : :/　 ヾｲ: : : :{/:
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ∧　ハ ｘヘ.｀　ヾ: :_:_: /: : : :/: : :i: :八　／}|: : : :.′
+
+
+    　　　　　　　　　　　　　　　　 　 ＿＿_
+    　　　　　　　　　　　　　　　 　 /　　　　Y
+    　　　　　　　　　　　　　　 　　.|　　　u　|
+    　　　_NMN　　　,　-- 　、. 　 |　　　　 |
+    　　γ´　 　ヽ　 / 　 u　ヽ　　ヽ_　　_ノ
+    　 .{　(　 u ﾉ ） .ゝ　 　　ノ　 　/　　　 ヽ
+    　　）U　　　t_ .（|　　 　 |）.　 ∪　 　　 U
+    　ﾉｨ ）ｿ　 　　ト.'|　 　　 |　　　|　,＿、 |
+    　(´ iﾙ'(νﾚ'（.| .し　 　Ｊ　.　　∪ 　 ∪
+
+
+
+
+
+757 ： <strong><span style="color:#009900">◆ePj4HRjxK.</span></strong>：2012/05/21(月) 21:16:48 ID:iaC1TTKk0
+
+
+
+
+
+    人__人__人__人__人__人__人_人__人__人__人___人__人__人__人__
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（_
+    　よーし！　私たちもやるわよ！　　　　　　　　　　　　　　　 （_
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　（_　　_人_人_人__人_／ﾄ
+    　やる夫！　今すぐ生ウナギとスモーク買ってきなさい！　 （_　 ）. 　　　　　　　　 （
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 （_　　<　【 ■■！？ 】　ゝ
+    Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒　　 ） 　　　　　 　　　 （
+    　　　　　　　　　　　　　　　　　　＼_WＷ/ |WWWWWWWWWWW／へwへへwへwへw　W／
+    　　　　　　　　　　　　　　　　　　≫　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ≪
+    　　　　　　　　　　　　　　　　　　≫　　ちょ、無茶言うなお！　今何時だと思って・・・　　≪
+    　　　　　　　　　　　　　　　　　　≫　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　≪
+    ＿人人人人人人人人人人人人人人人人人人人人人＿MMMMMMMMMMMMMMM､＼
+    ＞　英国淑女は度胸！　なんでもやってみるものよ！　＜
+    ￣Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^ヽ､_,人_,ノ､_,从,人.ｨj､ﾉv1人.ｨj､ﾉv1人.ｨj､ﾉv1人.ｨ.ｨj､ﾉv1人.ｨj､ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　）
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　‐=､´　　いやー─！　真紅がご乱心だおー────！！
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　）
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 , '⌒r‐v'ヽｨ'⌒Ｙｿ､ﾄ､!ｙﾍ!ｿ､ﾄ､!ｙﾍ!ｿ､ﾄ､!ｙﾍ!ｿ､ﾄ､!ｙﾍﾄ､!ｙﾍ!ｿ､ﾄ､!ｙ
+
+
+    　　　　　　　　　 　 　 　／￣￣ ＼
+    　　　　 　 　 　 　 　 　_ノ　 ヽ､_　　＼　　　 　v-,
+    　　　　　　　　　　　　( ⌒) ( ⌒)　　　|　　　　 |　r　　　　　 ・・・イギリスを始め、ヨーロッパへ旅行する知人に
+    　　　　　　　　　　 　 （__人___）　　 　 | 　 　　 |　|
+    　　　　　　　　 　　　　'､'ーｰ´ 　 'J　.|　　　　 |　|,.-、.　 　　お土産として買ってきてもらうという手もあるぞ
+    　　　　　　　　　 ,,.　-ｰ|　　　 　　 　 |ヽ__／￣ヽ｀ r´
+    　　　　　　　　 / .::::::、::|　　　　　　 /ｨ::::〔￣￣ ｀' ト-、
+    　　　　　　　　l :::::::::::::::::ヽ__､____,.　":::/::::〔￣　　　l:::. ヽ　　　肉類は防疫の関係で持ち込みできない場合が多いが、
+    　　　　　　　 」 ::::::::l:::: ::::::「二二::::／ :::::::ヽ y　　　l::::::. ',
+    　　　　　　　 l :::::::::::ヽ:::::::::::::::::::::::::::::::::::::::::::l　　　　l:::::::: i　　 海産加工品については、基本的に問題ないらしい
+    　　　　　　 / ::::::ｰ-ミ､:::::::::::::::::::::::::::::::::::::::::::ヽ＿／:: L::::|
+    　　　　　 / :::::::::::::::::ヽ::::::::::::::::::::::::::::::::::::::::::::く::::::::::::::::::|::|　
+    　　　　　/ ::::::::::::::::::::/ヽ::::::::::::::::::::::::::::::::::::::::「 ::::::::::::::::::||　 　 身近にそういう方がおられるのなら、
+    　　　　/ :::::::::::::::::::/　　＼:::::::::::::::::::::::::::::::::::::V ::::::::::::::: |　　
+    　　　/ :::::::::::::::::::/　　　 　:::::::::::::::::::::::::::::::::::::V ::::::::::::::: |　　 　頼んでみるのもいいのではないかな
+
+    【おしまい】
+
+
+
+
+
+    以上です。
+
+    ヨーロッパでもウナギの漁獲量が減り、年々値が上がっているようです
+    １９世紀のような庶民のスナックとして戻ってくる日は来るのでしょうか・・・
+
+
+
+
+
+756 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:15:56 ID:Iy9h2fzs0
+
+
+
+<strong>    生の鰻って市販されてんの？
+
+
+<span style="color:#009900">    通信販売ほか、養殖地のある地域で販売されているそうです
+    以前お話したBさんのウナギは、某味噌県で養殖されたものを活〆で売っていたとか</span></strong>
+
+
+758 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:17:13 ID:UzRBbbgo0
+
+
+
+<strong>    自力で捕獲してくればいいんでね？</strong>
+
+
+759 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:18:23 ID:V1lFnzTw0
+
+
+
+<strong>    投下乙です
+    スモークするだけなら適当なダンボールでもベーコン作れる
+
+    でも生うなぎって売ってるとこ見たこと無いなあ</strong>
+
+
+767 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:31:42 ID:p5Xt6OE.0
+
+
+
+<strong> <span style="color:#0000FF">>>759</span>
+    魚屋とかそっち方面に強いスーパーだと結構見るよ。
+    そう言うところに頼んだり、聞いてみると良いかも。</strong>
+
+
+775 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:39:26 ID:t32xffFk0
+
+
+
+<strong> <span style="color:#0000FF">>>767</span>
+    東海地方だとふつーに売ってるんだけどねー
+    あと、スーパーで蒲焼を焼いて売ってるとこなら言えばもらえるかも</strong>
+
+
+760 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:19:18 ID:w2Y9pj2o0
+
+
+
+<strong>    乙
+    良い情報が聞けたｗｗ
+    魚介はOKだったのか。今度行くことがあったらお土産にしよう</strong>
+
+
+764 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:24:48 ID:UzRBbbgo0
+
+
+
+<strong>    ウナギの完全な養殖が実現できる日はいつになるのか・・・・
+    産卵場所はかなりの確率で特定できたんだっけ</strong>
+
+
+765 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:24:50 ID:lC2QkpzQ0
+
+
+
+<strong>    乙
+    個人的な意見ではあのサンドイッチはなんというか
+    モロの切り身っぽくていまいち食欲そそらんかったのだが…みんなは違うのか
+
+
+<span style="color:#009900">    >>1も最初はちょっと尻込みしましたが、食べてその美味しさにビックリでした
+
+    ただ、イギリス風の薄い白パンのサンドイッチより、ドイツの重たい黒パンとの
+    相性のほうがいいなと感じましたね
+
+    何しろ脂がすごいですので、パンも相応に味がないと負けてしまいます</span></strong>
+
+
+766 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:26:35 ID:JDDYisOc0
+
+
+
+<strong>    今ググったら、伊勢丹等の百貨店のイタリア展で鰻の燻製の輸入物を強いれるっぽいですね。
+    探してみよう。</strong>
+
+
+770 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:34:14 ID:2AH5oPTU0
+
+
+
+<strong>    うーむ
+    イギリス料理も奥が深い</strong>
+
+
+772 ：<strong><span style="color:#990000">名無しのやる夫だお</span></strong>：2012/05/21(月) 21:36:11 ID:Iy9h2fzs0
+
+
+
+<strong>    蒲焼きは鰻の脂が凄いから、それを落とすために産まれたようなもんだし
+    脂そのまま燻製とかだとくどそうな感じだｗ
+
+
+<span style="color:#009900">    すんごいですよ・・・　ぎゅっと握ったら脂が滴り落ちるんじゃないかと思うぐらいです
+
+
+    いわゆる「新しいイギリス料理」のレシピだと、一緒に玉ねぎのスライスを挟んだり、
+    ホースラディッシュを入れたり、サワーブレッド（酸味の強いライ麦パン）を使ったりと、
+    いろいろ工夫がしてあって面白いです。 </span>
+</strong>
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/4540/clap" id="fc2button-clap-4540" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-4540").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/9.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/4540/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　埋めネタ　ウナギの入手について" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-4540.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5061.html">
+					やる夫で学ぶ食卓の歴史　最終回　前編 (2012/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5050.html">
+					やる夫で学ぶ食卓の歴史　番外編 (2012/10/09)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5004.html">
+					やる夫で学ぶ食卓の歴史　その５ (2012/10/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4991.html">
+					やる夫で学ぶ食卓の歴史　その４ (2012/09/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4975.html">
+					やる夫で学ぶ食卓の歴史　突発ネタ　やる夫で学ぶクトゥルフソング (2012/09/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4968.html">
+					やる夫で学ぶ食卓の歴史　その３ (2012/09/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4949.html">
+					やる夫で学ぶ食卓の歴史　その２ (2012/09/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4917.html">
+					やる夫で学ぶ食卓の歴史　その１ (2012/09/01)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4551.html">
+					やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　後書き (2012/05/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4544.html">
+					やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　埋めネタ　やらない夫と真紅の簡単２０レスクッキング (2012/05/23)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　埋めネタ　ウナギの入手について (2012/05/22)			</li>
+<li class="relate_li">
+<a href="/blog-entry-4534.html">
+					やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　最終話 (2012/05/21)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4508.html">
+					やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　埋めネタ　やらない夫と真紅の簡単１０レスクッキング (2012/05/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4499.html">
+					やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　第二話 (2012/05/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4468.html">
+					やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　第一話 (2012/05/07)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　埋めネタ　ウナギの入手について" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/05/22 15:00 ]
+<a href="/blog-category-403.html" title="カテゴリを参照">グルメ系　やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html#comment_list" title="この記事のコメントを参照">CM(13)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/4540"
+    dc:title="やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋　埋めネタ　ウナギの入手について"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html"
+    dc:subject="グルメ系　やる夫で学ぶヴィクトリア朝イギリスの立ち食い飯屋"
+    dc:description="【おまけ】.//// : : :://////, '. : : : :イ￣´　　　　　　　　　　　::.　　　｀　＜::: ::: ::: :: :: : : : : : : : : : :｀＞{: : : :///////. : : : : : :ﾄ､　　　　　　　　　　　,: '´ ヽ´　　　　　｀ヽ.::: ::: :: :: :: : : : : : : :///,＞ /////, '. : : : ,&#45;ﾐ: : : :ヽ　 ,　'　　　　　　　　　　　　　　　　　　 ＼::: ::: :: :: : : : : : :/／ . ://////. : : : ::{=ﾐ._:_:_.ノ ／　　　　 ,　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-05-22T15:00:03+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4536.html" title="やる夫で学ぶ恐竜　第１６話　恐竜のこと考えようとすると鈴ちゃんを身体が欲するようになった　マジで">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4541.html" title="やる夫とやらない夫は月を目指すようです ＳＩＤＥ：Ａ　セルゲイ･コロリョフの物語　第六話">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment37046">[ 37046 ] <strong></strong></p>
+</div>
+<div class="comb">
+度胸でなんでもｳﾎｳﾎやってみるのは淑女じゃないですw
+でも2コマ目のｳｯｳｯｳﾅｳﾅかわゆす<div class="comment_navi">
+[ 2012/05/22 15:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=37046" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37099">[ 37099 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>747の真紅がかわいすぎる<div class="comment_navi">
+[ 2012/05/22 21:25 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=37099" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37134">[ 37134 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本でも漁獲量が減ってるらしいので、うな丼の値段が心配されてるらしいが<div class="comment_navi">
+[ 2012/05/23 05:53 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37145">[ 37145 ] <strong></strong></p>
+</div>
+<div class="comb">
+このままだと絶滅らしい<div class="comment_navi">
+[ 2012/05/23 09:46 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37154">[ 37154 ] <strong></strong></p>
+</div>
+<div class="comb">
+養殖しかないな<div class="comment_navi">
+[ 2012/05/23 12:44 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37157">[ 37157 ] <strong></strong></p>
+</div>
+<div class="comb">
+日本とかのウナギはマリアナ海溝あたりで産卵してるらしいけど、
+テムズのウナギの産卵地は何処なんだろうな<div class="comment_navi">
+[ 2012/05/23 13:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=37157" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37186">[ 37186 ] <strong></strong></p>
+</div>
+<div class="comb">
+※37517
+ 
+以前サルガッソー海だと聞いたことがあるが
+＜大西洋の産卵地<div class="comment_navi">
+[ 2012/05/23 23:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=37186" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment37251">[ 37251 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>766のせいで
+「俺達は(真紅に)鰻の燻製の輸入を・・・強いられているんだっ！！」
+って伊勢丹の百貨店員が叫んでる風景が目に浮かんだｗ<div class="comment_navi">
+[ 2012/05/25 05:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment46054">[ 46054 ] <strong></strong></p>
+</div>
+<div class="comb">
+※37134
+「日本でも漁獲量が減ってる」というか、「ウナギ食いたい日本人が食いつくしつつある」が正解らしいけどな
+ 
+ウナギ保護と資源保全を訴えてる人が「平賀源内をぶん殴りたいレベル」とか言ってて笑ったw
+<div class="comment_navi">
+[ 2012/10/24 07:38 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment47004">[ 47004 ] <strong></strong></p>
+</div>
+<div class="comb">
+※46054
+でもそんな事言われながらも、今年は土用の丑で自粛モードが発動して逆にウナギが余った気がしますけど……
+レバ刺同様、遂に代用食が登場するまでになりましたし。
+ 
+元々「う」がつく食物なら何でもいいんだから、ここで積極的に牛丼、饂飩をアピールしてもいいような気がしますけどねえ。牛丼屋とか（うな丼とかアピールする暇があるなら）。
+江戸時代と違って肉も普通に食えるようになったんだし。<div class="comment_navi">
+[ 2012/11/06 10:22 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=47004" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment54685">[ 54685 ] <strong></strong></p>
+</div>
+<div class="comb">
+やる夫燻製読んできた
+これはたまらんな<div class="comment_navi">
+[ 2013/04/07 04:17 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しのフィール</a>') } else {
+document.write("名無しのフィール"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しのフィール</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment65099">[ 65099 ] <strong></strong></p>
+</div>
+<div class="comb">
+ナマズで代用できないかな？あれも白身魚だけどかなり脂が乗ってるし<div class="comment_navi">
+[ 2013/10/14 09:02 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment72496">[ 72496 ] <strong></strong></p>
+</div>
+<div class="comb">
+アナゴの燻製でさえ、油がすごいけど、ウナギの燻製といったら、もっとすごいだろうなあ。<div class="comment_navi">
+[ 2014/05/19 16:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=4540" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-4540.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="4540"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/4540-99874ee8">http://oyoguyaruo.blog72.fc2.com/tb.php/4540-99874ee8</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4536.html" title="やる夫で学ぶ恐竜　第１６話　恐竜のこと考えようとすると鈴ちゃんを身体が欲するようになった　マジで">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-4541.html" title="やる夫とやらない夫は月を目指すようです ＳＩＤＥ：Ａ　セルゲイ･コロリョフの物語　第六話">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

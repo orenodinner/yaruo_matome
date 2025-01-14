@@ -1,0 +1,1230 @@
+<div class="article">
+
+
+
+
+
+│　社会人の必須スキル「ホウ・レン・ソウ」はあまりにも有名であるが・・・
+｜　自衛隊に於いては、極限時のホウ・レン・ソウが生死と戦いの勝敗を左右するのである。
+｜　情報は、まさに命なのだ。
+｜　
+｜　そして、そんな情報を伝えるための有線・無線通信の基礎についても、必修科目となっている。
+｜　
+│　ちなみに、「情報」という言葉は、明治時代に外国の軍隊の教科書を和訳した際、
+｜　英語のinformationに相当する言葉の訳を作るにあたり、「敵情（敵状）報告」「敵情報知」を縮めて、
+｜　「情報」という訳語を発明した経緯がある。元々は、軍事用語なのだ。
+｜　この訳を、森鴎外が使った事により、一躍有名となった・・・・・・
+..＼　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／
+....　￣￣￣￣￣∨￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+　　　　　　 　 ,.ﾍ,.　,r:ﾍ,
+　　　　　　　/:::::::Ｖ:::::::::ヽ
+　　　　　　 /:::::::::::::::::::::::::i,　　　　　
+.　/7　　　r'ﾆ二二二二ﾆ､). ＿　　　
+　iﾞ !　　　/　<●>　<●>　ヾ,　 ｀ヽ､　　
+. l　!　 　 l　　　　　　　　　,//, 　_　 ｀ヽ
+　i, ヽ, 　 !　　 　 匸｢　　/:シ,.-ﾆ._
+　 ヽ、'ｰ┘　　　　　　 ⊂ﾆ二.｀　 ）
+　　　｀' ｰ!　　　　　 　 ん!ゝ　 ヾ,~
+　　　　　 |　　 　 　 　 ｀~''´　 　 i, 
+
+
+
+
+
+
+
+
+
+
+407 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:01:27 ID:iyfDGgdY
+
+
+
+
+～通信の授業～
+
+
+
+
+
+　　　　　　 ／￣￣＼
+　　　　　／　　 _ノ　　＼　　　（1教9区隊長　やるしかない夫1尉）
+　　　　　|　　─ （ □）（□）　　本日は、通信の授業を行う。
+.　　　　　|　　　　 （__人__）　　　情報の伝達は大事な事だから、しっかり覚えるように。
+　　　　　 |　　　　　｀ ⌒´ﾉ　　　
+　　　　　　|　　　　　　 　 }　　　
+　　　_.／:l ヽ　　　　　 　 }　　　
+‐''"´:/::::::|_　ヽ＿　 _＿ノ::、
+::::::::: !::::::::l′　　　　 ＼　,ｲ＼　　
+::::::::::l::::::::::l 　 　 　 　 /:｀:::ｌ:::::＼　
+::::::::::|:::::::::::＼　　 　 /:::::::::::l:::::::::＼　
+::::::::::|::::::／＼ヽ　　 l::ヘ::::::::l::::::::::::ﾊ 
+
+
+
+
+
+
+408 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:01:38 ID:iyfDGgdY
+
+
+
+
+　 　／￣￣＼
+　／　　 _ノ　　＼
+　|　　－（ □）（□）　　　まず、大まかに通信方法は2種類に分けられる。
+.　|　　　　 （__人__）　　　
+　 |　　　　　｀ ⌒´ﾉ　　　じゃあ、やらない夫生徒。2種類とは何と何だ？
+.　 |　　　　　　 　 }
+.　 ヽ　　　　　 　 }　　　　　　
+　　 ヽ　　　　　ノ　　ｍm　　
+　　　/　　　￣￣￣　つﾉ　　
+　　　|　　　　|￣￣￣ 
+
+
+
+
+
+　　　／￣￣＼
+　 ／ _ノ　 ヽ､_ ＼　　えっと・・・有線か無線かだと思います。
+.　|　（ ●）（● ）　|
+.　|　　（__人__） 　│
+　 | 　　｀⌒ ´　 　|
+.　 | 　 　 　 　 　 |
+.　 ヽ　　 　　　　/
+　　 ヽ　 　　　 /
+　　　>　 　　 <
+　　　|　　 　　 |
+　 　 |　　　 　 | 
+
+
+
+
+
+
+410 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:02:08 ID:iyfDGgdY
+
+
+
+
+　 　／￣￣＼
+　／　　 _ノ　　＼
+　|　　－（ □）（□）　　　そうだな。
+.　|　　　　 （__人__）　　　
+　 |　　　　　｀ ⌒´ﾉ　　　有線は敵に傍受されにくいが、線を引かなきゃならんから大変だ。
+.　 |　　　　　　 　 }　　　　線が切れたときの補修方法や隠蔽方法も当講義で教える。
+.　 ヽ　　　　　 　 }　　　　　　
+　　 ヽ　　　　　ノ　　ｍm　　無線は敵に傍受される可能性があるが、手軽に遠くまで通信できる。
+　　　/　　　￣￣￣　つﾉ　　敵にジャミングされる場合もあるので100％通信できるとは限らない。。
+　　　|　　　　|￣￣￣　　　　　それぞれ一長一短があるな。 
+
+
+
+
+
+
+　　　　　　 ／￣￣＼
+　　　　　／　　 _ノ　　＼　　　
+　　　　　|　　─ （ □）（□）　　そして、これが無線機だ。大まかには、本体・バッテリー・
+.　　　　　|　　　　 （__人__）　　　　アンテナ・受話器で構成されている。通常、リュックのようなバッグに入れ、
+　　　　　 |　　　　　｀ ⌒´ﾉ　　　　背負う形で持ち運ぶ。状況に応じてアンテナは折り曲げて畳めるようになっている。
+　　　　　　|　　　　　　 　 }　　　　　
+　　　_.／:l ヽ　　　　　 　 }　　　　　　　　　┃
+‐''"´:/::::::|_　ヽ＿　 _＿ノ::、　　　　　　　　┃　　∩　　
+::::::::: !::::::::l′　　　　 ＼　,ｲ＼　　　　　　┌───┐８
+::::::::::l::::::::::l 　 　 　 　 /:｀:::ｌ:::::＼　　　　 .│;;;;;;;;;;;;;;;│|
+::::::::::|:::::::::::＼　　 　 /:::::::::::l:::::::::＼　　　 │;;;;;;;;;;;;;;;│/　　ドンッ
+::::::::::|::::::／＼ヽ　　 l::ヘ::::::::l::::::::::::ﾊ　　 .└───┘
+
+
+
+
+<a href="http://blog-imgs-38.fc2.com/o/y/o/oyoguyaruo/j4.jpg" target="_blank"><img alt="j4.jpg" border="0" height="300" src="http://blog-imgs-38.fc2.com/o/y/o/oyoguyaruo/j4s.jpg" width="312"/></a>
+
+
+
+
+
+
+413 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:03:06 ID:iyfDGgdY
+
+
+
+
+　　　 〃　　 　 　 　 　 　 　 　 i,　 
+　　　r' 　 ｨ=ゝー-､-、､r=‐ヮｫ.〈　
+　 　 !　　:l　　　　　　,ﾘ|}　　　 |. }　　通信は、基本的に誰かが誰かを呼び、
+.　　 {. 　 |　 　 　 　 　 ′　 　 | }　　呼ばれたものが返答し会話する。
+　 　 ﾚ-､{∠ﾆ'＝=ｧ 　 ､=＝ﾆゞ<　　そして、呼び出した者が会話を終了させるルールだ。
+　 　 !∩|.}. '"旬ﾞ`　　 ./''旬 ` f＾|　
+　　　ｌ（( ﾞ′｀￣'"　　 f::`￣　 |l.|　　そして、無線通信は同時に話す事が出来ない半二重通信だ。
+.　 　 ヽ.ヽ　　　　　 　 {:.　　　 ｌﾘ 　　じぶんの言いたい事が終わり、相手に返信を求めるときは、「オクレ」
+.　　　 }.iｰi　　 　 　 ^ r'　　　 ,'　　　という。「通信送れ」という意味だ。
+　　 　 !|　ヽ.　　 ｰ=＝=- 　 /　 　
+.　　 ／}　　 ＼　 　 ｰ‐ 　 ,ｲ　　　　日本語の無線でも、「どうぞ」と付けたり、英語だと「over」なんて言う事がある。
+　__/　∥　 .　　ヽ､＿!__／:::|＼ 　 　自衛隊では「オクレ」だ。 
+
+
+
+
+
+
+414 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:03:25 ID:iyfDGgdY
+
+
+
+
+│　その他、具体的な無線機の使い方も習うけど、
+│　操作方法を細かく書いたら、某Ａ省から怒られそうだから割愛であーる。
+｜　プラスして、>>1のＡＡ作成能力も足りないのであーる。
+..＼　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+....　￣￣∨￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+　　　 ﾍﾍ_　η
+　　 /ΦΦ ソ
+　 ζ　∀　|
+　　υ 　　/
+　　　| イ/
+　￣￣￣￣￣ 
+
+
+
+
+
+
+415 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:03:44 ID:iyfDGgdY
+
+
+
+
+～実地で訓練してみる～
+
+
+
+
+
+　　　　　　 ／￣￣＼
+　　　　　／　　 _ノ　　＼　　　　じゃ、使い方が分かった所で、この時間は
+　　　　　|　　─ （ □）（□）　　屋外で実地訓練を行う。
+.　　　　　|　　　　 （__人__）　　　
+　　　　　 |　　　　　｀ ⌒´ﾉ　　　班毎に駐屯地内の全く違う場所に移動し、
+　　　　　　|　　　　　　 　 }　　　通信の練習をしてみよう。
+　　　_.／:l ヽ　　　　　 　 }　　　一人５分目安で交代だ。
+‐''"´:/::::::|_　ヽ＿　 _＿ノ::、　　　
+::::::::: !::::::::l′　　　　 ＼　,ｲ＼　　俺が無線で指示を出すから、復唱したり、
+::::::::::l::::::::::l 　 　 　 　 /:｀:::ｌ:::::＼　　聞かれた事を報告したり、指示通りに移動してみろ。
+::::::::::|:::::::::::＼　　 　 /:::::::::::l:::::::::＼　
+::::::::::|::::::／＼ヽ　　 l::ヘ::::::::l::::::::::::ﾊ　　それでは、別れて各班長の指揮下に入れ。「別れ！」
+
+
+
+
+
+　　　　　　　　　　別れます！
+￣￣￣￣￣￣￣∨￣￣￣￣∨￣￣￣￣￣∨￣￣￣
+　　　　　　　　 ∧∧　　 　 　∧___∧　　　　 ∧＿∧
+　　　　　　　 　(,,ﾟДﾟ)　　　　（ ´∀｀ ）　　　 （・∀・ ,,）
+　　　　　　　　 (i　　i)　　 　 （　　 　 ）　　　 （　　　　）
+　　　　　　 　～|　　|　　　　 i　 　 　i　　　　 |　｜ ｜
+　　　　　　　　　し`Ｊ　　　　（,__,ﾊ,__,）　　　 （＿（_＿） 
+
+
+
+
+
+
+416 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:03:55 ID:iyfDGgdY
+
+
+
+
+　　　　　,,　- ―-　、
+　　,. '" _,,. -…;　　　ヽ
+　 (i'"（(´　 __ 〈　　　　}　　　　　よし、３班はまず、野球部グラウンド近くに移動する。
+　　|__　r=_ﾆﾆ`ヽｆﾊ　　}　　　　　駆け足、進め！
+　　ヾ|! 　 ┴’　　}|ﾄi　 }　　
+　 　 |! ,,_　　　　　 ｛'　 }　　
+　　　「´ｒ__ｧ　　　./　彡ﾊ､　　
+　　　 ヽ　‐'　　／　　　"'ヽ
+　　　　 ヽ__,.. ' ／　　　　　ヽ
+　　　　 ／⌒` ￣ `　　　　ヽ＼_
+　　　 /　　　　　　　　　　　i ヽ　＼ 
+
+
+
+
+
+
+　　　 ――　[] []
+　　　| ｌ￣ | |
+　　　|_| 匚. |
+　　　　　　| |
+　　 　　　 |_| 　　　　／￣￣￣＼　　　　うーん、地味に距離があるお・・・
+　　　　　　　　　　／　─　　 ─　＼
+　[] []　,-,　　　／　　（●） 　（●）　＼
+　　 ／／　　　|　　　　（__人__）　 　 　|
+　匚／　/￣ヽ＼　　　　 ｀⌒´　　　／　　,.r-､
+　　　　/　 　　　　　　　　　　　　⌒＼　　P{三）
+　　　 /ヽ/＾y　　　　　 　　　　/＼　　＼/＼ﾉ
+　　 (､､J　　 |　　　　　　　　/　　　ヽ　/　 /
+　　　　　　　/　　　　　　　/　　　　　＼___/
+从从　　　（　　　　　 　　/
+Σ　 ヽ、　 へ 　　　　　＼
+Σ　 /　￣ 　　＼　　　　　＼
+Σ_ノ　＼､＿_ ／ ＼　　 　　 ヽ
+　　　　　　　　　　　 ＼　　　　〉
+　　　　　　　　　　　　/　　　/
+　　　　　　　　　　　 /　　 /
+　　　　　　　　　　　/　　/
+　　　　　　　　　　　＼二フ 
+
+
+
+
+
+
+418 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:04:17 ID:iyfDGgdY
+
+
+
+
+　　　　　,,　- ―-　、
+　　,. '" _,,. -…;　　　ヽ
+　 (i'"（(´　 __ 〈　　　　}　　　　よし、この辺でいいだろう。
+　　|__　r=_ﾆﾆ`ヽｆﾊ　　}　　　　分隊、止まれ！
+　　ヾ|! 　 ┴’　　}|ﾄi　 }　　　　右向け、右！
+　 　 |! ,,_　　　　　 ｛'　 }　　　　短間隔に整頓する。右へ、倣え！
+　　　「´ｒ__ｧ　　　./　彡ﾊ､　　　直れ。休め。
+　　　 ヽ　‐'　　／　　　"'ヽ
+　　　　 ヽ__,.. ' ／　　　　　ヽ　　　それでは・・・名誉の1番バッターは・・・
+　　　　 ／⌒` ￣ `　　　　ヽ＼_
+　　　 /　　　　　　　　　　　i ヽ　＼ 
+
+
+
+
+
+
+419 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:04:28 ID:iyfDGgdY
+
+
+
+
+　　　 〃　　 　 　 　 　 　 　 　 i,　 　 　 　 ,.　-‐
+　　　r' 　 ｨ=ゝー-､-、､r=‐ヮｫ.〈　　　　／
+　 　 !　　:l　　　　　　,ﾘ|}　　　 |. }　　　/　　 .や　　や
+.　　 {. 　 |　 　 　 　 　 ′　 　 | }　 　 l
+　 　 ﾚ-､{∠ﾆ'＝=ｧ 　 ､=＝ﾆゞ<　 　 |　　　 ら　　る
+　 　 !∩|.}. '"旬ﾞ`　　 ./''旬 ` f＾|　 　 |
+　　　ｌ（( ﾞ′｀￣'"　　 f::`￣　 |l.|　　　| 　 　 な　　夫
+.　 　 ヽ.ヽ　　　　　 　 {:.　　　 ｌﾘ 　 　 |
+.　　　 }.iｰi　　 　 　 ^ r'　　　 ,'　　　 ノ　　　 い　　生
+　　 　 !|　ヽ.　　 ｰ=＝=- 　 /　 　 ⌒ヽ
+.　　 ／}　　 ＼　 　 ｰ‐ 　 ,ｲ　　　　 　 l　 　 か　　徒
+　__/　∥　 .　　ヽ､＿!__／:::|＼ 　 　 　 ヽ　　？　　　、 
+
+
+
+
+
+
+　､　　　　　　　　ヽ
+　|ヽ ﾄ､ 　ﾄ､　ﾄ､ ､.`、
+/|l. l. | |l l | | l |l.| |l. l　　　えっ・・・は、はいですお・・・・・・
+/'　j/ ﾉ|ﾙ'/ﾚ〃j/l　|　　　こ、この穴にいれればいいですかお？
+-‐7"　ヾー---┐|_.j　　　は、はじめてなので良く分からないですお・・・
+￣ 　　./ﾞﾆ,ﾆF､'' ｌ _ヽ
+:: 　 ,.,. |ヽ 」９L.` Ｋ }.|　　（注：やる夫です）
+　　　　ｌ'　 """　 ｌ ) /
+　　ｈ､,.ﾍ. 　 　 　ﾚ'/
+　　　　　 　　　　ﾚ′
+　r.二二.) 　 　 /
+　　≡≡ 　 　,ｲ
+.　　　　 　 ／　!
+＼　　　／　　├､
+::::::｀￣´ 　 /　 !ハ. 
+
+
+
+
+
+
+421 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:04:50 ID:iyfDGgdY
+
+
+
+
+　　　　　　　＿＿＿＿＿＿　　　　　　 |
+　　　 ,,..-‐";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;` ､　　　i　　 　　　　あ
+　　／;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;､ 　ヽ 　　つ　　あ
+　 /;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|　　〉　　ぎ　 　：
+　 |;;;;i "'`~　 "`~ `i||i"　''　ﾞ`　"　|;;;;;;|　 /　 　は　　：
+　 |;;;;| 　　　　　　ヽ`　　　　　u　　|;;;;;|　| 　　 .ア
+　 .|;;|　,-;;;;;;;;;;"ﾌﾉ　 ヾ`;;;;;;;;;;;;;;;ヽ　|;;;;|　| 　　　ン
+　,,ト;| ',,_＝＝-､く 　 　>ﾞ-＝＝､　 |/ i　|　　　テ
+　|i ､|　　　'￣"彡|　　　　　　　　　||　|　| 　　 ナ
+　|'. (| 　 　　 　彡|　　　　　 　　　 |)) |　.| 　 　だ
+　 ! ､|　 　　　　i,"(_ ,, ､,　　　　　　|" i　　| 　　 ：
+　 ヽ_|　　　　　　　 `　　 　 　 　　.|_/　　ノ_　　 ：
+　　　.|ﾞ　　 　 　､,.－-‐ ､,,　　 　　|　　　　　ヽ､＿,,,､＿ノ
+　　　.i ﾞ､　　　　' ￣ニ￣　　　　 /|
+　　　| 　 ､　　　　 ￣￣　　　　, '　|
+　　　|　 i　` ､　　　　(　　　 , "　　 |
+　 　 |　　　 　 ` ー---― "|　　　　|
+　　　|　　|　　　　　　　　　 i　　　　 | 
+
+
+
+
+
+
+
+　 　 　 　 　 　 ／￣￣＼
+　 　 　 　 　 _ノ　　ヽ、　　＼　　あれ？急にやる夫の顔がノンケ浪人生っぽくなった気が・・・
+　　　 　　 　（○）（○ ）　　　|　　目の錯覚だろ、常識的に考えて・・・
+.　　　　　　 （__人__）　 　u　 .|
+.　　　　　　　 ヽ｀⌒ ´　　　　|
+　　　　　　　　｛　　　　　　　/
+　　　　　　　　lヽ、　　,ｨ'.) ./
+　　　　　　　　j　.}ﾝ／／　ヽ
+　　　　 　　　ﾉ　'"´ ￣〉　　|
+.　　　　　 　 {　　　　 勹..　｜
+　　 　 　　　 ヽ　､＿_,,ﾉ　.　| 
+
+
+
+
+
+
+423 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:05:18 ID:iyfDGgdY
+
+
+
+
+　　　　　　　　　　　　　　　　　　　∩
+　　　　　　　　　　　　　　　　　.　┃┃
+　 　 　 　 　　／￣￣￣＼　　.　┃┃
+　　　　　　 ／─　 　 ─ 　＼　 .┃┃　　無事装着できましたお！
+　　　　　　/ （●） 　（●）　　ヽ　┃　　　あとは、区隊長からの通信を待つお！
+　　　　 　 |:::⌒（_人__）⌒::　　|＿＿
+　　　,ｨＴl'ヽ＼　 `ー´　　　 ／|　 | |
+　 　 kﾋﾋど,　((　 　 　 　 (({⌒|＿| |
+　　　 　 ｀´￣ヽ　　　　　 ﾉ＼ |＿ |
+　　　 　 　 　 　ヽ 　　｀　/　 '}|＿| |
+　　　　　 　 　 　 >　　　/ごノ 
+　　　　　 　 __,∠ 　 　 /　　　 
+　　　　　　〈、 　　　／　　　　 
+　　　　　　　＼､__ノ　　　ｽﾀｽﾀ 
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　　「長門」、こちら「大和」。オクレ。
+　　　　　　／〔|　 －（ □）（□） 
+　　　　　 〔ノ^ゝ　　　　（__人__）
+　　　　 　ノ ノ^,-　　　　｀ ⌒´
+　　　　 /´ ´ '　, ^ヽ　　　　　 }
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+425 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:05:42 ID:iyfDGgdY
+
+
+
+
+　 　　　＿＿＿_
+　　　／　　 　 　＼　　　　　えーと、コールサイン表によると、
+　 ／　　─　 　 ─＼　　　　「大和」が、やるしかない夫区隊長で、
+／ 　　 （●） 　（●） ＼　　　「長門」が3班の通信手・・・つまり今はやる夫だお！
+|　 　　 　 （__人__）　 　 |
+./　　　　 ∩ノ ⊃　　／
+(　 ＼　／ ＿ノ　|　 |
+.＼　“　　／＿＿|　 |
+　　＼ ／＿＿＿ ／
+
+
+
+
+
+　　　　　　＿＿＿_
+　　　　 ／＼　　／＼　　　　「大和」、こちら「長門」。オクレ！
+　　　／（ ●） 　（●）＼
+　 ／ :::::⌒（__人__）⌒:::::＼
+　 |　　　　　|r┬-| 　 　 　 |
+　 ＼ 　 　　｀ ー'´ 　 　 ／ 
+
+
+
+
+
+
+426 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:05:54 ID:iyfDGgdY
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　　「長門」、現在位置を報告せよ。オクレ。
+　　　　　　／〔|　 －（ □）（□） 
+　　　　　 〔ノ^ゝ　　　　（__人__）
+　　　　 　ノ ノ^,-　　　　｀ ⌒´
+　　　　 /´ ´ '　, ^ヽ　　　　　 }
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_
+
+
+
+
+
+　　　　　　＿＿＿_
+　　　　 ／＼　　／＼　　　　「大和」、「長門」の現在位置は、野球部グラウンド西側です。オクレ。
+　　　／（ ●） 　（●）＼
+　 ／ :::::⌒（__人__）⌒:::::＼
+　 |　　　　　|r┬-| 　 　 　 |
+　 ＼ 　 　　｀ ー'´ 　 　 ／ 
+
+
+
+
+
+
+427 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:06:06 ID:iyfDGgdY
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、了解した。それでは、ラグビー場東側まで駆け足で移動し、
+　　　　　　／〔|　 －（ □）（□） 　　周囲の状況を報告せよ。オクレ。
+　　　　　 〔ノ^ゝ　　　　（__人__）　
+　　　　 　ノ ノ^,-　　　　｀ ⌒´　
+　　　　 /´ ´ '　, ^ヽ　　　　　 }　
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_
+
+
+
+
+
+　　　　 ＿＿＿_
+　　　／　　 　 　＼　　　（ここでも走らされるのかお・・・）
+　 ／　　─　 　 ─＼
+／ 　　 （○） 　（○） ＼　　「大和」、こちら「長門」ラグビー場東側まで移動了解しました。
+|　 　　 　 （__人__）　 　 |　　ただちにかかります。オクレ。
+/　　　　 　|!!il|!|!l|　　／
+　　　　　　|ｪｪｪｪ| 
+
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、こちら「大和」。
+　　　　　　／〔|　 －（ □）（□） 　　通信終わり。
+　　　　　 〔ノ^ゝ　　　　（__人__）
+　　　　 　ノ ノ^,-　　　　｀ ⌒´
+　　　　 /´ ´ '　, ^ヽ　　　　　 }
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+429 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:06:36 ID:iyfDGgdY
+
+
+
+
+　 　 　　　＿＿＿_　　　 　
+　 　　　／⌒　　⌒＼　 　 　　ら、ラグビー場東側に移動する旨の指示が出たお。
+　　　／（ ー） 　（ー） ＼ 　　　３班みんな駆け足で移動するお・・・
+　 ／::::::⌒（__人__）⌒::::: ＼
+　 |　Ｕ　　　 )　(　　　　　　|
+　 ＼ 　　 　 `ー´､　 　 　｜
+
+
+
+
+
+　　　 ――　[] []
+　　　| ｌ￣ | |
+　　　|_| 匚. |
+　　　　　　| |
+　　 　　　 |_| 　　　　／￣￣￣＼　　急げやいそげー！！
+　　　　　　　　　　／　─　　 ─　＼　　　　
+　[] []　,-,　　　／　　（○） 　（○）　＼
+　　 ／／　　　|　　　　（__人__）　 　 　|
+　匚／　/￣ヽ＼　　　　 ｀⌒´　　　／　　,.r-､
+　　　　/　 　　　　　　　　　　　　⌒＼　　P{三）
+　　　 /ヽ/＾y　　　　　 　　　　/＼　　＼/＼ﾉ
+　　 (､､J　　 |　　　　　　　　/　　　ヽ　/　 /
+　　　　　　　/　　　　　　　/　　　　　＼___/
+从从　　　（　　　　　 　　/
+Σ　 ヽ、　 へ 　　　　　＼
+Σ　 /　￣ 　　＼　　　　　＼
+Σ_ノ　＼､＿_ ／ ＼　　 　　 ヽ
+　　　　　　　　　　　 ＼　　　　〉
+　　　　　　　　　　　　/　　　/
+　　　　　　　　　　　 /　　 /
+　　　　　　　　　　　/　　/
+　　　　　　　　　　　＼二フ 
+
+
+
+
+
+
+430 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:06:54 ID:iyfDGgdY
+
+
+
+
+　　　　 ＿＿＿_
+　　　／　　 　 　＼　　と、到着だお・・・
+　 ／　　─　 　 ─＼　　周囲の状況を確認して・・・
+／ 　　 （○） 　（○） ＼
+|　 　　 　 （__人__）　 　 |
+/　　　　 　|!!il|!|!l|　　／
+　　　　　　|ｪｪｪｪ|
+
+
+
+
+
+　　　;;;;;;;.........;;;;........::::::::::::::........;;;;.........;;;;;;;;.......
+　　　";;;;;;;;....::::.....::::!､........::........ノ::::.....::::....;;;;;;;;ji :.:.: .: . :. :. : .. : . :.
+.　　　.....:::::::::.....:,',;;;;;;;;ヽヽ;;;;;;;;,',:.....:::::::::....　.:::;l :.:...:..:.:.:.:.:.:.:.:.:.:
+　　　;;;;.;;;;........;;;;;;;;....::::..::::....;;;;;;;;........;;;;.;;;...::....::li :.:.....:::::
+　　　y;wﾘﾞW゛jﾘwj从ﾘj"W.......:::::::::......:::::::::..jl ::::::::::::::::
+　　　::ﾞｉ........ﾄ ;i:iii;:::;iii:i;::'':;iノ,.,;;;;;;;..:::::::::....;;k　::::::::::::::::::
+　　　::.ﾞﾞヽ(. | ..;;;ii;:'':ii;;;.. | ヽﾞﾞﾘw;y.ﾉ,w'ﾊ 　　　:.:.:.:. :.:.
+　　　　:::::::::|;;;;..:;;;::ﾞ :: ::..ﾞ|:::::: |. :;ii;::.|`:;,':,”'' ;~'',;''ﾟ ;~'',;'　　　　 .ノ　､　、
+　　　　:: : : |. :;ii;:.ﾞﾞ,;ii;;ii::ﾞi:: :: :| ;::.ﾞﾞ,ﾞ|'ﾟ ;~,;''ﾟ ;~ﾟ''ﾟ ;~'',;~ﾟ　　 　 |!□ □） l'
+　　　　　 　|.iiﾞ:;''ﾞ;.;::;:.; (;|::: 　|;::.ﾞﾞ,ﾞﾞ|:',;''ﾟ ;~,;;”:;,`:;,':;~ﾟ''ﾟ　 　同（人__）　|　　・・・
+　　　　　　 lﾞﾞﾞﾞ, ; iii::ﾞ,; ,ﾞ| ::　 〉;.::.;ii;..'' 　~'',;''ﾟ ;~'',;'',;';　　 　 {r ヽ　　　ノ
+　　　　　: .ﾉ;;ﾞﾞﾞ:;i;;;i:;;;i:ﾞﾞﾞ;;ヾ :;ﾉ;;ﾞﾞﾞ:;i;;;ｖ'ﾟ ;~,;''ﾟ ;~ﾟ　　　 　 　 　＼　　 　 ヽ
+:　　　　; :.ﾍ; ヽ,.ﾙ;nﾉ;;;l;;l;rw. :;:;: ;: ;:;'',;'',;''ﾟ ;~　　　　　　 　 　 　 |　　 |　|
+　　　　　rw. :;:;: ;: ;:;'',;'',;''ﾟ;:;'',;'',;''ﾟ ;~ ;~,;;;,　　　　　　　　　　 　 ゝl 　し'
+　　　　　　;: ;: ;:;'',;'',;''ﾟ;:;'',;'',;''ﾟ ;~ ;~,;;;,___　　　　　　　　　 　 　 ｀(＿ﾉ 
+
+
+
+
+
+
+431 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:07:09 ID:iyfDGgdY
+
+
+
+
+　　　 　　　　 |
+　　　 　＼　　__　　／
+　　　 　＿　（ｍ）　＿
+　　　 　　　　|ミ|
+　　　 　 ／ 　｀´　 ＼
+　 　 　　　＿＿＿_
+　 　　　／⌒　　⌒＼　　　あっ！遠くの木陰に無線機を持った区隊長が見えるお！
+　　　／（ ●） 　（●）＼　　
+　 ／::::::⌒（__人__）⌒::::: ＼
+　 |　　　　　|r┬-|　　　　　|
+　 ＼ 　　 　 `ー'´ 　 　 ／
+
+
+
+
+
+　 　 　　　＿＿＿_
+　 　　　／　　　　　＼　　　こうなったら、この間外禁にされた恨みを晴らしてやるお！
+　　　／　⌒　　　⌒　＼
+　 ／　-=・=-　　-=・=-　＼
+　 | 　 　 　（__人__） 　 　　 |
+　 ＼ 　 　　|++++|」_ｷﾗｯ／
+　　　　　　　`ー''´ l 
+
+
+
+
+
+
+432 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:07:21 ID:iyfDGgdY
+
+
+
+
+　　　　　　 　 　＿＿＿_
++ 　 　 　　 .／ ＼　　／＼　ｷﾘｯ
+　　　　　 ／　（●） 　（●）＼　　　「大和」、こちら「長門」。オクレ。
+　　　　／　　 ⌒ﾉ(､_, )ヽ⌒　 ＼
+　　　　|　　 　　 ｀-=ﾆ=-　 　 　 |
+　　　　＼　　 　　 `ー'´ 　 　 ／ +
+
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、こちら「大和」。オクレ。
+　　　　　　／〔|　 －（ □）（□） 
+　　　　　 〔ノ^ゝ　　　　（__人__）
+　　　　 　ノ ノ^,-　　　　｀ ⌒´
+　　　　 /´ ´ '　, ^ヽ　　　　　 }
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+433 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:07:31 ID:iyfDGgdY
+
+
+
+
+　 　　　　 ＿＿＿_
+　　　　／／　 　＼＼　　「大和」、こちら「長門」。先ほど指定された位置に到着しました。
+　　 ／（ ●） 　（●） ＼　　　オクレ。
+　／::::::⌒　　､_!　 ⌒::::: ＼
+　|　　　　　'ｰ三-'　　　　　|
+　＼ 　　 　 　　　 　 　 ／
+
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、到着了解。周囲の状況を報告せよ。オクレ。
+　　　　　　／〔|　 －（ □）（□） 
+　　　　　 〔ノ^ゝ　　　　（__人__）
+　　　　 　ノ ノ^,-　　　　｀ ⌒´
+　　　　 /´ ´ '　, ^ヽ　　　　　 }
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+434 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:07:44 ID:iyfDGgdY
+
+
+
+
+　　 　 　　＿＿＿_
+　　 　　／-‐　　‐-＼　　　　「大和」。ラグビー場東側より、北東の方向距離300、
+　　　／ （ ⌒)　(● ）＼　　　第二教育隊・隊舎近くに不審な人影あり。
+　 ／::::::⌒（__人__）⌒:::::＼　　オクレ。
+　 |　　　　　l／⌒ヽ 　　　 |
+　 ＼ 　　／　　 ／ 　　 ／
+
+
+
+
+
+　　　あれ？それ区隊長じゃね？　また悪巧み考えたなｗ
+￣￣￣￣￣￣￣∨￣￣￣￣∨￣￣￣￣￣∨￣￣￣
+　　　　　　　　 ∧∧　　 　 　∧___∧　　　　 ∧＿∧
+　　　　　　　 　(,,ﾟДﾟ)　　　　（ ´∀｀ ）　　　 （・∀・ ,,）ﾆﾔﾆﾔ
+　　　　　　　　 (i　　i)　　 　 （　　 　 ）　　　 （　　　　）
+　　　　　　 　～|　　|　　　　 i　 　 　i　　　　 |　｜ ｜
+　　　　　　　　　し`Ｊ　　　　（,__,ﾊ,__,）　　　 （＿（_＿） 
+
+
+
+
+
+
+435 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:07:56 ID:iyfDGgdY
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、不審な人影の特徴を説明されたい。
+　　　　　　／〔|　 －（ □）（□） 　　オクレ。
+　　　　　 〔ノ^ゝ　　　　（__人__）
+　　　　 　ノ ノ^,-　　　　｀ ⌒´
+　　　　 /´ ´ '　, ^ヽ　　　　　 }　　（ん？第二教育隊？この辺か？）
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+436 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:08:11 ID:iyfDGgdY
+
+
+
+
+　　　　　　　． … ．
+　 　 　　　：＿＿＿_：　　　　「大和」、不審者の特徴は、身長175cmくらい、短髪、メガネ着用、細長い顔。
+　 　　　：／_ノ　 ー､＼：　　　背中に爆薬とおぼしき箱を背負い、手には起爆装置らしき物体を握っている。
+　　　：／（ ●） （●）｡ ＼：　　時折起爆装置に話しかけ、不審な様子が見受けられる。
+　 ：／::::::　r（__人__） ､ :::::＼：　北○鮮の破壊工作員と思われる。注意されたい。　オクレ。
+　 ：|　　　 {　l／⌒ヽ　　　　|：　
+　 ：＼ 　　／　　 ／ 　 　／：　　ｳﾌﾟﾌﾟ
+
+
+
+
+
+
+　ちょｗｗｗやる夫ｗｗｗｗｗ　それはヤバイってｗ　
+￣￣￣￣￣￣￣∨￣￣￣￣∨￣￣￣￣￣∨￣￣￣
+　　　　　　　　 ∧∧　　 　 　∧___∧　　　　 ∧＿∧
+　　　　　　　 　(,,^Д^)　　　（ ^∀^ ）　　　　（・∀・ ,,）ｹﾞﾗｹﾞﾗ
+　　　　　　　　 (i　　i)　　 　 （　　 　 ）　　　 （　　　　）
+　　　　　　 　～|　　|　　　　 i　 　 　i　　　　 |　｜ ｜
+　　　　　　　　　し`Ｊ　　　　（,__,ﾊ,__,）　　　 （＿（_＿） 
+
+
+
+
+
+
+437 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:08:23 ID:iyfDGgdY
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、・・・・・・バカモン！それは俺だ！
+　　　　　　／〔|　 －（ □）（□） 　　というか、いま喋ってるの誰だ！？
+　　　　　 〔ノ^ゝ　　　　（__人__）　　　名を名乗れ！オクレ！
+　　　　 　ノ ノ^,-　　　　｀ ⌒´　　
+　　　　 /´ ´ '　, ^ヽ　　　　　 }　
+　　 　 /　　　　　ﾉ'"＼.　 ⌒
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+438 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:08:40 ID:iyfDGgdY
+
+
+
+
+　　　　　　 　 　＿＿＿_
++ 　 　 　　 .／ ＼　　／＼　ｷﾘｯ　　「大和」、こちら「長門」。
+　　　　　 ／　（●） 　（●）＼　　　　敵による通信傍受の可能性あり、機密保全上の理由により、
+　　　　／　　 ⌒ﾉ(､_, )ヽ⌒　 ＼　　　コールサイン以外を名乗る事は出来ませんお！オクレ。
+　　　　|　　 　　 ｀-=ﾆ=-　 　 　 |
+　　　　＼　　 　　 `ー'´ 　 　 ／ +
+
+
+
+
+
+　　　　　　　　　　／￣￣＼
+　　　　　　　　 ／　　 _ノ　　＼　　「長門」、語尾に「お」をつけて話す奴は
+　　　　　　／〔|　 －（ □）（□） 　　区隊に一人しか居ない。
+　　　　　 〔ノ^ゝ　　　　（__人__）　　　外禁2週間延長な。
+　　　　 　ノ ノ^,-　　　　｀ ⌒´　　　　分かったら、もう時間だから次の奴に代われ。
+　　　　 /´ ´ '　, ^ヽ　　　　　 }　　　　
+　　 　 /　　　　　ﾉ'"＼.　 ⌒　　　　　オクレ。
+　　　人　　　　ノ ＼／,＿ __ノ
+　 　/:::::＼_／l:::::::＼ｰ-.,ノ､ﾞ,
+　 ,/::::::::::ﾉ::::|＿:::;､>､_ l|||||ﾞ!:ﾞ､-､_ 
+
+
+
+
+
+
+439 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:08:56 ID:iyfDGgdY
+
+
+
+
+::::::... ..丶
+:::::::....　...＼
+:::.' ──-.. ＼　　　　　　「大和」、こちら「長門」。
+:::::::... ⌒__丶　＼　　　　　りょ、了解しましたお・・・だろ、常識的に考えて・・・
+:::::::::.... .'::. ）.ヽ　 .ヽ
+:::::::::::.... __ ..丿　　　ヽ　　　通信終わり・・・・・・
+:::::::::::...　　　　ヽ　　　.ヽ
+:::::.._ ﾉ ヽ.___＿丿　　　.丶
+::::::::::::::....　..::ﾉ　　　　　　.）
+:::::::::::.. 　 ../　　　　　　 .ﾉ
+:::::::::.⌒ "　　　　　　　..ﾉ
+:::::::::::::::::.... 　　 ....::::::../
+:::::::::::::::::::::..　......::::.／ 
+
+
+
+
+
+
+　　　　 ／￣￣＼
+　　　／　　 _ノ　　＼　　
+　　　|　　　 （ ─）（─　　・・・お前もひと笑いのために体張るなぁ。
+　　　|　　　 　 （__人__）　　　あと、最後にオレのフリしなかったか？もう完全にﾊﾞﾚてたぞ？
+.　　　|　　　　　　　　ﾉ　
+　　　 |　　　　　∩ ノ)
+　　／　　　　／ ＿ノ´　ﾑﾀﾞﾅｱｶﾞｷ・・・
+　 (.　 ＼ ／　.／ 　 │
+　　＼　 “　／_＿_|　 |
+.　　　 ＼／ ＿＿＿ / 
+
+
+
+
+
+
+441 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:09:30 ID:iyfDGgdY
+
+
+
+
+　　 　 　　　　　　 , '´ ￣￣ ` ､　　　ははは！
+　　　　　　　　　　i　r-ｰ-┬-‐､i　　　まーこれに懲りたら、そう調子に乗るな。お前のユーモアセンス、嫌いじゃないがな。
+　 　 　　　　　　　|　|,,＿ 　 ＿,{|　　　この訓練が終わったら、区隊長の半長靴でも磨かさせてもらえ。
+　　　　　　　　　　Ｎ| "ﾟ'`　{"ﾟ｀lﾘ　　　出来次第で、ひょっとしたら、外禁短くしてくれるかもしれんぞ。
+　　　　 　 　 　 　 ﾄ.i 　 ,__''_　 !　　　　
+　　　　 　 　　　／i/ l＼ ー .ｲ|､　　　
+　　　　,.､-　￣/ 　|　ｌ　 ￣ / |　|` ┬-､
+　 　 /　 ヽ.　/ 　 　ト-` ､ノ- |　 l　　l　 ヽ.
+　　/　　　 ∨ 　 　　l 　　|!　 | 　 ｀>　|　　i
+
+
+
+
+
+　 　 　　　＿＿＿_
+　 　　　／　　 　 　＼　　　　ピ、ピカピカにさせて頂きますお・・・
+　　　／　 _ノ 　ヽ､_　 ＼
+　 ／ 　oﾟ⌒　　　⌒ﾟo　 ＼
+　 |　　　　 （__人__）　　　　|
+　 ＼　　 　 ｀ ⌒´ 　 　 ／ 
+
+
+
+
+
+
+442 ：<strong><span style="color:#00CC00">1＠ミリオタ ◆hRWHMPOjOc</span></strong>：2010/11/06(土) 17:09:46 ID:iyfDGgdY
+
+
+
+
+│　とまぁ、こんな感じで、広い駐屯地を使って無線通信の実地体験をするのである。
+│　そして、調子に乗ったら死亡フラグなのであーる。
+..＼　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+....　￣￣∨￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+　　　 ﾍﾍ_　η
+　　 /ΦΦ ソ
+　 ζ　∀　|
+　　υ 　　/
+　　　| イ/
+　￣￣￣￣￣
+
+
+
+
+
+第３６話　END 
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/2912/clap" id="fc2button-clap-2912" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-2912").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/10.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/2912/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫が陸上自衛隊少年工科学校に入るようです　第３６話　はじめてのむせん" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-2912.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-2932.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第４３話　ヘリコプター体験搭乗 (2010/12/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2931.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第４２話　地獄のパレード訓練 (2010/12/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2930.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第４１話　はじめての当直伝令 (2010/12/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2929.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第４０話　少工の一日＠休日～完全版～ (2010/12/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2922.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３９話　行軍訓練 (2010/12/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2921.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３８話　部活の対外試合 (2010/12/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2920.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３７話　開校祭（文化祭） (2010/12/26)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫が陸上自衛隊少年工科学校に入るようです　第３６話　はじめてのむせん (2010/12/22)			</li>
+<li class="relate_li">
+<a href="/blog-entry-2894.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３５話　状況、ガス！ (2010/12/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2887.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３４話　駐屯地納涼花火大会＆翌朝のこと (2010/12/17)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2883.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３３話　夏休み (2010/12/16)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2882.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３２話　先輩の英霊に捧ぐ (2010/12/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2881.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３１話　軍事英語Lesson 1 (2010/12/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2880.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第３０話　少工生の一日＠平日～完全版～ (2010/12/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2869.html">
+					やる夫が陸上自衛隊少年工科学校に入るようです　第２９話　天下りの現実を見た (2010/12/12)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫が陸上自衛隊少年工科学校に入るようです　第３６話　はじめてのむせん" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/12/22 06:56 ]
+<a href="/blog-category-258.html" title="カテゴリを参照">職業・体験系　やる夫が陸上自衛隊少年工科学校に入るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html#comment_list" title="この記事のコメントを参照">CM(4)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/2912"
+    dc:title="やる夫が陸上自衛隊少年工科学校に入るようです　第３６話　はじめてのむせん"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html"
+    dc:subject="職業・体験系　やる夫が陸上自衛隊少年工科学校に入るようです"
+    dc:description="│　社会人の必須スキル「ホウ・レン・ソウ」はあまりにも有名であるが・・・｜　自衛隊に於いては、極限時のホウ・レン・ソウが生死と戦いの勝敗を左右するのである。｜　情報は、まさに命なのだ。｜　｜　そして、そんな情報を伝えるための有線・無線通信の基礎についても、必修科目となっている。｜　│　ちなみに、「情報」という言葉は、明治時代に外国の軍隊の教科書を和訳した際、｜　英語のinformationに相当する言葉の訳を..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-12-22T06:56:28+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2914.html" title="やる夫で読む『南北山城軍記』『兼山記』　第５話　「范可　義龍」">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2909.html" title="やる夫は鎌倉幕府を成立させるようです　巻第参拾漆">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment12301">[ 12301 ] <strong></strong></p>
+</div>
+<div class="comb">
+笑った。面白かった<div class="comment_navi">
+[ 2010/12/22 12:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2912" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment24269">[ 24269 ] <strong></strong></p>
+</div>
+<div class="comb">
+怖いもんなしか、>>1の友人はｗｗｗ
+憎めない人柄でいいね。<div class="comment_navi">
+[ 2011/10/09 17:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=24269" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment28962">[ 28962 ] <strong></strong></p>
+</div>
+<div class="comb">
+海自は
+「オーバー」と「アウト」を使用する<div class="comment_navi">
+[ 2012/01/07 07:27 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2912" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment83781">[ 83781 ] <strong>k</strong></p>
+</div>
+<div class="comb">
+現役だけど、無線機でおふざけなんかしたら文字通りのフルぼっこの体罰だよ。<div class="comment_navi">
+[ 2015/10/29 18:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2912" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-2912.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="2912"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/2912-ea93d8ca">http://oyoguyaruo.blog72.fc2.com/tb.php/2912-ea93d8ca</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2914.html" title="やる夫で読む『南北山城軍記』『兼山記』　第５話　「范可　義龍」">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2909.html" title="やる夫は鎌倉幕府を成立させるようです　巻第参拾漆">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

@@ -1,0 +1,1035 @@
+<div class="article">
+
+
+
+
+┏─────────────────┓
+│　イギリスの素敵な　対戦車自走砲。　　 │
+┗─────────────────┛
+
+　　　　　　　 　 　 　 　 _,　 -──‐- ､､
+　　　　　 　 　 　 　 　 入 ｀ヽ￣｀ヽノ二ﾆy‐-､
+　　　　　 　 　 　 　 ,r' /.::::>､.:.:.:::::::{,/⌒Y⌒ヽﾄ､
+　　　　　　　　　　 /　/.::::/　 ＼.::::（　,〈男〉､ / j〉　
+　　　　　　　　 　 ,′,ｲ／⌒　　　⌒:ゝ彡ﾆミノ;ｲ　　　　すいませーん。
+　　　　　　　 　 　!ﾚｲ/　（●） 　（●）ヾ､ イ:::i:/
+　　　　　　　　　 〈川j　 　　　__´___　　　ﾞ,;;;;;;;ﾘ　　　　　　この対戦車砲で
+　　　　　　　　　　｀ゞj!　　　　`ー'´　　　　i;;;;/　　　　　　自走砲を作ってください。
+　　　　　　　　　　　　＼　　　 ー-　　　 ／
+　　　　　　　　　　　　／　　　　　　　　　＼
+　　　　　　 Oヽ.
+　 　　　　　 ヽ､.ﾉヽ　　　　　　
+　 　　　　　　　　＼＼　
+　 　　　　　　　　　 ＼＼
+　 　　　　　　　　　　　＼＼＿＿＿＿＿＿_　　　　オードナンス
+　 　　　　　　　　　　　i　 ＼,)lヽ､ 　　　　　 | 　　　　QF 17ポンド砲
+　 　　　　　　　　　　　|　　と,.!､ヾ＼ ;.　　 . |　　　　
+　 　　　　　　　　　　　|　　 ＼ ヽ,)>､) 　　　|　　　　　お強い。
+　 　　　　　　　　　　　|＿＿|　　　　　|＿＿|ヽ　　　　
+　 　　　　　　　　　　　|＿＿＿＿＿＿＿＿|ﾆﾆﾆ;;;;;;;;;----､､､､､､=;i
+　 　　　　　　　　　　　　ヽ___ ,￣￣￣ヽ!ﾆ/　　　　　　￣￣""""{}-!
+
+
+
+
+
+
+
+
+
+
+440 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:04:04 ID:8OQ+oRv9
+
+
+
+
+
+    　　　　　　　　　　　　　　　　 ＿＿＿＿__
+    　　　　　　 　 　 　 　 　 ....:´:::::::::::::::::::::::::::::`:...､
+    　　　　　　　　　　 　 ／::::::::::::::::::::::::::::::::::::＼:::::＼
+    　　 　 　 　 　 　 　 /:::::::::::::::::::::::::::::::::::::::::::::::＼:::::＼
+    　　　　　　　　　　 /:::::::::::::/::::::::::::::::::::::::::::::::::::::::＼::::::.
+    　　　　　 　 　 　 /:::::::::::::/::::::::::/:::::／`㍉:::::::::::::::::!:::::::.
+    　 　 　 　 　 　 .::::::::::::::/:::/:/:厶イ 　 　 　｀ヽ ::::::ｉ::::::::i　　　
+    　　　　　　　　　|::::::|::::::i:::/:/i/　　　　　　　　　 ∨|::i:::::|　　
+    　　　　　　　　　|::::::|::::::i/i/　　　　､　　 _ -‐　　 l::｢.|:::::!　　　いっそがしいのに
+    　　　　　　　　　|::i:八::::|__｀ヾｰ'､　 ｀¨´ ＿,,　_　 l::| }:::/　　　 また面倒なことを。
+    　　　　　　　　　iﾙﾍ:∧f若犱ｧ　　 　 f若犱ｱ'　 |ﾘ/:/
+    　　　　　　　　　ｉ′ Ⅵ:|　　　　　　　　　　　　　,:i/{〈　　　　　古くなった戦車の車体を使って
+    　　　　　　　　　　　 ‘:込、　　　　′　　 　 　 ,小::::::＼　　　　簡単に作るか……。
+    　　　　　　　　　　　 /:::::个　.　　, -- 、　　 ／ |i:::::::::::::::.
+    　 　 　 　 　 　 　 /::::::::/　　i＞ .　 　 　 イ_.　八::::::::::::::!
+    　 　 　 　 　 ---､i:::::／＿_ノ⌒ ≧ｰ≦--' 〈　 　＼｢＼|
+    　　　 　 　 /　　 　￣ }　＼{＼　　｀V´　 r≦{
+    　 　 　 　 /　　　　　 /　　　＼　三王三}　 /＼
+    　　　　　 ′　 　 　 /　　 　 　 `ー‐|_/〉　　＼/＼_
+    　　　　　i　　 　 ヽノ=-　　　　 　 　 {三ヲ　　 　 〈{　 ｀丶
+    　　　　　|　　　 ／　　　　　　　　　　　　　 /} ､＿_〉　 　 i
+    　　　　　i　 　 /　　　　　　　　　:.　　　　　ﾚ　/￣i　,　　 |
+    　　　　　　　　{　　　　　　 　 　 .::.　 　 　 　 　 　 ∨
+    　　　　 _∧　　ﾟ。　　　　　 　 ...: : :.　 　 　 　 　 　 i　　 /
+    　　　　{ /∧　　∨: . . . . . : : : : : : : : . 　　　　　　 ,　　/
+    　　　　i///,i　　　ﾟ。: : : : : : : : /: : : : : : : : : : : : :./　 /
+
+
+
+
+441 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:04:20 ID:8OQ+oRv9
+
+
+
+
+    　ﾃﾚﾃﾚｯﾃ　ﾚｰｯﾃﾚｰ
+    　　　　　　　　　　　　　　歩兵戦車 Mk.III 　　バレンタイン　　　
+    　　　　　　　　　　　　　　　　　　　 　 　　　　　　 　＿
+    　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 (_o＿,ヽ　　　旧式化して
+    　　　　　　　　　　　　　　　　　　　　　　　 　　 　 (ﾟдﾟ*)　　　　たっぷり余ってるぞ！
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　G^ｌ^ﾛヽ __ 　　　
+    　　　　　　　　　　　 　 　 　 　 　 　 ,_ ＿＿___r''ｭ─‐─┴┴i─ ､iiｭ_,,.. ､
+    　　　　　　　　 　 　 　 　 　 　 　　 r' |'´￣　|　　　　　　　 　 |　　rｭ_)､‐ ﾍ
+    　 r─────────┬i￢￢ } !◎ 　 |　　 （(_):） 　 　 |　　　|ｭ‐''"´　　n　
+    　　￣￣￣￣￣￣￣￣￣￣￣￣`'ｭヽ, ‐ｭ_!　　　｀´ 　　 　 ir‐rｭ┘i_r.ｭr.ｭ.r.||‐ｉ─ ､
+    　　　　　　　　　　　　　　　　 r'"´￣￣|iｉ_￣￣￣￣￣￣￣￣|￣UｌｌUﾆUﾆU ||__　　　＼
+    　　　　　　　　　　 ＿rｭ＿＿[iiニr''"´_＿|=====i=====i=====|i==ill_llニニﾆ｡ll_ll_|ニニニ`───‐'､
+    　　　　　　　　　<´　|　　_,,..．-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-u-un ､＼
+    　　　　　　　　　r'｀-''"´ ヽ　　　　 　 ||＼ (○) ／||　　　　(○)　　　　||＼ (○) ／||　　　　 /´ ,-　ヽ`‐'
+    　　　　　　　　　= i　 ◎　ii＿＿,r ─ ､＿＼／＿＿＿＿＿|＿＿＿＿＿.＼／_　, -‐-､＿.i　　ｰ'　ﾉﾉ
+    　　　　　　　　　 `-､ ─ ''　　　/　,- 　', ‐ ,r─ ､ ‐,r─ ､ ──‐,r─ ､　 ,r─ ､　/　,-　 ', 　` -,,､-''
+    　　　　　　　　　　　 `''- ､_､ 　 ',　 -'　ﾉ　|ｉ (０) i| |ｉ (０) i|　　　 |i (０) i| |i (０) i|　',　 -'　ﾉ,,､-''"
+    　　　　　　　　　　　　　　　`''‐- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-''"
+
+
+
+
+
+442 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:04:31 ID:8OQ+oRv9
+
+
+
+
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　 　 i§
+    　　　　　　　　　　　　　　　　 　 |§
+    　　　　　　　　　　　 　 　 　 ,．ｪ'―￢＝ｰr-､　　　　　　　　　　　　　　　　　　　　　　ｳｲﾝｳｲﾝ
+    .　　　　　　　 ========lｺl《ｺ｝|　_　_　 _ ｜ ｢　　　ｷｭﾎﾟﾝ！　　　　　　　　　　　　＿＿　　　　
+    　　　　　　　　　　　　　　　　￣￣￣￣￣　　　　　　　　　　　　　　　　　　　　　　 { == }二二二
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ￣￣　　　　
+
+    　　　　　　　　　　　　……の砲塔を取りまして～
+
+    　　　　　　　　　　　
+    　　　　　　　　　　　　　　　　　　　　　　＿┌‐r亠┴――‐rrr‐'´ｪrｮrｮrｮr‐-､、＿
+    　　　　　　　　　　　　　　　　　　　,．-=＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝=- ､
+    　　　　　　　　　　　　　　　　　　く_＞'ヾ¨＾¨＾¨＾[〔◎〕]¨＾¨＾◎¨＾¨＾[〔◎〕]¨＾¨＾γ⌒ヽr'
+    　　　　　　　　　　　　　　 　 　 　 ヾ'=ソ､_ r'´ﾐヽ_>‐＼>‐､＿＿ , ‐<／‐<_r'´ﾐヾヽ _,,ノ
+    　　　　　　　　　　　　　　　　　　　　｀ ｰ-､ヾ_彡'_ヽ_ノヽ_ノ＿＿_ヽ_ノヽ_ノ_ヾ_彡',．'"´
+    　　　　　　　　　　　　　　　　　　　　　　　 ｀¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨´
+
+
+
+
+443 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:05:01 ID:8OQ+oRv9
+
+
+
+
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　∧∧ 　§　　　ｳｲﾝｳｲﾝｳｲﾝ
+    　　　　　　　　　　　　　　　　　　　　　　　　 (ﾟдﾟ*)　§
+    　＿＿　　　　　　　　　　　　　　　　　　　　l￣￣￣￣￣￣|　　　　　さっきの砲を載せます。
+    　{ == }二二二二二二二二二二二二二/　　　　　　　　|ﾉ|　　）））
+    　￣￣　　　　　　　　　　　　　　　　　＿/　＿＿＿＿＿|＿|
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　‐'´ｪrｮrｮrｮr‐-､、＿
+    　　　　　　　　　　　　　　　　　　　,．-=＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝=- ､
+    　　　　　　　　　　　　　　　　　　く_＞'ヾ¨＾¨＾¨＾[〔◎〕]¨＾¨＾◎¨＾¨＾[〔◎〕]¨＾¨＾γ⌒ヽr'
+    　　　　　　　　　　　　　　　　　　　 ヾ'=ソ､_ r'´ﾐヽ_>‐＼>‐､＿＿ , ‐<／‐<_r'´ﾐヾヽ _,,ノ
+    　　　　　　　　　　　　　　　　　　　　　｀ ｰ-､ヾ_彡'_ヽ_ノヽ_ノ＿＿_ヽ_ノヽ_ノ_ヾ_彡',．'"´
+    　　　　　　　　　　　　　　　　　　　　　　　 ｀¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨´
+
+
+
+
+444 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:05:15 ID:8OQ+oRv9
+
+
+
+
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 l.　§　i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 il　§　li
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　∧∧ 　§　　　ｶﾞｼｬｰﾝ
+    　　　　　　　　　　　　　　　　　　　　　　　　 (ﾟдﾟ*)　§
+    　＿＿　　　　　　　　　　　　　　　　　　　　l￣￣￣￣￣￣|
+    　{ == }二二二二二二二二二二二二二/　　　　　　　　|ﾉ|
+    　￣￣　　　　　　　　　　　　　　　　　＿/　＿＿＿＿＿|＿|‐'´ｪrｮrｮrｮr‐-､、＿
+    　　　　　　　　　　　　　　　　　　　,．-=＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝=- ､
+    　　　　　　　　　　　　　　　　　　く_＞'ヾ¨＾¨＾¨＾[〔◎〕]¨＾¨＾◎¨＾¨＾[〔◎〕]¨＾¨＾γ⌒ヽr'
+    　　　　　　　　　　　　　　　　　　　 ヾ'=ソ､_ r'´ﾐヽ_>‐＼>‐､＿＿ , ‐<／‐<_r'´ﾐヾヽ _,,ノ
+    　　　　　　　　　　　　　　　　　　　　　｀ ｰ-､ヾ_彡'_ヽ_ノヽ_ノ＿＿_ヽ_ノヽ_ノ_ヾ_彡',．'"´
+    　　　　　　　　　　　　　　　　　　　　　　　 ｀¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨´
+
+
+
+
+
+445 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:06:18 ID:8OQ+oRv9
+
+
+
+
+
+    　 　 　 　 　 _,　 -──‐- ､､
+    　　 　 　 　 入 ｀ヽ￣｀ヽノ二ﾆy‐-､
+    　　 　 　 ,r' /.::::>､.:.:.:::::::{,/⌒Y⌒ヽﾄ､
+    　　　　 /　/.::::/　 ＼.::::（　,〈男〉､ / j〉
+    　　 　 ,′,ｲ／⌒　　　⌒:ゝ彡ﾆミノ;ｲ　　あのー…砲塔じゃなくて
+    　 　 　!ﾚｲ/　（●） 　（●）ヾ､ イ:::i:/　　　直載せで固定ですか？
+    　　　 〈川j　 　　　__´___　　　ﾞ,;;;;;;;ﾘ
+    　　　　｀ゞj!　u　　`ー'´　　　　i;;;;/　　　　　
+    　　　　　　＼　　　　 　　　|＼ ／　／|
+    　　　　　　／　　　　　/⌒ﾉ　 ＼／ （ ）
+    　　　　　　|　　　　　 /　/ |　　 　　　　|
+
+
+    　　　　　　　　＿＿
+    　　　　　 ..::´::::::::::::::::::｀::..
+    　　　 ／:::::::::::::::::::::::::::::::::::＼
+    　　 /:::/:::／:::／l:/^㍉:::::::ヽ:::.
+    .　 /:::/／-､´　　-- ､　ヽ:::::i::::
+    　 ::::i::::l　　　　　 　 　 　 }γv;　　　バレンタインの小さい車体だと
+    .　从:::::.《斧ﾒ　 　 斧ﾒ》　;:'ﾉ/　　　　回転砲塔は無理だから。
+    　 　 乂:.　　'　 　 　 　 ／く
+    　　　7:::::〕ｓ。 ^　 ｡sイ:::::::::}　　　　　それより、これだと
+    　　 ┌――┐　ｷ 7ヽゝ:::}ﾘ　　　　　　全長が長くて邪魔だし
+    　　　∨Jｐ/∧＿V　/　　　　　　　　　重量バランス悪いな…。
+    　　 　　ー―､二二./　　　　　　　　　
+    　　　　　 /{　　 　 〈
+    　　 　 　 ｉ {　V 　}ヽ
+
+
+
+
+446 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:06:43 ID:8OQ+oRv9
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　 ＼ー―‐､―┴.､＼
+    　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 ´: : : : : :＼: : : : : :｀: . .
+    　　　　　　　　　　　　　　　　　　　　　　　 ／:.:／:.:.:.:.:.:.:.:.:.:.:.: : : : : : : : : ＼
+    　　　　　　　　　　　　 　 　 　 　 　 　 　 /:.:／:.:.:＞'´￣￣￣/:.:.:イ: : : : : :.＼
+    　　　　　　　　　　　　　　　　　　　　　　/∠彡ノ/´　　 　 ｀ヽ￣　∨: .::､: : : : ＼
+    　　　………。　　　　　　 　 　 　 　 　 ＿_少'　　_ノ　 　 　} 　 _｣:.:.l:.: :＼ : : : :.
+    　　　　　　　　　　 　 　 　 　 　 　 　 　 ﾉ　　　　　^＼　　　　　　Ζ:.:|:.: :.|: ＼＼|
+    　　　　　　逆に載せるか。　　　　 　 /　 　 　 　 　 乂>､ 　　　　}:.:.:|:.: :.|: : : ＼|
+    　　　　　　　　　　　　　 　 　 　 　 　 , iヽ　　　　　　　 　 　 　 　 从:ﾘ:.:.:ﾘ: : .:.: : |
+    　　　　　　　　　　 　 　 　 　 　 　 　 i　｀ 　 　 　 　 　 　 　 　 ／:.:./:.:.:/:.:.:.:.:.: ::
+    　　　　　　　　　　　　　　 　 　 　 　 ﾉ　　　 　 　 　 　 　 　 ／∠二 〉.:.:.:.:.: /:./
+    　　　　　　　　　　　　　　　　　　　　 ＼　　　　　 　 　 　 ∠ィ^7　／:.:.:.:.:.:./:./
+    　　　　　　　　　　　　　　　　　　　　　　　 ┬　　 __　　 -‐ｧ―=彡:.:.:.:.:.:.:.彡'
+    　　　　　　　　　　　　　　　　　　 　 　 ＿__｣＿＿＿_　 　｛.:.:.:〈/⌒::＜＿__
+    　　　　　　　　　　　　　　　　　　　 〈＼:::⊂⊃:::::::::::::::｀丶｛;／//:.:.:.|:.:.:.:.:.:.:.:｀ヽ
+    　　　　　　　　　　　　　　　　 　 　 ∧　＼:⊂⊃￣｀丶:::::::＼//:.:.:|:.|＼:.:.:.:.:.:.:. |
+    　　 　 　 　 　 　 　 　 　 　 _　 -‐::::∧ ／::::::::／:::::::::::::＼／/:.:.:./:八 :)ﾉ＼.:.:.:|
+    　　　　　　　　　　　　 　 　 |r＼::::::::::::/:::::::::::/::::::::::::::ｰ=彡':.:.:.／|/　　　　　＼|
+    　　　　　　　　　　　　 　 　 ||:::::∨::／|::::::::::/:::::::::::::::::::_／.:.／::::::|
+    　　　　　　　　　　　　 　 　 ||:::::: ∨ :::|:::::::: i:::::::::::::::::::::￣￣＼)〉｣
+    　　　　　　　　 　 　 　 　 __ル'ﾞ⌒∨: |:::::::: |:::::::::::::::::::::::::::::::::::::∨
+    　　　　　　　　　　　　´　 　 　 ﾆ二∨|:::::::::::::::::::::::::::::::::::::::::::::::::::::.
+    .　　　　　　　 /　　 　 　 　 --　 __　 ﾞ|:::::::::::＼::::::＼:::::::::::::::::::::::::::::.
+    　 　 　 　 　 ,　. . . . . . . ...　　　　　＼|::::::::::::::: ＼::::::＼::::::::::::::::::::::::::.
+    .　　 　 　 　 i . : : : : : : : : : : : : .　 　 ∧::::::::::::::::::::＼::::::＼::::::::::::::::::::::＼
+    .　　 　 　 　 | : : : : : : : : : : : : : : :　 /　i＼:::::::::＼ :::::＼::::::＼::::::::::::::::::::::＼
+    　　　　　　 八: : : : : : : : : : : : : : : :/　/|　 ＼:::::::::＼:::::::＼::::::＼::::::::::::::::::::::＼
+    .　　　　　　　 i＼: : : : : : : : : : : :../　　 |　　　＼:::::::::＼:::::::＼:::::{＼::::::::::::::::::::::＼
+    .　　 　 　 　 八: :＼: : : : : : : : :.　　　　|　　　　 i＼:::::::::＼::::/＼＼::＼:::::::::::::::::::::
+    .　　　　　 　 　 ＼: :＼: :: : : ／　　 　 ,ﾞ　　　　,ﾞ　 i＼:::::::::＼::::::::::::＼::＼:::::::::::::::
+    　　　　　　　　　　　　 ＿_ 　 　 　 ＼,ﾞ　　 　 ,ﾞ　　|　 ＼::::::::::::::::::::::::::::￣＼::::::::::
+    　　　　　 　 　 　 　 　 　 ﾞ,　　 　 　 ,ﾞ　　 　 ,ﾞ　:　｛＼　 ＼::::::::::::::::::::::::::::::::::::::::::
+    　　　　　　　　　　 　 　 　 ﾞ,　　 　 /　　　　 ; 　 ＼＼＿_ノ￣￣￣￣￣￣￣￣
+
+
+
+
+
+447 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:07:07 ID:8OQ+oRv9
+
+
+
+
+    ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§　　　　　　　ｶﾞｼｬｰﾝ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§　 ∧∧
+    　　　　　　　　　　　　　　　　　　　　　　　　　　§　(*ﾟдﾟ)
+    　　　　　　　　　　　　　　　　　　　　　　　|￣￣￣￣￣￣l　　　　　　　　　　　　　　　　　　　　＿＿
+    　　　　　　　　　　　　　　　　　　　　　　　|(,|　　　　　　　　ﾞｉ二二二二二二二二二二二二二{ == }
+    　　　　　　　　　　　　　　　　　　　　　　　|＿|＿＿＿＿＿　ﾞｉ＿　　　　　　　　　　　　　　　　　￣￣
+    　　　　　　　　　　　　　　　　　　　,．-=＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝=- ､
+    　　　　　　　　　　　　　　　　　　く_＞'ヾ¨＾¨＾¨＾[〔◎〕]¨＾¨＾◎¨＾¨＾[〔◎〕]¨＾¨＾γ⌒ヽr'
+    　　　　　　　　車体前　　　　　　　 ヾ'=ソ､_ r'´ﾐヽ_>‐＼>‐､＿＿ , ‐<／‐<_r'´ﾐヾヽ _,,ノ　　　車体後
+    　　　　　　　　　　　　　　　　　　　　　｀ ｰ-､ヾ_彡'_ヽ_ノヽ_ノ＿＿_ヽ_ノヽ_ノ_ヾ_彡',．'"´
+    　　　　　　　　　　　　　　　　　　　　　　　 ｀¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨´
+
+
+
+
+
+448 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:07:27 ID:8OQ+oRv9
+
+
+
+
+
+    　　　　　　　　　 　 　 　 ....::´:::::::::::::::::::::::::::`::..
+    　　　　　　　　　　　　／::::::::::::::::::::::::::::::::＼::::::::＼
+    　　　　　　　　　　 ／::::::::::::::::::::::::::::::::::::::::::::＼:::::::＼
+    　　　 　 　 　 　 /::::::::::::::::::::::::::::::::::::|i::::::＼::::::＼:::::::.
+    　　　　　　　 　 /:::::::::::::/:::::::::/::://:::ﾘ㍉:::::::＼::::::::::::::.
+    　 　 　 　 　 　 ′ :::::::::i:::::::::/::://:::/　　 ＼::::::＼:::::::::|
+    　　　　　 　 　 i::::::::::::::::|::::::/:::/1:::/ 　 　 　 ＼::::∧:::::|
+    　　　　　 　 　 |:::|:::::::::|:|:::/ｌ::/　!:/　　 　 　 　 ∨:::i::::ｉ|　　　これでいい。
+    　　　　　 　 　 |:::|:::::::::|:i/__i/　 j'　　-― ￣` 　 }::::::/ｉ|
+    　　　　　 　 　 |:::ｌ:::::::::|:｢￣`　　　　　　 　 　 　 |::::んﾘ　　　全長が短くなったし
+    　　　　　 　 　 |:::i::|::::::|:|__　 　 　 　 　 　 __ -　 i:://く　　　　重量バランスもクリア。
+    　　　　　 　 　 |:::i::ｌ::::::|:ﾄ气_ﾃ　　　　 气テ'´ 　 i//:::::::｀ヽ
+    　　　　　 　 　 |:::i∧:::从　 　 　 }:.　　　　 　 　 八＼::::::::::::＼
+    　　　　　 　 　 j:/ 　 〉込、　　　 　 　 　 　 　 /:/ 　 ＼::::::::::::＼
+    　　　　　　　　 　 ／:::::::::::＼ 　　､ __　ｨ　 　 ／{/--.　　 ＼::::::::｢｀
+    　 　 　 　 　 　 /:::::::::::::::八:{`　. 　　　.　　／}ﾆﾆﾆ!＿＿_≧=＼
+    　　　　　　　　 /::::::／i／　　__/介ｰ≦　／＜二ﾆﾆ|二二二二二＼
+    　　　 　 　 　 厶ィ＿＿_／二//｜/　 〈二二//7二!二二二二二二＼
+    　　　　　　　　 /二二／ﾆﾆﾝ/_}`ｰ'ア　 V∧{/{/ﾆﾆ{二二二二二二ﾆﾆ＼
+    　　　　 　 　 /i二二//￣￣ 　 ￣＼__　 Vﾆ＼ﾆﾆﾆ!ﾆﾆ二二二二二二二＞､
+    ＿＿＿＿__//i二＞'　　　　　　　<二ア //Oニ＼ﾆ{二二二二二＼二二二二＼
+    二二二＞'"￣￣　　　　　　　 　 --=ミ{ ∨二二二二二二二二二ﾆ＼二二二ニ＼
+    二ニﾆ/. .　　　　 　 　 　 　 　 　 　 -=ミ} Ⅳ二二二二二二二二二ﾆﾆ＼二二二ニ＼
+    ニニﾆ{: : : : : .　　　　　 . : : : : : : .　　　-ﾍ{ ∨二二二二＼二二二二ニニ＼二二二ニ＼
+    二二ﾆ}: : : : : : : : : : : : : : : : i: : : : : : : .　＼} i∨ﾆ二二二二＼二二二二ニニ＼二二二ニ＼
+    二ﾆﾆ人 : : : : : : : : : : : : : : :.!: : : : : : : : ..＼!ﾘ.' ＼二二二二二＞=三二二二ﾆﾆ＼二二二ニ＼
+    二＞'{　 ＼: : : : : : : : : : : : : !: : : : : : : : : :.∨′　 ＼二二二二二二二二二二二ニ＼ニニニニ＼
+    　　 i＼_.　＼: : : : : : : : : : :.!: : : : : : : : : ノ{.′ 　 　 ∨二二二二二二二二二二二ニ＼ニニニ
+
+
+
+
+
+449 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:07:56 ID:8OQ+oRv9
+
+
+
+
+
+    　　　　　　　　　, -「＼‐- .._
+    　　　　　　 , - ´　 ヽ　＼＼ゝ＝､,､
+    　　　　　／　　　／/＼､ :.　:〉{　ｒ;､ﾍ
+    　 　 　 /　 ./ ./.:／　　 丶､::ゝイゝ}７
+    　　　　i{. .:/ ./／ノ 　 ヽ､_　ﾆﾐﾍ/ｿ　　　えーっ！
+    　　　　i:､::{ _{´（ ○）}liil{（○）　　Vｿ
+    　　　　ゝ:`{ﾒ,　　　＿´＿　　　　j'
+    　　　　 ｀`i{､　 ヽ　|!!il|!|!l|　/　 /=､
+    　　　　　　　＼　　|ｪｪｪｪ| 　　/
+    　　　　　　　／　　　　　　　　＼
+
+
+    ━━━━━━━━━━━━━━━━━━━━━━━
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+    ━━━━━━━━━━━━━━━
+    ￣￣￣￣￣￣￣￣￣￣￣￣￣
+    ┌──────────────┐
+    │　こうして誕生したのが　　　　　　..│
+    │　アーチャー対戦車自走砲　　　....│
+    └──────────────┘
+
+
+
+
+450 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:08:35 ID:8OQ+oRv9
+
+
+
+
+    ┌───────────────────┐
+    │　この自走砲には、大きな欠点があった。　　..│
+    └───────────────────┘
+
+    　　　　　　　　　　　　　　, -「＼‐- .._
+    　　　　　　　　　　　 , - ´　 ヽ　＼＼ゝ＝､,､
+    　　　　　　　　　　／　　　／/＼､ :.　:〉{　ｒ;､ﾍ
+    　　　　　　 　 　 /　 ./ ./.:／　　 丶､::ゝイゝ}７
+    　　　　　　　　　i{. .:/ ./／　＼ ,　,／ﾆﾐﾍ/ｿ　　　砲を発射しますので
+    　　　　　　　　　i:､::{ _{´　（ ●） 　（●）　Vｿ　　　逃げといてください。
+    　　　　　　　　　ゝ:`{ﾒ,　　　　___´__　　　j'
+    　　　　　　　　　 ｀`i{､＿　　 .`ー='　　 /=､
+    　 　 　 　 　 　 　 人､__メ　　ー─　 <　　〉
+    .　　　　　　　　 　 /⌒～"￣,￣￣〆⌒,ﾆつ
+    　　　　　　　　 　 |　　,＿_＿ﾞ＿__､rヾｲｿ⊃
+    　　　　　　　　　　| 　 　 　 　 　 　｀　　l￣
+    .　　　　　　　　 　 |　　　　　　　　　　　|
+
+
+
+    　　　 　 　.-－- ..
+    　 　　／　ｨｧ:::::::::::::-､_
+    　　／　,/::::_ｪｪｪｪｪｪ_::::ヽ
+    　/　 //イ |イ .ｌ |´ ｀ll｀ヾﾍ　　あいよー。
+    　/ ⊂i⊃. ─ 　ll |─ ヽ⊂ﾄ
+    　ｲ.⊂j⊃（ ●） 　（●） ,て!
+    　 小,| 　　　（__人__）　 ﾙﾘ
+    　 ﾊ,小 　　　｀ ⌒´　 l,/
+    　,,.....イ.ヽヽ、___ ーーノﾞ-､.
+    　 　 　　　　　　　　　　　 　i
+    　　　　運転手さん　　　 　|
+
+
+
+
+451 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:09:27 ID:8OQ+oRv9
+
+
+
+
+
+    　　　砲弾を発射すると、反動を吸収するため
+    　　　砲身が後ろに下がるのだが…
+
+    　　　　この砲尾が操縦席に干渉。
+
+    　　　　ドライバーは砲の発射時には
+    　　　　車外に避難しなくてはいけなかった。
+
+    　　　　　　　　　　　　　　　　　　　　　　＿＿＿＿＿＿　　　　　￣￣────
+    　　　　　　　　　　　　　＿＿＿＿＿ ＿＿　＿＿＿￣￣￣　━━─
+    　　　　　 　 (ﾍ　　 　　|li i
+    　￣￣ ￣｀ヽ､∨　　　|li 　←　←砲尾　　　　　　ｽﾞﾄﾞｰﾝ！
+    　　操縦席　（ｿ 　 　　|l
+    　　　　　　　　∨　　　 ￣￣￣￣￣￣＿＿＿＿＿＿　　　　　￣￣────
+    　　　　　 　 　 〕　 　　　　　　　　　 ＿＿　＿＿＿￣￣￣　━━─
+    　　　　　　__／(⌒）
+    　　　　　i´　　<'ﾍソ
+    　　　　　＼､,,,,,| |､,,,
+
+
+
+
+452 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:10:00 ID:8OQ+oRv9
+
+
+
+
+
+    ┌────────────────┐
+    │そんな欠点はあったものの……。　　　│
+    └────────────────┘
+
+    　　　　 ,-､ 　 　 　 ＿＿
+    　　　　 !|｀ヾ.､,.ｨ ,.´ｰ-､ :: ::｀ヽ、
+    　　　　 .':、 >く::丶､ :: ::」WL,､_ｒvﾄ､
+    　　　　　ﾞx/::/ﾞ ＼、:: ::>ｆｰ-.,-､_ﾆ 'ｰ,　　　　よし、撃ったら逃げる！
+    　　　　　　i:ﾒ/　　 　＼.>)ｒ‐ｯ雄}::ij∠　　　　陣地転換しましょう！
+    　　　　　 ﾒ/　⌒　　　⌒ ﾞi_｀'Tfｲ 7＜
+    　　　　　 ﾚl （ ●） 　（＜）ヾﾚi:H:ir‐'ﾘ　　　　運転お願いします！
+    　　　　　　 ! ::::::､__',__,:::::::　　ｿ !ﾄi::/
+    　　　　　 ,=ゝ　　　　　　　　_,=ﾐ,く
+    　　　　 〈　　/ `ー──　' 　　 (( ∩))
+    　　 ⊂ヽγ´　　　　　　　　　　　 （　⌒）
+    　　 i !ｌ ノ　ﾉ　　　　　　　　　　.:::/　￣
+    　　 ⊂ｃノ´l　　　　　　　　　　.::/
+
+
+    　　　　　　　　　　　　　　.. -－-.
+    　　　　　　　　　　　_､-:::::::::::::ｧｨ　＼　　　　OK！
+    　　　　　　　　　　,r' ::::_ｪｪｪｪｪｪ_::::ﾞｉ,＼
+    　　　　　 　 (ﾍ　　| ll ,r' 　 ／ 　　 uﾞッ　ﾞｉ　　すぐ行くお！
+    　￣￣ ￣｀ヽ､∨ﾘﾙ 　 （○）　u ⊂i⊃ ﾄ
+    　　操縦席　（ｿ 　|（__人__）　　　⊂j⊃小
+    　　　　　　　　∨　　＼⌒ ´.　　　u　　小ﾊ
+    　　　　　 　 　 〕　 　／　　　　　　　　　　!､
+    　　　　　　__／(⌒）　　　　　ｸﾞｲｯ
+    　　　　　i´　　<'ﾍソ
+
+
+
+
+453 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:11:43 ID:8OQ+oRv9
+
+
+
+
+
+    　　車体の向きの関係で
+    　　撃った状態から「前進」で後退できる。
+
+    　　
+    　　　撃ってからの陣地転換が早い！
+    　　　　　ドライバーが乗り込む時間を考えても早い！
+    　　　　　　　移動速度は前進だから速い！
+
+
+
+    　　　　　　　　　|￣￣￣￣￣￣l　　　　　　　　　　　　　ｻｲﾅﾗｰ　　　＿　　　　三
+    　　　← 　　　　|(,|　　　　　　　　ﾞｉ二二二二二二二二二二二二二{ == }三三三三
+    　　　　　　　　　|＿|＿＿＿＿＿　ﾞｉ＿　　　　　　　　　　　　　　　　　￣￣　　三三
+    　　　　　,．-=＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝=- ､
+    　　　　く_＞'ヾ¨＾¨＾¨＾[〔◎〕]¨＾¨＾◎¨＾¨＾[〔◎〕]¨＾¨＾γ⌒ヽr'三三三三三
+    　　　　　 ヾ'=ソ､_ r'´ﾐヽ_>‐＼>‐､＿＿ , ‐<／‐<_r'´ﾐヾヽ _,,ノ
+    　　　　　　　｀ ｰ-､ヾ_彡'_ヽ_ノヽ_ノ＿＿_ヽ_ノヽ_ノ_ヾ_彡',．'"´三三三三三三三三三三
+    　　　　　　　　　 ｀¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨＾¨´
+
+
+
+
+454 ： <span style="color:#009900"><strong>◆ooEn6fLsfA</strong></span> ：14/01/13 22:12:37 ID:8OQ+oRv9
+
+
+
+
+
+    　　　　　　 _,　 -──‐- ､､
+    　　　 　 　 入 ｀ヽ￣｀ヽノ二ﾆy‐-､
+    　　　 　 ,r' /.::::>､.:.:.:::::::{,/⌒Y´∩_|_
+    　　　　 /　/.::::/　 ＼.:::（　〈男〈〈〈　ヽ
+    　　 　 ,′,ｲ／'⌒　　 ⌒ﾆミノ 〈⊃　 }　　　というわけで、
+    　 　 　!ﾚｲ/　（●） 　（●）ヾ､イ |　　l　　　この対戦車自走砲は
+    　　　　〈川j!::::: 　__´___　:::::　ﾞ,;ﾘﾉ 　ﾉ　　　案外と好評でした！
+    　　　　 ｀ゞj.!　　 `ー'´ 　　　//　 ,/
+    　　　　　〈　ゝ　　　　　　 　 /　　/
+    　　　　　 / ＿＿　　 　 　 　 　 /
+    　　　　　 (＿＿＿） 　 　 　 　 /
+
+
+
+    ※なお、WoTにアーチャー対戦車自走砲はありません。
+    ┌─────┐
+    │おわり　　.....│
+    └─────┘ 
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/6167/clap" id="fc2button-clap-6167" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-6167").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/6.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/6167/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="【WoT】金糸雀が戦車ゲーを始めたようです　番外編 　イギリスの素敵な　対戦車自走砲" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-6167.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6190.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第１０・５回　MODのお話 (2014/01/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6189.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第１０回　タンク・デストロイヤー　後編 (2014/01/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6188.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第１０回　タンク・デストロイヤー　中編 (2014/01/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6187.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第１０回　タンク・デストロイヤー　前編　 (2014/01/28)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6181.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第９回　拡張パーツでパワーアップの巻　 (2014/01/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6176.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第８回　Lee先生の苦行教室と10榴戦車　後編 (2014/01/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6175.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第８回　Lee先生の苦行教室と10榴戦車　前編 (2014/01/20)				</a>
+</li>
+<li class="relate_li_nolink">
+				【WoT】金糸雀が戦車ゲーを始めたようです　番外編 　イギリスの素敵な　対戦車自走砲 (2014/01/17)			</li>
+<li class="relate_li">
+<a href="/blog-entry-6153.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第７回　スキルと課金とﾌﾟﾚﾐｱﾑタンク　後編 (2014/01/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6150.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　スキルと課金とﾌﾟﾚﾐｱﾑタンク　第７回　前編 (2014/01/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6149.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第６回　マチルダでランチ (2014/01/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6143.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　番外編 　ハルダウンとか日本戦車雑感とか詰め合わせ。 (2014/01/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6142.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第５回　ザッとしたある日の戦場　後編 (2014/01/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6141.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第５回　ザッとしたある日の戦場　前編 (2014/01/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-6140.html">
+					【WoT】金糸雀が戦車ゲーを始めたようです　第４回　軽戦車の斥候そこそこ大作戦。　後編 (2014/01/12)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="【WoT】金糸雀が戦車ゲーを始めたようです　番外編 　イギリスの素敵な　対戦車自走砲" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2014/01/17 00:21 ]
+<a href="/blog-category-492.html" title="カテゴリを参照">ゲーム系　金糸雀が戦車ゲーを始めたようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html#comment_list" title="この記事のコメントを参照">CM(18)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/6167"
+    dc:title="【WoT】金糸雀が戦車ゲーを始めたようです　番外編 　イギリスの素敵な　対戦車自走砲"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html"
+    dc:subject="ゲーム系　金糸雀が戦車ゲーを始めたようです"
+    dc:description="┏─────────────────┓│　イギリスの素敵な　対戦車自走砲。　　 │┗─────────────────┛　　　　　　　 　 　 　 　 _,　 &#45;──‐&#45; ､､　　　　　 　 　 　 　 　 入 ｀ヽ￣｀ヽノ二ﾆy‐&#45;､　　　　　 　 　 　 　 ,r' /.::::>､.:.:.:::::::{,/⌒Y⌒ヽﾄ､　　　　　　　　　　 /　/.::::/　 ＼.::::（　,〈男〉､ / j〉　　　　　　　　　 　 ,′,ｲ／⌒　　　⌒:ゝ彡ﾆミノ;ｲ　　　　すいませーん。　　　　　　　 　 　!ﾚｲ/　（●） 　（●）ヾ､ イ::..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2014-01-17T00:21:10+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6168.html" title="やらない夫が南北戦争を戦いぬくようです　第１８回　【東部戦域】　アンティータムへの道">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6166.html" title="やる夫達で辿る”太平洋戦争の軌跡”　第１３話　ガダルカナルの死闘①　　～第一次ソロモン海戦～">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment69312">[ 69312 ] <strong></strong></p>
+</div>
+<div class="comb">
+ (ﾉ∀`)ｱﾁｬｰ<div class="comment_navi">
+[ 2014/01/17 09:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69316">[ 69316 ] <strong></strong></p>
+</div>
+<div class="comb">
+イギリスの発想力だけは凄いなｗ<div class="comment_navi">
+[ 2014/01/17 11:39 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69331">[ 69331 ] <strong></strong></p>
+</div>
+<div class="comb">
+意外と役に立ったのが笑える<div class="comment_navi">
+[ 2014/01/17 14:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無し</a>') } else {
+document.write("名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69340">[ 69340 ] <strong></strong></p>
+</div>
+<div class="comb">
+WoTにないんかい！w<div class="comment_navi">
+[ 2014/01/17 16:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69342">[ 69342 ] <strong></strong></p>
+</div>
+<div class="comb">
+うん！まごうことなき英国面だｗｗｗ<div class="comment_navi">
+[ 2014/01/17 16:54 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=69342" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69357">[ 69357 ] <strong></strong></p>
+</div>
+<div class="comb">
+イギリスは兵器の設計思想は非常に良いが
+肝心な兵器が性能と外見がアレなのは何故なんだ…<div class="comment_navi">
+[ 2014/01/17 21:36 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69359">[ 69359 ] <strong></strong></p>
+</div>
+<div class="comb">
+異端の発想……！<div class="comment_navi">
+[ 2014/01/17 21:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69363">[ 69363 ] <strong></strong></p>
+</div>
+<div class="comb">
+>>69340
+コイツ自体はないのだが、WoTの英国自走砲は
+バックの方がスピードが出て前進の方が遅いやつらばっかりなので
+このアーチャーが始祖という話。<div class="comment_navi">
+[ 2014/01/17 22:10 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69366">[ 69366 ] <strong></strong></p>
+</div>
+<div class="comb">
+これは成功例だけどその他の失敗例を見る限り、計算してやったのではなく
+単なる結果オーライだろうなあｗ<div class="comment_navi">
+[ 2014/01/17 23:41 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69373">[ 69373 ] <strong></strong></p>
+</div>
+<div class="comb">
+60式が退役して一つの時代が終わった気がした2008年<div class="comment_navi">
+[ 2014/01/18 01:26 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69412">[ 69412 ] <strong></strong></p>
+</div>
+<div class="comb">
+はよ、アーチャー実装はよ
+あとシャーマンファイアフライもおくれ
+ついでにチャーチルシリーズのHPも上げて！<div class="comment_navi">
+[ 2014/01/18 23:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69423">[ 69423 ] <strong></strong></p>
+</div>
+<div class="comb">
+アーチャーっていうのがあったのか。
+イギリス軍に供給されたシャーマンへの随伴や車体の信頼性（クルセーダーとか）の問題でファイアフライが作成されたのは知っていたが、自走砲があったこと自体は知らなかった。<div class="comment_navi">
+[ 2014/01/19 12:59 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しさん</a>') } else {
+document.write("名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69429">[ 69429 ] <strong></strong></p>
+</div>
+<div class="comb">
+WoT的には駆逐戦車？<div class="comment_navi">
+[ 2014/01/19 16:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69706">[ 69706 ] <strong></strong></p>
+</div>
+<div class="comb">
+＞アーチャーの生産は1943年中ごろに開始され、1944年10月に実戦配備
+ 
+ウィキペディアにこう書いてあったが、生産始めてから配備されるまで1年以上かかったとかどういうことなの<div class="comment_navi">
+[ 2014/01/23 13:11 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment69728">[ 69728 ] <strong></strong></p>
+</div>
+<div class="comb">
+>> 69363 
+嘘を言うなよ
+いくらイギリスSPGルートでも後進の方が速いのはティア7のあいつくらいだ<div class="comment_navi">
+[ 2014/01/24 06:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment71358">[ 71358 ] <strong></strong></p>
+</div>
+<div class="comb">
+※69706
+だいたい17ポンド砲不足のせい<div class="comment_navi">
+[ 2014/03/26 17:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment77087">[ 77087 ] <strong></strong></p>
+</div>
+<div class="comb">
+2014年のクリスマスごろ、アーチャー・ファイヤフライ・アキリーズ実装。
+17ポンド砲を撃ちまくり、前進が遅く後退の早いヘンテコぶりに乗れるようになっているぞ。<div class="comment_navi">
+[ 2014/12/27 10:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment78064">[ 78064 ] <strong></strong></p>
+</div>
+<div class="comb">
+ｖ0.9.5 Tier5でイギリスの駆逐戦車として実装されました。
+もちろん、バック移動が速いですｗ
+17ポンド砲も伊達じゃないTier7位までの重戦車をパスパスと撃ち抜きます、Tier5位の重戦車なら斜角防御してもパスパス貫通します。
+癖が強すぎですが、嵌れば強いですよ。<div class="comment_navi">
+[ 2015/02/26 01:31 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=6167" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-6167.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="6167"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/6167-98a6911c">http://oyoguyaruo.blog72.fc2.com/tb.php/6167-98a6911c</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6168.html" title="やらない夫が南北戦争を戦いぬくようです　第１８回　【東部戦域】　アンティータムへの道">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-6166.html" title="やる夫達で辿る”太平洋戦争の軌跡”　第１３話　ガダルカナルの死闘①　　～第一次ソロモン海戦～">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

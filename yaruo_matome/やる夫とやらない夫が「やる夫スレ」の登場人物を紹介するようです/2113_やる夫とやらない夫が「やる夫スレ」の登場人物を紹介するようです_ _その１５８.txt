@@ -1,0 +1,792 @@
+<div class="article">
+
+
+
+
+
+　　　　 　 ＿＿＿_ 
+　 　 　 ／　　　　　＼ 
+　 　 ／　　' "＼ , ､/ﾞ＼ 
+　 ／　　　（ ◯）ヾ'（〇）ヽ　　　　　やる夫と！ 
+　 |　　 　 "⌒（__人__）⌒ﾞl 
+　 ＼　　　 　 `i ヾ/´　／ 
+　/´⌒￣￣"⌒`ヽ ィ´`ヽ─-一､　　　　　　　　　　　　　やらない夫の！ 
+　ヾ､ー;──(ゝ,〆　　ト'ー一'～′ 
+　　 ￣l"　　　　　　　　l　　 　 　 　 _＿ﾉ⌒;　_　　　　 　 　 　 　 　 　 　 ／￣￣＼ 
+　　 　 |　　　　　　　　 _|＿-─≠￣三≠/　　　　　　　　　　　　　　　／　_／　　　＼ 
+　 　 　 l　　　　　　　 　 ￣　　_＿-─＝ノ　　　　　　　　　　　　　　（●）（● ） 　　　| 
+　　　　 l, _　　　 　 　__≠─　　　　　　　　　　　　　　　　　　　 　 　 （__人__） 　　　　|　. 
+　　　　/ 　 ､、　〆"´　　　　　　　　　　　　　　　　　　　　　 　 　 　 (,｀⌒ ´　　　　　| 
+　　　 （´　⌒￣￣ｿ⌒l　　　　　　　　　　　　　　　　　　　　　　　　 　 { 　 　　　　　　| 　. 
+　　　　｀ー───～″　　　　　　　　　　 ,. ────三＝────{ 　 　　　　　,r' 　. 
+　　　　　　　　　　　　　　　　　　　　　　　 （　≧ト　_＿＿＿三≡＿ 　　!､ 　　　　　　＼ 
+　　　　　　　　　　　　　　　　　　　　　　　 ' ー`￣三＝ 　　　　　　 ￣｀ﾞｉ　　　　　　　　　＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ﾞｉ　　　　　　　　　　＼ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ﾞｉ　　（゛⌒' ─― 　　 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ﾞｉ　　!､ ＿＿＿ ,. ` 
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　／￣￣＼ 
+　　　　　　　　　　　　　　　 ／　　ヽ_　　.＼ 
+　　　　　　　　　　　　　　　（ ●）（ ●）　　｜　　 　 ＿＿＿_ 
+　　　　　　　　　　　　　　　（__人__）　 　 　 |　 　 ／　　　 　 ＼ 
+　　　　　　　　　　　　　　　 ｌ｀ ⌒´　　　　｜　／ ─　 　 ─　　＼ 
+　　　　　　　　　　　　　　 .　{　 　 　 　 　 | ／　 （●） 　（ ●）　　＼ 
+　　　　　　　　　　　　　　　　{　　　　　　 / |　　　　（__人__）　　　　　| 
+　　　　　　　　　　　 ,-､　　　ヽ　　　　　ノ、＼ 　　 ｀ ⌒´　　　　 ,／__ 
+　　　　　　　　　　 / ノ／￣／ ` ー ─ '/＞＜　　` ー─ ' ┌､ ヽ　　 ヽ, 
+　　　　　　　　　 /　 L_　 　 　 　 ￣　　／　　　 　　　 　　　_l__(　{　r-､ .ﾄ 
+　　　　　　　　　　　　 _,,二)　　　　　／　　　　　　　　　　 　〔― ‐} Lｌ　 | l) ） 
+　　　　　　　　　　　　 >_,ﾌ　　　 　 /　　　　　　　　　 　　 　 }二 ｺ＼ 　 Li‐' 
+　　　　　　　　　 ＿_,,,i‐ノ　　　　　l　　　　　　　　　　　　　 └―ｲ 　 ヽ　| 
+　　　　　　　　　　　　　　　　　　　 l　　　　　　　　　　　　 　 　 　 i　　　ヽl 
+　　　　　　　　　　　　　　 
+　　　　　　　　　　　　　やる夫スレ登場人物紹介　第158回！ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:29:35 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+　　　　　(⌒Y⌒Y⌒) 
+　　　　／＼＿＿／ 
+　　　/　 ／　　　　＼ 
+　　 / ／ ⌒　　　 ⌒ ＼ 
+（⌒ /　　 (●)　　(●) ｜　　　さあ～て、今回の紹介人物は～？ 
+（　　(6　 ⌒（__人_）⌒ ｜ 
+（　｜　　　　 lr┬ ｌ　　｜ 
+　　 ＼　　 　 ｀ー´　／ 
+　 ／　　　　　 ー‐　　＼ 
+
+
+
+
+
+
+
+
+
+　 |┃ 
+　 |┃　ガラッ　 　 ／￣￣＼ 
+　 |┃　　　　　　／　「　 へ 　＼ 
+　 |┃　三　　 　|　（●） （●）　| 
+　 |┃　　　　 　 | 　 　 ｜　　　 | 
+　 |┃　三.　　　 |　　 __´___　　 |　　　　　　 「きれいなやらない夫」でおなじみ 
+　 |┃　　　　　　 |　 　`ー'´　　l　　　　　　 2ch派生キャラ、できない夫だお！ 
+　 |┃　　　　　　　ヽ 　 　　　/ 
+　 |┃　三　 　 　 _,,ゝ　　　 (,_ 
+　 |┃　　　　　/´　 `ー-一´　｀ヽ、　　　　　　　 おなじみじゃねーよ！初耳にも程があるだろ！ 
+　 |┃　　　　 /　、　　　　　　 ,　　}　　　　　　　　つーか俺がデフォルトで汚いみたいな言い方やめろ！＞ 
+　 |┃　三 　/　 |　 　 　 　 　 |. 　 i 
+　 | {ミヽ、__/　　|　 　 　 　 　 ﾄ,_ 　| 
+　 | ⊆＿,）二__/|　　　　　　　ﾚ 　 ﾉ 
+　 |┃　　　　　　j──‐─一ヾ,,／ 
+　 |┃ 三　　　　|　　 　ij　　 　| 
+
+
+
+
+
+12 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:29:49 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+　　　　　 ／￣￣＼ 
+　　　　／　「　　へ ＼ 
+　　　　|　 （●）（●）　|　　　　 第5回で紹介されたやる夫改変キャラ・できる夫の 
+　　　　.|　　　 ｜　　　|　　　　 やらない夫バージョンだお。 
+　　　　 |　　 __´___　　ﾉ　　　　 ふぐりの代わりに付いたシュッとした鼻がチャームポイントだお。 
+　　　　 |　　 　　　　　}　　　　　そのせいか、同じ輪郭のやらない夫よりも爽やかなイメージがあるお。 
+　　　　 ヽ　　　　　　 } 
+　　　　　 ヽ　　　 　ノ 
+　　　　　　/　　　 く　　　　　　　　　　　　　　お前俺に何か恨みでもあんのか。＞ 
+　　　　　　|　　　　 | 
+　　　　　　|　　　 　| 
+
+
+
+
+
+
+
+
+
+　/￣￣￣￣￣￣￣￣ヽ 
+　|　常識的に考えろよ。|　　　　　　　 　 似た顔をしたできる夫に比べると 
+　ヽ＿　 ＿＿＿＿＿＿/　　　　　　　　　出ているスレがかなり少ないけど 
+　　　 ∨　　　　　　　　　　　　　　　　　　 「冷静な切れ者」として扱われる事が多いようだお。 
+　　　　　　　　　　　　　　　　　　　　　　　 できない夫、の名前に反して結構やり手な役が似合うお。 
+　　 　／￣￣＼ 
+　　／　　 「　　 ＼　　　　　　　　　　　　　ただ、やる夫とできる夫とは違って 
+　　|　 　 （ ●）（●）　　　　　　　　　　　　できない夫はやらない夫とかなり被るところがあるお。 
+　　|　　　　 　 ｜　| 　　　　　　　　　　　　常識的に～で始まる口癖、 
+　　|　　　　　__´___ﾉ　　　　　　　　　　　　 理知的な性格で頭もよく博識、 
+　　|　　　　　`ー'´}　　　　　　　　　　　　　説明・解説役をやらせたら天下一品… 
+　　ヽ　　　　　 　 } 
+　　　ヽ　　　　　ノ　　　　　　　　＼　　　　あ、でもできない夫の方がイケメンかもだお。 
+　　　　/　　　 く　　＼　　　　　　　 ＼ 
+　　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼ 
+　　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼　　　　　　　　　　　　　　 おい。＞ 
+
+
+
+
+13 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:30:11 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　 でも、似た性質を持つ二人だからこそ！という使い方もあるお。 
+　　　　　　　　／　　 (●)　 ヽヽ　　　　 やらない夫が人情味のある優しい「先生」だとしたら 
+　 　　　　　／　　　（⌒　　(●)/　　　　できない夫は冷めててひょうひょうとした「教師」とか… 
+　　　　　 /　　　　　 ￣ヽ__） ／　　　　　対立させてもいいし、組ませて何かしても面白いお～。 
+　 　　　 / 　 　 ＿＿＿＿／　　　　　　兄弟だったり、双子だったりでも楽しそうだお。顔が似てるから違和感ないお。 
+　 　 　 /　　 ;／（○）三（○） 
+　 　 ／ 　 ;／ﾉし　（__人__） ヽ;　　　　　　 
+　　/　　　;| 　 ＾ 　 　`⌒″　ui　　　　　やらない夫ありきの話になってしまっているけど、もちろん単体で使うのもいいお！ 
+　　i　　　; |　　　;j 　 　　　　　|;　　　　　一歩下がったところから時折鋭い指摘やアドバイスをくれる 
+　　ヽ　　 ＼　　　　n⌒)　　／;　　　　　「前に出たりはあまりしないけど、常に皆の事をよく見ているサポート役」… 
+　 　| ＼　 （⌒ヽ／ .／　 ノ `i　　　　　 そんな位置にできない夫を据えてみたらどうだお？ 
+　 　| 　 ＼　￣＿／￣￣　ノヽ.　　　　　 
+　 　|　　　 ;/￣　　￣￣￣ 　　| 
+　　　　　　　　　　　　　　　　　　　　　　 やらない夫、首はやめるお…ボディーにするお、ボディーに… 
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ／´￣￣ ￣￣｀＼. 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／: : : :　　　　　 　 　 ＼ 
+ちょっとニヒルで涼しげな顔のAAが多いから　　　　　　　　　　　　　　　　　　　 /: : : : :　　　　　　　　　　　'., 
+何を考えているか読めないキャラっぽい、ってのもあるんだけど…　　　　　　 |: : : :　　 　 　 　 　 　 　 　 :| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| : : : : : : : : .,　　 　 　 　 　 :| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|:: : : :　/￣゛,, 、､'´｀ヽ、 　 :| 
+なんといっても　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 |:::::;;;（　 ●） ﾉヽ （　● ） ;;::| 
+「やる夫人狼村のリプレイのようです」に出ていたできない夫が　　　　　　　　 |: : : ´"''"　　 　|　 ´"''"　　:l 
+かなり切れ者だったのがめちゃめちゃ強く印象に残ってるお。　　　　　　　　　 ',: : . .　　　 　 J　 　 　 　 / 
+中の人は毎回違ったのに……すごいお。　　　　　　　　　　　　　　　　　　 ＿／二Ｌ___: :. ､＿＿___，　 　 /ハｰ､＿_ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／: : r':|　r'￣二ﾕ　　 -'　　　 　 /: : ',: :: :: :＼＿_ 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　: : : : | .|　|　/ 　) ｀)　　 　　　　./| : :.ﾍ: :: :: :: :: :: :＼＿ 
+何か企んでいるような笑みを浮かべたできない夫が　　　　　　　　　　 : : : : |.ﾉ. ﾉ /　　⌒ヽ＿　　 　／. |: : : :ﾍ: :: :: : : : : : : : .ハ 
+あの手この手で華麗に策を巡らす様は　　　　　　　　　　　　　　　　　　　: :: :: :＼　　　　　　　　 ヽ- ´ 　 .|: :､ : : ＼: :: :: : .i i: :/: ::ﾍ 
+まさにあつらえたようにAAにぴったりで、すごく感動したんだお。　　　 : :: :: : l: ｀ー┬-､　 　 　 ト､.　　/: :: :＼／: : : : {. ﾚ /: :: : ﾍ 
+中の人とリプレイスレの人の手腕やセンスに魅せられたお。　　　　 　 : : ┐|: :: :: :: :＼）　 ７ ./iii入／|: :: :: :: :＼: :: :: :Ｖ /: :: :: :: :} 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　: : イ .|__/ ,へ/⌒＼　./iiii〈 　 /! : : : : : ::/: :: :: : Ｖ: :: :,ｲ: : :! 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　イノ : : / /: :: :＼＿ ￣＼ii｝　　|: :: :: :: :/----: : .| ／ノ: :: :| 
+
+
+
+
+14 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:30:29 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+　 　　　　　　　　　　　　　／￣￣＼ 
+　　　　　　 　 　　　　　／　　へ　八＼ 
+　　　　　　　　　　　　 （●）（● ）)⌒　|　　　　　　　　　　　　　　　　　　 もちろん、やらない夫にそっくりなだけあって 
+　　　　　　　　　　　 　 |　|　　　　　　　|　　　　　　　　　　　　　　　　　　 ギャグキャラだってお手の物だお！ 
+.　 　　　 　 　　 　 　　 !__｀___.　　　　　| 
+　　　　　　　　　　　 　 { `ー'´　　　　　ﾄ､_____ 
+　　　　　　　　　　　 　 { 　　　　　 ..:.::::::|ヽ、　 ￣｀ヽ、　　　　　　　　　　　　　　　　　　　　　　　　　どういう意味だ。＞ 
+　　　　　　　　　 　 　 人 　　　 .:.:.:::::ﾉ:!::. :. . ..........:::=≧=‐- ､ 
+　　　　 　 　 　 　 _／　.:ヽ :i::::::::／.: /:::':.. .:..,. ''. ::　　　　　. :.:.:｀ヽ 
+　　　　　 , --―'´;.:.､... .: .:i :i::／:　 .:::..:,.‐''". 　 　.　 　 　 .:､　 :.:::}　　　　「やらない夫は男だって好きなようです」スレでは 
+　　 　 ／　　 . :.:.ﾉ:. ..＼.ヽヽ:　　, -‐''´ ..::: ..　 　 :　　　　 .::l . :.:.::|　　　　いつも通りクールだけど 
+　　　/　　 . .:.:.:./:. 　 　 ｀ヽ､::／　　　　 .:::､:.. .. .　:.　　:.　 .::i ...:.:∧　　　 どこかネジの外れたファンキーなできない夫で 
+　 　 |　 . . .:.:.:;ｲ::　　　　　　.:i::.　　 　 　 . .::｀''‐-=､ヽ、.:.. . .:: .:ノ:　:!　　　すごく斬新に思えてとても面白かったお。 
+　　/{::. : : .: '´.:.i::.　　 　 　 . :|:　　　　　 . .:: :.::::::::::::/ﾞ"ヽ､:..:.::´::..:　:| 
+　 ,'　｀: :...:.:.:.::.::;!::.. .　　　　.:.:|:　　　　 . . . :: :.:.:::::::::{::.　.::;'｀:‐　.::.: ;!:|. 
+　｛　　 :.　｀''''ﾞ´|:::.:.:. : . .　. .:::l::. .　. . .. .. .:.::..:.:::::::::::|::. . ::i　　 ..:::iく ::| 
+
+
+
+
+
+
+
+
+　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　　／　　-―' 　＼ 
+　　　　　　　　　|;;;;　　( ;:;:ﾉ:::<ｰ> 
+　　　　　　　　.　|"　　U　　 |　 | 
+　　　　　　　　　 |　　　;;;;＿´__;;|　　　　　あとは、基本的には強いクセがないから 
+　　　　　　　　.　 |　ι　 ` ⌒┃　　　　 キョンのような「巻き込まれ役」にも合うと思うお。 
+　　　　　　　　.　 ヽ　　　　 u #}　　　　　君子危うきに近寄らず…を貫き通すつもりが 
+　　　　　　　　　　 ヽ;;;;　 　　ノ　　　　　 周りのエネルギッシュな面々のせいで 
+　　　　　　　　 .／ ||　 　 ｀ ⌒|||　　　　 いつのまにか「危うき」の中心に、とか。 
+　　　　　　　　/ / |＼／ /　 /ｌ　| 
+　　　　　　　 / /__|　 ＼/　/　|　| 
+　　　　　　　ヽ、//////） /　 |　|　　　　　　「どうしてこうなった…」って言ってそうだな。＞ 
+　　　　　　　　/　￣￣　/　　 |　| 
+　　　　　____,/　　)--- ヽ　　　ヽ つ 
+　　　 ⊂---― 'ｰ----' 
+
+
+
+
+
+
+
+
+15 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:30:43 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼　　　　　　　……まあ、正直 
+　 ／　　　_ノ　ヽ､_.＼　　　　　 できない夫じゃなきゃいけない役柄ってのはないと思うけど… 
+／ 　　 （●） 　（●） ＼　　　　やらない夫ベースのAAだから改変がしやすいっていうのと 
+|　 　　 　 （__人__）　 　 |　　　　やる夫達と同じくAA容量が軽い、っていう利点があるお。 
+/　　　　 ∩ノ ⊃　　／ 
+(　 ＼　／ ＿ノ　|　 |　　　　　　スレの容量がレス数じゃなくてKBで決まっている板で 
+.＼　“　　／＿＿|　 |　　　　　　新しく投下しようと思った場合は重宝するんじゃないかな～…？と思うお。 
+　　＼ ／＿＿＿ ／　　　　　　表情のバリエーションもいっぱいあるお。 
+
+
+
+
+
+
+
+
+
+　 　／￣￣￣￣￣￣￣＼ 
+　／　　　　　　　 　 　 　 　 ＼ 
+/　　　　　　　　　　　　　 　 　 ヽ 
+　　　　 ／￣￣＼　　 　 ／ ｀ヽヽ　　　　それから、最初にも言ったけど 
+.　　 　 　 　 ,‐-‐､｀　　　 ._ _　　 .i　　　　できる夫に比べて「出ているスレが少なめ」だお。 
+　　 　 　 ／ r:oヽ`　　　　/.:o ヾ .|　　　　つまり「キャラの方向性が固まりかけてない」とも言えるお。 
+　　 　 　 {　{o:::::::} 　 i　　.{:::::0　} | 
+.　　 　 　 |　ヾ:::ソ　　|　　ヾ:::ｿ / ｌ 
+.　　　　　 ｀ ー ' 　 　 |　 　 ｀‐´　l　　　　そこを利点として取って 
+　　 　 　 　 　 　 　 　 |　　 　 　 .ｌ　　　　「思い切ってこんな性格にしちゃえ！」つって 
+.　　　　　　　　　 　 　 _)　　　 　 l　　　　 自分好みのできない夫に作り上げるのもいいお。 
+　　　　　　　　　　　 　ﾝｰ､　　 　ｌ 
+　　　　　　　　　　__,´<こ〈　 　　ｌ 
+　　　　　　　　　　　　‐ー′　　.ｌ　　　　　やる夫は最初「できない夫は冷静な切れ者」っぽいと言ったけど 
+　　　　　　　 　 　 　 　 　 　 　 ｌ　　　　　それを無視してとんでもねーバカに仕上げても愉快だお。 
+　　　　　　　 　 　 　 　 　 　 　 l　　　　　版権キャラではない、元ネタがないキャラだからこそ出来る事だお。 
+　　　　　　　　　　　　　　　 　 / 
+.　　　　　　　　　　　　　 　 ／ 
+　　　　　　　　 　 　 -　＜ 
+
+
+
+
+
+
+
+
+
+16 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:30:59 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+　　　　　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　　　　　　／ 　　　　　 ＼　　　　　　　　　　　「やる夫がＤＱ１でロトと賢者の子孫のようです」の大臣、 
+　　　　　　　　　　　　　|　-‐'　　ヽ､ 　 |　　　　　　　　　　 「契約者やらない夫　―荒野の春紫苑―」のできる夫とのコンビ、 
+　　　　　　　　　　　　　|　（ー）（ー） 　|　　　　　　　　　　　「やる夫がモンスターハンターＰ２Ｇに手を出すようです」の白長族一員… 
+　　　　　　　　　　　　　| 　 　｜ 　 　 | 
+.　　　　　　　　　　　　　l　　__´___ 　　}　　　　　　　　　　　 今できない夫が出てるスレはこれくらいしか知らないけど 
+　　　　　　　　　　　　　 ヽ　　　　　　./　　　　　　　　　　　どのできない夫もそれぞれ違っててとっても興味深いお。 
+　　　　　　　　　　　 　／:ヽ　　　　.ノ,'ヽ､--､ 
+　　　　　　　　 ,.-‐,ｨ‐"/ゝ.ヽ.＿__ノゝ::::::::ヽ､:::ヽ. 
+　　　 　 　 　 /／::_,､/,';;;;;;;ﾞ;;;;;;;;;;;;;";;;;;|:ﾞ､::::_::ゝ､ヽ.　　　　　　　　　　　　　 「やる夫と幼女が～」は？＞ 
+　　　　　　　ﾉ:::i￣／/;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;l::::/::::::::::::l:::ﾞi 
+　　　　　　/:::: /::::｀ヽ,';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|／:::::::::::::::l:::ﾞ, 
+　　　　　　|:::::|::/::,ｨ '";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ﾞ､::::::::::::::::/::::､　　　 あのできない夫はできない夫であってできない夫じゃないお。 
+　　　　　　l:::::;/:/:　 :|;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|::::::::::::::::::l::::::ﾞ,　 　 できない夫があんなに可愛いワケがないお。 
+　　　　　　i::::/,':　:　 |;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;lﾞ,::::::::::::::::ﾄ::::::} 
+　　　　　　〉/,':　:　 :/;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|ヽ.::::::::::::::::ゞｲ 
+　　　　　/::/ﾄ:　:　: ヾ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ﾞ､ヽ::::::::ｲ::::::|　　　　　　　　　　　「キャラが固まってない」って言った矢先にそれかよ。＞ 
+　　　　 .',::::ﾞ､ヾ:　:　 :l;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヽ:ヾ::::l::::::| 
+　　　　　',:::::l /:　:　:|;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|:　:ヽ:::::| 
+　　 　 　 ',:://:　: .ィ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|:　:　: ＼　　　　 うるせーお。やよない夫マジプリティだお。 
+　　　　　 }/ }:　: /;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;|:　:　:　:　〉 
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　 　 　 　　 ／￣￣＼ 
+　　　　　　　　　　　 　 　 　／　ノ　　＼ ＼ 
+　　　　　　　　 　 　 　 　 　| 　 ⌒　　⌒ 　| 
+　　　　　　　　　　　　　　 　|// 　 ｜ 　 //|　　　　　　　　　　　　　　　やっぱり、元がやらない夫AAってのが大きいお！ 
+　 　 　 　 ぐ　　　　　　　　 |　 　__´___　　 ﾉ　　　　　　　　　　　　　　　こーんなこともお茶の子さいさいだお！ 
+　　　　ぐ　　る 　 　 　 　 　|　 　`ー'´　　} ＿＿　 　 　∩2z、　　 
+　　　　る 　 ん　　 _ -　￣ ヽ　　　　　 　 } 　　― ニ二./ 　／ 
+　十　 ん　　　 　 　.　　　　　ヽ　　　　　ノ　 　 　 ／｀／　　　　　　　 ポーカーフェイスに見せかけて 
+　　　　　　,　　'　　　　＿　　　l´　　　'⌒ヽ-‐　／ 　/　　} }　　＋　　 突如こんな風に豹変するキャラ…なんてのもいかがかお？ 
+　　　 ／ ／ 　 　 ／　 　　 　 ﾘ 　　 　| 　| 　 /　　ノ　　　　　　　　 
+　C､/　/　　　　　　　　╋　　/ 　 　　 |　 |／　　/　　／／ 
+＆　 ＼＿＿＿＿／　 　 　 /　　　　 ﾉ／　＿／―''　　　　　　　　　　できない夫の可能性を広げるのは 
+　⌒ヽ-､＿＿／　　￣￣￣｀ヽ∩　'´　　　／ 　　十　　　　　　　　　　モニターの前のあ！な！た！た！ち！です！だお！ 
+　　　　　　／ ￣￣｀ー-　...,,＿災＿＿,／|　／　　　　　　　　＋ 
+　　　　　　　 　　 　 　／ 　　ﾉ　{＝ 　　|　| 
+　＋　　　　　　　　　　　　∠ム-' 　　 ノ,ｨi､ヽ、 
+
+
+
+
+
+
+
+17 ：名無しのやる夫さん＠リンクは"h"抜きでttpから ：10/06/06 19:31:20 <strong><span style="color:#0000FF">ID:ODxgXdcs</span></strong>
+
+
+
+
+
+
+　　　　　　　 ／￣￣＼ 
+　　　　　　／　⌒　　⌒＼ 　　　　　＿＿＿_ 
+　　　　　　|::::::（●）（●） ｜　　　／　　 　 　＼　　　　　　　やる夫・やらない夫・できる夫の三人が並んだAAに 
+.　　　　　　|:::::::::::（__人__）｜　 ／　 ⌒　　⌒　 ＼　　　　　 いつかできない夫が加わっても違和感がなくなるように 
+　　　　　　 |::::::::::::::｀ ⌒´ ｜／ 　 （●）　（●） 　 ＼　　　　あちこちのスレで色んなできない夫を見れたらいいな～、なんて思ってるお。 
+.　　　　　　 |::::::::::::::　　　　} |　 　 　 （__人__）　　　　| 
+.　　　　　　 ヽ:::::::::::::: 　　 }　＼　　　 ｀ ⌒´　　　 _／ 
+　　　　　　　 ヽ::::::::::　　ノ　　　|　　　　　　　　　　 ＼　　　　それじゃ、次の人よろしく頼むだろ。 
+　　　　　　　　/ヽ三＼´　　 　 |　|　　　　　 　 　 | 　| 
+-―――――|:::::::::::::::: ＼-―┴┴―――――┴┴―― 
+
+
+
+
+
+
+
+
+
+
+
+　　　　 ＿ 
+　　　　 ＼ヽ,　,、 
+　　　　　　`''|/ﾉ 
+　　　　　　　.| 
+　　　＿　 　 | 
+　　　＼｀ヽ、| 
+　　　　 ＼, V 
+　　　　　　 `L,,_ 
+　　　　　　 |ヽ､) 
+　　　　　　　| 
+　　　　　　ノ 
+　　　　　/ 
+　　　　　| 
+　　　　　| 
+　　　　　 |　　　　　　　　　　　　　　　　　 　 　 　 
+　　　／￣￣＼　　　　　　　　　　　　　　　　　　 
+　／　　 _ノ　　＼　　　　　　　　　　　　　　　　　 
+　|　　　 ／ﾟヽ／ﾟヽ　　　　　　　　　　　　　　　　 
+　|　　 　　　　|　　|　　　　　　　 　 　　　　 
+　 |　　 　 　_´___　ﾉ　　　　＿＿＿ 　　　　　　　 
+.　 |　　　 　U　 　 }　　　　　　　 ／､､　　─┼─　　＿/＿　ヽ　 
+.　 ヽ　　　　　 　 }　　　　　　　／　　　　 ─┼─　　　/　＿l 　 
+　　 ヽ　　　　　ノ　　　　　　　ヽ＿　　　　　 |　　　　　　(＿ﾉ~　　|　　　　＼ 
+　　　/　　　 く　　　　　　　　　　　　　　 ＼＿＿　　　　　　　　　|　　　　　| 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼／　　　 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+
+
+
+
+
+
+
+
+
+
+<hr size="２"/>
+
+
+
+
+
+
+　　　　　　　 ／￣￣＼　　　　　　　　　　　（こんなのいたっけ……？）
+　　　　　　／　　　 　　 ＼
+　　　　　　|:::::: 　 　　 　　｜
+　　　　　.　|:::::::::::　　　　　｜
+　　　　　　 |::::::::::::::　　　　｜　　　　　　　　　　....,:::´,　.
+　　　　　.　 |::::::::::::::　　　　} 　　　　　　　　　....:::,,　　..
+　　　　　.　 ヽ:::::::::::::: 　　 } 　　　　　　 　,）:::::::ノ　.
+　　　　　　　 ヽ::::::::::　　ノ　　　　　　　　（:::::ソ:　.
+　　　　　　　　/:::::::::::: く　　　　　　 　　,ふ´..
+-―――――|:::::::::::::::: ＼ -―,――ノ::ノ――
+　　　　　　 　 |:::::::::::::::|ヽ、二⌒)━~~'´
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　　やる夫派生キャラの中でもトップクラスの地味さ……
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/2113/clap" id="fc2button-clap-2113" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-2113").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/4.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/2113/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５８" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-2113.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-2325.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６５ (2010/07/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2324.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６４ (2010/07/14)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2235.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６３ (2010/06/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2188.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６２ (2010/06/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2152.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６１ (2010/06/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2142.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６０ (2010/06/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2114.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５９ (2010/06/07)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５８ (2010/06/07)			</li>
+<li class="relate_li">
+<a href="/blog-entry-2112.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５７ (2010/06/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2107.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５６ (2010/06/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2045.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５５ (2010/05/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2044.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５４ (2010/05/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2033.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５３ (2010/05/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2032.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５２ (2010/05/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2031.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５１ (2010/05/22)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５８" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/06/07 22:57 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html#comment_list" title="この記事のコメントを参照">CM(7)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/2113"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５８"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　 　 ＿＿＿_ 　 　 　 ／　　　　　＼ 　 　 ／　　' "＼ , ､/ﾞ＼ 　 ／　　　（ ◯）ヾ'（〇）ヽ　　　　　やる夫と！ 　 |　　 　 "⌒（__人__）⌒ﾞl 　 ＼　　　 　 `i ヾ/´　／ 　/´⌒￣￣"⌒`ヽ ィ´`ヽ─&#45;一､　　　　　　　　　　　　　やらない夫の！ 　ヾ､ー;──(ゝ,〆　　ト'ー一'～′ 　　 ￣l"　　　　　　　　l　　 　 　 　 _＿ﾉ⌒;　_　　　　 　 　 　 　 　 　 　 ／￣￣＼ 　　 　 |　　　　　　　　 _|＿&#45;─≠￣三≠/..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-06-07T22:57:34+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2114.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５９">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2112.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５７">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment5186">[ 5186 ] <strong></strong></p>
+</div>
+<div class="comb">
+一応、主役やってる作品もあるぞ
+ 
+「できない夫が神ならぬ身にて天上の意思に辿り着く者になるそうです」って奴で<div class="comment_navi">
+[ 2010/06/08 16:07 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しのzipper</a>') } else {
+document.write("名無しのzipper"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しのzipper</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2113" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5222">[ 5222 ] <strong></strong></p>
+</div>
+<div class="comb">
+ふむ……今書き溜め中の話に出すことを検討してみよう。<div class="comment_navi">
+[ 2010/06/09 01:35 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2113" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5260">[ 5260 ] <strong></strong></p>
+</div>
+<div class="comb">
+ナコルルをヒロインにしようとしてがんばるスレは面白かった
+こいつの伸びしろは結構あると思う<div class="comment_navi">
+[ 2010/06/10 21:23 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2113" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5454">[ 5454 ] <strong></strong></p>
+</div>
+<div class="comb">
+※5186
+あのスレのせいでできない夫＝屑ってイメージになったわ<div class="comment_navi">
+[ 2010/06/20 23:16 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2113" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment12940">[ 12940 ] <strong></strong></p>
+</div>
+<div class="comb">
+基本脇役で切れ者かクズか両極端だと思う
+「できない夫のパラ・パラ・パラ」ってやつでは今のところクズ<div class="comment_navi">
+[ 2011/01/17 16:28 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2113" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment50661">[ 50661 ] <strong></strong></p>
+</div>
+<div class="comb">
+できない子は出番多いのにな
+できない夫と似てないけど<div class="comment_navi">
+[ 2013/01/18 14:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2113" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment87956">[ 87956 ] <strong>承認待ちコメント</strong></p>
+</div>
+<div class="comb">
+このコメントは管理者の承認待ちです<div class="comment_navi">
+[ 2016/07/30 23:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">-</a>') } else {
+document.write("-"); }
+</script>
+<noscript>
+<a href="" target="_blank">-</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-2113.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="2113"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/2113-108dc96e">http://oyoguyaruo.blog72.fc2.com/tb.php/2113-108dc96e</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2114.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５９">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2112.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１５７">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

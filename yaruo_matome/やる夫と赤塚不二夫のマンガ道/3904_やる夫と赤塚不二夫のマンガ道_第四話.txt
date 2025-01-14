@@ -1,0 +1,801 @@
+<div class="article">
+
+
+
+
+
+    　　┌──────────────────────────────────────┐
+    　　│　　僕の本は予定より遅れ、描き終わったのは１月までかかり　　　 　　　.　　　　　　　　　　　 │
+    　　│　　２月に発売された。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　 　　　　│
+    　　│　　社長には、一作目からこれじゃ困ると叱られてしまう。　　　　　　.　　　　　　　　　　　　 .　　│
+    　　└──────────────────────────────────────┘
+
+
+
+
+
+    　　　| X＼ 　 　 　 　 　 　 　　　　　　　　　　　　　　　　　　　　　〃 ,;;;;,,,　~(,, ;;;;;;;;;;;;;;;;;;;　;;;;;;;;;;;;;;;;;;;;;､ ,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    　　　|┛Ｘ. ＼ 　 　 　 　 　　　　　　　　　　　　　　　　　　　　　　( ,,;;;,,, ,,,;;;,,　ゞ,,;;;;;;;;; ,,;;;;;;;;,,, 　,,.;;;;;;;;;;);;;;;;;;;; ,,;;;;;;;,,,,,,;;;;
+    ,,　＿| .ＸＸＸX ＼ 　 　 　 　 　 　 　 　 　 　　　　　　　　　　　　,,' ﾐ";;;;;,,,,,;;;;,,,　"( ;;;;;;;;; 　,,,,:;;;;;;;;;;;;;ﾉ;;;;;;;;; ,,,,,;;;;;; (,,,;;;;;;;;;
+    　 l 　| ＸＸＸＸXX.＼ 　　　　　　　　　　　　　　　　　　　　　　　〃;; （(;;;;;;;;;;;,,,　,,;;,,, "(　;;;.....;;;;;;;; 　 ;;;;;;;;;..;;;;;;;;;;; ,,,;;;;;;;;;;;;;
+    =[:l 　| ＸＸＸＸXXXX[] 、 　 　 　 　　　　　　　　　　　　　　　　(ﾞ;;;,,,,　(ﾞ;;;;;;;;;;;;,,, ,,;;;;;,,,　ﾞゞ;;　 ;;,,,;;;;;;;; 　 ;;,,;;;;;;;;,;;x(;;;;; ;;;;;;
+    　 l 　| ＸＸＸＸXXXX|l|X＼ 　　　　　　　　　　　　　　　　　　　　ゞ;,,;;;;,,,,ヾ ;;;;;;;;;,,,,, 　,,,,;;,　乂 ::;;;;,,,　,,,,;;;;;;;;;;;)::;;lliｒ( ,,;ﾘ;;;;
+    　 l 　| ＸＸＸＸXXXX|l|XXx＼ 　　　　　 　 　 　 　 　　　　　　　　(;;,, ,;;,　ﾞ'､ ;;;;;;;;;; ,,,;;;;;;;;;;;;;;,,,, ヾ ,;;;;;,,,,ﾒ;;l;;;ﾉｌｌｉ;;;;l;;;/;/ :;;''
+    　 l 　| ＸＸＸＸXXXX|l|XXx 　 　　　　　　　　　　　　　　　　　　　　　　　ゞ,,,;;;;;;,,,　ゞ,,;;;;;;ﾘ(;;;;;;;;(;;;;;,,,,,,,,ｯ"ヾヽ､_ｌ|i::;il;;ﾚ';/'"~
+    　 l 　| ＸＸＸＸXXXX|l|X 　 ＿＿_　　　　　　　　　　　　　　　　　　　　　 ゛ヾ_;;iil;;' ~ﾞヾ;;:il;;;ﾚ';''''''ﾞ~ 　　　ﾞヾｯ;;lli;(;;ｯ'
+    　 l 　| ＸＸＸＸXXXX|l|　 ／　 .／.|　　　　　　　　　　　　　　　　　　　　　 　|;;,ii! 　 　l;;;l;ii;/　　　　　　　　|;;ｌi|l;;;|
+    　 l 　| ＸＸＸＸXXXX|l|.　|￣￣|._, |　　　　　　　　　　　　　　　　　　　　　　 |;;ｌｉ|　　　|;;|i;;;| 　　　　　　　　|;;;i|;;ｉ;;ｉ
+    =[:l 　| ＸＸＸＸXXXX|l|.　| 　　 |イ.|　　　　　　　　　　　　　　　　　　　　　　 l;;il;|　　　|;;;iｉ;;| 　　　　　　　　|;;lli;;ｌ())
+    　 l＿| ￣￣￣￣￣￣! |　 　 | 　|　 　　 　　　　　 　 　 　 　 　 　 　　 　　l;;iil|　　　|;;;|i;;| 　　　　　　　　|;ｉ;;iｌ;;;|
+    　　　| 　 　 　 　 　 　 　| 　 　| 　|　　　　　　　　 　 　 　 　 　 　 　 　 　 　|;;:iiｌ 　 　|;;ｌi;;;| 　　　　　　　　|;;il;;ll;:!
+    　　　|. 　 　　　　　　　　|＿＿|／　　　　　　　　　　 　　　　　　　　　　 　　ｌ;;lil| 　 　ｌ;;;iｌ;;ｌ 　　　　　　　　ｌ;;ii|;;ｌ;l
+    　　　|. 　 　　　　　　　 　 │ |;.　 　　　　　　　 　　　　　　　　　　　　　 　　|;;;liｌ 　 　|;;;i|lｌ| 　 　 　　　　　|;;iiｌｌ;;lｌ
+    　　　| 　 　 　 　 　 　 　　 レ゛　　　　　　　　 　 　 　 　　　　　､r‐､::;;,,,,､ｰ ｌ;;li;|ｰｧ、.ｌ;;;iil;;! 　 　 　 　 　　ｌ;lil;;;ll;ｌ
+    　　　| 　 　 　 　 　 　 　／ 　　　　　　　　　　　　　　　　　　　　＼r'''ヽ, lｌ~~lｌ~~lｌ~~ll.|;;lil;;:ｌ,　　　　　　　　|i;;il;;;;i|
+    ______.| 　 　 　 　 　　.／ 　 　　　　　　　　　　 　 　 　 　 　　　　　.＼γ'ヽ､,`ｌl＼~~ll|;;;lli;;|~,ｌｌ＼, 　 　　　l;;l|;;il;;|
+    l l l ｌ |　　　　　　　／ 　 　　　　　　　　　　　　 　　 　　　　　　　　　 .＼γ'ヽ||,;; ｌｌ~~ｌｌ~~ｌｌ~~ｌｌ~~ｌl 　　　　|;;lli;;;liｌ
+    l l l ｌ | 　 　 　　／ 　 　　　　　　　　　　　　　　 　　　　　 　　　　　　　　＼γ'''ヽ||, ;;||;;; ||;; ;||,;; || 　 　 　|;;;|ii;l;;ｌ
+    l l l ｌ | 　 　 .／. 　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ＼γ⌒ヽ、 ,, 　 ;;;ｌl＼~ｌｌ~~ｌｌ~|;;;li;;;;;;|~ｌl＼
+    　　　| 　 ／ 　 　 　 　 　 　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ＼γ'⌒'ヽ、 ; ﾞ||　ｌl＼,,ﾞ||,,ｌ;;;ll;;l;ｌｌ|,,|| .ｌl＼
+    　　　|,／　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.＼γ´⌒｀ヽ、 ,|| 　ｌｌ~~ｌｌ~~ｌｌ~~ｌｌ~~ｌｌ~~l
+    　　　|
+
+
+
+
+
+
+
+
+46 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:13:33 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+    　　┌───────────────────────────────────────┐
+    　　│　　ここまで遅れたのは、僕が製薬会社の社員と漫画家業を両立しているためだ。　　　　　　　 │
+    　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　 │
+    　　│　　製薬会社での仕事は、会社の雰囲気、仕事上の会話、仕事で生じる問題の　　　　　　　.　　│
+    　　│　　描写など、のちの漫画家人生で大変役立つ経験になるのだが、この時の僕は　　　　　　　　│
+    　　│　　そんなことも考えず、仕事には何の価値もないという幼稚な考えに支配されていた。　　　　 │
+    　　└───────────────────────────────────────┘
+
+
+
+
+
+    　　　　　　　　　　　　　 　 ＿＿＿_　　　
+    　　　　　　　　　　　　　 ／ ＼　　／＼　ｷﾘｯ
+    　　　　　　　.　　　　　／　（ー） 　（ー）＼　　　　　　
+    　　　　　　　　　　　／　　 ⌒（__人__）⌒ ＼　　　　＜会社の仕事は嫌々やってるだけだお。
+    　　　　　　　　　　　|　　 　　　|r┬-|　　　　| 　　　　　こんな仕事に何の価値もない。
+    　　　　　　　　　　　 ＼　　　　 `ー'´　　 ／
+    　　　　　　　　　　　ノ　　　　　　　　　　 　＼
+    　　　　　　　　 ／´　　　　　　　　　　　　 　　ヽ
+    　　　　　　　　|　　　　ｌ　　　　　　　　　　　　　　＼
+    　　　　　　　　ヽ　　　 -一''''''"～～｀`'ー--､　　　-一'''''''ー-､. 　 　
+    　　　　　　　　　ヽ ＿＿＿＿(⌒)(⌒)⌒)　)　　(⌒＿(⌒)⌒)⌒))
+
+    　　　　　　　　　　　　　　　長谷やる夫
+
+
+
+
+
+47 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:14:46 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+    　　　　　　そして春が来て、高校を卒業した石森がトキワ荘に上京してきた。
+
+    　　　　 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    　　　／　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　, イ
+    　　　 ￣|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|￣　|
+    　　　　　| 　 ┌─┐ 　　 ┌─┐ 　　 ┌─┐ 　　 ┌─┐　　 | 　　|
+    　　　　　| 目｜ 　｜ 　目｜ 　｜ 　目｜ 　｜ 　目｜ 　｜　　 | ト .|
+    　　　　　| 　　|。　｜　　　 |。　｜　　　 |。　｜　　　 |。　｜　　 | キ .|
+    　　　　　| 　 ｜ 　｜　 　 ｜ 　｜　 　 ｜ 　｜　 　 ｜ 　｜　　 | ワ .|
+    　　　|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||＃| 荘 |
+    　　　 ＼|　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 | 　　|
+    　　　　　| 　 ┌─┐ 　　 ┌─┐ 　　 ┌─┐ 　　 ┌─┐　　 | 　　|
+    　　　　　| 目｜ 　｜ 　目｜ 　｜ 　目｜ 　｜ 　目｜ 　｜　　 | 　　|
+    　　　　　| 　　|。　｜　　　 |。　｜　　　 |。　｜　　　 |。　｜　　 | 　　|
+    　　　　　| 　 ｜ 　｜　 　 ｜ 　｜　 　 ｜ 　｜　 　 ｜ 　｜　　 | 　／
+    　　　　　| 　 ｜ 　｜　 　 ｜ 　｜　 　 ｜ 　｜　 　 ｜ 　｜　　 |／
+
+
+
+
+
+    　　　　　　　　　　　　／￣￣￣￣＼ 　　
+    　　　　　　　　　　　（　　人＿＿＿＿） 　　 　　
+    　　　　　　　　　　　 |ミ/　　ー◎-◎-）　　　
+    　　　　　　　　　　　（６　　　　　(_　_)　）　　 　　どぅ…どうも……
+    　　　　　　　　　　＿｜　∴　ノ　　３　ﾉ　 　　　　　石森章太郎といいます。
+    　　　　　　　　　（＿_/＼＿＿＿＿_ノ
+    　　　　　　　　　/　（ 　　||　　　　　　ヽ　　　　　　　よろしく………
+    　　　　　　　　[]＿_｜　｜　　　　　　 ヽ 　
+    　　　　　　　　｜[]　|＿_|＿＿＿＿＿＿） 　
+    　　　　　　　　　＼_（＿_）三三三[□]三）　 　
+    　　　　　　　　　　／（＿）＼:::::::::::::::::::::::| 　　　　
+    　　　　　　　　　｜　漫画　｜::::::::/:::::::/ 　　　　
+    　　　　　　　　　（＿＿＿＿_）:::::/::::::/ 　 　　　
+    　　　　　　　　　　　　　（＿＿＿[]＿[]
+
+
+
+
+
+48 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:16:09 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+    　　　　　　　　石森は人見知りが非常に強く、当初は知らない店には入れなかったため
+    　　　　　　　　赤塚や僕がよく案内人になった。
+
+
+    　　　　　　ｸ　　　 ｸ　｜|　プ 　//
+    　　　　　　ｽ　 ｸ　ｽ　　| | │　//
+    　　　　　　 ／ ｽ　　　　| | ッ //　 　ｸ　　　ｸ　 ｜|. プ 　//
+    　　　　　　 ／　　　　　　 　 //　　　ｽ　ｸ　ｽ ＿ | | │　//
+    　　　　　　　　 ／￣￣＼　　　　　／　 ｽ　　 ─ | | ッ //
+    　　　　　　　／　　_ノ　　.＼　　 　 ／　　　　　　　　　//
+    　　　　　　 ｜　　（ ＞）（＜）　 　 　　　＿＿＿_
+    .　　　 　 　 ｜　　⌒（__人__） 　 　　.／　⌒　 ⌒＼
+    　　　　　　　 |　　　　｀ Y⌒l　　　 ／　 （＞）　（＜）＼
+    .　　　　 　 　 |　　　　. 人__ ヽ　／ 　::::::⌒（__人__）⌒ ＼　　　本の買い方わかるかお？
+    　　　　　　 　ヽ 　 　 　 　 }|　| | 　 　 　　 ｀ Y⌒ l__　　 |　　　　　こうやってレジに置くんだお
+    　　　　　　　　 ヽ　　　　ノ､|　|　＼ 　 　　　 人＿　ヽ ／
+    . 　 　 　 　 ／^l 　　　　　 / /　 　,─l　　　　　　 ヽ　＼
+    　　　　　　はい。じゃあ次は
+    　　　　　　本屋に入ろうね。
+    　　　　　　石森くん？
+
+
+
+    　　　　　　　　　／:::::::::::::::::::::＼
+    　　　　　　　／::::::::::::::::::::::::::::::::＼
+    　　　　　　　|:::::::::::|＿|＿|＿|＿|＿|
+    　　　　　　　|＿|＿ノ∪　＼,, ,,／ ヽ
+    　　　　　　　|::（ 6　　ー─◎─◎　）
+    　　 　 　　　|ﾉ　　（∵∴∪（ o o）∴）
+    　　　　　　|　　　<　　∵　　 ３　∵>　　　　　　　わっ……笑うなよ、お前ら
+    　　　　　／＼　└　　　　＿＿_　ノ
+    　　　　　　 .＼＼U　 　＿＿＿ノ＼
+    　　　　　　　　 ＼＼＿＿＿）　　ヽ
+
+
+
+
+
+49 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:17:23 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+
+    　　　　　　　 ／￣￣＼
+    　　　　　　／　　 _ノ　　＼.........:::::::::::.... .......
+    　　　　　　|　　　 （ ●）（●）　.... .........::::::::::...r‐ ' _ノ.
+    　　　　　.　|　　　　 （__人__）|　.... .........::::::::＿ ) (_　　　　なぁおい、今炊事場には誰もいないからさ
+    　　　　　　 |　　U　　｀ ⌒´ﾉ..　..... ......:::ﾆﾆ⊃)
+    　　　　　.　 |　　　　　　 　 }　　..... ......: ::::｀二⊃ﾉ.　　　　ちょっと体流そうぜ、そこなら大丈夫だろ？
+    　　　　　.　 ヽ＿＿__　 　 }　　..... ......: :::: （( ￣
+    　　　　　　　 r'ﾆﾆヽ._＼. ﾉ..　..... ......: ::::::　 ;;.
+    　　　　　 r':ﾆニ:_`ｰ三`:く._　　 　 　 　 　 [l、.
+    　　　　／: : : : : : :｀,ニ､: :_:_;＞　　　 　 ／,ｨつ
+
+    　　　　　　赤塚不二夫
+
+
+
+
+    　　　　　　　　　　　　　　　彡川川川三三三ﾐ～
+    　　　　　　　　　　　　　　　川｜川／　　＼｜～　ﾌﾟｩ～ﾝ
+    　　　　　　　　　　　　　　∥｜∥　◎---◎｜～
+    　　　　　　　　　　　　　　川川∥　　　　3　　ヽ～
+    　　　　　　　　　　　　　　川川　　　　∴）д（∴）～　　　　う～ん、まあ…そこなら悪くないか
+    　　　　　　　　　　　　　　川川　　　　　　～　/～
+    　　　　　　　　　　　　　　川川∥　　　　～　/∥
+    　　　　　　　　　　　　　川川川川＿＿＿／∥
+    　　　　　　　　　　　　　　　／　　　　　　　＼＿＿
+    　　　　　　　　　　　　　　/　　＼＿＿＿　　　 　 |つ
+    　　　　　　　　　　　　　　|　＼　　　　　　|つ
+    　　　　　　　　　　　　　 /　 　　￣￣
+    　　　　　　　　　　　　　｜
+
+
+    　　　　　　　　もっとも銭湯に入るのは最後まで拒んでいだ。藤子不二雄の「まんが道」では
+    　　　　　　　　炊事場の洗い場で水浴びする石森と赤塚の描写があるが、あれも赤塚が石森
+    　　　　　　　　の体臭があまりにひどく、困った挙句の行動だった。
+
+
+
+
+
+50 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:18:39 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+    　　　だが、漫画の方は―――――
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　┌──────┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　└──────┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　┌───┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　└───┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　┌─┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　│ :: │
+    　 　　　　　　　　　　　　　　　　　　　　　　　　　　　└─┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ┌┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 └┘
+
+
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 □
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ・
+
+
+
+
+
+51 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:19:53 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+    　　　　　　　　　　　_,,,,,,,,,,,,,,、
+    　　　　　　　 ,. "´;;;;;;_;;;;;;;;;;ヾヽr-、
+    　　　　　　／;;r　　　　 　　 :: ..:ヽ;;;;;;ヽ
+    　　　　 ／;;;r　　　　　 　　　　　｀ヾ;;;;;;;;ヽ
+    　　　../彡;/　　　　　　　　　　　　　 ;;;;;;;;;;ヽ
+    　　　.i::::彡　　　´￣ ￣ ￣｀　　　　ミ;;;;;;;;;;ヽ　　
+    　　　i;;;;:::r　 .r --､　　　 ,. --- 、　 ﾐ;;;;;;;;;;;;;;i.　　
+    　　　i;;;;;i´,.r-,-´-､-―-,--｀ﾆ=､ヽ　ヾ;;;;ミ;;;i　 　
+    　　　.|;;ゞi i .､'iユ=|r==;i´ r'iユ=､_ゝ-_､i;;;;;;;;;i　　 　　 お前ミステリーが描きたいんだろ？
+    　　　.i　i ! 　´￣｀/　　.i　　｀"´.::i´　　i;;' l｀i　　　 　　いいよ、描けよ
+    　　　. !ｿ ｀'ー一彡 .::::. ｀ヽ､＿. / .::　 .ir-,/　　　
+    　　　　!　　, ,r'´ゝ=､__rｭ,.ｿヾ､　　　:　 /r.i　　　　
+    　　　　 !_　i {　_,. - ､, ...、_　 ,,)　i　 　 i r'　　 　　 　　俺が編集長に掛け合ってやる
+    　　　　　.i 　｀ヽヽエエﾆヲ,ｿ"　 ´　　./ﾞ 　　　
+    　　　　　丶　　　ヽ二二ン　　　　　/　
+    　　　　　　ヽ、 　　,　-　　　　　ノ/　　　　　　　　
+    　　　　　　　　ヾ､.::::::::::..,,＿__..／
+
+    　　　　　　　　　　丸山昭
+    　　　　　　　　　 (編集者)
+
+
+
+
+
+    　　　　　　　　　　　＿＿＿＿_
+    　　　　　　　　　 ／::::::::::::::::::::::::::＼　　　　
+    　　　　　　　　 /::::::::::::::::::::::::::::::::::::::＼　
+    　　　　　　　　 |:::::::::::::::::|＿|＿|＿|＿|
+    　　　　　　　　 |;;;;;;;;;;ノ　　　＼,, ,,／ ヽ
+    　　　　　　　　 |::（ 6　　ー─◎─◎　）
+    　　　　　　　　 |ノ　　（∵∴　（ o o）∴）　　　　　　　　　えっ？　いいんですか
+    　　　　　　　／|　　　<　　∵　　 ３　∵>　　　　　　　　 少女漫画といえば恋愛物でしょう。
+    　　　　　　　::::::＼　　ヽ　　　　　　　 ノ＼
+    　　　　　　　:::::::::::::＼＿＿＿＿＿ノ:::::::::::＼
+
+
+
+
+
+52 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:21:05 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+    　　　　　　　　　　　　_,,,,,,,,,,,,,,、
+    　　　　　　　　 ,. "´;;;;;;_;;;;;;;;;;ヾヽr-、
+    　　　　　　　／;;r　　　　 　　 :: ..:ヽ;;;;;;ヽ
+    　　　　　 ／;;;r　　　　　 　　　　　｀ヾ;;;;;;;;ヽ
+    　　　　../彡;/　　　　　　　　　　　　　 ;;;;;;;;;;ヽ 　　　
+    　　　　.i::::彡　　　´￣ ￣ ￣｀　　　　ミ;;;;;;;;;;ヽ　　　
+    　　　　i;;;;:::r　 .r --､　　　 ,. --- 、　 ﾐ;;;;;;;;;;;;;;i.　　
+    　　　　i;;;;;i´,.r-,-´-､-―-,--｀ﾆ=､ヽ　ヾ;;;;ミ;;;i　 　
+    　　　　.|;;ゞ {.:::....　...::}== {::.. 　.:::...:::!===､i;;;;;;;;;i　　 　　　余計な心配すんな
+    　　　　.i　i　ヽ:::::::...:ﾉ 　　＼:: .:::::..:ﾉ　 　 i;;' l｀i　　　　　　お前は漫画のことだけ考えてればいいんだよ。
+    　　　　. !ｿ　　`ー"　 .::::. ｀ヽ｀ー"　 .::　 .ir-,/　　　
+    　　　　　!　　, ,r'´ゝ=､__rｭ,.ｿヾ､　　　:　 /r.i　　　　
+    　　　　　 !_　i {　_,. - ､, ...、_　 ,,)　i　 　 i r'　　 　　
+    　　　　　　.i 　｀ヽヽエエﾆヲ,ｿ"　 ´　　./ﾞ 　　　　　
+    　　　　　　丶　　　ヽ二二ン　　　　　/　 　　　　　
+    　　　　　　　ヽ、 　　,　-　　　　　ノ/　　　　　　　　
+    　　　　　　　　　ヾ､.::::::::::..,,＿__..／
+
+
+
+    　　　　　　　　　　　　
+    　　　　／￣￣￣￣＼
+    　　　（　　人＿＿＿＿）
+    　　　 |ミ/　　ー◎-◎-）
+    　　　（６　　　　　(_　_)　）
+    　　　 ｜　∴　ノ　　３　ﾉ　＿　　　　　はいっ！　　ありがとうございます。
+    　　　　 ＼＿＿＿＿_ノ　＿ E〕
+    　　　 （　　　　））＿＿＿〕＿＿E〕
+    　　　　|　　　　　　ヽ＿＿〕＿E〕
+    　　　　|_＿_＿＿＿＿＿＿）
+    　　　 （三三三三三[□]三）.
+    　　　　＼::::::::::::::::::::::::::::::::/
+    　　　　　 |::::::::::::::::::/:::::::/
+    　　　　 　|;;;;;;;;;;;;;;;/;;;;;;;/
+    　　　　　（＿＿＿|）＿|）
+
+    　　┌──────────────────────────────────────┐
+    　　│　　すぐれた発想、理解ある編集者、強い創作意欲を兼ね備えた　 　　　　　　　　　　　　　　　│
+    　　│　　石森は、瞬く間に大きな成功を収めることになる。　　　　　　　　　　　　　　　　　　　 　　　　│
+    　　└──────────────────────────────────────┘
+
+
+
+
+
+53 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:22:01 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+    ､　,.-|;:.;. ||　　 |ゞ:;ヾ　 　,.-':::::::::::::: ゞ:::::;ヾ
+    ﾐ:::ゞ |;:.;. ||　　 |::::::ヾ:::) （　::..:::.::::　.:::::::::: ::)
+    ￣￣|;:.;. ||　　 |￣￣￣￣| .::::::: ...::|￣|￣'
+    　 　 |;:.;. ||　　 |　 　 　 　 |;;;;; ;; .;;;,,|　 |
+    　 　 |;:.;. ||　　 |　 　 　 　 |"ﾞ ''|li|ｉ"|　 |
+    　 　 |;:.;. ||　　 |　 　 　 　 |Wwﾘiﾙ |　 |
+    　 　 |;:.;. ||　　 |　 　 　 　 |''""""　|　 |.
+    　 　 |;:.;. ||　　 |　 　 　 　 |　"'　　 |　 |:
+    　 　 |;:.;. ||　　 |　 　 　 　 |　　　　 |　 |　 ／
+    　 　 |;:.;. ||　　 |　 　 　 　 |""''"'""|＿|／
+    　 　 |;:.;. ||　　 |　 　 　 　 |　,.,、 ／／
+    　 　 |;:.;. ||　　 |　 　 　 　 |　 ,／／
+    　 　 |;:.;. ||　　 |　 　 　 　 |／／　.::　　　　　　　　　　　　またこの時期は、同じ志をもった者が
+    　 　 |;:.;. ||　　 |　 　 　 　 |／　"　　　　　　　　　　　　　　　次々と上京して来た季節でもあった。
+    　 　 |;:.;.:.￣￣|　　　　 ／
+    　 　 |;:.;.　　　 |　 　 ／
+    　 　 |;:.;.　　　 |　 ／,､
+    　 　 |;:.;.　　　 |／
+    　 　 |;:.;.　　　 |
+    　 　 |;:.;.　　　 |
+    　 　 |;:.;.　　　 |
+    　 ／|;:.;.　　　 |
+    ／　 ｀''‐--‐''´
+
+
+
+
+
+54 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:23:14 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+    　　　　　　　　 　巛彡彡ミミミミミ彡彡
+    　　　　　　　　　巛巛巛巛巛巛巛彡彡
+    　　　　　　　　　|:::::::　　　　　　 　 　　i　　ﾌｯ
+    　　　　　　　　　|::::::::　　　 ⌒　　　⌒ |　　
+    　　　　　　　　　|:::::　　　 -･=- ,　(-･=- 　
+    　　　　　　　　　| (6　　　　⌒ ) ･ ･)(　^ヽ　　　横山といいます
+    　　　　　　　　　|　|.　　　　　┏━━┓　|　 　 ほな、よろしく　　
+    　　　　　　　　 ∧ |　 　　　 ┃ヽ三ﾉ ┃ |　
+    　　　　　　　／＼＼ヽ　　　　 ┗━┛　ﾉ
+    　　　　　　　／　 ＼ ＼ヽ.　 ─── /|＼　　 　　ノ７_,,, ､
+    　　　　　　　　 　　(⌒､"⌒ソ⌒ヽ- ｲﾉ　 ｀､　 ( ｨ⌒ -'"",う
+    　　　　　　　　　　　~''(_)(_)(_)(_)ソ-ｨ　　　　 ヽノ　　　,イ^
+    　　　　　　　　 ＿ヽ　/｀､＿, ｨ/　　 ヽ　　　 　 ヽ─/
+    　　　　　　　／,ｨ'"／ 　　　　/　　　　｀､ 　　　　) /
+    　　　　　　　　　　　　　　　　/ 　 i
+    　　┌──────────────────────────────────────┐
+    　　│　　その一人が横山孝雄だ。彼と赤塚、横田、そして僕はひどく馬が合い　　　　 　　　　　　　 │
+    　　│　　一生の友となる。こうと決めたら最後までやりきる、誠実で頑固な性格　　　　 　　　　　　　│
+    　　│　　は赤塚とは特に気が合った。　　　　　　　　　　　　　　　　　　　　.　　　　　　　　　　　　　 　　│
+    　　└──────────────────────────────────────┘
+
+
+
+
+
+
+
+    　　　,.⌒ヽ　　　　　 γ⌒ ヽ
+    　　〈⌒　ﾉ＼　　　／＼　⌒〉
+    　　　ヽ彡'　　ヽ　/　 　ヾ_ノ　　　　　　僕と似た名前だから、藤子不二雄のやつら
+    　　　　）　　　　Y　　　 （　　　　　　　　全く見極めがつかないって、うなだれちゃってたよ。
+    　　 ／γ⌒　 　　　⌒ヽ＼　　　　　　
+    　 /　　|　　　　　　　　　|　 ヽ　　　　　 はっはっは
+    　 |　　 ヽ＿＿人＿＿ノ　　 |
+    　 ＼　　　　 `ー'´ 　　　　／
+
+    　　　　　　横田徳男
+
+
+
+
+
+55 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:25:32 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+    　　　　　　　　　　　　／￣￣＼
+    　　　　　　　　　　 ／　　 _ノ　　＼　　　　ははっ、では横山君との出会いを祝して飲み会にでもしようか。
+    　　　　　　　　　　 |　　　 （ ⌒）（⌒）
+    　　　　　　　　　 .　| 　 　 　 （__人__）　　今日は奮発してコロッケに味噌汁もあるぞ。
+    　　　　　　　　　　　|　　　　　｀ ⌒´ﾉ
+    　　　　　　　　　 .　 |　　　　　　 　 }
+    　　　　　　　　　 .　 ヽ　　　　　 　 }
+    　　　　　　　　　　　　ヽ　　　　　ノ　
+    　　　　　　 ＿＿　　_ノﾉ ヽ、　 ,仆---､＿_
+    　　　　　⌒ヽ. 　 　　　　　＼　　　　　／ ⌒ヽ
+    　　　　　　　　Ｙ´￣￣￣￣　｀Ｙ´￣￣｀ヽ　　 `､
+    　　　　　　｀ヽ | 　 　　　　　　　|　　　　　 } 　　　i
+    　　　　　　　　ﾉ 　 　　　　　　　|　　　　　 |　　丿|
+    　　　　　　　　）、 　 　 　 　　 人　　 ／￣￣｀｀ﾝ
+    　　　　　　　ヾヽ`ｰ─── ￢ ￣
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　　 。　　　,. -‐＝=､､
+    　　　　　　　　　　　　 ,. =＝=､､　ｏ 　 ○i 　　 　　 :::ト､
+    　　　　　　　　　　　_,/ 　 　 　｀ヾ´´`ヽ、ｌ 　 　　 　:::ﾄ､＼
+    　　　　　　　　　　 // 　　　　 .::::/　　:::::!l　　　　　 :::|ｽ.　',
+    　 　 　 　 　　 　 /./ 　 　 　 .::::/　　 ::::l |　 __ ..... _::::|} ヽ l-､
+    . 　 　 　 　 　 ,ｨｸ ,'..__ 　　　.::::/ 　　 ::::l :l '´　　　　｀)'｀ヽ ヾ;＼
+    　　　　　 　／::{ﾞ　ヽ、 ｀`丶､;/‐‐- ､::::l　`'::―‐--＜_ 　 } ./;:::::＼
+    　　　　　／::::::::!　　 ,＞---‐'ﾞｰ- ...__)ﾉ　　　　　　 |l::ヽ ／;';';';';::::＼
+    . 　 　 ／|::::::;';';'＼／｝　（ヽ、　　_/| 　　　　　　　　ヾｰ'´;';';';';';';';';:: /ヽ、
+    　 　／ ,ﾉ:::;';';';';';';';';'/　 /ヽ､二ﾆ-ｲ　　　　　　　　　 　＼';';';';';';';';';';〈::...
+    .　／　 i::;';';';';';';';';';'/　,ｲ.:::::::::::::::::: !　　 　　　 　　　　　　 ＼';';';';';';';';';!:::::
+    　　　　　　　　　　　　　　　　　　　　　　　　　
+    　　　　　　　　　　　　　　　　「「「乾杯ッ！！」」」
+
+
+    　　┌──────────────────────────────────────┐
+    　　│　　味噌汁の鍋、コロッケ、安い惣菜に缶ビール４本の飲み会は　　　　　　.　　　　　　　　　　 │
+    　　│　　見栄えの良いものではない。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+    　　│　　だが、そこに青春の輝きがあったのは間違いなかった。　　　　.　　　　　　　　　　　　 　　　│
+    　　└──────────────────────────────────────┘
+
+
+
+
+
+56 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:26:37 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+    　　　だが、漫画の方は―――――
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　┌──────┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　└──────┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　┌───┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　│::::::::::::::::│
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　└───┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　┌─┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　│ :: │
+    　 　　　　　　　　　　　　　　　　　　　　　　　　　　　└─┘
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 ┌┐
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 └┘
+
+
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 □
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ・
+
+
+
+
+
+57 ：<strong><span style="color:#009900">名無しのやる夫だお</span></strong>：2011/11/18(金) 03:27:40 <strong><span style="color:#009900">ID:jH4fS89Q</span></strong>
+
+
+
+
+
+    　　 ／￣￣＼
+    　／　　 _ノ　　＼
+    　|　　　 （ ●）（●）
+    .　|　　　　 （__人__）　　 　　あーあ、今月も締め切りは遅れるわ、
+    　 |　　　　　｀ ⌒´ﾉ　　　　　内容は散々だわで、社長から怒られちゃったよ・・・
+    .　 |　　　　　　 　 }
+    .　 ヽ　　　　　 　 }
+    　　 ヽ　　　　　ノ　　　　　　　　＼
+    　　　/　　　 く　　＼　　　　　　　 ＼
+    　　　|　　　　 ＼ 　 ＼ 　 　　　　　　＼
+    　 　 |　　　　|ヽ、二⌒)､　 　 　　　　　 ＼
+
+
+
+
+    　　　　　　　 ／￣￣＼
+    　　　　　　／　　　 　　 ＼　　　　
+    　　　　　　|:::::: 　 　　 　　｜　　　ホントは少女漫画なんて描きたくねえんだよなぁ……
+    　　　　　.　|:::::::::::　　　　　｜
+    　　　　　　 |::::::::::::::　　　　｜　　　　　　　　　　....,:::´,　.
+    　　　　　.　 |::::::::::::::　　　　} 　　　　　　　　　....:::,,　　..
+    　　　　　.　 ヽ:::::::::::::: 　　 } 　　　　　　 　,）:::::::ノ　.
+    　　　　　　　 ヽ::::::::::　　ノ　　　　　　　　（:::::ソ:　.
+    　　　　　　　　/:::::::::::: く　　　　　　 　　,ふ´..
+    -―――――|:::::::::::::::: ＼ -―,――ノ::ノ――
+    　　　　　　　　|:::::::::::::::|ヽ、二⌒)━~~
+
+    　　┌──────────────────────────────────────┐
+    　　│　　だが漫画の方は、赤塚の心に暗い影を落としていた………。　　　　　　　　　　　　　　　　 │
+    　　└──────────────────────────────────────┘
+
+
+
+    　　　第４話　終
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3904/clap" id="fc2button-clap-3904" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3904").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/4.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3904/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫と赤塚不二夫のマンガ道　第四話" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3904.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-4043.html">
+					やる夫と赤塚不二夫のマンガ道　第十五話 (2012/01/13)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4006.html">
+					やる夫と赤塚不二夫のマンガ道　第十四話 (2012/01/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3988.html">
+					やる夫と赤塚不二夫のマンガ道　第十三話 (2011/12/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3965.html">
+					やる夫と赤塚不二夫のマンガ道　第十二話 (2011/12/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3959.html">
+					やる夫と赤塚不二夫のマンガ道　第十一話 (2011/12/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3939.html">
+					やる夫と赤塚不二夫のマンガ道　第十話 (2011/12/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3938.html">
+					やる夫と赤塚不二夫のマンガ道　第九話 (2011/12/12)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3930.html">
+					やる夫と赤塚不二夫のマンガ道　第八話 (2011/12/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3929.html">
+					やる夫と赤塚不二夫のマンガ道　第七話 (2011/12/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3915.html">
+					やる夫と赤塚不二夫のマンガ道　第六話 (2011/12/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3907.html">
+					やる夫と赤塚不二夫のマンガ道　第五話 (2011/12/02)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫と赤塚不二夫のマンガ道　第四話 (2011/11/29)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3892.html">
+					やる夫と赤塚不二夫のマンガ道　第三話 (2011/11/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3890.html">
+					やる夫と赤塚不二夫のマンガ道　第二話 (2011/11/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3889.html">
+					やる夫と赤塚不二夫のマンガ道　第一話 (2011/11/25)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫と赤塚不二夫のマンガ道　第四話" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/11/29 21:45 ]
+<a href="/blog-category-354.html" title="カテゴリを参照">マンガ・アニメ系　やる夫と赤塚不二夫のマンガ道</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html#comment_list" title="この記事のコメントを参照">CM(2)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3904"
+    dc:title="やる夫と赤塚不二夫のマンガ道　第四話"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html"
+    dc:subject="マンガ・アニメ系　やる夫と赤塚不二夫のマンガ道"
+    dc:description="　　┌──────────────────────────────────────┐    　　│　　僕の本は予定より遅れ、描き終わったのは１月までかかり　　　 　　　.　　　　　　　　　　　 │    　　│　　２月に発売された。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　.　　　　 　　　　│    　　│　　社長には、一作目からこれじゃ困ると叱られてしまう。　　　　　　.　　　　　　　　　　　　 .　　│    　　└─────────────────────..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-11-29T21:45:24+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3901.html" title="やる夫達は戦後の裏舞台を戦い抜くようです　第７話　伝播">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3896.html" title="やる夫と食べるイギリス料理　最終回">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment27204">[ 27204 ] <strong></strong></p>
+</div>
+<div class="comb">
+なるほど、体臭がひどかったのか<div class="comment_navi">
+[ 2011/11/30 01:57 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3904" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment27260">[ 27260 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんでこう、嫌なキャラのＡＡを使うんだろう。
+印象が悪くなっちゃうんだが･･･。<div class="comment_navi">
+[ 2011/12/02 04:12 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3904" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3904.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3904"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3904-270b52e4">http://oyoguyaruo.blog72.fc2.com/tb.php/3904-270b52e4</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3901.html" title="やる夫達は戦後の裏舞台を戦い抜くようです　第７話　伝播">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3896.html" title="やる夫と食べるイギリス料理　最終回">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

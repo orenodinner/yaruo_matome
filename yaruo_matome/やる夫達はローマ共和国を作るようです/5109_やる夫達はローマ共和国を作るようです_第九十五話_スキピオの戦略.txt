@@ -1,0 +1,646 @@
+<div class="article">
+
+
+
+
+　原作・塩野七生 著 ローマ人の物語２
+「ハンニバル戦記」
+
+＊ですが、wikipediaとか他の本とかもたまに参考にしてます。
+＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。
+
+
+
+　紀元前209年、スペイン
+
+
+　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|
+　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|
+　　　　 （　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (
+　　　　　｀）　　　　　　　　　　　　　　　　　　　　　　　エブロ河→ヽ　　　　　　　　　　 ゝ
+　　　　　 く　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼＿　　　　　　　　○ｴﾝﾎﾟﾘｱ
+　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀ヽ　　　　　　／
+　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｜　　　◎ﾀﾗｺﾞｰﾅ
+　　　　　　｀|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,～～´~
+　　　　　　|´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+　　　　　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+　　　　　 |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　　 /´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　/´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　●ｻｸﾞﾝﾄ
+　　 /＿っ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ,
+　　　　|_，　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_,ゝ
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/´
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　 ,＿●ｶﾙﾀﾍｰﾅ
+　　　　 /＿＿　　＿＿　　　　　　　　　　　　　　　　　　/
+　　　　 ｀　　　｀´~　　 ｀ヽ,　　　　　　　　　　　　　＿　/
+　　　　　　　　　　　　　　｀）　　　＿_/´~~~｀～～´　｀´
+　　　　　　　　　　　　　　 ＼　 /´
+　　　　　　　　　　　　　　　　｀´
+
+　やる夫達はローマ共和国を作るようです
+
+　第９５話　「スキピオの戦略」
+
+
+
+
+
+
+
+
+
+284 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:17:39 ID:jEUA.hxo
+
+
+
+
+
+    　２８０００の兵で７５０００の兵と戦えば、負けるに決まっている。
+    　しかしカルタゴの三軍はそれぞれ、かなりの距離をおいて離れていた。
+
+
+    　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|
+    　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|
+    　　　　 （　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (
+    　　　　　｀）　　　　　　　　　　　　　　　　　　　　　　　エブロ河→ヽ　　　　　　　　　　 ゝ
+    　　　　　 く　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼＿　　　　　　　　○ｴﾝﾎﾟﾘｱ
+    　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀ヽ　　　　　　／
+    　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ｜　　　◎ﾀﾗｺﾞｰﾅ
+    　　　　　　｀|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　,～～´~
+    　　　　　　|´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+    　　　　　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/
+    　　　　　 |　　　　　　　　　　　　　　　●第一軍 　 　 　 　 　 　 　 /
+    　　　　 /´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+    　　　/´　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　●ｻｸﾞﾝﾄ
+    　　 /＿●第三軍　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ,
+    　　　　|_，　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_,ゝ
+    　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/´
+    　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+    　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　 ,＿●ｶﾙﾀﾍｰﾅ
+    　　　　 /＿＿　　＿＿　　　　　　　　　　　　　　　　　　/
+    　　　　 ｀　　　｀´~　　 ｀ヽ,　　　　　　　　　　　　　＿　/
+    　　　　　　　　　　　　　　｀）　　　＿_/´~~~｀～～´　｀´
+    　　　　　　　　　　　　　　 ＼　 /´
+    　　　　　　　　　　　　　　　　｀●第二軍
+
+
+
+
+
+285 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:18:12 ID:jEUA.hxo
+
+
+
+
+
+    　　　　 　 ＜二ミz､　　　　　　　　　,. -─ ｧ
+    　　　　　　　　 　 ＞v'´ ￣￣ ｀ヽ. / ,r ' ´
+    .　　　　　　 　 ／:.／:.:.:.:.:.:.:.:.l.､:.:ﾍｴ二ミヽ､
+    　　　　　　　 /ｨ:./:.:/:.ｌ:.:|:.l:ﾄ､l:.ｌ､:.:l:.:.l ＼ ヽ:ヽ
+    .　 　 　 　 　 /l:.ｌ:.l:.ﾄN ハl,ｨiZt l:.ｌ|:.:ｌﾊ　}　lヽl
+    　　　　　　　 l:.ｌﾊ:.ﾄ ｨfﾊ　　Vﾂ Nﾊ }　∨　ｌ:.:ｌ
+    　　　　　　　 l:.ｌ ﾊNﾐ ゞ' ､　　　 ｌ|ﾚ'　　　 ﾉ:/　　ん…これは……？
+    　　　　　　　 从　　 |lヽ、ー　, ｨﾘ　　-ﾆ彡'
+    　　　　　　　　　 　 　 　__7i-‐ ' iス
+    　　　　　　　　　 　 ／〃/､ｪ｡／ , 冫⌒ヽ、
+    　　　 　 　 　 　 ／　/l_/＾>_'__／ /　　　o ヽ､
+    　　　　　　　　　{＾ Y.〈o∠ノ＿_ ,..{-‐ '＾ ー '/
+    　　　 　 　 　 　 ヽ}＜ﾋi＞　　 　 丶　　 　 /
+    　　　　　　　　　 /､｡/{_}Vi 。　　　　＞ﾆｱﾐ
+    　　　　　　　　　 ＼/ i:i　Vi-─　_'_,.　l　l:::::l
+    　　　　　　　　　　,i | i:i　　￣_,.zi､　　 l　l:::::l
+
+    　　　　　　　　＊スキピオ（AA/高町なのは）
+
+
+
+
+
+286 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:18:48 ID:jEUA.hxo
+
+
+
+
+
+    　　　　|┃　 　　　　　　　　　　　　　　　　　＿__
+    　　　　|┃三　　　　　　　　　　　,. ' ,二、´, -　、.:.｀ヽ、
+    　　　　|┃　 　　　 　 　 　 　 ／:.,. :. :. :.｀´:. :. :. ヽ,:. :. :＼
+    　　　　|┃　 　　 　 　 　 　 / :. /:. :. :. :. :. :. :. :. :. :.ヽ:. :.　ヽ
+    　　　　|┃　 　　　　　　　 /: : / 　 ,　 /,　, i.　 　　､ ヽ　:. :.',
+    　　　　|┃三　 　 　 　 　 ｌ: 　i .. ../:. :!:.ｌ:. l:.l:. :. :.、:..},:. }､:..:. l
+    　　　　|┃　 　 　 　 　 　 |:　 !:. :.:!:. _l__li:. !:.ヽ、_:ヽ/:iﾆ'A:.:.:.!
+    　　　　|┃　 　 　 　 　 　 |:. :.|:. :.ィ´:.!l:.ｌ｀､ヽ､くヽヽソl'/:. ｉ:.:.|
+    　　　　|┃　 　 　 　 　 　 |:. :.|:. :.:ｌィT`ヾ　 `　ィ'Tヾ、h:.: :i:.:!
+    ガラッ |┃三　 　 　 　 　 |:. :.l:. :.:{ l´:::ｄ　　 　 !´:::d },!'i:.: :!;!
+    　　　　|┃三　　　　 　 　 l:. :.:!:. :.l. ゝ‐'　　,　　`ー' ./∧:. l
+    　　　　|┃三　　　　　　　 l:. :.:ﾄ､:.:l.､　　　r ┐　　 ./:/´:i:. !　　なんやスキピオ。
+    　　　　|┃　 　　　　　　　 ヽ :.:!:.ヽ!:.ヽ､ 　 ｰ'　,.ィ'´:/!:,ｉ:,|:.,!　何かええ作戦でも思いついたんかー？
+    　　　　|┃　 　　　　　　　　 ヽ:.!､:.i､ﾄr‐L二二., ｷi;/ l/lﾉ|/
+    　　　　|┃　 　　　　　 ,,.　-―ヽ! `―! ｌ　|　 | l　l ゝ 、
+    　　　　|┃三_,.rー-''´　＿ ノ　 　 　　　　　　　　,　　 ｀`ヽ､
+    　　　　|┃　 、　　　ﾉ´　　 ,　i´ 　 ､ 　 　 　 　 （　 -ﾍ　 　 ヽ_
+    　　　　|┃　 /´ ￣　 　 　 ! ｒ' ､　ノ　　　　　　/´　 ／　 　 l　 '､
+    　　　　|┃　 _　　 _　　　　i　! 　 i　 　 　 　 　 !　,.　ヽ 　 　 ヽ　〈、
+    　　　　|┃　 　｀ ｰ ､｀ ー l,ｒ 丶 ﾉ　　　　　　 ,.〉　　ノ　　　　　`!　i
+    　　　　|┃　 　　　　 ｀　 ,l{　　 i　 　 　 　 　 { 　 ,〈 i !　　 　 　 !　|i
+    　　　　|┃三　_,.　-‐ ' ´ !〉､　 l　　　　 　 　 ,　　 ﾉ.｀!　　　　　ヽ、ヽ
+    　　　　|┃　 ´　　　　　 {´ 　 /　　　　　 　 /　　/ 　 l 　 　 　 　 i　 !
+    　　　　|┃三　　　 　 　 !、　 〉　　　　　　 ヽ　,　ヽ　 l　　　　　　{　 }、
+
+    　　　　　　　　　＊副官レリウス（AA/八神はやて）
+
+
+
+
+
+287 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:19:13 ID:jEUA.hxo
+
+
+
+
+
+    　レリウスは、スキピオの親友であり、副官でもあった。
+
+
+    　　 ＼　｀丶、　　　　　　　　　　　　　　　　　 　 /　　 　l
+    　　 　 ヽ　　　ヽ. _　 　 　 　 　 　 　 　 　 　 　 r{.　 /l /l
+    　　　　　l、　　　ヽヽ　　　　,.　--─--　、 　 　l l　/ l//　　＿_
+    　　　　 　 ＼. ヽ:､ ヽl　,. '´:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.｀.ヽ､ｌ ｌ　l ,.　'´:.:.:.:.:.:.:.:.:｀:.....､
+    　　　 ,. -===ﾆﾆ-.､.／:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:..ヽ:.l lｨiﾞ:.:, 　' ´￣｀ 丶:.:.:.:.:.ヽ
+    　　　　,.　' ´￣:__:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.ヽ.:.:.:.:.:ヽLl'´-.、　　　　　　 ヽ:.:.:.
+    　　 ／:.:.:.:／´:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.l:.:.|:.:.l:.:.:.|:.:.:.:.:.:.l:.:l ヽ　＼　　　　　　　ｌ:.:.
+    　 /:.:.:.:／ｲ/:.:. /:.:.:.:.:.:.:.:.:.:.:.:l､:.l:.:l:.:.:l:.:.l:.:.:l:.:.:l:.:.:.:.:.:.l:.:.l ヽ､　 ヽ 　 　 　 　 l:.
+    . /:.:.:./ / /:.:.:/:.:.l:.:.:.:.:.:.l:.:l:.l ヽ:l_:l-:.T､:l ､l-:.l:.:.:.:.:.:l:.:.:.:ヽ、　 ヽl　 　 　 　 l:.
+    . l:.:.:.l. /　l:.:.:.l:.:.:.l:.:.:.:l:.:.l:.l:.l l　ヽN ,.ｬ=-､l:.l:.:l:.:.:.:.:/:.:.:.:l　 ＼　　l　　　　 /l:.
+    . l:.:.:.l l　 l:.:..l|:.:.:.:l:.:.l:.l:.:.N:,=､l　　 　 {ic:.ﾟl〉lノ:.:／ﾄ､:.:./　　　 丶、l　 　 /:.l:.
+    　l:.:.:l　　 l:.:l l:.:.:.l:.:.:l:.:ﾄ､〈{r'.:l　　　　込ｸ　l／:.:/ﾉl:.:/　　　　　　 ヽ. ／:./:.:
+    　 l:.:.l　　 l:.:l l:.:.:l l:.:l:.:l:.:l. ゞ'ﾞ、　 　 　 　 /:.:.:.:/_ノ:/　　　 　 ＿_,.／:.:.:/／
+    　 ヽ:.:ヽ　ヽｌ ｌ:.:.l |l:.lヽl:.:.l　　 r= ＝l　　ｲ:.:.:.:/:.:／　 　 　 　 _,フ´ _,. -'′　ちょうど良かったの！
+    　 　 ヽ:.:.ヽ.　ヽ:l　ﾄl /lヽ:lヽ　 ヽ__ノ　　 l:.:./／　　　　　　￣　￣　　　　では、作戦を発表するの！！
+    　　　　 ＼:.ヽ　　　/ l:.//　 ｀丶.　　 ∠l:.:/´ lｽ ,. ' ´￣ ｀ ヽ、
+    　　　　　　｀ｰ｀-　 l. l/ l　　　　　｀i´l_　l/. ／／　　　　　　　 l
+    　　　　　　　　　　 _,.　 ´￣//｀´/ﾄ-┘l／　/　　　　　　　　　 l
+    　　　　　　,.__- ''´　　　　 //　 /､, =､/　　/　 　 　 　 　 　 __　 l
+    　　　　 　 l--､ヽ、　　　 〈〈.　/ v=､/　　/　　　 　 　 　 　 l::::l 　 ヽ
+    .　　 　 　 l　　 ＼＼　　 l//. l　　 /　 r'/　　　　　　＿_　　ヽ' 　 / }
+    　　　　_r┤　　　 ＼ヽ､/ｌ ｌ　l 　 /　／l-─　_　ﾆ´-─ ､ヽ、_.／,.ｲ
+    　　　/｀ヽヽ　　 　 　｀ l　ｌ ｌ　l　/／　 ヽ￣　　　 　 　 　 ｀ヽ- 'ﾞ /
+
+
+
+
+
+288 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:19:45 ID:jEUA.hxo
+
+
+
+
+    　　　　　　　　　　＿__
+    　　　　 　 　　　 ´ 二ゝ､＼-‐:::--..,　　 ,. -‐-､
+    　　　　　　　 　／:::::::::::::::::::::::::::::::::::｀:>/:::::::::::::::ヽ
+    　　 　　　　　/:／／::::::!::∧:::::::::::::::::::{l{:::::::::::::::::::l
+    　　　　　　　 i/:::{{::::/ノｉ/　 ∨ヽ:|:!:!::::}ﾍ:::::::::::::::::|
+    　　　　　　　 ﾚ'VｌｌV　●　　　●从:::ｲ　＼::::::::::::|
+    　　　　　　　　　ヽ从⊃ ､_,､_, ⊂⊃::ﾉ　　　|:::::::::|
+    　　　　　 /⌒ヽ__ |::ﾍ　　ゝ_）　　ﾘ:l::i/⌒i　|:::::::::|
+    　　　　　 ＼ /::::トﾍ|._＞. __...,.. ィi/l/　 /　 |::::::::|
+    　　　　　　 /::::::/／ ┬ヽ只/ ∠ ﾍ､__∧　 |:::::::l
+    　　　　　　 ｀ヽ<..ヽｰ┤|ﾍ /|├:j {ヾ:::彡'　 |:::::::|
+
+
+    .　　 　 　／'　　　　　　　　　ヽ 　 ヽ
+    　 　 　 / / / 　 　 　 　 　　 　ヽヽ　ヽ
+    　　　　ｉ　i　ｌ　,ｲ l　　|　|　|、ヽ/ﾊ!.　　|
+    　 　 　|　|　|,ｨ　/ﾘﾄ　ﾄ、|ｨﾊ弋|=X|　 ｜
+    　　 　 |　|　| |ﾚ'トヾヽ| ｀ﾘ斗ヽ l　 ||　 ,'
+    　　　　ｌ　l　ﾄj　● 　　　　●　ﾉ ｲ｜ /
+    .　 　 　l.　ヽゝ⊃　 ､_,､_, 　 ⊂⊃!/ /
+    .　　/⌒ヽ　.lヽ､　　 ゝ._）　　 ｲ /⌒i
+    .　　＼ /::::::: ヽ＞,､ 　__,　 イﾘ/　 /
+    　　　 /:::::/　　　ヾ:::|三/:ﾍ　 ､__∧
+    　 　　｀ヽ<　　　　 ヾ∨:/　 ヾ:::彡'
+
+
+    　　……スキピオ説明中……
+
+
+
+
+
+289 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:20:16 ID:jEUA.hxo
+
+
+
+
+
+    　　　　　　　　　　＿__
+    　　　　 　 　　　 ´ 二ゝ､＼-‐:::--..,　　 ,. -‐-､
+    　　　　　　　 　／:::::::::::::::::::::::::::::::::::｀:>/:::::::::::::::ヽ
+    　　 　　　　　/:／／::::::!::∧:::::::::::::::::::{l{:::::::::::::::::::l
+    　　　　　　　 i/:::{{::::/ノｉ/　 ∨ヽ:|:!:!::::}ﾍ:::::::::::::::::|
+    　　　　　　　 ﾚ'VｌｌV　●　　　●从:::ｲ　＼::::::::::::|
+    　　　　　　　　　ヽ从⊃ ､_,､_, ⊂⊃::ﾉ　　　|:::::::::|
+    　　　　　 /⌒ヽ__ |::ﾍ　　ゝ_）　　ﾘ:l::i/⌒i　|:::::::::|
+    　　　　　 ＼ /::::トﾍ|._＞. __...,.. ィi/l/　 /　 |::::::::|
+    　　　　　　 /::::::/／ ┬ヽ只/ ∠ ﾍ､__∧　 |:::::::l
+    　　　　　　 ｀ヽ<..ヽｰ┤|ﾍ /|├:j {ヾ:::彡'　 |:::::::|
+    .
+
+    .　　 　 　／'　　　　　　　　　ヽ 　 ヽ
+    　 　 　 / / / 　 　 　 　 　　 　ヽヽ　ヽ
+    　　　　ｉ　i　ｌ　,ｲ l　　|　|　|、ヽ/ﾊ!.　　|
+    　 　 　|　|　|,ｨ　/ﾘﾄ　ﾄ、|ｨﾊ弋|=X|　 ｜
+    　　 　 |　|　| |ﾚ'⌒ヾヽ|｀ﾘ ⌒　l　 ||　 ,'
+    　　　　ｌ　l　ﾄj　○ 　　　　○　ﾉ ｲ｜ /
+    .　 　 　l.　ヽゝ⊃　 　　　 　 ⊂⊃!/ /
+    .　　/⌒ヽ　.lヽ､　　──　　 ｲ /⌒i
+    .　　＼ /::::::: ヽ＞,､ 　__,　 イﾘ/　 /
+    　　　 /:::::/　　　ヾ:::|三/:ﾍ　 ､__∧
+    　 　　｀ヽ<　　　　 ヾ∨:/　 ヾ:::彡'
+
+
+    　　……スキピオ説明中……
+
+
+
+
+
+290 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:20:52 ID:jEUA.hxo
+
+
+
+
+
+    　　　　　　　　　　＿__
+    　　　　 　 　　　 ´ 二ゝ､＼-‐:::--..,　　 ,. -‐-､
+    　　　　　　　 　／:::::::::::::::::::::::::::::::::::｀:>/:::::::::::::::ヽ
+    　　 　　　　　/:／／::::::!::∧:::::::::::::::::::{l{:::::::::::::::::::l
+    　　　　　　　 i/:::{{::::/ノｉ/　 ∨ヽ:|:!:!::::}ﾍ:::::::::::::::::|
+    　　　　　　　 ﾚ'VｌｌV　●　　　●从:::ｲ　＼::::::::::::|
+    　　　　　　　　　ヽ从⊃ ､_,､_, ⊂⊃::ﾉ　　　|:::::::::|
+    　　　　　 /⌒ヽ__ |::ﾍ　　ゝ_）　　ﾘ:l::i/⌒i　|:::::::::|
+    　　　　　 ＼ /::::トﾍ|._＞. __...,.. ィi/l/　 /　 |::::::::|
+    　　　　　　 /::::::/／ ┬ヽ只/ ∠ ﾍ､__∧　 |:::::::l
+    　　　　　　 ｀ヽ<..ヽｰ┤|ﾍ /|├:j {ヾ:::彡'　 |:::::::|
+    .
+
+
+    .　　 　 　／'　　　　　　　　　ヽ 　 ヽ
+    　 　 　 / / / 　 　 　 　 　　 　ヽヽ　ヽ
+    　　　　ｉ　i　ｌ　,ｲ l　　|　|　|、ヽ/ﾊ!.　　|
+    　 　 　|　|　|,ｨ　/ﾘﾄ　ﾄ、|ｨﾊ弋|=X|　 ｜
+    　　 　 |　|　| |ﾚ'ノヾヽ| ｀ﾘ ｀ヽ l　 ||　 ,'
+    　　　　ｌ　l　ﾄj　● 　　　　●　ﾉ ｲ｜ /
+    .　 　 　l.　ヽゝ　| | ､_,､_, 　| |　⊃!/ /
+    .　　/⌒ヽ　.lヽ､| |　ゝ._）　 | |ｲ /⌒i
+    .　　＼ /::::::: ヽ＞,､ 　__,　 イﾘ/　 /
+    　　　 /:::::/　　　ヾ:::|三/:ﾍ　 ､__∧
+    　 　　｀ヽ<　　　　 ヾ∨:/　 ヾ:::彡'
+
+
+    　　……スキピオ説明中……
+
+
+
+
+
+291 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:21:37 ID:jEUA.hxo
+
+
+
+
+
+    　　　　　　　　　　　　　　　　　　 ＿＿＿_＿＿
+    　　　　　　　　　　　　　　　, ィ´:::::::::::::::::::::::::::::::::::::::ヽ
+    　　　　　　　　　　　　　　 /::::::/:::::＼::::＼:::::::::ｨ:::::::::::ヽ
+    　　　　　　　　 　 　 　 　 l::i::::;r:､::::li:: ＼:|ヽ_ヽ::i::::;i〉::::::i
+    　　　　　 　 　 　 　 　 　 |:::::::i:::ﾍ:::::|l:l:::::l´＼｀ﾄ､/|::::::::l
+    　　　　 　 　 　 　 　 　 　|::::::|.u ┃ﾍ:::::| 　┃l'::> ,l:::::::::i
+    　 　 　 　 　 　 　 　 　 　ﾍ::::|　 ┃　ﾍ::|　 ┃ﾚ／:|::::::::|
+    　　　　　　　　　　　　/}}} ﾍ:::ﾄ u 　　　　u 　　| ::::/::::::::l　　しょ、正気か！？狂ったんか！？？？？
+    　　　　　　　　f爪n　|jﾉif} ﾍ:|、 　u 　＿_　u　l::::/::::://　　い、いくらなんでもそれは・・・！？？？？？？
+    　　　　　 　-={　 j.{=|'　ﾉ　 ﾍ| ｀ ｰ--｀-´┬ ｲ:/::::://
+    　　　　　 　 　ヽ　ﾉ三　|　　　｀^_>ゞ‐〉ゝｨ匕_ﾚ/ﾘ
+    　　　　　　　　 -= ﾍ王│ 　_/:{|: : :/大/ : ::|}入
+    　　　　　　　　　　',-ﾍ!　|∠ /: 《: : | ／: :ｨ彳{ : :}
+
+
+    　　　　　　　　　　＿__
+    　　　　 　 　　　 ´ 二ゝ､＼-‐:::--..,　　 ,. -‐-､
+    　　　　　　　 　／:::::::::::::::::::::::::::::::::::｀:>/:::::::::::::::ヽ
+    　　 　　　　　/:／／::::::!::∧:::::::::::::::::::{l{:::::::::::::::::::l
+    　　　　　　　 i/:::{{::::/ノｉ/　 ∨ヽ:|:!:!::::}ﾍ:::::::::::::::::|
+    　　　　　　　 ﾚ'VｌｌV　─　　　─从:::ｲ　＼::::::::::::|
+    　　　　　　　　　ヽ从⊃ ､_,､_, ⊂⊃::ﾉ　　　|:::::::::|　　・・・しかし、これ以外に勝利の方法はありえないの。
+    　　　　　 /⌒ヽ__ |::ﾍ　　ゝ_）　u ﾘl::i/⌒i　|:::::::::|　　我々に余裕はないの。
+    　　　　　 ＼ /::::トﾍ|._＞. __...,.. ィi/l/　 /　 |::::::::|
+    　　　　　　 /::::::/／ ┬ヽ只/ ∠ ﾍ､__∧　 |:::::::l
+    　　　　　　 ｀ヽ<..ヽｰ┤|ﾍ /|├:j {ヾ:::彡'　 |:::::::|
+
+
+
+
+
+292 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:22:34 ID:jEUA.hxo
+
+
+
+
+
+    　スキピオの戦略は、とてつもなく大胆な作戦だった。
+
+
+
+    　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|
+    　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|
+    　　　　 （　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (
+    　　　　　｀）　　　　　　　　　　　　　　　　　　　　　　　エブロ河→ヽ　　　　　　　　　　 ゝ
+    　　　　　 く　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼＿　　　　　　　　○ｴﾝﾎﾟﾘｱ
+    　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　｀ヽ　　　　　　／
+    　　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　←←←←←｜←←◎ﾀﾗｺﾞｰﾅ
+    　　　　　　｀|　　　　　　　　　　　　　　　　　　　　　　　　　　↓　　　　　　,～～´~
+    　　　　　　|´　　　　　　　　　　　　　　　　　　　　　　　　　　↓　　　　　/
+    　　　　　 /　　　　　　　　　　　　　　　　　　　　　　　　　　　↓　　　　/
+    　　　　　 |　　　　　　　　　　　　　　　●第一軍　　　　　　 ↓　 　 /
+    　　　　 /´　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ↓　　 /
+    　　　/´　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ↓　●ｻｸﾞﾝﾄ
+    　　 /＿●第三軍　　　　　　　　　　　　　　　　　　　　　 　 ↓　 ヽ,
+    　　　　|_，　　　　　　　　　　　　　　　　　　　　　　　　　　　 ↓ 　　_,ゝ
+    　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　↓　/´
+    　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　　　↓/
+    　　　　　|　　　　　　　　　　　　　　　　　　　　　　　　　　 ,＿●ｶﾙﾀﾍｰﾅ
+    　　　　 /＿＿　　＿＿　　　　　　　　　　　　　　　　　　/
+    　　　　 ｀　　　｀´~　　 ｀ヽ,　　　　　　　　　　　　　＿　/
+    　　　　　　　　　　　　　　｀）　　　＿_/´~~~｀～～´　｀´
+    　　　　　　　　　　　　　　 ＼　 /´
+    　　　　　　　　　　　　　　　　｀●第二軍
+
+
+    　待ち構えているカルタゴ軍を完全に無視し、いきなり敵首都である
+    カルタヘーナを攻撃しようというのである。
+
+
+
+
+
+293 ： <span style="color:#009900"><strong>◆yxZlGN83jM</strong></span>：2012/10/30(火) 20:23:26 ID:jEUA.hxo
+
+
+
+
+
+    　第一軍とカルタヘーナの距離は１０日。
+    　この期間内に勝負をつけなければならない。
+
+
+    　　　　　　　　　　＿__
+    　　　　 　 　　　 ´ 二ゝ､＼-‐:::--..,　　 ,. -‐-､
+    　　　　　　　 　／:::::::::::::::::::::::::::::::::::｀:>/:::::::::::::::ヽ
+    　　 　　　　　/:／／::::::!::∧:::::::::::::::::::{l{:::::::::::::::::::l
+    　　　　　　　 i/:::{{::::/ノｉ/　 ∨ヽ:|:!:!::::}ﾍ:::::::::::::::::|
+    　　　　　　　 ﾚ'VｌｌV　●　　　●从:::ｲ　＼::::::::::::|
+    　　　　　　　　　ヽ从⊃ ､_,､_, ⊂⊃::ﾉ　　　|:::::::::|
+    　　　　　 /⌒ヽ__ |::ﾍ　　ゝ_）　　ﾘ:l::i/⌒i　|:::::::::|　さ、準備するの。
+    　　　　　 ＼ /::::トﾍ|._＞. __...,.. ィi/l/ 　 /　|::::::::|　あ、ちなみに、兵士達には内緒ね。
+    　　　　　　 从 l||l／ ┬ヽ只/　 |||l人. ∧　|:::::::l　スパイがいるだろうから。
+    　　　　　　 ( ⌒ )ヽｰ┤|ﾍ /|├:/ ( ⌒ )　 |:::::::|
+
+
+    　　　/　 /　 　/| i　i　　 i　 　! !､
+    . 　 / 　./　　 / i ! i i　 　ﾄ､　 !i li ／｀
+    　　|　　! ﾄ―/―ﾚ-ﾍ .｀´!‐' ""i i.!==
+    　　|　　i/i　/ﾌ＝= iｌｌ.ﾍ　.l't＝= ､ﾄ､､ ﾉ∨
+    　　|　　　! i _乂__ﾉ_{　 ﾍ |_i　＿_ﾉi　/ .∧
+    .　　i　　 ∨|　|||| 　 　 　｀ ￣￣　ﾉ,'
+    　　 i　　　. |　 u　　 ｀　　　　 ij　ﾉi
+    　　　|　l 　 ｀､　　　 ,―‐ ､　　　　l 　 /　　・・・え？
+    　 　 ｀､｀､ 　 ｀ゝ.u　￣￣ 　　u ,'　　/　　　ほんまにやんの？
+    　　　　＼|＼　ﾄ　`　. _　 , 　　<ｲ ／
+    　　　　　　　`､|∨＂｜＿ 　 　/ '
+    　　　＿＿＿,,,,,／￣フヽ　`ｰ‐-ｲノ|/
+    / T::::　　 """/ トﾌi'　　,i┌─┐／ト
+    |　|――――i　レト- ｨ..!└─┘　,ヘ
+
+
+
+    　もし日にちをかければ、７５０００の兵に袋叩きにされて
+    完全に終了するであろう。
+
+
+
+
+
+    第９５話「スキピオの戦略」終わり
+
+    つづく・・・？ 
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5109/clap" id="fc2button-clap-5109" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5109").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/1.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5109/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫達はローマ共和国を作るようです　第九十五話　スキピオの戦略" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5109.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5132.html">
+					やる夫達はローマ共和国を作るようです　第１０２話　ハシュドゥルバルの大作戦 (2012/11/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5126.html">
+					やる夫達はローマ共和国を作るようです　第１０１話　ベクラ会戦後 (2012/11/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5122.html">
+					やる夫達はローマ共和国を作るようです　第１００話　ベクラ会戦 (2012/11/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5119.html">
+					やる夫達はローマ共和国を作るようです　第九十九話　マルケルスの死 (2012/11/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5114.html">
+					やる夫達はローマ共和国を作るようです　第九十八話　ファビウスの大作戦 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5115.html">
+					やる夫達はローマ共和国を作るようです　第九十七話　カルタヘーナ陥落後 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5110.html">
+					やる夫達はローマ共和国を作るようです　第九十六話　カルタヘーナ攻略戦 (2012/11/03)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫達はローマ共和国を作るようです　第九十五話　スキピオの戦略 (2012/11/03)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5108.html">
+					やる夫達はローマ共和国を作るようです　第九十四話　スキピオの演説 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5107.html">
+					やる夫達はローマ共和国を作るようです　第九十三話　紀元前２０９年序章 (2012/11/03)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5092.html">
+					やる夫達はローマ共和国を作るようです　第九十二話　ハンニバルVSマルケルス (2012/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5090.html">
+					やる夫達はローマ共和国を作るようです　第九十一話　紀元前２１０年の戦略 (2012/10/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5084.html">
+					やる夫達はローマ共和国を作るようです　第九十話　スキピオ登場 (2012/10/25)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5077.html">
+					やる夫達はローマ共和国を作るようです　第八十九話　クラウディウス・ネロ (2012/10/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5072.html">
+					やる夫達はローマ共和国を作るようです　第八十八話　イベリア戦線崩壊 (2012/10/19)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫達はローマ共和国を作るようです　第九十五話　スキピオの戦略" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2012/11/03 04:04 ]
+<a href="/blog-category-327.html" title="カテゴリを参照">歴史系（世界史）　やる夫達はローマ王国を作るようです</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html#comment_list" title="この記事のコメントを参照">CM(0)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5109"
+    dc:title="やる夫達はローマ共和国を作るようです　第九十五話　スキピオの戦略"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html"
+    dc:subject="歴史系（世界史）　やる夫達はローマ王国を作るようです"
+    dc:description="　原作・塩野七生 著 ローマ人の物語２「ハンニバル戦記」＊ですが、wikipediaとか他の本とかもたまに参考にしてます。＊そしてわりとオリジナルの部分あり。史実・原作重視ですがフィクションです。　紀元前209年、スペイン　　　　　　　＿く￣７＿＿＿＿　　　　　　　　　　　　　　|　　　　　,～´　　　　　　　　　　｀￣｀～～～～～丶＿ノ　　　　　　　　　　　　　　　|　　　　 （　　　　　　　　　　　　　　　　　..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2012-11-03T04:04:39+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5110.html" title="やる夫達はローマ共和国を作るようです　第九十六話　カルタヘーナ攻略戦">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5108.html" title="やる夫達はローマ共和国を作るようです　第九十四話　スキピオの演説">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5109.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5109"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5109-fee68126">http://oyoguyaruo.blog72.fc2.com/tb.php/5109-fee68126</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5110.html" title="やる夫達はローマ共和国を作るようです　第九十六話　カルタヘーナ攻略戦">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5108.html" title="やる夫達はローマ共和国を作るようです　第九十四話　スキピオの演説">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

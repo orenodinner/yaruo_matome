@@ -1,0 +1,833 @@
+<div class="article">
+
+
+
+
+
+
+
+　　　　　　__ .　 /ｌ　ヽ　　　　　　　　　　　　　　　 　 　 /^ヽ.__ 
+　　　　　/　ヽ_ﾉ! ! 　 トヘ　　　　　　　　　 　 　 　 　 /　　 !　ヽ. _ 
+. 　　　　! 　　 ヽヽ　　!　　ヽ　　　　　　　　　　　　　∧　　∧　_Y ヽ＿ 
+. 　 _＿∧　 　 .l　ヽ_ﾉ丶　_!＼.　　　　　 　 ＿__,イノ　 T´　 l 　i　　 　 ￣ﾉ 
+. ／　,＿ノヽ､_.,ﾉ＿.| -―|ゝ､__ヽ　　 　 　´､_＿ ノ＿_,ﾉ|-‐. ｀半 ー‐-＜|＿ 
+/__ノ´　 ヽ､＿|ノ＿.|＞ｰ.|´　　|　　　　　　|　　 　 　 　 |　　　 |　`‐-､..　| 　ノ 
+　|　　　 　 　 .|　　 .| . 　 |　　 .|　　　　　　|　　 　 　 　 |　　　 | 　 　 　 ﾉ 
+　|　　　 　 　 .|　　 .| . 　 |　　 .|　　　　　　|　　 　 　 　 |　　　 |　　　　/ 
+　| 　　　 , ─┴ 、 .| . 　 |　　 .|　　　　　　|　　 　 　 　 |　　　 | 　 　 / 
+　| 　　／ﾉ(　＼　ﾉヽ　　.|.　　..|　　　　　　|　　　 　 ＿_|_　　　|　　 ./ 
+　| 　　|　＾ (( ●　●) 　 | ,- ､从, -､　 　 .!　　　　＼ 　／＼.｜　 /　　　　　　　　　　やる夫とやらない夫の 
+　| 　　|　　　 (__人_) . 　 |(　　ヽ/　　)　　 |　　　,（●　●）ﾉ(＼　/　　　　　　　　　　 やるやら登場人物紹介その１８７！！ 
+　| 　　 !　　　　 ⌒/　i⌒) ＼／　 ／て.　.|　　 （　(_人_)　 ^　 ）/ 
+　| 　　／⌒＼　　ﾉ､_ﾉ .i　 ／　 ／.＼そ　!　　　ヽ |i|i!|　　 　く 
+　| ／　／ｙ　　　 く＿ノ ／　 ／ ＼　 ＼ .|　　('' ＼ ´　 /　 / 
+　(__,／　　|　　　　 ＼／　 .／ YY　＼　 ＼,_／＼　＼/　 /|、 
+　　　　　　ヽ　　　　　　　／　　　　　　 ＼　 　　　 ＼＿_/,/ )) 
+　　　　　　　 ＼　　　　 く　　　　　　　　　 冫　　　　　　／-´ノ 
+
+
+
+
+
+
+
+
+
+
+
+33 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:03:19 ID:IY9/Avpu
+
+
+
+
+
+　　　　　　　　　　　　　　　　　_,,.. ;;;;―‐- ､　　　__ 
+　　　　　　　　　　　　　　,.- ''´ ／　　　 |＼＞'"／ 
+　　　　　　　　　　　　 ／ .　　/　　　　.::ｊ　　　, ':ヽ 
+　　　　　　　 　 　 　 / .::　　: { :.　　: .∠_　　__ヽ :| 
+　　　　　 　 　 　 　 /.;ｲ　　::: l; :::.　::､{ --∨.::　 /! 
+　　 　 　 　 　 　 　 l./ {:..　:::i､|ヽﾄ､ :{ ` ＿/ｨ ／｜ 
+　　　　　 　 　 　 　 l{　ヽ::.. ::',TﾌTヽ　 ｲ-'/イ:::: / 
+　　　　　　 　 　　 　 　 /`－ﾐゝ┘　　└‐' / .::/ 
+　　　　　　　　　　　　 /..::;ィ:: 丶､_ て７_, ィ: /:::i 
+　　　　　　　　　　　　 {: /ノ . : ,-‐, 三´ 7 ィ::::::{ 
+　　　　　　　　　　　_, ﾍ{/ ..::／ _/ ｒﾆ､ヽ´ {:::: / 
+　　　　　　　　 ,　'´,. イ　.∠ヶ'´　 ∧　 ｀ヽヽ:ヽ 
+　　　　　　　／ ／　 / .::: //＝ｒ'´　 `ヶヶ,ゝ､ :.ヽ 
+　　　　　　/:::; '　 　 {: ::: //:ｒニﾍ---_'∠ｨ::/ 丶::ヽ 
+　 　 　 　 {: /　　　　l:. ://::::}　 ￣∨　　 `ヽ　 }: : :ヽ 
+　 　 　 　 l :{ 　 　　 ゝ', ':::::/　　　｜　　l､　 ｀ヾ:　: :} 
+　　　　 　 ヽ'､　　　/ 八:／　/　　 |　　 ヽ＼　/} :/ﾉ 
+　　　　　　　｀`‐　 { /　{{ 　/l　　　|　　　　 ヽ- '-'´ 
+　　　 　 　 　 　 　 ',{　 ',',　l l　　　l　　　　　/〉 
+　　　　　　　　　　　｀`　ヽﾆﾍ､_　 /入__ ‐_ﾆ┘ 
+　　　　　　　　　　　　　　　　` ‐ ィ-}　　`‐' 
+　　　　　　　　　　　　　　　　　　 `‐' 
+
+
+　　　　　　　　.r-､　　　　　　 ／￣￣＼ 
+　　　　　　　／て )　　　 　／　　 _ノ　　＼ 
+　　　　　　 （ _ﾉ　 ﾌ.　　 　 |　　　（ ●）（●） 
+　　　　　　　ゝ、 〈　　　　　|　　　　（__人__） 
+　　　　　　 / ハ　ヽ.　　 　 |　　　　 ｀ ⌒´ﾉ 
+　　　　　　/〃　ﾍ　 ＼ . 　 | 　 　 　 　 　 }　　　　　　　　　　　さて、今回の紹介もミーア・キャンベルだ。 
+　　　　　 ｉ ！　　 ＼　 ｀ ーヽ　　　　　　 } 
+　　　　　 丶丶　　　_ ＞　　　ヽ　　　　ノ､ 
+　　　　　　　　　ゝ'´- ､_ 　y-､　　　　　　　＼ 
+　　　　　　　　〈　　　　 ￣　 う 　 　 　 /､　　ヽ 
+　　　　　　　　　`ー― ￢､__ノ　　　　　| 　>　 / 
+　　　　　　　　　　　　　　 |　 　 　 r'＾ヽ'´ _／ 
+　　　　　　　　　　　　　　 |　　　 　 `く__ノ´ 
+
+
+　　　　　|┃ 
+　ｶﾞﾗｯ.　|┃ 
+　　　　　|┃　 ﾉ//　　　.／￣￣￣ ＼ 
+　　　　　|┃三　　　　／　 ＼　　 ／　＼ 
+　　　　　|┃ 　　　 ／　　（●） 　（●） 　＼ 
+　　　　　|┃　 　　 |　　　　（__人__）　　 　　|　　　　　　　　　ミーアさんのことが詳しく聞けると聞いてやってきたお 
+　　　　　|┃三　　 ＼　　　 ｀ ⌒´　　　　／ 
+　　　　　|┃三　　 ／￣￣￣￣￣￣￣ ＼ 
+
+
+
+
+
+
+
+
+　　 ／￣￣＼ 
+　／　　 _ノ　　＼ 
+　|　　　 （ ●）（●） 
+.　|　　　　 （__人__） 
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　　　　おう。 
+.　 |　　　 　　　　 }　　　　　　　　　　　　　ちょっと前回あまり語られなかった原作絡みの部分を解説しようと思ってな。 
+.　 ヽ　　　　　 　 } 
+　　 ヽ　　　　　ノ 
+　　　.>　　　 < 
+　　　|　　　　 | 
+　　　|　　　　 | 
+
+
+
+
+
+
+34 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:04:02 ID:IY9/Avpu
+
+
+
+
+
+　　　 　　　　　 ／￣￣＼ 
+　　　　 　　　／　_ノ　 ヽ､.＼ 
+　 　 　 　 　 | 　（●）（●）　.|　　　　　　ラクス・クラインは、民衆に多大な影響力を持つ。 
+　　　　　　 　!　　（__人__）　 |　　　　　　ならば、ラクスが隠遁したDESTINY時代、 
+　 　 　 　 　 , っ　 ｀⌒´　　 |　　　　　　プロパガンダのための替え玉が用意されても不思議ではない。 
+　　　　　　 /　ミ）　　 　　　/ 
+　　　　 　./　ノゝ　　　　　/　　　　　　　そうやって用意された替え玉がミーアだ。 
+　　　　 　i　ﾚ'´　　　 　　ヽ 
+　　　 　　|　|／|　　　　 |　| 
+
+
+
+　　　　　　　　 ＿＿＿_ 
+　　　　　　　／　　 　 　＼ 
+　　　　　 ／　─　 　 ─　＼ 
+　　　　／ 　 （●） 　（●）　 ＼ 
+　　　　|　 　 　 （__人__）　 　　 |　　　　　　　なるほど、政治利用するための 
+　　　　 ＼　 　　｀ ⌒´ 　　 ,／　　　　　　　 アイドルの替え玉ってことかお。 
+　　　　/⌒ヽ　 　ー‐ 　 　ｨヽ 
+　　　 / 　　　 　,⊆ニ_ヽ、　 | 
+　　　/　 　 ／　r─--⊃、 　| 
+　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　| 
+
+
+
+
+
+
+35 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:04:47 ID:IY9/Avpu
+
+
+
+
+
+　　　　 ／￣￣＼ 
+　　　／　　 _ノ　　＼　　（ ;;;;(　　　　　　　　　　　　　　　 　 　 　 　 ｱｲﾄﾞﾙ 
+　　　|　　　 （ ─）（─　　) ;;;;)　　 　 　 　 　 　 　 はじめは単なる『ラクス』への憧れでやっていた面も強かった。 
+　　　|　　　 　 （__人__）　/;;／ 
+.　　　|　　　　　　　　ﾉ　l;;,´　　　　　 　 　 　 　 　 だが、慰問公演などを行っているうちに、 
+　　　 |　　　　　∩ ノ)━・'　　　　　　　 　 　 　 　 戦争の悲惨さ、 
+　　／　　　　／ ＿ノ´　　　　　　　　　　　　　　　 そして他人にひどく影響を与える『ラクスの言葉』の重みを知る。 
+　 (.　 ＼ ／　.／ 　 │ 
+　　＼　 “　／_＿_|　 | 
+.　　　 ＼／ ＿＿＿ / 
+
+
+
+　　　　　　　　　 _,,,............,,,_　　　／} 
+　　　　　　 ,.-'"´　　　　　　｀ァ'´. / 
+　　　　　／　　　　　　　 「￣　　 ∧ 
+　　　／　　　　　　　　 ノ　　　　 ヽヽ 
+　　/　 {　　　|　　|　　ァ‐ﾆ;､　 ｒ‐┘ ', 
+　　l　　',　　/へ　{　 /　‐ ニヽﾍ　 　 } 
+　　{　　 ヽ. |ｆ'´T;ミ､ {　 ,ｲ　}:::ﾄ|　 ,ｲ. | 
+　　ヽ　　　「 'ｒ‐'::}　 ｀`　 ヒ__ﾉ ｊ／| }｜　　　　　　　　　　　　　 平和な世界に変わることを願い、 
+　　　 ＼　 '､ ー'　＿,,,...､　　　/　 「　|　　　　　　　　　　　　　　改めて自分の『役割』に全力を尽くすようになる。 
+　　　　　｀~大　　｜　　 }　　 /　 /　 { 
+　　　､＿　ﾉ　ﾞｒ; 、ヽ　　ﾉ__, ｒ1　/　　 `ー''7　　　　　　　　　　　そして、多くの人々の、戦争の傷を癒していった。 
+　　　ヽ _ﾌ　／ヽ､べてにﾍ､ }ｊ ./　　 ヽ__ノ　　　　　　　　　　　　この辺のことは総集編や漫画版で語られているだろ。 
+　　　-' -ｒ'　　　ヽト､ ヾヽ }ﾌ´ｊ/　}　　｜　 
+　　　　　 {　　 _ｆ千‐'‐Fﾆ´./7､＿」＿ / 
+　　　　　 丶 「,|`－　 `‐┴ く　　　 ﾞ,７ 
+　　　　　{､ノ　}」-ｒ‐ァ''"不､　 ｀ヽ､　|| 
+　　　　　｀－'´　,フ´_∠/　ﾊ　　＼「ｒ' 
+　　　　　　　　,へ／　 /　/　ヽ_ -_ > 
+
+
+
+
+
+
+36 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:05:02 ID:IY9/Avpu
+
+
+
+
+
+
+
+　　　　　　　　／￣￣＼ 
+　　　 　 　 _ノ　　ヽ、　　＼　 　,.:┐ 
+　　　　　 .（ ●）（ ●）　　..|　／　｜ 
+　　　　　 （__人__） 　　　　.|./　　 / 
+　　　　　　 i⌒ ´ .r－､　　|/　 ／　　　　　　　　　　　性格は天真爛漫で快活。 
+　　　　　　 { 　 　 ヽ,　',. .,/　:/',　　　　　　　　　　　　一人称は「あたし」、砕けた口調で話す。 
+　　　　　　 .ヽ　　　.|　 l_/_, -‐､',　　　　　　　　　　　　ただしラクスの振りをしているときはラクスに準ずる。 
+　　　　　　　 .ヽ　.　| 　 / , -－'i| 
+　　　　　　　　/　　 {　　V , -－ﾍ 
+　　　　　　　　|　　　ヽ　 Ｌ|　r=　| 
+
+
+
+　 　　　＿＿＿_ 
+　　　／　　 　 　＼ 
+　 ／　　─　　　─＼ 
+／ 　　 （●） 　（●） ＼ 
+|　 　　 　 （__人__）　 　 |　　　　　　　　　　　　　　　　ふむふむ、弥海砂みたいな感じかお？ 
+/　　　　 ∩ノ ⊃　　／ 
+(　 ＼　／ ＿ノ　|　 | 
+.＼　“　　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+　　 ／￣￣＼ 
+　／　　 _ノ　　＼ 
+　|　　　 （ ●）（●） 
+.　|　u.　　 （__人__） 
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　　　　　　　　　　　　まあ……口調はちょっと似てるかもな。 
+.　 |　　　　　　 　 }　　　　　　　　　　　　　　　　　　　　 ちょっとギャルっぽい感じ。 
+.　 ヽ　　　　　 　 } 
+　　 ヽ　　　　　ノ　　　　　　　　　　　　　　　　　　　　　　男に夜這いに行ったこともあるくらい積極的だ。 
+　　　i⌒＼ ,__(‐- ､ 
+　　　l ＼　巛ー─;＼ 
+　　　 |　｀ヽ-‐ーく＿） 
+.　　　 |　　　　　　l 
+
+
+
+
+
+
+37 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:05:39 ID:IY9/Avpu
+
+
+
+
+
+　　　　　 ／￣￣＼　（ ;;;;( 
+　　　　／ ._ノ　　ヽ､＼) ;;;;) 
+　　　　|　 （●）（●）/;;／ 
+　　　　|　　（__人__）l;;,´| 
+　　　　|　./´ニﾄ━・'　.ｌ　　　　　　　　　　　彼女はSEED世界における 
+　　　　| .l　_ニｿ　　　 }　　　　　　　　　　　 「持たざる者」を代表するキャラの一人だ。 
+　　　　 /ヽ､_ノ　　　 / 
+　　　__/　　/　　　 ノ__　　　　　　　　　　　　キラに対応するのがシンなら、 
+　　/ /　　/　　　　　　 ｀ヽ.　　　　　　　　　 ラクスに対応するのが彼女と言っていい。 
+　 /´　　./　　　　　　　,.　 ヽ. 
+　 ﾄ､＿,/.　　　　　　　｜､　 ヽ 
+　　 ｜　　　　　 　　　｜/　 / 
+
+
+
+
+　　　　 ＿＿＿_ 
+　　　／　　 　 　＼ 
+　 ／　　　_ノ　ヽ､_.＼ 
+／ 　　 （●） 　（●） ＼ 
+|　 　　 　 （__人__）　 　 |　　　　　　　　　　　持たざる者、かお？ 
+/　　　　 ∩ノ ⊃　　／ 
+(　 ＼　／ ＿ノ　|　 | 
+.＼　“　　／＿＿|　 | 
+　　＼ ／＿＿＿ ／ 
+
+
+
+
+
+
+38 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:06:02 ID:IY9/Avpu
+
+
+
+
+
+　　　　　／ｨ　　　　　　　　　　 ,. -‐┐　／ ／ ﾉ ＼ 
+　　　　 ／　 ／　　　 ／ 　 ／　　 　 ／ ／ ／　 　 ヽ 
+　　　 //　 / 　 ／//　 / /　　　　　l ／ ／l 、　　 　 ｀､ 
+　　　/'|　 /　 /　/l l　 /l !　　　／⌒ﾞレ'　　 l ヽ 　 　　 i 
+　　　　l 　l　　l　 L山-L.ﾘ　/! /　　　 }　ｌ　ｌ　ｌ　 　 　 }　| 
+　　　　|　//　ﾊ ﾄ､|,.=ミ lﾞ､ { lﾉ -─-､j　j　j　!　j　　　l 　| 
+　　　　ﾚ' {l　 | ヽ(/(ﾉ:::jヽ ヽ　 ≫=ﾐ､ﾅメ､ﾉ　　/　　 / 　 |　　　　　　 　 　 美貌、美声、 
+　　　　　 i!、 l ﾄ、ﾄ ｔ:::ﾉ　　　　`"ﾄ ):::＼ﾉ乂.／　 ／　　　| 　 　 　 　 　 　 地位、謎のカリスマ。 
+　　（⌒)　　＼ﾘ ､|｀￣　　　　　　|i::::ノﾉ!ｲｧ'　 ,.イ　　　 　 | 
+(⌒　 （　　　 　 　!"ﾞ 　'　　 　 　 `ｰ-'　／ ／!l |　　　　　 |　　　　 　 　 　 生まれつきこれらすべてを揃えており、 
+　 ｀￣ ヽ.　　　　/＼　｀ ｰ-　　 ゛ﾞ -='´-イ　!ｌ　l.＿　　　　|　 　 　 　 　 　 最終的に国家を支配してのけたラクス。 
+　　　　　　　　　/　　 ＼ 　 ＿,.,. --‐''　　|　 ｌ　|_フｲ　　 　 | 
+　　　　　　　　/　　 （(こ￣__＿L..--rr一'!　 l　|　　|　 　 　 | 
+　　　　　　　 / 　 　 |｀ ￣　 　 　 　 ||　　!　 l　|　　|　　　　 | 
+　　　　　　 /　 　 　 |` 　 　 　 　 　 ||　ノｲ　l　| 　 | 　 　 　 | 
+　　　　　 /　　　　　| 　 　 ＿＿,. -〃　 /　/ /　 ノ＼ 　 　　| 
+
+　　　　　　　　　　　　　　　↑ラクス 
+
+
+
+
+　　　　　　　　　　　　　　　　/. .: .　ｒ;;へ .　::::::: :::::::.ヽ 
+　　　　　　　　　　　　　　 ,　ﾉ::.:::::::::{/　 }.:.::/ノヽ.　. .::i 
+　　　　　　　　　　　　　　 ゝ;: :::::::::::;:ゝ　{::/´ｒｪ }::.:::.::::l 
+　　　　　　　　　　　　　　　/;ｨ ..::::::{ ｒｪ　,ﾞ` .　.ﾉ- ｲ:::::', 
+　　　　　　　　　　　　　　　V ヽ{ヽ:::ゝ. :　,　　 : .　ﾉｲ:::::',　　　　　　　　　　それに対してミーアは、声はともかく、 
+　　　　　　　　　　　　　　　　　　ﾉ::::ヽ　 ﾏ7 ﾌ　　. ｲ: :::::ヽ　　　　　　　　　顔は不細工ではないがラクスほど美人ではない。 
+　　　　　　　　　　　　　　　　 ／ .::::::::｀ヽ､｀´　／　{:::.　:ﾄｌ丶 
+　　　　　　　　　　 ｀=＝;;ﾆ二 .....::::::::::::::::::::｀T´　　 ヽ:::...l　　　　　　　　　　彼女はもともと、アイドル志望の凡人でしかなかった。 
+　　　　　　　　_ -;;ﾆﾆ二::::::::::::::::::::::::::::::::::::::ノ　　　　 `}:::}-―7⌒ヽ 
+　　　　 _　＝‐ 彡'", -‐::::::::::::;;-‐''''''''T'''"ー- 、 , -‐/::/　 , '　　　丶 
+　　 ／　　 ／-;;彡''":::::::::::::_/　　　　 ＼　　　　　　彡'　／　: : : : .　', 
+　　　　　／／-;;＝ニ;::::::::ノ　　. :､: .　　 ｀丶､＿__　 - ´　　 :iｊ:}: : : . :', 
+　　　　　／- '´　 ／ｲ／丶､＿: : :ヽ:　　　　　　　　　　　　　 V: : : : : { 
+　　　 ／　　　　 /　/ﾍ　. . . : : : : : :ｊ:　　　　　　　　　　 　 　 : '; : : : : .', 
+
+　　　　　　　　　　　↑整形前のミーア 
+
+
+
+
+
+
+39 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:06:37 ID:IY9/Avpu
+
+
+
+
+
+　　　　　　　 ／￣￣＼ 
+　　　　　　／　　　 　　 ＼ 
+　　　　　　|:::::: 　 　　 　　｜ 
+　　　　　.　|:::::::::::　　　　　｜　　　　　　　　　　　　　　　　　　　 自分が凡人だと知っていたからこそ、彼女は 
+　　　　　　 |::::::::::::::　　　　｜　　　　　　　　　　....,:::´,　.　　　　　『ラクス・クライン』という役割に固執することになる。 
+　　　　　.　 |::::::::::::::　　　　} 　　　　　　　　　....:::,,　　.. 
+　　　　　.　 ヽ:::::::::::::: 　　 } 　　　　　　 　,）:::::::ノ　. 　 　 　 　 　 本物に（社会的に）排除されそうになった時の叫びは、 
+　　　　　　　 ヽ::::::::::　　ノ　　　　　　　　（:::::ソ:　.　　　　　　　　　まさに持たざる者の言葉だろ。 
+　　　　　　　　/:::::::::::: く　　　　　　 　　,ふ´..　　 
+-―――――|:::::::::::::::: ＼ -―,――ノ::ノ―― 
+　　　　　　 　 |:::::::::::::::|ヽ、二⌒)━~~'´ 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+　　/／　 / . .::!　　 :::::　:::l::/　 ! 　 :　i　/　　 u ﾟ　　l　∨::::::　:::::::::::::::l:::::: 
+　 ''´　　 / :: ::::!　　　　:ヽ:ﾄ{_二l　　 . ｌ :l,　 ,.-;;ニニ,ｊ ／ﾞl::;/　::: :::::::::::ﾄ;:::::　　　　「あ、あたしは！　あたしはラクスよ！ 
+.　 　 　 / .::: :/ｌ　　　:､　::',〃,-,ヽ　. :.l;::{ｖ'´〃, -,､ノﾍ、 ｊｲ　.:　.: :::::::::! }::::　　　 　 ラクスなの！　ラクスがいい！！」 
+　　　　 l : ::::/　!　.　 .::ヽ.. ',' {ノｊ　ヽ :::トl　　　{_ノ::}　ﾉ`　/　.:::　.::::::i::::l/:::: 
+　　　　｜:::/ 　 l　:i.　:..:::ﾄ､:',ゞﾆ-　 ヽ:l　　　 -二"ｒっ　/.::;ｲ: ./::::::::|::::l:::::::　　　　「役割だっていいじゃない！ 
+.　　　　 l :/　　｜::::;:. :::::i::::ﾄヽ　　/　 ﾞ!　　　　　　 } } /:／｜/::::::::::l:::::l:::::　　　　　そうやって生きたっていいじゃない！！」 
+.　　　　 l {　　 . | .::l::l;::::::l:::::',　　 ､　　　　　　　　　l l/'´ 　 l/:: ::::::;::l::::::l:::. 
+　　 　 　ヾ　　　} :/l:l ';::::l:::: :ヽ　　｀　　　　　　　しｊ ｊ　　し ｊ: .　:::: !:l､:ﾄ､! 
+　　　　 　 　 　 ｊ./ .';! 丶:l:::: :. :ヽ､ `ｔ＝＝=､　　 // u _　 7 .: :::::: !:|/1::`.. 
+　　 　 　 　 　 /´.　 `/::ｽ!/.:::　::::::＼｀二￣　　 //- '´　,/:/:　:::　!:l　l::::::: 
+　　　　　　　　　　　 /;ｲ　}::/!　 ::::::: l丶　　_　＜ 　　,. イ:/l　　::　 !l.　';:::::: 
+　　　　　　　　　 　 /´ l .//｜:.　:: .: !　匚{_　 　 ヽ「‐'' /´ l　　　.:.:ﾞ',　 '､::: 
+　　　　　　　　　　　　 ,l 〃.｜::　 .::.::l　　　 ｀丶､　`ヽ　　 ｊ　　 .:::::::::',　　ヽ 
+　　　　　　　　　 　 　 ｊ /' `1　: .::;ｨ:::|　　　　　　 ＼　l　 ７　. .:::; ﾍ:::::', 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+　　　　　　　　　　　／/.| ヽ｀ヽ　ﾞi ヽ　ｒ 、　ヽ 
+　　　　　　　 　 _／ ./ /- ､ヽ　ヽｊ　} /　}　__　ヽ 
+　　　　　　　 ／ |ヽ/ / ＼ `''　　　 `′ﾊ/ ﾉ　　ヽ 
+　　　　　　, '　　 |　 /　　 ヽ　　　　　　ヽ∨　　　 ＼ 
+　 　 　 　 {　　　 }　丶　　　', 　 　 　 　 ヽヽ　　 :...　ヽ‐- 
+.　　　　　 ｊ　　　 |　　 ＼　　ヽ　　　　　　}:ﾘ　　　 :::::::＿_ 
+　　　　　/　 :　　｀ヽ ｒ‐ｒﾍ　 :: ヽ　　　　　l':. :....::..:;;-'´ 
+　　　　 ,'　 :.:i :i　:::{､ﾞ-}.|ｚﾐ　;ｲ:: ヽ　　 　 |､＿_／ 
+　 　 　 {i{　::iヽ:i:. :::;:ヽｊ/ﾍ､}/ }i::.:i:}　　 　 !::＼ｊ　　　　　　　　　　「わからないわよ。最初から持ってるあなたたちには……」 
+　　　　 `ヽ::ﾊ ｀::＼'､:ヽ　 ゞ' ´}:/ｊ|　　 　 |＞､}　　　_ -　　　　　「人から奪ってでも、しがみつきたい気持ちなんて……」 
+　　　　　　 ` ヽ:i{::i､｀`:ｊ　　　　"/i!　　　　|　ノ-　￣　　　　　　　「そうじゃなきゃ、失くなっちゃうって　怯える気持ちなんて！！」 
+　　　　　　　　 ｊ ヽlヽ:::L.....､_ｚ-,　l　　　　｜} 
+　　　 　 　 　 人　　 ｀ヽﾐヽ　`ﾍ/|.　　　　 !ｊ 
+　　　　　　　/｀ヽ`‐- ､_ｊ　　 ::::::i｜　　　　 l 
+　　 　 　 　 }　　 ￣ ー1　　 :::::i｜　　_ -_ﾆ'､ 
+　　　　　　｜　　　　　｜:　: :::::i_」-ニ ‐´　　ヽ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+
+
+
+
+
+40 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:07:16 ID:IY9/Avpu
+
+
+
+
+
+　　　　　　　 　　　 ／￣￣＼ 
+　　　　　　　 　　／　 _ノ　ヽ､.＼ 
+　　　　　　　　 　|　　（●）（●） | 
+　　　　　　　　　 |　　 （__人／,〉.| 
+　　　　　　　　　 {　　　´フ´ ./._ } 
+　　　　　 　　　　ヽ　 .／,二ニソ} 
+　　　　　　　　　　_ヽ/　 ,-― ､}ﾉ　　　　　　　　　　　　彼女は偽者だったし、それを許せない奴もいるだろうが、 
+　　　　　　　　 ／:;:{'　　 ノｰﾍJ:;:;ヽ　　　　　　　　　　　『徹底抗戦を止めるための市民の説得』のように、 
+　　　　　 　 ／:;:;:;:;:;|　 _,イ{:;::;:;:;:;l:;:;}　　　　　　　　　　　本来なら本物のラクスがやるべき事をやっていた。 
+　　　　　　/:;:;:;:;:;:;:;:;:＼＿/:;:;:;::;:;i:;/＼ 
+　　　　 　 {:;:;:;:;:;:;:;:;:;:;:;:;／:;:;:;:;:;:;:;〈:;:;:;:;:＼　　　　　　　　彼女の行動で癒された、救われた人がいることも忘れてはならないだろ。 
+　　　　　　ﾍ:;:;:;:;:;:;:;:;／:;:;:;:;:;:;:;:;:;:;:i;:＼:;／ヘ、 
+　 　 　 　 　 ￣￣7:;:;:;:;:;:;:;:;:;:;:;:;:;:;l;:;::;ゝ、`ｰj 
+　　 　 　 　 　 　 /:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;l:;:;:;:;:;:＼~ 
+　　　　　　　　　/:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:;:|ヾ:;:;:;／ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　 ／￣￣＼ 
+　　／　　 _ノ　　＼ 
+　　|　　　 （ ●）（●）　　　　　　　　 　 　 　 とまあ、そんな彼女だが、 
+　　|　　　　 （__人__）　　　　　　　　　　 　 　 やる夫スレでは>>19のように様々な役割だ。 
+　　|　　　　　　　　　ﾉ　　　　　　　　 　 　 　 ラクス絡みで出すもよし、単に明るい少女として出してもよし。 
+　　|　　 　 ∩ノ ⊃ } 
+　 /ヽ　　 ／ ＿ノ }　　　　　　　　　　　　　　ちなみにやるラヴでは御剣冥夜役だ。 
+　(　ヽ　 /　　/　ノ 
+　　ヽ　“　　/＿|　 | 
+　　　＼＿_/＿＿ / 
+
+
+
+
+
+
+41 ：<strong><span style="color:#009900">名無しのやる夫さん＠URLを貼る時は"h"抜きでttpから</span></strong> ：11/01/13 23:07:55 ID:IY9/Avpu
+
+
+
+
+
+　　　　　　　　　　　　　　　　　 ／￣￣＼ 
+　　　　　　　　　　　　　　　　／ _ノ　 .ヽ、＼ 
+　　　　　　　　　　　　　　　　|　 （●）（●）　| 
+.　　　　　　　　　　　　　　　　|　　（__人__）　.| 
+　　　　　　　　　　　　　　　　 |　　 ｀ ⌒´ 　ﾉ　　　　　　　　　　　　　以上、ミーア・キャンベルの補足説明だろ。 
+.　 　 　　 　 　 r─一'´￣`＜ヽ　　　　　　}　　　　　　　　　　　　　　無論、足りない部分をさらに補足してくれる人がいるなら 
+.　　　　 　　 　 `ー‐ｧ　　 ,　 　 )　　　 　, -'~⌒ヽ、　　　　　　　　　こんなに嬉しいことはない。 
+　　　　　　　　　　 ノ　　　{. 　 ,ﾍ　　　　,l.　ゝ、_ .'ヽ). 
+. 　 　 　 　 　　 ／, ､　_　　　/. |　　 　.　',　　.　..　 .ヽ、 
+　　　　　　　　 （／ / // / /　...|　 　 　 ...|＼..＼＼ ＼_) 
+　　　　　　　　　　 / // / /　　　　　　 　 . .　＼_＼_)､_） 
+　　　　　　　　　　 ｰ' {_/ノ　　　　　　　　　 　 　　."´ 
+
+
+
+　　 /　　　 /'　/　　　　　/　,:'/,: 
+　,:'　/　　　,:　'　/　'　/　/　,:'/,　　 /　/　,:'/,: 
+'　 ,:　　　/'　　 ／￣￣∪＼　　　　　 /'　/ 
+'　/　,'/,:　　 ／（●） 　（●）.＼　　'　/　'　/ 
+/,:　　　　 ／　（__人__）　　　 　 ＼　　,:'/,:　　　/'　　　　　　　　　　　　　　　　なんか今回相づち打つ以外 
+/　,:'/,　　|　 　｀ ⌒´　 　 ∪　 　 | '　/　/　,:'/,:　　　　　　　　　　　　　　　　　出番なかった気がするお 
+　/　　　　＼　　 　　 ｀ 　 　 　 ,／'　/ 
+/　　/'　　／　　∪　　　　　　　＼'/　　/' 
+/　,:'/,:　｜ Ｙ　　　　　∪　　|　 ｜/　,:'/,: 
+　　　　　｜｜∪　　　　　　　| 　｜ 
+
+
+
+
+　　　　　　　　　　　　　　　　 .＿ 
+　　　　　　　　　　　　　　　　 ＼ヽ,　,、 
+　　　　　　　　　　　　　　　　　　`''|/ﾉ 
+　　　　　　　　　　　　　　　　　　　 | 
+　　　　　　　　　　　　　　　＿　　　| 
+　　　　　　　　　　　　　　　＼｀ヽ、| 
+　　　　　　　　　　　　　　　　 ＼, V 
+　　　　　　　　　, . ; ; ；,'∵,'∴,'+　L,,_　'∵,'∴,'+:.:.:.:.:.::; ; ,. ,、 
+　　　,. ; ,+X'∴ﾞ'＋"　　　　　 　　 |ヽ､) 　 ,､　　　　　ﾞ ∵　':,+';x ;､ 、 
+　 +:'､+　　　 　 　　　　　　　　　 /　　　　 ヽYﾉ　　　　　　　　 　+､', ､ 
+　 ﾞ,∵,､　 　 　　　 　　　　　　 /　　　　r''ヽ、.|　　　　　　　　　　, +,∵ 
+　　　` ∴',+:; . ,　　　　　 　 　 |　　　 　`ｰ-ヽ|ヮ　　　　　　 ,　+: ∵ 
+　　　　　 `'∵',+'∴; , 　　　　　|.　　　　　　　 |　　　, . , ; + ;∵ 'ﾞ 
+　　　　　　　　　`　' ∵',"+',x' ；,'∵,'∴,'+,ヽ;','+'；,'∵,'∴, ∵ "　　┼ヽ　 -|r‐､.　ﾚ　| 
+　　　　　　　　　　　　　　　　｀^　ﾞ　ﾞ　 ^　"　　　　　　 　 　 　 　 ｄ⌒)　./|　_ﾉ　 __ﾉ 
+
+
+
+
+
+
+<hr size="２"/>
+
+
+
+
+
+
+　　〃⌒`⌒ヽ
+　 　i　（`'）从ﾉ　　 
+　　 i,,ゝ ´Д｀）　　　　　　　ラクスとミーアの見分け方？
+　　／ 　　　＼　　　　　　　何度も言わせるな
+　　| |　　　　 | ＼　　　　　 おっぱ……
+　　| |　/⌒|⌒|ヽ二二つ　　　 　　 
+　　ヽ二二Ο./　　　　　　　　　　　 
+　　（＿|　|_|　|_　　　　　　　
+　　　 .（＿_)＿_)　　　　
+
+
+
+
+
+　　　　| .::. ::ヽ::丶　＼ /　　　　　　　　　　　　　　 　 　 ヽ
+　　　　:|:::::.:::::ヽ::::＼//..:/ /:/　　　　　..:::::　 .:..　　　　 　 ヽ
+　 　 :　:|:::::::::::::ヽ:::://.::/:/::/ / / .:/ .:::::::// .::::.　　　　　　 |
+　　 ..:　:|:::::::::::; --/ |::::|/::::| / / ::/:::::::::///::::::|:/ .::. :　　.:: |
+　　 .::　::|::::／ '⌒|　|::::||:::::|ル'1::j|..::::::///::::::::/ /::::..:. .:. .:: |
+　　..:::　::|:::{　 r'　|　||::ﾊ::::::::::::ハ|`i::::/|/|::::::::/::/::::::::,ｲ:: .:::/
+　　.::::　::|:::ヽ 　 (|:　!:::: ヽ:::::::|::::::::::::::::::::`|:::::/:::/:::::::/ |::/l/
+　　:::::　:::|::::::ヽヽ|::　　　　ヽ;::|::::::::::::::::::::::j／//:::::::/　j/〃
+　 .::::::　::::l::::://‐|::　 　 　 | ヽ! :::::::::::::::〃 r'ｲ:::／　 /
+　.::::::::　::::||::||:!　|:::　　　　|　　　　　　　　 !　´
+　.::::::::　:::::|`ヽ､ .|:::　 |　　| 　　 　 　 　 　 ヽ
+...:::::::::　::::::|　　 `|:|　 |　　|　　 　 ､　　 ,.. --'
+::::::::::::　::::::|　　　|:|　 |　　|　　　　 ｀_y'′
+:::::::::::: .:::::::j　　　|:!|　|:.　 |　　　　 //
+:::::::::::..:::::::/ 　 　 ||l　|:::.　| ヽ､__.ノ::|
+:::::::〃:::::/　　...　 |∧|::::::..|　||::::::::|::|
+:::::/:::::::/　　　　　 ｀''-ヽ､:::|　||::::::::| |
+
+
+
+
+　　〃⌒`⌒ヽ
+　 　i　（`'）从ﾉ　　 　　　……髪飾りに決まってるだろ
+　　 i,,ゝ；´Д｀）　　　　　　　
+　　／ 　　　＼　　　　　　　
+　　| |　　　　 | ＼　　　　　　　　　　
+　　| |　/⌒|⌒|ヽ二二つ　　　 　　 
+　　ヽ二二Ο./　　　　　　　　　　　 
+　　（＿|　|_|　|_　　　　　　　
+　　　 .（＿_)＿_)　　　　
+
+
+
+
+
+　　　　　　　　　　　　　　　〃⌒`⌒ヽ
+　　パァン！　　 　　　 　 i　（`'）从ﾉ　ｷﾗｱｱｱｱｱ
+　　　 　　　　　　　　 　　　i,,ゝ；´Д｀）　 　　　　　　　　　　　　
+　　　　　　───────・　　ヽ 　　　　　　　　　　　　　　 
+　　　　　　　　　　　　　／　　　　/ ＼_ 　　　　　　　　　　　　　
+─────・　　　　（＿二つ/　ヽ＿つ 
+　　パァン！　 　　 　　/　　／⌒i 　　　　　　　　　　　　　　　 
+　　　　　　　　　　　　 .i　／／　/ 　　　　　　　　　　　　　　　　
+　　　　　　 　─── 人__/　／─────・
+　　　　パァン！ 彡 /　 ./ ./ 　　　　　　　　　　　　　　　　　　 
+　　　　　　　　　　 ノ .／（＿_つ 　　　　　　　　　　　　　　　　　
+　　　　　　/⌒二＿ノ .
+　　　　　　し'
+
+
+
+
+
+
+　　　　　　　　　　次回もお楽しみに
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/3002/clap" id="fc2button-clap-3002" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-3002").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/9.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/3002/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８７" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-3002.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-3578.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１９４ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3577.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１９３ (2011/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3576.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１９２ (2011/08/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3575.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１９１ (2011/08/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3574.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１９０ (2011/08/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3573.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８９ (2011/08/10)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3572.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８８ (2011/08/10)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８７ (2011/01/15)			</li>
+<li class="relate_li">
+<a href="/blog-entry-3001.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８６ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3000.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８５ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2999.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８４ (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2953.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８３ (2011/01/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2896.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８２ (2010/12/19)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2778.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８０ (2010/11/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2779.html">
+					やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８１ (2010/11/22)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８７" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2011/01/15 04:26 ]
+<a href="/blog-category-76.html" title="カテゴリを参照">やる夫スレ登場人物紹介</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html#comment_list" title="この記事のコメントを参照">CM(3)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/3002"
+    dc:title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８７"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html"
+    dc:subject="やる夫スレ登場人物紹介"
+    dc:description="　　　　　　__ .　 /ｌ　ヽ　　　　　　　　　　　　　　　 　 　 /^ヽ.__ 　　　　　/　ヽ_ﾉ! ! 　 トヘ　　　　　　　　　 　 　 　 　 /　　 !　ヽ. _ . 　　　　! 　　 ヽヽ　　!　　ヽ　　　　　　　　　　　　　∧　　∧　_Y ヽ＿ . 　 _＿∧　 　 .l　ヽ_ﾉ丶　_!＼.　　　　　 　 ＿__,イノ　 T´　 l 　i　　 　 ￣ﾉ . ／　,＿ノヽ､_.,ﾉ＿.| &#45;―|ゝ､__ヽ　　 　 　´､_＿ ノ＿_,ﾉ|&#45;‐. ｀半 ー‐&#45;＜|＿ /__ノ´　 ヽ､＿|ノ＿.|＞ｰ...."
+    dc:creator="泳ぐ管理人"
+    dc:date="2011-01-15T04:26:37+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2994.html" title="やる夫が陸上自衛隊少年工科学校に入るようです　第６４話　東北研修旅行　Part1">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3001.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８６">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment12870">[ 12870 ] <strong></strong></p>
+</div>
+<div class="comb">
+この作者のキャラ紹介は好感が持てるな！
+2次創作でよく見かけるキャラクターのイメージブレイクが嫌いなんだけど、そういうのを踏まえた上で、中立っぽい立ち位置から原作の設定も補足してくれる。
+すごく読みやすいし面白い。
+ 
+一方で管理人ェ…<div class="comment_navi">
+[ 2011/01/15 19:56 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3002" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment18298">[ 18298 ] <strong></strong></p>
+</div>
+<div class="comb">
+紹介の続きまとめてくんねーかなあ
+ここにまとめてあると見やすくて見返したいとき助かるし<div class="comment_navi">
+[ 2011/06/02 12:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3002" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment22103">[ 22103 ] <strong></strong></p>
+</div>
+<div class="comb">
+アスラン・・・クールだな<div class="comment_navi">
+[ 2011/08/26 02:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無し＠まとめいと</a>') } else {
+document.write("名無し＠まとめいと"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無し＠まとめいと</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=3002" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-3002.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="3002"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/3002-552c2d68">http://oyoguyaruo.blog72.fc2.com/tb.php/3002-552c2d68</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2994.html" title="やる夫が陸上自衛隊少年工科学校に入るようです　第６４話　東北研修旅行　Part1">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-3001.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１８６">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

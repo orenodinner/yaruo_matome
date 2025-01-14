@@ -1,0 +1,978 @@
+<div class="article">
+
+
+
+
+―― A7Vはドイツ初の戦車である
+
+　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＿
+　　　　　　　　　　　　　　　　　　　　　　　　　_/￣_＿￣ ヽ
+　　　　　　　　　　　　　　　　　　　 　 　 　 　[| 　 |_＿_|　 |
+　　　　　　　　　　　　　　　　_ ,,...　-‐　'' "´￣￣￣￣￣￣ ~゛''　‐-　..,,_
+　　　　　　　_ ,,...　-‐　'' "´　　　　　　　　　 ：：　[　][　]　：：　　　　　　　：：~゛''　‐-　..,,_
+. 　 　 　 　 〒　 :|：　γ￣ヽ ：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　 ~.i
+　　二二二(」 　 :|：　 |　O　|.：： [ O ] 　 　 .：：　 　 　 　 ：：　 　 .[ O ]　：：　　　　　：|:　　 i
+　　　 　 　 i 　　 :|：　 |　 　 |.：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　 ﾍ二≡
+.　　　　　　i　　　:|：　 |＿＿|.：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　　　i
+.　 　 　 　 i.　 　 :|：＿＿＿_,,：：。 。 。 。 。：：。 。 。 。 ：：,,＿,, 。 。 。.：：＿＿＿,,：|:＿ 　.i
+　　　　　　｀/|.　 :|：　　 　 　 ：：　 　 　 i´￣￣｀i　　 　 　 i´ 　 ｀i.　　 　 ：：　　　　　 ：|: |ヽ´
+　　　 　 　 　 .＼:|：_＿＿＿_：：＿＿＿_二二二_＿_＿_＿_二二_＿_＿_.：：＿＿：：＿／
+　　　　　　　　　 ヾ ゝ　||　ノ 　 IミI IミI-------IミI IミI-------IミI IミI 　 ゝ　||　ノソ´
+　　　　　　　　　 　 ＼｀__´ （([三土土三])) (([三土土三])) (([三土土三])) ,｀__´／
+　　　　　　　　　　　　 ｀　｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀
+
+　　　　　　　　　　　┏─────────────────────┓
+　　　　　　　　　　　　 主武装 ： 57mmカノン砲 1門　　乗員 ： 18名
+　　　　　　　　　　　　 副武装 ： MG08重機関銃6丁
+
+　　　　　　　　　　　　 最高速度 ： 整地時 15km/h
+　　　　　　　　　　　　　　　　　　 　 不整地時 8km/h
+　　　　　　　　　　　┗─────────────────────┛
+
+
+
+
+
+
+
+
+
+
+987 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:25:49 ID:kAEw4pG20
+
+
+
+
+
+    ―― カタログスペック上からいえば、（当時の基準では）かなりの高速戦車である。
+
+
+
+
+    　　　　　　　　　　　　　　　'´｀ ､　　　　　 　 　 ""゛゛　　　　　__ -　　　　- __　　_
+    　　　　　__　　　._ .,　　　　__ 　 　 　 -─　　 　　　　　　　。　　　,⊂⊃､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　, -、_
+    　　　　　　　　　　　　　　　　　　　　　　　　-√　＋　 i　～
+    　　　　　　　　　　　　　　　　　　　　　　　　　`゜゜゜゜゜゜´ ﾉﾛﾉﾛ
+    　　. ..,　　-=-　　　　　　　　　　　　　　,-ｭ__　　　　　　　　　　　　　　　　'´｀ ､
+    　γ´￣｀ヽ　　　　　　　, -ｭ､　　　　_　　　　　　　　　__　　　._ .,　　　　__
+    　ﾉ〉‐--‐'Λ＼　　　-=‐‐-　　　　　　　　　　γ´￣｀ヽ　　　　　　　=--　　o　__
+    　　　　　　　　　　　　　　　　　　　　　　　,‐ｭ　　　　　.　o　　　　　　　　　｡
+    　　　　　　　　　　　　　　　　, -、_
+    　　　　　　　　　　　　　 -√　＋　 i　～ ﾉﾛﾉﾛ
+    　　　　　　　　　　　　　　 `゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　ﾉﾛﾉﾛ
+    　　　　　　　　　　　　　　　､　　　　　　　　　　　　　　　　　　　　　　　　, -、_
+    -､　　　　　　　｡　　""゛゛　　_ _　__,　　 　　　　　　　　　　　　　　　-√　＋　 i　～
+    　　　　　　-　　　　　　　　_　　　　_　,-ｭ__　　　　　　　　　　　　　　 `゜゜゜゜゜゜´
+    　　-‐‐- ､　　__　　　,o､_　　　　　　　 　 　 　 ,⊂⊃､
+    　　　　　　　　　　　　　　　'´｀ ､　　　　　 　 　 ""゛゛　　　　　__ -　　　　- __　　_
+    　　　　　__　　　._ .,　　　　__ 　 　 　 -─　　 　 -‐-　　　。　　　,⊂⊃､
+    γ´￣｀ヽ　　　　　　　=--　　o　__ _ 　 　 ,=--､　　　　　 　 ｡　　""゛゛　　_ _　__,
+    　　,‐ｭ　　　　　.　o　　　　　　　　　｡　　　　　　　　　　　-　　　　　　　　_　　　　_
+
+
+    ―― しかし、不整地走行能力は英軍のMk.IVなどと比較すると大きく劣り
+    　　　 無数のクレーターが存在する無人地帯では這うような速度しか出なかった。
+
+
+    .
+
+988 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:26:05 ID:kAEw4pG20
+
+
+
+
+
+    ―― 高い位置に配置された操縦席は、足元が見づらく不整地での走行をより困難にしたが
+    　　　 同時に戦域全体を見渡す広い視界を提供した
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_/￣_＿￣ ヽ
+    　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 操縦席 →　[| 　 |_＿_|　 |
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　_ ,,...　-‐　'' "´￣￣￣￣￣￣ ~゛''　‐-　..,,_
+    　　　　　　　　　　　　　　　　　　　　　_ ,,...　-‐　'' "´　　　　　　　　　 ：：　[　][　]　：：　　　　　　　：：~゛''　‐-　..,,_
+    　　　　　　　　　　　　　　,,,,,,,,,;;;;;;;;;;;;;;;〒　 :|：　γ￣ヽ ：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　 ~.i
+    　　　　　 　 　 ,,,,,,,,,;;;;;;;;;;;;;;;;;;;二二二(」 　 :|：　 |　O　|.：： [ O ] 　 　 .：：　 　 　 　 ：：　 　 .[ O ]　：：　　　　　：|:　　 i
+    . 　 　 ,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;i　 　 :|：　 |　 　 |.：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　 ﾍ二≡
+    ,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;i 　　　:|：　 |＿＿|.：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　　　i
+    ;;;;;;;;;;;;;;;;;;;;┏────┓;;;;;;;;;;;;;;;;;;;;;i.　　　:|：＿＿＿_,,：：。 。 。 。 。：：。 。 。 。 ：：,,＿,, 。 。 。.：：＿＿＿,,：|:＿ 　.i
+    ;;;;;;;;;;;;;;;;;;;;　 　 死角　 　 ;;;;;;;;;;;;;;;;;;;;;｀/|.　 :|：　　 　 　 ：：　 　 　 i´￣￣｀i　　 　 　 i´ 　 ｀i.　　 　 ：：　　　　　 ：|: |ヽ´
+    ;;;;;;;;;;;;;;;;;;;;┗────┛;;;;;;;;;;;;;;;;;;;;;;;;;;;;;＼:|：_＿＿＿_：：＿＿＿_二二二_＿_＿_＿_二二_＿_＿_.：：＿＿：：＿／
+    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ヾ ゝ　||　ノ 　 IミI IミI-------IミI IミI-------IミI IミI 　 ゝ　||　ノソ´
+    ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;＼｀__´ （([三土土三])) (([三土土三])) (([三土土三])) ,｀__´／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 ｀　｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀
+
+
+
+
+
+989 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:26:22 ID:kAEw4pG20
+
+
+
+
+
+    ―― 主武装である57mm砲※は、「Mk.IVを距離2000mから撃破できる」ことを理由に採用されており
+    　　　 当初から対戦車戦闘を意識して設計していた節がある。
+
+
+
+    　　　　　　　　　　　　　　 i´￣￣￣￣￣ ｀i
+    　　　　　　　　　　　 　 　 |　　　 　 　 　 　 |
+    　　　　　　　　 　 　 　 　 |　　　　　　　　　 |　　┌≦
+    　＿＿＿＿＿＿＿＿_/´| 　 　 　 　 　 　 乍〒-´　　 ＿
+    , i_　　　　　　　　 　 　 (.　|　　　　 　 　 　 |┘_ , - ‐￣ 　 |
+    　 ￣￣　―　 - - ---ヽ｜　　　　　 　 　 |　　　　　 　 　 |
+    　　　　　　 　 　 　 　 　 ｀|　　　　　　　 　 ｀⌒）, ‐------!
+    　　　　　　　　　　　　　　 |　　　　　　　　　|ヽ-----´|
+    　　　　　　　　　　　　　　 ｀￣￣/￣￣ヽ￣￣￣￣｀
+    　　　　　　　　　　　　　　 　 　 /　 　 　 ヽ　　　　　　　　　　　 ※57mm砲
+    　　　　　　　　　 　 　 　 　 　 /　 　 　 　 ヽ　　　　　　　　　　 大量に捕獲されていたベルギー製の海軍砲
+    　　　　 　 　 　 　 　 　 　 　 /　 　 　 　 　 ヽ　　　　　　　　　 マキシム式単装ノルデンフェルト 57 mm 砲のこと
+    　　　　　　　　　　　　　　 　/　　　　　　　　 ヽ　　　　　　　　　野砲として運用され、MK.IV撃破実績があった
+    　　　　　　　　　　　　──┴──────┴─
+
+
+
+
+
+990 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:26:34 ID:kAEw4pG20
+
+
+
+
+
+    ―― 初の実戦参加は1918年3月21日、ドイツ軍の第一次攻勢においてであった
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　 　 $ 　 　 xx.　o.　　 @@@@*　　　 .++| |+++○　　　ﾉ ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　 　 $$$　 　 xx.　　　 o　　　　　　 @@@@@.ﾉﾉ@　 　 +　　巛
+    　　　　　　　　　　　　　　　　　　　　　　 $ 　.　 　xx　　　　　o.　　　 　 　 　 　 /´彡　 　@　　+　　ヽミヽ
+    　　　　　　　　　　　　　　　　　　　　　　　$.　　xx　　　　　　o　　　　　　　　　/ /　　　　　@　+　　冫彡´
+    　　　　　　　　　　　 　 　 　 　 　 　 　 　 G$　x　　　　　　 o.　　　　 　 　 　 川　 　 　 @ 　 + 　 / ﾉ
+    　　　　　　　 　 　 　 　 　 　 ＿＿＿＿　G　$. x.　 　 　 o　　　　 　 　 　 　 川　　　　@　+　 　 川
+    　　　　　　　　　 　 　 　 　 　 ｱﾙﾍﾞｰﾙ ＼$　　 xx.x 　 o　　　 　 　 　 　 　 ﾉ ﾉ　　　 @　*.+　　 川
+    　　　　　　　　　　　　　　　　　　　　　 　 $○ 　 　 .x . 　 o.　 　 　 　 　 　 / /　　　　@　*.　++　ヾヽ
+    　　　　　　　　　　　　　　　　　　　　　　G　$.　 　 　 xxx .o.　　　　　　　　 川　　　　　@　　*.　 +　ヾヽ
+    　　　　　　　　　　　　　　　　　　　 　 　 G　　$　　 　 　 x o.　　　　　 　 ノノ　　　　　@　　 *　　.+　 川
+    　　　　 ＿＿＿　　　　　　 　 　 　 　 G　 　 　 $　　　/⌒ヽo.　 　 　 ／／　　　　　 .@　　 *.　　 +　川
+    　　　／ ｱﾐｱﾝ　　　　　　　　　　　 G 　 　 ノ三三三彡 ´｀ ﾐ三三三巛　　　　　　　　@　　　*　　.+　川
+    　　 ○ミヽ　　　　　 ノ三三三三三三三彡　　 $.　　　 　 　 x.　　o. 川　　　　　　　　　@　　　*.　 + ヽミミヽ
+    　　　　　ヾ三三三彡　　　　　　　G　　　　　　 $　　 　 　 　 x.　　 o川　　　　　　　　 　 @　　　 * 　 ++ 　 ヾヽ
+    　　　　　　　　　　　　　　　　　　G　　　　　 　 $　 　 　 　 　 x.　　 o川　　　　　　　　　 @　　　 　 * 　　 +　 川
+    　　　　　　　　　　　　　　 　 　 G 　 　 　 　 　 $　　　　　　 x 　 　 o川　　　　　　　　　@　　　　　　*.　　 +　川
+    　　　　　　　　　　　　　　　　　G　　　 　 　 　 $.　 　 　 　 x　　　　o川　　　　　　　　 @　　　　 　 *　　 .+○ﾉ ﾉ
+    　　　　　　　　　　　　　　　　　 G　　　　　　　 $　　 　 　 x.　 　 　 oヾヽ　　 　 　 　 　 @@@　 　 *　 ノ 三彡++
+    　　　　　　　　　　　　　　　　　G　　　　　　　 $　 　 　 　 x.　　 　 　 oヾヽ　　　　　　 　 　 　 @ 　 *ﾉ ノ*　　　　.+
+    　　　　　　　　　　　　　　　　 G　　　　　 　 　 $ 　　　　 x.　　　　　 　 oヾヽ　　　　　　　　　　 @ 　 川　 *　　　　.+
+    　　　　　　　　　　　　　　　　G　　　 　 　 　 　 $　　　　 x.　　 　 　 　 oノ人ヽ　　　　　 　 　 　 ノ彡 ´ 　*.　　　　 +
+    　　　　　　　　　　　　　　　　G　　　　 　 　 $$　　 　 　 　 xxxxxxx.　 oヾヽ　ヾ｀ミ二二ミヽ　　.( (@@ 　 　*** . 　 +/ /
+    　　　　　　　　　　　　　　　　G　　　　　　$　　　　　　　　　　　　　　xx .oヾヽ　　　　　　　｀ヽﾐ彡ﾆミヽ@@ 　 　 * . +川
+    　　 　 　 　 　 　 　 　 　 　 G　　　　　　 $　　　　　　　　　　　　　 　 　 x.川　　　　　　　　　　　　　ヾﾐﾐヽ@ 　 .*　+川
+    　　　　　　　　　　　　　　　G　　　　　　　　$$$　　　　　 　 　 　 　 　 　 x川o.　　　　　　　　　　　　　　 ヾヽ@　*. +川
+    　　　　　　　　　　　　　　　G　　　　　　　　　　 $　　　　　　　　　　　 　 x川　 o　　　　　　　 　 　 　 　 　 ヾヽ *...+川
+    　　　　　　　　　　　　 　 　 G　 　 　 　 　 　 　 　 $$$　 　 　 　 　 　 　 x) )　　oo　　　　　　　　　　　　　　川　 +ﾉ ﾉ
+    　　　　　　　　　　　　　　　　G 　 　 　 　 　 　 　 　 　 $$　　　　　　　　/ /　　　　 ooo　　　　　　　 　 　 ノ　彡○ﾉ
+    　　　　　　　　　　　　　　　 　 GGGGGG 　 　 　 　 　 　 $$ 　　　　　 ヾヽx　　 　 　 　 ooooo　　　 　 彡o.´　　+
+    　　　　　　　　　　　　　　　　　　　　　　　GGGGGGGG.　　 $$　　 　 　 ヾヽx .　 xxxx.　　　 　 oo　彡´o.　　　 +○
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 GG　$$$　　 　 川　xx　　　xx 彡三三彡´oo　　　　　+
+    　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 G 　 $$$$川彡三三三彡´　xxxxxxx.
+    　 0　　　　　　　　　　　　　　　　　　24km
+    　├‐‐‐‐‐‐‐┴‐‐‐‐‐‐‐┴‐‐‐‐‐‐‐┤
+
+
+
+
+
+991 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:26:45 ID:kAEw4pG20
+
+
+
+
+
+    ―― しかし、A7Vは歩兵部隊の急速な進軍についていくことができず
+    　　 ほとんど活躍できなかった
+
+
+
+    　　　　　　　　　　　　　　　'´｀ ､　　　　　 　 　 ""゛゛　　　　　__ -　　　　- __　　_
+    　　　　　__　　　._ .,　　　　__ 　 　 　 -─　　 　　　　　　　。　　　,⊂⊃､
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　, -、_
+    　　　　　　　　　　　　　　　　　　　　　　　　-√　＋　 i　～
+    　　　　　　　　　　　　　　　　　　　　　　　　　`゜゜゜゜゜゜´ ﾉﾛﾉﾛ
+    　　. ..,　　-=-　　　　　　　　　　　　　　,-ｭ__　　　　　　　　　　　　　　　　'´｀ ､
+    　γ´￣｀ヽ　　　　　　　, -ｭ､　　　　_　　　　　　　　　__　　　._ .,　　　　__
+    　ﾉ〉‐--‐'Λ＼　　　-=‐‐-　　　　　　　　　　γ´￣｀ヽ　　　　　　　=--　　o　__
+    　　　　　　　　　　　　　　　　　　　　　　　,‐ｭ　　　　　.　o　　　　　　　　　｡
+    　　　　　　　　　　　　　　　　, -、_
+    　　　　　　　　　　　　　 -√　＋　 i　～ ﾉﾛﾉﾛ
+    　　　　　　　　　　　　　　 `゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　ﾉﾛﾉﾛ
+    　　　　　　　　　　　　　　　､　　　　　　　　　　　　　　　　　　　　　　　　, -、_
+    -､　　　　　　　｡　　""゛゛　　_ _　__,　　 　　　　　　　　　　　　　　　-√　＋　 i　～
+    　　　　　　-　　　　　　　　_　　　　_　,-ｭ__　　　　　　　　　　　　　　 `゜゜゜゜゜゜´
+    　　-‐‐- ､　　__　　　,o､_　　　　　　　 　 　 　 ,⊂⊃､
+    　　　　　　　　　　　　　　　'´｀ ､　　　　　 　 　 ""゛゛　　　　　__ -　　　　- __　　_
+    　　　　　__　　　._ .,　　　　__ 　 　 　 -─　　 　 -‐-　　　。　　　,⊂⊃､
+    γ´￣｀ヽ　　　　　　　=--　　o　__ _ 　 　 ,=--､　　　　　 　 ｡　　""゛゛　　_ _　__,
+    　　,‐ｭ　　　　　.　o　　　　　　　　　｡　　　　　　　　　　　-　　　　　　　　_　　　　_
+
+
+
+
+
+992 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:27:03 ID:kAEw4pG20
+
+
+
+
+
+    ―― 世界初の戦車戦は、1918年4月24日にこのA7VとMk.IVの間で行われた
+
+
+
+    　　　　 ./´￣´　　　　　　　　　　＿,-‐一T´ +　　　　　　　　　　　　* ： 第一次攻勢終了時
+    　　＿/　　　　　　　 　 ＿,-‐一'　　　 　 |　　+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　 　 　 　 ノ　　　　 　 　 　 　 i　 +　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ヽ、
+    　　 　 　 　 　 　 　 i　　　　　　　　　　　 ヽ、 +　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 /
+    　　　　　　　 　 　 .i´　　　　　　　　　　　 　 ヽ+ノ￣ヽ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /
+    　　　　　　　　　　 |　　　　　　 　 　 　 　 　 　 +　　　)　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 (
+    　　　　　　　　　　 |　　　　　 　 　 　 　 　 　 +　　　　ヽ　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＼
+    　　　　　　　　　　 |　　　 　 　 　 　 　 　 　 +　 　 　 　 ｀ー- 、　　　　　　　　　　　　　　　　　　　　　　　　　　 　 /
+    　　　　　　　　 　 ﾉ　　　　　　 　 　 　 　 　 +　　　　　　　　　　)　_　　　　　　　　　　　　　　　　　　　　　　　　　　i
+    　　 　 　 　 　 　 |　　　　　 　 　 　 　 　 　 + 　　　　　　 　 　 ヽ´ ｀ー 、　　　　　　　　　　　　　 　 　 　 　 　 　 |
+    　　　　　　　　　丿　　　　　　　　　　　　　　+ +　　　　　　　　　　　　　　｀>　　　　　　　　　　　　 　 　 　 　 　 　 |
+    　　　　　　　　／　　　　　　　　　　　　　　 *　　+++　　 　 　 　 　 　 　 丿 　　　　　　 /｀i　　 　 　 　 　 　 　 　 人
+    　　　　　 __ノ´　　　　　　　　　　　　　 　** 　 　 　 +　　　　　　　　　　　｀)　　　　　, ´　i´　　　　　　　　　　　／　/
+    　　, -‐ ´　　　　　　　　　　　　　　　 　*　　　　　　　+　　　　 　 　 　 　 <＿　　 _,/ 　 (　　　　　　　　　　　 /　　 ヽ、
+    　　　　　　　　　　　　　　　　　　　　　 * 　 　 　 　 　 +　　　　　　　　　　　　 ￣´　　　　)　　　　　　　　　　<　　　　 ヽ、
+    　　　　　　　　　　　　　　　　　　　<span style="color:#FF0000">★</span> *　 　 　 　 　 　 +　　　　　　　　　　　　　　　　 　 |__　　　　　　　　　 (　　　　　　｀ヽ、
+    　　　　　　　　　　　　　　　　　 　 　*　　　　　　　　 　 +　　　　 　 　 　 　 　 　 　 　 　 　 ｀ヽ　　 　 　 　 　 ヽ　　 　 　 　 ）
+    　　　　　　　　　　　 　 　 　 　 　 　 ** 　 　 　 　 　 　 +　　　　　　　　　　　　　　　　　　　　　｀ヽ、_　　 　 　 |　　　　　　/
+    　　　　　　　　　　　　　　　　　　　　　　***** . 　**** +　　　　　　　　　　　　　　　　　　　　　　　　i　 _＿_ノ　 　 　 　 i
+    　　　　　　　　　　　　　　　　　　　　　　　　　　**　　　　+ 　　　　　　　　　　　　　　　　　　　　　　　 ｀´　　　｀ヽ-─´丶|
+    　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 ++++++++　　　　　　　　　　　　　　　　　　　　　　　 ﾉ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　++　　　　　　　　　　　　　　　　　　　 　 　 ヽ
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　+++++++++ 　 　 　 　 　++++　　　　　　)
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　+++++++++　　 　+　　　　 /
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 +　　　 (
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 .　　　　+　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 +　　　++++　 +++
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　++++　　　　　 　 +
+
+
+
+
+
+993 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:27:15 ID:kAEw4pG20
+
+
+
+
+
+    ―― この日、第二戦車部隊に所属する3輌のA7Vは、アミアン近郊で3輌のMk.IVに遭遇した
+
+
+    　　　　　　
+    .　 　 , -、_ Σ　　　　　　　　　 　 　 　 　 　 　 　 　 ,。-、、
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　メフィスト号　
+
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,。-、、
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雄型
+    　エルフリーデ号
+
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,。-、、
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　ニクス号
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　※雄型、雌型
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　雄型は6ポンド砲二門装備
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　雌型は砲の代わりに機関銃を搭載したタイプ
+
+
+
+
+
+994 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:27:30 ID:kAEw4pG20
+
+
+
+
+
+    ―― A7Vの装甲は機関銃弾をことごとく跳ね返し
+    　　　 自慢の57㎜砲で3輌のMk.IVのうち2輌を撃破することに成功した
+
+
+
+    　　　　 ｶﾝｶﾝ !
+    .　 　 , -、_ヾ…… … ─ － ‐　ﾊﾞﾊﾞﾊﾞﾊﾞﾊﾞﾊﾞ　Σ　,。-、、　ﾔﾊﾞｲ！
+    　√　＋　 i-ヾ　　　　　　　　　　　　　　　　 　 　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　メフィスト号
+
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,。-、、
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雄型
+    　エルフリーデ号
+    　　　　 ｶﾝｶﾝ !
+    .　 　 , -、_ヾ…… … ─ － ‐　ﾊﾞﾊﾞﾊﾞﾊﾞﾊﾞﾊﾞ　Σ　,。-、、　ｷｶﾅｲ！
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　ニクス号
+
+
+
+
+    　　　　　　ｽﾞﾄﾞﾝ！
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,。-、、　　ｳﾜｰ！
+    　√　＋　 i-　３∴　　　　　　　　　　　　　　　　　※※） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　メフィスト号
+
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,。-、、
+    　√　＋　 i-　3∵　　　　　　　　　　　 　 　 　 　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雄型
+    　エルフリーデ号
+    　　　　　　　ｽﾞﾄﾞﾝ！
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,※ 、、　ﾔﾗﾚﾀｰ！
+    　√　＋　 i-　３∴　　　　　　　　　　　　　　　　　※ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　ニクス号
+
+
+
+
+
+995 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:27:46 ID:kAEw4pG20
+
+
+
+
+
+    ―― しかし、残った雄型がニクス号に3発の直撃弾を与えたことにより形勢は逆転
+    　　　 残った2輌は後退した
+
+
+
+    　　　ﾀｲｷｬｸ ﾀﾞ！
+    .　 　 , -、_Σ　　　　　　　　　　　 　 　 　 　 　 　 ∬,。-、、
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ※※） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　メフィスト号
+
+    乗員五名戦死！
+    脱出する！
+    　＼|
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,。-、、　　　　ﾖｸﾓ ﾅｶﾏ ｦ！
+    　√　＋　※　　　　　　　　　　　　　　　　　　　　 ,,ﾍ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雄型
+    　エルフリーデ号
+
+    ﾆｹﾞﾛｰ！
+    .　 　 , -、_　　　　　　　　　　　　　　　　　　　　　　　,∬ 、、
+    　√　＋　 i-　　　　　　　　　　　　　　　　　　　　 ※ .ﾟ： ） ）｀,ヽ
+    　`゜゜゜゜゜゜´　　　　　　　　　　　　　　　　　　　　　　Mk.IV 雌型
+    　ニクス号
+
+
+
+
+
+996 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:28:08 ID:kAEw4pG20
+
+
+
+
+
+    ―― この後、エルフリーデ号は操縦ミスにより戦闘とは無関係に転覆
+    　　　 連合国に最初に捕獲されたA7Vとして様々なテストをされることになる
+
+
+    　　　　　　　　　　　　　　　　　,, -ｰｰｰｰ-- 、
+    　　　　　　　　　　　　　　, イ　　　　　　　　　｀ヽ､
+    　　　　　　　　　　　　／　　　　　　　　　　　　　　ヽ、
+    　　　　　　　　　　.／　　　　　　　　　　　　　　　 ヽ. ヽ
+    　　　　　　　　　 /　　　　　　 l　　　　 l ､　､　　　 ﾍ　.',
+    　　　　　　　　　ﾊ　ｲ　　　 l　ｌ!　　　　 |　|　| ﾍ　　 }　 ',
+    　　　　　　　　 .|ハ ﾊ　　{ {　.l',_ｨ　 ﾄ､ﾊ ﾊ　}!　!　　.!　 .l
+    　　　　　　　　　　 ',{ヽ　 イ弋ヾヽ　 { ｼ ｀トィ､ |　　 |　 .|
+    　　　　　　　　　　　ヾ丶 ',-仍,ﾘ　　　　 仍ﾘﾄ､}　　 |　　|　　　　　な、なにするんですか！？
+    　　　　　　　　　　 , イﾃl｀ﾄ.弌戌　　　　代戌 ,'　　 ドヾ､!
+    　　　　　　　　　,ィ__-,ｰ}　',　///　,　////// .|　　 |＿__ ＼　　　　　いや～！
+    　　　　　　　　　'"　 ｊ　ｊ　 ヽ　　　　　　　　　ｲ　　　|　　 ',｀'
+    　　　　　　　　　　　/　,'　　 ｌ｀ﾄ ､ ‐=　 ., イ!､|　　　|　　 .ﾊ
+    　　　　　　　　　　./_,,/　　　!''''"´! ｰ "　　　 |　　　.|.　　　ﾍ
+    　　　　　　　　　 // /　　 ,ｲ､　　　　　　　　 .|　　　 ',｀ヽ、 .ﾍ
+    　　　　　　　　 / ,'/　　 ／ ヽ、＼　 ｲ--ｰ　 .', !　　 .',　　',　 ﾍ
+    　　　　　　　 ./ ／　　ｲ　' _ -',　　 '　　　　　 .',l　　　.',　 .|　　ﾍ
+    　　　　　　　/'"　 ／　.',　　-ｰ',　　,　　　　　　ヾ　　　{　 .}　　　',
+    　　　　　　/　　／　　　',　　ィ丿／　　　　　　　',ヽ　　|　,'　ヽ　　',
+    　　　　　./ ｲ /　　　　　}　　 } /　　　　　　　　　　 ',　 } .,'　　ヾ　 .',
+    　　　　 / /.l/　　　　　 /　 .//　　　　　　　　　　　 ',　,' .,'　　 ヾ. 　',
+    　　　　,'　! .!,､:::　　　 /　　/ !　　　　　　　　　　　　 | ,' ,'　　　　',.　 ',
+
+    　　　　　　　　　　　　　　※画像はイメージです
+
+
+
+
+
+997 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:28:23 ID:kAEw4pG20
+
+
+
+
+
+    ―― A7Vの最終的な生産数は20輌余りに過ぎず、戦局に大きな影響を与えることはなかった
+
+
+    　　 　 , -、_　　　　　, -、_　　　　, -、_　　　　 , -、_　　　　 , -、_
+    　-√　＋　 i　 -√　＋　 i　-√　＋　 i　-√　＋　 i　-√　＋　 i
+    　　`゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´
+    　 　 , -、_　　　　　, -、_　　　　, -、_　　　　 , -、_　　　　 , -、_
+    　√　＋　 i　 -√　＋　 i　-√　＋　 i　-√　＋　 i　-√　＋　 i
+    　`゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´
+    　 　 , -、_　　　　　, -、_　　　　, -、_　　　　 , -、_　　　　 , -、_
+    　√　＋　 i　 -√　＋　 i　-√　＋　 i　-√　＋　 i　-√　＋　 i
+    　`゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´
+    　 　 , -、_　　　　　, -、_　　　　, -、_　　　　 , -、_　　　　 , -、_
+    　√　＋　 i　 -√　＋　 i　-√　＋　 i　-√　＋　 i　-√　＋　 i
+    　`゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´　　`゜゜゜゜゜゜´　 `゜゜゜゜゜゜´
+    　 　 , -、_　　　　　, -、_
+    　√　＋　 i　 -√　＋　 i
+    　`゜゜゜゜゜゜´　　`゜゜゜゜゜゜´
+
+
+
+    ―― その多くは、戦闘中に喪失するかスクラップにされた
+
+
+
+
+
+998 ： <span style="color:#009900"><strong>◆WW.IweeeIE</strong></span>：2013/02/01(金) 00:28:33 ID:kAEw4pG20
+
+
+
+
+    ―― 世界初の戦車戦を演じたメフィスト号はオーストラリア軍に捕獲され
+    　　　 唯一の現存車両として、ブリスベンのクイーンズランド博物館に展示されている
+
+
+    　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　_/￣_＿￣ ヽ
+    　　　　　　　　　　　　　　　　　　　 　 　 　 　[| 　 |_＿_|　 |
+    　　　　　　　　　　　　　　　　_ ,,...　-‐　'' "´￣￣￣￣￣￣ ~゛''　‐-　..,,_
+    　　　　　　　_ ,,...　-‐　'' "´　　　　　　　　　 ：：　[　][　]　：：　　　　　　　：：~゛''　‐-　..,,_
+    . 　 　 　 　 〒　 :|：　γ￣ヽ ：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　 ~.i
+    　　二二二(」 　 :|：　 |　O　|.：： [ O ] 　 　 .：：　 　 　 　 ：：　 　 .[ O ]　：：　　　　　：|:　　 i
+    　　　 　 　 i 　　 :|：　 |　 　 |.：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　 ﾍ二≡
+    .　　　　　　i　　　:|：　 |＿＿|.：：　　　　　 　 ：：　 　 　 　 ：：　　　　　　　：：　　　　　：|:　　　i
+    .　 　 　 　 i.　 　 :|：＿＿＿_,,：：。 。 。 。 。：：。 。 。 。 ：：,,＿,, 。 。 。.：：＿＿＿,,：|:＿ 　.i
+    　　　　　　｀/|.　 :|：　　 　 　 ：：　 　 　 i´￣￣｀i　　 　 　 i´ 　 ｀i.　　 　 ：：　　　　　 ：|: |ヽ´
+    　　　 　 　 　 .＼:|：_＿＿＿_：：＿＿＿_二二二_＿_＿_＿_二二_＿_＿_.：：＿＿：：＿／
+    　　　　　　　　　 ヾ ゝ　||　ノ 　 IミI IミI-------IミI IミI-------IミI IミI 　 ゝ　||　ノソ´
+    　　　　　　　　　 　 ＼｀__´ （([三土土三])) (([三土土三])) (([三土土三])) ,｀__´／
+    　　　　　　　　　　　　 ｀　｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀￣｀
+
+
+
+
+
+
+
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm-jp.amazon.co.jp/e/cm?t=oyoguyaruo-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=5512663801&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1<1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;"></iframe>
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/5331/clap" id="fc2button-clap-5331" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-5331").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/6.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/5331/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="やる夫で学ぶ第一次世界大戦　　埋めネタ　ドイツ初の戦車" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-5331.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-6005.html">
+					やる夫で学ぶ歴史スレの作り方 (2013/10/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5998.html">
+					やる夫で学ぶ第一次世界大戦　　最終夜「戦争の終焉と、帝国の崩壊」 (2013/10/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5811.html">
+					やる夫で学ぶ第一次世界大戦　　第三十二夜「休戦」 (2013/07/22)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5409.html">
+					やる夫で学ぶ第一次世界大戦　　第三十一夜「ドイツ暗黒の日」 (2013/03/06)				</a>
+</li>
+<li class="relate_li_nolink">
+				やる夫で学ぶ第一次世界大戦　　埋めネタ　ドイツ初の戦車 (2013/02/01)			</li>
+<li class="relate_li">
+<a href="/blog-entry-5295.html">
+					やる夫で学ぶ第一次世界大戦　　第三十・五夜「チェコ軍団の蜂起」 (2013/01/18)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5239.html">
+					やる夫で学ぶ第一次世界大戦　　第三十夜「第二次マルヌ会戦」 (2012/12/29)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-5116.html">
+					やる夫で学ぶ第一次世界大戦　　第二十九夜「大突破」 (2012/11/04)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4901.html">
+					やる夫で学ぶ第一次世界大戦　　第二十八夜「終わりの始まり」 (2012/08/26)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4785.html">
+					やる夫で学ぶ第一次世界大戦　　第二十七・五夜「グレーナー伝」 (2012/07/24)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4688.html">
+					やる夫で学ぶ第一次世界大戦　これまでのあらすじ (2012/06/30)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4312.html">
+					やる夫で学ぶ第一次世界大戦　　第二十七夜「ブレスト･リトフスク条約」 (2012/04/02)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4271.html">
+					やる夫で学ぶ第一次世界大戦　　第二十六夜「アメリカ参戦」 (2012/03/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4057.html">
+					やる夫で学ぶ第一次世界大戦　　第二十五夜「カンブレーの戦い～出撃！陸上大艦隊！～」 (2012/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3975.html">
+					やる夫で学ぶ第一次世界大戦　　第二十四夜「第三次イープル戦」 (2011/12/25)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="やる夫で学ぶ第一次世界大戦　　埋めネタ　ドイツ初の戦車" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2013/02/01 04:59 ]
+<a href="/blog-category-98.html" title="カテゴリを参照">歴史系（世界史）　やる夫で学ぶ第一次世界大戦</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html#comment_list" title="この記事のコメントを参照">CM(16)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/5331"
+    dc:title="やる夫で学ぶ第一次世界大戦　　埋めネタ　ドイツ初の戦車"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html"
+    dc:subject="歴史系（世界史）　やる夫で学ぶ第一次世界大戦"
+    dc:description="―― A7Vはドイツ初の戦車である　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＿　　　　　　　　　　　　　　　　　　　　　　　　　_/￣_＿￣ ヽ　　　　　　　　　　　　　　　　　　　 　 　 　 　[| 　 |_＿_|　 |　　　　　　　　　　　　　　　　_ ,,...　&#45;‐　'' "´￣￣￣￣￣￣ ~゛''　‐&#45;　..,,_　　　　　　　_ ,,...　&#45;‐　'' "´　　　　　　　　　 ：：　[　][　]　：：　　　　　　　：：~゛''　‐&#45;　..,,_. ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2013-02-01T04:59:44+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5330.html" title="輸送戦艦スペース・デブリ　ＦＩＬＥ　０－２８　 砂上の楼閣">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5329.html" title="やる夫で学ぶ鉄道模型　第１３話　やる夫が挑む塗装ディティールアップ">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment51826">[ 51826 ] <strong>　</strong></p>
+</div>
+<div class="comb">
+　よしよし、連合国の一員としてお兄ちゃんもいろいろとテストしちゃうぞ!
+八十九式戦車作っちゃうぞ(意味深)<div class="comment_navi">
+[ 2013/02/01 05:50 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51828">[ 51828 ] <strong></strong></p>
+</div>
+<div class="comb">
+お兄ちゃん！　本当に好きなのは私、ルノーたんでしょ！！<div class="comment_navi">
+[ 2013/02/01 06:06 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51838">[ 51838 ] <strong></strong></p>
+</div>
+<div class="comb">
+一台一台に名前ついてるあたり、ほんとに陸上軍艦って扱いなんだよな<div class="comment_navi">
+[ 2013/02/01 11:05 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51840">[ 51840 ] <strong></strong></p>
+</div>
+<div class="comb">
+A7Vのワンサイド・ゲームかなと思ったけど、
+Mk.IV 雌型もなかなかやるなあ。
+ 
+英独 初の戦車戦も、良い勝負だな。
+ 
+A7Vの２０両には、全部 名前がついていたのかな？<div class="comment_navi">
+[ 2013/02/01 11:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=51840" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51842">[ 51842 ] <strong></strong></p>
+</div>
+<div class="comb">
+※51840
+もしやと思ってWikiを見てみたら、殆どの車両に名前があった模様。<div class="comment_navi">
+[ 2013/02/01 12:08 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51844">[ 51844 ] <strong></strong></p>
+</div>
+<div class="comb">
+※51840
+アメリカのＢ2爆撃機もそうだよね。<div class="comment_navi">
+[ 2013/02/01 13:21 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51853">[ 51853 ] <strong></strong></p>
+</div>
+<div class="comb">
+※51842
+よーし、じゃあT-34にもそれぞれ名前をつけようぜ！<div class="comment_navi">
+[ 2013/02/01 18:00 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51859">[ 51859 ] <strong></strong></p>
+</div>
+<div class="comb">
+この頃の兵器は、生物のカンブリア爆発みたいで
+妙にかっこよく感じるよな。
+ 
+ 
+※51853
+ 
+実際の社会と同じで名前がダブる車体が絶対発生するｗ <div class="comment_navi">
+[ 2013/02/01 18:58 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=51859" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51869">[ 51869 ] <strong></strong></p>
+</div>
+<div class="comb">
+なんかドイツ国内に残ってた車両はベルリン攻防戦で使われたらしいな。
+皮肉にも鹵獲菱形と一緒に
+<div class="comment_navi">
+[ 2013/02/01 20:30 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=51869" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51924">[ 51924 ] <strong></strong></p>
+</div>
+<div class="comb">
+※51869
+そんなポンコツ使うより、いっそ解体して機銃と砲をトーチカやバリケードに回したほうがマシだったんじゃなかろうか……<div class="comment_navi">
+[ 2013/02/03 02:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51925">[ 51925 ] <strong></strong></p>
+</div>
+<div class="comb">
+機動対戦車砲なんだよ、だよ･･･
+ヘッツアー先生の方がまだマシだな<div class="comment_navi">
+[ 2013/02/03 03:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">鬼女速名無しさん</a>') } else {
+document.write("鬼女速名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">鬼女速名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51934">[ 51934 ] <strong></strong></p>
+</div>
+<div class="comb">
+ポンコツ使ってる兵士はたまったもんじゃなかったろうな
+容赦ない敵の攻撃の前に大勢無駄死にしていたろう
+ 
+敵もポンコツを使用していたおかげで難を逃れることもあったろう<div class="comment_navi">
+[ 2013/02/03 12:04 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51937">[ 51937 ] <strong></strong></p>
+</div>
+<div class="comb">
+※51859 
+そこは漁船方式（第○○××丸）で<div class="comment_navi">
+[ 2013/02/03 13:45 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment51941">[ 51941 ] <strong></strong></p>
+</div>
+<div class="comb">
+戸籍レベルの管理が必要だな＞T34
+しかもよっぽど出入りが激しいｗ<div class="comment_navi">
+[ 2013/02/03 16:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment52001">[ 52001 ] <strong></strong></p>
+</div>
+<div class="comb">
+コンピュータの無い時代にはえらく人手がかかりそう<div class="comment_navi">
+[ 2013/02/04 06:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment59566">[ 59566 ] <strong></strong></p>
+</div>
+<div class="comb">
+最初の戦車戦を行った車両が唯一の現存車両って何かいいな
+戦場マンガのネタになってそうｗ<div class="comment_navi">
+[ 2013/07/23 01:01 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=5331" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-5331.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="5331"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/5331-1b1d4e2b">http://oyoguyaruo.blog72.fc2.com/tb.php/5331-1b1d4e2b</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5330.html" title="輸送戦艦スペース・デブリ　ＦＩＬＥ　０－２８　 砂上の楼閣">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-5329.html" title="やる夫で学ぶ鉄道模型　第１３話　やる夫が挑む塗装ディティールアップ">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>

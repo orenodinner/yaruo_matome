@@ -1,0 +1,509 @@
+<div class="article">
+
+
+
+
+
+　　　　　　　 　　　＿＿＿_
+　　　　　　 　　 ／⌒　　⌒＼
+　　　　　　 　／（ ●） 　（●）＼　　　　　　　ｒっ
+　　　　　　／::::::⌒（__人__）⌒::::: ＼　　　　／　＾ﾞ''_つ
+　　　　　　|　　　　　|r┬-|　　　　　|　　 ／ﾟ｡ /￣
+　　　　　　.＼ 　　 　 `ー'´ 　 　 ／''"´､ 　 /
+　　　　 ／uﾟ　｀ー ----一-一''´u ｡　ﾟ　　/　　　　　　　　　　いやー蒸し暑くなってきましたねー！
+　　　／ ｡ ﾟ｡ ｒ　uﾟ　　ﾟ｡ ｕ　 ﾟ　 ｲ＿,,ｒ-''"
+　　 (　ﾟ｡ ｀ヽ､_,ｒ-っ　､　　　・　/´
+　　　ヽ､ ＿＿,､＿,ﾆつ　｀ﾞ ''''" i
+　　　　　　 ﾉ 　｡ ﾟ　ｕ　　ﾟ ｡ uﾟ　ヽ
+　　　　 ＿ﾄ-───────-ｲ＿
+　　／´　　｀ｰ-､＿_　　 ＿_,ｒ- '"u ﾟ ｀ヽ
+　 ( 　ﾉ ﾟ　u ､＿　　|￣´|　　　＿,,　 ヽ　)
+　　ヽ､＿＿＿__ ￣｀ｔ-ｒ'´￣＿＿ﾟ_u__,ノ
+　　　　　　　　　 )_／　＼_(
+　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　 *'``・* 。
+　　　　　　　　　　　　　　　　　　★　　　　 `*。
+　　　　　　　　　　　 　 　 　 　 　 |　　　　　　 *
+　　 　 　　　　＿＿＿_　　　　　　|　　　　　　 *
+　　 　　　　／⌒　　⌒＼　　　　 |　　　　　 　+ﾟ
+　　　　　／（ ●） 　（●）＼　　　|　　　　　　ﾟ*
+　　　 ／::::::⌒（__人__）⌒::::: ＼/⌒）　　　　 +ﾟ　　　　　　というわけで泳ぐやる夫シアターも夏仕様にチェンジです！
+　　　 |　　　　　|r┬-|　　　　　|　ﾉ　　　｡*ﾟ
+　　_＿＼ 　　 　 `ー'´ 　 　 ／/　｡*・ ﾟ
+（⌒　　 　 　 　　　　　　　 |｡*・ ﾟ
+　""''',｡ヽ_　　　　　　　｡*・ ﾟ
+　 　+　　│　　｡*・ ﾟ　　　 | * 。
+　　 `・+｡｡*・ ﾟ　　　　　　　| 　 `*。
+　　　　　 i　　　　　￣＼ ./　　　 *
+　　　　　　＼＿　　　 　|/　　　　*
+　　　　　　 _ノ　＼＿＿_）　~ ｡*ﾟ
+　　　　　　（　　　 _／　　 ☆
+　　　　　　 |＿ノ''
+　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　,.、,､,..,､､.,､,､､..,_　　　　　 　／i
+　　　;'｀;、､:、. .:、:,　:,.: ::｀ﾞ:.:ﾞ:｀''':,'.´ -‐i
+　　　'､;: ...: ,:. :.､.∩.. .:: _;.;;.∩‐'ﾞ ￣ ￣　　　　　　　　　　　　　　　　　　　　　　　　　　　　見にくいんだよぉぉぉおおお！！！
+　　　　｀"ﾞ' ''`ﾞ //ﾞ｀´´　　 | |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+　　　　　　　　//Λ＿Λ　 | |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/＼＿＿_／ヽ
+　　　　　　　　| |（　´Д｀）// ＜元にもどさねーと、エビフライぶつけんぞ！　　 　　　　 ／ﾉヽ　　　　　　ヽ、
+　　　　　　　　＼　　　 　 |　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　/　⌒''ヽ,,,)ii(,,,ｒ'''''' :::ﾍ
+　　　　　　　　　 |　　　／　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　 | ﾝ（○）,ﾝ　<､（○）<::|　　|｀ヽ､
+　　　　　　　　　/ 　　/　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　|　 ｀⌒,,ﾉ(､_, )ヽ⌒´ ::l　　|::::ヽl
+　　　　 ＿＿　 |　　　|　　＿_　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 .　　　ヽ　ヽ iｌ´ﾄｪｪｪｲ｀ｌi　ｒ ;/　 .|:::::ｉ |
+　　　　 ＼　 ￣￣￣￣￣　　 ＼　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　／ヽ　 !ｌ |,ｒ-ｒ-| ｌ! 　 /ヽ　 |:::::ｌ |
+　　　　　||＼　　　　　　　　　　　 ＼　　　　　　　　　　　　　　 　　　　　　　　　　　 　　/　　|^|ヽ､ ｀ﾆﾆ´一／|^|｀,ｒ-|:「￣
+　　　　　||＼||￣￣￣￣￣￣￣||　　　　　　　　　　　　　　　　　　　　　　　　　　　　 /　　 | .|　　 　 　 　 　 | .|　,Ｕ(ﾆ ､)ヽ
+　　　　　||　 ||￣￣￣￣￣￣￣||　　　　　　　　　　　　　　　　　　　　　　　　　　　　/　 　 | .|　　 　 　 　 　 | .|人(_(ﾆ､ﾉﾉ
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ノ⌒)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／（　 ／　ノ⌒)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　　　　 ／　/ / 　 （　,／
+　　　　　　　　　　　　　　　　　　　　　　　　　 ＿＿＿＿　/⌒⌒｀ヽ / ./　　/ /
+　　　　　　　　　　　　　　　　　　　　　　　　／　　 　 　　＼　　　　_　＼ 　 / /
+　　　　　　　　　　　　　　　　　　　　　　 ／　 _ノ 　ヽ､_　　＼　　 / ＼　ヽ'　/
+　　　　　　　　　　　　　　　　　　　　　／ 　oﾟ⌒　　　⌒ﾟo　 ＼／＼__.＼__ノ
+　　　　　　　　　　　　　　　　　　　　　|　　　　 （__人__）　　　　|
+　　　　　　　　　　　　　　　　　　　　　＼　　 　 ｀ ⌒´ 　 　 ／　　　　え～そんなー
+　　　　　　　　　　　　　　　　　　　　　 　／／￣￣￣ / /
+　　　　　　　　　　　　　　　　　　　　. ／／ 　 　 　 　 / /
+　　　　　　　　　　　　　　　　　　　　（_/ 　 　　 　 　 / /
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 （_/
+　　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+　　　　　　　　 ＿＿＿_
+　　　　　　　／　　 　 　＼　　　　　　　というわけでしばらくはこれで行きます
+　　　　 　／　─　 　 ─　＼　　　　　　まあ、ご不満ある方もいるでしょうが
+　　　　／ 　 （●） 　（●）　 ＼　　　　 見にくい所なんかはチョコチョコ手直ししたりするんで
+　　　　|　 　 　 （__人__）　 　　 |　　　　どうかご理解ください
+　　　　 ＼　 　　｀ ⌒´ 　　 ,／
+　　 　 /⌒ヽ　 　ー‐ 　 　ｨヽ
+　 　　/ 　　　 　,⊆ニ_ヽ、　 |
+　　　/　 　 ／　r─--⊃、 　|
+　　　|　ヽ,.ｲ　　 ｀二ﾆﾆうヽ.　|
+　　　　　　　　泳ぐ管理人
+
+
+
+
+
+　　　　　　　　　で、なんでまた急にレイアウト変えたんだ？
+　　　　＿＿
+　　 ／　　　＼
+　／　　 _ノ　　＼
+　|　　　 （ ●）（●）　　　　　　　　　ｷﾘｯ　＿＿＿_
+.　|　　　　 （__人__）　　　　　　　　　　　／＼ 　 ／ ＼
+　 |　　　　　｀ ⌒´ﾉ　　　　　　　　　 ／（ー）　 （ー）　＼
+.　 |　　　　　　 　 }　　　　　　　　 ／　⌒（__人__）⌒　　 ＼　　　飽きたから！
+.　 ヽ　　　　　 　 }　　 　 ＼ 　 　 |　　　　|r┬-|　　　　　　|
+　　 ヽ　　　　　ノ　　　　 　 ＼　　＼　　　`ー'´　　　　 _／
+　　　/　　　 く.　＼ 　 　 　 　 ＼　 ノ　　　　　　　　　　＼
+　　　|　　　　 ＼ 　＼　　　　(⌒二　　　　　 　 　 　 　 　 |
+　 　 |　　　　|ヽ、二⌒)、　 　 　 　 ＼　　　　　　　　｜　 |
+　　　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　　　 ,.-‐　､　　　　　　　／￣￣＼
+　　　　　　　　　　　　　　　　　　　　　　　　/　　　 ＼　　　　／　ノ" ＼　＼　　　てめ―――――――！！
+　　　　　　　　　　　　　　　　　　　　　　　 /　　　　　 `ﾍ､_　|　（○）（○）　 |
+.　　　　　　　　　　　　　　　　　　　　　　 /　　　　ﾄ、　　　` |　（＿人＿）　 |
+　　　　　　　　　　　　　　　　　　　　　　/　　　　 i　＼　　　 |　 {i　　　j},　　}
+　　　　　　　　　　　　　　　　　　　　　 /　　　　　|　　 ゝ,　　ゝ　｀'⌒´　　　ト-― ､
+　　　　　　　　　　　　　　　　　　　　 ./　　　　　 {　 ／　　　　"　　　　　 ,ノ 　　　 ＼
+　　　　　　　　　　　　　　　　　　　r ､,.-､,/'ヽ 　_ｊ／　　　　　　　　　　　　　 ｒ　 　　　ヽ、
+　　　,. -､　　　　　　　　　　　 r‐f⌒i:|　 |:}　 〉,.ﾍ　）　　　　　　　　　　　　／ ソ ,ﾉ''"Y~ ﾄ-､
+　　/　　　 ､　　　　　　　　　 く, `!　 {::',　i:{. /（ y'´　　　　　　　　　　　／ , -ィ￣Lノ( _/、 }
+　 {　　　　　i　　　　　　　　　／ vﾉ`tﾉ　ｰ' :`´　´ ＼　　　　　　　　／　　`ー"~ t.___　　 (,,人_
+　ﾉ　　　　　j　　　　　　　 ／　　　　　　　　　　;　　　＼　　　　　／　 r ― ､　　　　　`ｰ-'ｰt_,i
+　{;;;;　　　　{　　　　　　／　　　　　　,,,／⌒"∪＼,,,　　 ヾ､,　イ　　　 |r　-.,i　　,. ヘ,
+　`ｰi　　　 ヽ　　　 ／　　　　　／´　 ｀ヽ　　　/´　 ｀ヽ　 ＼`丶､,r ､ ﾊ`＿ﾉ ／ｨ　　 i　　　　　　　　　いやだってさあ！
+／⌒ヽ､　,.　 ヽ　 /　　　　　　（　　 ○　liii||||iil　 ○　　）　　＼､　): ｿ　　　`"./　　 ,.ﾉ-､　　　　　　　 たまにこういうことやんないと
+i　　　　i ',　　　＼|　　　　　　　ヽ_　 　_彡　　 ヾ _　　_ノ　 ;　　 | /,.ﾉ　ー -　 { く` /v　 ,〉　　　　　　 サイトエタりたくなるんだもん！
+　　　　.|: ゝ　　　 |　　　　;　 ''"⌒'（　　　　i　　　　）'⌒"' ∪　r-‐"　　､＿ _　`ｰ　',ﾉ　 ,ﾊ　　　　　　　気分転換って大事だよね！
+－⌒ ＼´￣｀）ｰ '､　　　∪　　　　　｀┬─'＾ー┬'　　　　　　 .r､.ヽ　　　　　　`,　 （く.Y´　〉
+ヽ　ー´ ー ´＿_ 人　　　　　　　　　　 |!il|!|!l!l!il|!|　　　　　　　 ／,.ﾉ,　　　　　　　　 ,`ｰ' ／
+　　　　　　　　　　　　　　　　　　　　　泳ぐ管理人
+
+
+
+
+
+
+　　　　　　　　　　　　　　　　　　　　　　ご意見、ご不満は「このブログについて」まで、よろしくお願いします
+
+
+
+
+
+
+
+
+
+
+<div class="fc2_footer" style="text-align:left;vertical-align:middle;height:auto;">
+<div class="fc2button-clap" data-clap-url="//blogvote.fc2.com/pickup/oyoguyaruo/2239/clap" id="fc2button-clap-2239" style="vertical-align:top;border:none;display:inline;margin-right:2px;">
+<script type="text/javascript">
+(function(d) {
+var img = new Image();
+d.getElementById("fc2button-clap-2239").appendChild(img);
+img.src = '//static.fc2.com/image/clap/number/white/23.gif';
+(function(s) { s.cursor = 'pointer'; s.border = 0; s.verticalAlign = 'top'; s.margin = '0'; s.padding = '0'; })(img.style);
+var clap = function() { window.open('//blogvote.fc2.com/pickup/oyoguyaruo/2239/clap')};
+if (img.addEventListener) { img.addEventListener('click', clap, false); } else if (img.attachEvent) { img.attachEvent('onclick', clap); }
+})(document);
+</script>
+</div>
+<div class="fc2button-twitter" style="vertical-align:top;border:none;margin-right:2px;display:inline-block;*display:inline;">
+<a class="twitter-share-button" data-lang="ja" data-size="large" data-text="管理人よりのお知らせ" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html" href="https://twitter.com/share">Tweet</a>
+<script charset="utf-8" src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div><div class="fc2button-facebook" style="vertical-align:top;border:none;display:inline-block;*display:inline;*margin-right:5px;">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="21" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Foyoguyaruo.blog72.fc2.com%2Fblog-entry-2239.html&amp;layout=button_count&amp;width=180&amp;share=1&amp;action=like&amp;height=21&amp;locale=ja_JP&amp;appId=" style="border:none; overflow:hidden;" width="180"></iframe>
+</div>
+<div class="fc2button-line" style="vertical-align:top;border:none;margin-right:1em;display:none;">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html" style="display: none;"></div>
+<script async="async" defer="defer" src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js"></script>
+</div>
+</div>
+<dl class="relate_dl fc2relate_entry_thumbnail_off">
+<dt class="relate_dt">関連記事
+<dd class="relate_dd">
+<ul class="relate_ul">
+<li class="relate_li">
+<a href="/blog-entry-5258.html">
+					新年のご挨拶　水銀燈が『やるおクエスト』をやるようです (2013/01/06)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-4604.html">
+					おかげさまで泳ぐやる夫シアターは３周年を迎えました (2012/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3801.html">
+					ヒデが平塚のピッチに帰ってきたぞおおおおおおお！！！ (2011/10/27)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3704.html">
+					【宣伝】　「やる夫がドラゴンクエストの開発者になるようです」の動画ができました (2011/09/20)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-3423.html">
+					おかげさまで泳ぐやる夫シアターは二周年を迎えました (2011/06/08)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2989.html">
+					なんかスマートフォンでもやる夫スレ見られるようになったらしいよ(追記：ご報告ありがとうございました） (2011/01/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-2535.html">
+					管理人よりの御礼 (2010/09/11)				</a>
+</li>
+<li class="relate_li_nolink">
+				管理人よりのお知らせ (2010/06/27)			</li>
+<li class="relate_li">
+<a href="/blog-entry-1277.html">
+					一周年特別企画　　「やる夫で学べないやる夫まとめブログの作り方　改訂版」 (2010/06/07)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-1262.html">
+					管理人よりの御礼＆年末年始のお知らせ (2010/01/05)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-535.html">
+					１０万HIT達成！！ (2009/08/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-470.html">
+					ありがとうございました！！ (2009/08/11)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-361.html">
+					管理人よりのお知らせ２ (2009/07/23)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-314.html">
+					ありがとうございます！！ (2009/07/15)				</a>
+</li>
+<li class="relate_li">
+<a href="/blog-entry-192.html">
+					お知らせ (2009/06/25)				</a>
+</li>
+</ul>
+
+</dl>
+<div class="textar-aa">
+<a class="hatena-bookmark-button" data-hatena-bookmark-layout="vertical" data-hatena-bookmark-title="管理人よりのお知らせ" href="http://b.hatena.ne.jp/entry/http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html" title="このエントリーをはてなブックマークに追加"><img alt="このエントリーをはてなブックマークに追加" height="20" src="http://b.st-hatena.com/images/entry-button/button-only.gif" style="border: none;" width="20"/></a><script async="async" charset="utf-8" src="http://b.st-hatena.com/js/bookmark_button.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script charset="euc-jp" type="text/javascript">
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='oyoguyaruo-22';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title='Amazon で売っているゲームのニューリリース';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='JP';
+</script>
+<script charset="euc-jp" src="http://wms.assoc-amazon.jp/20070822/JP/js/swfobject_1_5.js" type="text/javascript">
+</script>
+
+
+<div class="bottom_navi">
+[ 2010/06/27 03:24 ]
+<a href="/blog-category-162.html" title="カテゴリを参照">雑記</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html#trackback" title="この記事のトラックバックを参照">TB(0)</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html#comment_list" title="この記事のコメントを参照">CM(8)</a>
+
+</br></div><!--/bottom_navi-->
+</br></br></br></br></div><!--/article-->
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html"
+    trackback:ping="http://oyoguyaruo.blog72.fc2.com/tb.php/2239"
+    dc:title="管理人よりのお知らせ"
+    dc:identifier="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html"
+    dc:subject="雑記"
+    dc:description="　　　　　　　 　　　＿＿＿_　　　　　　 　　 ／⌒　　⌒＼　　　　　　 　／（ ●） 　（●）＼　　　　　　　ｒっ　　　　　　／::::::⌒（__人__）⌒::::: ＼　　　　／　＾ﾞ''_つ　　　　　　|　　　　　|r┬&#45;|　　　　　|　　 ／ﾟ｡ /￣　　　　　　.＼ 　　 　 `ー'´ 　 　 ／''"´､ 　 /　　　　 ／uﾟ　｀ー &#45;&#45;&#45;&#45;一&#45;一''´u ｡　ﾟ　　/　　　　　　　　　　いやー蒸し暑くなってきましたねー！　　　／ ｡ ﾟ｡ ｒ　uﾟ　　ﾟ｡ ｕ　 ﾟ　 ..."
+    dc:creator="泳ぐ管理人"
+    dc:date="2010-06-27T03:24:58+09:00" />
+</rdf:RDF>
+--><!--▲ エントリー（記事）▲-->
+<!--▼コメント表示▼-->
+<!--▼ページナビゲーション(個別記事)▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2235.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６３">≪ 前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2224.html" title="やる夫で学ぶダーツ入門　　おまけ">次ページ ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション(個別記事)▲-->
+<a id="comment_list" name="comment_list"></a>
+
+<div class="article">
+<div class="comt">
+<p id="comment5722">[ 5722 ] <strong></strong></p>
+</div>
+<div class="comb">
+すっかり夏気分で気持ちよく鬱です
+お疲れ様！海行きたくなった……<div class="comment_navi">
+[ 2010/06/27 05:18 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=5722" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5725">[ 5725 ] <strong></strong></p>
+</div>
+<div class="comb">
+夏らしくって色も優しくっていいと思うよ
+色変えるだけならサイトの使い勝手変わるわけでもなし気分でガンガン代えちゃっていいと思う<div class="comment_navi">
+[ 2010/06/27 07:48 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">名無しのお兄ちゃん</a>') } else {
+document.write("名無しのお兄ちゃん"); }
+</script>
+<noscript>
+<a href="" target="_blank">名無しのお兄ちゃん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=5725" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5726">[ 5726 ] <strong></strong></p>
+</div>
+<div class="comb">
+サワヤカサマーソルト｡以前よりも見た目爽やかでいいと思いますよー。いつも更新を楽しみにしています。夏バテせんようにお気をつけを。<div class="comment_navi">
+[ 2010/06/27 08:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無し</a>') } else {
+document.write("泳ぐ名無し"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無し</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?mode=edit&amp;rno=5726" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5729">[ 5729 ] <strong></strong></p>
+</div>
+<div class="comb">
+爽やかに良い感じかと。<div class="comment_navi">
+[ 2010/06/27 10:55 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2239" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5735">[ 5735 ] <strong></strong></p>
+</div>
+<div class="comb">
+毎月色を変える
+変更した色の構成が虹色
+後はわかるな？
+ｱｰｯ
+ですね わかりま(ry<div class="comment_navi">
+[ 2010/06/27 12:32 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2239" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5747">[ 5747 ] <strong></strong></p>
+</div>
+<div class="comb">
+見やすくてよい感じですぞ<div class="comment_navi">
+[ 2010/06/27 20:14 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2239" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5749">[ 5749 ] <strong></strong></p>
+</div>
+<div class="comb">
+涼しげでｲｲ(・∀・)
+<div class="comment_navi">
+[ 2010/06/27 20:43 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2239" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><div class="comt">
+<p id="comment5750">[ 5750 ] <strong></strong></p>
+</div>
+<div class="comb">
+爽やかで(・∀・)ｲｲ!　　<div class="comment_navi">
+[ 2010/06/27 21:37 ] 
+<script charset="euc-jp" type="text/javascript">
+a="";
+if (a!="") { document.write('<a href="'+a+'" target="_blank">泳ぐ名無しさん</a>') } else {
+document.write("泳ぐ名無しさん"); }
+</script>
+<noscript>
+<a href="" target="_blank">泳ぐ名無しさん</a>
+</noscript>
+[ <a href="http://oyoguyaruo.blog72.fc2.com/?no=2239" title="コメントを編集する">編集</a> ] 
+</div><!--/comment_navi-->
+</div><!-- /comb --><!--▲コメント表示▲-->
+<!--▼コメント投稿▼-->
+<p><strong>コメントの投稿</strong></p>
+<form action="http://oyoguyaruo.blog72.fc2.com/blog-entry-2239.html" method="post" name="comment_form">
+<input name="mode" type="hidden" value="regist"/>
+<input name="comment[no]" type="hidden" value="2239"/>
+<label for="subject">題名:</label>
+
+<input id="subject" name="comment[title]" size="40" type="text"/>
+
+<label for="name">名前:</label>
+
+<input id="name" name="comment[name]" size="40" type="text" value=""/>
+
+<label for="mail">サイト名:</label>
+
+<script charset="euc-jp" language="JavaScript"><!-- 
+document.write('<input id="mail" type="text" name="comment[mail]" size="40" value="'+myGetCookie("web_name")+'" /><br />'); 
+// --></script>
+<label for="url">URL:</label>
+
+<input id="url" name="comment[url]" size="40" type="text" value=""/>
+
+<label for="comment">COMMENT:</label>
+
+<script src="https://static.fc2.com/js/blog/view/comment/comment_toolbar_ja.min.js?2017040501" type="text/javascript"></script>
+
+<textarea cols="50" id="comment" name="comment[body]" rows="8"></textarea>
+
+<label for="pass">PASS:</label>
+
+<input id="pass" name="comment[pass]" size="20" type="password"/>
+
+<label for="himitu">SECRET:</label>
+
+<input id="himitu" name="comment[himitu]" type="checkbox" value="管理者にだけ表示を許可する"/>管理者にだけ表示を許可する
+<p><input onclick="mySetCookie('web_name',document.comment_form.mail.value,'365')" type="submit" value="送信"/></p>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></form>
+</div><!--/article-->
+<!--▲コメント投稿▲-->
+<!--▼コメント編集▼-->
+<!--▲コメント投稿▲-->
+<!-- X:S ZenBackWidget --><div id="zenback-widget-loader"></div><script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var r=Math.ceil((new Date()*1)*Math.random());var j=d.createElement("script");j.id=i;j.async=true;j.src="//w.zenback.jp/v1/?base_uri=http%3A//oyoguyaruo.blog72.fc2.com/&nsid=96604759674363603%3A%3A96604768264278483&rand="+r;d.body.appendChild(j);}}(document,"zenback-widget-js");</script><!-- X:E ZenBackWidget -->
+<!--▼トラックバック表示▼-->
+<div class="article">
+<p><a id="trackback" name="trackback">トラックバック</a></p>
+<p>この記事のトラックバックURL
+
+<a href="http://oyoguyaruo.blog72.fc2.com/tb.php/2239-b9e92ebc">http://oyoguyaruo.blog72.fc2.com/tb.php/2239-b9e92ebc</a>
+</br></p>
+
+</br></div><!--/article-->
+<!--▲トラックバック表示▲-->
+<!--▼全記事一覧▼-->
+<!--▲全記事一覧▲-->
+<!--▼ページナビゲーション▼-->
+<p class="page_navi">
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2235.html" title="やる夫とやらない夫が「やる夫スレ」の登場人物を紹介するようです　 　その１６３">≪前ページ</a> | <a href="http://oyoguyaruo.blog72.fc2.com/" title="泳ぐやる夫シアター">HOME</a> | 
+<a href="http://oyoguyaruo.blog72.fc2.com/blog-entry-2224.html" title="やる夫で学ぶダーツ入門　　おまけ">次ページ≫</a></p><!--page_navi-->
+<!--▲ページナビゲーション▲-->
+</br></div>
